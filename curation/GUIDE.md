@@ -104,6 +104,8 @@ they are used today. Wiktionary lists meanings in editing order, not by frequenc
 - Drop a sense only when it is not a meaning: a Sino-Vietnamese reading ("Sino-Vietnamese
   reading of 矮"), a bare cross-reference with nothing to say, or a parsing accident. Rare,
   archaic, regional and offensive meanings are meanings: keep them and tag them.
+- When no sense of a headword is a meaning (it is a placeholder, not a word), drop them all:
+  `"senses": []` with every position in `dropped`. Viera then hides the headword.
 - A sense you cannot verify is not dropped either: keep Wiktionary's meaning in its words,
   tag it `rare`, write a short plain example, and say in `notes` that it is unverified.
 
@@ -148,7 +150,9 @@ unless the sense itself is literary or archaic and the quotation is short.
 - Short: usually 5 to 12 words. Go a little longer when the meaning needs context to come
   through, up to about 15. Never longer than 20 (the checker refuses it).
 - It must use the headword in this exact sense, written exactly as the headword (the checker
-  looks for it). Choose a sentence where only this meaning makes sense.
+  looks for it). For a pattern headword such as `chỉ ... thôi`, fill the gap with words of
+  your own; the checker looks for each part in order. Choose a sentence where only this
+  meaning makes sense.
 - Use simpler words than the headword around it where you can, so a learner can follow.
 - Everyday subjects: family, food, work, school, travel, weather, feelings, town life. Vary
   them across an entry. No real people, no politics, nothing violent or sexual unless the

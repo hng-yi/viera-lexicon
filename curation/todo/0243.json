@@ -1,0 +1,1396 @@
+{
+ "batch": "0243",
+ "entries": [
+  {
+   "headword": "cáo mượn oai hùm",
+   "base": "60e2bea10649bc6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to use powerful connections to intimidate people"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cáp treo",
+   "base": "e4b1f060315a0ef3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aerial tram; cable car"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát cánh",
+   "base": "7e62059e618fbb94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese bellflower, balloon flower (Platycodon grandiflorus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát dầu",
+   "base": "1e5cbdf066bcb9e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "oil sand"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát hung",
+   "base": "e60a9ae042f43306",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "propitious or ill-omened"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bao Tích Nhược ngồi trong phòng, tim đập thình thịch, không biết cát hung ra sao.",
+     "en": "Bāo Xīruò sat in the room, her heart pounding, not knowing whether what just happened was for good or for bad."
+    }
+   ]
+  },
+  {
+   "headword": "cát kết",
+   "base": "657f157539791e7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sandstone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát tuyến",
+   "base": "2f07df06da3a115f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "secant, secant line"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát tặc",
+   "base": "e18a584f2ee7fac4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "illegal sand miner, usually using suction pumps."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nỗi ám ảnh mất đất do mưa lũ gây ra đối với của người nông dân ở đây chưa được nguôi ngoai, thì họ lại phải đối mặt với nỗi lo mất đất canh tác do cát tặc hoành hoành^([sic – meaning hành]) suốt ngày đêm.",
+     "en": "The fear of losing land due to floods and storms has not yet subsided for farmers here, but they now have to face the fear of losing their farmland due to illegal sand miners who are rampant day and night."
+    },
+    {
+     "sense": 1,
+     "vi": "Lúc 15h30' ngày 16/3, hàng chục người dân làng chài lưới thôn Phú Tân, thuộc xã Tam Xuân 1, huyện Núi Thành, tỉnh Quảng Nam đã cầm dao, rựa, gậy gộc bơi thuyền ra ngăn chặn không cho hai chiếc ghe hút của một \"cát tặc\" ở xã Tam Phú, TP Tam Kỳ chạy qua hút \"trộm\" tại ngã ba sông này nhằm để giữ đất.",
+     "en": "At 3:30 p.m. on March 16, dozens of fishermen from Phú Tân hamlet, Tam Xuân 1 commune, Núi Thành district, Quảng Nam province, armed with knives, machetes, and sticks, rowed their boats out to block two sand-suction boats belonging to an illegal sand miner from Tam Phú commune, Tam Kỳ city, from illegally dredging sand at this river junction – to protect their land."
+    },
+    {
+     "sense": 1,
+     "vi": "Cát tặc là người địa phương, thuyền hút cát, bến bãi cũng ở địa phương, bãi sạt lở cũng của địa phương. Vậy mà, chính quyền địa phương không xử lý được cát tặc?",
+     "en": "Illegal sand miners are local people, sand suction boats, docks, and landslide sites are also local. Yet, the local government cannot handle the illegal sand miners?"
+    },
+    {
+     "sense": 1,
+     "vi": "Sau hàng loạt sai sót liên quan đến việc khởi tố, bắt giam oan người phụ nữ chống \"cát tặc\", 2 cán bộ Công an huyện Nhơn Trạch (Đồng Nai) bị tạm đình chỉ công tác.",
+     "en": "After a series of mistakes related to the prosecution and wrongful arrest of a woman fighting against illegal sand miners, two police officers of Nhơn Trạch district (Đồng Nai) were temporarily suspended from work."
+    },
+    {
+     "sense": 1,
+     "vi": "Nhóm phóng viên lần theo câu chuyện của A-ka-xơ Châu-han (Akaash Chauhan), người thanh niên dũng cảm đang đấu tranh để đòi lại công lý cho cha mình, ông Pan-lê-ram Châu-han (Paleram Chauhan), đã bị bắn chết khi cố gắng bảo vệ mảnh đất quê nhà ở Rai-pua Kha-da (Raipur Khadar), một ngôi làng cách thủ đô Niu Đê-li khoảng 100km, bởi những tên “cát tặc”.",
+     "en": "The reporter group followed the story of Akash Chauhan, a brave young man who was struggling to reclaim justice for his father, Mr. Paleram Chauhan, was shot dead when trying to protect his hometown land in Raipur Khadar, a village about 100km from the capital of New Delhi, by the \"illegal sand miner\"s"
+    }
+   ]
+  },
+  {
+   "headword": "cát đằng",
+   "base": "9aa36d49b076b7ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thunbergia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát-ca-đơ",
+   "base": "332c9e3e2e860b80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stuntman; a stuntperson"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát-xê",
+   "base": "950274cd49536f89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "remuneration, honorarium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cáu ghét",
+   "base": "56fb0607f4796c78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dirt, filth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Văn sĩ này vẻ mặt như cười mà không phải cười, trợn mắt méo miệng, dáng vẻ phờ phạc, toàn thân lấm lem dầu mỡ, áo quần xốc xếch, mặt đầy cáu ghét, xem ra ít nhất cũng hơn mười ngày chưa rửa mặt, cầm một cái quạt giấy rách lem luốc, vừa đi vừa phe phẩy.",
+     "en": "The scholar looked like he was smiling without smiling, eyes wide open, mouth askew, looking exhausted, his entire body smudged with grease, his clothes untidy, his face filthy, seeming like he had been at least ten days without washing his face, holding a torn and dirty paper fan he flapped while walking."
+    }
+   ]
+  },
+  {
+   "headword": "cáu tiết",
+   "base": "ac412431479e8477",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "furious; enraged; very angry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cân chìm",
+   "base": "191c1f29a57612a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a platform scale; weighbridge; floor scale (often to weigh vehicles)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cân nặng",
+   "base": "f990b93235ac69e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cân thăng bằng",
+   "base": "ab40514a5e045a04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "track scale"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Hoosier pole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câng",
+   "base": "7358458c327dd486",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "impudent; insolent; shameless and obnoxious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu chấp",
+   "base": "af2b474067e9e209",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "to nitpick; to quibble; to be petty"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "to be stubborn; to be obstinate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu cú",
+   "base": "0ba2824c0a34cf95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "sentences"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "how one phrases or structures their sentences"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu cấu",
+   "base": "d69a72c0db04166b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "green weevil (Hypomeces squamosus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu cửa miệng",
+   "base": "3a8f8d8aa8f47018",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colloquialisms or colloquial collocations"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "colloquialisms or slang that are thought of as unrefined or thoughtless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu giờ",
+   "base": "b251da20d909bb18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to buy time, to run out the clock"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "US"
+     ],
+     "gloss": "to filibuster"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu lưu",
+   "base": "4d2084d2384307c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to detain; arrest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu nói",
+   "base": "9a8b2cdba399f451",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a saying; expression"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a statement; quote"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu rút",
+   "base": "d24fbca7d7ee43e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "Cross"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có lời kinh thánh dạy rằng: mày hãy bỏ ý riêng mình, hãy vác câu rút mà theo Đức Chúa Jêsu. [...]",
+     "en": "There's a verse in the Bible that goes like this: deny thyself, take up the Cross and follow thy Lord Jesus …"
+    }
+   ]
+  },
+  {
+   "headword": "câu thúc",
+   "base": "90e71e79d8e8bc9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bind; restrain; constrain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu vui",
+   "base": "2b9007683ad95d0e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "disapproving",
+      "literary"
+     ],
+     "gloss": "to seek vain enjoyment or entertainment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây Nô-el",
+   "base": "5212143123c73e75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Christmas tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây Nô-en",
+   "base": "5212143123c73e75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Christmas tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây gỗ",
+   "base": "9d0321eaa6630890",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tree"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "log of wood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây mắc cỡ",
+   "base": "bd0b2a5ad93c9a89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "sensitive plant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây nhiệt đới",
+   "base": "c88940f2c712eb03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tropical tree"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "kind of camouflaged acoubuoy employed by the Americans during the Vietnam War, formally known as Air Delivered Seismic Intrusion Detector (abbr. ADSID)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Manchineel là loài cây nhiệt đới quý hiếm có trái ngọt đến khó tin, nhưng nó cũng là một trong những loài cây độc khét tiếng nhất Trái đất.",
+     "en": "Manchineel is a rare tropical tree that bears unbelievably sweet fruit, but it is also one of the most notorious poisonous trees on Earth."
+    }
+   ]
+  },
+  {
+   "headword": "cây nước",
+   "base": "67c8ee238cb8c42f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "waterspout"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water dispenser"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây trinh nữ",
+   "base": "bd0b2a5ad93c9a89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sensitive plant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây xấu hổ",
+   "base": "bd0b2a5ad93c9a89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "sensitive plant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây-lô-mét",
+   "base": "082e9c9124fc68ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "kilometre, kilometer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quân Đức rút quân về đến 40 cây-lô-mét, nhờ đấy mà hơn 200 đô-thị cùng thôn-lạc nước Pháp đã phải chịu cường-quyền quần giã-man hơn hai năm giời, bây giờ mới được giải-thoát.",
+     "en": "German troops withdrew more than 40 kilometres, thanks to that, more than 200 cities and villages in France had been liberated after having to endure the great oppression from a great power for two long years."
+    }
+   ]
+  },
+  {
+   "headword": "cãi chày cãi cối",
+   "base": "5135ae4899462074",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to insist on making false or unreasonable arguments"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cò cò",
+   "base": "6d0a5acd74233b3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hop on one foot"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play the hopscotch"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the hopscotch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chỗ sân ấy hồi hè tụi con nít còn cò cò, u hơi, vậy mà mới vài ba trận mưa mùa đã mênh mông nước.",
+     "en": "The kids still played hopscotch and chasing in that yard during the summer, but just a few seasonal rains and it was a vast stretch of water."
+    }
+   ]
+  },
+  {
+   "headword": "cò mỏ giày",
+   "base": "ae82034ba239df8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shoebill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "còn lại",
+   "base": "cf81881f299f9a3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the part remaining after a portion has been removed; the remainder"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remain; to be left (over)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "còn nguyên",
+   "base": "d82801511d071d46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "intact; untouched; unaltered"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "còn nước còn tát",
+   "base": "a76b673a8afb151e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "(as long as) there's water left, it can be drained out"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively",
+      "idiomatic"
+     ],
+     "gloss": "if there's hope, then one should do to the most of their ability"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có ... không thì bảo",
+   "base": "2fcc71510aba96e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "..., or else!; will you just ...!?"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có cút không thì bảo ?",
+     "en": "Beat it, or else!"
+    },
+    {
+     "sense": 1,
+     "vi": "Có câm không thì bảo ?",
+     "en": "Will you just shut the hell up?"
+    },
+    {
+     "sense": 1,
+     "vi": "- Chúng mày nói ít thôi. Có cho tao lấy vợ không thì bảo??? - Thiên Nhật từ ngoài hấp tấp chạy lại, vẻ mặt bực dọc phát hài.",
+     "en": "\"Quit yapping! Just let me get married in peace for heaven's sake!!!\" Thiên Nhật quickly rushed over, looking hilariously livid."
+    }
+   ]
+  },
+  {
+   "headword": "có bầu",
+   "base": "770e4cb42067f483",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pregnant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có bệnh thì vái tứ phương",
+   "base": "5860c73b09a74d02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "if you're ill, bow to all four directions"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "if you're ill, seek the cure from every source imaginable, eastern, western or otherwise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có chửa",
+   "base": "8cd7bef8b4c07503",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be pregnant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có cánh",
+   "base": "f6b33efa5e16461c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see có, cánh."
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "informal"
+     ],
+     "gloss": "flattering; cajolery"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "informal",
+      "slang"
+     ],
+     "gloss": "flattering, especially flowery or exaggerated"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "(những) lời có cánh",
+     "en": "sweet talk"
+    },
+    {
+     "sense": 3,
+     "vi": "khen có cánh",
+     "en": "to praise"
+    }
+   ]
+  },
+  {
+   "headword": "có công",
+   "base": "a816c947ce7f83e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be deserving or worthy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có công mài sắt có ngày nên kim",
+   "base": "b57967ece1a03e26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "if one grinds iron long enough, some day it will become a needle"
+    },
+    {
+     "position": 2,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "Practice makes perfect. / Diligence is the mother of success."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có gì đâu",
+   "base": "9ed844e2b0abd3e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nothing, nothing important"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có gì đâu, mới bị kiến cắn ấy mà.",
+     "en": "It's nothing, I just got bit by an ant."
+    }
+   ]
+  },
+  {
+   "headword": "có hại",
+   "base": "abb2075eb76ac0e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "harmful; dangerous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có là",
+   "base": "c8828befea057a90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "even"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có là xạ thủ cũng không bắn nổi.",
+     "en": "Even a pro-shooter wouldn't have hit that."
+    }
+   ]
+  },
+  {
+   "headword": "có lợi",
+   "base": "fdb52277d1d30890",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "helpful; useful"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "profitable; advantageous; beneficial"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bán cái đó đi thì có lợi cho chúng ta hơn.",
+     "en": "It will be more profitable for us to sell it."
+    }
+   ]
+  },
+  {
+   "headword": "có thửa",
+   "base": "d79461dccd4d5e8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to have; to possess"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi có thửa của họ một cái sập, bốn cái ghế, một cái bàn và một đôi đôn.",
+     "en": "I bought from them a platform bed, four wooden chairs, a table and a pair of decorative stools."
+    }
+   ]
+  },
+  {
+   "headword": "có vú",
+   "base": "2f3d546df712c578",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mammalian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có đôi có cặp",
+   "base": "10a17e0e45bcfa25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "in some promising romantic relationship into a fulfilling family"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cóc nhảy",
+   "base": "9ce83d869db876bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "skippingly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cót ca cót két",
+   "base": "0186a80dfaf05460",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of cót két"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô em",
+   "base": "b611744198b6099c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "ironic"
+     ],
+     "gloss": "miss; missus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô liêu",
+   "base": "f70600cce0d7d4c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "secluded; solitary; lonely; retired"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô nhi",
+   "base": "f67ed01ebb1d37d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orphan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô nhi viện",
+   "base": "00f5b46409c0b2a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orphanage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô thế",
+   "base": "67bf5c4722d8a86f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "isolated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô đặc",
+   "base": "6c0432bdf0448175",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to condense; to become thicker"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đun lửa lớn cho đến khi dung dịch bắt đầu cô đặc lại",
+     "en": "keeping the heat on high until the solution starts to become thicker"
+    }
+   ]
+  },
+  {
+   "headword": "cô đọng",
+   "base": "3667b2180c59579a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "condensed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô ấy",
+   "base": "7a1554f3736fdb69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "she (towards a young girl or woman)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côi cút",
+   "base": "312503f766a68ffb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lonely, with nowhere to ask for help"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côn nhị khúc",
+   "base": "0f47f15b9c958903",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nunchucks"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côn trùng học",
+   "base": "4ca675982b1ac90e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "entomology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công binh xưởng",
+   "base": "64e4c14f3b9837b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "military workshop, workshop producing weapons and military gear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cô thầm hỏi nếu như mẹ cô biết được những việc cô làm cho kháng chiến: giúp mua vũ khí, nguyên vật liệu cho các công binh xưởng, chuyển thuốc men, tài liệu…",
+     "en": "She wondered if her mother could know what she was doing for the resistance: help buy weapons and raw materials for the military workshops, transport medicines and documents…"
+    }
+   ]
+  },
+  {
+   "headword": "công cha nghĩa mẹ",
+   "base": "90dfb213fdf74f88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "parents' kindness; parental affection"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công dung ngôn hạnh",
+   "base": "eb285f8d1139e50b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the four feminine virtues of Confucianism (diligent work, modest manners, proper speech, morality)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đứa con gái này của huynh đệ có công dung ngôn hạnh gì thì một chút cũng nói không ra, nhưng huynh đệ vẫn muốn gả nó cho một người chồng tốt.",
+     "en": "If this daughter of mine has some of the four feminine virtues I won't say anything about it, but I still want to marry her off to a good husband."
+    }
+   ]
+  },
+  {
+   "headword": "công hàm",
+   "base": "6037de5a531fa446",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diplomatic correspondence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công hầu bá tử nam",
+   "base": "f82d764171d7f46b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "the five ranks of nobility in feudal China"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "the five ranks of peerage in feudal Europe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công hữu",
+   "base": "31bba12053014a68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "publicly owned; public"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công khố",
+   "base": "d9bafbf9b392c7b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "national treasury"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "public fund"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công lênh",
+   "base": "32593e132e9c7fec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "effort"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công lịch",
+   "base": "2c760bc49773c466",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Gregorian calendar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công lợi",
+   "base": "95790d52560b5cf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the public good; the common good; the public interest"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "efficacy and interest"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "utility; material gain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công nghiệp hoá",
+   "base": "f2effd6309252352",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to industrialize"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "industrialization"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "công nghiệp hoá, hiện đại hoá",
+     "en": "industrialization and modernization"
+    }
+   ]
+  }
+ ]
+}

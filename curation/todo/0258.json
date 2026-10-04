@@ -1,0 +1,1329 @@
+{
+ "batch": "0258",
+ "entries": [
+  {
+   "headword": "hiện thực huyền ảo",
+   "base": "3cc29bc12aa12345",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magic realism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện tượng học",
+   "base": "36c0fa94d60cfaa5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phenomenology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện tại phân từ",
+   "base": "4bef71e8fc6ecfbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "synonym of phân từ hiện tại (“present participle”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện đại hoá",
+   "base": "35af8b566405ca7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to modernize"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "modernization"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "công nghiệp hoá, hiện đại hoá",
+     "en": "industrialization and modernization"
+    }
+   ]
+  },
+  {
+   "headword": "hiệp khí đạo",
+   "base": "629832efa95addb4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aikido"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệp phụ",
+   "base": "ce1e150444642e31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a game of overtime/extra time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệp vần",
+   "base": "a07fd9a0ec5095c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to \"rhyme\", by ending in rhymes with the same trắc or bằng tones (e.g. ngang-ngang or huyền-ngang, but not ngang-sắc), and mostly the same, but sometimes permissible loosely similar, vowel-consonant sequences"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệp đồng",
+   "base": "cb4595f00d3036ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work together; to work in coordination with; to cooperate; to collaborate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu dụng",
+   "base": "3ebb49ee8298416a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "efficacious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phương pháp học tập mới đã bắt đầu có hiệu dụng.",
+     "en": "The fashioned method of learning has started to come into effect."
+    }
+   ]
+  },
+  {
+   "headword": "hiệu sách",
+   "base": "ffe0156bd19b1f97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bookshop; bookstore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu số",
+   "base": "15dcbdf7205a2bfe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "difference"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu thuốc",
+   "base": "053e453f2aabfa86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pharmacy; chemist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu triệu",
+   "base": "c1a47ee6405e9a25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appeal to; to call upon (the masses, the people)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lời hiệu triệu kháng chiến",
+     "en": "an appeal for resistance"
+    }
+   ]
+  },
+  {
+   "headword": "hiệu điện thế",
+   "base": "83cdba7dae7b5886",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electric potential difference"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu ứng nhà kính",
+   "base": "83f1859fa421e6a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "greenhouse effect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ho gà",
+   "base": "f1b052220b33ddd7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(pathology) pertussis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa bia",
+   "base": "eec71e7fb73ac112",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hop, hops - flower used in brewing beer for its bitter taste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa bất tử",
+   "base": "c640922dd2ac2510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strawflower (Xerochrysum bracteatum)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa chè",
+   "base": "ad820390b10eb5a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "camellia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa chúc",
+   "base": "5d328856b38def28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "flowered candelabrum of the wedding night"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa có chủ",
+   "base": "946ff6f58a59f4c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "one who is already taken; one who is in a relationship or married"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa giáp",
+   "base": "b0c656e077debff1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cycle of sixty years in the sexagenary cycle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "age of sixty years"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa hiên",
+   "base": "f523d934607397bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orange day-lily (Hemerocallis fulva)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa kim châm",
+   "base": "bd58e4b8a1b427ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "daylily"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa liễu",
+   "base": "15782fdae5ca5c37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "venereal; sexually transmitted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bệnh hoa liễu",
+     "en": "a VD; an STD"
+    }
+   ]
+  },
+  {
+   "headword": "hoa lá",
+   "base": "72efb92d91a364b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flowers and leaves; foliage"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "dalliance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa lơ",
+   "base": "e496770c37eb7bab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cauliflower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa lơ trắng",
+   "base": "e496770c37eb7bab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cauliflower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa mười giờ",
+   "base": "c680fae70c6374e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "moss rose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa nhài cắm bãi cứt trâu",
+   "base": "754c99e21bf09802",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an Arabian jasmine (Jasminum sambac) stuck in a pile of water buffalo shit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a beautiful woman married to a man who's so terribly below her status or standard to be considered appropriate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa sữa",
+   "base": "8285bf62db11f223",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Alstonia scholaris, blackboard tree, devil's tree"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the flowers of this tree, known for their fragrance, and a signal of autumn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa tay",
+   "base": "910f77cffa38fe8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dexterity, deftness"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người có hoa tay",
+     "en": "Dextrous / deft person"
+    }
+   ]
+  },
+  {
+   "headword": "hoa thị",
+   "base": "ee93e0f0d52e2ade",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "synonym of sao (“asterisk”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa đăng",
+   "base": "6e48fff62ba45cb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a flower-shaped lantern, which can float on water"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoang liêu",
+   "base": "27abcdf121088638",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "desolate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đồng cỏ quanh thôn đang bắt đầu úa vàng, dưới ánh tà dương càng thêm mấy phần hoang liêu.",
+     "en": "The grass fields surrounding the village were turning a withered yellow, even more desolate under the light of the setting sun."
+    }
+   ]
+  },
+  {
+   "headword": "hoang mạc hoá",
+   "base": "4db33a46100657f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "desertification"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoang mạc hóa",
+   "base": "4713a8c3803c2345",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoang mạc hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoe",
+   "base": "a306c9c24a8e17f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reddish; carroty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khóc nhiều mắt đỏ hoe",
+     "en": "to cry so much that the eyes become reddish"
+    },
+    {
+     "sense": 1,
+     "vi": "tóc hoe hoe",
+     "en": "reddish hair"
+    }
+   ]
+  },
+  {
+   "headword": "hoen",
+   "base": "10a3cebc58f9a8fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soiled, smeared"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "honmi",
+   "base": "dbab58847006bd6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "holmium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà",
+   "base": "ff90c21e37bb93f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in harmony, without conflict"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tied; deadlocked; stalemated; at a draw"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mix, to mingle"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw, to tie"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hoặc là dùng lễ có đủ nghi-tắc mà không có kính, dùng nhạc có đủ chuông trống mà không có hòa, thì lễ và nhạc chỉ là hư-văn mà thôi, không có nghĩa-lý gì cả.",
+     "en": "Or if rituals are performed following all the rules but without reverence, or music is played with all bells and drums but without harmony, then both ritual and music are merely empty formalities without any true meaning."
+    },
+    {
+     "sense": 5,
+     "vi": "Đầu phía nam con sông đổ ra cửa biển An Hòa (huyện Núi Thành), đầu phía bắc hòa vào biển ở Cửa Đại (thành phố Hội An).",
+     "en": "The southern end of the river flows through the An Hoà river mouth (Núi Thành district); the northern end drains into the sea at Cửa Đại (town of Hội An)."
+    }
+   ]
+  },
+  {
+   "headword": "hoà bình",
+   "base": "296dbd4ffdcec3f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà giải",
+   "base": "0ad40911787e11c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mediate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà hảo",
+   "base": "0842dc368559fe56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "harmonious; reconciled"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà hợp",
+   "base": "be87c60df1527cc4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be in concord (with each other); to be in agreement (with); to blend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà khí",
+   "base": "7ab38262329116f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "harmonious atmosphere"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh em thì nên giữ gìn hoà khí là tốt nhất.",
+     "en": "It's best when siblings are on good terms with each other."
+    }
+   ]
+  },
+  {
+   "headword": "hoà mình",
+   "base": "4eb63ab02f4fefd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fit into; to blend into; to integrate with; to mix with"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hoà mình với quần chúng",
+     "en": "to mix with the masses"
+    }
+   ]
+  },
+  {
+   "headword": "hoà mục",
+   "base": "f312e25550489003",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "harmonious; peaceful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà nhã",
+   "base": "8bc6ec250d69aa4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "affable, courteous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người kia cũng không cưỡng ép, cả ngày chỉ hòa nhã trò chuyện cho nàng khuây khỏa.",
+     "en": "He also did not force anything; all day he only affably conversed with her to give her solace."
+    }
+   ]
+  },
+  {
+   "headword": "hoà nhạc",
+   "base": "1075b8932915f32a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concert"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà nhập",
+   "base": "28f3524c502c4bd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fit into; to blend into; to integrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà quyện",
+   "base": "750ee9718f471b80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be harmoniously mixed together"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà tan",
+   "base": "3a59fe5bef02c3fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dissolve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà thuận",
+   "base": "fcecb656aae4d07c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "amiable; warm; harmonious; free of conflict; communal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "harmony; lack of conflict"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà thượng",
+   "base": "70c6a880c6ec9f84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rank among monks"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chủ tịch nước Nguyễn Xuân Phúc viếng Đại lão Hòa thượng Thích Phổ Tuệ",
+     "en": "President Nguyễn Xuân Phúc Paid Tribute to Grand Elder Monk Thích Phổ Tuệ"
+    }
+   ]
+  },
+  {
+   "headword": "hoà tấu",
+   "base": "1075b8932915f32a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concert"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoà vốn",
+   "base": "4432ac7a3bccc69e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break even; to remain at net-zero profit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Điểm hòa vốn",
+     "en": "The break-even point"
+    }
+   ]
+  },
+  {
+   "headword": "hoà đồng",
+   "base": "959b5a3ef06d5e64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fit in (with); to be sociable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàn bị",
+   "base": "2512e674c7476708",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "complete; comprehensive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàng lan",
+   "base": "87f9e2097e5e265b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ylang ylang (a tree of the species Cananga odorata)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàng oanh",
+   "base": "b5add4741f2e1514",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "oriole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàng thiên",
+   "base": "b8595e84be8ff319",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heaven"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "God"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàng đản",
+   "base": "ee55438f0c140624",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jaundice (a morbid condition, characterized by yellowness of the eyes, skin, and urine)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoành phi",
+   "base": "6dc6294d77b9d9c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horizontal lacquered board engraved with Chinese characters (usually hung over a door and flanked by two vertical scrolls forming a couplet)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoành độ",
+   "base": "136a73a9da0295fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an x-coordinate; an abscissa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá",
+   "base": "5a4876f95e94dcfd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn (into)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bodily die and become a divinity (saint, Buddha…)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to burn"
+    },
+    {
+     "position": 4,
+     "pos": "suffix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "-ize; -ise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hoá thành",
+     "en": "to turn into"
+    },
+    {
+     "sense": 1,
+     "vi": "hoá đá",
+     "en": "to be petrified"
+    },
+    {
+     "sense": 1,
+     "vi": "Người đàn bà hoá đá / Chờ chồng nghìn năm, nhưng người đó đã không quay về / Để nàng sống góa thân mỏi mòn.",
+     "en": "The petrified woman / Waited for her husband for a thousand years, but that man never came back / And so she lived forever widowed."
+    },
+    {
+     "sense": 2,
+     "vi": "[…] sau cùng hai vị đều hoá ở đất Kim Đường[…]. Điểm đáng chú ý là ngày hoá: 11 tháng ba âm lịch,[…]",
+     "en": "[…] both of them finally died in Kim Đường […]. A point of note is the date of their passing: the 11th day of the third month in the Chinese calendar, […]"
+    },
+    {
+     "sense": 3,
+     "vi": "hoá vàng mã",
+     "en": "to burn joss paper"
+    },
+    {
+     "sense": 4,
+     "vi": "chuẩn hoá",
+     "en": "to standardize"
+    },
+    {
+     "sense": 4,
+     "vi": "Việt hoá",
+     "en": "to Vietnamize"
+    },
+    {
+     "sense": 4,
+     "vi": "Latinh hoá",
+     "en": "to romanize"
+    },
+    {
+     "sense": 4,
+     "vi": "mũi hoá",
+     "en": "to nasalize"
+    }
+   ]
+  },
+  {
+   "headword": "hoá chất",
+   "base": "f02bcdc881b28bc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a chemical; chemical substance; purified compound"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá công",
+   "base": "c964d4db16b35702",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "the Creator, God"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá dầu",
+   "base": "3f967926e24061d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "petrochemistry"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "petrochemical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá dục",
+   "base": "cb2970307c950e49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transform and educate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Những người tu-dưỡng đến bậc chí-thành, tức là những người giữ được cái bản-tính của mình thuần-túy như của Trời phú cho, thì có thể giúp được việc hóa-dục của Trời.",
+     "en": "Those who very sincerely cultivate themselves —meaning those able to keep their innate nature given to them by the Heavens pure— can help carrying out Heaven's work of transformation and education."
+    }
+   ]
+  },
+  {
+   "headword": "hoá học",
+   "base": "d920fe48cac4745b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chemistry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá học hữu cơ",
+   "base": "513abca1b737f5fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "organic chemistry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá học vô cơ",
+   "base": "776a0c0de5eca10e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inorganic chemistry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá học vật lí",
+   "base": "83fc03bb7df6dedf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "physical chemistry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá hợp",
+   "base": "998f3b8a96e0af79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to combine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá năng",
+   "base": "1b33e169624d941a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chemical energy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá ra",
+   "base": "d155b121bf78c6c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bài toán tưởng khó hoá ra lại rất dễ.",
+     "en": "What seemed to be a difficult problem turns out to be quite easy."
+    }
+   ]
+  },
+  {
+   "headword": "hoá sinh",
+   "base": "e9a793f8c85dcdbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "biochemical"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birth by transformation; metamorphic birth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá sinh học",
+   "base": "14b01ad99e22818d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "biochemistry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá thân",
+   "base": "9a1201fde7f0ce4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Nirmāṇakāya (Buddha's physical incarnation)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an embodiment (entity typifying an abstraction)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to embody; to personify"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to metamorphose; to transform dramatically"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

@@ -1,0 +1,1308 @@
+{
+ "batch": "0264",
+ "entries": [
+  {
+   "headword": "hữu danh vô thực",
+   "base": "ff93bb9b7d7f6064",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having well-known style but no substance; existing only in the name"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng đó thuộc dạng hữu danh vô thực.",
+     "en": "That hack's got only the name to himself."
+    }
+   ]
+  },
+  {
+   "headword": "hữu dũng vô mưu",
+   "base": "06d2902333e49858",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "courageous but not shrewd"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu khuynh",
+   "base": "70ae56749e7cb733",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "too stubborn and resistant without regard for Marx's teachings on inevitable change"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "right-leaning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu lí",
+   "base": "ce0ba5d9b4ba47a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rational; well-founded"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một sáng kiến hữu lí",
+     "en": "a grounded initiative"
+    }
+   ]
+  },
+  {
+   "headword": "hữu ngạn",
+   "base": "d5222d34ffee0b86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the right bank (river bank to the right when facing downstream)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu nhũ",
+   "base": "2f3d546df712c578",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mammalian"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "động vật hữu nhũ",
+     "en": "mammal"
+    }
+   ]
+  },
+  {
+   "headword": "hữu phái",
+   "base": "b680cdae70a8aee2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "right wing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu quan",
+   "base": "9f79126d109169aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relevant, involved"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] đó là chưa kể đến sự phớt lờ của các phía hữu quan, sự răn đe áp đặt này khác,[…]",
+     "en": "[…] not to mention the indifference of relevant parties and all kinds of chilling effects from above, […]"
+    }
+   ]
+  },
+  {
+   "headword": "hữu sản",
+   "base": "307af110cbabe8aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "propertied"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mặt trận dân chủ cho được thực hiện, điều cốt yếu là phải thâu phục quảng đại quần chúng nhân dân, phải kéo các tầng lớp hữu sản bản xứ dù các \"lãnh tụ\" của họ theo hay không theo.",
+     "en": "If the democratic front is to be realized, we must fundamentally win over the whole array of mass and bring into the fold indigenous propertied classes disregarding their \"leaders\"' willingness to cooperate or not."
+    }
+   ]
+  },
+  {
+   "headword": "hữu thanh",
+   "base": "803957de3eaec931",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "voiced"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu thuỷ vô chung",
+   "base": "1210feb0642d77b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to have a beginning but not an end"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to start something but fail to carry it through; to begin well but end badly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu tính",
+   "base": "569d3c61500d71df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sexual"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sinh sản hữu tính",
+     "en": "sexual reproduction"
+    }
+   ]
+  },
+  {
+   "headword": "hữu tỉ",
+   "base": "d867c603566aa80a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rational"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hữu xạ tự nhiên hương",
+   "base": "75b28f926f245541",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "if you have musk, you'll naturally smell good"
+    },
+    {
+     "position": 2,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "good wine needs no bush"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "i cờ-rét",
+   "base": "6cf52f7abae94476",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "The name of the Latin script letter Y/y."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "i dài",
+   "base": "6cf52f7abae94476",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter Y/y."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "i ngắn",
+   "base": "5714df1f58691d24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter I/i."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "i tờ",
+   "base": "028a948bf08151aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "how to write with the quốc ngữ (“Vietnamese alphabet”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lớp học i tờ",
+     "en": "ABC level classroom"
+    }
+   ]
+  },
+  {
+   "headword": "i-nốc",
+   "base": "8c8237dd9a75e9e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stainless"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stainless steel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "im ả",
+   "base": "7899997b3242df42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "calm, quiet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "in thạch bản",
+   "base": "80b72e83e113395a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lithography"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lithograph"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "in thạch bản ngâm",
+   "base": "4e2ef5e09a572f09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "immersion lithography (a resolution enhancement technique used in photolithography)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "in tư",
+   "base": "193bdbd4f5be3499",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "information of someone (esp. on social media platforms like Facebook, Instagram, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "in đá",
+   "base": "80b72e83e113395a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lithography"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lithograph"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "in đậm",
+   "base": "237eaf6d4fc9d20d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to print in bold type; to print in bold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "inbox",
+   "base": "1b79cfb50e9984c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "private message, PM"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to send someone such messages"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chị check inbox em nhé.",
+     "en": "Please check up on my private message to you."
+    },
+    {
+     "sense": 2,
+     "vi": "Inbox em.",
+     "en": "Send me a private message."
+    }
+   ]
+  },
+  {
+   "headword": "info",
+   "base": "1ccfc3984a06feec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "information"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "inh om",
+   "base": "9f4605fb0231c38d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "unbearably loud; very noisily"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "inh tai nhức óc",
+   "base": "0e889ee34746af49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "discordant and intolerable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "inđi",
+   "base": "1a5a9c283eb0c056",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "indium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ion hoá",
+   "base": "6fc9822ecd983552",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ionize"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "năng lượng ion hoá thứ nhất",
+     "en": "1st ionization energy"
+    }
+   ]
+  },
+  {
+   "headword": "iot",
+   "base": "0799fc0a796cd9e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "iodine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thiếu iot",
+     "en": "mentally retarded"
+    }
+   ]
+  },
+  {
+   "headword": "iriđi",
+   "base": "a30115335331a0b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "iridium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "iu ấp",
+   "base": "cda078ba1fa4e3bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hug tenderly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cái lồng ngực từng chứa một cháy tim đỏ thắm, đôi mắt đã từng nhìn người yêu chan chứa, đôi tay đã từng iu ấp một đôi tay…",
+     "en": "The chest that once held a burning red heart; the eyes that once gazed at a lover with overflowing affection; the hands that once tenderly hugged a pair of hands…"
+    }
+   ]
+  },
+  {
+   "headword": "kem chống nắng",
+   "base": "92eb8ee1bc4621e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sunscreen, sunblock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kem dâu",
+   "base": "cc5f935af4d0c107",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strawberry ice cream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "menses"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kem mứt",
+   "base": "6e8a46121734e519",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sundae"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kem que",
+   "base": "f17224e3e9c27992",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "popsicle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kem đánh răng",
+   "base": "fd0ceae571b062ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "toothpaste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kenvin",
+   "base": "513210338c7712e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kelvin"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhiệt giai/thang nhiệt Ken-vin",
+     "en": "the Kelvin scale"
+    }
+   ]
+  },
+  {
+   "headword": "keo như kẹo kéo",
+   "base": "9f3a0da1ea1d6a5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "very stingy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "keo ong",
+   "base": "4ef15ad832cc30a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "propolis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "keo sơn",
+   "base": "0d8eb5f31e9c4a91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "glue and lacquer"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "filled with strong bonds; intimate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tình bạn keo sơn một thời nay đã cáo chung, báo hiệu một thời kỳ chông gai phía trước.",
+     "en": "The once strong relationship of us has now ended, showing a stage of difficulty ahead."
+    }
+   ]
+  },
+  {
+   "headword": "keo xịt tóc",
+   "base": "2dcbac11bf4294f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hairspray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai bút",
+   "base": "9d5d1d2671a6c370",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use a pen of any kinds to write or draw at the start of a year, according to tradition"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khai bút đầu năm.",
+     "en": "To khai bút at the start of a new year."
+    }
+   ]
+  },
+  {
+   "headword": "khai hoa",
+   "base": "2c53620bacdf1bc9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bloom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai hoá",
+   "base": "5bd337fbbd731373",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to civilize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai hoả",
+   "base": "8aba77f8ce153268",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to open fire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai huyệt",
+   "base": "50d5ce20b8b5e0eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dig a grave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai hội",
+   "base": "ef72935fc1b69aec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to open a festival"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai phóng",
+   "base": "a47f7f720fdf128d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "open-minded"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giáo dục khai phóng là lý tưởng sống của dân tộc.",
+     "en": "Openness in education is the backbone of any nation."
+    }
+   ]
+  },
+  {
+   "headword": "khai thiên lập địa",
+   "base": "668513837a32ca95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to create the world or to establish a new nation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai triển",
+   "base": "dba0ba86dcc004bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to develop"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to expand (in a series)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ông đã tìm ra công thức khai triển hàm số thành chuỗi luỹ thừa, ngày nay gọi là chuỗi Taylo (công thức Taylo).",
+     "en": "He found a formula to expand a function in a power series, now called the Taylor series (Taylor formula)."
+    }
+   ]
+  },
+  {
+   "headword": "khai trương hồng phát",
+   "base": "73c0b98665b67cd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "have a grand opening (used in congratulatory and celebratory settings)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khang an",
+   "base": "2772ff466fa7de08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "healthy and safe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khi dễ",
+   "base": "8986f97582f8e5df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to belittle, to see as lightweight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khi nào",
+   "base": "b778802824fe20e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "when"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "when"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khi nào cũng",
+   "base": "6dcf07e282641b26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "always"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Yêu một người, lấy một người không phải khi nào cũng tệ.",
+     "en": "Loving someone, marrying someone is not always a bad thing."
+    }
+   ]
+  },
+  {
+   "headword": "khi và chỉ khi",
+   "base": "654e0778de8421ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "when and only when"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "if and only if"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khi ấy",
+   "base": "049322fabcf4c5a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "then; at that time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khinh bạc",
+   "base": "65fb2f8037938fa5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "frivolous, thoughtless, disrespectful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] bèn cúi đầu đưa mắt nhìn trộm Nhan Liệt, thấy y hoàn toàn không có vẻ khinh bạc, nhất thời trong lòng xao xuyến, cũng không biết nên buồn hay vui.",
+     "en": "[…] so she lowered her head and stealthily looked at Yán Liè; he did not at all seem disrespectful; at the same time she felt troubled and did not know whether she should be sad or happy."
+    }
+   ]
+  },
+  {
+   "headword": "khinh khi",
+   "base": "fd51e08aee8284c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel contempt for, to scorn, to despise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kha đại hiệp, nếu bạn của ngươi bất hạnh gặp nạn, vợ góa bị người ta khinh khi hà hiếp thì ngươi có cứu không?",
+     "en": "Chivalrous Kē, if a friend of yours meets with mishap and his widow is scorned and tyrannised, do you save her?"
+    }
+   ]
+  },
+  {
+   "headword": "khinh khí cầu",
+   "base": "ef01ecfbc726abe1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hot-air balloon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khinh lờn",
+   "base": "c548af81282120ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disrespectful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] hoặc sợ họ sẽ khinh lờn khi thấy ta có vẻ bằng lòng về họ.",
+     "en": "[…] or afraid that they will be disrespectful when they notice that we seem satisfied with them."
+    }
+   ]
+  },
+  {
+   "headword": "khinh thị",
+   "base": "557d1fdd8f5ea3c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to think little of; to despise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khinh tội",
+   "base": "cd730a311d9292f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "misdemeanor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khiêm cung",
+   "base": "b550e4ae9169d601",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "modest and respectful, humble"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] thiếu đi những đức tính quan trọng như bình tĩnh, nhẫn nại, khiêm cung, bao dung, lạc quan, uyển chuyển…thì làm sao ta đứng vững được?",
+     "en": "[…] lacking such important qualities as calm, patience, humility, tolerance, optimism, and flexibility, how can we remain firm?"
+    }
+   ]
+  },
+  {
+   "headword": "khiên cưỡng",
+   "base": "4bc722f651d81e37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "far-fetched"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] cho nên những hành vi như là suy luận khiên cưỡng, đánh tráo khái niệm, đưa số liệu sai vào báo cáo có khả năng đều là do bọn họ cố ý làm ra.",
+     "en": "[…] therefore their actions –far-fetched arguments, mixing up concepts, entering false data in the report– were possibly all intentional."
+    }
+   ]
+  },
+  {
+   "headword": "khiêu dâm trẻ em",
+   "base": "0fde4aa21d87ef7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "child pornographic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nội dung khiêu dâm trẻ em",
+     "en": "child pornography"
+    },
+    {
+     "sense": 1,
+     "vi": "chống nạn khiêu dâm trẻ em trực tuyến",
+     "en": "to fight online child pornography"
+    }
+   ]
+  },
+  {
+   "headword": "khiền",
+   "base": "e425118e06e48f59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "rare"
+     ],
+     "gloss": "to hit or scold in order to discipline (usually a child)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kho dữ liệu",
+   "base": "b2b0a14f636a36a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "data warehouse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa bảng",
+   "base": "d6e1a35bf35f208f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "notice board announcing the names of successful candidates in the imperial examinations"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "graduating laureate in such examinations"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa cấp cứu",
+   "base": "c4b9c2c34652361d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "emergency department (ED); emergency room (ER); accident and emergency (A&E) department"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa cử",
+   "base": "043bb0ceb4ca486c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "imperial examination"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học luận",
+   "base": "351986191db47f58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "epistemology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học máy tính",
+   "base": "786287b7a4c2d7bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "computer science"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học máy tính lí thuyết",
+   "base": "d0955ef6650edbd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "theoretical computer science"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học nhân văn",
+   "base": "b82936fba1c3216c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "humanities"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học thần kinh",
+   "base": "6cce8fd9870d7d9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neuroscience"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học thực phẩm",
+   "base": "0592661f19dc368e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "food science"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

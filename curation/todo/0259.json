@@ -1,0 +1,1389 @@
+{
+ "batch": "0259",
+ "entries": [
+  {
+   "headword": "hoá thạch",
+   "base": "949db8b5a9923a8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fossil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá trang",
+   "base": "e9fd65fa7a82e4b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dress up (to put on a costume portraying oneself as a particular character or figure)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "synonym of cải trang (“to disguise”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Halloween không phải là lễ hội Việt Nam, ấy vậy mà người Việt Nam cũng bày đặt hoá trang các kiểu.",
+     "en": "Halloween isn't something Vietnamese people authentically observe, but that doesn't stop them from indulging in dress-up."
+    },
+    {
+     "sense": 1,
+     "vi": "vũ hội hoá trang",
+     "en": "a masquerade"
+    },
+    {
+     "sense": 1,
+     "vi": "Nữa[sic] đêm, một người trong bọn đang phiên gác bỗng lên cơn sốt rồi sau đó lạnh run, chịu không nổi, anh ta đến rương đồ lấy đại một bộ choàng lên người cho đỡ lạnh, lại đúng nhầm bộ đồ hoá trang làm quỷ La Sát.",
+     "en": "At midnight, when one of the troupe was on watch, he got a sudden fever and an unbearable chill, so he went to the costume chest and took out a random piece to wear for warmth, but it turned out to be a Rakshasa costume."
+    },
+    {
+     "sense": 1,
+     "vi": "“Lẽ ra anh ta phải giết 500 người” một người phụ nữ Do Thái bận váy dài và quân[sic] khăn đầu lẩm bẩm. Bà đang đi với hai đứa con của bà bận đồ hóa trang cho ngày lễ Purim. Một đứa hóa trang thành cướp biển, mặt vẽ những sọc màu. Không gì có thể làm ngưng lễ hội của họ, dù là một cuộc thảm sát trước cửa nhà họ.",
+     "en": "“He should’ve killed 500 of them,” a Jewish woman in a long dress and headscarf mumbled. She was walking with two of her children who dressed up for Purim. One cosplayed a pirate with colored stripes on the face. Nothing could stop their festival, not even a massacre at their doorsteps."
+    },
+    {
+     "sense": 2,
+     "vi": "Chúng tôi bố trí 10 hố dấu kín 10 du kích và hoá trang bên bờ giếng Thanh Liên.",
+     "en": "We arranged for 10 guerrillas to be hidden in 10 holes, which are disguised beside the Thanh Liên well."
+    }
+   ]
+  },
+  {
+   "headword": "hoá trị",
+   "base": "3f76f9fe4ca0e277",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chemotherapy"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "valence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá tệ học",
+   "base": "6dbdc8209b0da88f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "numismatics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá đơn",
+   "base": "e97964d9c43e46f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "invoice; bill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoá độ",
+   "base": "8f83156ff029cdf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to preach to save from worldly suffering"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi thiền sư xuống phố hóa độ thì nó cũng lẽo đẽo theo sau.",
+     "en": "Whenever the monk went down to town to preach, it would follow him closely."
+    }
+   ]
+  },
+  {
+   "headword": "hoán dụ",
+   "base": "416faf813ff88a95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rhetoric"
+     ],
+     "gloss": "metonymy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoán tỉnh",
+   "base": "c55c849b1b724968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "to wake somebody"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "to rouse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoáy",
+   "base": "266874c9c72c15c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sunken, hollow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đôi mắt trũng hoáy",
+     "en": "deeply sunken eyes"
+    }
+   ]
+  },
+  {
+   "headword": "hoè",
+   "base": "cce9009b978d11e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese scholar tree (Styphnolobium japonicum)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoóc môn",
+   "base": "737c2b8e60938623",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hormone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ",
+   "base": "4d762685efd201b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a painting"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disaster, misfortune"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "rarely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ báo",
+   "base": "0440a39b1ca1f38d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pictorial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ may",
+   "base": "91c68d47446af242",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "through sheer luck"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hoạ may mà có nó thì nói luôn.",
+     "en": "If somehow he's there, then you should tell him straight away."
+    }
+   ]
+  },
+  {
+   "headword": "hoạ nô",
+   "base": "56fb7d45bd03d16c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "neologism",
+      "slang"
+     ],
+     "gloss": "painter, drawer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ phúc",
+   "base": "725caa607e653a5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "in weal and woe; good fortune and misfortune; happiness and suffering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ sĩ",
+   "base": "0f1ce6b4119312a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "artist, painter or drawer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ tiết",
+   "base": "7b82facbdc461324",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pattern"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ viên",
+   "base": "ce519b4f59f9fce0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "draftsperson (person skilled at drawing engineering or architectural plans)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạ vô đơn chí",
+   "base": "7db30e4040d22d1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "misfortunes never come singly; it never rains but it pours"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoại huyết",
+   "base": "3b1aad4a6f8f3a90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hemolysis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leukemia"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scurvy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạnh hoẹ",
+   "base": "f54f07856a3890d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to nag and verbally harass by digging into other's misdeeds or mistakes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạnh họe",
+   "base": "7342aa6fb1163e14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoạnh hoẹ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt chất",
+   "base": "ea0d0678fa706ef8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "active ingredient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt kê",
+   "base": "ba432590314d71ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "comical"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chu Thông tuy cử chỉ ngôn ngữ rất hoạt kê, nhưng tâm tư lại rất tinh tế,[…]",
+     "en": "Although Zhū Cōng was very comical in his gestures and speech, he had a brilliant mind; […]"
+    }
+   ]
+  },
+  {
+   "headword": "hoạt lực",
+   "base": "d2d2aaaa1e8a5ef6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "vitality; energy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt tự",
+   "base": "94f48d8c4adb786a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "movable type"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] đó là chưa tính đến lần in hoạt tự thực hiện ở Nhật Bản vào năm 1884.",
+     "en": "[…] that is without including the movable type print executed in Japan in 1884."
+    }
+   ]
+  },
+  {
+   "headword": "hoả",
+   "base": "572b66dd1e429ebd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Fire, one of the Wuxing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả châu",
+   "base": "78c4b05abfe7ffdb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a flare (a type of pyrotechnic that produces a bright light or intense heat without an explosion, used for distress signaling, illumination, or defensive countermeasures)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of flower (likely of the genus Banksia but sometimes considered a Chrysanthemum)."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "the moon"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Những trái hỏa châu cuối cùng cũng vừa tắt. Rừng lại trở về với màn đêm bưng bít.",
+     "en": "The last flares finally also went out. The forest returned to oppressive night."
+    }
+   ]
+  },
+  {
+   "headword": "hoả công",
+   "base": "5acc372781f583a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fire attack (using fire as a weapon against enemy personnel and installations)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả diệm sơn",
+   "base": "fe23d2b2304b7074",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a volcano"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hỏa điệm sơn thì cũng như núi thường, nhưng mà trên đỉnh núi có lỗ thông xuống tim đất, những khí chất nóng ở ruột quả đất phun lên.",
+     "en": "The volcanoes are similar to normal mountains, but at the their peak there is a tunnel leads deep into the ground, helping hot gases from the Earth's core escape."
+    }
+   ]
+  },
+  {
+   "headword": "hoả hoạn",
+   "base": "5bcb21e4ae56d74c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fire (as a disaster)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả lò",
+   "base": "1205dc04df1eced4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "a small coal-fire stove for cooking and heating"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả lực",
+   "base": "affb124da83cb08b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "firepower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả mai",
+   "base": "7008e1a435a34b67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "fuse; match; detonator"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả mù",
+   "base": "9df4a1df4388042a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smokescreen, smoke bomb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngược lại, họ còn cho tôi là vận động, là xách động quần chúng để tung hoả mù tội càng nặng hơn.",
+     "en": "To the contrary, they went on claiming I've been whipping up the population as a smokescreen, making my crimes even worse."
+    }
+   ]
+  },
+  {
+   "headword": "hoả ngục",
+   "base": "69dc5507960b14b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả pháo",
+   "base": "8b8359c585b5e361",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cannon; gun"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "artillery"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "firecracker"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả thiêu",
+   "base": "44d7ee08a0006dca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cremate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả tiễn",
+   "base": "ee20fa2fc61ec905",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "fire arrow"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "rocket; missile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả táng",
+   "base": "44d7ee08a0006dca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cremate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả tốc",
+   "base": "9a14672b8b72eeac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "immediate; urgent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoả xa",
+   "base": "5f55c6b7dba61b82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "train"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fiery chariot that brings sinners to hell"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Năm 1947, bộ máy Hỏa xa Liên khu V được hình thành, chịu sự lãnh đạo trực tiếp của Uỷ ban kháng chiến và Hành chính Liên khu V.",
+     "en": "In 1947, the Zone V Railroad administration was formed under the direct leadership of the Zone V Resistance and Administrative Committee."
+    },
+    {
+     "sense": 2,
+     "vi": "Ác tâm chia rẽ người ta, / Phải chịu hình phạt hỏa xa nát nghiền.",
+     "en": "The wicked and divisive, / Must undergo the crushing fiery chariot punishment."
+    }
+   ]
+  },
+  {
+   "headword": "hoắm",
+   "base": "880a2d41368e4318",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sunken"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hun đúc",
+   "base": "756e40ee918ea6d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be shaped and made strong through hard work and hardship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huy hoắc",
+   "base": "e918d9453d9bdd5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to squander; to spend wastefully"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyên hoa",
+   "base": "192a488b9ae5555f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to brag"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyết sắc tố",
+   "base": "f4fa4e989d38b125",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "haemoglobin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyết thanh học",
+   "base": "0313b291a074d590",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "serology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyết áp kế",
+   "base": "007197dba052ea6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sphygmomanometer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyền thuật",
+   "base": "a2e4ce043a5e2ac3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyễn hoặc",
+   "base": "ecd6c158caad428a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to delude; to deceive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyện lệnh",
+   "base": "d51f5fc2abd67454",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "head of a county or district; a county magistrate or chief"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyện lị",
+   "base": "df463dc5945f677f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "administrative center of a rural district (huyện)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Câu thơ ấy nhắc đến một dòng sông chảy qua thị trấn huyện lỵ Đại Lộc ngày nay,[…]",
+     "en": "The verse mentions a river flowing through the present-day district capital of Đại Lộc, […]"
+    }
+   ]
+  },
+  {
+   "headword": "huê",
+   "base": "1340243379f4c3ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern",
+      "obsolete",
+      "rare"
+     ],
+     "gloss": "flower"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "1937, Dương Bá Trạc, \"Vào hè (Into Summer)\" in Nét mực tình (The Affectionate Ink Stroke)",
+     "en": "The yellow (hue) fades; the color wanes; (I feel) dismayed for the flowers. / The rosy and colorful (petals) fall and drop; (I feel) sorry for the flowers."
+    }
+   ]
+  },
+  {
+   "headword": "huý",
+   "base": "22daebf02da7c70a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "taboo"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "taboo name"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huý kị",
+   "base": "4889b0b5639cfd44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to avoid; to abstain (from); to refrain (especially in a superstitious and fearful way)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a taboo (something culturally forbidden)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "name taboo (especially to prohibit using the names of royalty)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huấn hỗ",
+   "base": "edf109e8f857913a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "to interpret the meaning of phrases or characters in Hán văn texts"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "exegesis of Hán văn texts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tiên Nho cắt nghĩa sách Thái Huyền đã nhiều, song văn của Dương Tử phần nhiều thuộc về lối huấn hỗ ý nghĩa đã sâu xa, mà sách Thái Huyền lại là thú văn sâu xa khó hiểu hơn nữa.",
+     "en": "The Confucian scholars of earlier times have produced many explanations of the Taixuanjing, however the writings of Yang Xiong mostly belong to the exegetical style, whose meanings are already profound and far-reaching, while the Taixuanjing itself is an even more difficult work of literature to understand."
+    }
+   ]
+  },
+  {
+   "headword": "huấn hỗ học",
+   "base": "625afafd0b130bc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "the study of exegesis in Hán văn texts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Song cái học thuật trong thời đại từ Hán đến Đường chỉ chú trọng ở sự tìm nghĩa lý trong các Kinh Truyện, thành ra một lối học gọi là huấn hỗ học.",
+     "en": "However, the scholarship from the Han to the Tang period only focused on seeking the meanings within the Classics, thus forming a style of learning called exegetical studies"
+    }
+   ]
+  },
+  {
+   "headword": "huấn lệnh",
+   "base": "570357b7f24198c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "instruction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huấn độc",
+   "base": "bf1782c6f6f6e001",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "to read chữ Hán semantically with an unrelated vernacular morpheme"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "semantic readings of chữ Hán"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Japanese kanbun kundoku"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huống",
+   "base": "87c482c68c040fb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "much less; let alone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huống gì",
+   "base": "505fabc59e74c134",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "let alone; much less"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huỳnh huỵch",
+   "base": "f1efa119e4518c1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in a seemingly unstoppable way"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huỷ",
+   "base": "0cfcb1df9b671b1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to terminate; to cancel"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "reverse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "huỷ giấy tờ",
+     "en": "to cancel one's papers"
+    },
+    {
+     "sense": 1,
+     "vi": "huỷ bản hợp đồng",
+     "en": "to terminate a contract"
+    }
+   ]
+  },
+  {
+   "headword": "huỷ bỏ",
+   "base": "8cb7153e2d4486c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to annul; to repeal; to abrogate, to void; to cancel, to terminate"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "cancel (used to dismiss a prompt, discarding any input and avoiding any action)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "huỷ bỏ hồ sơ đăng ký cử tri",
+     "en": "to cancel a voter registration"
+    },
+    {
+     "sense": 1,
+     "vi": "huỷ bỏ hợp đồng",
+     "en": "to terminate a contract"
+    },
+    {
+     "sense": 1,
+     "vi": "huỷ bỏ kết quả kì thi",
+     "en": "to cancel the results of an examination"
+    }
+   ]
+  },
+  {
+   "headword": "huỷ diệt",
+   "base": "9e64d85c90f47a6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to destroy, exterminate, annihilate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huỷ hoại",
+   "base": "dd0568da7e30c8d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to destroy; to demolish; to ruin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hypebol",
+   "base": "abe3a6c18bdae64e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hyperbola"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hà chính",
+   "base": "26225466f1a2d799",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tyranny"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] vì dân không sợ gì bằng sợ cái hà chính của ông vua bất-nhân.",
+     "en": "[…] for what the people fear most is the tyranny of an unvirtuous king."
+    }
+   ]
+  },
+  {
+   "headword": "hà cớ gì",
+   "base": "1a5a985abd85fe2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "why the hell; why in the world; why in God's name"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hà cớ gì mà cứ chạy ra chạy vô hoài ?!",
+     "en": "Why the hell do you keep running around constantly like a maniac?!"
+    }
+   ]
+  },
+  {
+   "headword": "hà hiếp",
+   "base": "e961581ad76ee345",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tyrannize, to ride roughshod over"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kha đại hiệp, nếu bạn của ngươi bất hạnh gặp nạn, vợ góa bị người ta khinh khi hà hiếp thì ngươi có cứu không?",
+     "en": "Chivalrous Kē, if a friend of yours meets with mishap and his widow is scorned and tyrannised, do you save her?"
+    }
+   ]
+  },
+  {
+   "headword": "hà thủ ô",
+   "base": "3167dde645da39a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese knotweed (Reynoutria multiflora)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hài hoà",
+   "base": "5d2cc5931c111b23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "harmonious; harmonic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hài đồng",
+   "base": "87dd5f286812c842",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "baby; infant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hài độc thoại",
+   "base": "3e13b83bd5a92f34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stand-up comedy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàm hằng",
+   "base": "637c6806c7cb1d13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a constant function"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàm hợp",
+   "base": "953ad760b5ce41e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "composite function"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàm lượng giác",
+   "base": "77e6e1009ed3c7f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trigonometric function"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàm mũ",
+   "base": "d3e3d2f7333eb11b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exponential function"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

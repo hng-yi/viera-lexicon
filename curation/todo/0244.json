@@ -1,0 +1,1323 @@
+{
+ "batch": "0244",
+ "entries": [
+  {
+   "headword": "công nghiệp hóa",
+   "base": "831c42508ce4e79c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of công nghiệp hoá."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of công nghiệp hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công nhân quý tộc",
+   "base": "e7ff589ed1afc378",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(socialism) labour aristocracy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nói đến giai cấp công nhân trước đây, chúng ta thường nghĩ nhiều đến những người lao động chân tay hơn là những người lao động trí óc; chủ yếu nói đến công nhân \"áo xanh\", ít nói đến công nhân \"áo vàng\" (kỹ thuật viên); còn công nhân \"áo trắng\" hay \"công nhân cổ cồn\" (kỹ sư) thì cho rằng, họ thuộc tầng lớp công nhân quý tộc, gắn bó chặt chẽ với giai cấp tư sản và là cơ sở xã hội của chủ nghĩa cải lương trong phong trào công nhân.",
+     "en": "Formerly when talking about the working class, we more often thought about manual workers than intellectual workers; mainly talked about \"blue collar\" workers and rarely about \"gold collar\" (technicians); as for \"white collar\" workers (engineers), [we] often supposed that they belonged to the labour aristocracy, being closely tied to the bourgeoisie and being the social support base of reformism in the workers' movement."
+    },
+    {
+     "sense": 1,
+     "vi": "Tầng lớp công nhân quý tộc này đã tác động đến phong trào công nhân, làm cho chủ nghĩa cơ hội phát triển trong phong trào công nhân.",
+     "en": "This aristocracy of labour affected the workers' movement, causing opportunism to develop therein."
+    }
+   ]
+  },
+  {
+   "headword": "công nữ",
+   "base": "f11917f6dfb975e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "the title of a duke's daughter, opposed to công tử (“duke's son”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công quốc",
+   "base": "af5e954007e075fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a principality"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a duchy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Công Quốc Mô-na-cô",
+     "en": "the Principality of Monaco"
+    },
+    {
+     "sense": 2,
+     "vi": "Đại Công Quốc Lúc-xăm-bua",
+     "en": "the Grand Duchy of Luxembourg"
+    }
+   ]
+  },
+  {
+   "headword": "công sản",
+   "base": "c35f1762bcc501db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "public assets, public property"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cục quản lý công sản",
+     "en": "department of public asset management"
+    }
+   ]
+  },
+  {
+   "headword": "công ta",
+   "base": "b2676c1bbd75b4d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "contract"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công thành danh toại",
+   "base": "762400ba1f3dd3c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "merits accomplished, fame/honor achieved"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the person in question has finally been/is now at a very good place in their career"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công thái học",
+   "base": "a258b37045945cd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ergonomic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công thương",
+   "base": "9e161894e813f377",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "industry and commerce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công thức hoá học",
+   "base": "84baebf3391ea28f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a chemical formula"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Công thức hoá học của nước là H₂O.",
+     "en": "The chemical formula of water is H₂O."
+    }
+   ]
+  },
+  {
+   "headword": "công thức máu",
+   "base": "2f29ddb23d342f97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "complete blood count"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công thự",
+   "base": "fd5712fb02d0c72d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hall, used as a government office"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công tơ",
+   "base": "d2e813b6ea9e415e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "metre (for electricity, water, gas, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công tử bột",
+   "base": "e27458bc6a446a53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "figuratively",
+      "often"
+     ],
+     "gloss": "someone who is lazy, doesn't work much, doesn't have much knowledge of the society and can be weak"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công viên giải trí",
+   "base": "857eb1e03db9d8a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amusement park"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công vụ viên",
+   "base": "5a66064196b5209a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "public servant; civil servant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công xa",
+   "base": "49c538defee403ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "dated"
+     ],
+     "gloss": "vehicle for public officials"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công xéc tô",
+   "base": "5324cec148c9892d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concerto"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công án",
+   "base": "72d971f8abb3720f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "koan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công điện",
+   "base": "098c06f22ffcd565",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an official telegram from a government institution; a dispatch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công-te-nơ",
+   "base": "79bf289bd7ca561a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "container (large metal box for transporting goods)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "semi-trailer truck"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công-xoóc-xi-om",
+   "base": "7a7a23adbd592100",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "consortium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công-xéc-tô",
+   "base": "5324cec148c9892d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concerto"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côsin",
+   "base": "197cbfa7a7628041",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cosine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côtang",
+   "base": "0790681ce04b9d05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cotangent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cõi tạm",
+   "base": "fc2c4c82c0716f6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "mortal world"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cõi vĩnh hằng",
+   "base": "c1e8aacb6b44051b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the world of the dead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cõng chữ lên non",
+   "base": "9f623f3d22ee2b7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to go to a remote, mountainous and underdeveloped area to do voluntary teaching"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cù bơ cù bất",
+   "base": "ab0a975c3756ffbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "derelict; vagrant; homeless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cù kì",
+   "base": "d6ffdfec52d2799e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stone crab (Myomenippe hardwickii)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cù lao",
+   "base": "0f448a9759f986da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "river island, ait"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small island, islet"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "labor, toil, drudgery"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ngoài cửa có cái hồ Hoàn-gươm rộng lớn; giữa hồ lại có cái cù-lao nho-nhỏ có cất cái miễu Ngọc-sơn, cây cối im-rợp huyền vũ coi tươi-tốt. Nhà thiên hạ, phố-xá ở bao lấy miệng hồ.",
+     "en": "Just outside the temple's gate is the large Lake Hoàn-gươm; in the middle of the lake there is an islet on which built a small temple called Ngọc-sơn, where vegetation grows lush under the eyes of the Black Tortoise. Houses and streets surround the lake."
+    },
+    {
+     "sense": 3,
+     "vi": "Cù lao đội đức cao dày,",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "cù lần",
+   "base": "2a16b67c91414c08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "loris"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "slow on the uptake, dumb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùi bắp",
+   "base": "5529e9ef5609997c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cob of corn"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "slang"
+     ],
+     "gloss": "something or someone bad-quality or useless; noob"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "slang"
+     ],
+     "gloss": "bad; lousy; useless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùi dìa",
+   "base": "04fc235d0c5591b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "spoon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùm kẹp",
+   "base": "fc751cab7d288778",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to restrain, as if restrained by fetters in confinement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đã sống cùm kẹp trong tù rồi thì khó mà tự chủ ngoài đời lắm.",
+     "en": "Hardly would the defendants be able to live their own life with such a record of previous confinement in jails."
+    }
+   ]
+  },
+  {
+   "headword": "cùng cha khác mẹ",
+   "base": "fa1570a394fb386a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "born of the same father but a different mother"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùng chung",
+   "base": "2efc030f8c53c8f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to share something in common"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùng khổ",
+   "base": "fed931e11ed57b15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impoverished, destitute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùng mẹ khác cha",
+   "base": "d6f75df0cba31827",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "born of the same mother but a different father"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cùng nhau",
+   "base": "124eb9f7ec33b693",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "together"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú có gai",
+   "base": "eeffdfa3ad0001e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "offensive",
+      "slang"
+     ],
+     "gloss": "a transgender person or a femboy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú lợn",
+   "base": "e7501f4f82374a1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a barn owl"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú muỗi",
+   "base": "94b58f19bb90ddd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nightjar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú mèo",
+   "base": "40a094d6b470c5ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a true owl"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú pháp",
+   "base": "42d134f4ebda72c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "syntax"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú pháp học",
+   "base": "42d134f4ebda72c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "syntax"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cú vọ",
+   "base": "fa67918b0f8dc937",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pygmy owl"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "scheming with ill intention towards other people"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đôi mắt cú vọ",
+     "en": "scheming eyes"
+    }
+   ]
+  },
+  {
+   "headword": "cú đêm",
+   "base": "7e36138f63ce548d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stay up very late or to pull an all-nighter"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a night owl"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tối nay cú đêm ôn tập để thi.",
+     "en": "Tonight I'm gonna pull an all-nighter to study for exams."
+    }
+   ]
+  },
+  {
+   "headword": "cúc cung tận tuỵ",
+   "base": "e9f5a2a1972f5bd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bent to a task and exerting oneself to the utmost in the performance of one's duty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] trước sau chỉ một niềm cúc cung tận tụy về việc học.",
+     "en": "[…] throughout there is only complete devotion to the pursuit of learning."
+    }
+   ]
+  },
+  {
+   "headword": "cúc cung tận tụy",
+   "base": "17686c93ec6da88f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of cúc cung tận tuỵ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúc vu",
+   "base": "b642bf996b2677db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Jerusalem artichoke"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúc vạn thọ",
+   "base": "97cc8342ea797360",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mexican marigold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúc đá",
+   "base": "62033e98896f5c08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ammonite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúm núm",
+   "base": "f8a50d41e56418d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crabs of the genus Calappa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúng cơm",
+   "base": "023fae197bc94d7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to offer food for the recently deceased in the first fifty days after their death"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to make ceremonial offerings on the death anniversary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúng dường",
+   "base": "f399c5f4fed604a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make an offering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúp điện",
+   "base": "7105822183cb3a59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to lose electric power"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vụ cúp điện",
+     "en": "a power outage"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhà tôi bị cúp điện.",
+     "en": "My house lost power."
+    }
+   ]
+  },
+  {
+   "headword": "cút bắt",
+   "base": "e11d15191458009d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hide-and-seek"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Và hằng bao lớp người đã đi gần hết kiếp nhân sinh mà vẫn đuổi theo hạnh phúc như trò chơi cút bắt: có khi tóm được nó thì nó lại tan biến, có khi ngỡ mình tay trắng thì lại thấy nó chợt hiện về.",
+     "en": "And countless generations of people when nearing the end of their lives still chase happiness like a game of hide-and-seek: sometimes they catch it and it vanishes, sometimes they think they stand empty-handed and suddenly it is back."
+    }
+   ]
+  },
+  {
+   "headword": "cút đi",
+   "base": "66cedd88e5618993",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "get out of here, beat it"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căm căm",
+   "base": "61a33b51814067b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "ideophonic"
+     ],
+     "gloss": "bitterly"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "kind of crab"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thịt Căm căm ngon tuyệt đỉnh, nếu rang cho 3 người ăn cần chừng hai lạng, [...]",
+     "en": "Căm căm meat is superbly delicious, and about two tael of this roasted delicacy is needed to feed three people, …"
+    }
+   ]
+  },
+  {
+   "headword": "căm tức",
+   "base": "fed314e0620f0a30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resent; angrily distrust"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn bậc ba",
+   "base": "ed68539b961c097c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cube root"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn bậc hai",
+   "base": "0f7841da45ee888d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "square root"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn cơ",
+   "base": "25ae6308aa68185a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foundation; basis"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "economical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn cớ",
+   "base": "e4ea16017eac5e50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reason; ground"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn do",
+   "base": "7e35d98d818b4fe7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cause; origin; reason"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn thức",
+   "base": "8ff003b9a41f2467",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "a root"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn tính",
+   "base": "e678f9074512872c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inherent nature; character"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn tố",
+   "base": "ce36d4c760a70969",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "root"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căng cắc",
+   "base": "dbe633763b354175",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Used to imitate the sounds of hard, brittle objects being broken repeatedly: cracking, snapping, crunching continuously"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhai xương căng cắc",
+     "en": "to chew bones with a (loud) crunch"
+    }
+   ]
+  },
+  {
+   "headword": "căng da bụng, chùng da mắt",
+   "base": "268d5075235815b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "having a full belly can make one sleepy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] cô tình báo viên luôn nhớ lời cha dặn, không khi nào ăn thích khẩu, bao giờ cũng chỉ trong chừng mực nhất định. Bởi vậy cô ta không bao giờ ở trong tình trạng căng da bụng, chùng da mắt, đầu óc lúc nào cũng tỉnh táo.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "căng tin",
+   "base": "310ed2a156337622",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "canteen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căng-gu-ru",
+   "base": "7fe6f22aef4b5783",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kangaroo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căng-tin",
+   "base": "72250bd996e454bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "canteen, cafeteria"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "school snack bar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cũ càng",
+   "base": "5c7f6f36eee6d0ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "old; former"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cũn cỡn",
+   "base": "0110820e99c7478f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "exceptionally short"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ hàn",
+   "base": "f676ba1515425b3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "destitute; deprived; impoverished"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ học lượng tử",
+   "base": "cb04fa5c7b7829ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quantum mechanics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ hồ",
+   "base": "de2892d7704fa638",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "almost, nearly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quách Tĩnh cổ họng bị xiết^([sic]), cơ hồ không thở được.",
+     "en": "Guō Jìng was being choked, he almost could not breathe."
+    }
+   ]
+  },
+  {
+   "headword": "cơ năng",
+   "base": "b4adea262646547e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a function; dynamic; mechanic (especially in biology and medicine)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mechanical energy"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "functional; mechanical"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Triệu chứng cơ năng",
+     "en": "Functional Symptoms"
+    }
+   ]
+  }
+ ]
+}

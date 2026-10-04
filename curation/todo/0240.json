@@ -1,0 +1,1386 @@
+{
+ "batch": "0240",
+ "entries": [
+  {
+   "headword": "chủ toạ",
+   "base": "847c4aa6fca4bbd7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the host; the head"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chair; chairperson; presiding official"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to chair; preside (over)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ trị",
+   "base": "af4a676e89a80525",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "to primarily treat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ tịch đoàn",
+   "base": "cc22fa4ebeea61a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "presidium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ từ",
+   "base": "3158d3a588af449c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a subject"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ vắng nhà, gà vọc niêu tôm",
+   "base": "1223c688df522f7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "when the cat's away the mice will play"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ âm",
+   "base": "47e35295d075448b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a keynote; tonic; prime"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ điền",
+   "base": "3b3e7376de7916ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "a landlord; landowner (especially of farmland)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủng ngừa",
+   "base": "39d191a9293381c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to inoculate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phương-pháp hữu hiệu nhất là chủng ngừa. Ở những nơi có bệnh thường xuyên người ta nhận thấy phải chủng ngừa tới 80% dân chúng trong vùng trong khoảng 5 năm mới mong tận diệt hết bệnh trong vùng (Davey và Lightbody. 1965).",
+     "en": "The most effective method is inoculation. In areas with regular disease outbreaks, it is observed that up to 80% of the population in the area must be inoculated in about 5 years' time to eradicate the disease in that area (Davey and Lighbody, 1965)."
+    },
+    {
+     "sense": 1,
+     "vi": "Nói gọn hơn, chủng ngừa là nhằm phòng ngừa một bệnh nào đó bằng cách tạo nên sự miễn dịch cho trẻ từ khi mới sinh ra, tức là từ khi trẻ có thể bị nhiễm bệnh.",
+     "en": "More succinctly, inoculating aims to prevent a certain disease by having the child build immunity from the moment of its birth, meaning from the moment it could be infected."
+    },
+    {
+     "sense": 1,
+     "vi": "Khoảng 43.000 người đã được chủng ngừa và không có lo ngại về an toàn nào được nêu ra.",
+     "en": "About 43,000 people have been inoculated and no safety concerns have been raised."
+    }
+   ]
+  },
+  {
+   "headword": "chủng tộc thượng đẳng",
+   "base": "5500a163f6d6c252",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Nazism",
+      "especially"
+     ],
+     "gloss": "master race"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đứa trẻ “chủng tộc thượng đẳng” tiết lộ sự thật đằng sau các bức ảnh chụp với Hitler",
+     "en": "The “Master Race” Child Reveals the Truth Behind Pictures Taken with Hitler (a 2015 Lao Động article)"
+    }
+   ]
+  },
+  {
+   "headword": "chủng tử",
+   "base": "fb375ad1d6f4d512",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Hinduism"
+     ],
+     "gloss": "bija (the origin or cause of things)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủng viện",
+   "base": "fd134a7407793560",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a seminary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứ lị",
+   "base": "35a76bf8e74513f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Used to emphasize the previous statement, implying that there is no other opinion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đã đá banh thì phải đá đẳng cấp như thế chứ lị!",
+     "en": "Since you play football, you have to play with class like that!"
+    }
+   ]
+  },
+  {
+   "headword": "chức nghiệp",
+   "base": "ab5cc813b28293df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "career, profession"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng khoán hoá",
+   "base": "1a189009a842da7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "securitization"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng khoán hóa",
+   "base": "ec9c494cf2729e6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of chứng khoán hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng lí",
+   "base": "78ae8364e5b1ec0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "evidence; proof (to support an argument)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng nghiệm",
+   "base": "8882b8b302676080",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to verify; to validate; to test (for factual credibility)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "figuratively"
+     ],
+     "gloss": "to experience"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chửa hoang",
+   "base": "90186bec9502f2b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be pregnant without getting married, or to be made pregnant by a lover"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chửa trâu",
+   "base": "fb36a1b23d529e57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "overdue"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "postterm, postmature, at or beyond 42 0/7 weeks"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ Hán",
+   "base": "2a520281a60cfad7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Chinese character"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ Nho",
+   "base": "672905418b2d2ac6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese character"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ Nôm",
+   "base": "cee70edbded67e7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a historical writing system derived from Chinese characters that was once used to write Vietnamese"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "certain writing system(s) derived from Chinese characters historically used by certain groups of speakers of Tai languages in Vietnam to write their language(s), now usually grouped together as chữ Nôm Tày (\"the Nôm script of the Tày people\")"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chữ Nôm của dân tộc Tày tỉnh Bắc Kạn vừa được công nhận là Di sản văn hóa phi vật thể cấp quốc gia.",
+     "en": "The Nôm script of the Tày people of Bắc Kạn Province has just been recognized as a national intangible cultural heritage."
+    }
+   ]
+  },
+  {
+   "headword": "chữ Trung Quốc",
+   "base": "f4364f9839467bb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese character, hanzi (writing system of Chinese)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ Tàu",
+   "base": "2a520281a60cfad7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Chinese character"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ cứng",
+   "base": "31546c516125177c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "katakana"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ hành",
+   "base": "1d56846afcfac98f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "semi-cursive script"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ khải",
+   "base": "94a730ac3e509ea4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "regular script"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ khẩu",
+   "base": "0732feee1c200c3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "square and empty inside"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having the layout of a courtyard house"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see chữ, khẩu."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hình chữ khẩu",
+     "en": "an empty square"
+    },
+    {
+     "sense": 1,
+     "vi": "Lắp lại đoạn cần có tiết diện chữ khẩu vào mặt bích B, tháo 2 bù tâm lớn để thả mặt bích B xuống mâm quay.",
+     "en": "Mount the rod section with box-shaped cross-section onto flange B, then remove the two large centering plugs to lower flange B onto the turntable."
+    },
+    {
+     "sense": 1,
+     "vi": "Khẩu Đao xuất hiện khi vảy đường thới di chuyển lên, với một vảy chữ Khẩu ở cựa.",
+     "en": "The khẩu đao is characterized by the row of scales along the backside of the leg moving upward, with an empty-square scale at the spur."
+    },
+    {
+     "sense": 2,
+     "vi": "nhà chữ khẩu",
+     "en": "courtyard house"
+    },
+    {
+     "sense": 2,
+     "vi": "Chữ Khẩu thường xuất hiện ở chùa tổ (10 chùa tổ khảo sát đều là chữ Khẩu).",
+     "en": "Courtyard [layouts] are often found in tổ temples (the ten tổ temples surveyed are all courtyard [type])."
+    },
+    {
+     "sense": 2,
+     "vi": "Nhà có lối kiến trúc đặc biệt theo kiểu chữ Khẩu thường thấy ở kiến trúc đình, chùa.",
+     "en": "The house is of the special courtyard-house type of architecture often see in communal houses and Buddhist temples."
+    }
+   ]
+  },
+  {
+   "headword": "chữ kép",
+   "base": "ea4bc445cc3cdcc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "compound phonograms, a category of Nôm characters where each character is composed of two components that are both phonetics; these characters were more popular in the earlier Nôm texts, representing words with initial cluster or presyllable, but their usage persists to some extent even after phonological changes had rendered the phonetics obscure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ mềm",
+   "base": "f90807f570b5a87f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hiragana"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ số có nghĩa",
+   "base": "0a2aabf838bc12ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "significant digit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ thảo",
+   "base": "8e74533cf491f66e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grass script"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ vạn",
+   "base": "c21ae6716498ea59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a swastika"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ đơn",
+   "base": "b0361f8135d95f74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "single characters that were borrowed for their sound, a category of Nôm characters where each character is borrowed for their phonetics, \"simple phonograms\"; this was one of the main components in Nôm texts alongside semantophonograms."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "simplified characters"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữa bệnh",
+   "base": "4efff8b765d26fbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat medically; to cure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữa lợn lành thành lợn què",
+   "base": "d3529a022a675050",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to try to \"cure\" a healthy pig and end up making it lame"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to try to fix it while it ain't broke and end up breaking it"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "clohiđric",
+   "base": "30aba497640a1c2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hydrochloric"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "clorua",
+   "base": "b36f9afe0bab3976",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chloride"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "clây-mo",
+   "base": "22ef94bd43ded635",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Claymore anti-personnel mine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Địch chấm clây-mo một loạt mấy chục trái, như bom B.52.",
+     "en": "The enemy had placed dozens of Claymore mines at once, like B-52 bombs."
+    }
+   ]
+  },
+  {
+   "headword": "coi mắt",
+   "base": "59f6470342538940",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to meet with a date via a dating service"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "coi trời bằng vung",
+   "base": "71081c73a045c02d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be arrogant despite one's ignorance; to be egotistical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "com-lê",
+   "base": "0005ecef467be596",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "suit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "com-pa",
+   "base": "5b355896a8863c49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pair of compasses"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "come out",
+   "base": "f02c83533cdd5e57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "to come out of the closet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh đã come out với bố mẹ chưa?",
+     "en": "Have you come out of the closet to your parents?"
+    }
+   ]
+  },
+  {
+   "headword": "comment",
+   "base": "1fe5855896898051",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Internet"
+     ],
+     "gloss": "comment"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Internet"
+     ],
+     "gloss": "to comment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con Lạc cháu Hồng",
+   "base": "ab4aa79f2a74baa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "Vietnamese people of noble ancestry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con có cha như nhà có nóc",
+   "base": "19b24b5f7c196591",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "\"children need their fathers to be complete\""
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con dại cái mang",
+   "base": "4e8ac25048e08fb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "the child's mistakes fall on the parents"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con ghẻ",
+   "base": "65be27ca9bc5887c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stepchild"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con gái",
+   "base": "f065a3c4a46f70c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "girl (young female)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "daughter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con gái con đứa",
+   "base": "e94a64a43e66b8fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "colloquial",
+      "disapproving"
+     ],
+     "gloss": "what kind of girl that..."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con gái con đứa (gì) mà chẳng có ý tứ gì cả!",
+     "en": "How come you're so not ladylike?"
+    }
+   ]
+  },
+  {
+   "headword": "con gái rượu",
+   "base": "6246e33148667655",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "endearing",
+      "humorous"
+     ],
+     "gloss": "a beloved daughter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lại đây nào, con gái rượu của bố!",
+     "en": "Come here, my little baby girl!"
+    }
+   ]
+  },
+  {
+   "headword": "con hư tại mẹ, cháu hư tại bà",
+   "base": "83824b401a5471de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "it's the mother's fault that her child's spoiled, and it's the grandmother's that her grandchild is"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con mẹ",
+   "base": "afbccffd281bfa66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see con, mẹ."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "hag; witch (ugly old woman)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "\"Đây là con Mẹ.\" (Ga. 19, 26–27)",
+     "en": "\"Woman, behold, your son.\" (John 19:26–27)"
+    }
+   ]
+  },
+  {
+   "headword": "con một",
+   "base": "5f7927bd85397b13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "only child; person with no siblings"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the first"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con nhà tông không giống lông cũng giống cánh",
+   "base": "e42cb5ce1b6942c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "the apple does not fall far from the tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con này",
+   "base": "61f833139f2cd39c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "she/her, this gal we're talking about"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, a female who ain't afraid of no one"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Con này đéo sợ đứa nào nhá!",
+     "en": "I ain't afraid of none uv ya asses!"
+    }
+   ]
+  },
+  {
+   "headword": "con sâu làm rầu nồi canh",
+   "base": "13ec985cd0185e86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "one caterpillar spoils the broth pot"
+    },
+    {
+     "position": 2,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "one bad apple can spoil the barrel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con trai",
+   "base": "f8521863040e17df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boy (young male)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "son (a male person in relation to his parents)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con trai con đứa",
+   "base": "59703ff443ed660a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "colloquial",
+      "disapproving",
+      "rare"
+     ],
+     "gloss": "what kind of boy that..."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con trai con đứa (gì) mà chẳng ga-lăng gì cả!",
+     "en": "You have no chivalry and you call yourself a man?"
+    }
+   ]
+  },
+  {
+   "headword": "con trâu là đầu cơ nghiệp",
+   "base": "34860ce6a3110109",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "having a water buffalo allows one to start a business"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con trỏ",
+   "base": "9ae38f4d46f1f62e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cursor"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pointer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con tạo",
+   "base": "f4bedc91fb20b28f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "the Creator"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con ông cháu cha",
+   "base": "4e48677584208555",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "child or grandchild of an important person, a nepo baby"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mọi người xì xào vì tôi là con ông cháu cha nên được nâng đỡ, điều này thì đúng, nhưng tôi biết họ lầm vì trong chuyện này bố mẹ tôi không hề can thiệp vào. Vậy thì vì cái gì mà ông ta quý mến tôi?",
+     "en": "People gossiped that I was favored because I was nepo baby, which was true, but I knew they were wrong because my parents had no involvement in this case. So why did he like me?"
+    }
+   ]
+  },
+  {
+   "headword": "con đỏ",
+   "base": "d3f8d1c59e8da3cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "commoners treated as \"babies\" by their protector, such as a monarch or a deity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đạo Khổng Mạnh không phải là cách chuyên chế của các nhà vua mà anh em đã mộng tưởng đâu. Đạo Khổng Mạnh dạy quân dân tịnh trọng (vua dân đều trọng) và rất bình đẳng; vua và dân đều cần có đạo đức luân lý, nghĩa là dân phải kính trọng vua như cha mẹ mà vua cũng suy lòng đó mà yêu dấu dân như con đỏ vậy.",
+     "en": "Confucianism-Mencianism is not the monarchs' authoritarianism you guys think it is, no. Confucianism-Mencianism teaches reciprocal respect among monarchs and subjects, it's actually about equity; monarchs and subjects all need morality and ethics, meaning that subjects have to respect their monarchs like their own parents, and monarchs also have to love their subjects like their own children."
+    },
+    {
+     "sense": 1,
+     "vi": "Như vậy, không nhất thiết Ngài chỉ thị hiện nữ thân mà là vô số thân. Nhưng do niềm tịnh tín của các dân tộc vùng Đông Nam Á nói chung và Việt Nam nói riêng thì hình ảnh người Mẹ hiền, thương chúng sinh như con đỏ, thường che chở, gia hộ và tưới mát những tâm hồn khổ đau của Ngài, rất được quần chúng nhân dân ngưỡng mộ và tôn thờ.",
+     "en": "Thus, They do not necessarily manifest as a female form, but any form. Due to the unadulterated faith among the peoples of Southeast Asia in general and Vietnam in particular, in the figure of a gentle Mother who loves all life like babies, who shields, protects and relieves Their suffering souls, they love and worship Them earnestly."
+    }
+   ]
+  },
+  {
+   "headword": "copernixi",
+   "base": "06017601b34b1970",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "copernicium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "coronavirus",
+   "base": "fd456bfadf9649d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coronavirus"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bộ Ngoại giao Việt Nam hôm qua xác nhận có 8285 người Việt “đang sinh sống, học tập và lao động” tại thành phố Daegu, tâm dịch coronavirus ở Hàn Quốc.",
+     "en": "The Vietnam Foreign Ministry yesterday confirmed that 8,285 Vietnamese “are living, studying, and working” in the city of Daegu, the epicenter of a coronavirus outbreak in South Korea."
+    },
+    {
+     "sense": 1,
+     "vi": "Italia bị dịch Coronavirus nặng nhất sau Trung Quốc.",
+     "en": "Italy suffered the worst coronavirus outbreak after China."
+    }
+   ]
+  },
+  {
+   "headword": "coóc-xê",
+   "base": "88d52061cd354e07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "bra; brassiere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cre",
+   "base": "5677ac7665a43fe9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "credit (acknowledgement of a contribution)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to credit the author of something"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Viết cre vào đi ông.",
+     "en": "Write the credits, dude."
+    },
+    {
+     "sense": 1,
+     "vi": "Cre ảnh của bạn Tuân nhé.",
+     "en": "Credits to Tuân for this image."
+    }
+   ]
+  },
+  {
+   "headword": "cu-lắc",
+   "base": "6115e35a67828aba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "kulak"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cu-roa",
+   "base": "76316101b5d9554a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "belt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cua cạn",
+   "base": "e02edb5711d72263",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land crab"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cua đinh",
+   "base": "922713fe2ce559a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soft-shell turtle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cua đồng",
+   "base": "33f61908de4916d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "various freshwater crabs of the genus Somanniathelphusa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cumingtonit",
+   "base": "1eecf7a25bb5f14e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Cummingtonite."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung chúc tân xuân",
+   "base": "e96cac49c6cc228a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "words of wishes and celebration for a wonderful new year"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "Happy Lunar New Year!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung hỉ phát tài",
+   "base": "1a8b3267cca54371",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "May you have a prosperous New Year!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung lượng",
+   "base": "bfa100abbac67538",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "output; capacity; efficiency"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cung lượng tim",
+     "en": "cardiac output"
+    }
+   ]
+  },
+  {
+   "headword": "cung thành",
+   "base": "4cccee7fd35f5dcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "imperial palace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung đạo",
+   "base": "324b2b37989d5212",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kyudo"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

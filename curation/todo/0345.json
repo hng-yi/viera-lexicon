@@ -1,0 +1,1328 @@
+{
+ "batch": "0345",
+ "entries": [
+  {
+   "headword": "đỏ hoe",
+   "base": "c8c8ffe08053f173",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pale red"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ hoét",
+   "base": "6e3146861e1869c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bright red"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ hung",
+   "base": "e56d92f2f95317f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ginger or rufous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ hỏn",
+   "base": "05a3bc2eef5ab17e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pink-red (like the skin of a newborn baby)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ ké",
+   "base": "c2bccc2d7d04d946",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bloodshot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ mặt tía tai",
+   "base": "0741bd214aa27d2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "furious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ nọc",
+   "base": "dd4566a6956f4505",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of đỏ đọc"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ đen",
+   "base": "10ab543ce1b0dcc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "luck and misluck"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "gambling"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(computer science) red-black tree"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đam mê đỏ đen chỉ được cái khổ thôi.",
+     "en": "An obsession with gambling brings nothing but misery."
+    }
+   ]
+  },
+  {
+   "headword": "đỏ đèn",
+   "base": "7ff31f7f792ad27e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to light up; to turn the lights on"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ đắn",
+   "base": "7984ada3ed3baf48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pinkish in a way that indicates good health or beauty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ đọc",
+   "base": "ac12cf68e49988a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blood red"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏm dáng",
+   "base": "1278d33ac4bfa777",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smart in outward appearance, spruced up, neatly dressed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Du kích vùng ven có khác, đỏm dáng như công tử cả.",
+     "en": "Guerrillas of the coast are different: all spruced up like princes."
+    }
+   ]
+  },
+  {
+   "headword": "đỏng đa đỏng đảnh",
+   "base": "f27dbc70f1192add",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of đỏng đảnh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đốc chiến",
+   "base": "df30c6bc645d60dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lead military operations"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lúc ấy, quân địch phía Đông bắc đã điều động tinh binh tới tấn công, giương cao ba ngọn cờ đại độc màu đen, rõ ràng có ba viên đại tướng đốc chiến.",
+     "en": "At that moment, the enemy army in the Northeast had moved their elite troops to attack and raised three large black army banners; there were obviously three generals leading the troops in battle."
+    }
+   ]
+  },
+  {
+   "headword": "đốc-tờ",
+   "base": "d07500427a226e57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "obsolete"
+     ],
+     "gloss": "physician"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dép đốc-tờ",
+     "en": "a thick leather sandal"
+    }
+   ]
+  },
+  {
+   "headword": "đối nhân xử thế",
+   "base": "aa26e4530b556e0c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conduct oneself in society"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "biết cách đối nhân xử thế",
+     "en": "to know the correct way of conducting oneself"
+    }
+   ]
+  },
+  {
+   "headword": "đối sánh",
+   "base": "4b7a0cd875546a81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to compare (two items)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối số",
+   "base": "df27e08c0e981784",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an argument"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối đỉnh",
+   "base": "563606368a75a78b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "vertically opposite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối ẩm",
+   "base": "85c07c928623f00b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to drink alcohol or tea with someone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối ứng",
+   "base": "1fa22bbbd46e9d0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "corresponding"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reciprocal; counterpart; correspondent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cặp cạnh đối ứng của hai tam giác đồng dạng",
+     "en": "the corresponding sides of two similar triangles"
+    },
+    {
+     "sense": 2,
+     "vi": "tài khoản đối ứng",
+     "en": "correspondent account"
+    },
+    {
+     "sense": 2,
+     "vi": "tỉ giá đối ứng",
+     "en": "reciprocal rate"
+    },
+    {
+     "sense": 2,
+     "vi": "thuế đối ứng",
+     "en": "reciprocal tariff"
+    },
+    {
+     "sense": 2,
+     "vi": "vốn đối ứng",
+     "en": "counterpart capital"
+    },
+    {
+     "sense": 2,
+     "vi": "Việt Nam lấy làm tiếc trước quyết định áp thuế đối ứng của Mỹ[…]",
+     "en": "Vietnam regrets America's decision to impose reciprocal tariffs […]"
+    }
+   ]
+  },
+  {
+   "headword": "đốp",
+   "base": "fc2195f8ec5d43e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "Used to describe a loud, sharp, crisp sound; with a pop; with a crack"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "rare"
+     ],
+     "gloss": "synonym of mõ (“town crier”)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to speak bluntly; to snap"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nổ đánh đốp",
+     "en": "to explode with a sharp pop"
+    },
+    {
+     "sense": 2,
+     "vi": "thằng đốp ― crier man",
+     "en": null
+    },
+    {
+     "sense": 3,
+     "vi": "đốp cho một trận",
+     "en": "to give someone a sharp talking-to"
+    }
+   ]
+  },
+  {
+   "headword": "đốt cháy giai đoạn",
+   "base": "6f5a2928fca3245c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave out or cut short vital steps out of haste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đốt sống",
+   "base": "2b53b3c253dcd03d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vertebra"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ biển",
+   "base": "22aa46240218a8ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "seafood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ hàng",
+   "base": "b04192c00cc359e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "\"playing shopkeeping\", similar to the game of playing house"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ lề",
+   "base": "619ca66c768ace7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tools and equipment for a specific trade and craft"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đồ lề thợ mộc",
+     "en": "woodworking tools"
+    }
+   ]
+  },
+  {
+   "headword": "đồ mã",
+   "base": "ac23a192bf44f34f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "joss paper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ ngủ",
+   "base": "2540008b943deef3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pajamas"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ uống",
+   "base": "34d94440b6b4297c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drink; beverage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ ăn nhanh",
+   "base": "bac507e15152ca4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fast food"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồi não",
+   "base": "c3f18c19b17150e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thalamus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồi truỵ",
+   "base": "61b61e8e59b02acb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "displaying or referencing sexual activities in graphic detail that's deemed distasteful; obscene (lewd or lustful); NSFW"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "văn hoá phẩm đồi truỵ",
+     "en": "\"obscene\" entertainment products; pornography"
+    },
+    {
+     "sense": 1,
+     "vi": "Cái thằng đồi truỵ vãi!",
+     "en": "You friggin' pervert!"
+    }
+   ]
+  },
+  {
+   "headword": "đồn đột",
+   "base": "290bd3040090d431",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "sea cucumber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng biến",
+   "base": "1dd7893f01de99c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "proportionate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng bằng duyên hải",
+   "base": "354546084ef29d6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a coastal plain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng bệnh tương liên",
+   "base": "59ca39198ab4fc70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic",
+      "literally"
+     ],
+     "gloss": "people who suffer the same illness look out for each other"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively",
+      "idiomatic"
+     ],
+     "gloss": "misery loves company"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng cam cộng khổ",
+   "base": "8d7754475ef8b016",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to share the joys and sorrows (usually emphasising the “sorrow” part)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng cách ngữ",
+   "base": "c6c8f8d1aed7cb8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "words in apposition; appositives"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng căn",
+   "base": "f895c8cd09310b3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of the same origin or root"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng dao",
+   "base": "40db745f214c9079",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "children's folk song"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng hao",
+   "base": "dafea343e1a2fe80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being sons-in-law to the same family"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "anh em đồng hao",
+     "en": "fellow sons-in-law to the same family"
+    }
+   ]
+  },
+  {
+   "headword": "đồng hoá",
+   "base": "7b8accb6ca76c6a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assimilate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng hồ cát",
+   "base": "5184ba31214b17e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hourglass"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng hồ quả quýt",
+   "base": "156ab1af1609f801",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pocket watch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng hồ sinh học",
+   "base": "7e40b74720149b62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a biological clock"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bên trong con người có một đồng hồ sinh học kỳ lạ, hoạt động của các cơ quan trong cơ thể con người đều chịu sự điều tiết và kìm hãm của đồng hồ sinh học.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "đồng hồ tính cước",
+   "base": "6d85b5a63ca3b6ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "taximeter; a taxi billing device"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng hồ vạn năng",
+   "base": "321a371d8cb3fc69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "multimeter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng loã",
+   "base": "d58efa50999da59e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "conspire"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "accomplice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đồng lõa với kẻ giết người",
+     "en": "to conspire with the murder"
+    },
+    {
+     "sense": 2,
+     "vi": "thủ phạm cùng đồng lõa",
+     "en": "the culprit with his accomplices"
+    }
+   ]
+  },
+  {
+   "headword": "đồng phẳng",
+   "base": "ae9d2fb3809f98b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "coplanar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng rêu",
+   "base": "8ffdae7771ca629d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "a moss field"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "tundra"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng sàng dị mộng",
+   "base": "43b70269ed9607b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "people live or work together but have very different interests or agendas"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng thoại",
+   "base": "eb9303bd0804db05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fairy tales"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng đại",
+   "base": "0b368ac773f34e10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synchronic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng đều",
+   "base": "7c41a85cf570bc55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "equal, uniform"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fair, equitable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng ứng cử viên",
+   "base": "5f28513dec39820b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "running mate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ bê tông",
+   "base": "2144235dfe167a8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to park the bus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ dầu vào lửa",
+   "base": "c95e170762002a4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see pour, oil, fire."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to add fuel to the fire, to fan the flames"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ sập",
+   "base": "c547d01c961f8439",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collapse; to fall"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ thêm dầu vào lửa",
+   "base": "cb5e2a708e9b3177",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to add insult to injury; literally \"to add kerosene to fire\""
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ thừa",
+   "base": "053745e8da179afb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to pass the buck to someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cái tật đổ thừa đã nằm trong máu rồi thì có gắng vui vẻ hợp tác với bọn chúng cũng là thừa thôi.",
+     "en": "With their bad habit of passing the buck ingrained, my attempt at working with them in good faith was only futile."
+    }
+   ]
+  },
+  {
+   "headword": "đổ đốn",
+   "base": "14fdccb31ded9bba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go to the bad; to take a bad turn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổi chủ dịch nô",
+   "base": "2bfa22e98be77e1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "get a new master but still remain a slave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không ai ngăn bà đánh Pháp nhưng bà đã sai khi dựa vào Nhật Bản. Thực chất, đó chỉ là sự đổi chủ dịch nô.",
+     "en": "No-one stops you from fighting the French, but you were wrong to seek support from the Japanese. They only ever offered to replace our masters but keep us as slaves."
+    }
+   ]
+  },
+  {
+   "headword": "đỗi",
+   "base": "66cb8d1a3d73fe26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "distance, space"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độ C",
+   "base": "8970cf4e27381889",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a degree Celsius"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độ F",
+   "base": "076ea0418e9a04b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a degree Fahrenheit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độ K",
+   "base": "65811dae7e7f9ab8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "synonym of kenvin (“kelvin”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độ Rích-te",
+   "base": "b60484166630f7a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magnitude"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trận động đất (mạnh) 7 độ Rích-te",
+     "en": "an earthquake of magnitude 7 / a magnitude 7 earthquake"
+    }
+   ]
+  },
+  {
+   "headword": "độ phân giải",
+   "base": "d854dddd2fea5362",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "resolution"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "độ phân giải cao",
+     "en": "high resolution"
+    },
+    {
+     "sense": 1,
+     "vi": "độ phân giải 4K",
+     "en": "4K resolution"
+    }
+   ]
+  },
+  {
+   "headword": "độc bản",
+   "base": "94b28b6ba465a4bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reader, reading book"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unique"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độc huyền cầm",
+   "base": "ba2ce7a3e5c4ef9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "a dan bau"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độc mồm độc miệng",
+   "base": "684f235601eb7002",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "verbally hateful and wicked"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đội lốt",
+   "base": "86104c95d842a8d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disguise oneself (under the cloak of)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đội quân",
+   "base": "4d91a71c50c7fe59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "army"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "động danh từ",
+   "base": "0fbee458055cc933",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "synonym of danh động từ (“gerund”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "động lực học",
+   "base": "cfdfb37fdcc01423",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dynamics, study of forces and their influence on the motion of objects"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khác với động học, trong phần động lực học sẽ nghiên cứu chuyển động có xét đến các lực tác dụng và quán tính của các vật thể.",
+     "en": "Unlike in kinematics, in the part about dynamics we will study motion with an eye to the forces that are at work and to the inertia of the bodies."
+    }
+   ]
+  },
+  {
+   "headword": "động mạch chủ",
+   "base": "d2348f5f0f44893c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an aorta (great artery)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "động mạch cảnh",
+   "base": "94be15c9acc18249",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carotid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "động mạch phổi",
+   "base": "19b663555fced387",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pulmonary artery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "động phòng",
+   "base": "6e5a0bc9903d489d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "bridal chamber; nuptial chamber"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to consummate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đêm động phòng",
+     "en": "wedding night (on which consummation happens)"
+    }
+   ]
+  }
+ ]
+}

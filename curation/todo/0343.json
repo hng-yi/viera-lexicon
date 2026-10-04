@@ -1,0 +1,1285 @@
+{
+ "batch": "0343",
+ "entries": [
+  {
+   "headword": "đả nữ",
+   "base": "72b9d9bccc451993",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "actress starring in action movies"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảm bảo phá huỷ lẫn nhau",
+   "base": "43e2181b6bbc4de9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mutual assured destruction (mutual deterrence between countries possessing nuclear weapons, based on the capacity of each to inflict major damage on the other in response to a first strike)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảm bảo phá hủy lẫn nhau",
+   "base": "f519e102c406f379",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of đảm bảo phá huỷ lẫn nhau."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảm phụ",
+   "base": "c743b37abce69bbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "contribution"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tỉnh chỉ thị bằng mọi cách phải chuẩn bị được ba tháng gạo và tập trung hỗ trợ cho xã thu thuế, thu đảm phụ tối đa đưa về trên.",
+     "en": "The provincial authorities instruct to, by all means, prepare three months' worth of rice and to focus on supporting the communal authorities with the maximal collection of taxes and contributions and the transferring thereof to the higher authorities."
+    }
+   ]
+  },
+  {
+   "headword": "đảng bộ",
+   "base": "be81487cdff99f6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "capitalized",
+      "often"
+     ],
+     "gloss": "party committee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảng phí",
+   "base": "f4502f6419f8fa11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "membership dues paid to a political party"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảng uỷ",
+   "base": "a62aa999c5ee362c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "local party committee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảng đối lập",
+   "base": "58e576986b78d423",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opposition party"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất bồi",
+   "base": "3297892713f6324b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alluvium; alluvial deposit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất chật người đông",
+   "base": "c30fc7de559ffd53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "packed like sardines"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "overcrowding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất có lề quê có thói",
+   "base": "51db75309ee35b9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the customs and habits of each region must be respected"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất hiếm",
+   "base": "b22f0b264c409f1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rare earth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất khách quê người",
+   "base": "eb6ebcb6e69ed611",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strangers' land, people's town"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a foreign place"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nó cảm thấy lạc lõng nơi đất khách quê người.",
+     "en": "She felt like she was lost in this foreign place, miles away from her homeland."
+    }
+   ]
+  },
+  {
+   "headword": "đất lành chim đậu",
+   "base": "167da3e0b602785b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a safe haven; a place with beneficial living conditions, suitable for growth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất lề quê thói",
+   "base": "51db75309ee35b9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the customs and habits of each region must be respected"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất mặn",
+   "base": "c5e410b1dbfa2d83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "saline soil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất phèn",
+   "base": "0dc445905b307bd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "acid sulfate soil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất phù sa",
+   "base": "af671437374fc942",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "illuvium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất sỏi",
+   "base": "d75c09bbd2ed9067",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flinty soil; gravelly soil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất thịt",
+   "base": "b3829f3b7d4df761",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "loamy soil; rich soil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất tổ",
+   "base": "0c0dff9a2438ec7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ancestral land"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đấu củng",
+   "base": "469133744543a690",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dougong (a structural element consisting of interlocking wooden brackets as used in traditional Chinese architecture)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đấu tố",
+   "base": "d4fb070c38fa5d5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to publicly accuse, specifically of being a class enemy during a struggle session"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuội đấu tố",
+     "en": "struggle session"
+    },
+    {
+     "sense": 1,
+     "vi": "Năm 1973 ông nội tôi bị người ta mắng chửi đến chết trong một cuộc đấu tố, người hại ông còn được biểu dương giống như anh hùng vậy.",
+     "en": "In 1973, my grandfather was scolded and abused until he died in a struggle session, and the one who did this to him was even commended as if they were a hero."
+    }
+   ]
+  },
+  {
+   "headword": "đấu xảo",
+   "base": "32dcc6f91a9d82f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "competitive exhibition; competitive showcase"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhà Đấu xảo Hà Nội",
+     "en": "Grand Palais de l'Exposition"
+    }
+   ]
+  },
+  {
+   "headword": "đầu buồi",
+   "base": "0cef1e49e4de8ff7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "head of a penis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "glans penis"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "indefinite",
+      "vulgar"
+     ],
+     "gloss": "nothing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu bạc răng long",
+   "base": "f90b115f40498033",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gray hair, weak teeth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "old age"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nguyện sống bên nhau đến đầu bạc răng long",
+     "en": "to vow to be together till both parties are too old to do anything"
+    }
+   ]
+  },
+  {
+   "headword": "đầu chôm chôm",
+   "base": "be7ead8b90234854",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "bouffant hair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu cua tai nheo",
+   "base": "51788db93488ae9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "details in a story or event"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu nước",
+   "base": "72ac00d1bab7d347",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "head of a current (especially where a dyke collapses)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "figuratively"
+     ],
+     "gloss": "unavoidable; ineluctable; certain;"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hắn thua đầu nước rồi.",
+     "en": "He's surely worsted."
+    }
+   ]
+  },
+  {
+   "headword": "đầu phiếu",
+   "base": "62c920bd6b1deb89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vote; to ballot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu rìu",
+   "base": "2e78b474dba1786a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hoopoe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu sóng ngọn gió",
+   "base": "57b11ede10c138f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "place where one bears the brunt of something, place that is most exposed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nơi đầu sóng ngọn gió",
+     "en": "place bearing the brunt"
+    }
+   ]
+  },
+  {
+   "headword": "đầu trâu mặt ngựa",
+   "base": "748967e2984b88ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "figuratively",
+      "idiomatic"
+     ],
+     "gloss": "a thug (a criminal who treats others violently or roughly)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu têu",
+   "base": "01a90678d0ae3bf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "often"
+     ],
+     "gloss": "ringleader, boss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu voi đuôi chuột",
+   "base": "8d0e174aa128c31e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "started with a lot of fanfare but petering out to nothing"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "broad in the front and narrow in the back"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu óc ngu si, tứ chi phát triển",
+   "base": "ab2d4018bff746bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "apparently healthy, stout and sturdy even, but very stupid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu đạn",
+   "base": "44a5a22c8c7eeed8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a warhead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu đất",
+   "base": "a57074d015a04c55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "blockhead; dumbass"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu đọc",
+   "base": "b898281e31a2eb12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a reader (any device that reads something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầy bụng",
+   "base": "0d617900bfcf6fcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having indigestion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ăn nhiều quá bị đầy bụng.",
+     "en": "Eating too much causes one to have indigestion."
+    }
+   ]
+  },
+  {
+   "headword": "đầy nhóc",
+   "base": "6cbe4988a860f10c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "filled to the brim"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầy tháng",
+   "base": "f3efd019b513c509",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the celebration of a baby's first month since birth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầy tớ",
+   "base": "95fbee35b7b995d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "servant; lackey"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẩy tạ",
+   "base": "d210794391b9c999",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the shot put; an athletics event where a competitor must hurl a heavy metal orb (\"shot\") as far as possible; due to the weight of the ball, this is done with a pushing (\"putting\") motion rather than a throwing motion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẫm máu",
+   "base": "4d64eed986fde19e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bloody"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậm nét",
+   "base": "8141c4fdc0e19d3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bold"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có một bức tranh đậm nét tình mẫu tử",
+     "en": "a bold image of maternal bonds"
+    }
+   ]
+  },
+  {
+   "headword": "đập hộp",
+   "base": "e080379f774b457b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to unpack"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đập vỡ",
+   "base": "f7e9016a62e40ace",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shatter; to break into pieces; to smash"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đập vỡ vật gì ra từng mảnh",
+     "en": "to smash something to pieces"
+    }
+   ]
+  },
+  {
+   "headword": "đậu Hà Lan",
+   "base": "274af41f15f42d9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pea; snowpea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu Lima",
+   "base": "323ce153ff93f258",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lima bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu cô ve",
+   "base": "c798743e004211a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "green bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu dải",
+   "base": "7600bd8499e70fcc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cowpea (Vigna unguiculata)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu dải áo",
+   "base": "89a1a8a02c2161c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yardlong bean, asparagus bean (Vigna unguiculata subsp. sesquipedalis)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu hoà lan",
+   "base": "b663c6991d226b75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "snow pea(s)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu hòa lan",
+   "base": "34a997ea696e7744",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of đậu hoà lan."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu ngự",
+   "base": "323ce153ff93f258",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lima bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu phộng rau má",
+   "base": "bff2ec1127d2a53f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "humorous",
+      "idiomatic",
+      "slang"
+     ],
+     "gloss": "synonym of đụ má (“fuck”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu phụ",
+   "base": "e4e8ba5daa5972a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "tofu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu rồng",
+   "base": "e2fec97e91a16d05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "winged bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu thận",
+   "base": "ae7383831abebaa6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kidney bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu trắng",
+   "base": "be0d3a9a2fa9de37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Black-eyed pea."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu ve",
+   "base": "c798743e004211a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "green bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu xanh rau má",
+   "base": "eba7c58f64f4ad2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "humorous",
+      "idiomatic",
+      "slang"
+     ],
+     "gloss": "synonym of đụ má"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu xương rồng",
+   "base": "953b66507fb25f71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "asparagus pea, Manila bean, winged bean (Psophocarpus tetragonolobus)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giữa ván đã để sẵn gô cơm gạo mới thơm ngào ngạt và mấy lát đậu đũa, đậu xương rồng chiên dầu đậu nành rải lên trên.",
+     "en": "In the middle of the plank a billycan of strongly fragrant rice sprinkled with some slices of Chinese long beans and Manila beans fried in soybean oil stood ready."
+    }
+   ]
+  },
+  {
+   "headword": "đậu xị",
+   "base": "6ea8388511c19ce2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "douchi; fermented soybeans (often black, but sometimes white or brown)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu đen",
+   "base": "27851f04ea9589d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "black bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu đũa",
+   "base": "89a1a8a02c2161c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yardlong bean, asparagus bean (Vigna unguiculata subsp. sesquipedalis)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giữa ván đã để sẵn gô cơm gạo mới thơm ngào ngạt và mấy lát đậu đũa, đậu xương rồng chiên dầu đậu nành rải lên trên.",
+     "en": "In the middle of the plank a billycan of strongly fragrant rice sprinkled with some slices of yardlong beans and Manila beans fried in soybean oil stood ready."
+    }
+   ]
+  },
+  {
+   "headword": "đắc đạo",
+   "base": "664e29e19c7829f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reach the peak of the Way in one's religion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các bậc tu hành đắc đạo.",
+     "en": "The monks have undergone ascetic training and have attained the Way."
+    }
+   ]
+  },
+  {
+   "headword": "đắp chiếu",
+   "base": "c8cecd8144d644cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see đắp, chiếu."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be put on hold indefinitely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cái chung cư này đắp chiếu rồi.",
+     "en": "The construction of this apartment stopped indefinitely."
+    }
+   ]
+  },
+  {
+   "headword": "đằng này",
+   "base": "ba750a08fbe429a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "this way, over here"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "familiar",
+      "humorous"
+     ],
+     "gloss": "I/me, your pal or gal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đằng đằng",
+   "base": "e84637538eb31802",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ardent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đằng ấy",
+   "base": "261c4bd20e1de125",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "that way, over there"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "familiar",
+      "humorous"
+     ],
+     "gloss": "you, my pal or gal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đằng ấy cứ đùa!",
+     "en": "Don't be facetious, you!"
+    }
+   ]
+  },
+  {
+   "headword": "đẳng chu",
+   "base": "c207d2a9223b2b91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "isometric (showing equality in dimensions)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẳng lập",
+   "base": "73557dde8cb0ab8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "compound-of"
+     ],
+     "gloss": "compound of words, which is independently exclusive and harmonious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẳng thức",
+   "base": "6b51d219dcd5669a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "equality"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Định luật này được biểu diễn dưới dạng toán học bằng đẳng thức vectơ: m w = F.",
+     "en": "This law can be expressed mathematically as a vector equality: m w = F."
+    }
+   ]
+  },
+  {
+   "headword": "đẳng trương",
+   "base": "55c6eaeb980cc651",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "isotonic (of the same osmotic pressure)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẵn",
+   "base": "c9a8d6516620175e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to chop down (a tree)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "segment (of a tree)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc dụng",
+   "base": "8be7f60fbf683736",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solely customized"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc hữu",
+   "base": "bfeee89a1f86c350",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "endemic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc khu hành chính",
+   "base": "213411edabc3af8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a special administrative region"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

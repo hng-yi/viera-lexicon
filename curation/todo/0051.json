@@ -1,0 +1,1487 @@
+{
+ "batch": "0051",
+ "entries": [
+  {
+   "headword": "thảm",
+   "base": "19cee85c6cc93116",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carpet, rug (floor covering)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carpet, bed (surface or cover)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carpet, to blanket, to cover"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tragic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trải thảm",
+     "en": "to lay carpet; to spread out a rug"
+    },
+    {
+     "sense": 2,
+     "vi": "thảm cỏ",
+     "en": "carpet of grass"
+    },
+    {
+     "sense": 2,
+     "vi": "thảm hoa",
+     "en": "bed of flowers"
+    }
+   ]
+  },
+  {
+   "headword": "tu",
+   "base": "e17f69130704fb0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to isolate oneself from other people to follow rules in a philosophy or religion"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive",
+      "broadly"
+     ],
+     "gloss": "to self-improve (in studying, life skills, etc.)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to drink directly from a bottle by holding bottle mouth in one's mouth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dị ứng",
+   "base": "565b5118726b45e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "allergy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truyền hình",
+   "base": "fcc7dd26ef6791d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transmit image (usually also implying audio) using television"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chợ",
+   "base": "d453ad73c6be204b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a market (a kind of spacious site or gathering for trading)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chợ Đồng Xuân",
+     "en": "Đồng Xuân market"
+    },
+    {
+     "sense": 1,
+     "vi": "chợ Bến Thành",
+     "en": "Bến Thành market"
+    }
+   ]
+  },
+  {
+   "headword": "công thức",
+   "base": "24a501f3fa4712c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a formula"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a recipe"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Công thức 1",
+     "en": "Formula 1"
+    },
+    {
+     "sense": 2,
+     "vi": "công thức nấu ăn",
+     "en": "recipe"
+    }
+   ]
+  },
+  {
+   "headword": "cẩn",
+   "base": "0ed4de528bb4e472",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "hibiscus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sét",
+   "base": "f7200702026d0146",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lightning"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be rusty"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clay"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sét hòn",
+     "en": "ball lightning"
+    }
+   ]
+  },
+  {
+   "headword": "trang phục",
+   "base": "293d4afad448e0ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "costume; attire; dress"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trang phục diễn kịch",
+     "en": "costumes used in a play"
+    },
+    {
+     "sense": 1,
+     "vi": "trang phục truyền thống",
+     "en": "a traditional dress/folk costume"
+    }
+   ]
+  },
+  {
+   "headword": "búp bê",
+   "base": "cc49211853f5f51d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a doll (a toy)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hở",
+   "base": "6d5b99a2aa976f25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uncovered; unsealed; unclosed"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "exposed; revealed"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "final interrogative particle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Mới về hở?",
+     "en": "Did you just get home?"
+    },
+    {
+     "sense": 3,
+     "vi": "Sao ngáo vậy hở thằng kia?",
+     "en": "God why do you have to be such a dumbass?"
+    },
+    {
+     "sense": 3,
+     "vi": "Bây giờ mấy giờ rồi hở chị?",
+     "en": "Excuse me, what time is it?"
+    }
+   ]
+  },
+  {
+   "headword": "thị trường",
+   "base": "18d2f4f22485bd45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a market (geographical area where a commercial demand exists)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a field of view"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thị trường châu Á",
+     "en": "the Asian market"
+    }
+   ]
+  },
+  {
+   "headword": "xe đạp",
+   "base": "950b64856ddb35c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bicycle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xe đạp đôi",
+     "en": "tandem bicycle"
+    }
+   ]
+  },
+  {
+   "headword": "tải",
+   "base": "85d1bd519b460734",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transport, to convey, to carry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tính mạng",
+   "base": "e8a26576a2bdef20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làn",
+   "base": "fb7c141a9b04ae34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "handled handbasket with a flat bottom and wide mouth, made from rattan, rush, bamboo or plastics"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for something moving continuously and steadily, forming a wide and flat surface, such as water (nước), wind (gió), smoke (khói) and waves (sóng): wisp; trail; puff"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for something forming a thin, smooth layer on the outside, such as skin (da) or hair (tóc)."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lane (of a road)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xách làn đi chợ",
+     "en": "to carry a hand-basket to the market"
+    },
+    {
+     "sense": 2,
+     "vi": "làn gió",
+     "en": "a puff of wind"
+    },
+    {
+     "sense": 3,
+     "vi": "làn da mịn màng",
+     "en": "smooth skin"
+    },
+    {
+     "sense": 4,
+     "vi": "làn dành cho xe buýt",
+     "en": "bus lane"
+    }
+   ]
+  },
+  {
+   "headword": "căng",
+   "base": "42d53612d373e398",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tense"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "stressful; stressed; serious"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tense; to stretch"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concentration camp operated under French colonial administration"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "certain species of macaque"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tươi",
+   "base": "16fc2357ca20f46e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fresh; new and untainted"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "raw"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cheerful; joyful; jocund"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cá tươi",
+     "en": "fresh fish"
+    }
+   ]
+  },
+  {
+   "headword": "danh tiếng",
+   "base": "244d0dfe8920d688",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fame; reputation"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reputable; renowned; prestigious; famous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đề phòng",
+   "base": "a9b22c2e7d200f4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take precautions; to prevent; to guard against"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vai trò",
+   "base": "a214634954666707",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a role or part that someone or something plays in life, in an operation or in a system"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đóng vai trò quan trọng",
+     "en": "to play an important role"
+    }
+   ]
+  },
+  {
+   "headword": "còi",
+   "base": "fd5a2be61249e4ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "whistle (device used to make a whistling sound)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horn (loud alarm, especially on a motor vehicle)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "siren (device for making a sound alarm)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "skinny; bony"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đo",
+   "base": "9954a7c951224f15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to measure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pháo đài",
+   "base": "8e442544f2e09988",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fort; fortress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết lập",
+   "base": "ab03fb9226bd8401",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to set up, to form, to establish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thứ sáu",
+   "base": "24abfb993b66cd9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sixth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Friday"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độc thân",
+   "base": "edae3a2926965050",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "single (not married nor dating)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "canh chừng",
+   "base": "1b9f5f432e68b9b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep watch; to watch over; to guard"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "la hét",
+   "base": "71864c1ce8e75884",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to scream; to shout"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh tính",
+   "base": "504f5b061d5e2b5e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an identity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không ai biết danh tính của kẻ thủ ác.",
+     "en": "No one knew who the murderer was."
+    }
+   ]
+  },
+  {
+   "headword": "phong cách",
+   "base": "efd7761d318c7523",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manner; bearing; style"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hằng",
+   "base": "26b884ce1a956353",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "constantly; usually; frequently"
+    },
+    {
+     "position": 2,
+     "pos": "det",
+     "tags": [],
+     "gloss": "every"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lễ hội hằng năm",
+     "en": "annual festival"
+    },
+    {
+     "sense": 2,
+     "vi": "báo cáo hằng tháng",
+     "en": "monthly report"
+    }
+   ]
+  },
+  {
+   "headword": "yên tĩnh",
+   "base": "3001caebb00b5dc4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "quiet, peaceful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân dân",
+   "base": "9de5645860f24447",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "people, population"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "1969 August 25, Hồ Chí Minh, Gửi Ngài Richard M. Nixon Tổng thống nuớc Mỹ (To His Excellency Richard Milhous Nixon President of the United States)",
+     "en": "Our Vietnamese people are deeply devoted to peace, a real peace with independence and real freedom."
+    }
+   ]
+  },
+  {
+   "headword": "ồn",
+   "base": "9144d3c4481b8240",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loud, noisy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiếng ồn",
+     "en": "noises"
+    },
+    {
+     "sense": 1,
+     "vi": "Tụi bây nói chuyện ồn quá.",
+     "en": "You guys are too damn loud."
+    }
+   ]
+  },
+  {
+   "headword": "rủi ro",
+   "base": "1eca8c95de250d38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "risky; hazardous; unfortunate"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "risk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đột biến",
+   "base": "97e1ddfeb4e46c3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suddenly change; to transform suddenly"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mutation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ",
+   "base": "eeb279fccf9e3e47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "boyfriend; girlfriend; date; romantic partner"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "you, my pal/mate/buddy"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo basket"
+    },
+    {
+     "position": 4,
+     "pos": "prefix",
+     "tags": [
+      "idiomatic",
+      "morpheme"
+     ],
+     "gloss": "used to form birds' names"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "bồ câu (“dove, pigeon”)",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "bồ nông (“pelican”)",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "bồ các (“Eurasian magpie”)",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "bồ cắt (“falcon”)",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "bồ cốc (“cormorant”)",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "bồ chao (“white-crested laughing-thrush”)",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "tàn",
+   "base": "d77cc5293e199005",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ash resulting from burning cigarettes, incense or mosquito coils; compare tro (“ash in general”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fade; to wither; to decay; to crumble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quầy",
+   "base": "ba9e75dc7afb328b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "low cabinet in a shop or store for displaying goods; showcase"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "counter (at a shop, etc.); stall; kiosk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giao tiếp",
+   "base": "f85197714fe54f11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to communicate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to associate with"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "để dành",
+   "base": "52f9454057e4ed2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep in reserve; to save up; to put aside for future usage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dày",
+   "base": "6bf1b7085b68f377",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thick, deep, dense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đĩ",
+   "base": "13d5cdec60569b1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "whore; prostitute"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "colloquial",
+      "dated"
+     ],
+     "gloss": "little girl (of a peasant family); baby girl; girlie; kiddy"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "colloquial",
+      "dated"
+     ],
+     "gloss": "Name used to call a close peasant friend who has a first-born baby girl."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "artist"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "flirtatious; provocative"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đánh đĩ",
+     "en": "to act as a whore"
+    },
+    {
+     "sense": 1,
+     "vi": "đĩ thoã",
+     "en": "wanton"
+    },
+    {
+     "sense": 1,
+     "vi": "đĩ mẹ mày",
+     "en": "your mom is a whore"
+    }
+   ]
+  },
+  {
+   "headword": "thích thú",
+   "base": "f7201ba9a934a41c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to like; to be fond of; to enjoy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sư tử",
+   "base": "0c1559f9e4cea1e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết",
+   "base": "3a11524f7421470c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plait, to tie in knots"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bear (fruits)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to have a crush on someone, to show love interest in someone"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "end; ending"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phê",
+   "base": "cdbca6d739670c8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "very satisfied (especially by drugs); elated; ecstatic; high"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to be intoxicated (with); to be high (on)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to comment; to give remarks or comments"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phê như con tê tê",
+     "en": "as high as a pangolin"
+    }
+   ]
+  },
+  {
+   "headword": "hiểu biết",
+   "base": "2b269b5255505d6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fully understand; to know clearly; to be knowledgeable; to be learned"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knowledge; understanding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "có hiểu biết sâu rộng về hàng hải",
+     "en": "to have deep knowledge about navigation"
+    }
+   ]
+  },
+  {
+   "headword": "tỉ",
+   "base": "0c3c37705fcd54aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "billion; milliard (1*10⁹)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "an elder sister"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "I; you (refers to the female senior among the speakers)"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "you (used when speaking to a young woman on equal footing)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dán",
+   "base": "0872f8c8e3b8f7bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to paste, to glue"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to paste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chấn thương",
+   "base": "2d54ece46b014c4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "injured; traumatized; wounded"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an injury; trauma; wound"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cầu thủ A chấn thương dây chằng chéo trước, phải nghỉ thi đấu hơn chín tháng.",
+     "en": "Player A sustained an anterior cruciate ligament injury, and needs to stay out for more than 9 months."
+    },
+    {
+     "sense": 2,
+     "vi": "chấn thương tâm lí",
+     "en": "mental trauma"
+    }
+   ]
+  },
+  {
+   "headword": "Kinh Thánh",
+   "base": "035bdb3d118ee510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Holy Bible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ra đời",
+   "base": "8eade8d09dd17e7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be born; to come into the world"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to come into being; to arise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu hỏi",
+   "base": "242b388bd2312d09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "question"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giấy phép",
+   "base": "6a887217c5471832",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "license"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giấy phép tái nhập",
+     "en": "re-entry permit"
+    }
+   ]
+  },
+  {
+   "headword": "trang bị",
+   "base": "aa665e72d7a746ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to equip"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "equipment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tâm trạng",
+   "base": "748e3c8fe2346b83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mood; emotional state; state of mind"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tâm trạng lên xuống thất thường",
+     "en": "having fast mood swing"
+    }
+   ]
+  },
+  {
+   "headword": "truyền thuyết",
+   "base": "8823ccd1d70ce87c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "legend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo tàng",
+   "base": "0931fa003324aa94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "museum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại bàng",
+   "base": "e7fa456ea37c053b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eagle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trụ sở",
+   "base": "54473c0ab53e3fba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "headquarters; head office"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá voi",
+   "base": "8773b75cb8f49fbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "whale"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rẻ",
+   "base": "27cd4cf62ae95a57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cheap, inexpensive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hông",
+   "base": "126d20dcee1075af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hip"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "side; flank"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earthenware pan in a double boiler"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to steam-cook in a boiler (nồi hông)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lắc hông",
+     "en": "to shake one's hip"
+    },
+    {
+     "sense": 2,
+     "vi": "bên hông",
+     "en": "right beside/right next to"
+    }
+   ]
+  },
+  {
+   "headword": "phủ nhận",
+   "base": "b2bc39c39c1465b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deny, to negate"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

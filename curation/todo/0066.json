@@ -1,0 +1,1519 @@
+{
+ "batch": "0066",
+ "entries": [
+  {
+   "headword": "chanh",
+   "base": "8cf64cdaf071c828",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lime"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "a non-binary pronoun meant to act in the place of chị and anh."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng lực",
+   "base": "b600d414243e20a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gravity, gravitational force"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mã hóa",
+   "base": "1e1326f8974f914d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of mã hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dưa",
+   "base": "237622a7e222a305",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "melon"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "salted vegetables"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiêng",
+   "base": "2adf308e5aace8aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tilted, leaning, oblique, lopsided"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stroke that is a curved line, usually concave right"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tường nghiêng sắp đổ.",
+     "en": "The wall is leaning and about to topple over."
+    },
+    {
+     "sense": 1,
+     "vi": "đòn cân nghiêng",
+     "en": "tilted scales"
+    },
+    {
+     "sense": 1,
+     "vi": "Cán cân lực lượng nghiêng về phía ta.",
+     "en": "The balance of power is tilted toward our side (in our favor)."
+    },
+    {
+     "sense": 1,
+     "vi": "Nghiêng nghiêng cái đầu để nhìn.",
+     "en": "to incline one's head a little and look"
+    }
+   ]
+  },
+  {
+   "headword": "nước tiểu",
+   "base": "4fac06365f3d4515",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "formal"
+     ],
+     "gloss": "urine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ô nhục",
+   "base": "c522f9f9c3163fe0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to insult; to humiliate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stain; to denigrate; to sully; to tarnish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bú",
+   "base": "6c79c940211dbb8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suck; to suckle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "humorous",
+      "informal"
+     ],
+     "gloss": "to drink"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bú hết cốc nước đi còn đi!",
+     "en": "[Hurry and] finish drinking the cup so we can go!"
+    }
+   ]
+  },
+  {
+   "headword": "thực tập",
+   "base": "09d06a7e98909e2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take an internship, apprenticeship or on-the-job training; of teachers-to-be in particular, to actually conduct a class as a teacher, as opposed to kiến tập"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thực tập sinh",
+     "en": "an intern"
+    }
+   ]
+  },
+  {
+   "headword": "nặng nề",
+   "base": "6325ae320d9a2bc9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "heavy; massive; hefty"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "burdensome; onerous; demanding; stressful"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "slow; clumsy; awkward"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "euphemistic"
+     ],
+     "gloss": "fat; chunky; obese"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "heavily; massively"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "onerously; stressfully"
+    },
+    {
+     "position": 7,
+     "pos": "adv",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "clumsily; awkwardly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tầm thường",
+   "base": "83ae614ad46c2b3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "commonplace; mediocre; trivial; ordinary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biến thái",
+   "base": "1aec9da6bcc20835",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "metamorphosis"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to metamorphose"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "humorous",
+      "informal"
+     ],
+     "gloss": "sexually perverted or deviant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "biến thái hoàn toàn",
+     "en": "complete metamorphosis"
+    },
+    {
+     "sense": 1,
+     "vi": "biến thái không hoàn toàn",
+     "en": "incomplete metamorphosis"
+    },
+    {
+     "sense": 3,
+     "vi": "Cái thằng/con này biến thái quá đi!",
+     "en": "You are such a pervert!"
+    }
+   ]
+  },
+  {
+   "headword": "cờ bạc",
+   "base": "d5b9aca7432164ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gamble; gambling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đểu",
+   "base": "7cdff76bf10bff59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "ill-bred; unmannerly; caddish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lộn",
+   "base": "9e5d9cd00b063a9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn the inside out, upside down, etc.; to reverse; to flip; to overturn"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go back; to return"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to mix up; to confuse"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to do by mistake; to be mistaken"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "each other; mutually"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lộn trái túi quần",
+     "en": "to turn the inside of one's trouser pockets out"
+    },
+    {
+     "sense": 4,
+     "vi": "lộn tiệm",
+     "en": "to go to the wrong store"
+    }
+   ]
+  },
+  {
+   "headword": "nghi thức",
+   "base": "ebeb3a8186731f9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "form"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "formality"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ceremony"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "di",
+   "base": "2a173921ecf4d39f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to change position; to move"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dõi",
+   "base": "8d4a046422955d7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to follow closely; to keep track of"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crossbar over a gate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mắt dõi theo từng cử chỉ của người lạ",
+     "en": "eyes following every gesture of the stranger"
+    },
+    {
+     "sense": 2,
+     "vi": "đóng dõi chuồng trâu",
+     "en": "(literally, “to fasten the crossbar of a buffalo pen”)"
+    }
+   ]
+  },
+  {
+   "headword": "làm chủ",
+   "base": "11d41a320c6d291a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to own; to be the master of"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seize control of; to take command of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm chủ một nhà máy đường",
+     "en": "to own a sugar refinery"
+    },
+    {
+     "sense": 2,
+     "vi": "Du kích đã làm chủ thị trấn mấy ngày liền.",
+     "en": "The guerrillas seized control of the town for several days running."
+    }
+   ]
+  },
+  {
+   "headword": "mặt trận",
+   "base": "20ddcfe5aa40f8a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "front; battlefront"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nổi bật",
+   "base": "0e51640eec8019d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "distinguished; notable; salient; prominent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "được cái",
+   "base": "b883455fb9105946",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Used to introduce a positive statement or clause: fortunately"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Được cái cháu cũng ngoan.",
+     "en": "It's quite a fortune for you to have a good kid."
+    }
+   ]
+  },
+  {
+   "headword": "ủy ban",
+   "base": "f699caa30d9314f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of uỷ ban."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vi khuẩn",
+   "base": "09282dd2e36d348d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bacterium, bacteria"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hành quân",
+   "base": "44d26d8cfb7871be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to march; to operate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "di sản",
+   "base": "115930bc75452b39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "legacy, heritage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sa",
+   "base": "b156ccc5b66d7ee2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall (especially from the sky); to drop down; to prolapse"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be caught (in a trap)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gauze"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Điều lạ của rớ quay là phải dùng ánh sáng điện dẫn dụ mới đưa bầy cá sa lưới.",
+     "en": "The strange thing about the rotary net is that one needs to use electric light as a lure to get schools of fish to get caught in the net."
+    }
+   ]
+  },
+  {
+   "headword": "hương",
+   "base": "8817c8629210839c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "usually"
+     ],
+     "gloss": "fragrance; scent"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "incense"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "township; populated place"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an administrative unit in China and Taiwan; township"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hương đồng gió nội",
+     "en": "the fragrance and wind on rice paddies"
+    },
+    {
+     "sense": 1,
+     "vi": "Nước xả hương hoa hồng mới, nay đậm đặc hơn !",
+     "en": "New rose-scented softener, now even more concentrated!"
+    },
+    {
+     "sense": 2,
+     "vi": "thắp hương",
+     "en": "to burn incense on an altar or at a grave"
+    },
+    {
+     "sense": 2,
+     "vi": "hương muỗi",
+     "en": "a mosquito coil"
+    }
+   ]
+  },
+  {
+   "headword": "nữ thần",
+   "base": "ad2c7a394016a23e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a goddess"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tượng Nữ thần Tự do",
+     "en": "the Statue of Liberty"
+    },
+    {
+     "sense": 1,
+     "vi": "Đăm Săn cầu hôn nữ thần mặt trời.",
+     "en": "Đam San proposed to the goddess of the sun."
+    }
+   ]
+  },
+  {
+   "headword": "vướng",
+   "base": "8aa3a7e6c7c2638e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be entangled in; to be involved in"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vướng vào một vụ ẩu đả",
+     "en": "to get involved in a fight"
+    },
+    {
+     "sense": 1,
+     "vi": "vướng phải gai",
+     "en": "to be caught by thorns"
+    }
+   ]
+  },
+  {
+   "headword": "tổng hợp",
+   "base": "335f2263198b6e11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to join; to unite; to combine; to synthesise"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synthesised; combined"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "general; universal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mẩu",
+   "base": "9b3b5f2b7994360b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "piece; bit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch",
+     "en": "Stories of President Ho's Life in revolutionary activities (written by Trần Dân Tiên)"
+    }
+   ]
+  },
+  {
+   "headword": "tàu điện ngầm",
+   "base": "44f7b6c8f24e9e82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subway, rapid transit, underground"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đành",
+   "base": "3934ff6e5b94dbec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resign oneself to; to have no choice but; to acquiesce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vật chất",
+   "base": "2db9fb61e975e64c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "matter; material; substance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vật chất có trước, ý thức có sau.",
+     "en": "Matter exists prior to Consciousness."
+    }
+   ]
+  },
+  {
+   "headword": "tôn",
+   "base": "891aad6a078f1b74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to revere, to respect, to honor"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to strengthen and heighten"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to accentuate"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "revered, venerable"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sheet metal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tôn làm thầy",
+     "en": "to honor as teacher"
+    },
+    {
+     "sense": 2,
+     "vi": "tôn nền",
+     "en": "to strengthen and heighten the foundation"
+    },
+    {
+     "sense": 3,
+     "vi": "Màu áo đen càng tôn thêm nước da trắng.",
+     "en": "The upper garment's black color accentuates the [wearer's] white skin"
+    },
+    {
+     "sense": 4,
+     "vi": "Cúi xin nhận lấy danh hiệu tôn quý, hưởng nhiều Phước to lâu dài.",
+     "en": "[I] bow down and beg [You] to accept this venerably precious title, [and may Ye] enjoy plenty of great Blessings for evermore."
+    }
+   ]
+  },
+  {
+   "headword": "do dự",
+   "base": "10ca84cd35ee67bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hesitate; to waver"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cừ",
+   "base": "e441bba6b520447d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a canal; a drain; a small stream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a row of stakes consisting of wood, steel or bamboo used to prevent water from seeping through or to retain soil and rocks"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a row of stakes used as a fishing weir"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plant a stake"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "excellent; outstanding; smart"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lãnh địa",
+   "base": "c45900c02dfc3f1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "territory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gom",
+   "base": "32a8eca044c6c7ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather together"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bù",
+   "base": "be5e68d2f7812017",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compensate; to make up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to form into a straight line"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệp ước",
+   "base": "1a9a646de4b15675",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "treaty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phối hợp",
+   "base": "b3bdaff3774bbb04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to coordinate (with); to cooperate (with); to harmonise (with); to go (with)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thâm nhập",
+   "base": "95ed772f2d22e8cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to penetrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại lệ",
+   "base": "cd61f14492bacd43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exception"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tử vong",
+   "base": "93257a0c783b997a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to die"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hiện đã có 150 ca tử vong.",
+     "en": "Currently, there have been 150 deaths."
+    }
+   ]
+  },
+  {
+   "headword": "ràng buộc",
+   "base": "213ae2c863351db2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tie (down); to bind"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "constraint"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đoàn kết là khi một tập hợp được ràng buộc tự thân với nhau.",
+     "en": "Union is reached as soon as its individuals are bound voluntarily."
+    }
+   ]
+  },
+  {
+   "headword": "tra",
+   "base": "a1ecdca3e77f0f42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to haft; to sheathe"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to investigate, to examine, to inspect"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tra kiếm vào vỏ",
+     "en": "to sheathe one's sword"
+    }
+   ]
+  },
+  {
+   "headword": "học viện",
+   "base": "05b220ebe190b06f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an academy (specialized school; college or university)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thăm dò",
+   "base": "46e00df807223520",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to probe; to find out about; to survey"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prospect (for)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng đại",
+   "base": "0b57fb27cb3856ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "major; important"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cưới hỏi là chuyện trọng đại. Phải chọn ngày cho kĩ.",
+     "en": "Your wedding is the most important event of your life. You've got to take choosing the day seriously."
+    },
+    {
+     "sense": 1,
+     "vi": "Hôm nay, ngày khai trương cửa hàng, là một ngày trọng đại.",
+     "en": "Today, our opening day, is a very big day for us."
+    }
+   ]
+  },
+  {
+   "headword": "lạnh lùng",
+   "base": "d429755f5a06e7fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "that's cold and causes melancholy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cold and unfriendly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cái nhìn / ánh mắt lạnh lùng",
+     "en": "a cold look / cold eyes"
+    }
+   ]
+  },
+  {
+   "headword": "cầm đầu",
+   "base": "3adc51cafd6c651a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ringlead; mastermind; criminally lead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tát",
+   "base": "d170b04e18ca8fe7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slap (in the face)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bail out, to drain out (water), mostly for agricultural purposes"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tát nước",
+     "en": "to scoop water out quickly"
+    }
+   ]
+  },
+  {
+   "headword": "trình",
+   "base": "8019ce95fcfa3b20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to report"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trình biên bản lên cảnh sát",
+     "en": "to submit the report to the police"
+    }
+   ]
+  },
+  {
+   "headword": "chống cự",
+   "base": "7cb67068dbe098ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resist; to fight back"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhục nhã",
+   "base": "442fe97ab27fd81d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disgraceful; shameful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đa số",
+   "base": "92009b9df39d4d75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "majority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đăng kí",
+   "base": "3c9d2066a0c18475",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to register (to enter into a register)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enroll"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to subscribe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khuyến khích",
+   "base": "b36d697ae9ac0183",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to encourage; to promote; to urge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giải khuyến khích",
+     "en": "consolation prize"
+    }
+   ]
+  },
+  {
+   "headword": "nắp",
+   "base": "dc82a4408872d7be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hard piece put on top to cover or seal a container, such as a lid, a cover or a cap"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nắp chai/bút",
+     "en": "a bottle/pen cap"
+    },
+    {
+     "sense": 1,
+     "vi": "nắp/vung/nắp vung (nồi)",
+     "en": "a pot lid"
+    },
+    {
+     "sense": 1,
+     "vi": "đóng/mở/vặn nắp",
+     "en": "to close/open/twist a lid/cap"
+    }
+   ]
+  },
+  {
+   "headword": "lốc",
+   "base": "95365e4406617514",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vortex"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tornado, twister"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "block"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độn",
+   "base": "857467d28af196fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mix (with something)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stuff (something; with something)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to implant (into something)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cơm độn",
+     "en": "rice mixed with other grains or plant matters to stretch out the meal"
+    },
+    {
+     "sense": 3,
+     "vi": "độn vú",
+     "en": "to get a breast implant"
+    }
+   ]
+  },
+  {
+   "headword": "dạy dỗ",
+   "base": "f2928ee68cbbd7b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to teach affectionately; to bring up, nurture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liếm",
+   "base": "310807b50446a6df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lick (to stroke with a tongue)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xì",
+   "base": "e1bfb84e03bb7c7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ace"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leak out, to escape"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hỏa lực",
+   "base": "ab0eddce981a5588",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoả lực."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dân số",
+   "base": "40327a72e76340de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "population (a count of the number of residents within a political or geographical boundary)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạt giống",
+   "base": "5bd5d41a66e90cd2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a seed"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a seed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nực",
+   "base": "579b54d38b3ac7e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

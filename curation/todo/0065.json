@@ -1,0 +1,1577 @@
+{
+ "batch": "0065",
+ "entries": [
+  {
+   "headword": "dơi",
+   "base": "e8a583b9dc29cf9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điếc",
+   "base": "615a2d26e4973048",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deaf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngứa",
+   "base": "ade857a25caa84fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel itchy; to itch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "in-compounds"
+     ],
+     "gloss": "to feel an urge (to do something); to feel uncomfortable; to feel uneasy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an thần",
+   "base": "d3a21b080cc2bc96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to calm the nerves, preventing excessive stimulation, usually to aid sleep"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thuốc an thần",
+     "en": "tranquilizer"
+    }
+   ]
+  },
+  {
+   "headword": "tẩy",
+   "base": "cd419ba2055b9deb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bleach; to clean; to wipe or rub off"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to purge; to cleanse (intestines)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eraser; rubber"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hidden side of a playing card"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khôn",
+   "base": "5fc50defcfb727f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wise; smart"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clever; street-smart"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sapient"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "impossibly"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trigram 8"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hexagram 2 (䷁)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "nỗi buồn/giận khôn nguôi",
+     "en": "everlasting sadness/anger"
+    }
+   ]
+  },
+  {
+   "headword": "chối",
+   "base": "e19c96ebf8a27559",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deny; to refuse; to decline"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unbearable; unsettling; deplorable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hành hạ",
+   "base": "bee4400cc35948c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cause serious injury or misery to someone; to harass, to torment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quy trình",
+   "base": "72cd4d3ead0c5a03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "process; procedure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bó",
+   "base": "38386949a39b938e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pack; to tie into pack or bundle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pack; bundle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bó hoa",
+     "en": "bouquet"
+    }
+   ]
+  },
+  {
+   "headword": "người ta",
+   "base": "e9c6d43c51b49bee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "people in general"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "they/them, other people in general"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him / she/her / they/them, that/those specific person/people, as opposed to me/us"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "I/me"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trăm năm trong cõi người ta / Chữ tài chữ mệnh khéo là ghét nhau",
+     "en": "Within the hundred years of human existence / Talent and destiny wage a bitter struggle"
+    },
+    {
+     "sense": 2,
+     "vi": "Con gái người ta vừa giỏi vừa đẹp, chẳng bù cho con nhà mình.",
+     "en": "Other people's daughters are talented and beautiful. Alas, ours is anything but."
+    },
+    {
+     "sense": 3,
+     "vi": "Qua nhà người ta chè chén cả đêm không biết ngượng à ?",
+     "en": "You stayed at their house partying all night. Have you no shame?"
+    },
+    {
+     "sense": 3,
+     "vi": "Anh đem đồ đạc này mau đưa cho người ta mang về đi.",
+     "en": "Quickly bring the stuff back to him."
+    },
+    {
+     "sense": 3,
+     "vi": "Người ta có coi mình ra cái gì đâu!",
+     "en": "They don't respect us at all!"
+    },
+    {
+     "sense": 4,
+     "vi": "Kệ người ta ! Người đâu mà vô duyên !",
+     "en": "Nunya! You're so nosy, you know that?"
+    },
+    {
+     "sense": 4,
+     "vi": "Sao cứ chọc người ta hoài?",
+     "en": "Why do you guys keep teasing me?"
+    },
+    {
+     "sense": 4,
+     "vi": "Anh ngốc quá à ! Người ta gợi ý đến thế mà còn không hiểu !",
+     "en": "You dummy! You couldn't take a single hint I gave!"
+    },
+    {
+     "sense": 4,
+     "vi": "Đi đâu để người ta chờ mãi.",
+     "en": "Where did you go? I've been waiting here forever."
+    }
+   ]
+  },
+  {
+   "headword": "quấn",
+   "base": "cbb6ab8d3e9a6724",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wind; to twine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công tước",
+   "base": "960eefbe05439337",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a duke (male ruler of a duchy; male holder of a dukedom)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "choàng",
+   "base": "8dee3d8d5f64c041",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to embrace; to hug"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wrap (something around); to wear"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plaited bamboo rope for carrying loads"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "suddenly; startlingly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lo ngại",
+   "base": "cad2dd4cf729d156",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be worried and afraid; to be concerned; to be apprehensive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giời",
+   "base": "1af678f0da93281c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of phosphorescent centipede"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vật thể",
+   "base": "56810ff73bf61da4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an object; compare sự vật (“objects in general”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vật thể bay không xác định",
+     "en": "an unidentified flying object"
+    }
+   ]
+  },
+  {
+   "headword": "ý muốn",
+   "base": "81e9dd2cea29d657",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wish; desire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phấn khích",
+   "base": "a3c2ef2ba728fd21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be excited; to be thrilled"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sex",
+   "base": "7957aa355987963d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "porn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạ dày",
+   "base": "ed6ee25c8ca0a1cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stomach"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con đường ngắn nhất đến trái tim người đàn ông là đi qua dạ dày.",
+     "en": "The shortest way to a man's heart is through his stomach."
+    }
+   ]
+  },
+  {
+   "headword": "viếng thăm",
+   "base": "b29551e5f6e6be57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to visit; to call on"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "specifically"
+     ],
+     "gloss": "to visit a grave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chồn",
+   "base": "15404ba013fe6aad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weasel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "fox"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "dead tired; exhausted; fatigued and stiff"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bát Giới kéo thây con chồn, theo Hành Giả ra khỏi động.",
+     "en": "Bajie dragged the vixen’s corpse, and followed Pilgrim out of the cave."
+    }
+   ]
+  },
+  {
+   "headword": "củi",
+   "base": "5340dc8608fbc862",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "firewood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Ả Rập",
+   "base": "4fe568662c424a43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Arabic; Arabian; Arab"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người Ả rập",
+     "en": "Arab (person)"
+    },
+    {
+     "sense": 1,
+     "vi": "tiếng Ả Rập",
+     "en": "Arabic (language)"
+    },
+    {
+     "sense": 1,
+     "vi": "Các Tiểu Vương quốc Ả Rập Thống nhất",
+     "en": "the United Arab Emirates"
+    }
+   ]
+  },
+  {
+   "headword": "khe",
+   "base": "a25f5dece3c2e1f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "slit, slot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stream, creek"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mánh",
+   "base": "e8ddeba40f606cd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "dialectal"
+     ],
+     "gloss": "piece"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giếng",
+   "base": "76ece1678b5846ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "well (shaft for obtaining water)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "định nghĩa",
+   "base": "ebe4df7a054e7f08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "definition"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to define"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tu viện",
+   "base": "2453e614bfb83628",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monastery, abbey"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chơi đùa",
+   "base": "4594cb2febee56e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play; to play around; to mess around (especially of children)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rực rỡ",
+   "base": "665587d9e3014e61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "splendid; brilliant; colourful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trục",
+   "base": "a4517d76b5f76971",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "axis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "axletree (a bar)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "axis"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "axis"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to chase out; to expel"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a roller to crush or press."
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "to crush or press using a roller."
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise (a heavy object)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trái Đất quay quanh trục của nó hàng ngày.",
+     "en": "The Earth rotates [once] each day on its axis."
+    },
+    {
+     "sense": 2,
+     "vi": "trục xe đạp",
+     "en": "bicycle axle"
+    },
+    {
+     "sense": 2,
+     "vi": "trục bánh xe",
+     "en": "axle of wheels"
+    },
+    {
+     "sense": 3,
+     "vi": "trục đối xứng; đối xứng trục",
+     "en": "axis of symmetry"
+    },
+    {
+     "sense": 3,
+     "vi": "trục hoành",
+     "en": "x-axis"
+    },
+    {
+     "sense": 3,
+     "vi": "trục tung",
+     "en": "y-axis"
+    },
+    {
+     "sense": 4,
+     "vi": "trục kháng chiến; trục kháng cự",
+     "en": "axis of resistance"
+    },
+    {
+     "sense": 4,
+     "vi": "trục phát xít",
+     "en": "the Axis Powers"
+    },
+    {
+     "sense": 5,
+     "vi": "khu trục",
+     "en": null
+    },
+    {
+     "sense": 5,
+     "vi": "trục xuất cảnh ngoại",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "khiêu dâm",
+   "base": "8fbbd92a839e7c25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be sexually obscene"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gợi cảm nhưng không khiêu dâm",
+     "en": "to be sexually provocative but not obscene"
+    }
+   ]
+  },
+  {
+   "headword": "lê",
+   "base": "acceb6280491b380",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pear"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drag something"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ủy",
+   "base": "32829413b9bc0f0c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of uỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì diệu",
+   "base": "2e005bc3be9b035f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "marvelous, wonderful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gầm",
+   "base": "e8b020ad51eb941c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roar"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the space under beds or cabinets; the underneath"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Có tên trốn dưới gậm giường của đồng bào[…]",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "Hồi giáo",
+   "base": "a2b10af4531a5996",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Islam"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cộng hoà/Tiểu vương quốc Hồi giáo Áp-ga-ni-xtan",
+     "en": "the Islamic Republic/Emirate of Afghanistan"
+    }
+   ]
+  },
+  {
+   "headword": "dải",
+   "base": "90d46c10e91653ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strip"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dải băng",
+     "en": "strip of ribbon"
+    },
+    {
+     "sense": 1,
+     "vi": "dải đất",
+     "en": "strip/stretch of land"
+    },
+    {
+     "sense": 1,
+     "vi": "dải Ga-da",
+     "en": "the Gaza Strip"
+    }
+   ]
+  },
+  {
+   "headword": "ghi chú",
+   "base": "f6c4e9178de38e70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a note; textual record"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to note; to textually record"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thắp",
+   "base": "573addeff0e1c8f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to light (a lamp, a torch, a candle, etc.) with fire"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to burn (incense) at an altar or a grave"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "to ignite (a metaphorical spark of passion, dream, hope, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thắp nến",
+     "en": "to light a candle"
+    },
+    {
+     "sense": 2,
+     "vi": "thắp hương/nhang",
+     "en": "to burn incense"
+    },
+    {
+     "sense": 3,
+     "vi": "thắp sáng ước mơ",
+     "en": "to give dreams a chance"
+    }
+   ]
+  },
+  {
+   "headword": "lạ lùng",
+   "base": "7bb628cc73d99749",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strange; odd"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "strangely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhận diện",
+   "base": "b17bde4a778126df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recognize; to know"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhận diện khuôn mặt",
+     "en": "facial recognization"
+    }
+   ]
+  },
+  {
+   "headword": "người tình",
+   "base": "86af144bfc2f8edd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "usually"
+     ],
+     "gloss": "a lover"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ổ chuột",
+   "base": "e9813a4d2c3c2197",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "slum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tư tưởng",
+   "base": "43bf4a8d06c04680",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thought; ideology"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tư tưởng Hồ Chí Minh",
+     "en": "Ho Chi Minh Thought"
+    }
+   ]
+  },
+  {
+   "headword": "trời đất",
+   "base": "006c267ef6ce4ff7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heaven and earth (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "oh my God"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trời đất thánh thần thiên địa ơi",
+     "en": "Oh my goodness gracious"
+    }
+   ]
+  },
+  {
+   "headword": "phá sản",
+   "base": "4ad140c85dee91cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become bankrupt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cư dân",
+   "base": "0627dad441c65432",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "resident; inhabitant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tận cùng",
+   "base": "25db5feb7c4635b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "edge; the very end; limit"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "final; terminal; rearmost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tận cùng thế giới",
+     "en": "end of the world"
+    }
+   ]
+  },
+  {
+   "headword": "chôn cất",
+   "base": "5e12988e653ea2fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bury the dead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đấu sĩ",
+   "base": "b25474a4e81696cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fighter, warrior"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gladiator"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cáo",
+   "base": "17bf018a88995362",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fox (Vulpes)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "royal edict-like announcement"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to denounce"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cáo quần đảo Channel là loài cực kỳ nguy cấp.",
+     "en": "The Channel Islands fox is critically endangered."
+    },
+    {
+     "sense": 2,
+     "vi": "Bình Ngô đại cáo",
+     "en": "Great Proclamation upon the Pacification of the Wu"
+    },
+    {
+     "sense": 3,
+     "vi": "cáo quan về quê ở ẩn",
+     "en": "to resign from one's post as an official to come back to one's hometown"
+    }
+   ]
+  },
+  {
+   "headword": "bán kính",
+   "base": "5240dc0736a6f9fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "radius"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phát xít",
+   "base": "696fe028a4175745",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fascist"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "very strict or uptight"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "fascists"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Benito Mussolini là lãnh đạo phong trào phát xít đầu tiên ở châu Âu rồi cầm quyền tại Italy từ năm 1922 đến 1943 và gây ra nhiều tội ác. Nhưng vào ngày 28/4 của 60 năm trước, ông ta bị du kích quân hành quyết rồi treo xác trên quảng trường cho mọi người phỉ nhổ.",
+     "en": "Benito Mussolini led the first fascist movement in Europe then held power in Italy from 1922 to 1943 and committed many crimes. However, 60 years ago, on 28 April, he was executed by the partisans, who then hung his corpse in the square to be desecrated by all."
+    },
+    {
+     "sense": 3,
+     "vi": "phát xít Ý",
+     "en": "Italian fascists"
+    },
+    {
+     "sense": 3,
+     "vi": "phát xít Đức",
+     "en": "Nazis (literally, “German fascists”)"
+    },
+    {
+     "sense": 3,
+     "vi": "phát xít Nhật",
+     "en": "Japanese fascists"
+    },
+    {
+     "sense": 3,
+     "vi": "Diệt phát xít! Giết bầy chó đê hèn của chúng! Tiến lên nền dân chủ cộng hòa!",
+     "en": "Destroy the fascists! Kill their craven servile dogs! Up with our Democratic Republic!"
+    }
+   ]
+  },
+  {
+   "headword": "tăng tốc",
+   "base": "2b9ea372ca7fa3d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to accelerate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoành tráng",
+   "base": "5f071c57590f0aeb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "imposing; monumental; glorious; grand"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trị giá",
+   "base": "4a05129bf556a257",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be worth (a certain amount of money)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thú vật",
+   "base": "68055da3829b594c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "animal, usually four-legged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vặn",
+   "base": "e84f8149113e1c1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to twist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hàn",
+   "base": "f06f9f16fa333ab9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "South Korea, Korean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàn",
+   "base": "82921c4aafbe0999",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to join (metal components) with heat; to solder, to weld, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo quân",
+   "base": "700b6253e31711d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "troop, host, army"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lịch sử thời kì Tây Sơn chứng minh rằng, tất cả các chiến công do Nguyễn Huệ lập ra đều gắn liền với việc bố trí các đạo quân và chon các con đường tối ưu nhất,[…]",
+     "en": "The history of the Tây Sơn period shows that all of Nguyễn Huệ's military victories can be linked with troop arrangement and choosing the best route, […]"
+    }
+   ]
+  },
+  {
+   "headword": "cổ vũ",
+   "base": "fe7d14c4fc73671f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cheer, to provide emotional support to, to boost morale for or to promote"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cổ vũ đội nhà",
+     "en": "to cheer one's home team"
+    },
+    {
+     "sense": 1,
+     "vi": "cổ vũ niềm tin vào...",
+     "en": "to promote trust in..."
+    }
+   ]
+  },
+  {
+   "headword": "ngắn gọn",
+   "base": "497dc4f63a8abc5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "concise; brief"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa vị",
+   "base": "77995007483cbf53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "social status; position; standing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổn thất",
+   "base": "00127e60c81f611e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "damage; loss"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tổn thất tài sản",
+     "en": "property damage"
+    }
+   ]
+  },
+  {
+   "headword": "phân tâm",
+   "base": "c4ccf4d1e8c8b95f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "distracted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thực thi",
+   "base": "ab6c5ce211fb6865",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put into effect; to implement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thực thi nghị quyết về đổi mới giáo dục đương thời",
+     "en": "to put the resolution of modernizing current education in use"
+    }
+   ]
+  },
+  {
+   "headword": "chấn động",
+   "base": "6eff558ad2a108dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a quake; tremor"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an impact"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to shake, to create an impact"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phạm pháp",
+   "base": "8ab15fd94a585655",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break the law; to be illegal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dịch bệnh",
+   "base": "9f80c665457e621f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "epidemic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vuốt",
+   "base": "7415f3e783d104c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "claw"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "talon"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to caress, to stroke (as in \"to stroke a dog's head\")"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

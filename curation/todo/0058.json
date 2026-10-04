@@ -1,0 +1,1391 @@
+{
+ "batch": "0058",
+ "entries": [
+  {
+   "headword": "quý tộc",
+   "base": "bc8edd58ae1575de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nobility"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quý giá",
+   "base": "6e5c938abc5dc075",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "valuable; precious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "canh gác",
+   "base": "20d27763e9ce0e58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to watch; to guard; to mount guard"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "non",
+   "base": "28e1b03780e2ea54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "young, tender, green"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "new"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mild"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "premature"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not up to the mark"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mountain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn uống",
+   "base": "d77576c548e1b933",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to consume foods and drinks (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giải thưởng",
+   "base": "b7d421abd2cad3ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a prize; award; trophy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giải thưởng Hồ Chí Minh",
+     "en": "The Ho Chi Minh Prize"
+    },
+    {
+     "sense": 1,
+     "vi": "Giải thưởng Nhà nước",
+     "en": "The State Prize"
+    }
+   ]
+  },
+  {
+   "headword": "sự cố",
+   "base": "98ac9ba1fa209626",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a setback (adverse event, obstacle)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự cố kĩ thuật",
+     "en": "technical difficulties"
+    }
+   ]
+  },
+  {
+   "headword": "lén lút",
+   "base": "11d5949a4f9aad23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "furtive or deceitfully concealed"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "synonym of lén"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tàn phá",
+   "base": "b7d4668a0055c9ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be destroyed completely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diệp",
+   "base": "fa73db06e0f44466",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a moldboard (a metal plate on a plow)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "a leaf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dính dáng",
+   "base": "78f95851c0388bef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be implicated (in); to be involved (in)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ xưa",
+   "base": "51b7313ed7fdb57e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old (in time); ancient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "di truyền",
+   "base": "88d28901e15cf50f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hereditary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân yêu",
+   "base": "087c8207e5cd468c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "familiarly dear or beloved"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tần số",
+   "base": "f39e32ee43494c93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "frequency"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sinh học",
+   "base": "46ada7ffa87cd7f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "biology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất liền",
+   "base": "f09822e3f28b5941",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land; dry land (as opposed to water surfaces and islands)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lên đất liền",
+     "en": "to land; to get on dry land"
+    }
+   ]
+  },
+  {
+   "headword": "tại chỗ",
+   "base": "77e5b3bf544d54cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "on the spot; immediate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vạn",
+   "base": "dd7d936d92c5dbf5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [
+      "in-compounds",
+      "literary"
+     ],
+     "gloss": "ten thousand; myriad"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "temple for whale worship"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "guild (association of tradespeople)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một vạn (~ mười ngàn/nghìn)",
+     "en": "ten thousand"
+    },
+    {
+     "sense": 1,
+     "vi": "mười vạn (~ một trăm ngàn/nghìn)",
+     "en": "one hundred thousand"
+    },
+    {
+     "sense": 1,
+     "vi": "Hoàng thượng vạn tuế! Vạn tuế! Vạn vạn tuế!",
+     "en": "Long live the emperor!"
+    },
+    {
+     "sense": 1,
+     "vi": "một vạn quân",
+     "en": "an army of about 10,000 men"
+    },
+    {
+     "sense": 1,
+     "vi": "Hai vạn dặm dưới đáy biển",
+     "en": "Twenty Thousand Leagues Under the Sea"
+    }
+   ]
+  },
+  {
+   "headword": "cống hiến",
+   "base": "6636ac9ecfffd438",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to contribute; to make a contribution"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to offer; to make a present"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "contribution"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gợi ý",
+   "base": "0e8113c6793e9d42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suggest; to make a suggestion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếng nói",
+   "base": "058dfc1c412ea61f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "language; speech"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "voice (of the people, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình bạn",
+   "base": "0e63da562cede869",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "friendship (condition of being friends)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giãn",
+   "base": "074564bb6756a0a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lax; not tense"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "physically relaxed"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relaxing"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lacking of elasticity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "giãn gân giãn cốt",
+     "en": "relaxed tendons and bones"
+    }
+   ]
+  },
+  {
+   "headword": "bình yên",
+   "base": "89891c895d20e252",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tranquil; peaceful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(sự) bình/bằng yên/an",
+     "en": "peace"
+    }
+   ]
+  },
+  {
+   "headword": "đạo diễn",
+   "base": "052702e64b6b09e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to direct (a play, a TV series, a movie, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "director (of a play, a TV series, a movie, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xâm phạm",
+   "base": "e8016361b9781653",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to intrude; to infringe; to violate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xâm phạm chủ quyền",
+     "en": "to intrude the sovereignty [of a nation]"
+    }
+   ]
+  },
+  {
+   "headword": "khung",
+   "base": "8922b7299a3e919e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "frame"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chassis; (bicycle) frame"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "framework; skeleton"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khung máy bay",
+     "en": "airframe"
+    }
+   ]
+  },
+  {
+   "headword": "nến",
+   "base": "b76e0dfeff96196c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "a candle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wax"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộng lớn",
+   "base": "dc0f5576406af7fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "vast; large; great (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghi nhận",
+   "base": "076faee9879dd5e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to record"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to acknowledge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tận dụng",
+   "base": "c624cb56fe23510c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take full advantage of; to make the most of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tỉnh Đồng Nai được giao nhiệm vụ trực tiếp cấp mỏ nguyên vật liệu cho các nhà thầu, loại bỏ trung gian để tiết kiệm chi phí và đẩy nhanh tốc độ thi công. Thủ tướng cũng nhấn mạnh kinh nghiệm từ các dự án lớn như đường dây 500kV mạch 3 tận dụng năng lực của các nhà thầu đã thành công ở sân bay Nội Bài và Tân Sơn Nhất.",
+     "en": "Đồng Nai province has been tasked to directly supply raw material mines to contractors, cutting out intermediaries to save costs and speed up construction. Prime Minister [Phạm Minh Chính] also emphasized the experience from large projects such as the 500kV line 3 that leveraged the expertise of contractors who had previously succeed at Nội Bài and Tân Sơn Nhất airports."
+    }
+   ]
+  },
+  {
+   "headword": "hứa hẹn",
+   "base": "3c9467a23e8bb83f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to promise; to make promises"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "good outlook; promising prospects"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đầy hứa hẹn",
+     "en": "to be full of promise; to be of great promise"
+    }
+   ]
+  },
+  {
+   "headword": "dở",
+   "base": "f127b0a4fd186903",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unfinished"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad, uninteresting"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "half"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "dở khóc dở cười",
+     "en": "crying and laughing at the same time"
+    }
+   ]
+  },
+  {
+   "headword": "cam kết",
+   "base": "63f71adca80ca948",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pledge (to); to commit (to)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pledge; commitment; guarantee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mặc dù tính đến các dự án đã cam kết như WestConnex và NorthConnex, […]",
+     "en": "Although there are committed projects such as WestConnex and NorthConnex, […]"
+    }
+   ]
+  },
+  {
+   "headword": "biện pháp",
+   "base": "38620597c4710314",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "method; measure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh cảm",
+   "base": "27bde3c45c5a4c88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have the feeling (that); to get a hunch (that)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hunch; feeling; premonition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì lạ",
+   "base": "d2204cca062923fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strange; odd; weird"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bà con đừng trông mong gì họ tin vào những chuyện kỳ lạ hay bí ẩn, đơn giản là vì họ chẳng hơi đâu bận tâm đến mấy trò vớ vẩn đó.",
+     "en": "They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense."
+    }
+   ]
+  },
+  {
+   "headword": "gay",
+   "base": "ec57a4e890026bd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "difficult; hard"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "homosexual (of male)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trong sạch",
+   "base": "1ebda4ea8328a221",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "clear; pure (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "often"
+     ],
+     "gloss": "honest; upright"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nóc",
+   "base": "7981477ce8007019",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rooftop; ridge (of a roof)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "top part (of some objects)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sáng suốt",
+   "base": "9caa570179154361",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clear-sighted; insightful; wise; clairvoyant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa hồng",
+   "base": "0a30305f1e93684b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rose (flower)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "commission (fee charged)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "triệu tập",
+   "base": "ebb1dd1b03a83a54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call; to summon; to convene"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "họ hàng",
+   "base": "1c7516efee70755c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "relative"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tất",
+   "base": "8c13a9489eea3329",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "then surely; of course"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "all; the whole of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thống nhất",
+   "base": "74220a606587bb37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "united; unified"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to unite; to unify"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make consistent, to consistify"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cấu trúc",
+   "base": "56868118880f7267",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a structure; architecture; formation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to structure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đích thân",
+   "base": "2f5a8c611e3ad2e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "oneself (doing something usually relayed to others oneself)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắt gặp",
+   "base": "a0f56cf1f412db04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to encounter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảnh cáo",
+   "base": "a83797284ba185fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to warn; caution"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "warning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuyển",
+   "base": "66ee7534010e23e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recruit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúng tôi đang cần tuyển hai nhân viên tạp vụ.",
+     "en": "We're hiring two janitors."
+    }
+   ]
+  },
+  {
+   "headword": "hạn",
+   "base": "408f5844120d533b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drought; dryness"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a period of bad luck"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "limit"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "deadline"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "giải hạn",
+     "en": "to neutralize unlucky supernatural forces that's haunting you"
+    },
+    {
+     "sense": 2,
+     "vi": "Năm nay hạn.",
+     "en": "This year's gonna have a drought. / This year's projected to be unlucky for me."
+    }
+   ]
+  },
+  {
+   "headword": "hiệu trưởng",
+   "base": "7e1cdb5404f10218",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "headmaster, principal, provost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đó là con đường chính dẫn đến trường Đămri – đường Brabun, tên vị hiệu trưởng đầu tiên của trường.",
+     "en": "It was the main road to Đămri school – Brabun road, named after the school's first principal."
+    }
+   ]
+  },
+  {
+   "headword": "ngoại tình",
+   "base": "cd02b73a4004a2c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "love affair; adultery"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cheat on; to commit adultery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đoàn kết",
+   "base": "e7afd1944a2db561",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to unite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hòng",
+   "base": "f2c8ea6b235577e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to intend; to aim (often of ill-intention)"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "synonym of sắp (“about to; going to”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khai gian hòng qua mắt thanh tra",
+     "en": "to falsify one's claims in order to mislead inspectors"
+    }
+   ]
+  },
+  {
+   "headword": "hài",
+   "base": "fb6bc52aca413096",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "humorous; hilarious"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "comedy"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "boot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cập nhật",
+   "base": "b3adf555e921fa61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "on time"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to update"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to keep yourself posted"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to keep someone else posted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ý chí",
+   "base": "e9b867010296b376",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "will; volition; determination; willpower"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ý chí chiến đấu của người dân địa phương là vấn đề.",
+     "en": "The will of the local people to fight is the problem."
+    }
+   ]
+  },
+  {
+   "headword": "khu phố",
+   "base": "7197942db65d42b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neighborhood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô danh",
+   "base": "bfb734f839c1e6ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "nameless; unnamed; anonymous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unknown; fameless; insignificant; unworthy of note"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cánh đồng không có tên. Nhưng với tôi và Điền, chẳng có nơi nào là vô danh, chúng tôi nhắc, chúng tôi gọi tên bằng những kỷ niệm mà chúng tôi có trên mỗi cánh đồng.",
+     "en": "Fields have no name. But to Điền and me no place is nameless; we reminisce, we give names by the memories we have about each of the fields."
+    },
+    {
+     "sense": 2,
+     "vi": "vô danh tiểu tốt",
+     "en": "unworthy of note"
+    }
+   ]
+  },
+  {
+   "headword": "khổ",
+   "base": "19fd72f64c57a00b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miserable; painful"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "good grief (an expression of exasperation, annoyance, irritation)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a width of a roll of cloth"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a size"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Những người cùng/khốn khổ",
+     "en": "Les Misérables"
+    },
+    {
+     "sense": 2,
+     "vi": "Biết rồi, khổ lắm, nói mãi!",
+     "en": "I get it! Good grief! Enough with the nagging!"
+    },
+    {
+     "sense": 4,
+     "vi": "khổ A4",
+     "en": "A4 size"
+    }
+   ]
+  },
+  {
+   "headword": "sáo",
+   "base": "1378cdd9f920bb6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blackbird"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "starling"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "myna"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo flute"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clichéd; tired"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo screen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nấp",
+   "base": "2d1fcc28e025dfc9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hide oneself behind something"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khủng hoảng",
+   "base": "8104040684596422",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crisis"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khủng hoảng kinh tế/tài chính/tiền tệ",
+     "en": "an economic/financial/currency crisis"
+    }
+   ]
+  },
+  {
+   "headword": "trốn tránh",
+   "base": "ce50dc52c8239b56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to evade, to shirk"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

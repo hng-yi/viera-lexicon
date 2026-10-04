@@ -1,0 +1,1509 @@
+{
+ "batch": "0061",
+ "entries": [
+  {
+   "headword": "quỹ đạo",
+   "base": "ffd5a0bfcb9744f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trajectory, path traced out by a moving point particle or solid object"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orbit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu khử thời gian t ra khỏi các phương trình này, ta sẽ được phương trình quỹ đạo dưới dạng thông thường, tức là dưới dạng hệ thức giữa các tọa độ.",
+     "en": "If we eliminate the time t from these equations, we will obtain the equations of the trajectory in normal form, i.e. as a relationship between the coordinates."
+    }
+   ]
+  },
+  {
+   "headword": "trục xuất",
+   "base": "742e608736487d34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to expel; to drive out"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deport"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người bị trục xuất",
+     "en": "expellee"
+    }
+   ]
+  },
+  {
+   "headword": "dỡ",
+   "base": "0e001b76183d685c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to unload; to unship"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to demolish; to dismantle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thúc đẩy",
+   "base": "7ee7178f99790881",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to promote; to speed up; to motivate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hôi",
+   "base": "ba7775ce1575e211",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smelly, foul"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to loot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "người mẫu",
+   "base": "d61ea3c6a7850542",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a model (person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nôn",
+   "base": "e845b2332942d3ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to throw up; to vomit"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "ticklish and unable to hold back one's laughter"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "anxious; impatient; eager"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nổi dậy",
+   "base": "2d6f22c278a8afa0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise up; to rebel; to revolt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hỏi thăm",
+   "base": "54604efbd7178e1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to check in on, check on or call in on someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gọi điện hỏi thăm gia đình",
+     "en": "to check in on your parents"
+    }
+   ]
+  },
+  {
+   "headword": "động đất",
+   "base": "2d05a4bbe3c10f53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an earthquake (shaking of the surface of a planet)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lượn",
+   "base": "56b2c93ca5885f2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to soar; to hover; to glide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diện",
+   "base": "34b7e24a39084f50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "literary"
+     ],
+     "gloss": "to dress up (in); to be well-dressed (in); to be decked out (in)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "well-dressed; dressed up"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "aspect; area"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sphere; domain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Xã hiện có hơn 100 hộ thuộc diện nghèo.",
+     "en": "The commune has more than 100 poor households."
+    }
+   ]
+  },
+  {
+   "headword": "nhất thiết",
+   "base": "8d159772a440a10f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "absolutely (imperative that)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "necessary"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Làm vậy có nhất thiết chăng?",
+     "en": "Is it really necessary to do that?"
+    }
+   ]
+  },
+  {
+   "headword": "tởm",
+   "base": "c4f07de280cb85b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gross, disgusting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chỉ thị",
+   "base": "a4dfabde6d16de3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to direct; to command; to instruct"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a directive; command; instruction"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an indicator"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Hàm chỉ thị",
+     "en": "Indicator Function"
+    },
+    {
+     "sense": 3,
+     "vi": "Loài chỉ thị",
+     "en": "Indicator Species"
+    }
+   ]
+  },
+  {
+   "headword": "sinh mạng",
+   "base": "e8a26576a2bdef20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiến hóa",
+   "base": "ea5570e3af37a448",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tiến hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảm",
+   "base": "98f320a168dd28bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "usually"
+     ],
+     "gloss": "to feel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cold; flu, influenza"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gợi",
+   "base": "03d36468c118cee2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to initiate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arouse; to evoke"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to awake (memories)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gợi chuyện",
+     "en": "to start a conversation"
+    },
+    {
+     "sense": 2,
+     "vi": "gợi lòng thương cảm",
+     "en": "to evoke compassion from people"
+    }
+   ]
+  },
+  {
+   "headword": "vách",
+   "base": "13fea9a3dcf35bf6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wall"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cliff"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vách tường",
+     "en": "interior face of a wall"
+    },
+    {
+     "sense": 2,
+     "vi": "vách sa thạch",
+     "en": "a sandstone cliff"
+    }
+   ]
+  },
+  {
+   "headword": "thiên nhiên",
+   "base": "7259d9e96c53042b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nature"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "natural"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh tinh",
+   "base": "dfd74774af1106d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miscellaneous; without overarching theme or guiding principle"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "haphazard; disorderly; without plan"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "without thought or regard for consequences"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not how it should be, inappropriate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mua đồ linh tinh",
+     "en": "to buy some random stuff"
+    },
+    {
+     "sense": 1,
+     "vi": "Công việc của tôi rất linh tinh.",
+     "en": "My work was very much whatever came up."
+    },
+    {
+     "sense": 2,
+     "vi": "đi linh tinh khắp nơi",
+     "en": "to go wherever one's feet take one"
+    },
+    {
+     "sense": 2,
+     "vi": "Trước đó, thủy-quân nghe tin quân giặc còn xa, không hề phòng-bị chi hết, thuyền bè mỗi chiếc mỗi nơi, linh-tinh khắp bãi sông.",
+     "en": "Before that, the navy had heard that the enemy was still far away, which is why they took no precautions at all; their boats were scattered haphazardly all over on the riverbank."
+    },
+    {
+     "sense": 3,
+     "vi": "Cả tháng nấu ăn 1 lần, coi chừng sinh bệnh vì ăn linh tinh",
+     "en": "Cooking once a month, be careful of diseases caused by eating whatever you come across"
+    },
+    {
+     "sense": 4,
+     "vi": "nói lời linh tinh",
+     "en": "to say things one had better not say"
+    },
+    {
+     "sense": 4,
+     "vi": "Mà thằng này đĩ sớm, chắc là do nó no cơm ấm cật nên dậm dật một số chỗ linh tinh, bọn bạn cùng lớp tán thế.",
+     "en": "But he started whoring early; it's probably because he didn't lack a thing that he took his craving to you-know-what-kind-of places; his classmates appreciatingly said so."
+    }
+   ]
+  },
+  {
+   "headword": "cổ họng",
+   "base": "e7355f476cba1e85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "throat; gullet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ô tô",
+   "base": "91ba3328b750f0bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "car"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kĩ thuật ô tô",
+     "en": "automotive engineering"
+    }
+   ]
+  },
+  {
+   "headword": "tái",
+   "base": "3c7205fdf25ebbf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of colors or shades that denote unhealthiness, defilement, fright, etc.; pale (of people's facial skin); rotten (of food)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rare; underdone"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "re-"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "tái chiếm",
+     "en": "to recapture; to reconquer"
+    }
+   ]
+  },
+  {
+   "headword": "đau đầu",
+   "base": "492acff152fdb73d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "literally"
+     ],
+     "gloss": "to have a headache"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phần nào",
+   "base": "33b1c80f3b5c5109",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in a way, to a certain extent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yếu tố",
+   "base": "225e6da6df52d211",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "factor, element"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một trong những yếu tố để quản lý thời gian tốt là lên kế hoạch rõ ràng.",
+     "en": "One of the factors for good time management is clear planning."
+    }
+   ]
+  },
+  {
+   "headword": "phi vụ",
+   "base": "2b4f516e072096f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "military air mission"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "mission; venture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ưa thích",
+   "base": "b8305ff2204f3c07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to like, to take to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "được ưa thích",
+     "en": "favourite"
+    }
+   ]
+  },
+  {
+   "headword": "dân chủ",
+   "base": "a514df72ec919cd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "democratic"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "democracy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nước ta là nước dân chủ, địa vị cao nhất là dân, vì dân là chủ.",
+     "en": "Ours is a democratic country: the highest status belongs to the people, for the people are in charge [literally, “the people are the masters”]."
+    },
+    {
+     "sense": 1,
+     "vi": "Chế độ ta là chế độ dân chủ, nghĩa là nhân dân làm chủ",
+     "en": "Ours is a democratic system, which means that the people take charge [literally, “the people act as the masters”]."
+    },
+    {
+     "sense": 2,
+     "vi": "Chủ tịch Hồ Chí Minh khẳng định, bản chất của dân chủ là: dân là chủ và dân làm chủ.",
+     "en": "President Hồ Chí Minh affirms that the essence of democracy is: the people being in charge (literally, “the people being the masters”) and the people taking charge (literally, “the people acting as the masters”)."
+    }
+   ]
+  },
+  {
+   "headword": "chức",
+   "base": "7ecd2f7444182370",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "office (position); rank"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cún",
+   "base": "a14e275000fd5171",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a puppy (young dog)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng bọn",
+   "base": "e2d6e977a1fd9f3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "accomplice"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "teammate, ally"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phiên bản",
+   "base": "e242a316854f9763",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "version; edition; reproduction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xoáy",
+   "base": "1ceea8431ad70b35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swirl, to whirl"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "to flinch, to steal"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "hair whorl"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầu hôn",
+   "base": "4a1fd99193236a55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to propose to; to make an offer of marriage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thật tình",
+   "base": "0d2fc91ab8de60c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "truthful; honest; frank"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "truthfully; honestly; frankly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thời trang",
+   "base": "25d415f026aeaee6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fashion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "võ",
+   "base": "98239e12b4bafc53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "martial"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "martial art"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quan võ",
+     "en": "martial mandarins; military officials"
+    },
+    {
+     "sense": 2,
+     "vi": "học võ",
+     "en": "to learn a martial art"
+    }
+   ]
+  },
+  {
+   "headword": "vệ sĩ",
+   "base": "46b463d0605d37ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bodyguard; compare bảo vệ (“security guard”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương hại",
+   "base": "6e33d6be73908209",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel sorry for someone; to pity; to show compassion to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vụ việc",
+   "base": "1720caeb6c275b4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "case; incident; matter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vụ việc này làm dấy lên mối quan ngại của phụ huynh đối với nhà trường.",
+     "en": "This incident sparked concerns among parents about the school administration."
+    }
+   ]
+  },
+  {
+   "headword": "che đậy",
+   "base": "31c1c0aab5f91e9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hide, to conceal, to cover up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ phiếu",
+   "base": "8afb2a0f0b51bcdb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a single share/stock issued to prospective investors"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhúng",
+   "base": "9d8894c25077cf46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dip; to immerse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ bắp",
+   "base": "64e902ac826c8491",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muscles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phanh",
+   "base": "7557819fcd00e0ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slaughter, butcher"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dismember"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "brake (of a vehicle, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "fan",
+   "base": "4e8b45b6a5526944",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fan (admirer, aficionado)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "fan bóng đá",
+     "en": "football aficionados"
+    }
+   ]
+  },
+  {
+   "headword": "hạn chế",
+   "base": "ed2e54c47b7ce280",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to limit; to restrict; to restrain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiệt",
+   "base": "68cc36dcc479999a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heat"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thermal"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having the \"heat\" that might upset the balance of the body, making one's body susceptible to acne, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "toả nhiệt",
+     "en": "to emit heat"
+    },
+    {
+     "sense": 1,
+     "vi": "sóng nhiệt",
+     "en": "a heatwave"
+    }
+   ]
+  },
+  {
+   "headword": "thoáng",
+   "base": "48614d03f4ff7f31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a short time"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sweep past; to pass quickly"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "airy; open to the wind; ventilated"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "usually"
+     ],
+     "gloss": "open; not conservative"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "figuratively",
+      "usually"
+     ],
+     "gloss": "easy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Liên nhìn quanh đêm tối, gió đã thoáng lạnh và đom đóm không còn nữa.",
+     "en": "Liên looked around the dark night; the wind brought cool air, and there were no more fireflies."
+    }
+   ]
+  },
+  {
+   "headword": "gian lận",
+   "base": "3e87fe0cf5def1a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do something dishonest for personal gain, such as to cheat in an exam or to commit financial fraud"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gian lận trong thi cử",
+     "en": "to cheat in exams"
+    },
+    {
+     "sense": 1,
+     "vi": "gian lận thương mại",
+     "en": "to commit financial fraud"
+    }
+   ]
+  },
+  {
+   "headword": "vắng",
+   "base": "7ac964561bb929f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "absent; away (from a place where one usually is); not present"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deserted; desolate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiền",
+   "base": "7b9f2a9b7eab8e99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grind; to crush; to pound"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to cram; to swot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bé bỏng",
+   "base": "c8584d9fca415c0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "little and tender; small; young (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình thức",
+   "base": "47d705f0247c8c25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "model, form"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "formal"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "prone to mannerism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngập",
+   "base": "1bfe2dd1941a6e5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be flooded"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be covered in; abounded by"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngập nước",
+     "en": "be flooded"
+    },
+    {
+     "sense": 2,
+     "vi": "ngập tuyết",
+     "en": "covered in snow"
+    },
+    {
+     "sense": 2,
+     "vi": "Cờ phướn ngập trời.",
+     "en": "Flags and banners all around."
+    }
+   ]
+  },
+  {
+   "headword": "bào chữa",
+   "base": "cce808b9e2795227",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to defend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đích",
+   "base": "31d13f91cb3def76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "target"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "finish line"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a target"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "về đích",
+     "en": "to cross the finish line"
+    },
+    {
+     "sense": 3,
+     "vi": "URL đích",
+     "en": "a target URL"
+    }
+   ]
+  },
+  {
+   "headword": "đóng góp",
+   "base": "ddff1bc524f8e96d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to contribute"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "contribution"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "roi",
+   "base": "297782c8b0319a80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "whip, rod"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flagellum"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "wax apple (Syzygium samarangense)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tư vấn",
+   "base": "7360368289daacca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to offer expert or professional advice; to advise; to counsel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chinh phục",
+   "base": "f25348f1b89d6d21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conquer; to subjugate; to overpower"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to win; to gain; to win over"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mông Cổ chinh phục Tây Hạ",
+     "en": "The Mongols conquer Western Xia"
+    },
+    {
+     "sense": 1,
+     "vi": "Cuộc chinh phục Hispania của La Mã",
+     "en": "The Roman Conquest of Hispania; the event to conquer Hispania of the Romans"
+    }
+   ]
+  },
+  {
+   "headword": "ủy viên",
+   "base": "c471561e997ed768",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of uỷ viên."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khắc nghiệt",
+   "base": "a0b410247425140e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "harsh, inclement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mùa đông khắc nghiệt ở Cộng hoà Sakha",
+     "en": "the harsh winter at the Republic of Sakha"
+    }
+   ]
+  },
+  {
+   "headword": "nhúc nhích",
+   "base": "13d43ec1191752e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to budge; to move slightly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đừng có nhúc nhích! Dao lam cứa tai bây giờ!",
+     "en": "Stop moving or your ear might get cut by the razor!"
+    }
+   ]
+  },
+  {
+   "headword": "xám",
+   "base": "b2f42210ce9e8902",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ash-coloured; grey"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "li",
+   "base": "045a3009bdc61886",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cup; glass"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a crease (a line or mark made by folding or doubling any pliable substance)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "qilin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vận tốc",
+   "base": "45f66567cb9d503f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "velocity"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

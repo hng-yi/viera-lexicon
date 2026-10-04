@@ -1,0 +1,1433 @@
+{
+ "batch": "0050",
+ "entries": [
+  {
+   "headword": "hội nghị",
+   "base": "ef33ebbad35f7b84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "conference; meeting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuy",
+   "base": "b7fe9c89a1acd9b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "although; though"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sướng",
+   "base": "619ce330e9fa0f68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field to plant rice seedlings"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very happy or glad; elated, exhilarated, ecstatic, etc."
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very lucky or fortunate; blessed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mạ mùa sướng cao, mạ chiêm ao thấp.",
+     "en": "[Plant] tenth-month rice-seedlings on fields up high, [plant] fifth-month rice-seedlings in ponds down low."
+    },
+    {
+     "sense": 3,
+     "vi": "Nhà nó có bể bơi, hè tắm hơi bị sướng !",
+     "en": "Her house has a pool, it's real nice to swim in the summer!"
+    },
+    {
+     "sense": 3,
+     "vi": "Bữa nay ở nhà một mình, tha hồ quậy. Sướng nhá !",
+     "en": "You're home alone today, you can do whatever you want. So lucky!"
+    }
+   ]
+  },
+  {
+   "headword": "bầu cử",
+   "base": "dde08e8ac426aa35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to elect"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vote"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuộc bầu cử",
+     "en": "an election"
+    }
+   ]
+  },
+  {
+   "headword": "tiếp xúc",
+   "base": "88b50873d9d16ff5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make contact (with something)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a talk (with someone)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to touch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũi tên",
+   "base": "e278f9988a283bfe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arrow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "du hành",
+   "base": "8baec386cc69b28c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to travel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chén",
+   "base": "80391faf43ac8c7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small handleless porcelain cup that can be held with three fingers for drinking rice alcohol or tea, similar to a small shot glass"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "rice bowl (small bowl from which rice is typically eaten)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "to dine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chén Thánh",
+     "en": "the Holy Grail"
+    },
+    {
+     "sense": 1,
+     "vi": "chén trà",
+     "en": "teacup"
+    }
+   ]
+  },
+  {
+   "headword": "hồn",
+   "base": "4c9bdc2d6b960281",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hun (soul which leaves the body after death)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "mind, spirit, vigour"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hồn vía/phách",
+     "en": "hun and po; souls"
+    },
+    {
+     "sense": 1,
+     "vi": "Má tôi bứt ba phải xa sông, nhưng chính bà cũng biết, những dòng nhớ vẫn tiếp tục chảy mãi trong hồn ông.",
+     "en": "My mother pulled him away from the rivier, but she herself also knew that yearning still ran through his soul."
+    }
+   ]
+  },
+  {
+   "headword": "tình nguyện",
+   "base": "aad05c4ad3113955",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to volunteer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thi đấu",
+   "base": "a9e96f9cc31d4ad2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compete athletically"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con nít",
+   "base": "8840f9bd19d1bf9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "informal"
+     ],
+     "gloss": "small child, kid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con nít ở đây đều nếm mùi thịt rắn từ hồi còn trong bụng mẹ.",
+     "en": "The kids around here get a taste for snake meat from when still inside their mothers' bellies."
+    }
+   ]
+  },
+  {
+   "headword": "hưởng",
+   "base": "871e45a8abcb8b44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to obtain for oneself, to gain access to (something provided or brought about by others or society)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lan",
+   "base": "065591a7cd861e72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spread; to run"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orchid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "u",
+   "base": "3db0a6754a34b68e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "mother; mom"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a nodule; protuberance; swelling"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tumor; neoplasm"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get bumpy; to swell"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a game consists of two teams, where the offensive player has to chant ⟨u⟩ during offense"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter U/u."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phiêu lưu",
+   "base": "fbcdfd1985bfdd69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "adventure"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "adventurous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nấu ăn",
+   "base": "d38ed5f929adc2d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cook; to do the cooking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hư hỏng",
+   "base": "e860412cda4d105f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "broken; damaged (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spoiled; corrupt; depraved (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mê",
+   "base": "9afddff7209ff825",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drop off to sleep, to lose consciousness"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be keen (on something), to fancy, to be fascinated (by), to be crazy (about)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be lost, to lose one's way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nó mê phim Hàn dữ lắm.",
+     "en": "He/she really loves Korean films."
+    }
+   ]
+  },
+  {
+   "headword": "chốt",
+   "base": "4c6c4c299ffcb31d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bolt; fastening pin; linchpin"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a central pillar; central axis component"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a checkpoint"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the crux; essential point"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bolt"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to finalise"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pawn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Chốt kiểm soát miễn dịch",
+     "en": "Immune Checkpoint (checkpoint to control immunity)"
+    },
+    {
+     "sense": 3,
+     "vi": "Các chốt này bắt đầu hoạt động từ ngày 25/3, có nhiệm vụ kiểm soát y tế như: đo nhiệt độ, xác định người nghi nhiễm bệnh và tổ chức giám định y tế;[…]",
+     "en": "These checkpoints will start operating on 25th March and have the mission of executing medical checks, such as: measuring body temperature, determining who is suspected of being ill and organizing medical monitoring; […]"
+    }
+   ]
+  },
+  {
+   "headword": "hỡi",
+   "base": "05987218dd630b0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "vocative particle, used for direct address."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hỡi đồng bào!",
+     "en": "O my fellow countrymen!"
+    },
+    {
+     "sense": 1,
+     "vi": "Hỡi người!",
+     "en": "O humanity! / O my once beloved!"
+    }
+   ]
+  },
+  {
+   "headword": "hổ",
+   "base": "06b4bf2cdb540946",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tiger (Panthera tigris)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "elapid"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ashamed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Võ Tòng giết hổ trên đồi Cảnh Dương",
+     "en": "Wu Song killed a tiger on Jingyang Ridge"
+    }
+   ]
+  },
+  {
+   "headword": "hộ chiếu",
+   "base": "ccc7fc54703bdfd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "passport"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ảo giác",
+   "base": "187cd41e035b6e68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hallucination"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lố bịch",
+   "base": "7755a8a478000554",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "preposterous; ludicrous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đơn độc",
+   "base": "f6202b12caaa66bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "alone; solitary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công bố",
+   "base": "e8ae6c548fa4cd66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to announce; to proclaim; to publish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì",
+   "base": "7f19ee0b26d4a092",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rub off, to rub out"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "period, term (recurring interval of time)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "strange; odd"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "awkward or tacky"
+    },
+    {
+     "position": 5,
+     "pos": "conj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "until; till"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a capital city or citadel"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an area of land equal to 1,000 dặm (miles or leagues)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kì thi",
+     "en": "examination period"
+    },
+    {
+     "sense": 2,
+     "vi": "kì nghỉ",
+     "en": "holiday period"
+    },
+    {
+     "sense": 2,
+     "vi": "Mỗi môn học được giảng dạy trong 03 (ba) kì.",
+     "en": "Each subject is taught in 03 (three) terms."
+    }
+   ]
+  },
+  {
+   "headword": "huynh đệ",
+   "base": "6a499c81b7d958ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "South",
+      "Southern",
+      "collective",
+      "dated",
+      "figuratively"
+     ],
+     "gloss": "brothers"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tình huynh đệ",
+     "en": "brotherhood"
+    },
+    {
+     "sense": 1,
+     "vi": "Những cộng sự viên cuối cùng của ông [Ngô Đình Diệm], cũng như chính ông, đã chỉ cho tôi thấy hình như ông chỉ thích hợp với sự đào sâu hố chia rẽ giữa các đồng bào, và theo đuổi một cuộc chiến tranh huynh đệ tương tàn.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "hoàng thượng",
+   "base": "5566981c712d558f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "you, Your (Chinese or Vietnamese) Majesty"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "he/him, His (Chinese or Vietnamese) Majesty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng phục",
+   "base": "895b3fc24dbbb024",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "uniform (distinctive outfit as a means of identifying members of a group)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nữ sinh cấp 3 phải mặc đồng phục áo dài mỗi thứ 2. Nam sinh vẫn mặc như thường.",
+     "en": "High schoolgirls must wear uniform ao dai every Monday. Boys keep wearing their usual uniforms."
+    }
+   ]
+  },
+  {
+   "headword": "bệnh hoạn",
+   "base": "77e6c14286f787d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "literary"
+     ],
+     "gloss": "sick; ill"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "derogatory"
+     ],
+     "gloss": "sick in the head; perverted; deranged"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bệnh hoạn vầy rồi thì cứ nằm nghỉ đi.",
+     "en": "You should just rest when you are this sick."
+    },
+    {
+     "sense": 1,
+     "vi": "giúp người bệnh hoạn",
+     "en": "to help the sick"
+    },
+    {
+     "sense": 2,
+     "vi": "Đồ bệnh hoạn!",
+     "en": "You sick fuck!"
+    }
+   ]
+  },
+  {
+   "headword": "yên tâm",
+   "base": "2b180ff401bf1ede",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be reassured"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đi về muộn nhớ báo trước cho mẹ yên tâm.",
+     "en": "If you'll come home late, don't forget to call me beforehand, okay?"
+    }
+   ]
+  },
+  {
+   "headword": "đô la",
+   "base": "bfe5c37dd052adab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dollar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đô-la Mĩ/Ca-na-đa",
+     "en": "the US/Canadian dollar"
+    }
+   ]
+  },
+  {
+   "headword": "nhổ",
+   "base": "5b6c1614d1ce5edc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spit, to spit out"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull out something that's planted firmly into a surface, such as a tooth, a hair, a feather, a blade of grass, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhổ răng/tóc bạc/cỏ",
+     "en": "to pull out a tooth/a gray hair/weed"
+    },
+    {
+     "sense": 2,
+     "vi": "Thằng bé kéo tay tôi, bảo nhỏ. – Nhổ lông chim mướn đấy.[…]",
+     "en": "The boy pulled my hand and said quietly, \"They are searching for someone to pluck feathers there. […]\""
+    }
+   ]
+  },
+  {
+   "headword": "gia tộc",
+   "base": "c34d9a3c73b72bb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an extended family; a clan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đích thực",
+   "base": "c0a7b3c624e339b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "genuine; authentic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thủy thủ",
+   "base": "27e1e08bcb27a1e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thuỷ thủ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mô tả",
+   "base": "5f3cea88daa584d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to describe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bút",
+   "base": "def2f3b3474569a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any piece of equipment used for writing with one's hand, except chalk"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "someone who writes for a living, such as a professional writer, editorialist or journalist"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ông là một trong những cây bút gạo cội của văn học Việt.",
+     "en": "He was one of the seasoned penmen of Vietnamese literature."
+    }
+   ]
+  },
+  {
+   "headword": "kích thích",
+   "base": "00446a3ef94d00a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stimulate; to incite; to excite"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stimulus; incitement; excitation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xấu xí",
+   "base": "961e12aeed0b2a44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ugly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công khai",
+   "base": "254a9a71f9d4bd6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "public; open"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make public"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung thực",
+   "base": "7acc8b4823e4bd3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "faithful; sincere"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "honest; truthful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lồng",
+   "base": "bf69eec6b1f2d542",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a roundish, cylindrical-ish, usually small, cage, such as a birdcage; compare cũi (“square, cuboid cage”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to insert"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rear; to go wild"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lồng tiếng",
+     "en": "to \"insert\" voice-over; to add voice-over or to dub"
+    },
+    {
+     "sense": 2,
+     "vi": "dùng hàm IF lồng trong Excels",
+     "en": "to use nested IF functions (that are \"inserted\" inside another IF function) in Excels"
+    }
+   ]
+  },
+  {
+   "headword": "vô hiệu",
+   "base": "24c3411bb987a629",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ineffectual; ineffective"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trồng",
+   "base": "ee3d745f22ce9d7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bố tôi đang trồng cây.",
+     "en": "My father is planting trees."
+    },
+    {
+     "sense": 1,
+     "vi": "Trồng cây gây rừng",
+     "en": "To grow forests by planting trees"
+    },
+    {
+     "sense": 1,
+     "vi": "Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người.",
+     "en": "To benefit for ten years, must plant trees! To benefit for a hundred years, must cultivate people!"
+    }
+   ]
+  },
+  {
+   "headword": "tham dự",
+   "base": "977aee86668c59ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to participate/take part/partake, especially in a formal or important activity; compare tham gia (“to take part in any kind of activity”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attend (a conference, convention, meeting, meetup, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tham dự hội thảo",
+     "en": "to attend a conference"
+    }
+   ]
+  },
+  {
+   "headword": "vợ chồng",
+   "base": "9856f19647b02774",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "husband and wife"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "conjugal, marital"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá mập",
+   "base": "f35c4bda3b16fb6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shark (especially the bigger species)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vĩnh viễn",
+   "base": "11dae008a9e8c88f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "everlasting; long-lasting; permanent; for ever"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "permanently; for ever; for good; once and for all"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hộ tống",
+   "base": "9c3ca31ed21467d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to escort; to accompany"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hi sinh",
+   "base": "2659e1153bf40930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sacrifice"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "especially",
+      "formal"
+     ],
+     "gloss": "to die"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cô ta đã hi sinh vì anh rất nhiều.",
+     "en": "She sacrificed herself for you too much"
+    },
+    {
+     "sense": 1,
+     "vi": "sự hi sinh vô ích",
+     "en": "useless sacrifice"
+    },
+    {
+     "sense": 2,
+     "vi": "Liệt sĩ Huỳnh Văn Tăng hi sinh ngày 13 tháng 8 năm 1974. Hài cốt của chiến sĩ hiện chưa tìm thấy.",
+     "en": "Mr. Huỳnh Văn Tăng died the 13th of August, 1974. His remains have not been found."
+    }
+   ]
+  },
+  {
+   "headword": "quen biết",
+   "base": "7631e3efe7e1d206",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be acquainted (with each other)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dò",
+   "base": "01018e05285b7fb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to walk carefully (step by step); to grope one's way"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to investigate, trace, probe"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to check or review carefully; to proofread"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cutting"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birdtrap (usually with a noose)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giới",
+   "base": "8cdff4794983e04d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kingdom"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a scene (large informal group of people with a uniting interest)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giới Động vật",
+     "en": "Animalia"
+    },
+    {
+     "sense": 2,
+     "vi": "giới báo chí",
+     "en": "journalists; the press; the media"
+    }
+   ]
+  },
+  {
+   "headword": "củ",
+   "base": "149d142b995debb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "root"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rhizome"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bulb, tuber"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "slang"
+     ],
+     "gloss": "one million dongs"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates edible roots, such as onions, garlic, carrots, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhắc nhở",
+   "base": "1fbf4352c87cc1ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remind (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "banh",
+   "base": "58322ea18559f217",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "ball"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "broken into smithereens; ruined; tattered"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to open"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to expose"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reveal, to disclose, to lay bare"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ban ngày",
+   "base": "7838f53de501e9e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "day, daytime (period from sunrise to sunset)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy móc",
+   "base": "87ff6e7cb2645f5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "machines; machinery"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "disapproving"
+     ],
+     "gloss": "that follows rules or guidelines uncritically; mechanical, artificial, stiff, inflexible, etc."
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

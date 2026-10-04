@@ -1,0 +1,1512 @@
+{
+ "batch": "0062",
+ "entries": [
+  {
+   "headword": "rùa",
+   "base": "c78544d8a85784fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "turtle; tortoise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đáng kể",
+   "base": "89eac29516113c25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "noticeable; significant; remarkable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dân chúng",
+   "base": "4f2ce4326b128db4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the people; the general populace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chích",
+   "base": "af1c2e4f432fd7f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prick; to pierce; to puncture"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to sting"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to inject (medicine)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any acrocephalid warbler (a songbird of the family Acrocephalidae)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "any bird of the superfamily Sylvioidea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tử thần",
+   "base": "4a701811ea3bdb3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a magical being that rules over, decides on, or embodies death, such as Hades, Pluto, the Grim Reaper or a shinigami"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "associated with death, or deities or personifications of death"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Harry Potter và Bảo Bối Tử Thần",
+     "en": "Harry Potter and the Deathly Hallows"
+    }
+   ]
+  },
+  {
+   "headword": "xung đột",
+   "base": "d37fbb4fbc0e4165",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conflict, to clash"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biệt danh",
+   "base": "d17e18a2dcc33f48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an affectionate or amusing nickname or moniker"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đặt biệt danh cho",
+     "en": "to give a nickname to"
+    },
+    {
+     "sense": 1,
+     "vi": "Chẳng thế mà từ lâu, người ta đã trừu mến gọi Đà Lạt với cái tên \"thành phố ngàn hoa\" hay nhiều biệt danh khác như \"thành phố mù sương\", \"thành phố ngàn thông\", \"xứ sở tình yêu\"…",
+     "en": "It's no wonder that since a long time ago, people have affectionately dubbed Dalat the \"city of blooms,\" or with many other nicknames like the \"misty city,\" the \"city of conifers,\" the \"land of love,\" etc."
+    },
+    {
+     "sense": 1,
+     "vi": "Cô cũng cố lục lọi trí nhớ để lôi ra những biệt danh anh đặt cho cô. Chỉ hai tuần lễ đầu lúc mới quen anh gọi cô bằng tên thật. Anh là cái máy chế biệt danh và đó là cách anh bày tỏ sự âu yếm với cô. Tên cũ chưa quen anh đã đặt cho cô tên mới. Suốt thời gian mười hai năm có nhau, cô có khoảng hai ba chục cái tên, mỗi tên thuộc về một quãng thời gian đặc biệt nào đó trong cuộc sống.",
+     "en": "She also tried to search her memory for all the nicknames he gave her. He only called her by her real name for the first two weeks they were dating. He was a nicknaming machine, and it was how he showed her his affection. The old name hadn't stuck before he made a new one. During the entire twelve years together, she got some twenty to thirty names, each of which corresponded to a special period in their lives."
+    }
+   ]
+  },
+  {
+   "headword": "áp suất",
+   "base": "1674f31fee7b7561",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pressure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chày",
+   "base": "9fb461178a89c9ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pestle (instrument used with a mortar to grind things)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "bat"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bóng chày",
+     "en": "baseball"
+    }
+   ]
+  },
+  {
+   "headword": "bướm",
+   "base": "0c8f886ade0e25e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "butterfly"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "flirtatious or promiscuous person"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "vulva"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pansy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phi hành đoàn",
+   "base": "bf79c312620d381f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cabin crew; air crew"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chức năng",
+   "base": "d32c001954ac56a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a function, role or feature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biểu hiện",
+   "base": "4a1c9239efa14b3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express; to manifest"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expression; manifestation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mâu thuẫn biểu hiện dưới nhiều hình thức khác nhau.",
+     "en": "The contradiction manifests itself in many different forms."
+    }
+   ]
+  },
+  {
+   "headword": "tử thi",
+   "base": "9725801b0104be96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "formal"
+     ],
+     "gloss": "corpse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mục",
+   "base": "eba6926fdd98e8ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rotten, decaying, decayed"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an item"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an entry"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an eye"
+    },
+    {
+     "position": 5,
+     "pos": "num",
+     "tags": [],
+     "gloss": "six"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "mục 1",
+     "en": "item 1"
+    },
+    {
+     "sense": 3,
+     "vi": "mục từ",
+     "en": "an entry"
+    },
+    {
+     "sense": 4,
+     "vi": "thắng 3 mục",
+     "en": "to win by 3 eyes"
+    }
+   ]
+  },
+  {
+   "headword": "hình dạng",
+   "base": "04c194ae472faacf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shape; form"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đề",
+   "base": "af5137381db92f36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "title"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "set of questions for an examination or test"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "topic"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write; to inscribe"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gambling game where players win if the day's main lottery draw ends in the two digits they bet on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chiều ngày 7/5, Bộ GĐ-ĐT đã công bố đề thi tham khảo kỳ thi tốt nghiệp THPT Quốc gia 2020.",
+     "en": "This afternoon 7th May, the MoET announced the exam questions for the 2020 National High School Graduation Exam."
+    },
+    {
+     "sense": 4,
+     "vi": "Nàng vâng cất bút tay đề",
+     "en": "Complying, she raised her brush and wrote"
+    },
+    {
+     "sense": 5,
+     "vi": "Ai mê vợ bé, mê chơi đề, đá gà, họ lườm lườm: \"Mê gì như thằng Hết mê cờ\".",
+     "en": "When someone is crazy about a mistress, betting on lottery draws, or cockfighting, people would give them disapproving sidelong looks: \"Crazy like Hết went crazy about chess.\""
+    }
+   ]
+  },
+  {
+   "headword": "bề ngoài",
+   "base": "5da4ce640dc0b51d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exterior; outward appearance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhỡ",
+   "base": "2cbd7640455bc4d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to miss (an opportunity, etc.; compare lỡ)"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "if (an unlikely event happens); if by chance"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "medium-sized"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính đáng",
+   "base": "c69e3b0c43c62e4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "legitimate; reasonable; justifiable; proper"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "legal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghịch",
+   "base": "f73a3203b1e553f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "non-dominant"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inversely proportional"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "\"leftward\""
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to fiddle or play around with something"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "usually"
+     ],
+     "gloss": "to be playfully naughty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tỉ lệ nghịch với",
+     "en": "to be inversely proportional with"
+    },
+    {
+     "sense": 4,
+     "vi": "Nó đang ngồi nghịch máy tính.",
+     "en": "She's playing with the computer."
+    },
+    {
+     "sense": 5,
+     "vi": "Thằng cu con em nghịch như giặc.",
+     "en": "My boy is uncontrollable."
+    }
+   ]
+  },
+  {
+   "headword": "nhãi",
+   "base": "717b2ec5a45a3abc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "a brat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trị liệu",
+   "base": "fb13edeb92f84343",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "therapy (treatment of disease)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điện hạ",
+   "base": "48c8e9ad52c1e28c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "historical"
+     ],
+     "gloss": "Your Highness; His Highness; Her Highness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội bộ",
+   "base": "89dd00dbbba89232",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "interior; inside; internal; domestic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "can thiệp vào việc nội bộ của nước láng giềng",
+     "en": "to interfere in the domestic/internal affairs of a neighbouring country"
+    }
+   ]
+  },
+  {
+   "headword": "tỉ lệ",
+   "base": "107a8c6325f2433d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a proportion or ratio"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rate"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rating"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tỉ lệ đường:nước",
+     "en": "a sugar-to-water ratio"
+    },
+    {
+     "sense": 1,
+     "vi": "tỉ lệ đầu người",
+     "en": "a head-to-body proportion"
+    },
+    {
+     "sense": 2,
+     "vi": "tỉ lệ thất nghiệp",
+     "en": "an unemployment rate"
+    },
+    {
+     "sense": 3,
+     "vi": "tỉ lệ ủng hộ",
+     "en": "an approval rating"
+    }
+   ]
+  },
+  {
+   "headword": "hồi hộp",
+   "base": "aece84aa2d384ab4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "nervous; anxiously excited"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xếp hàng",
+   "base": "cbbd325497c2b166",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to line up; to queue up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiêng liêng",
+   "base": "16fa194ab27ee5a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spiritual; sacred"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giây phút thiêng liêng",
+     "en": "sacred moment(s)"
+    }
+   ]
+  },
+  {
+   "headword": "đặt chân",
+   "base": "4ef70fbe4c07dc4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to set foot"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi chưa bao giờ đặt chân đến nhà họ.",
+     "en": "I've never set foot in their house."
+    },
+    {
+     "sense": 1,
+     "vi": "khi họ đặt chân lên đất Pháp",
+     "en": "when they set foot on French soil"
+    }
+   ]
+  },
+  {
+   "headword": "cõi",
+   "base": "f9a03bd23b4708c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "literary",
+      "usually"
+     ],
+     "gloss": "a domain, realm or land"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bờ cõi",
+     "en": "national frontiers; borders"
+    },
+    {
+     "sense": 1,
+     "vi": "cõi âm/dương",
+     "en": "the realm of the dead/living"
+    },
+    {
+     "sense": 1,
+     "vi": "cõi vĩnh hằng",
+     "en": "the world of the dead"
+    },
+    {
+     "sense": 1,
+     "vi": "Cõi người ta",
+     "en": "Wind, Sand and Stars"
+    }
+   ]
+  },
+  {
+   "headword": "thác",
+   "base": "42579411e3cd8983",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a waterfall"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "synonym of chết (“to die”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khác gì",
+   "base": "7943fbf19e258735",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be the same as; to have no difference"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chọc giận nó khác gì mang hoạ vào thân.",
+     "en": "Don't piss him off, nothing good will come out of it."
+    }
+   ]
+  },
+  {
+   "headword": "hôn mê",
+   "base": "af57b34f674a01ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "retarded; mentally challenged"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "comatose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thực vật",
+   "base": "5a9ea8e2c1acf468",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a plant (organism capable of photosynthesis)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chết đuối",
+   "base": "1a6bd55c6674801c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drown"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình luận",
+   "base": "8dc311ba72987948",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to comment; to remark"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a comment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bậy",
+   "base": "9ac201fa867eafb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "morally wrong"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "false"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại sứ quán",
+   "base": "751792158692c893",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an embassy (organization representing a foreign state)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biết mấy",
+   "base": "9f6ff6f1ba8a1a79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "how (+ adj.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi đó mình từng nghĩ có nhiều tiền là một việc tốt biết mấy.",
+     "en": "At that time, I thought to myself how nice it would be to have a lot of money."
+    }
+   ]
+  },
+  {
+   "headword": "từ chức",
+   "base": "cfa4754caa23525f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resign (a position)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thế kỉ",
+   "base": "e178d8396f27ee4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a century (100 years)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xịn",
+   "base": "8d378c0e5abff22b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "luxurious; fancy; posh; smart; slap-up"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "real (not fake)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giáo hoàng",
+   "base": "29ee19b6474cb4f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pope"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đức giáo hoàng",
+     "en": "the pope"
+    }
+   ]
+  },
+  {
+   "headword": "chỉnh",
+   "base": "ab1ecb8c10820de4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to align; to arrange; to tidy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "orderly; neat; tidy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dự trữ",
+   "base": "12c573760974a9ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reserve"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reserve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hàn Quốc",
+   "base": "11a52acb3e735988",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "South Korean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quan tài",
+   "base": "71dc01e2012bedbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "coffin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "triển khai",
+   "base": "ba43aca364cd0d1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to expand (into); to extend; to widen"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to develop; to deploy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trán",
+   "base": "508fd7933da9ee6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "forehead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trâu",
+   "base": "9f5f296d1d4076d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water buffalo"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "slang"
+     ],
+     "gloss": "cryptomining rig"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "enduring; tough; hard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trâu trắng",
+     "en": "an albino water buffalo"
+    },
+    {
+     "sense": 3,
+     "vi": "Con boss game này trâu quá.",
+     "en": "This game's boss is super tough (to beat)."
+    }
+   ]
+  },
+  {
+   "headword": "đãi",
+   "base": "1b8b6c3e3f089fb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rinse off (unwanted parts in water); to wash out; to pan off; to flay (soybean)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat (someone to); to entertain (someone to)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sỉ nhục",
+   "base": "385c8c40ab995895",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to humiliate; to shame; to disgrace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sinh đôi",
+   "base": "36e65e8c76d8d861",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being twins"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "belonging to twins"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lực",
+   "base": "b1a4364fe75f97e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "force"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gớm",
+   "base": "061931a0b9b71e13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loathsome, disgusting"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Used to express belittlement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Gớm! Có mỗi cái giải cấp quận mà cũng phải khoe.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "bày tỏ",
+   "base": "d2f81ec049d7d1c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express; to make clear; to show; to display"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loạt",
+   "base": "bcf1e8cc5df5bde0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "series; bunch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vĩnh biệt",
+   "base": "679977561a80d750",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "goodbye forever; see you never; good riddance forever"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to bid farewell forever"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vĩnh biệt người bạn yêu dấu.",
+     "en": "Rest in peace, my dear friend."
+    },
+    {
+     "sense": 1,
+     "vi": "Vĩnh biệt!",
+     "en": "Farewell! / See you never! / Good riddance! / Don't ever come back!"
+    }
+   ]
+  },
+  {
+   "headword": "tan nát",
+   "base": "f903c149adb82f07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "broken in pieces; crushed; ruined"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "soi",
+   "base": "8575cbcaff914a45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flash (light); to illuminate; to light; to give light to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look at one's image in (a mirror)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to candle (e.g. an egg)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to see closely (under a microscope, magnifier, etc.); to examine"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alluvial island (in a river)"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "accomplished; experienced; well-versed in"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "soi gương",
+     "en": "to look at oneself in the mirror"
+    }
+   ]
+  },
+  {
+   "headword": "tự nguyện",
+   "base": "aad05c4ad3113955",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to volunteer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giúp ích",
+   "base": "fd4bb560977ea835",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be of help or service to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mềm",
+   "base": "7196b7877d6f6869",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soft"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soft"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mềm dẻo",
+     "en": "flexible"
+    },
+    {
+     "sense": 1,
+     "vi": "mềm yếu",
+     "en": "frail; fragile"
+    },
+    {
+     "sense": 1,
+     "vi": "ổ đĩa mềm",
+     "en": "a floppy disk"
+    }
+   ]
+  },
+  {
+   "headword": "ngai",
+   "base": "065754c3f3ce83fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a throne (ornate seat)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xỉn",
+   "base": "cf3674a150bf11c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "blackened; tarnished"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "drunk; blitzed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông thái",
+   "base": "f08d30b123d0e9e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "wise thanks to experiences"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lon",
+   "base": "d1eae032f3580180",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beverage can"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "stripe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phần mềm",
+   "base": "70a0563cb700d78e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "software (encoded computer instructions)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "computer program"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pho",
+   "base": "013aad34894573d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "set"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates complicated works, chiefly books and statues"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "pho sách",
+     "en": "set of books"
+    }
+   ]
+  }
+ ]
+}

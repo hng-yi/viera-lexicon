@@ -1,0 +1,1609 @@
+{
+ "batch": "0063",
+ "entries": [
+  {
+   "headword": "xô",
+   "base": "61f5d9a73b4db761",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bucket (container)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "also",
+      "ambitransitive",
+      "figuratively"
+     ],
+     "gloss": "to cause to fall; to push down, to thrust, to shove"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to push forward or push open"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to push over; to tilt"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather many people for something"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "xô ngã một người",
+     "en": "to shove a person"
+    },
+    {
+     "sense": 2,
+     "vi": "xô nhau bỏ chạy",
+     "en": "to push one another to flee"
+    },
+    {
+     "sense": 2,
+     "vi": "xô đổ bức tường",
+     "en": "to push down the wall"
+    },
+    {
+     "sense": 2,
+     "vi": "sóng xô bãi cát",
+     "en": "waves hit the sand"
+    },
+    {
+     "sense": 3,
+     "vi": "xô cửa chạy ra",
+     "en": "to push the door and run out"
+    },
+    {
+     "sense": 4,
+     "vi": "mái ngói xô nghiêng",
+     "en": "roof tile that was tilted over"
+    },
+    {
+     "sense": 4,
+     "vi": "chăn/mền bông bị xô",
+     "en": "blanket being tilted"
+    },
+    {
+     "sense": 5,
+     "vi": "xô lại hỏi chuyện",
+     "en": "to gather to talk"
+    }
+   ]
+  },
+  {
+   "headword": "khổ sở",
+   "base": "0bb3e0951d1e76d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wretched; miserable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí",
+   "base": "a5a9cfc53d9a9a3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wisdom; knowledge; intelligence"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "mind"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wise; intelligent; astute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi",
+   "base": "d70a7c93e3c04b7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trunk"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "tube-like organ; proboscis"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "hose (flexible tube)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "faucet, tap, spigot"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to clamour for; to exact; to demand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con vỏi con voi, / Cái vòi đi trước,[…]",
+     "en": "Elephant, elephant, / Its trunk comes first, […]"
+    },
+    {
+     "sense": 2,
+     "vi": "vòi muỗi",
+     "en": "mosquito proboscis"
+    },
+    {
+     "sense": 3,
+     "vi": "vòi tắm",
+     "en": "shower"
+    }
+   ]
+  },
+  {
+   "headword": "trinh sát",
+   "base": "9e42050b618a11cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scout (to explore a wide terrain)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đùi",
+   "base": "da7ecdc8e7d8f48f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thigh"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đùi gà",
+     "en": "chicken thigh"
+    }
+   ]
+  },
+  {
+   "headword": "quấy rối",
+   "base": "155ff2b91b8e038a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to harass; to disturb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quấy rối tình dục",
+     "en": "to sexually harass"
+    }
+   ]
+  },
+  {
+   "headword": "huyết thanh",
+   "base": "9ae263f892988157",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "serum (yellowish fluid obtained from blood)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng",
+   "base": "23ce8751d2c15acf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a symptom; condition; indication"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a vice; bad habit"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "proof; evidence"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prove; to testify"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to verify"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chứng kém ăn",
+     "en": "appetite loss"
+    },
+    {
+     "sense": 1,
+     "vi": "chứng táo bón",
+     "en": "constipation"
+    }
+   ]
+  },
+  {
+   "headword": "quảng trường",
+   "base": "28ae86fd663e8f9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a square or plaza"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "màu sắc",
+   "base": "af0d47cba2e8ac36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "colours"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giao nộp",
+   "base": "ddf27aec72b3d6b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn in; to deliver; to return"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dân giao nộp gấu ngựa nặng gần 200 kg cho Trung tâm cứu hộ động vật tại Đồng Nai",
+     "en": "Citizens send a nearly 200 kg black bear to Đồng Nai Animal Rescue Centre"
+    }
+   ]
+  },
+  {
+   "headword": "nghề nghiệp",
+   "base": "e0177156fe0a4887",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "profession"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bóng đá",
+   "base": "65f677f781ca41f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "association football; soccer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quen thuộc",
+   "base": "5231d30bb508ecc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "familiar; acquainted (for long)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cụt",
+   "base": "1f6be1b5c2b9de84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cut off; shortened; decreased"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a frustum"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cụt chân",
+     "en": "crippled"
+    }
+   ]
+  },
+  {
+   "headword": "họp báo",
+   "base": "cdeb2f31005090c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "press conference"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mợ",
+   "base": "938690be74794f80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maternal aunt-in-law, mother's younger brother's wife"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Hà-Tĩnh",
+      "Nghệ-An"
+     ],
+     "gloss": "paternal aunt-in-law, father's younger brother's wife"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "dialectal"
+     ],
+     "gloss": "mother; mom"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lạy cậu lạy mợ / Cho cháu về quê",
+     "en": "We beg uncles and aunts / To let us go back home"
+    }
+   ]
+  },
+  {
+   "headword": "lẽ",
+   "base": "0e10ca7fb4ce9b4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reason; rationale; argument"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhựa",
+   "base": "de9e2948c202a082",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "resin; gum; sap (of a plant)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plastic"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "asphalt; bitumen"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "overly attached"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "đường đổ/trải nhựa",
+     "en": "paved road"
+    },
+    {
+     "sense": 4,
+     "vi": "Nhựa vừa thôi!",
+     "en": "Stop acting so spoiled!"
+    }
+   ]
+  },
+  {
+   "headword": "hiện thực",
+   "base": "d0dbad8bd99c8404",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reality"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hiện thực khách quan",
+     "en": "objective reality"
+    }
+   ]
+  },
+  {
+   "headword": "kỉ niệm",
+   "base": "8911f9d3bc7c9c65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "memory, memories (good, bad, childhood memories, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "souvenir, keepsake"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to commemorate, to celebrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẩm quyền",
+   "base": "17ea7c5e64732bb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "right to judge a matter"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jurisdiction; competence; authority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện tượng",
+   "base": "52e35f076363d795",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a phenomenon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đực",
+   "base": "8f0a935f39ed8a34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "masculine"
+     ],
+     "gloss": "male"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "absent-minded"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mèo đực",
+     "en": "a male cat"
+    },
+    {
+     "sense": 1,
+     "vi": "(of men) đực rựa",
+     "en": "male as heck; freaking male"
+    },
+    {
+     "sense": 1,
+     "vi": "Nghĩ sao con gái mà vô ở chung phòng với một bọn đực rựa?",
+     "en": "How the hell is it okay for a girl to stay with a roomful of dudes?"
+    },
+    {
+     "sense": 2,
+     "vi": "đực mặt",
+     "en": "with a blank expression"
+    },
+    {
+     "sense": 2,
+     "vi": "đứng đực",
+     "en": "to stand absent-mindedly"
+    }
+   ]
+  },
+  {
+   "headword": "giảng",
+   "base": "f3a96b4126a21490",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to explain; to explicate; to lecture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lộng lẫy",
+   "base": "2e37574c5dc0d46f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "splendid; magnificent; gorgeous; stunning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đội hình",
+   "base": "f78043d38ef1969a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a roster"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trú ẩn",
+   "base": "ef2c7209920c39c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to shelter; to take shelter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trú ẩn tại chỗ",
+     "en": "to shelter in place"
+    }
+   ]
+  },
+  {
+   "headword": "trút",
+   "base": "ca65c04ad02b997b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pour (both physically and figuratively)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exude"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pangolin"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trút mưa xuống xối xả",
+     "en": "with a heavy downpour"
+    },
+    {
+     "sense": 1,
+     "vi": "trút giận vào người khác",
+     "en": "to infect others with one's fury"
+    },
+    {
+     "sense": 2,
+     "vi": "trút hơi thở cuối cùng",
+     "en": "to give out one's last breath"
+    },
+    {
+     "sense": 2,
+     "vi": "trút bầu tâm sự",
+     "en": "to bare one's soul explicitly"
+    }
+   ]
+  },
+  {
+   "headword": "lập dị",
+   "base": "258e56145659bbe1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "peculiar; eccentric"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biện hộ",
+   "base": "833a3409dbd4a8a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plead (for); to defend"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a plea; defense"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Một biện hộ cho lẽ thường",
+     "en": "A Defense of Common Sense (an essay)"
+    }
+   ]
+  },
+  {
+   "headword": "trang web",
+   "base": "85b11e057ea9930b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "web page; website"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trang web tiếng Anh",
+     "en": "English-language webpage"
+    },
+    {
+     "sense": 1,
+     "vi": "tạo trang web",
+     "en": "create a webpage"
+    }
+   ]
+  },
+  {
+   "headword": "cắp",
+   "base": "71081aa43e5faf72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to filch, to steal"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to claw, to grip; to clamp"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẻ cắp",
+     "en": "thief"
+    },
+    {
+     "sense": 2,
+     "vi": "cắp sách đến trường",
+     "en": "to go to school bringing one's own books and notes"
+    }
+   ]
+  },
+  {
+   "headword": "tố cáo",
+   "base": "95de0d117c38338f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to accuse; denounce"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tố cáo ai cho cảnh sát biết",
+     "en": "to denounce somebody to the police"
+    },
+    {
+     "sense": 1,
+     "vi": "Trong 50 năm qua, tổ hợp quân sự-công nghiệp luôn là đề tài ‘nóng’ được tranh luận, tố cáo và phê phán sôi nổi, thu hút nhiều nhà nghiên cứu, lý luận, hoạch định chính sách và hoạt động chính trị thuộc nhiều màu sắc, khuynh hướng chính trị khác nhau ở Mỹ cũng như trên thế giới.",
+     "en": "In the past 50 years, the military-industrial complex always has been a ‘hot’ topic discussed, denounced, and criticized fervently, attracting many researchers, theorists, policy-makers and political activists of many different political colors and tendencies in the US as well as throughout the world."
+    }
+   ]
+  },
+  {
+   "headword": "trái cây",
+   "base": "10c20184c34e8b7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "fruits"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hào phóng",
+   "base": "d38858940e7757ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "generous; liberal; open-handed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lọt",
+   "base": "a5d91fc9d9c93487",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall through; to pass through"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to fall, to tumble (from a high place)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lọt qua vòng loại",
+     "en": "to pass the elimination round"
+    },
+    {
+     "sense": 2,
+     "vi": "Ngồi ban công có ngày lọt bây giờ. Lọt từ đây xuống là có cứu cũng hông được đâu.",
+     "en": "Quit sitting on the balcony, you might just fall you know. At this height, there is no helping you once that happens."
+    }
+   ]
+  },
+  {
+   "headword": "nhảy múa",
+   "base": "2bd8579d98fb7733",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dance (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xen",
+   "base": "4cea36914c852403",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to edge oneself; to insert; to come between"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to interfere; to meddle; to intervene"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "suối",
+   "base": "76d228f20d6d62bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stream; spring"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất đai",
+   "base": "34856e9e70e69358",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land; territory (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dàn",
+   "base": "62d6d0c48bface19",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put in order, to arrange"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to display"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngư lôi",
+   "base": "a959afc054f77d37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a torpedo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lầy",
+   "base": "00fae689c14d1bf1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "marshy, muddy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "playful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chằm chằm",
+   "base": "b8cf5f7621ea91f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "intently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhìn chằm chằm",
+     "en": "to stare intently"
+    },
+    {
+     "sense": 1,
+     "vi": "Nó đưa mắt chằm chằm nhìn tôi.",
+     "en": "He/she's staring at me intently."
+    }
+   ]
+  },
+  {
+   "headword": "lễ hội",
+   "base": "abd3fee9299b4273",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "festival"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoe",
+   "base": "14453238c57e1d2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flaunt, to show off, to boast"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân thể",
+   "base": "ae18436780b93a76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "body"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ân huệ",
+   "base": "d0852804457a02c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grace; favour; kindness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đau buồn",
+   "base": "baf5da573d12bbda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel sorrowful; to be desolate; to be distressed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tản",
+   "base": "bca75584f25d1f15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be dispersed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disperse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Không ai nói gì, người ta dần dần tản đi.",
+     "en": "No-one says anything; the people slowly disperse."
+    }
+   ]
+  },
+  {
+   "headword": "nguyên tử",
+   "base": "3e1d2bdca1fc3856",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an atom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu đố",
+   "base": "0e127bdad0320f18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a riddle; brain-teaser; conundrum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình nhân",
+   "base": "cc5da429efe645ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "lover"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dốc",
+   "base": "d8e11a675e84fc20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slope, to dip"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "slope"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pour out; to empty; to exhaust"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to pour all into; to devote all to; to exhaust all for"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "dốc tiền thật để mua tiền ảo",
+     "en": "to pour real money into buying virtual currency"
+    }
+   ]
+  },
+  {
+   "headword": "thay mặt",
+   "base": "5f508441494a4a05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to represent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tăng cường",
+   "base": "00f301e589030cae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strengthen; to reinforce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tống tiền",
+   "base": "27f67f39678b7296",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use threat to get money from someone; to blackmail, extort or demand a ransom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khái niệm",
+   "base": "e29127929c9b3f7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concept, notion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lạm dụng",
+   "base": "51f724f71fd9285d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to overuse or to abuse (to use improperly)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abuse (to hurt)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có nhiều người lạm dụng từ đồng nghĩa trong bài viết. Chúng ta là con người, có trí khôn, phải viết câu cho mềm mại, chứ đừng lạm dùng từ đồng nghĩa như thể mình là từ điển nha!",
+     "en": "There are so many of you who overused synonyms in your writing. We're all humans with brains, we should be writing smooth sentences, rather than abusing synonyms as if we were thesauri!"
+    },
+    {
+     "sense": 2,
+     "vi": "lạm dụng tình dục",
+     "en": "to sexually abuse"
+    }
+   ]
+  },
+  {
+   "headword": "xúc động",
+   "base": "bd0ad83ad99d8393",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be moved; to be touched"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thượng",
+   "base": "aecbf253b394a1c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "upper; higher; top"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to put or bring (something) up on (a place in an unsightly way, where the thing does not belong); to put up high; to jump up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sông Nin Thượng",
+     "en": "the Upper Nile"
+    }
+   ]
+  },
+  {
+   "headword": "điệu",
+   "base": "7278a2d4b7ba5b90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mannerism (habitual behavior)"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates a tune, a melody, a chant or occurrence of singing, or a dance routine"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "disapproving",
+      "humorous"
+     ],
+     "gloss": "showy, flashy, flamboyant, gaudy, ostentatious"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forcefully carry someone by lifting them up usually by the armpits"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "điệu hò/múa",
+     "en": "a \"Vietnamese yodel\"/dance routine"
+    },
+    {
+     "sense": 3,
+     "vi": "Chim thiên đường có lẽ là loài chim \"điệu\" nhất thế giới.",
+     "en": "The bird of paradise is perhaps the \"showiest\" bird in the world."
+    },
+    {
+     "sense": 3,
+     "vi": "Trang điểm gì lâu thế ? Mình đi ăn cơm, không cần phải điệu thế đâu!",
+     "en": "Why are you taking so long with your makeup? We're going to eat out, you don't have to get all dolled up (literally, “you don't need to be that gaudy”)!"
+    },
+    {
+     "sense": 4,
+     "vi": "Nó bị điệu đến đồn công an.",
+     "en": "He was dragged to a police station."
+    }
+   ]
+  },
+  {
+   "headword": "cua",
+   "base": "50bded3a05435d91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crab (a crustacean of the infraorder Brachyura)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "slang"
+     ],
+     "gloss": "to take out a girl"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "corner, curve, bend (point where a route changes sharply)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "period, term, round (period of time required to complete a task)"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "having a buzzcut, crewcut"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Xe chạy qua cua.",
+     "en": "The car rounded a corner."
+    },
+    {
+     "sense": 4,
+     "vi": "theo học một cua ngoại ngữ",
+     "en": "to study a foreign language for a term"
+    },
+    {
+     "sense": 4,
+     "vi": "Học mỗi cua ba tháng.",
+     "en": "Each term of study is three months."
+    },
+    {
+     "sense": 5,
+     "vi": "đầu húi cua",
+     "en": "a buzzcut haircut"
+    }
+   ]
+  },
+  {
+   "headword": "nhà báo",
+   "base": "bb4a4703a9c715bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a journalist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giả mạo",
+   "base": "01954763edcb90e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fake; to forge; to falsify"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất chấp",
+   "base": "51e482144de5d729",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "despite; regardless of; no matter (what)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "defiant; fearless in one's opposition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ câu",
+   "base": "118b83faed33407c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pigeon; dove"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mìn",
+   "base": "a8ddccd310998953",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mine; dynamite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải tặc",
+   "base": "3c70bf08d27ad0b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pirate (one who plunders at sea)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "triển lãm",
+   "base": "cecd434eb43e2306",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put on exhibit; to display"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exhibition"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "triển lãm thương mại",
+     "en": "trade exhibition"
+    }
+   ]
+  },
+  {
+   "headword": "chửi",
+   "base": "c6c2bbfaceb841d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to insult; to abuse; to curse; to scold (to use offensive or morally inappropriate language)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chửi thề",
+     "en": "to swear"
+    },
+    {
+     "sense": 1,
+     "vi": "Con ra ngoài chơi có tí mà ba chửi lên chửi xuống.",
+     "en": "I [or someone's son] have just gone out for a little while, but you [or father] showered curses on me."
+    }
+   ]
+  }
+ ]
+}

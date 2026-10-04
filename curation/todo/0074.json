@@ -1,0 +1,1502 @@
+{
+ "batch": "0074",
+ "entries": [
+  {
+   "headword": "cá heo",
+   "base": "1f85b240c3989d0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dolphin"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dolphin-like cetacean (such as the porpoise)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tu sĩ",
+   "base": "2c63711d3424c48a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clergyman; friar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tín đồ",
+   "base": "54fda8477f2a129f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a follower; a believer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "va",
+   "base": "4fd4a7a69ebe79c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bump into (something)"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "dialectal",
+      "literary",
+      "obsolete"
+     ],
+     "gloss": "he/him; she/her; they/them (singular third person pronoun)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai người ấy va vào nhau.",
+     "en": "They (those two) bumped into each other."
+    },
+    {
+     "sense": 2,
+     "vi": "Người ấy trông chừng cũng đã nhiều tuổi, thấy tôi đến gần, vẫn nằm vắt chân chéo khoeo, kéo một hơi thẳng, không thở tị tí khói nào. Tôi biết ngay va là tay lão luyện.",
+     "en": "He seemed like a fairly old guy; as he saw me approaching, he kept lying still with his legs crossed, took a deep hit yet not letting out a whit of smoke. I knew right away that he's a veteran [smoker]."
+    }
+   ]
+  },
+  {
+   "headword": "nhà ngươi",
+   "base": "6144c54b099dc66f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "thou, thee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lật đổ",
+   "base": "5bf4685e47769975",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to overthrow; to subvert; to overturn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "võ thuật",
+   "base": "380a95e07b1a45db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "martial art, wushu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tua",
+   "base": "9349d868857e2e5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fringe; tassel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fringe- or tassel-like object; feeler (of certain animals); antenna"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "turn; rotation; round"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trip; tour"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stroll; walk"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rewind or skip forward; to rewind or fast forward (a movie, video, etc.)"
+    },
+    {
+     "position": 7,
+     "pos": "adv",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "must; should"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "Coi phim kiểu gì mà tua riết vậy ông?",
+     "en": "What kind of watcher are you to just keep on fast forwarding movies?"
+    }
+   ]
+  },
+  {
+   "headword": "bàn chân",
+   "base": "9d4a7f3553e019fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a foot (the weight-bearing end of a limb)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đê tiện",
+   "base": "be0b7e2af32f495b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "lowly and pathetic; having no class; horrendously depraved"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguy",
+   "base": "dd340a96c4d87c07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dangerous; perilous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe lăn",
+   "base": "b68010c8303db38d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wheelchair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đần độn",
+   "base": "72af05095e9fe73a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "offensive"
+     ],
+     "gloss": "dull; stupid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngu si đần độn",
+     "en": "thick-headed and stupid"
+    },
+    {
+     "sense": 1,
+     "vi": "Cái thằng đần độn này!",
+     "en": "What an idiot!"
+    }
+   ]
+  },
+  {
+   "headword": "nền tảng",
+   "base": "45dfaa6dc39c155d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foundation; basis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "platform"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuyệt hảo",
+   "base": "08639de91e0196d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perfect; most excellent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chút xíu",
+   "base": "bf41558ba5c81e65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a little; a tiny bit of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "man",
+   "base": "a60d3664fd6eebbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "ten thousand; myriad"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một man",
+     "en": "ten thousand"
+    }
+   ]
+  },
+  {
+   "headword": "tiêu cực",
+   "base": "9c13a916ea28767e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "negative (inherently damaging; pessimistic)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "suy nghĩ tiêu cực",
+     "en": "to have a negative mindset"
+    },
+    {
+     "sense": 1,
+     "vi": "biểu hiện tiêu cực",
+     "en": "negative signs/indications"
+    }
+   ]
+  },
+  {
+   "headword": "chân trời",
+   "base": "a0a5b703317b9e50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horizon"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "prospect; possibility; potential"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhục",
+   "base": "853c8dea3b86daa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "humiliated; dishonored"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chết vinh còn hơn sống nhục.",
+     "en": "It's better to die an honored death than to live a dishonored life."
+    }
+   ]
+  },
+  {
+   "headword": "hạnh",
+   "base": "8fb4c0488f83debd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "apricot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "virtue, one of the tứ đức (“four virtues”) that women are supposed to have"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calamansi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lậu",
+   "base": "a1f4d7720b7b8bf0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "contraband; illicit; under the table"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gonorrhoea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rải",
+   "base": "24907cac40bea546",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spread, to sow, to scatter, to lay down"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to spawn eggs"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "petiole of certain plants (esp. taros)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mùa cá rải",
+     "en": "Fish spawning season"
+    }
+   ]
+  },
+  {
+   "headword": "giáo chủ",
+   "base": "c51dcbe6bbf4c828",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the highest leader of a religious community"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giáo chủ Minh giáo",
+     "en": "the leader of the Ming Cult"
+    },
+    {
+     "sense": 1,
+     "vi": "hồng y (giáo chủ)",
+     "en": "a cardinal"
+    }
+   ]
+  },
+  {
+   "headword": "ói",
+   "base": "aaeece4c15a3a2eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to vomit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhanh nhẹn",
+   "base": "a721b263a56ca4fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "agile; nimble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh thiếp",
+   "base": "b978b276178f8174",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "name card"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hấp hối",
+   "base": "486b0dad71150f8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be on one's deathbed; to be dying"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "túi xách",
+   "base": "54b6ae7f05181d3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a handbag; a purse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồi bàn",
+   "base": "2d8a1a0385bef221",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "waiter, waitress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùm",
+   "base": "583d04248499c15c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cluster, bunch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiếu niên",
+   "base": "73a00aeb2de012e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "related to adolescence; like an adolescent"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an adolescent"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "an adolescent boy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tuổi thiếu niên",
+     "en": "adolescence"
+    },
+    {
+     "sense": 1,
+     "vi": "người thiếu niên",
+     "en": "an adolescent"
+    },
+    {
+     "sense": 2,
+     "vi": "Đơn vị của Gia đình Phật tử là GIA ĐÌNH. Trên hết là Gia trưởng thay mặt cho sáu đoàn: Nam Phật tử, Nữ Phật tử (cho thanh niên nam nữ trên 18 tuổi). Thiếu nam, Thiếu nữ (cho các thiếu niên nam nữ từ 13 đến 17 tuổi). Nam Oanh vũ, Nữ Oanh vũ (từ 6 đến 12 tuổi) trong việc đối ngoại. Mỗi đoàn có một Đoàn trưởng và một Đoàn phó phụ trách cả 4 đội (mỗi đội từ 8 đến 12 em). Cả sáu đoàn đặt dưới sự điều khiển của Liên Đoàn trưởng.",
+     "en": "The unit of the Buddhist Family is the FAMILY. Leading each is the Head who handles external affairs for each of the six divisions: Male and Female Buddhists (male and female youths aged 18 and above), Male and Female Adolescents (adolescents aged 13 to 17), Male and Female Oanh vũ (6 to 12). Each division has one Captain and one Deputy who are responsible for its four squads (each squad consists of 8 to 12 children). All six divisions are under the control of a Commander."
+    },
+    {
+     "sense": 3,
+     "vi": "Trong vài năm trước, tôi có dạy môn Tôn giáo Đông phương cho một trường đại học Thiên Chúa giáo. Sinh viên đa số là những thiếu niên, thiếu nữ vừa học xong cấp trung học của một trường trung học Thiên Chúa giáo gần đó.",
+     "en": "A few years back, I taught Eastern Religions at a Catholic college. Most students there were boys and girls who had just graduated from a Catholic high school nearby."
+    },
+    {
+     "sense": 3,
+     "vi": "Bây giờ trước mắt ông, chỉ có hai thiếu niên, một thiếu nữ đi trước. Phía sau mười thiếu niên, mười thiếu nữ.",
+     "en": "In front of him were two boys and one girl. Behind him, ten boys and ten girls."
+    },
+    {
+     "sense": 3,
+     "vi": "Theo đó, các thiếu niên bị tố quan hệ tình dục ngoài ý muốn với thiếu nữ 15 tuổi gồm: N.Đ.M và N.Đ.T (anh em sinh đôi, cùng 13 tuổi), N.A.K (14 tuổi), N.Đ.C (15 tuổi), T.V.H (15 tuổi), N.V.T (16 tuổi) và N.V.L (17 tuổi), tất cả đều trú tại H.Cư M’gar.",
+     "en": "The boys accused of the sexual assault of the 15-year-old girl were: N.Đ.M and N.Đ.T (13-year-old twin brothers), N.A.K (14), N.Đ.C (15), T.V.H (15), N.V.T (16) và N.V.L (17), all are residents of Cư M’gar District."
+    }
+   ]
+  },
+  {
+   "headword": "hiệu lực",
+   "base": "a89753f5d34ee7c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "effect; efficacy"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "validity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điền",
+   "base": "7f3ac28317ca469a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fill in"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "muỗi",
+   "base": "c0c237988b0cffbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mosquito"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(Chuyện con) muỗi!",
+     "en": "Piece of cake!"
+    }
+   ]
+  },
+  {
+   "headword": "khiêu khích",
+   "base": "7b81ea6f88722638",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to provoke; to incite"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "provocative; instigating"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nằm mơ",
+   "base": "4e4c55c05cf506a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to dream"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nòng",
+   "base": "b01320aa857bd7fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gun barrel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "core"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiền lương",
+   "base": "ec25e9642cf2e195",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "salary; pay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoài nghi",
+   "base": "e3cba5873682d453",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to doubt; to disbelieve"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "doubt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xiếc",
+   "base": "56f80a64861da2eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "circus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội tạng",
+   "base": "48e8fdb89640ac7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "viscera"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cám",
+   "base": "dcb53fca0bd2bb42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bran"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pig slop; pigswill; hogwash"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to be moved with compassion; to feel pity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cám lợn chẳng có gì phức tạp. Lợn là loài ăn tạp, cái gì cũng ăn.",
+     "en": "There's nothing complicated about pigswill. They're omnivores, they eat anything."
+    },
+    {
+     "sense": 2,
+     "vi": "Cho cổ đồ thừa để cổ nấu cám heo.",
+     "en": "Give her the leftovers so she can cook some pigswill."
+    }
+   ]
+  },
+  {
+   "headword": "nghiêm ngặt",
+   "base": "2a4f5631ff0a6b55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very strict; stringent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hang động",
+   "base": "df52cc08eb1bb380",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "caves and dens"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiểu bang",
+   "base": "6eb6836fcc220ebc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "U.S. state"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "US"
+     ],
+     "gloss": "state (a political division of a federation)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngoài chính phủ liên bang, mỗi tiểu bang có hiến pháp và chính quyền riêng. Mỗi chính quyền tiểu bang cũng có ba ngành: lập pháp, hành pháp và tư pháp.",
+     "en": "In addition to the federal government, each state has its own constitution and government. Each state government also has three branches: legislative, executive, and judicial."
+    },
+    {
+     "sense": 1,
+     "vi": "Cuộc bầu cử hôm thứ Bảy đánh dấu cho chiến thắng thứ hai của đảng Dân chủ tại một tiểu bang có truyền thống ủng hộ đảng Cộng hòa, sau khi đảng này thất bại trong cuộc tranh cử chức thống đốc ở tiểu bang Kentucky.",
+     "en": "Saturday's election marks the second victory for the Democratic Party in a state that tends to support the Republican Party, after it won in a gubernatorial race in the state of Kentucky."
+    },
+    {
+     "sense": 1,
+     "vi": "Xét Rằng, vào ngày 6 tháng 3 năm 2020, để đối phó với sự lây lan mới COVID-19, Thống Đốc Tiểu Bang Pennsylvania đã ban hành Công Bố Tình Trạng Khẩn Cấp Do Thảm Họa",
+     "en": "Whereas, on March 6, 2020, in response to the emerging spread of COVID-19, the Governor of the State of Pennsylvania issued a Proclamation of Disaster Emergency"
+    },
+    {
+     "sense": 2,
+     "vi": "Tại tất cả các tiểu bang, phải đạt năm phần trăm là mức tối thiểu mới được vào quốc hội.",
+     "en": "In every state, five percent is the minimum threshold for being allowed to enter the legislature."
+    },
+    {
+     "sense": 2,
+     "vi": "Mỗi năm, một tiểu bang Mễ Tây Cơ đưa hàng thủ công của mình đến Roma để trang trí Khán đường Phao lô VI và cây Giáng sinh trong Bảo tàng Vatican.",
+     "en": "Each year, one Mexican state sends the fruits of their labor to Rome to decorate Paul VI Audience Hall and a Christmas tree in the Vatican Museum."
+    },
+    {
+     "sense": 2,
+     "vi": "cung cấp dịch vụ bỏ phiếu cho các cuộc bầu cử liên bang và cho một số cuộc bầu cử tiểu bang Úc tại một số địa điểm",
+     "en": "in some locations, provide voting services for Australian federal and some state elections"
+    }
+   ]
+  },
+  {
+   "headword": "độc đáo",
+   "base": "d5529beb8a8c0696",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unique; original"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên hà",
+   "base": "6bce8523e20ff38e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "galaxy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tầm mắt",
+   "base": "98ed46bc7d2e17c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sight; range of vision"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu nhập",
+   "base": "0e14ced82d519df8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earnings"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thu nhập bình quân đầu người",
+     "en": "income per capita"
+    }
+   ]
+  },
+  {
+   "headword": "vác",
+   "base": "4ac82e14aefd7441",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry (on shoulder)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hái",
+   "base": "ad42e32545fbeed1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pluck a plant or piece of fruit for later processing or consumption"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hái rau",
+     "en": "to harvest vegetables"
+    },
+    {
+     "sense": 1,
+     "vi": "gặt hái",
+     "en": "to harvest"
+    },
+    {
+     "sense": 1,
+     "vi": "(figurative) gặt hái thành công",
+     "en": "to achieve success"
+    }
+   ]
+  },
+  {
+   "headword": "đặc ân",
+   "base": "02c87d035ca33e0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "special favour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sát cánh",
+   "base": "4690bcf2cce9819d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to join hands, or to stand by someone for support and cooperation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cả nước đồng lòng sát cánh vượt qua trận lũ lịch sử.",
+     "en": "Our countrymen, in unanimous union, have joined hands to overcome the record-breaking floods."
+    }
+   ]
+  },
+  {
+   "headword": "chặt chẽ",
+   "base": "78c3d508fb941949",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tight; close; firm"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strict; rigid; uncompromising"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "tightly; closely"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "strictly; rigidly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngăn kéo",
+   "base": "400120c523e6e930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a drawer (furniture)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tưởng nhớ",
+   "base": "808ee0fc375a8272",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remember (with passionate feelings); to commemorate; to recollect; to memorise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vũ lực",
+   "base": "b6d080ad9faf5979",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "force"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "violence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thải",
+   "base": "c94fb71676c80d39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discard; to eliminate; to discharge; to dismiss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thần dân",
+   "base": "5b89e9273f79d366",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "subjects"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa bàn",
+   "base": "18ac66a5a5694eb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "synonym of la bàn (“compass”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the whole territory"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a turf"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "địa bàn tỉnh Quảng Trị",
+     "en": "the territory of Quảng Trị province"
+    }
+   ]
+  },
+  {
+   "headword": "bởi vậy",
+   "base": "13920730cddf58cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "therefore; consequently; thus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngắn ngủi",
+   "base": "cafef9270342e078",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "too short; brief"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sương",
+   "base": "9c95f62c7aa70cd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dew (moisture in the air that settles on plants, etc)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ăn sương nằm tuyết",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "mất ngủ",
+   "base": "b57a49f254a0523e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be unable to sleep; to have insomnia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân sự",
+   "base": "a5c159256fffc199",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human resources"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "golf",
+   "base": "0ffb998984ceaa3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "golf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vội vàng",
+   "base": "c600b9adb8140c4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in a hurry, quick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Kháng",
+   "base": "13199122b7e2205f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Khang, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vành đai",
+   "base": "76316101b5d9554a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "belt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoác",
+   "base": "519673853195a757",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drape over one's shoulders"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to link; to interlace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sáng lập",
+   "base": "d7b539059cb6e78e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to establish; to found"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuổi trẻ",
+   "base": "99d99b1aa2bef5a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "youth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giỏ",
+   "base": "f3f8145f0d372aaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo basket with straps"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chết đói",
+   "base": "ae53dfc5f07782f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to starve (to death)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "starving; extremely hungry"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "100.000 trẻ em Ethiopia có nguy cơ chết đói.",
+     "en": "100,000 Ethiopian children are at risk to starve to death."
+    }
+   ]
+  },
+  {
+   "headword": "đường cao tốc",
+   "base": "f32c1434fa1b679c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expressway; freeway; motorway"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thù",
+   "base": "cb994b5abfe3989c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "feud"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to detest"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold a grudge against"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trả thù",
+     "en": "to revenge against; to take vengeance on"
+    },
+    {
+     "sense": 3,
+     "vi": "thù dai",
+     "en": "to hold on to one's grudge"
+    }
+   ]
+  },
+  {
+   "headword": "đối phương",
+   "base": "3b5f7451b64008d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the opposite party; the opposite side"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the enemy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "một triệu",
+   "base": "15b6fd30b2975e2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "one million"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hot",
+   "base": "e87508cd76d76910",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot (popular; of great current interest)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nghe bảo trend này đang hot.",
+     "en": "I heard people say that this trend is hot right now."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1566 @@
+{
+ "batch": "0054",
+ "entries": [
+  {
+   "headword": "phá hủy",
+   "base": "8cc59004126d9807",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of phá huỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngục",
+   "base": "90cd2effec19b48c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prison"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "so sánh",
+   "base": "989146910b7c46a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compare"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rhetoric"
+     ],
+     "gloss": "simile"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngôn ngữ học so sánh",
+     "en": "comparative linguistics"
+    },
+    {
+     "sense": 2,
+     "vi": "so sánh, ẩn dụ và hoán dụ",
+     "en": "simile, metaphor and metonymy"
+    }
+   ]
+  },
+  {
+   "headword": "từ thiện",
+   "base": "83c6ffc18b0595a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "charitable; philanthropic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh mục",
+   "base": "c8a273886ad482b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "priest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lưu",
+   "base": "45ae91e3a1ff0796",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to detain; to keep"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to save"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ham",
+   "base": "8d61feee56b310c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "greedy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "eager; keen"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ham chơi",
+     "en": "(disapproving) to be obsessed with fooling around"
+    }
+   ]
+  },
+  {
+   "headword": "thành lập",
+   "base": "709f540971f8b647",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to establish; to set up; to found"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đào tạo",
+   "base": "1a6d6108899bb286",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vocationally train"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khiên",
+   "base": "f998c8887d270928",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shield"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vang",
+   "base": "d061bfc4776eb689",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to echo; to resound"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sappanwood (Biancaea sappan)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gối",
+   "base": "d821a57963c3bcac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pillow"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rest one's head on something"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds",
+      "usually"
+     ],
+     "gloss": "knee (joint in the middle of the leg and area around it)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vỏ/bao/áo gối",
+     "en": "a pillow case"
+    },
+    {
+     "sense": 1,
+     "vi": "gối ôm",
+     "en": "a body pillow"
+    },
+    {
+     "sense": 2,
+     "vi": "gối đầu",
+     "en": "to rest one's head (on something)"
+    },
+    {
+     "sense": 2,
+     "vi": "sách gối đầu giường",
+     "en": "a bible"
+    },
+    {
+     "sense": 3,
+     "vi": "lên gối",
+     "en": "to knee"
+    },
+    {
+     "sense": 3,
+     "vi": "Nếu lên gối không được thì xuống chỏ.",
+     "en": "If you can't knee your opponent, try elbowing them."
+    }
+   ]
+  },
+  {
+   "headword": "song",
+   "base": "1a5103a9036d7b9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "big rattan"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "window"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "bi-; double; parallel"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "however"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "but"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "song đấm",
+     "en": "twin punches; punches performed with both hands"
+    }
+   ]
+  },
+  {
+   "headword": "dặn",
+   "base": "420d5a2ffe7cef52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remind, to inform"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mẹ dặn khoá cửa cẩn thận.",
+     "en": "Mother told me to lock the door."
+    },
+    {
+     "sense": 1,
+     "vi": "Ổng dặn tui mua một chục trứng trên đường về.",
+     "en": "He told me to buy 10 eggs on my way home."
+    },
+    {
+     "sense": 1,
+     "vi": "Bố đã dặn đi dặn lại rồi mà con vẫn không nhớ !",
+     "en": "I reminded you like a hundred times and you still forgot!"
+    }
+   ]
+  },
+  {
+   "headword": "nghĩa vụ",
+   "base": "112b3fb3d3c975b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "duty; responsibility; obligation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến lược",
+   "base": "0517822e18712fe6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strategy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strategic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tầm nhìn chiến lược",
+     "en": "a strategic vision"
+    }
+   ]
+  },
+  {
+   "headword": "tọa độ",
+   "base": "3e8dfc08887aec5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of toạ độ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cấy",
+   "base": "7a22fae1a5f111cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "wife"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transplant"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to culture (in a laboratory)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chẩn đoán",
+   "base": "bdc2702ff81ce577",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to diagnose; to identify (especially an illness)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a diagnosis"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a diagnostic (a programming tool used to diagnose bugs)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhà ga",
+   "base": "b9eef2a268367e08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "railway station"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "airport terminal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tỉa",
+   "base": "1030814c40acccef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trim, to prune"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung điện",
+   "base": "2a83450c3878f21e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "palace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lai",
+   "base": "4d1da73ae41c3541",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of mixed blood; crossbred"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "hemline; turn-up"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "hundredth part of a tael (equal to 0.378 g)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry (someone) on one's bicycle or motorbike pillion; to give someone a lift on the bicycle or motorbike"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tow"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "candlenut; candleberry (Aleurites moluccanus)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "con lai",
+     "en": "crossbred offspring"
+    }
+   ]
+  },
+  {
+   "headword": "cầu thủ",
+   "base": "6246cabcf09ec161",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ball player"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cược",
+   "base": "c0e8aff04c888e99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bet, to place a bet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rách",
+   "base": "9b41534038b1bc1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "torn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổi ý",
+   "base": "534ca79b853b288e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to change one's mind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xử lí",
+   "base": "8afd37b560b1ef74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deal with; to manage; to be in charge (of); to process"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lợi nhuận",
+   "base": "4553e4fb1d8e3145",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "profit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tròn",
+   "base": "2889f4cad7fa1b50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "round, especially circular, elliptical, oval, cylindrical or spherical"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "round"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "being an integer"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely and thoroughly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "O tròn như quả trứng gà.",
+     "en": "O's oval like an egg."
+    },
+    {
+     "sense": 2,
+     "vi": "tròn chục/trăm/nghìn",
+     "en": "divisible by 10/100/1000"
+    },
+    {
+     "sense": 3,
+     "vi": "làm tròn lên/xuống",
+     "en": "to round up/down to the next integer"
+    },
+    {
+     "sense": 4,
+     "vi": "làm tròn bổn phận",
+     "en": "to complete your duty"
+    },
+    {
+     "sense": 4,
+     "vi": "Đã tròn năm năm kể từ khi sự việc đó xảy ra.",
+     "en": "It has been five full years since that incident."
+    }
+   ]
+  },
+  {
+   "headword": "hối tiếc",
+   "base": "f385b3b4d8672e62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to regret"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] Bill Gates cho biết cuộc sống hiện tại khiến ông vui vẻ hơn, nhưng hôn nhân tan vỡ là sai lầm mà ông hối tiếc nhất đời.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "tàn sát",
+   "base": "88e620a0231745dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to massacre"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pháp sư",
+   "base": "b29a5ab87236881b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of variously defined priest"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wizard; a magician"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe tăng",
+   "base": "1380b4b1ab153f25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tank (military vehicle)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Từ điển bách khoa Britannica (Anh) ghi nhận trận đánh ở Kursk (miền Tây Liên Xô) từ ngày 5-7 đến [2]3-7-1943 là trận giao chiến xe tăng lớn nhất lịch sử với khoảng 6.000 xe tăng, 2 triệu binh sĩ, 4.000 máy bay của Liên Xô và phát xít Đức tham chiến.",
+     "en": "Encyclopædia Britannica records that the Battle of Kursk (in western Soviet Union) from 5 July to 23 July 1943 was the largest tank battle in history with about 6,000 tanks, 2,000,000 troops, and 4,000 aircraft – from both the Soviet Union and Nazi Germany – participating."
+    }
+   ]
+  },
+  {
+   "headword": "khốn khổ",
+   "base": "7687caa3136edd81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miserable; wretched"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sứ mệnh",
+   "base": "d9c39ca7d46e6612",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lofty, broadly defined mission that a nation, community or corporation claims to be fulfilling or aspiring to fulfil"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sứ mệnh/mạng lịch sử",
+     "en": "a historic mission"
+    },
+    {
+     "sense": 1,
+     "vi": "sứ mệnh giải phóng dân tộc",
+     "en": "the mission of liberating our nation"
+    },
+    {
+     "sense": 1,
+     "vi": "tuyên bố sứ mệnh",
+     "en": "a 'mission statement"
+    },
+    {
+     "sense": 1,
+     "vi": "Sứ mệnh của Tập đoàn ABC là giúp khách hàng tận hưởng những trải nghiệm tối ưu của ngành lữ hành.",
+     "en": "The ABC Group's mission is to ensure that our customers enjoy the best experience in travel."
+    }
+   ]
+  },
+  {
+   "headword": "giải trí",
+   "base": "6e60b3c889b4087e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to amuse; to relax; to entertain oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nấm",
+   "base": "6305e94c9452fd6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mushroom"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "fungus"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mound; tumulus (shaped like a mushroom cap, or pileus)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bị nấm chân/đầu",
+     "en": "to have a fungal infection on your feet/legs/scalp"
+    },
+    {
+     "sense": 3,
+     "vi": "nấm mồ",
+     "en": "mound (on a grave)"
+    }
+   ]
+  },
+  {
+   "headword": "tạ ơn",
+   "base": "2614515949b1c3d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to thank (someone for his/her favour)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòng quanh",
+   "base": "a4715c161d7ab2a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "around; round"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "not directly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đi vòng quanh thế giới",
+     "en": "to travel around the world"
+    }
+   ]
+  },
+  {
+   "headword": "độc ác",
+   "base": "2ae6f16923562ce6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wicked; evil; cruel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúng nó thật độc ác.",
+     "en": "They are truly evil."
+    }
+   ]
+  },
+  {
+   "headword": "phong",
+   "base": "36372ac211b53f9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maple"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assign a rank of nobility"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to promote"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "package, bundle"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(bệnh ~) leprosy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xi-rô phong",
+     "en": "maple syrup"
+    },
+    {
+     "sense": 2,
+     "vi": "phong vương",
+     "en": "to promote to princehood"
+    },
+    {
+     "sense": 2,
+     "vi": "phong tướng",
+     "en": "to promote to commander"
+    },
+    {
+     "sense": 2,
+     "vi": "phong thần",
+     "en": "to promote to divinity"
+    },
+    {
+     "sense": 2,
+     "vi": "phong tước",
+     "en": "to grant nobility"
+    },
+    {
+     "sense": 3,
+     "vi": "tảng đá rêu phong",
+     "en": "a rock covered in moss"
+    },
+    {
+     "sense": 4,
+     "vi": "phong hậu",
+     "en": "to promote to queen/to queening"
+    }
+   ]
+  },
+  {
+   "headword": "sưu tập",
+   "base": "1653d5c36b551132",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather together; to collect"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "collection; assemblage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nâu",
+   "base": "0d693d25e53373bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brown (having a brown color)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gần gũi",
+   "base": "6191f57f98263439",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "often"
+     ],
+     "gloss": "close; intimate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoảng loạn",
+   "base": "6f813d2cd5a90a74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to panic; to go into a state of panic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mực",
+   "base": "0fdc9416adfd267a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ink (coloured fluid used for writing)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ink (dark fluid ejected by inkfish)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "narrowly"
+     ],
+     "gloss": "squid (a ten-limbed cephalopod belonging to the Decapodiformes superorder)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "level"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "black"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Trò chơi con mực",
+     "en": "Squid Game (a South Korean TV series)"
+    },
+    {
+     "sense": 4,
+     "vi": "mực nước biển",
+     "en": "sea level"
+    },
+    {
+     "sense": 5,
+     "vi": "chó mực",
+     "en": "a black dog"
+    }
+   ]
+  },
+  {
+   "headword": "bàn bạc",
+   "base": "aac55eee60783701",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discuss; to exchange views (on)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lô",
+   "base": "e5453401a89ad2b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "batch"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gambling game where players win if any lottery draw ends in the two digits they bet on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một lô hàng",
+     "en": "a batch of goods"
+    }
+   ]
+  },
+  {
+   "headword": "chục",
+   "base": "043b11acd15b3c01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ten"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certain sets of numbers, most usually a dozen but might be as high as eighteen"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "ten thousand dongs"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một chục người",
+     "en": "ten men, one ten of men"
+    },
+    {
+     "sense": 1,
+     "vi": "hai chục người",
+     "en": "twenty men, two tens of men"
+    },
+    {
+     "sense": 1,
+     "vi": "phần chục",
+     "en": "the first decimal place"
+    },
+    {
+     "sense": 3,
+     "vi": "một chục",
+     "en": "ten thousand dongs"
+    },
+    {
+     "sense": 3,
+     "vi": "hai chục",
+     "en": "twenty thousand dongs"
+    }
+   ]
+  },
+  {
+   "headword": "vô hình",
+   "base": "4bd625be113a6bae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "invisible; unseen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chương",
+   "base": "d47291c9faacc4dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a chapter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiểu thuyết chương hồi",
+     "en": "novels that are divided into multiple chapters"
+    }
+   ]
+  },
+  {
+   "headword": "khơi",
+   "base": "d45760721d19e13a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "part of the sea away from the shores; the main sea; open sea; high seas"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "far"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remind of something"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dredge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sau cùng",
+   "base": "e727eef07cee6fa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in the end"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ông Cẩm, sau cùng, gọi nhân viên trong sở họp một phiên bí mật.",
+     "en": "In the end, Mr Police Officer gathered the employees of the station for a secret meeting."
+    }
+   ]
+  },
+  {
+   "headword": "phàn nàn",
+   "base": "f3c41222d6588e30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to complain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự vệ",
+   "base": "1cc5441f434d716f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use self-defense"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "self-defense"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a self-defense force; paramilitary; grassroots (reserve) militia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xả",
+   "base": "c4a786862f266838",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to splash water through as a washing method"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discharge; to release; to spray; to spew"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "xả nước",
+     "en": "to leave the water running"
+    },
+    {
+     "sense": 2,
+     "vi": "xả súng",
+     "en": "to spray bullets; to commit a mass shooting"
+    }
+   ]
+  },
+  {
+   "headword": "nét",
+   "base": "8b28847dd561fba5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stroke"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "curve"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expression"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "style; character; feature (usually attractive)"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "detailed with sharp contrast and high resolution"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sắc nét",
+     "en": "sharply detailed"
+    },
+    {
+     "sense": 2,
+     "vi": "nét sổ",
+     "en": "a downward stroke"
+    },
+    {
+     "sense": 3,
+     "vi": "nét gợi cảm",
+     "en": "sexy curves"
+    },
+    {
+     "sense": 4,
+     "vi": "nét mặt u buồn",
+     "en": "a depressed expression"
+    },
+    {
+     "sense": 5,
+     "vi": "nét vẽ đặc trưng",
+     "en": "distinctive art style"
+    },
+    {
+     "sense": 5,
+     "vi": "có nét riêng",
+     "en": "has its own character"
+    },
+    {
+     "sense": 5,
+     "vi": "nét quê",
+     "en": "an attractive feature of the countryside"
+    },
+    {
+     "sense": 5,
+     "vi": "đậm nét quê",
+     "en": "radiating a strong feel of the countryside"
+    },
+    {
+     "sense": 6,
+     "vi": "Ti vi này coi nét ghê",
+     "en": "This TV screen is so hi-res."
+    }
+   ]
+  },
+  {
+   "headword": "ngoài ra",
+   "base": "4f6a300fdb74d44a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "besides; additionally; in addition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm chứng",
+   "base": "46f6a5b8e4ce3c86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to testify; to bear witness; to appear as a witness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tím",
+   "base": "fe6e1df40e8ee90e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "purple or violet"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "black and blue"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to be gay"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tím mặt",
+     "en": "(of face) to turn purple (because of being beaten or angry)"
+    },
+    {
+     "sense": 2,
+     "vi": "thâm tím",
+     "en": "bruised"
+    },
+    {
+     "sense": 3,
+     "vi": "Ảnh tím hả mọi người?",
+     "en": "Is he gay?"
+    }
+   ]
+  },
+  {
+   "headword": "ý thức",
+   "base": "c1f0f2df7ce33da8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "consciousness"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "awareness, especially of something bad you're doing, for example littering or outdoor urination"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recognize; to be aware of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Theo Mác, vật chất có trước, ý thức có sau. Vật chất tồn tại độc lập không phụ thuộc vào ý thức.",
+     "en": "According to Marx, matter exists prior to, and independent of, consciousness."
+    },
+    {
+     "sense": 2,
+     "vi": "có ý thức",
+     "en": "civil; well-mannered"
+    },
+    {
+     "sense": 2,
+     "vi": "vô ý thức",
+     "en": "uncivil; ill-mannered"
+    },
+    {
+     "sense": 2,
+     "vi": "xả rác bừa bãi, vô ý thức",
+     "en": "to uncivilly litter everywhere"
+    }
+   ]
+  },
+  {
+   "headword": "hồi sinh",
+   "base": "d24ad1e325c2c7e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resurrect; to revive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết cục",
+   "base": "1dfe35de2559410d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the outcome; the ending; the final result"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

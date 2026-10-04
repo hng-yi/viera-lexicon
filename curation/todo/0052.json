@@ -1,0 +1,1563 @@
+{
+ "batch": "0052",
+ "entries": [
+  {
+   "headword": "kinh tế",
+   "base": "6d674336927b7bcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "economy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "economic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sắp đặt",
+   "base": "f5dea550043a8d55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange; to organise; to set up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dâng",
+   "base": "034c875f4ce7c840",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to rise"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to run high"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to offer; to present (respectfully)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cực kì",
+   "base": "0964d0924c98d2c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "extremely; drastically; very"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kèm",
+   "base": "9220fa0cb47ba0e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to accompany; to go with"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tutor (with one's study)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mark (man-to-man)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghèo",
+   "base": "c6dc6e2585abcc66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "poor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trân trọng",
+   "base": "3d6084fbf09eb5ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show consideration for; to respect"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "respectful; deferential"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tè",
+   "base": "535d4d4478129b02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "childish"
+     ],
+     "gloss": "to go number one; to take a peepee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phương tiện",
+   "base": "460c95c5947e9553",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a thing that aids people to do something; an instrument, means, vehicle or medium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phương tiện giao thông",
+     "en": "a vehicle"
+    },
+    {
+     "sense": 1,
+     "vi": "phương tiện thông tin đại chúng",
+     "en": "mass media"
+    }
+   ]
+  },
+  {
+   "headword": "sản phẩm",
+   "base": "ca9994f6b21c82d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "product"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liều lĩnh",
+   "base": "14a76df6010d3378",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "venturesome; reckless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ác",
+   "base": "daa5e30c615354e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cruel; evil; inhumane; merciless"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having a harmful effect; intense and severe"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "at a higher, more impressive level"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "savage"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "evil"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North",
+      "archaic",
+      "dialectal",
+      "literary"
+     ],
+     "gloss": "crow"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "carved wooden piece shaped like a crow, used to hold the weft thread in a loom"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "the Sun"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cái ác",
+     "en": "evil"
+    },
+    {
+     "sense": 1,
+     "vi": "Thiện, Ác, Tà",
+     "en": "The Good, the Bad, and the Ugly"
+    },
+    {
+     "sense": 2,
+     "vi": "rét ác",
+     "en": "intensely cold, freezing"
+    },
+    {
+     "sense": 3,
+     "vi": "ăn diện ác",
+     "en": "to dress up impressively"
+    },
+    {
+     "sense": 5,
+     "vi": "thiện (và) ác",
+     "en": "good and evil"
+    },
+    {
+     "sense": 8,
+     "vi": "thỏ lặn ác tà",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "khử",
+   "base": "01c68d5e011d92ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remove, to rid of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhận dạng",
+   "base": "5cebd17d3cbab8fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recognize something based on external features or characteristics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dẫn đầu",
+   "base": "5ed90fde095f7b04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lead; to take the lead; to be at the head of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thận trọng",
+   "base": "57cd6c53b023c7b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cautious; with discretion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơm",
+   "base": "d813fb92a5aa5156",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fragrant, sweet-smelling"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "aromatic"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take a sniff of (a person’s smell) as a mark of affection"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "to kiss (platonically)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "pineapple"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "specifically"
+     ],
+     "gloss": "the “Cayenne” cultivar of the pineapple"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "hiđrôcacbon thơm",
+     "en": "aromatic hydrocarbon"
+    }
+   ]
+  },
+  {
+   "headword": "vịnh",
+   "base": "617a0ef4127ee7ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gulf; bay"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of poem that describes or comments on a particular subject"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vịnh Hạ Long",
+     "en": "Hạ Long Bay"
+    },
+    {
+     "sense": 2,
+     "vi": "Vịnh cái quạt",
+     "en": "On the Fan"
+    },
+    {
+     "sense": 2,
+     "vi": "Vịnh đời người",
+     "en": "On Human Life"
+    },
+    {
+     "sense": 2,
+     "vi": "Vịnh Hằng Nga",
+     "en": "On Heng'e"
+    }
+   ]
+  },
+  {
+   "headword": "mong chờ",
+   "base": "46661e97d161e90e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to expect; to await"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biên tập",
+   "base": "594b858a9dc71eb0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to edit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêu nhân",
+   "base": "a0843ae0135a6812",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "superman, superhuman"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "characters of the Super Sentai/Power Ranger, Kamen Rider, or Ultraman franchise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "siêu nhân Gao",
+     "en": "Gaoranger"
+    },
+    {
+     "sense": 2,
+     "vi": "siêu nhân dế mèn",
+     "en": "Kamen Rider [lit. cricket superman]"
+    },
+    {
+     "sense": 2,
+     "vi": "siêu nhân điện quang",
+     "en": "Ultraman [lit. electric-light superman]"
+    }
+   ]
+  },
+  {
+   "headword": "gạch",
+   "base": "3bf6e52155c7fa0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brick (hardened block used for building)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "tile (mostly rectangular shaped sheet of ceramic or fired clay to cover surfaces)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw a line, especially over text to delete it"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any punctuation mark that is a line; a hyphen, a dash, a slash, etc."
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tomalley; hepatopancreas"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "gạch lát nền",
+     "en": "floor tiles"
+    },
+    {
+     "sense": 2,
+     "vi": "gạch ốp tường",
+     "en": "wall tiles"
+    },
+    {
+     "sense": 2,
+     "vi": "gạch lát hè",
+     "en": "pavers"
+    },
+    {
+     "sense": 5,
+     "vi": "gạch cua",
+     "en": "crab fat"
+    },
+    {
+     "sense": 5,
+     "vi": "gạch tôm",
+     "en": "shrimp hepatopancreas"
+    }
+   ]
+  },
+  {
+   "headword": "cứu hộ",
+   "base": "0014c09a9e143e9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rescue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đựng",
+   "base": "349c9dfe68f19081",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to contain, to hold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhầm lẫn",
+   "base": "70d294b928a0cc51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mistake; to confuse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sự tương tự gây nhầm lẫn của nhãn hiệu...",
+     "en": "The similarity causes confusion of trademarks..."
+    }
+   ]
+  },
+  {
+   "headword": "Văn Hóa",
+   "base": "30c65ff3007749bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of Văn Hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "văn hóa",
+   "base": "88c882f5051d0f4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of văn hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọ",
+   "base": "c4fec235cde3b627",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "insect; bug"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "maggot"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "guinea pig"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "father; dad"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Chú ni giống con bọ hung!",
+     "en": "You look so much like my son!"
+    }
+   ]
+  },
+  {
+   "headword": "thủng",
+   "base": "364b138b2fa380d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perforated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cản trở",
+   "base": "3611f8d0883a3ecb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hinder; to bar; obstruct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổ tiên",
+   "base": "75d8b8287f03132f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ancestor, ancestors, forefathers"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngắt",
+   "base": "3d866bf564cc435c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to sharply interrupt"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to cease; to cut off"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very; highly; greatly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngắt lá",
+     "en": "to pick a leaf"
+    },
+    {
+     "sense": 3,
+     "vi": "ngắt máy",
+     "en": "to hang-up the phone"
+    },
+    {
+     "sense": 3,
+     "vi": "ngắt kết nối",
+     "en": "to cut connection"
+    }
+   ]
+  },
+  {
+   "headword": "phạm vi",
+   "base": "565352811cbe7a70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "range; scope; realm; extent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kí ức",
+   "base": "f0068e9ec861a55b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "one's own memory (stored record)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kí ức tuổi thơ",
+     "en": "childhood memory"
+    }
+   ]
+  },
+  {
+   "headword": "tàn nhẫn",
+   "base": "9d285675b83d6510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ruthless; cruel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng đội",
+   "base": "c8587899d4b75a55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a teammate; a comrade-in-arms"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vay",
+   "base": "efa2cbf54fc9642e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to borrow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cho vay",
+     "en": "to loan"
+    },
+    {
+     "sense": 1,
+     "vi": "xin ngân hàng cho vay",
+     "en": "to ask a bank for a loan"
+    },
+    {
+     "sense": 1,
+     "vi": "người cho vay",
+     "en": "creditor"
+    }
+   ]
+  },
+  {
+   "headword": "số lượng",
+   "base": "18e837f30f333a54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amount, quantity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đè",
+   "base": "dbe17efbfd6d64f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to press"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuân",
+   "base": "547107684e51c4af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to obey; to follow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rạp",
+   "base": "a94f5784e5237485",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a makeshift tent usually used for a wedding or funeral"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a theater, usually a movie theater"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bend; to stoop; to bend down"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "low"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dựng rạp",
+     "en": "to set up a tent"
+    },
+    {
+     "sense": 4,
+     "vi": "cúi rạp",
+     "en": "to stoop low"
+    }
+   ]
+  },
+  {
+   "headword": "công cộng",
+   "base": "5f3bb9d8206ebcdf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "public"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "toàn cầu",
+   "base": "b0f7a56e6301b604",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "whole world; entire world; globe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đau lòng",
+   "base": "999be0cbb6cee930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hurt emotionally; anguished; heartbreaking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yêu quái",
+   "base": "256d472370a9f9cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a monster or wicked spirit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giải tán",
+   "base": "f159dfab577bf3d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disband; to dissolve; to dismiss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quan",
+   "base": "206608c4cfe438da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "mandarin"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "official"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "string of six hundred coins."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bẩm quan, con thật tình không biết ạ.",
+     "en": "My Lord, I frankly do not know."
+    },
+    {
+     "sense": 3,
+     "vi": "Xin ông coi một đồng nầy có lỗ vuông giữa, chúng tôi quen xỏ sáu trăm đồng thể ấy cùng nhau, ấy là một quan.",
+     "en": "Look at this penny which has a square hole in the middle, we string six hundred of these together; and these form what we call a quan or bundle."
+    }
+   ]
+  },
+  {
+   "headword": "chăng",
+   "base": "45f887ea00a20266",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "not any, not even"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "is it that; is it; surely"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of chăng nữa"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Có hoàn cảnh văn chương nào khốc liệt như ở Việt Nam chăng?",
+     "en": "Is there a literary situation as fierce as that in Vietnam?"
+    }
+   ]
+  },
+  {
+   "headword": "định vị",
+   "base": "a909f1d776235eb6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to position, to locate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hệ thống định vị toàn cầu",
+     "en": "global positioning system"
+    },
+    {
+     "sense": 1,
+     "vi": "định vị thương hiệu",
+     "en": "brand positioning"
+    }
+   ]
+  },
+  {
+   "headword": "nhảm nhí",
+   "base": "cfbc65c7ad531d01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "bullshit"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "nonsense"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "nonsensical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cách mạng",
+   "base": "2df9c87a898fd894",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "revolution"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu đồng chí không lên án chủ nghĩa thực dân, nếu đồng chí không bênh vực các dân tộc thuộc địa thì đồng chí làm cái cách mạng gì?",
+     "en": "If you do not condemn colonialism, if you do not side with the colonial people, what kind of revolution are you waging?"
+    }
+   ]
+  },
+  {
+   "headword": "dâu",
+   "base": "527fd8dd3a8bc5a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mulberry"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "strawberry"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "daughter-in-law"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "con dâu",
+     "en": "daughter-in-law"
+    },
+    {
+     "sense": 3,
+     "vi": "nàng dâu",
+     "en": "daughter-in-law"
+    },
+    {
+     "sense": 3,
+     "vi": "chị dâu",
+     "en": "elder brother's wife"
+    },
+    {
+     "sense": 3,
+     "vi": "em dâu",
+     "en": "younger brother's wife"
+    }
+   ]
+  },
+  {
+   "headword": "sập",
+   "base": "deed07999f1591e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collapse, to fall down"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bang shut"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "low, wooden and ornate bed/platform"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiên",
+   "base": "836f5f0aa71d1b78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "first; prior; before"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "xian (an immortal; celestial being)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Western",
+      "broadly"
+     ],
+     "gloss": "a fine, beautiful creature such as a fairy, a pixie, an undine, an elf, a dryad, a mermaid, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiên học lễ, hậu học văn.",
+     "en": "Manners come first, schoolwork later."
+    },
+    {
+     "sense": 2,
+     "vi": "thần tiên",
+     "en": "gods and immortals"
+    },
+    {
+     "sense": 2,
+     "vi": "Bát Tiên",
+     "en": "Eight Immortals"
+    },
+    {
+     "sense": 2,
+     "vi": "Hằng Nga Tiên tử",
+     "en": "Heng'e the Immortal"
+    },
+    {
+     "sense": 3,
+     "vi": "cô tiên xanh",
+     "en": "the blue fairy godmother"
+    },
+    {
+     "sense": 3,
+     "vi": "Nàng tiên cá",
+     "en": "the Little Mermaid"
+    }
+   ]
+  },
+  {
+   "headword": "chủ đề",
+   "base": "dc070bd8379eeb0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subject, theme, leitmotif"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghê tởm",
+   "base": "cddfe65a895872c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gruesome; disgusting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiển nhiên",
+   "base": "969cb3f7a88f54d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "obvious; apparent"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "obviously; apparently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoãn",
+   "base": "3162dae73c6e2ae1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to delay; to postpone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cam",
+   "base": "53e25429a8c3b726",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orange, such as Citrus × sinensis or Citrus aurantium (bitter orange)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "made of oranges"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of the colour orange"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to be content with"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to pledge, to guarantee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nuốt",
+   "base": "d8a1013f11df5ffc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swallow"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to repress; to check; to control"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "kind of jellyfish (prob. Catostylus sp.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đàng hoàng",
+   "base": "6ff04acb71b97e72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "comfortably off; well-off"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dignified; proper; nice"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in the open, scrupulous and trustable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Làm cho đàng hoàng vô.",
+     "en": "Do your part properly."
+    }
+   ]
+  },
+  {
+   "headword": "truyền thông",
+   "base": "5a398cb3330ddcc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "communication; media"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "truyền thông đại chúng",
+     "en": "mass media"
+    }
+   ]
+  },
+  {
+   "headword": "an ủi",
+   "base": "3be34d561b155df8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to console; to comfort"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giải thưởng an ủi",
+     "en": "consolation prize"
+    }
+   ]
+  },
+  {
+   "headword": "kích động",
+   "base": "add93fbb942f7bb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strike; to hit; to attack; to assault"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vú",
+   "base": "3b86c934bd4e9799",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "breast"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "body part that functions similarly to the primate breast or nipple; udder, teat, etc."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wet nurse"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "godmother"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vú bò",
+     "en": "a cow udder"
+    },
+    {
+     "sense": 3,
+     "vi": "– Vú em! / – Dạ. / – Sao vú cứ hát nhảm thế? Ru bài khác không được à?",
+     "en": "\"Wet nurse!\" \"Yes.\" \"Why does wet nurse sing such stupidities? Can't you sing another lullaby?\""
+    },
+    {
+     "sense": 4,
+     "vi": "vú đỡ đầu",
+     "en": "female godparent"
+    }
+   ]
+  }
+ ]
+}

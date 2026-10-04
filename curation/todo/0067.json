@@ -1,0 +1,1554 @@
+{
+ "batch": "0067",
+ "entries": [
+  {
+   "headword": "xe ngựa",
+   "base": "b2cccca62d175283",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cart; a horse-drawn carriage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trình bày",
+   "base": "10fa146ce6b53662",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to present; to set forth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lâu dài",
+   "base": "20f920137ea6dfcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "long"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thượng Hải",
+   "base": "6e4b0e7e2935c7c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Shanghainese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giả bộ",
+   "base": "0b5f0ba92dcdd684",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to pretend (to be something), to simulate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thụy Sĩ",
+   "base": "4351c4f482a9a487",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of Thuỵ Sĩ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hi",
+   "base": "bf45c248f58efea9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bare one's teeth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hi răng ra coi nào.",
+     "en": "Come on, show me your teeth."
+    }
+   ]
+  },
+  {
+   "headword": "đa",
+   "base": "0b7fe6bf106774f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "banyan"
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "multi-; poly-"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặt khác",
+   "base": "6eaad8a6360a5328",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "conversely; on the other hand; on the flipside"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gia tăng",
+   "base": "9f08297310b42210",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to increase"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thuế giá trị gia tăng",
+     "en": "value-added tax"
+    }
+   ]
+  },
+  {
+   "headword": "sinh tồn",
+   "base": "4e7d55436be30bdf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to survive; to exist"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Để sinh tồn không thể thiếu chiếc bàn đạp vững chắc là chính nghĩa.",
+     "en": "It would be a deficit to be in this world without a motivation of justice."
+    }
+   ]
+  },
+  {
+   "headword": "mâu thuẫn",
+   "base": "4318ada8434dfcaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "contradiction; conflict"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàn thiện",
+   "base": "06a48a503c2403c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to complete; to perfect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phục tùng",
+   "base": "38b1d200d9a89272",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to submit to, to listen to, to yield to, to obey"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "subservient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nêu",
+   "base": "a348f06bbcf58cc1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise (a question, suggestion, etc.); to bring up; to set"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a long bamboo pole traditionally erected during the Vietnamese lunar new year (Tết), adorned with cloth and other decorations to ward off evil spirits"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tối tăm",
+   "base": "79c76a7734067131",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dark (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoái",
+   "base": "313d1c80754bdc72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pleased, satisfied"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "joyful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thế lực",
+   "base": "5512f5424e026dbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "influence, power"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rán",
+   "base": "96c814aa86d35996",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to fry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "họng",
+   "base": "d8225738bae64ce9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "throat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "han",
+   "base": "dae337ee49e9bf23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stinging tree, nettle tree (Dendrocnide spp.)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "appeared to begin to rust"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to ask"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chiếc nồi đồng han xanh",
+     "en": "rusty green bronze pot"
+    }
+   ]
+  },
+  {
+   "headword": "chu đáo",
+   "base": "8dc77a71d39a97c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "attentive; careful; considerate"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "attentively; carefully; considerately"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhử",
+   "base": "52814684b2423c4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lure"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rheum (eye discharge)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lấy mồi nhử cá",
+     "en": "to use bait to lure fish"
+    }
+   ]
+  },
+  {
+   "headword": "cứ việc",
+   "base": "0de9d613ce11d190",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "without the impact or intervention of something else"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu anh thích thì cứ việc làm, cần chi xin phép cho mất công.",
+     "en": "You needn't have asked for permission, just do it without further ado if you like."
+    }
+   ]
+  },
+  {
+   "headword": "qua mặt",
+   "base": "28533e332c1eb4fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to overlook"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dám qua mặt cả ông bà, thằng này bướng nhỉ?",
+     "en": "You boy sure have the gall to brush your own grandparents aside, huh?"
+    }
+   ]
+  },
+  {
+   "headword": "đổ bộ",
+   "base": "63734b305e978586",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deploy"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to traverse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quân đội đổ bộ ồ ạt",
+     "en": "rapid deployment of troops"
+    },
+    {
+     "sense": 2,
+     "vi": "trận bão đổ bộ nhanh chóng",
+     "en": "quick approach of storms"
+    }
+   ]
+  },
+  {
+   "headword": "Úc",
+   "base": "fe9ab9a02a657084",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Australian (of, from or relating to Australia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thảm sát",
+   "base": "1bdbbde046ab4f98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slaughter; to massacre"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "A massacre"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thảm sát Ba Chúc",
+     "en": "Ba Chúc massacre"
+    },
+    {
+     "sense": 2,
+     "vi": "thảm sát Mỹ Lai",
+     "en": "Mỹ Lai massacre"
+    }
+   ]
+  },
+  {
+   "headword": "coi thường",
+   "base": "a9910af05ef5d049",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to regard as unimportant; to think little of; to disregard; to ignore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắp",
+   "base": "d58737706ade65cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blossom, inflorescence"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "muscle"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern",
+      "broadly"
+     ],
+     "gloss": "maize, corn"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shuttle, weaving shuttle, weaver's shuttle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bắp chuối",
+     "en": "a banana blossom"
+    },
+    {
+     "sense": 1,
+     "vi": "bắp cải thảo",
+     "en": "napa cabbagehead, Chinese cabbage(head)"
+    }
+   ]
+  },
+  {
+   "headword": "tinh tế",
+   "base": "1cf16d787219fc08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "excellent, refined"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chu Thông tuy cử chỉ ngôn ngữ rất hoạt kê, nhưng tâm tư lại rất tinh tế,[…]",
+     "en": "Although Zhū Cōng was very comical in his gestures and speech, he had a brilliant mind; […]"
+    }
+   ]
+  },
+  {
+   "headword": "chỉ điểm",
+   "base": "7ef16a80f98b10cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to point out; to pinpoint; to indicate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to snitch"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an informer; informant; spy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chất chỉ điểm khối u",
+     "en": "Tumor marker; Material to indicate tumors"
+    }
+   ]
+  },
+  {
+   "headword": "sưng",
+   "base": "9e124f4f39adf813",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swell; to become swollen"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "swollen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nói chung",
+   "base": "5cda22a84cc2361c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in general, generally speaking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thảy",
+   "base": "dd467d92db3db5b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "without exception, to the last"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tận dụng sức người! Con người sẽ quyết định hết thảy!",
+     "en": "Make most of human strength! Humans will decide everything without exception!"
+    }
+   ]
+  },
+  {
+   "headword": "cưa",
+   "base": "5e1a1da8587a5081",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a saw (tool)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to saw (cut with a saw)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "neologism",
+      "slang"
+     ],
+     "gloss": "to flirt one (to play at courtship)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xã",
+   "base": "9323413c9d63fcaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Basic rural administrative unit in Vietnam, often composed of hamlets (thôn); a commune (xã)."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "Any administrative unit in another country of similar size or rank."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "A male who resides in a village (làng) and has slightly higher-than-average social status; a village elder."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổ quốc",
+   "base": "9f5b6f779b9816ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "homeland; motherland; fatherland"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "literary",
+      "specifically"
+     ],
+     "gloss": "Vietnam"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xây dựng và bảo vệ tổ quốc.",
+     "en": "To build and defend the homeland."
+    }
+   ]
+  },
+  {
+   "headword": "quyên góp",
+   "base": "e0f63e6bea4320b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a donation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vươn",
+   "base": "e235099d8bd3ffe6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stretch; to crane"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strive to go forward"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sư huynh",
+   "base": "a93a84e7406da3ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "especially"
+     ],
+     "gloss": "one's male senpai"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đại sư huynh",
+     "en": "the first male senpai"
+    },
+    {
+     "sense": 1,
+     "vi": "nhị sư huynh",
+     "en": "the second male senpai"
+    }
+   ]
+  },
+  {
+   "headword": "tối thiểu",
+   "base": "9214d6bbd38c6072",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "minimum"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "minimum"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at least"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thừng",
+   "base": "aa9a918bf9faf7fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rope, often made from jute or flax, used for tying"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạm",
+   "base": "714b69341292c165",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "battleship"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a big tiger"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ăn như hạm",
+     "en": "to eat like a tiger/to be gluttonous"
+    }
+   ]
+  },
+  {
+   "headword": "cốp",
+   "base": "50371e3eed8ce78d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trunk (of a car, motorbike, etc.); boot"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "Describing a low-pitched, sharp and brief sound from two hard objects bumping into each other; with a knock"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "rare"
+     ],
+     "gloss": "synonym of cốc (“to hit with the knuckle”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cốp xe máy ― underseat storage of a scooter",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "cộc đầu đánh cốp vào tường",
+     "en": "to bang the head hard against the wall with a knock"
+    }
+   ]
+  },
+  {
+   "headword": "gươm",
+   "base": "e56b8f7b974dd8d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sword"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buôn lậu",
+   "base": "de8e074909438a93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to smuggle; to traffic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phục kích",
+   "base": "d23e72d75b079d45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ambush"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quân ta đã dụ địch vào tròng, tiến hành phục kích.",
+     "en": "We have lured the enemy to the intended zone, it's time to initiate the attack."
+    }
+   ]
+  },
+  {
+   "headword": "động lực",
+   "base": "7a6297a07f7c7f51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "motive power"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "motivation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phù hiệu",
+   "base": "c0a2c24e4b7b0008",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "symbol"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "badge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắt nạt",
+   "base": "c81dc5f4f779d5b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bully"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siết",
+   "base": "a60baf288c8b2306",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to run vigorously, describing the river's flow."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tighten with a firm grip, stranglehold or chokehold; compare thắt (“to tighten with a string or rope”)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "dialectal",
+      "rare"
+     ],
+     "gloss": "to cut off"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Only in rên siết: to moan, to groan"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đợt xả lũ vừa rồi nước chảy siết thật.",
+     "en": "It was such a powerful river flow right after the water discharge of the electrical plant."
+    },
+    {
+     "sense": 2,
+     "vi": "siết cổ",
+     "en": "to choke or strangle (someone)"
+    },
+    {
+     "sense": 2,
+     "vi": "siết chặt",
+     "en": "to tighten, literally or figuratively, or to put more serious efforts into (something or doing something)"
+    },
+    {
+     "sense": 2,
+     "vi": "siết chặt công tác thanh tra, kiểm tra",
+     "en": "to rigorously inspect and examine"
+    },
+    {
+     "sense": 3,
+     "vi": "siết chùm cau",
+     "en": "to cut off a bunch of areca nuts"
+    }
+   ]
+  },
+  {
+   "headword": "quấy rầy",
+   "base": "2964b70166255ea5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to annoy, to bother, to badger"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lừa gạt",
+   "base": "2da3e7303ff47778",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dupe (others for personal benefits); to deceive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quân đoàn",
+   "base": "e40b3ec4eebe422b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "corps"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lên tiếng",
+   "base": "daf1946b8739b8fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise one's voice; to speak up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to speak out; to voice (an opinion)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gây rối",
+   "base": "34e500017c504c41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cause disturbance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bế",
+   "base": "8688a5fdebe7494b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold and/or carry (a person, especially an infant, or an animal, with your forearms in front of your torso)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bồng bế",
+     "en": "to hold and/or carry, generally speaking"
+    },
+    {
+     "sense": 1,
+     "vi": "bế em",
+     "en": "to hold a baby"
+    }
+   ]
+  },
+  {
+   "headword": "bất lực",
+   "base": "640748210c9ed26d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "powerless; helpless"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "euphemistic"
+     ],
+     "gloss": "to impotent, unable to achieve or sustain an erection, having impotentia coeundi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguội",
+   "base": "b68cbc365d6eeae4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cold but not very cold, as in at an average temperature such as room temperature; compare lạnh (“cold; chilly”, at an actually low temperature)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đồ nguội - đồ lạnh",
+     "en": "room-temperature food - refrigerated food"
+    },
+    {
+     "sense": 1,
+     "vi": "Đói quá ! Còn cơm nguội không ?",
+     "en": "I'm starving! Is there any cold rice left?"
+    }
+   ]
+  },
+  {
+   "headword": "đại đội",
+   "base": "fecee095c50f34f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a company"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yêu quý",
+   "base": "269a5a25251b0e52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to love and respect; to treasure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trần truồng",
+   "base": "8016ebb780af968f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "buck naked"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trần truồng như nhộng",
+     "en": "buck-naked like a pupa"
+    }
+   ]
+  },
+  {
+   "headword": "dàn xếp",
+   "base": "1597eaa88653ee25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange; to organize; to settle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discuss; to exchange views"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compromise; to be satisfactory to all"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xách",
+   "base": "3e97c51b88ee8707",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry (suitcase, etc.) by the handle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull up; to hitch up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mỡ",
+   "base": "954261518f8832a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fat as part of flesh, or grease; compare chất béo (“fat in nutrition”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certain plants of the genus Magnolia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đắm",
+   "base": "ae28aa5a12c68502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sink (completely)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to be carried away; to be keen (on something); to take a great interest (in something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều khoản",
+   "base": "cf8fbf9144f17bed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "terms in legal documents"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "điều khoản sử dụng",
+     "en": "terms of use"
+    },
+    {
+     "sense": 1,
+     "vi": "Việc đi lại lộn xộn, nghênh ngang giữa đường đã cản trở xe ngựa của quân đội Pháp nên ngày 6-6-1884, đốc lý (maire, thị trưởng) ra Quy chế trị an và lục lộ của Hà Nội trong đó có điều khoản cấm dắt súc vật trên phố từ 7 giờ sáng đến 11 giờ trưa, từ 5 giờ chiều đến 8 giờ tối.",
+     "en": "The chaotic and arrogant traffic in the middle of the street hindered the French army's horse-drawn carriages, so on June 6, 1884, the mayor issued the Hanoi Security and Road Regulations, which included a provision prohibiting the walking of animals on the street from 7am to 11am and from 5pm to 8pm."
+    },
+    {
+     "sense": 1,
+     "vi": "Ngày 3-12-1955, Bộ Giao thông và Bưu điện đã ban hành Nghị định số 348-NĐ là Luật đi đường bộ, trong luật có điều khoản quy định về tốc độ trong thành phố nhưng không có điều nào về đèn tín hiệu giao thông.",
+     "en": "On December 3, 1955, the Ministry of Transport and Post issued Decree No. 348-ND, the Road Traffic Law. The law contained articles regulating speed in the city but had no articles on traffic lights."
+    }
+   ]
+  },
+  {
+   "headword": "phụ huynh",
+   "base": "9afb4bbdab7fd0cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "a parent (person from whom one is descended)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có muốn tôi gọi phụ huynh cậu không?",
+     "en": "Want me to call in your parents?"
+    },
+    {
+     "sense": 1,
+     "vi": "hội phụ huynh (học sinh)",
+     "en": "a PTA"
+    }
+   ]
+  },
+  {
+   "headword": "trì hoãn",
+   "base": "24e9b5c1afba97c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to delay; to procrastinate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chuyến bay bị trì hoãn",
+     "en": "flight is delayed"
+    }
+   ]
+  },
+  {
+   "headword": "mỏng",
+   "base": "a5df409b666dde86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thin, slender, slim"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mỏng te",
+     "en": "very thin"
+    }
+   ]
+  },
+  {
+   "headword": "văng",
+   "base": "995330b15cf47879",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ejaculate (to eject abruptly; to throw out suddenly and swiftly)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiêu ngạo",
+   "base": "f0641e91d4051a00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "arrogant; proud; haughty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tái sinh",
+   "base": "43552dbde590b8f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reincarnate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rebirth"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recycle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng thời",
+   "base": "ef3dce814cab4e81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at the same time; simultaneously"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rìu",
+   "base": "56dd655dd2adc78c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an axe (tool)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ mặt",
+   "base": "a9c94e33d8c12a3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "look of the face; features seen on the face"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "appearance; look; the outside"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lựu đạn",
+   "base": "b5826eb5e3a7561a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grenade"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

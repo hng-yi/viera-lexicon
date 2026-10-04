@@ -1,0 +1,1670 @@
+{
+ "batch": "0057",
+ "entries": [
+  {
+   "headword": "trang trí",
+   "base": "afea8f824a3de062",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to decorate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trang trí cây thông Nô-en",
+     "en": "to decorate a Christmas tree"
+    }
+   ]
+  },
+  {
+   "headword": "cao bồi",
+   "base": "0aa5a98a8e0b1e19",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cowboy (man who tends free-range cattle in the American West)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mua sắm",
+   "base": "0d00caf79c26eca6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go shopping"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trang sức",
+   "base": "0f575666437aca74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jewellery"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trang sức đá quý",
+     "en": "gemstone jewelry"
+    }
+   ]
+  },
+  {
+   "headword": "Mãn",
+   "base": "a4f3926502a79013",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Manchu"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Manchurian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mãn",
+   "base": "0a0b42038008b5cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "full"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to end, to finish, to terminate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vui mừng",
+   "base": "36bc95536db15d31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be glad; to be delighted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn tối",
+   "base": "ff4100a1ca1aaa80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have dinner; to have an evening meal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoang tưởng",
+   "base": "f030d6e92976ce2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "suffering delusion"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "paranoid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiền",
+   "base": "3ce8e0344d91db7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "talented, virtuous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good-natured"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "gentle; meek; mild"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "broadly",
+      "euphemistic"
+     ],
+     "gloss": "ingenuous"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "broadly"
+     ],
+     "gloss": "innocuous, harmless, nutritious, healthy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người hiền kẻ sĩ",
+     "en": "wise and learned people; virtuosi and literati"
+    },
+    {
+     "sense": 1,
+     "vi": "Nghe tiếng ngài yêu người hiền, trọng kẻ sĩ, nên tôi cũng đến yết kiến.",
+     "en": "I've heard of your reputable love and respect for the wise and learned. So I've also come for an audience."
+    },
+    {
+     "sense": 2,
+     "vi": "mẹ/vợ/dâu hiền",
+     "en": "a good-natured mother/wife/daughter-in-law"
+    },
+    {
+     "sense": 2,
+     "vi": "người hiền kẻ ác",
+     "en": "good and evil people"
+    },
+    {
+     "sense": 3,
+     "vi": "hiền như nai (tơ)",
+     "en": "as gentle as a fawn"
+    },
+    {
+     "sense": 3,
+     "vi": "hiền như ma xơ",
+     "en": "as gentle as a nun"
+    },
+    {
+     "sense": 3,
+     "vi": "Đừng lo! Cái thằng/con đó hiền lắm.",
+     "en": "Don't worry! That guy/gal is very meek."
+    },
+    {
+     "sense": 4,
+     "vi": "Em hiền quá à! Vậy thì sao có bồ được?",
+     "en": "You're too ingenuous! How can you get a girlfriend?"
+    }
+   ]
+  },
+  {
+   "headword": "Phật",
+   "base": "204fa0b8272d4e1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Buddha"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chư Phật",
+     "en": "Buddhas"
+    },
+    {
+     "sense": 1,
+     "vi": "(Đức) Phật A Di Đà",
+     "en": "the Buddha Amitabha"
+    }
+   ]
+  },
+  {
+   "headword": "phật",
+   "base": "ea46998110e5e274",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to hurt someone's feelings; to offend someone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phát điên",
+   "base": "99dc3806b5d33f1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go mad; to go crazy; to go nuts; to freak out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúng mình",
+   "base": "b0d78854da9240aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "we/us (inclusive)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gọn",
+   "base": "7528c113747cd89d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "neat, tidy"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be neatly arranged"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dress neatly"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be methodical"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be systematic"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be in order"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tham vọng",
+   "base": "d13966a71d65423f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ambition; aspiration"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "toi",
+   "base": "35f8f2f17e9b918e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to die in epidemic"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to die"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "usually"
+     ],
+     "gloss": "to be lost; to go to waste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Trung Hoa",
+   "base": "6b79a3dd39433de5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "relating to China"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tử hình",
+   "base": "38f68650e67dfa95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "death penalty; capital punishment"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to execute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gen",
+   "base": "fc5fc7551ab3eb4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gene"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "to generate something using a generative AI"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện diện",
+   "base": "fa2e6bc56d279fa1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be present (at)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "van",
+   "base": "5e6d5d347b50d0b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to beg, to implore"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "valve"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "waltz"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đăng",
+   "base": "546653384de3693e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fixed gillnet"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to publish"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Internet"
+     ],
+     "gloss": "to post, to publish (to disseminate publicly via a newsgroup, forum, blog, etc.)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enlist (to voluntarily join a cause or organization)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dữ dội",
+   "base": "b60fc8559e7289c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fierce; violent; raging; severe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẳng thắn",
+   "base": "2bafe792fa53b946",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very straight, not deviated or curved"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "straightforward; outspoken; straight; frank"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảnh giác",
+   "base": "43f6e421c5fee7ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be on alert"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xin cảnh giác về hành vi trộm cắp xảy ra gần đây ở địa phương.",
+     "en": "Please be alert about the recent acts of theft in the area."
+    }
+   ]
+  },
+  {
+   "headword": "làm trò",
+   "base": "be61fef448b5a437",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prank"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo mật",
+   "base": "141e3efa6cd1820d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be confidential; keep secrets"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ điển",
+   "base": "50f5720ca29332e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "classical (literature etc; describing a style of music; in physics; art etc)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kinh hoàng",
+   "base": "2bb3ae3afc8c7e5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be scared; to be frightened; to be terrified"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chôm",
+   "base": "bb8e8d745aed5c8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to steal, usually something that is not very important"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chôm đồ siêu thị",
+     "en": "to shoplift at a supermarket"
+    }
+   ]
+  },
+  {
+   "headword": "sai trái",
+   "base": "ce665bc61677d0e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wrong; erroneous; incorrect; inappropriate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chân thành",
+   "base": "ad1b718dc119bf12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sincere; genuine; heartfelt; honest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truy đuổi",
+   "base": "99d54368c4dc7dde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to run after, chase, or pursue someone or something feverishly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghĩ lại",
+   "base": "7892c450390110d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rethink (something); to have second thoughts (about something)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi đã nghĩ lại và quyết định nhận trách nhiệm đó.",
+     "en": "I have had second thoughts, so I shall take on that responsibility."
+    }
+   ]
+  },
+  {
+   "headword": "khác thường",
+   "base": "b07f599356ba246a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "different from the norm; unusual, uncommon, aberrant, abnormal, extraordinary, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình nghi",
+   "base": "bcadd61f8c126684",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suspect"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẻ tình nghi",
+     "en": "a suspect"
+    }
+   ]
+  },
+  {
+   "headword": "tiễn",
+   "base": "662a8ac227c57a1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to see off or see out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiễn ra sân bay",
+     "en": "to see off at the airport"
+    },
+    {
+     "sense": 1,
+     "vi": "tiễn ra cửa",
+     "en": "to see out"
+    },
+    {
+     "sense": 1,
+     "vi": "tiễn tới nơi an nghỉ cuối cùng",
+     "en": "to see off at the final resting place"
+    }
+   ]
+  },
+  {
+   "headword": "miễn",
+   "base": "2d798225557eda86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exempt from"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "provided, as long as, if"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "miễn học phí",
+     "en": "to exempt from tuition; to let in tuition-free"
+    },
+    {
+     "sense": 1,
+     "vi": "không phận sự miễn vào",
+     "en": "authorized only"
+    },
+    {
+     "sense": 2,
+     "vi": "Miễn tụi bây có mặt là được.",
+     "en": "It's fine as long as you guys do show up."
+    }
+   ]
+  },
+  {
+   "headword": "sở thích",
+   "base": "128a5cf8c85228bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hobby; a pastime"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sở thích của mình là câu cá, đạp xe và đọc truyện tranh.",
+     "en": "I like fishing, biking and reading comics in my free time."
+    }
+   ]
+  },
+  {
+   "headword": "tiến bộ",
+   "base": "55dbd0c778d9a5e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "progressing; making progress"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "progressive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Học tập ngày càng tiến bộ.",
+     "en": "They're making progress in study."
+    },
+    {
+     "sense": 2,
+     "vi": "tư tưởng tiến bộ",
+     "en": "progressive ideology"
+    },
+    {
+     "sense": 2,
+     "vi": "Cách mạng tức là giai cấp tiến bộ đánh đổ giai cấp phản tiến bộ.",
+     "en": "Revolution means progressive classes overthrowing antiprogressive classes."
+    }
+   ]
+  },
+  {
+   "headword": "bất tỉnh",
+   "base": "cd67e34846abef09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unconscious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịch bản",
+   "base": "c58abac444ab649e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "screenplay; script"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "scenario"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kịch bản xấu nhất",
+     "en": "worst-case scenario"
+    }
+   ]
+  },
+  {
+   "headword": "rau",
+   "base": "1c4c0e858ebbfeb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leafy greens, leaf vegetable or culinary herb"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "vegetable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Rau thuộc về những nhóm cây hàng năm: cà, ớt, cà chua, các cây trong họ bầu bí và đậu cô ve, v.v.; cây hai năm như rau chân vịt, hành tây, tỏi tây, cải bắp, su hào, cải bao (cải thảo, cải bẹ cuốn) v.v. và cây thân thảo lâu năm như măng mai, măng vầu, măng tre, v.v. được dùng làm thực phẩm.",
+     "en": "Vegetables belong to several plant groups: annuals such as eggplant, chili, tomato, plants in the gourd family, green beans, etc.; biennials such as spinach, onion, leek, cabbage, kohlrabi, Chinese cabbage (napa cabbage, field cabbage for rolling), etc.; and perennial herbaceous plants such as asparagus shoots, bamboo shoots, etc., all of which are used as food."
+    }
+   ]
+  },
+  {
+   "headword": "dự phòng",
+   "base": "3fb7f37430303309",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to provide (for, against an undesirable event)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyên môn",
+   "base": "4f40831ee4c7a68c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expertise (great skill or knowledge)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "derogatory"
+     ],
+     "gloss": "highly prone to; highly inclined to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thằng này chuyên môn phá hoại.",
+     "en": "He always ruins everything."
+    },
+    {
+     "sense": 2,
+     "vi": "Mày chuyên môn luôn đó !",
+     "en": "You really suck, you know that?"
+    }
+   ]
+  },
+  {
+   "headword": "kiềm chế",
+   "base": "bf99cc3c05e6fa74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to restrain; to control"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sự lựa chọn của con người không phải hoàn toàn tự do và ngẫu nhiên mà được hướng dẫn và kiềm chế bởi các mẫu mực thị hiếu, xã hội và trình độ kỹ thuật của xã hội, nói tóm lại là văn hoá.",
+     "en": "Human's choices aren't of absolute freedom and coincidential, but they are instructed and controlled by societies and their expertise with the norms of taste, coming down to what's called 'culture'."
+    }
+   ]
+  },
+  {
+   "headword": "đại lộ",
+   "base": "513d80aada78b35c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "avenue, boulevard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sài Gòn có Đại lộ Lê Lợi, Đại lộ Hùng Vương, Đại lộ Trần Hưng Đạo, Đại lộ Lý Thái Tổ, Đại lộ Thống Nhứt, Đại lộ Nguyễn Huệ, v.v.",
+     "en": "List of boulevards in Saigon: Le Loi Boulevard, Hung Vuong Boulevard, Tran Hung Dao Boulevard, Ly Thai To Boulevard, Thong Nhut Boulevard, Nguyen Hue Boulevard, etc."
+    }
+   ]
+  },
+  {
+   "headword": "thanh niên",
+   "base": "9174d05a3ba46c57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "related to late adolescence or early adulthood"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "16 to 30 years old"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a late teenager or young adult"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a male late teenager or young adult"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "colloquial",
+      "humorous"
+     ],
+     "gloss": "you/he/him, a young dude"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "thanh niên thanh nữ",
+     "en": "male and female youths"
+    },
+    {
+     "sense": 4,
+     "vi": "Tuổi của thanh niên phải định lại từ 18 đến 29. Về thanh nữ thì từ 18 đến 25.",
+     "en": "The age of male youths must be re-established as 18 to 29. As for female youths, 18 to 25."
+    },
+    {
+     "sense": 5,
+     "vi": "Bớt đi thanh niên.",
+     "en": "Give it a break, dude."
+    },
+    {
+     "sense": 5,
+     "vi": "Thanh niên nghĩ mình là ai vậy?",
+     "en": "The heck do you think you are/does he think he is?"
+    }
+   ]
+  },
+  {
+   "headword": "truy tìm",
+   "base": "fe824c6e63454c25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to track down; to search for; to look for"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tù binh",
+   "base": "a9dcb18fb1b8ca74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prisoner; POW"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàng không",
+   "base": "ed9af14ea6b51e33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aviation; airline"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lãnh thổ",
+   "base": "c45900c02dfc3f1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "common"
+     ],
+     "gloss": "territory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện nay",
+   "base": "492af11336396c4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "now, presently, nowadays"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mồ côi",
+   "base": "2449ee7785cb43a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "orphaned; unparented; parentless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bánh xe",
+   "base": "85c460498c2e5f1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wheel (on a motorized or non-motorized vehicle)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bánh xe lịch sử – (figuratively) the wheel of history",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "hạ sĩ",
+   "base": "354c0149330a176c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a corporal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vận hành",
+   "base": "09b1228ce8d6a314",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to run, to be operational, to function"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to operate, to use (a machine)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lương thực",
+   "base": "c919a538e8a55a86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a grain staple, such as rice or wheat"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lương thực và thực phẩm",
+     "en": "staple and non-staple foods"
+    },
+    {
+     "sense": 1,
+     "vi": "an ninh lương thực",
+     "en": "food security"
+    }
+   ]
+  },
+  {
+   "headword": "chính sách",
+   "base": "42eecc06f816d8b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a policy (especially in government)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chính sách công",
+     "en": "Public Policy"
+    },
+    {
+     "sense": 1,
+     "vi": "Chính sách tiền tệ",
+     "en": "Monetary Policy"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhà nước, xã hội đầu tư phát triển sự nghiệp bảo vệ, chăm sóc sức khỏe của Nhân dân, thực hiện bảo hiểm y tế toàn dân, có chính sách ưu tiên chăm sóc sức khoẻ cho đồng bào dân tộc thiểu số, đồng bào ở miền núi, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+     "en": "The State and society shall make investments to further the protection of and care for the People’s health, implement the universal health insurance, and adopt policies to prioritize health care for ethnic minority people and people living in mountainous areas, on islands, and in areas that have extremely difficult socio-economic conditions."
+    }
+   ]
+  },
+  {
+   "headword": "dở hơi",
+   "base": "dd9084826462d4e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "cracked; barmy; screwball; having a few screws loose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bi kịch",
+   "base": "db3ad1f7ca4738b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tragedy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vụn",
+   "base": "a0c9f7ffc3ad8324",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in piece; in fragment"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small piece; fragment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vụn thuỷ tinh",
+     "en": "shards of glass"
+    }
+   ]
+  },
+  {
+   "headword": "độc lập",
+   "base": "de6924124bc5f3d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "independence"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "independent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không có gì quý hơn độc lập, tự do. Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!",
+     "en": "Nothing is more precious than independence and freedom. When victory day comes, our people will rebuild our country and endow it with bigger and more beautiful construction."
+    },
+    {
+     "sense": 2,
+     "vi": "Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ, bao gồm đất liền, hải đảo, vùng biển và vùng trời.",
+     "en": "The Socialist Republic of Vietnam is an independent and sovereign country enjoying unity and integrity of territory, including the mainland, islands, seas and airspace."
+    }
+   ]
+  },
+  {
+   "headword": "địt",
+   "base": "25243df4fa521e5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "North",
+      "Northern",
+      "colloquial",
+      "vulgar"
+     ],
+     "gloss": "to fuck"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern",
+      "informal"
+     ],
+     "gloss": "to fart"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [
+      "Northern",
+      "colloquial",
+      "vulgar"
+     ],
+     "gloss": "Shit!; Fuck!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ máu",
+   "base": "ae2c2acbb15d2504",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shed one's blood; to bleed"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bloodshed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hơi đâu mà phải đổ máu vì chuyện vặt ấy!",
+     "en": "It's not worth spilling blood over!"
+    },
+    {
+     "sense": 2,
+     "vi": "Chính trị là chiến tranh mà không đổ máu, trong khi chiến tranh là chính trị có đổ máu.",
+     "en": "Politics is war without bloodshed, while war is politics with bloodshed."
+    },
+    {
+     "sense": 2,
+     "vi": "chứng kiến những cảnh đổ máu tàn khốc",
+     "en": "to witness scenes of terrible bloodshed"
+    },
+    {
+     "sense": 2,
+     "vi": "làm cách mạng mà không đổ máu",
+     "en": "to stage a bloodless revolution"
+    }
+   ]
+  },
+  {
+   "headword": "nhà bếp",
+   "base": "127f658e44ffc3f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kitchen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ép buộc",
+   "base": "87fcd895283ca16d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to force or compel others to do something that they dislike or do not want to do"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tủy",
+   "base": "8ec3aedc15966f75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tuỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguồn gốc",
+   "base": "e71b3f55ea03bd82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "origin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mĩ",
+   "base": "ef534125608e4930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "American"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi là người Mĩ.",
+     "en": "I am American."
+    }
+   ]
+  },
+  {
+   "headword": "mĩ",
+   "base": "6b3591e480a58fd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beauty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chân, thiện, mĩ",
+     "en": "truth, goodness, beauty"
+    }
+   ]
+  },
+  {
+   "headword": "hữu ích",
+   "base": "2ca8fe67ae203596",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "useful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bịt",
+   "base": "0c352649706b7dd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover, to seal, to stop up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bịt tai bịt mũi",
+     "en": "to cover one’s ears and nose"
+    }
+   ]
+  },
+  {
+   "headword": "chi phí",
+   "base": "6b4695dc8b32bbf1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cost; expenditure; expense; outlay"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spend; to pay out; to disburse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quy định này dẫn tới phát sinh một số khó khăn và chi phí cho doanh nghiệp.",
+     "en": "This regulation leads to a number of difficulties and costs for businesses."
+    }
+   ]
+  },
+  {
+   "headword": "cao quý",
+   "base": "1d3ebd4aa44887fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "noble; virtuous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quạ",
+   "base": "b176eb001226f4ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crow; raven"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân thiết",
+   "base": "de749e2b6cb6fdea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "close; familiar; dear (to one's heart)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khuya",
+   "base": "8d3cff669aeaada1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "late"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "late at night"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the hours from midnight to almost dawn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đêm khuya",
+     "en": "late night"
+    },
+    {
+     "sense": 2,
+     "vi": "thức khuya",
+     "en": "to stay up late"
+    },
+    {
+     "sense": 3,
+     "vi": "ngủ từ sáng đến khuya",
+     "en": "to sleep from dawn until late at night"
+    }
+   ]
+  },
+  {
+   "headword": "chủng tộc",
+   "base": "60484f6b17ca56b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a race (a large group of people set apart from others on the basis of common, physical characteristics)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phân biệt chủng tộc",
+     "en": "to racially discriminate"
+    },
+    {
+     "sense": 1,
+     "vi": "[sự] phân biệt [đối xử] [dựa trên] chủng tộc",
+     "en": "racial discrimination"
+    },
+    {
+     "sense": 1,
+     "vi": "Căn cứ vào hình thái bề ngoài của cơ thể (màu da, tóc, mắt, mũi…), các nhà khoa học đã chia dân cư trên thế giới thành ba chủng tộc chính : Môn-gô-lô-it (thường gọi là người da vàng), Nê-grô-it (người da đen) và Ơ-rô-pê-ô-it (người da trắng).",
+     "en": "Based on physical traits (skin color, hair, eyes, nose…), scientists have classified the world's populations into three main races: the Monogoloids (colloquially, the yellows), the Negroids (the blacks) and the Europids (the whites)."
+    }
+   ]
+  }
+ ]
+}

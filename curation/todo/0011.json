@@ -1,0 +1,1644 @@
+{
+ "batch": "0011",
+ "entries": [
+  {
+   "headword": "hàng",
+   "base": "f584f5f8bde74085",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "goods; product; merchandise; freight; cargo"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shop; store"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line; row; queue"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line; row"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an integer place"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "humorous"
+     ],
+     "gloss": "female breasts or nether region"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [
+      "especially",
+      "noun",
+      "phrase"
+     ],
+     "gloss": "numerous"
+    },
+    {
+     "position": 8,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "eggcorn of hằng (“every (week, month, year, etc.)”)"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to surrender; to capitulate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "xếp hàng",
+     "en": "to form a line"
+    },
+    {
+     "sense": 5,
+     "vi": "hàng đơn vị",
+     "en": "the ones place"
+    },
+    {
+     "sense": 5,
+     "vi": "hàng chục",
+     "en": "the tens place"
+    },
+    {
+     "sense": 5,
+     "vi": "hàng trăm",
+     "en": "the hundreds place"
+    },
+    {
+     "sense": 5,
+     "vi": "hàng nghìn",
+     "en": "the thousands place"
+    },
+    {
+     "sense": 6,
+     "vi": "lộ hàng",
+     "en": "to have a nip slip or to show one's panties or genitalia accidentally"
+    },
+    {
+     "sense": 7,
+     "vi": "hàng giờ",
+     "en": "many hours"
+    },
+    {
+     "sense": 7,
+     "vi": "hàng chục / tá người",
+     "en": "tens / dozens of people"
+    },
+    {
+     "sense": 7,
+     "vi": "hàng ngàn năm",
+     "en": "thousands of years"
+    }
+   ]
+  },
+  {
+   "headword": "trông",
+   "base": "f0b8b0b2d118fc57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look at"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to watch, to look after"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đáng",
+   "base": "0ef5675759f05dc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "worthy, worth"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deserve, to merit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uống",
+   "base": "27f0f73e240d557e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drink"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "uống thuốc",
+     "en": "to take medicine, typically along with water (whether it's a pill or a liquid)"
+    }
+   ]
+  },
+  {
+   "headword": "sẵn sàng",
+   "base": "2c1535504ccdfb03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ready; prepared"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be willing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xong",
+   "base": "2ae356d464c83fc0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to end, to complete"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to be rid of something harmful; to be at peace"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "finished, complete, done"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tiến không được mà lùi lại cũng không xong.",
+     "en": "There's no use advancing but retreating doesn't gain you peace either."
+    },
+    {
+     "sense": 3,
+     "vi": "Xong chưa?",
+     "en": "Done yet?"
+    }
+   ]
+  },
+  {
+   "headword": "có vẻ",
+   "base": "0e46b80ddda38c00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seem, to appear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có vẻ nóng",
+     "en": "(it) seems hot"
+    },
+    {
+     "sense": 1,
+     "vi": "Có vẻ chả ai hứng thú với đề xuất của nó.",
+     "en": "It seems that no one was interested in his proposal."
+    }
+   ]
+  },
+  {
+   "headword": "như thế",
+   "base": "68c7f97817184767",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "so, like that"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vả lại, mẹ thường bảo chúng tôi rằng: “Phải như thế, để các con biết kiếm ăn một mình cho quen đi. […]”",
+     "en": "Besides, my mother used to tell her children, “It's good for you to learn to fly with your own wings. […]”"
+    }
+   ]
+  },
+  {
+   "headword": "đợi",
+   "base": "476640b99a382e7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wait for, to await"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hãy đợi đấy!",
+     "en": "Well, Just You Wait! (a cartoon series by Soyuzmultfilm)"
+    }
+   ]
+  },
+  {
+   "headword": "trả",
+   "base": "8c72ea5e54110c28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to return; to give back"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sáng",
+   "base": "0f923f69fb6afc79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "morning"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bright"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cuối cùng",
+   "base": "c874988d5bb8a83a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "final; last; ultimate"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "finally; at last"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cuối cùng cũng hiểu rồi hử?",
+     "en": "It seems you finally got it."
+    }
+   ]
+  },
+  {
+   "headword": "nhỏ",
+   "base": "3d9466304aa23dca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "small; little"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "quiet, hushed"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "child"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "girl; girlie"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "familiar"
+     ],
+     "gloss": "she/her, that girl"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drip"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drop a drop of liquid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhỏ bé / bé nhỏ",
+     "en": "small; tiny"
+    },
+    {
+     "sense": 2,
+     "vi": "tiếng nhỏ",
+     "en": "low volume"
+    },
+    {
+     "sense": 2,
+     "vi": "– Nói nhỏ chứ! Tên của thánh thượng sao lại gọi bừa như thế?",
+     "en": "\"Speak more quietly! Why do you so crudely speak his majesty's name?\""
+    },
+    {
+     "sense": 3,
+     "vi": "sắp nhỏ",
+     "en": "our children"
+    },
+    {
+     "sense": 3,
+     "vi": "tụi nhỏ",
+     "en": "the kids"
+    },
+    {
+     "sense": 4,
+     "vi": "con nhỏ đó",
+     "en": "that girl"
+    },
+    {
+     "sense": 4,
+     "vi": "nhỏ Hoa",
+     "en": "the girl named Hoa"
+    },
+    {
+     "sense": 7,
+     "vi": "nhỏ mắt",
+     "en": "to drop eye drops onto the eyes"
+    }
+   ]
+  },
+  {
+   "headword": "Tàu",
+   "base": "aaf820754bb079fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "ethnic",
+      "informal",
+      "slur",
+      "sometimes"
+     ],
+     "gloss": "Chinese; Chinaman; Chink"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người Nhựt từ xưa họ kêu người Tàu là \"Đường\", bởi họ thông với Trung Quốc bắt đầu từ đời Đường vậy. Thế nhưng gần đây, từ hồi có giao thiệp với các nước trong thế giới thì họ kêu Tàu bằng \"Chi-na\".",
+     "en": "Since time immemorial, the Japanese have referred to the Chinamen as \"Tang\" as they had diplomatic contacts with China since the Tang Dynasty. Recently, however, that they have established relations with the other countries of the world, they have decided to call the Chinamen[' country] \"China\"."
+    }
+   ]
+  },
+  {
+   "headword": "tàu",
+   "base": "474aa1e58ae18245",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one of several types of vehicle or craft, usually large, designed for navigation in or on water, in air, on rails, or through outer space"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "large leaf"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Meronyms: tàu hoả (“train”), tàu điện (“electric train”), tàu điện ngầm (“subway”), tàu thuỷ (“ship”), tàu ngầm (“submarine”), tàu vũ trụ (“spaceship”), tàu bay (“aircraft”) (dated)",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "say tàu",
+     "en": "trainsick or seasick"
+    },
+    {
+     "sense": 1,
+     "vi": "tàu Nautilus",
+     "en": "the Nautilus"
+    },
+    {
+     "sense": 1,
+     "vi": "tàu Con Thoi",
+     "en": "the Space Shuttle"
+    },
+    {
+     "sense": 2,
+     "vi": "Sâu đầu đen gây hại làm tàu dừa cháy khô từ những lá già bên dưới.",
+     "en": "The Coconut black-headed caterpillar harmfully makes the coconut tree's large leaves dry-out from the older leaves underneath."
+    }
+   ]
+  },
+  {
+   "headword": "gia đình",
+   "base": "be631d88530d33a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an immediate family; a household"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm sao",
+   "base": "c61aeed9f83fb8d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "why; how"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "how; so"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "To làm sao!",
+     "en": "How big!"
+    }
+   ]
+  },
+  {
+   "headword": "gã",
+   "base": "d48195f99a160e0e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "lad; bloke"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "he; him; that guy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo vệ",
+   "base": "a039ac99a2ddc5d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to protect"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to defend (an idea, a dissertation, etc.)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a security guard; compare vệ sĩ (“bodyguard”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành",
+   "base": "2855fe564a82b852",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "into"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to achieve one's goal, to become, to turn into"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "citadel"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sincere; honest; truthful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "(tấm) lòng thành",
+     "en": "a sincere intent"
+    }
+   ]
+  },
+  {
+   "headword": "xa",
+   "base": "4380469a41aefd2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "far"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "extravagant, wasteful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rất gần rất xa",
+     "en": "so close, (yet) so far [song name]"
+    }
+   ]
+  },
+  {
+   "headword": "trẻ",
+   "base": "396306dbac0387b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "young"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a child"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "young children; infants"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Anh đã mơ về ngôi nhà và những đứa trẻ.",
+     "en": "I've dreamed of our house and our children."
+    },
+    {
+     "sense": 3,
+     "vi": "trẻ tự kỉ",
+     "en": "autistic children"
+    },
+    {
+     "sense": 3,
+     "vi": "dành cho trẻ dưới 3 tuổi",
+     "en": "for children 3 years old and below"
+    }
+   ]
+  },
+  {
+   "headword": "bất cứ",
+   "base": "73297c952af572ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "any; whatever"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bất cứ ai",
+     "en": "anyone"
+    }
+   ]
+  },
+  {
+   "headword": "sắp",
+   "base": "81a6dbc9ecc35354",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "about to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dialectal",
+      "informal"
+     ],
+     "gloss": "group (of people)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "coi",
+   "base": "1cbaf40274032635",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to look, watch (over), observe, read, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be considered"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "[Look at yourself!] What the heck are you doin'?"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "coi em",
+     "en": "to babysit one's younger sibling"
+    },
+    {
+     "sense": 1,
+     "vi": "coi mắt",
+     "en": "to meet with a date via a dating service"
+    },
+    {
+     "sense": 1,
+     "vi": "coi ti-vi",
+     "en": "to watch TV"
+    },
+    {
+     "sense": 1,
+     "vi": "coi phim",
+     "en": "to watch a TV show/movie"
+    },
+    {
+     "sense": 1,
+     "vi": "coi báo",
+     "en": "to read a newspaper"
+    },
+    {
+     "sense": 1,
+     "vi": "Coi nè!",
+     "en": "Check this out!"
+    },
+    {
+     "sense": 1,
+     "vi": "Coi chừng!",
+     "en": "Look out!"
+    },
+    {
+     "sense": 1,
+     "vi": "Mày coi chừng tao!",
+     "en": "You'd better not screw with me again!"
+    },
+    {
+     "sense": 2,
+     "vi": "Đây được coi là một trong những chiến công vĩ đại của nhân loại.",
+     "en": "This is considered one of the most glorious victories of mankind."
+    }
+   ]
+  },
+  {
+   "headword": "thử",
+   "base": "cf2a4683adb6b003",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to try doing something and see if it works"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to try something and see if it's suitable"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to test; to get a test"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "for a test; for a tryout"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thử vặn xem có được không.",
+     "en": "Try twisting it, see if that works."
+    },
+    {
+     "sense": 2,
+     "vi": "thử đồ",
+     "en": "to try some clothes"
+    },
+    {
+     "sense": 3,
+     "vi": "thử nước tiểu",
+     "en": "to get a urine test"
+    },
+    {
+     "sense": 4,
+     "vi": "chạy thử",
+     "en": "to test run"
+    },
+    {
+     "sense": 4,
+     "vi": "nếm thử",
+     "en": "to taste test"
+    }
+   ]
+  },
+  {
+   "headword": "đội",
+   "base": "1d79e99484ef839d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "team"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wear (headgear)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nhớ đội nón bảo hiểm khi ra đường nha.",
+     "en": "Remember to wear helmet when you're on the road."
+    },
+    {
+     "sense": 2,
+     "vi": "đầu đội trời, chân đạp đất",
+     "en": "(of a man) having masculine qualities such as strength, determination, decisiveness, etc."
+    }
+   ]
+  },
+  {
+   "headword": "ồ",
+   "base": "d8698b713cdccbc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to rush; to dash; to flow"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "oh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phút",
+   "base": "c8158fc5464c541d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "minute (unit of time)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "5 phút",
+     "en": "five minutes"
+    },
+    {
+     "sense": 1,
+     "vi": "4 giờ 5 phút",
+     "en": "5 past 4"
+    },
+    {
+     "sense": 1,
+     "vi": "4 giờ kém 5 phút",
+     "en": "5 to 4"
+    }
+   ]
+  },
+  {
+   "headword": "thực sự",
+   "base": "92cb05a8e9446354",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "really, indeed, actually"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lâu",
+   "base": "b2b0c4db8f318690",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "long"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xương rồng lâu lâu cũng cần tưới nước.",
+     "en": "Even cacti need to be watered sometimes."
+    }
+   ]
+  },
+  {
+   "headword": "kìa",
+   "base": "7356ec971f558ec1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "there (farther than “kia” but still visible); over there"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Exclamation used before an appeasing remark, often in response to a previous uncaring expression that displeased the other person in a conversation; or, used to express disapproval."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hôm kìa",
+     "en": "three days ago"
+    },
+    {
+     "sense": 1,
+     "vi": "ngày kìa",
+     "en": "three days later"
+    },
+    {
+     "sense": 1,
+     "vi": "năm kìa",
+     "en": "three years ago"
+    },
+    {
+     "sense": 2,
+     "vi": "Kìa em! Anh trêu có một tí mà cũng dỗi.",
+     "en": "Hey now dear! I was just kidding around, why do you have to get sullen all of a sudden?"
+    },
+    {
+     "sense": 2,
+     "vi": "Kìa! Sao còn đứng đực ra đó? Bắt tay vào làm ngay đi chứ!",
+     "en": "Hey! Why still standing there? Get to work immediately!"
+    }
+   ]
+  },
+  {
+   "headword": "kể",
+   "base": "e806df1ccdaf3bff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quên",
+   "base": "5574e02975ed51d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forget"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu tiên",
+   "base": "45d61efa8c6ec69b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "first"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bởi vì",
+   "base": "42bdfe37c0e4f803",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "because"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vợ",
+   "base": "33fe02409b304271",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wife"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vợ chồng",
+     "en": "wife and husband; a married couple"
+    },
+    {
+     "sense": 1,
+     "vi": "vợ chồng A Phủ",
+     "en": "A Phủ and his wife"
+    },
+    {
+     "sense": 1,
+     "vi": "bố/mẹ vợ",
+     "en": "wife's father/mother"
+    },
+    {
+     "sense": 1,
+     "vi": "Chả là vợ tôi ốm. Đối với tôi, đó là một điều bất ngời ngoài sức tưởng tượng. Khi tôi quyết định lấy vợ, tôi không bao giờ nghĩ rằng đến một ngày nào đó vợ tôi sẽ ốm. Tôi cứ đinh ninh đã là vợ thì không thể ốm được. Thế mà điều đó lại xảy ra, thật là kỳ lạ. Cô ta nằm trên giường, đầu nóng sốt, miệng rên hừ hừ và bất hạnh (cho tôi) nhất là, tay chân không cựa nổi. Tôi đã quen nhìn thấy vợ làm việc quần quật suốt ngày đến nỗi bây giờ nhìn thấy cô ta bạc nhược đợi chồng nâng đầu dậy kê cốc nước vào miệng, thật tôi chẳng làm sao tin được. Nhưng rồi tôi buộc phải tin, bởi vì từ hôm đó cả một núi công việc đổ lên đầu tôi và tôi bị đè bẹp dưới đó hệt như Tôn Ngộ Không bị đè dưới năm ngón tay Phật Như Lại[sic] vậy, đố có mà nhúc nhích được một li.",
+     "en": "What happened was my wife got sick. That, to me, was completely beyond my imagination. When I decided to get married, the thought that my wife would get sick one day never even crossed my mind. I was so adamant that wives don't get sick. But it happened, it was so weird. She was lying in bed, her head was feverish, she kept moaning, and the most tragic part (for me) was that she couldn't lift a finger. I had been so used to seeing her doing chores all day, now that I saw her pale face waiting for me to lift her head up and bring a cup of water to her mouth, I just couldn't believe my eyes at all. But eventually I had to, because from then on there would be a mountain of work waiting to crush me, like how Sun Wukong was crushed by Lord Tathāgata's gigantic hand and couldn't move an inch."
+    }
+   ]
+  },
+  {
+   "headword": "an toàn",
+   "base": "77599c7008b9aa84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "safe"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "safety"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đội mũ bảo hiểm khi đi xe máy thì rất an toàn.",
+     "en": "Wearing a helmet when riding a motorcycle is very safe."
+    },
+    {
+     "sense": 2,
+     "vi": "An toàn là bạn, tai nạn là thù.",
+     "en": "Safety is our friend, accidents are our enemies."
+    }
+   ]
+  },
+  {
+   "headword": "buổi",
+   "base": "80950076440c5fbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "half a day"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "session, event, time, period"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chắc chắn",
+   "base": "8a45c99c85246ef3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "resilient, firm, stable"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sure, certain"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "surely, certainly, undoubtedly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ơn",
+   "base": "3787ad916338bc4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "favor (deed in which help is voluntarily provided)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "biết ơn",
+     "en": "to be grateful"
+    },
+    {
+     "sense": 1,
+     "vi": "ơn trời",
+     "en": "thank god"
+    }
+   ]
+  },
+  {
+   "headword": "tuyệt",
+   "base": "724717fa813c1d20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to cut off; to exhaust; to use up; to reach the end or extreme"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nice; great; wonderful; terrific; excellent; perfect"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "extremely (good); exceptionally; immensely"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "synonym of tuyệt nhiên (“absolutely”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy",
+   "base": "3376283fb1dae517",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move around"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to touch and feel"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "effect; mechanism"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "machine"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "engine"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "internal combustion engine"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "phone, mobile phone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 7,
+     "vi": "nhấc máy",
+     "en": "to pick up the phone"
+    }
+   ]
+  },
+  {
+   "headword": "mỗi",
+   "base": "4c9d6a8ae575ebf1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "each; every"
+    },
+    {
+     "position": 2,
+     "pos": "det",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "synonym of một (“one”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tập thể dục mỗi ngày",
+     "en": "to exercise every day"
+    },
+    {
+     "sense": 1,
+     "vi": "mỗi người",
+     "en": "each person"
+    },
+    {
+     "sense": 1,
+     "vi": "mỗi... mỗi/một...",
+     "en": "every... has his/her/its/one's own..."
+    },
+    {
+     "sense": 1,
+     "vi": "mỗi người một nơi",
+     "en": "everyone settles in their own place"
+    },
+    {
+     "sense": 1,
+     "vi": "mỗi cây mỗi hoa, mỗi nhà mỗi cảnh",
+     "en": "every tree has its own kind of flower, every family has its own situation"
+    },
+    {
+     "sense": 1,
+     "vi": "mỗi một",
+     "en": "every single / only one"
+    },
+    {
+     "sense": 1,
+     "vi": "mỗi một người",
+     "en": "every single person / only one person"
+    },
+    {
+     "sense": 2,
+     "vi": "Nhà có mỗi con.",
+     "en": "I have one child."
+    }
+   ]
+  },
+  {
+   "headword": "học",
+   "base": "8ec27ff1d7519331",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to study; to learn"
+    },
+    {
+     "position": 2,
+     "pos": "suffix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "-logy; -graphy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "học, học nữa, học mãi",
+     "en": "learn, learn more, learn forever (free translation of Lenin's oft-used phrase «учиться, учиться и учиться»)"
+    }
+   ]
+  },
+  {
+   "headword": "mặt",
+   "base": "e63655d56551b3d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "face (front part of head)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "face (facial expression)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "face (public image)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "face (geometry: bounding surface of a polyhedron)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "face (surface, especially a front or outer one)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aspect; dimension"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "right (of direction)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "về nhiều mặt",
+     "en": "in many aspects"
+    },
+    {
+     "sense": 7,
+     "vi": "tay mặt",
+     "en": "the right hand/arm"
+    }
+   ]
+  },
+  {
+   "headword": "trời",
+   "base": "10741b101a5886c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sky"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weather"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "capitalized",
+      "sometimes"
+     ],
+     "gloss": "Heaven, heavenly lord (personification of the sky)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wild"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Used after ngày, tháng, or năm to emphasize a lengthy duration"
+    },
+    {
+     "position": 6,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "good Lord!, god, gee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngoài trời",
+     "en": "outdoor(s)"
+    },
+    {
+     "sense": 2,
+     "vi": "trời nóng/mát/lạnh",
+     "en": "it's hot/cool/cold"
+    },
+    {
+     "sense": 2,
+     "vi": "Trời đẹp nhỉ?",
+     "en": "The weather is great, isn't it?"
+    },
+    {
+     "sense": 3,
+     "vi": "bị trời đánh",
+     "en": "to be punished by divine wrath"
+    },
+    {
+     "sense": 3,
+     "vi": "Bắc thang lên mà hỏi ông trời!",
+     "en": "Set up a ladder, climb it, and ask the heavenly lord!"
+    },
+    {
+     "sense": 3,
+     "vi": "trời đánh tránh bữa ăn",
+     "en": "Don't cause ruckuses at meal times"
+    },
+    {
+     "sense": 4,
+     "vi": "ngỗng trời",
+     "en": "a wild goose"
+    },
+    {
+     "sense": 5,
+     "vi": "mười ngày trời",
+     "en": "a full ten days"
+    },
+    {
+     "sense": 5,
+     "vi": "gần ba năm trời",
+     "en": "almost a full three years"
+    },
+    {
+     "sense": 6,
+     "vi": "Trời, sao lại làm như thế?",
+     "en": "Good Lord, what did (you/he/she/it) do that for?"
+    }
+   ]
+  },
+  {
+   "headword": "cảm thấy",
+   "base": "7019f7872d6b80fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuốc",
+   "base": "8959676e8afafd8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "medicine; medicament; drug"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to poison"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to entice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "uống thuốc",
+     "en": "to take medicine"
+    }
+   ]
+  }
+ ]
+}

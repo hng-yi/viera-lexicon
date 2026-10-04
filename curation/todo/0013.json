@@ -1,0 +1,1669 @@
+{
+ "batch": "0013",
+ "entries": [
+  {
+   "headword": "tuổi",
+   "base": "d3f31c1eda5ae24b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "age"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a year of age"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a year of tenure"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Vietnamese zodiac equivalent of a zodiac sign, i.e. an earthly branch or a zodiac beast, based on birthyear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lớn/nhỏ tuổi",
+     "en": "old/young"
+    },
+    {
+     "sense": 1,
+     "vi": "tuổi già/trẻ",
+     "en": "old/young age"
+    },
+    {
+     "sense": 1,
+     "vi": "vòng tuổi",
+     "en": "growth ring"
+    },
+    {
+     "sense": 1,
+     "vi": "tuổi dậy thì",
+     "en": "puberty"
+    },
+    {
+     "sense": 2,
+     "vi": "Bạn bao nhiêu tuổi?",
+     "en": "How old are you?"
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi ... tuổi.",
+     "en": "I am ... years old."
+    },
+    {
+     "sense": 2,
+     "vi": "Con gái phải mười tám tuổi trở lên mới được lấy vợ.",
+     "en": "Only eighteen-year-old or older girls can marry."
+    },
+    {
+     "sense": 2,
+     "vi": "tòa nhà hơn 100 tuổi",
+     "en": "a building more than 100 years old"
+    },
+    {
+     "sense": 3,
+     "vi": "Ông 70 tuổi xuân, 50 tuổi Đảng.",
+     "en": "He's 70 years \"young\" and he worked as an active Party member for 50 years."
+    },
+    {
+     "sense": 4,
+     "vi": "Nó tuổi hổ/Dần nên nóng tính lắm.",
+     "en": "His zodiac beast is the Tiger. No wonder he has such a temper."
+    },
+    {
+     "sense": 4,
+     "vi": "Tao tuổi trâu/Sửu, nó tuổi hổ/Dần, không hạp nhau đâu.",
+     "en": "My zodiac beast is the Buffalo, his is the Tiger, so we don't get along."
+    }
+   ]
+  },
+  {
+   "headword": "sớm",
+   "base": "fa2610829304ce2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "early"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "soon"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "(early) morning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giữa",
+   "base": "5aa1abab36ced84c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in the middle; in the center; amidst; between; among"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mời",
+   "base": "5f28750a1734b470",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to invite; to ask"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khách mời",
+     "en": "invited guest"
+    }
+   ]
+  },
+  {
+   "headword": "mắt",
+   "base": "7e71940ba8e439f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eye"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knot (in wood); joint; node"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mesh; link (of a chain, net)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eye"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nước mắt",
+     "en": "tear"
+    }
+   ]
+  },
+  {
+   "headword": "tiệt",
+   "base": "551ab776902f80c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "finished; depleted; exhausted"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "severed; cut off"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "sterilized"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely; totally; entirely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kế hoạch",
+   "base": "4f19f945fd269579",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a plan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếp tục",
+   "base": "3a038c09fd5c0fb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to continue; to keep on"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con người",
+   "base": "44c64a01e2b60fbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human, human being"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cao",
+   "base": "80cd0cdbbdadba91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "high or tall"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tonic, balm or cream made from animal flesh or bone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "núi cao",
+     "en": "high mountains"
+    },
+    {
+     "sense": 1,
+     "vi": "nhà cao tầng",
+     "en": "a multistory building"
+    },
+    {
+     "sense": 2,
+     "vi": "cao mèo",
+     "en": "cat tonic"
+    },
+    {
+     "sense": 2,
+     "vi": "cao hổ cốt",
+     "en": "tiger-bone tonic"
+    },
+    {
+     "sense": 2,
+     "vi": "Bạch Hổ Hoạt Lạc Cao",
+     "en": "the White Tiger Smooth Balm"
+    }
+   ]
+  },
+  {
+   "headword": "ổng",
+   "base": "b7719b9b545c5ab1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "he; him (older or respected man)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đó là lúc \"ổng\", tức ba tôi chống cây gậy khật khừng lang thang xuống bến.",
+     "en": "That was when \"he\", my father, went wandering down the wharfs with his walking stick."
+    }
+   ]
+  },
+  {
+   "headword": "gây",
+   "base": "0ad7552c8e67e5d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cause; to stir up; to incite; to rouse"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to create; to breed; to cultivate"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "fatty-smelling"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gây nghiện",
+     "en": "to cause addiction"
+    },
+    {
+     "sense": 1,
+     "vi": "gây hại",
+     "en": "to cause harm"
+    },
+    {
+     "sense": 3,
+     "vi": "Mỡ bò gây lắm, không ăn được.",
+     "en": "Beef fat is so fatty-smelling; it’s inedible."
+    }
+   ]
+  },
+  {
+   "headword": "chuẩn bị",
+   "base": "9f4eac8b7f00d398",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prepare"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành phố",
+   "base": "8949e102e04c294c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a city"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one of the seven province-level subdivisions of Vietnam labeled thành phố trực thuộc trung ương (literally “city under the central (national) government's direct management”), namely Hà Nội (“Hanoi”), Hải Phòng (“Haiphong”), Đà Nẵng (“Da Nang”), Thành phố Hồ Chí Minh (“Ho Chi Minh City”), Cần Thơ, Huế and Đồng Nai"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "the capital of a Vietnamese tỉnh (“province”), labeled thành phố trực thuộc tỉnh (literally “city under a province's direct management”); itself is subdivided into phường (“wards”)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a subprovincial division of a thành phố trực thuộc trung ương, called thành phố thuộc thành phố trực thuộc trung ương, that is larger than a quận in terms of economic and population importance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sếp",
+   "base": "e2b494779db71c19",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chief; boss"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sếp cứ đùa hoài!",
+     "en": "You're kiddin', aren't ya, chief?"
+    }
+   ]
+  },
+  {
+   "headword": "vị",
+   "base": "b1cb383df46baf76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "taste"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flavour"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "for the sake of"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "honorific",
+      "polite"
+     ],
+     "gloss": "used to address a person"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [
+      "formal",
+      "honorific",
+      "polite"
+     ],
+     "gloss": "Indicates important or respected people, such as a president (tổng thống), professor (giáo sư), general (tướng), etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "nghệ thuật vị nghệ thuật/nhân sinh/luân lí/xã hội/tôn giáo",
+     "en": "art for art's/life's/morality's/society's/religion's sake"
+    },
+    {
+     "sense": 4,
+     "vi": "quý vị",
+     "en": "sir/ma'am"
+    },
+    {
+     "sense": 4,
+     "vi": "vị này",
+     "en": "this gentleman/lady"
+    }
+   ]
+  },
+  {
+   "headword": "tất nhiên",
+   "base": "5ec2a176b1515953",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "of course"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ",
+   "base": "a12db40f5aa5ffca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muscle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hearts"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cue stick"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [
+      "Northern",
+      "childish",
+      "colloquial"
+     ],
+     "gloss": "Final emphatic particle"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "military unit consisting of 10 or 200–500 soldiers."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "co cơ",
+     "en": "muscle contraction"
+    },
+    {
+     "sense": 4,
+     "vi": "Không chịu đâu! Mẹ phải đi cùng cơ!",
+     "en": "I won't stand that! Mom must go too!"
+    }
+   ]
+  },
+  {
+   "headword": "hứa",
+   "base": "2feb44e327ea15ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to promise; to make a promise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dậy",
+   "base": "405e98b286cb18a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wake up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to rise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dậy lúc 8h",
+     "en": "to wake up at 8"
+    },
+    {
+     "sense": 1,
+     "vi": "tỉnh dậy",
+     "en": "to wake up; to come to"
+    },
+    {
+     "sense": 1,
+     "vi": "đứng dậy",
+     "en": "to get up on one's feet"
+    },
+    {
+     "sense": 1,
+     "vi": "trỗi dậy",
+     "en": "to rise vigorously"
+    },
+    {
+     "sense": 2,
+     "vi": "dậy sóng",
+     "en": "to generate great sensation"
+    },
+    {
+     "sense": 2,
+     "vi": "Dậy mà đi! Dậy mà đi! Dậy mà đi, hỡi đồng bào ơi!",
+     "en": "Rise and go! Rise and go! Rise and go, o compatriots!"
+    }
+   ]
+  },
+  {
+   "headword": "cây",
+   "base": "252eb85143c1e5ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plant with a hard trunk or stem, such as a woody tree or bamboo, as opposed to cỏ (“(soft-stemmed) grass”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "plant (including trees and grasses), or more rarely, mushroom"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates plants"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates stick/rod-like objects"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates string instruments and some other types of musical instruments"
+    },
+    {
+     "position": 6,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates vertical dispenser kiosks"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dưới bóng cây",
+     "en": "under the shade of a tree"
+    },
+    {
+     "sense": 4,
+     "vi": "ăn cây",
+     "en": "to get beaten with a stick"
+    },
+    {
+     "sense": 6,
+     "vi": "cây ATM",
+     "en": "an ATM"
+    }
+   ]
+  },
+  {
+   "headword": "cơ hội",
+   "base": "ace8607d45984754",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opportunity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đừng bỏ lỡ cơ hội.",
+     "en": "Don't let the opportunity slip."
+    }
+   ]
+  },
+  {
+   "headword": "dù",
+   "base": "8dcb9b86bce521d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "umbrella"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parachute"
+    },
+    {
+     "position": 3,
+     "pos": "conj",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "even if, although"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lính nhảy dù",
+     "en": "paratrooper"
+    }
+   ]
+  },
+  {
+   "headword": "máu",
+   "base": "6e81797d01ee2cb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blood (vital liquid flowing in animal bodies)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an inherent trait"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "health"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Can be understood as lively, energetic; aggressive; going all out; gangster-like etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giọt máu",
+     "en": "a drop of blood / a biological child"
+    },
+    {
+     "sense": 1,
+     "vi": "giận sôi máu",
+     "en": "to be so angry that it feels like one's blood is boiling"
+    },
+    {
+     "sense": 2,
+     "vi": "Thằng đó có máu dê.",
+     "en": "That guy is a pervert."
+    },
+    {
+     "sense": 2,
+     "vi": "nổi máu điên",
+     "en": "to suddenly go nuts"
+    },
+    {
+     "sense": 4,
+     "vi": "Anh rapper này máu thế nhỉ?",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "tấn công",
+   "base": "05323a85996ccbff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attack; to offend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điện thoại",
+   "base": "49dce8e2721a4c0e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "telephone"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to telephone; to call"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuyệt vời",
+   "base": "213bafccd9147668",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wonderful; splendid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tuyệt vời ông mặt trời",
+     "en": "terrific; awesome (rhyming slang)"
+    }
+   ]
+  },
+  {
+   "headword": "khó",
+   "base": "5e953dd9450fc4a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "difficult; tough"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard to get along with; hard to please"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "euphemistic"
+     ],
+     "gloss": "poor (not rich)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhóc",
+   "base": "c43366bb56984c71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "kid, child, brat"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "full of; filled with"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sau bữa ăn sáng, lũ nhóc chăm chỉ làm việc ở những vị trí công việc mà chúng đã chọn.",
+     "en": "After breakfast, the kids labored hard at their chosen chores."
+    }
+   ]
+  },
+  {
+   "headword": "chọn",
+   "base": "5dcc7ad8b6d4fa56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to choose; to select; to pick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chân",
+   "base": "b09bd5e2498ed6a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leg"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foot"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "truth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chân dài",
+     "en": "long legs"
+    },
+    {
+     "sense": 2,
+     "vi": "chân dài tới nách",
+     "en": "(of a woman) having long, thin and sexy legs"
+    },
+    {
+     "sense": 2,
+     "vi": "chân ghế",
+     "en": "the legs of a chair"
+    },
+    {
+     "sense": 3,
+     "vi": "chân núi/đồi",
+     "en": "the foot of a mountain/hill"
+    },
+    {
+     "sense": 4,
+     "vi": "chân, thiện, mĩ",
+     "en": "Truth, Goodness, Beauty"
+    }
+   ]
+  },
+  {
+   "headword": "con bé",
+   "base": "6b2f191f119f0ee6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "familiar",
+      "informal"
+     ],
+     "gloss": "miss, little girl"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Năm nay con bé mới hai tuổi, nói chưa rõ.",
+     "en": "My little daughter is only two years old, she can't enunciate that well yet."
+    }
+   ]
+  },
+  {
+   "headword": "giỏi",
+   "base": "05fd9f86902f75ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good; competent"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "\"very good\", below xuất sắc (“excellent”), above khá (“good”), trung bình (“average”), yếu (“poor”) and kém (“terrible”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "'Tôi nghĩ rằng để giỏi tiếng Việt cần phải thực hành giao tiếp thường xuyên với người Việt.'",
+     "en": "'I think to be good at Vietnamese, you have to stay in regular contact with Vietnamese people.'"
+    },
+    {
+     "sense": 2,
+     "vi": "tốt nghiệp loại giỏi",
+     "en": "to graduate magna cum laude"
+    }
+   ]
+  },
+  {
+   "headword": "quyết định",
+   "base": "126c0558d6c9513e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to decide"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "decision"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tưởng",
+   "base": "e740370c12123c31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assume or presume"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "saññā (perception, conception)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tao tưởng mày biết.",
+     "en": "I assumed/thought you knew[, but it turns out you don't]."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi cứ tưởng không ai đến.",
+     "en": "I thought nobody'd come[, but they did]."
+    }
+   ]
+  },
+  {
+   "headword": "đọc",
+   "base": "62240be18dbd45c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to read, to pronounce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nằm",
+   "base": "d94d35919e69fd15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lie (be in a horizontal position on a surface)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be located"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stroke that is flat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trả lời",
+   "base": "000d863192a823ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to answer; to reply; to respond"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "câu trả lời",
+     "en": "reply; answer; response"
+    }
+   ]
+  },
+  {
+   "headword": "lũ",
+   "base": "ed851c6f479db16a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "very high water level in a body of water (such as a high tide or high water) or on land, which forms due to excessive raining (not necessarily implying flooding)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory",
+      "sometimes"
+     ],
+     "gloss": "a bunch; a group (of people)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lũ bạn",
+     "en": "a group of friends"
+    },
+    {
+     "sense": 2,
+     "vi": "lũ trẻ",
+     "en": "a group of children"
+    },
+    {
+     "sense": 2,
+     "vi": "lũ nhóc",
+     "en": "a group of kids"
+    },
+    {
+     "sense": 2,
+     "vi": "Vả, Á Lìl không cả quyết ăn vì thèm nữa, mà ăn để trả thù sự chết đói của cả nhà nó, thì làm sao mà thuyết phục nó được. Có lẽ nó đang nhìn cơm, mà nói thầm: “Ừ, ngày xưa, cha mẹ tao không có mầy nên chết, bây giờ gặp mầy đây, tao có dung tha đâu! Tao ăn cho sống dai, mặc kệ lũ nó bày điều, đặt chuyện”.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "kiểu",
+   "base": "f771661d2de5376e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "style; way; look"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "model; example; design"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manner; attitude; habit"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "like; as though; as if; that is to say"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kiểu mới",
+     "en": "new style"
+    },
+    {
+     "sense": 1,
+     "vi": "kiểu lỗi thời",
+     "en": "old-fashioned"
+    },
+    {
+     "sense": 1,
+     "vi": "kiểu Nhật",
+     "en": "Japanese-style"
+    },
+    {
+     "sense": 4,
+     "vi": "Kiểu ý nói là...",
+     "en": "Like, what I mean is..."
+    }
+   ]
+  },
+  {
+   "headword": "cửa",
+   "base": "2f7bfb34e8e3ce5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "door or window"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "portal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cửa chính",
+     "en": "the main door to one's house"
+    },
+    {
+     "sense": 1,
+     "vi": "cửa sổ",
+     "en": "window"
+    }
+   ]
+  },
+  {
+   "headword": "điên",
+   "base": "6e7a9b9b6a6b1341",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rabid, insane, mad"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "extremely, stupendously"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cái thớt này hài điên.",
+     "en": "This thread is stupendously hilarious."
+    }
+   ]
+  },
+  {
+   "headword": "định",
+   "base": "6285055497f7ab2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fix; to appoint; to set; to assign"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to intend (to); to plan (to); to be about (to)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hề",
+   "base": "0e34b7d077a6a078",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "some sort of comic-relief (usually male) character in chèo who acts foolishly; a chèo fool"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a (usually male) fool, clown or jester"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to matter, to affect, have influence or effect on"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at all, absolutely, completely, totally"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "viết",
+   "base": "f816fdedfdd7e541",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "non-chalk handheld writing instrument"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "một cây viết chì",
+     "en": "a pencil"
+    }
+   ]
+  },
+  {
+   "headword": "tụi",
+   "base": "9a3d0f7cbf90fb87",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "South",
+      "Southern",
+      "informal"
+     ],
+     "gloss": "group (of people)"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "Central",
+      "South",
+      "Southern"
+     ],
+     "gloss": "pluralizing particle for pronouns"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ảnh",
+   "base": "c1145c4cfe4c4b24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "image; reflection"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "photograph; picture"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "he; him (man of equal or slightly greater social status)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sự thật",
+   "base": "a5b390370c601cb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "relevant fact or truth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lỗi",
+   "base": "d6c8513fb7ddb2b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mistake, fault, error"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạo",
+   "base": "ff3eb98feb184b37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to create, to make, to form, to cause"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "Tai village ruler"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tạo ra",
+     "en": "to create"
+    }
+   ]
+  },
+  {
+   "headword": "thoát",
+   "base": "5987224ceeff1ca5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to escape, to exit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khỏe",
+   "base": "34af495d58547498",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of khoẻ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tệ",
+   "base": "211b31e3ac727713",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad (at doing something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gửi",
+   "base": "7d93d30ec5110c3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to send"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deposit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người gửi",
+     "en": "a sender"
+    },
+    {
+     "sense": 1,
+     "vi": "gửi con ra tỉnh học",
+     "en": "to send one's child to the city to study"
+    },
+    {
+     "sense": 1,
+     "vi": "gửi lại",
+     "en": "to send back, give back or return"
+    }
+   ]
+  },
+  {
+   "headword": "đá",
+   "base": "59444f3f2bd8832e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rock, stone"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "ice as used for consumption or refrigeration"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "meth, methamphetamine"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kick"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "to dump (one's girlfriend, boyfriend, etc.); to abandon"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to fight each other"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to go; to come by"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "colloquial"
+     ],
+     "gloss": "to eat or drink"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "colloquial"
+     ],
+     "gloss": "to steal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "đòn đá",
+     "en": "a kick"
+    },
+    {
+     "sense": 4,
+     "vi": "cú đá",
+     "en": "a kick"
+    },
+    {
+     "sense": 4,
+     "vi": "các đòn đá taekwondo",
+     "en": "taekwondo kicks"
+    },
+    {
+     "sense": 8,
+     "vi": "đá bát phở",
+     "en": "to eat a bowl of phở"
+    },
+    {
+     "sense": 9,
+     "vi": "Ai đá cái mũ của tao rồi?",
+     "en": "Who stole my hat?"
+    }
+   ]
+  }
+ ]
+}

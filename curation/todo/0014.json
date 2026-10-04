@@ -1,0 +1,1485 @@
+{
+ "batch": "0014",
+ "entries": [
+  {
+   "headword": "cuộc sống",
+   "base": "e8a26576a2bdef20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "món",
+   "base": "c5b1801866299353",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dish (food item)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a thing, thingy"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates food dishes and valuable things, such as money, gifts, jewelry, etc."
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "Indicates subjects and fields of study, such as math, martial arts, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình tĩnh",
+   "base": "b1a00cffde5e2540",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "often"
+     ],
+     "gloss": "calm; composed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giữ bình tĩnh",
+     "en": "to keep calm"
+    }
+   ]
+  },
+  {
+   "headword": "Bác",
+   "base": "d986c682530cdb96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "informal"
+     ],
+     "gloss": "I/me, the old Ho Chi Minh"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "informal"
+     ],
+     "gloss": "you, the old Ho Chi Minh"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "informal"
+     ],
+     "gloss": "he/him, the old Ho Chi Minh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bác",
+   "base": "b9a2586a3fc003e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an older adult; senior; elder"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paternal uncle, father's elder brother"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paternal aunt-in-law, father's elder brother's wife"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "father"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, someone who's presumably slightly older than one of my parents"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him/she/her, someone who's presumably slightly older than one of my parents"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "you, someone who's slightly older than me"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scramble (eggs, etc.)"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "often"
+     ],
+     "gloss": "to reject, to dismiss, to refute, to turn down"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "bác mẹ",
+     "en": "parents"
+    }
+   ]
+  },
+  {
+   "headword": "hoàn toàn",
+   "base": "4bc52c45a4def191",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "complete; entire; full; perfect"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely; entirely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "báo",
+   "base": "0857d056bdcb5dcc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leopard"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "spotted panther; a jaguar or a snow leopard"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "cheetah"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to report; to tell"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repay someone;"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "newspaper"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magazine"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "someone who has the tendency to get themselves into troubles and spreads those troubles to others by association"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đau",
+   "base": "f94c04e16813ff8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be hurt; to be wounded"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sore; aching"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hurt; wounded"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trốn",
+   "base": "2d2481f896fd00f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hide oneself"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to escape, to flee"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to free oneself from someone or something without permission"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to skip a developmental motor stage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lẩn trốn",
+     "en": "to run and hide; to be on the run"
+    },
+    {
+     "sense": 1,
+     "vi": "trốn tìm",
+     "en": "hide and seek"
+    },
+    {
+     "sense": 2,
+     "vi": "trốn tù",
+     "en": "to escape from prison"
+    },
+    {
+     "sense": 3,
+     "vi": "Nó trốn mẹ đi chơi rồi.",
+     "en": "He went out without his mom's permission."
+    },
+    {
+     "sense": 3,
+     "vi": "trốn học",
+     "en": "to skip class"
+    },
+    {
+     "sense": 3,
+     "vi": "trốn thuế",
+     "en": "to evade tax"
+    },
+    {
+     "sense": 4,
+     "vi": "trốn lẫy, trốn lật",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "ngon",
+   "base": "c3fa2ee9d313ee8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "delicious; tasty; succulent"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "good, great"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "well"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "ngủ ngon",
+     "en": "to sleep tight"
+    }
+   ]
+  },
+  {
+   "headword": "nguy hiểm",
+   "base": "620cab0d367354d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dangerous; hazardous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "pretentious; presumptuous; pompous; conceited"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "danger"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "“Rất nguy hiểm!” Tôi vô cùng đau đớn với câu nhận xét này. Các anh bình luận viên chỉ cần xem trọng tài búng đồng xu đầu trận là đã kêu “rất nguy hiểm” mấy lần rồi. (Biết đâu bị rơi tiền?) Rất nguy hiểm, rất nguy hiểm; cái gì cũng nguy hiểm hết — thành ra chẳng có gì là nguy hiểm cả.",
+     "en": "“Very dangerous!” I cringe so hard at this kind of comment. These commentators keep saying stuff like “very dangerous” again and again, even when the ref’s merely tossing the damn coin at the very start of the match. (Maybe they think the ref could lose that coin any time?) Very dangerous, very dangerous; everything’s dangerous — so nothing is dangerous."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi hay nói với bạn bè tôi sẽ thành lập CLB Un-Safe Remove Hardware, rút phần cứng nguy hiểm nhất có thể (CLB Rút liều). Mỗi tuần những người “không bấm” như tôi có thể gặp gỡ nhau một lần, chia sẽ những khó khăn do những người có bấm gây ra. Còn nếu có thành viên nào bị phát hiện bấm nút đó, nhiều lần hay ít, say rượu hay tỉnh, người ấy sẽ bị đuổi khỏi CLB và phải sống nốt cuộc đời trong nỗi nhục của một người bấm chui.",
+     "en": "I often tell my friends I'll found the Un-Safe Remove Hardware Club (aka the Club of the Daring Removers). \"Non-ejectors\" like me can meet up once every week and share the nuisances \"ejectors\" cause. If a member is caught ejecting, few or many times, drunk or sober, they'll be ejected from the club and have to forever live the shameful life of a closet ejector."
+    },
+    {
+     "sense": 2,
+     "vi": "Cái đồ ngu mà cứ tỏ ra nguy hiểm!",
+     "en": "You are such a pretentious jerk!"
+    }
+   ]
+  },
+  {
+   "headword": "rượu",
+   "base": "1c94c3a3ac02c645",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "liquor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặc",
+   "base": "b4a38f9926f91728",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wear or put on (a top or bottom)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave alone; to let be; to leave be"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ignore; to disregard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mặc áo/quần/váy/đầm",
+     "en": "to put on your shirt/pants/skirt/dress"
+    },
+    {
+     "sense": 2,
+     "vi": "Mặc nó đi, đừng xía vô.",
+     "en": "Leave him be, don't interfere."
+    },
+    {
+     "sense": 3,
+     "vi": "người ta nói gì thì mặc người ta",
+     "en": "whatever people say, just ignore them"
+    }
+   ]
+  },
+  {
+   "headword": "bước",
+   "base": "be039b61a160b7d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to step"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enter (a new period)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "step, pace"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "situation, juncture"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bước một bước",
+     "en": "to take one step"
+    },
+    {
+     "sense": 2,
+     "vi": "bước vào thời kì mới",
+     "en": "to enter a new era"
+    }
+   ]
+  },
+  {
+   "headword": "bán",
+   "base": "c47bf79df74811c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sell"
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "half-; semi-; hemi-"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bán hẹp bao quy đầu",
+     "en": "with a semi-tight foreskin"
+    }
+   ]
+  },
+  {
+   "headword": "sai",
+   "base": "64f0882ed32cb6df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not right, correct or proper; wrong, incorrect, improper, inaccurate, imprecise, erroneous, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give an order; to order"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fruitful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm sai",
+     "en": "to get something wrong or do something wrong; to err"
+    },
+    {
+     "sense": 1,
+     "vi": "Làm sai thì phải nhận.",
+     "en": "When you're wrong, own your mistake."
+    },
+    {
+     "sense": 1,
+     "vi": "Tao (làm) sai hai câu.",
+     "en": "I got two answers wrong."
+    },
+    {
+     "sense": 1,
+     "vi": "Em biết em sai, mong anh tha thứ.",
+     "en": "I know I was wrong / what I did was wrong, please forgive me."
+    },
+    {
+     "sense": 1,
+     "vi": "sai số",
+     "en": "a margin of error"
+    },
+    {
+     "sense": 2,
+     "vi": "Có giỏi thì làm, đừng có đứng đó sai người ta !",
+     "en": "Do it if you think you're so good, don't just stand there bossing others around!"
+    },
+    {
+     "sense": 2,
+     "vi": "Vua Càn-long nghe lời tâu ấy sai Tôn sĩ Nghị khởi quân bốn tỉnh Quảng-đông, Quảng-tây, Quí-châu, Vân-nam, đem sang đánh Tây-sơn.",
+     "en": "When the Qianlong Emperor heard this petition, he ordered Sun Shiyi to take the troops of the four provinces of Guangdong, Guangzhou, Guizhou, and Yunnan and bring them to fight the Tây Sơn."
+    },
+    {
+     "sense": 3,
+     "vi": "sai quả/trái",
+     "en": "fruitful"
+    }
+   ]
+  },
+  {
+   "headword": "thầy",
+   "base": "4f7e623a4ac894f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "male teacher"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "teacher"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "dated"
+     ],
+     "gloss": "father"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "Buddhist monk; expert"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your male teacher"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my male teacher"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him, that male teacher we're talking about"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "dated"
+     ],
+     "gloss": "I/me, your father"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "dated"
+     ],
+     "gloss": "you, my father"
+    },
+    {
+     "position": 10,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "dated"
+     ],
+     "gloss": "he/him, your/my father"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "thầy mẹ/u",
+     "en": "parents"
+    },
+    {
+     "sense": 4,
+     "vi": "thầy cãi",
+     "en": "lawyer"
+    },
+    {
+     "sense": 4,
+     "vi": "thầy lang",
+     "en": "practitioner of East Asian alternative medicine"
+    }
+   ]
+  },
+  {
+   "headword": "nè",
+   "base": "dcef7016ad7a5a05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "particle demanding attention to something; take a look!"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó nè!",
+     "en": "Look, she's this one!"
+    },
+    {
+     "sense": 1,
+     "vi": "Coi nè!",
+     "en": "Look here!"
+    },
+    {
+     "sense": 1,
+     "vi": "Anh mày nè!",
+     "en": "It's me, duh!"
+    },
+    {
+     "sense": 1,
+     "vi": "Qua đây! Có cái này hay lắm nè !",
+     "en": "Come quick! There's something real cool I wanna show you!"
+    }
+   ]
+  },
+  {
+   "headword": "cuối",
+   "base": "ae30624bb035cc4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "end, terminal part"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bottom, lowest part"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "final, last"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuối tuần",
+     "en": "weekend"
+    },
+    {
+     "sense": 1,
+     "vi": "cuối phim",
+     "en": "the ending part of a movie"
+    }
+   ]
+  },
+  {
+   "headword": "nàng",
+   "base": "3a256a997391be30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "endearing"
+     ],
+     "gloss": "an admirable/lovable young/young adult woman"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "humorous",
+      "literary"
+     ],
+     "gloss": "pronoun used to refer to a beloved or admirable woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nàng tiên cá",
+     "en": "the Little Mermaid"
+    },
+    {
+     "sense": 1,
+     "vi": "(humorous) cô nàng",
+     "en": "a lass; a wench"
+    }
+   ]
+  },
+  {
+   "headword": "đôi",
+   "base": "985f2e01a98f7dfe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "double"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pair; two; double"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one pair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính xác",
+   "base": "d0bb0a251b0b5fa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "correct; precise; exact; accurate"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "correctly; precisely; exactly; accurately"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyển",
+   "base": "cd5aadb98a1fddd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move (to another place)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to relocate (one's domicile or place of business)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deliver (an item to its destination)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to send, to deliver (a message)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transfer (from one's possession to another's)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to perform a wire transfer"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transfer (to change to a different vehicle)"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transfer, to pass"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to change (from one state, position or direction to another)"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move (to displace from a fixed position)"
+    },
+    {
+     "position": 11,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move (to cause to advance)"
+    },
+    {
+     "position": 12,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to sway"
+    },
+    {
+     "position": 13,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chuyển (one of the four sections in a specific style of narration)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chuyển (đồ) sang nhà mới",
+     "en": "to move (stuff) to one's new house"
+    },
+    {
+     "sense": 1,
+     "vi": "chuyển phòng xuống tầng dưới",
+     "en": "to move one's room to a lower floor"
+    },
+    {
+     "sense": 1,
+     "vi": "Vũ-hầu hỏi rằng: Quân địch đông-đúc, vừa mạnh vừa hăng, […] lui như núi chuyển, tiến như gió mưa, […] khó cùng với họ giữ lâu được, nên như thế nào?",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "chuyển nơi ở, chuyển nhà",
+     "en": "to move one's residence"
+    },
+    {
+     "sense": 2,
+     "vi": "chuyển đi nơi khác",
+     "en": "to move to another place"
+    },
+    {
+     "sense": 2,
+     "vi": "chuyển về đường Lý Thái Tổ",
+     "en": "to move to the Lý Thái Tổ road"
+    },
+    {
+     "sense": 2,
+     "vi": "chuyển lên thành phố, chuyển đến thành phố",
+     "en": "to move to a city"
+    },
+    {
+     "sense": 2,
+     "vi": "chuyển về quê",
+     "en": "to move back to one's hometown"
+    },
+    {
+     "sense": 3,
+     "vi": "chuyển thư",
+     "en": "to deliver mail"
+    },
+    {
+     "sense": 3,
+     "vi": "chuyển hàng",
+     "en": "to ship a package"
+    },
+    {
+     "sense": 4,
+     "vi": "chuyển lời hỏi thăm sức khỏe",
+     "en": "to send one's greetings about health"
+    },
+    {
+     "sense": 4,
+     "vi": "Ở nha kia có tên Mỗ, vốn người tham-bẩn, hối-lộ dập-dìu; lại lấy lộc-trật mà hợm-hĩnh ngông-nghênh, khinh-miệt những người có đức, chưa từng cất nhắc kẻ hiền-sĩ để giúp việc nước. Thần xin chuyển báo cho tòa Nam-tào tước bỏ tên ra.",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "Tổng thống đã chỉ thị là thông điệp sau đây cần nhân danh Tổng thống chuyển cho các nhà lãnh đạo Việt Nam Dân chủ Cộng hoà.",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "Tiền câu lễ: người coi về chuyện kiện cáo nho nhỏ trong làng trước khi chuyện được chuyển đến cấp cao hơn.",
+     "en": null
+    },
+    {
+     "sense": 5,
+     "vi": "chuyển quyền sở hữu đất",
+     "en": "to transfer one's land use rights"
+    },
+    {
+     "sense": 6,
+     "vi": "chuyển tiền",
+     "en": "to transfer money"
+    },
+    {
+     "sense": 6,
+     "vi": "đã chuyển ba mươi ngàn đồng",
+     "en": "transferred thirty thousand dong"
+    },
+    {
+     "sense": 7,
+     "vi": "chuyển sang ga B, chuyển qua ga B",
+     "en": "to transfer to train station B"
+    },
+    {
+     "sense": 7,
+     "vi": "Các phương tiện vi phạm đều bị xử phạt và buộc chuyển hành khách sang xe khác để tiếp tục hành trình.",
+     "en": null
+    },
+    {
+     "sense": 8,
+     "vi": "Bỗng nhiên có cái gì chuyển mạnh qua tim […]",
+     "en": null
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển ngành",
+     "en": "to switch one's major"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển công tác",
+     "en": "to change a job position"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển bại thành thắng (= biến bại thành thắng)",
+     "en": "to turn losses into wins"
+    },
+    {
+     "sense": 9,
+     "vi": "không uống thuốc, bệnh đã bắt đầu chuyển",
+     "en": "without drinking medicine, the illness changed for the worse"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển mùa (= giao mùa)",
+     "en": "shifting weather"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển sang mùa mưa, chuyển thành mùa mưa",
+     "en": "to shift to the rainy season"
+    },
+    {
+     "sense": 9,
+     "vi": "trời chuyển mưa",
+     "en": "the sky shifts to rain"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển cảm giác từ lạnh sang nóng",
+     "en": "to shift the sensation from cold to hot"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển hướng xe",
+     "en": "to change the direction of a vehicle"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển hướng kinh doanh",
+     "en": "to change the direction of business"
+    },
+    {
+     "sense": 9,
+     "vi": "chuyển ý",
+     "en": "to segue"
+    },
+    {
+     "sense": 10,
+     "vi": "Cây giữa rừng ai lay chẳng chuyển, […]",
+     "en": null
+    },
+    {
+     "sense": 11,
+     "vi": "Đợi một lát thì chuyến xe Nam Vinh ở Hà Giang tới, còi bóp inh ỏi, máy chuyển rầm rầm..[.]",
+     "en": null
+    },
+    {
+     "sense": 12,
+     "vi": "Thái-hậu khuyên dỗ mãi cũng không chuyển.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "suốt",
+   "base": "9752ac36420a3694",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "throughout; from end to end; entire"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bobbin (often made of bamboo)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "suốt ngày",
+     "en": "all day"
+    },
+    {
+     "sense": 1,
+     "vi": "suốt đời",
+     "en": "the entire of one's life"
+    }
+   ]
+  },
+  {
+   "headword": "trở",
+   "base": "08dc7f1c4a3fd42c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn, to change"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "funeral rite"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trở người",
+     "en": "to turn one's body (during sleep)"
+    },
+    {
+     "sense": 1,
+     "vi": "trở thịt trên vỉ",
+     "en": "to flip the meat on the grill"
+    }
+   ]
+  },
+  {
+   "headword": "yên",
+   "base": "155d73a678aa815f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "tranquil; peaceful"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "still and not disrupting"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a saddle"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yen"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ngồi yên",
+     "en": "to sit still"
+    },
+    {
+     "sense": 2,
+     "vi": "đứng ngồi không yên",
+     "en": "very anxious, to the point that one keep alternating between sitting and standing"
+    }
+   ]
+  },
+  {
+   "headword": "càng",
+   "base": "eb300921b7453756",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "With a comparative or verb phrase, establishes a parallel with one or more other such comparatives."
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "all the more, all the less"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nipper, pincer"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "large, strong hind leg of a locust, grasshopper, or cricket; its jumping leg"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shaft (one of the handles of a tool, or one of the poles between which an animal is harnessed to a vehicle)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "wing mirror (of a motorcycle)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bản nhạc này càng nghe càng thấy hay.",
+     "en": "The song sounds better the more you listen to it."
+    },
+    {
+     "sense": 1,
+     "vi": "khó khăn càng nhiều, quyết tâm càng cao",
+     "en": "to be more determined the harder it gets"
+    },
+    {
+     "sense": 2,
+     "vi": "Có gió, lửa càng bốc to.",
+     "en": "With wind, fire rages all the more."
+    },
+    {
+     "sense": 5,
+     "vi": "càng xe bò",
+     "en": "oxcart shaft"
+    },
+    {
+     "sense": 5,
+     "vi": "càng pháo",
+     "en": "limber"
+    },
+    {
+     "sense": 5,
+     "vi": "tay càng của kìm cộng lực",
+     "en": "bolt cutter handles"
+    }
+   ]
+  },
+  {
+   "headword": "tạm biệt",
+   "base": "64e8c65af0040db3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "farewell; till we meet again"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to bid farewell"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nói lời tạm biệt",
+     "en": "to bid farewell"
+    }
+   ]
+  },
+  {
+   "headword": "thắng",
+   "base": "eb553157f0b4d467",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brake (of a vehicle, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stop a horse while riding it"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to brake"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "victory"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a score; a goal"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to win, to gain"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to win over"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to caramelize"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Đi xe tay ga nhớ thắng tay trái, thắng tay phải có ngày chúi mỏ đó nghe chưa.",
+     "en": "When riding a motor scooter, remember to brake with the left lever, if you brake with the right lever, it might cause you to fall forward."
+    },
+    {
+     "sense": 6,
+     "vi": "thắng trận",
+     "en": "to win a match"
+    }
+   ]
+  },
+  {
+   "headword": "phim",
+   "base": "7005fe2ad518a08e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "film"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any type of video involving cinematic elements, such as movies, TV series, commercials, documentaries, etc., except music videos; or pornographic videos or sex tapes that may or may not involve cinematic elements"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a clip of footage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cẩn thận",
+   "base": "0c0ed0f84295dfad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "careful; cautious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khu",
+   "base": "0ef004fce7953ab2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "district, area, zone"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ward"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "buttock, ass/arse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đem",
+   "base": "43364badad886016",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring; to carry"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

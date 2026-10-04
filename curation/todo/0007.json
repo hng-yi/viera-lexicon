@@ -1,0 +1,1672 @@
+{
+ "batch": "0007",
+ "entries": [
+  {
+   "headword": "hai",
+   "base": "a10eadf47aa8b88c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "two"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "eldest or elder; firstborn"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "cheese! (said while being photographed)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "anh/chị hai",
+     "en": "eldest brother/sister"
+    },
+    {
+     "sense": 2,
+     "vi": "bác hai",
+     "en": "eldest brother/sister of one's parent"
+    }
+   ]
+  },
+  {
+   "headword": "hiểu",
+   "base": "bb9fc6284170f4c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to understand, to know"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày",
+   "base": "6cf629656b33d97e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "day (period of 24 hours; period from midnight to the following midnight; rotational period of a planet; part of a day period which one spends at one's job, school, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "day (period between sunrise and sunset)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "date (that which specifies the time of writing, inscription etc.; point of time at which a transaction or event takes place)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngày nghỉ",
+     "en": "a day off"
+    },
+    {
+     "sense": 2,
+     "vi": "ngủ ngày",
+     "en": "to sleep by day"
+    }
+   ]
+  },
+  {
+   "headword": "lúc",
+   "base": "6de097bb94f6dc82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "moment, time"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "functions as a preposition indicating specific time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lúc nửa đêm",
+     "en": "at midnight"
+    }
+   ]
+  },
+  {
+   "headword": "cách",
+   "base": "cd99ae6c2e0da420",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "way, manner, fashion"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grammatical case"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "literary",
+      "often"
+     ],
+     "gloss": "Forming intensifiers preceding certain particles and quantifiers"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be distant from, to be separated from"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cách làm việc",
+     "en": "the way of working"
+    },
+    {
+     "sense": 1,
+     "vi": "một cách nhanh chóng",
+     "en": "quickly, rapidly"
+    },
+    {
+     "sense": 2,
+     "vi": "sở hữu cách/cách sở hữu",
+     "en": "the genitive case"
+    },
+    {
+     "sense": 3,
+     "vi": "dù có cố gắng cách mấy...",
+     "en": "no matter how hard you try..."
+    },
+    {
+     "sense": 4,
+     "vi": "Nhà tui cách thành phố 50 cây số.",
+     "en": "My house is 50 kilometers from (the/a) city."
+    },
+    {
+     "sense": 4,
+     "vi": "Tôi không biết khoảng cách đó là bao nhiêu.",
+     "en": "I don't know how far that is. (literally, “what the distance is”)"
+    }
+   ]
+  },
+  {
+   "headword": "chào",
+   "base": "5d378ed56143dd5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive",
+      "usually"
+     ],
+     "gloss": "to greet, salute, say hello or goodbye to"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "alas; ah"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chào từ biệt",
+     "en": "to bid farewell"
+    },
+    {
+     "sense": 1,
+     "vi": "chào khách",
+     "en": "to solicit a customer"
+    },
+    {
+     "sense": 1,
+     "vi": "Gặp bạn cứ lờ đi không chào.",
+     "en": "She pretended she didn't know me."
+    },
+    {
+     "sense": 1,
+     "vi": "Chào bác đi con.",
+     "en": "Say hi to your auntie."
+    },
+    {
+     "sense": 1,
+     "vi": "(Cháu) chào chú (ạ).",
+     "en": "Hello."
+    },
+    {
+     "sense": 1,
+     "vi": "Chào mọi người!",
+     "en": "Hello/Bye everybody!"
+    },
+    {
+     "sense": 1,
+     "vi": "Xin (kính) chào quý vị và các bạn.",
+     "en": "Greetings."
+    },
+    {
+     "sense": 1,
+     "vi": "Xin (kính) chào và hẹn gặp lại.",
+     "en": "We hope to see you again. Goodbye."
+    },
+    {
+     "sense": 1,
+     "vi": "Chào anh! Chào chị! (Chào cô, chào chú, chào bác!) Tại sao không? Thỉnh thoảng người Việt đánh giá hơi thấp về khả năng tiếp cận văn hóa của khách Tây – đến giờ vẫn có người ngạc nhiên khi thấy tôi dùng đũa. Sự thật là du khách Tây ở bên này nhanh hiểu không khác gì du khách “ta” ở bên kia.",
+     "en": "Chào anh (hi there, brother)! Chào chị (hi there, sister)! (Chào cô (hi there, younger auntie), chào chú (hi there, younger uncle), chào bác (hi there, older auntie/uncle)!) Why not? I think Vietnamese folks often understimate westerners' grasp of another culture. Case in point, there are still people surprised by my chopsticks prowess. The truth is, western folks here in Vietnam are just as receptive as Vietnamese folks in other countries."
+    },
+    {
+     "sense": 2,
+     "vi": "Chào! Ăn thua gì!",
+     "en": "Ah! It didn't work!"
+    }
+   ]
+  },
+  {
+   "headword": "hả",
+   "base": "83c9137e3514c4ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "interrogative particle: isn't it; aren't you ..."
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "what; come again"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having one's wishes fulfilled; contented; very satisfied"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose flavour, scent, etc. from evaporation; to taste flat"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to open (one's mouth)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hết",
+   "base": "7714c610d3d309e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to finish, to end, to expire, to come to an end"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "all"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "final particle used in negative sentences indicating a greater degree, quantity or frequency"
+    },
+    {
+     "position": 4,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "over"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Làm hết bài tập chưa?",
+     "en": "Have you done all the homework?"
+    },
+    {
+     "sense": 3,
+     "vi": "Em không cần ai hết. Em chỉ cần anh thôi!",
+     "en": "I don't need anyone at all. I only need you!"
+    }
+   ]
+  },
+  {
+   "headword": "khỏi",
+   "base": "7a3e6ceb1fcbad45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "not to have to do something"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to recover from, or be cured of (sickness)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to avoid; to shun; to escape; to evade; to keep away from; to refrain from; to save (from)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to leave (from); to separate (from); to cut off (from)"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "away from; out of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gọi",
+   "base": "7168a13e15fcb724",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call or hail"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call, name or dub"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gọi điện (thoại)",
+     "en": "to make a phone call"
+    },
+    {
+     "sense": 1,
+     "vi": "gọi xe tắc xi",
+     "en": "to call/hail a cab"
+    },
+    {
+     "sense": 1,
+     "vi": "gọi món",
+     "en": "to hail a waiting person and place a food order"
+    },
+    {
+     "sense": 2,
+     "vi": "cái gọi là",
+     "en": "the so-called"
+    }
+   ]
+  },
+  {
+   "headword": "nhất",
+   "base": "1b418c0d6a90bd9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "first"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "the most in..."
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at the top of one's priority"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in the first position"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "you are / he/she is so darn lucky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giải nhất",
+     "en": "first prize"
+    },
+    {
+     "sense": 2,
+     "vi": "Mẹ thương con nhất nhà.",
+     "en": "Mom loves you most."
+    },
+    {
+     "sense": 2,
+     "vi": "Nó học giỏi nhất lớp.",
+     "en": "She's the best student in the class."
+    },
+    {
+     "sense": 2,
+     "vi": "đẹp nhất thế giới",
+     "en": "the most beautiful in the world"
+    },
+    {
+     "sense": 2,
+     "vi": "Người ta buồn nhất, cô đơn nhất là khi ngủ dậy.",
+     "en": "One is saddest and loneliest when waking up."
+    },
+    {
+     "sense": 3,
+     "vi": "Nhất nước, nhì phân, tam cần, tứ giống.",
+     "en": "First comes water, second comes manure, third comes hard work, and fourth come cultivars."
+    },
+    {
+     "sense": 4,
+     "vi": "về (thứ) nhất",
+     "en": "to finish first"
+    },
+    {
+     "sense": 5,
+     "vi": "Vợ đẹp con ngoan. Nhất chú đấy nhá!",
+     "en": "Beautiful wife, well-behaved children. You're a winner!"
+    }
+   ]
+  },
+  {
+   "headword": "giúp",
+   "base": "970276be1fd29355",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to help; to aid"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do instead of, to do for"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Anh pha cà phê giúp em nha.",
+     "en": "Could you make coffee for me?"
+    }
+   ]
+  },
+  {
+   "headword": "năm",
+   "base": "cdcad69eb11ed930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "five"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "year"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kế hoạch năm năm",
+     "en": "a five-year plan"
+    },
+    {
+     "sense": 2,
+     "vi": "kế hoạch năm năm",
+     "en": "a five-year plan"
+    },
+    {
+     "sense": 2,
+     "vi": "năm nhất",
+     "en": "the first year in college"
+    },
+    {
+     "sense": 2,
+     "vi": "nhân viên của năm",
+     "en": "employee of the year"
+    }
+   ]
+  },
+  {
+   "headword": "sống",
+   "base": "afe026172a763891",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "spine"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to live"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "living"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "alive"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "live"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "raw"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "undercooked"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thấy lạnh sống lưng",
+     "en": "to feel the chills down one's spine"
+    },
+    {
+     "sense": 1,
+     "vi": "sống núi ngầm",
+     "en": "underwater mountain ridge"
+    },
+    {
+     "sense": 1,
+     "vi": "sống dao",
+     "en": "the back of a knife"
+    },
+    {
+     "sense": 2,
+     "vi": "sự sống",
+     "en": "life"
+    },
+    {
+     "sense": 3,
+     "vi": "người sống",
+     "en": "the living"
+    },
+    {
+     "sense": 4,
+     "vi": "Hắn còn sống.",
+     "en": "He's still alive."
+    },
+    {
+     "sense": 5,
+     "vi": "ăn tươi nuốt sống",
+     "en": "to eat something (a)live; (figurative) to enslave or exploit inhumanely"
+    },
+    {
+     "sense": 6,
+     "vi": "rau sống",
+     "en": "raw vegetables"
+    },
+    {
+     "sense": 7,
+     "vi": "cơm sống",
+     "en": "undercooked rice"
+    }
+   ]
+  },
+  {
+   "headword": "thích",
+   "base": "322d74cf76e6f935",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to like"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maple"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mày người châu Á mà không thích cơm à!?",
+     "en": "You don't like rice and you call yourself an Asian!?"
+    },
+    {
+     "sense": 1,
+     "vi": "Tao không làm không phải vì tao không làm được. Tao không làm vì tao không thích làm.",
+     "en": "I didn't do it not because I couldn't. I didn't do it because I didn't feel like doing it."
+    },
+    {
+     "sense": 1,
+     "vi": "Mình thích hát lắm !",
+     "en": "I love singing!"
+    },
+    {
+     "sense": 1,
+     "vi": "Ê, bồ thích nhỏ đó hả?",
+     "en": "Hold on, you like that girl, don't you?"
+    }
+   ]
+  },
+  {
+   "headword": "mất",
+   "base": "8e3e911b2c35558c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose something"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "euphemistic"
+     ],
+     "gloss": "to pass away"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take (time)"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "used to indicate the absence of something after the action expressed in the verb"
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "placed after an adjective or a verb to indicate something considered unfavourable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Chuyến đi phải mất một ngày.",
+     "en": "The trip takes one day."
+    },
+    {
+     "sense": 4,
+     "vi": "Bầy ong hoảng hốt nối nhau bay mất không còn một con.",
+     "en": "The swarming bees in their panic all together flew away until not one was left."
+    },
+    {
+     "sense": 5,
+     "vi": "Dầm mưa miết vầy thì cảm mất.",
+     "en": "You will end up with a cold if you keep going out in the rain unprotected like this."
+    },
+    {
+     "sense": 5,
+     "vi": "Chết mất thôi.",
+     "en": "God, I'm so screwed."
+    }
+   ]
+  },
+  {
+   "headword": "nhé",
+   "base": "91500a8320d3e051",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "alright?; okay?; will you?"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiện thể mua dùm tớ hộp sữa nhé !",
+     "en": "While you're at it, buy some milk for me, okay?"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhớ nhé ! Đừng có quên đó !",
+     "en": "Commit it to your memory! Don't you forget it!"
+    }
+   ]
+  },
+  {
+   "headword": "chắc",
+   "base": "22711d3cfda9570d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "firm; secure; steady: Able to withstand mechanical force while remaining intact or firmly attached to another object without coming apart."
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "firm; secure; steady: Having full development, forming a solid mass attached to another object without separating."
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sure; certain; positive"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "firmly; securely"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "surely; certainly; for sure"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "probably; maybe"
+    },
+    {
+     "position": 7,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Marks a rhetorical question, often with an indignant or surprised tone"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assume"
+    },
+    {
+     "position": 9,
+     "pos": "adv",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "each other, one another"
+    },
+    {
+     "position": 10,
+     "pos": "adv",
+     "tags": [
+      "Central",
+      "colloquial"
+     ],
+     "gloss": "only"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Chắc hông?",
+     "en": "Are you sure?"
+    },
+    {
+     "sense": 3,
+     "vi": "Chắc mà!",
+     "en": "I'm certain!"
+    },
+    {
+     "sense": 4,
+     "vi": "nắm chắc",
+     "en": "to have a firm grip"
+    },
+    {
+     "sense": 5,
+     "vi": "biết chắc",
+     "en": "to know for sure"
+    },
+    {
+     "sense": 6,
+     "vi": "Chắc nó không đến đâu.",
+     "en": "I don't think he's coming."
+    },
+    {
+     "sense": 6,
+     "vi": "Chắc chẳng có ai ở nhà.",
+     "en": "Maybe nobody's home."
+    },
+    {
+     "sense": 7,
+     "vi": "Nó tưởng nó ngon lắm chắc?",
+     "en": "He really thinks he's all that, huh?"
+    },
+    {
+     "sense": 7,
+     "vi": "Tưởng có tiền thì muốn làm gì thì làm chắc?",
+     "en": "They think they can get away with anything just because they have money?"
+    },
+    {
+     "sense": 9,
+     "vi": "Tụi bay cứ đánh chắc đập chắc hoài!",
+     "en": "Y'all fight all the time!"
+    },
+    {
+     "sense": 10,
+     "vi": "Chắc hấn đi học à?",
+     "en": "Only them went to school?"
+    }
+   ]
+  },
+  {
+   "headword": "xin",
+   "base": "ba5d3efd1f5edaaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ask for; to beg for; to request"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "honorific",
+      "humble"
+     ],
+     "gloss": "to humbly ask to do something"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xin tiền",
+     "en": "to ask for an allowance; to beg for money; to request a budget"
+    },
+    {
+     "sense": 1,
+     "vi": "(honorific) Xin anh vui lòng cởi giày trước khi vào nhà ạ.",
+     "en": "Please take off your shoes before coming in."
+    },
+    {
+     "sense": 2,
+     "vi": "Xin chân thành cảm ơn mọi người đã tụ họp đông đủ tại đây.",
+     "en": "I'd like to thank everyone for attending this meeting, with no one being absent."
+    }
+   ]
+  },
+  {
+   "headword": "cứ",
+   "base": "6b58139f98d4600e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to pursue"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "no matter what"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "still"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "coinciding with every ...; every; each"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "base of the resistance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cứ theo quy định để xử phạt hành chính",
+     "en": "to bear a fine from officials in the light of regulations."
+    },
+    {
+     "sense": 5,
+     "vi": "Bỏ mẹ! Mỹ phục! Phục gần \"cứ\" quá!",
+     "en": "Damn! An American ambush! An ambush that close to base!"
+    }
+   ]
+  },
+  {
+   "headword": "xuống",
+   "base": "2769c77e72a23bdc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go downwards; to descend"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get off (a vehicle)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go to (a less developed area, especially a huyện)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be in decline"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "downwards"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "xuống xe",
+     "en": "to get off a wheeled vehicle"
+    },
+    {
+     "sense": 2,
+     "vi": "xuống tàu",
+     "en": "to get off a train/ship"
+    },
+    {
+     "sense": 4,
+     "vi": "Hàng xóm này xuống quá.",
+     "en": "This neighborhood sure is getting worse."
+    },
+    {
+     "sense": 5,
+     "vi": "ngồi xuống",
+     "en": "to sit down"
+    },
+    {
+     "sense": 5,
+     "vi": "nằm xuống",
+     "en": "to lie down"
+    }
+   ]
+  },
+  {
+   "headword": "nhau",
+   "base": "2a25ab2d03bc37f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "each other, mutually, reciprocally, one another"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "together"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "placenta, afterbirth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "yêu nhau",
+     "en": "to love each other"
+    },
+    {
+     "sense": 1,
+     "vi": "cùng nhau",
+     "en": "with each other; together"
+    }
+   ]
+  },
+  {
+   "headword": "tại sao",
+   "base": "6470a90cf6fe08c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "why"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tại sao mày làm vậy?",
+     "en": "Why did you do that?"
+    }
+   ]
+  },
+  {
+   "headword": "vâng",
+   "base": "26e6435f1f184e90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to obey (other's words, commands); to listen to; to comply with"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "Northern",
+      "polite"
+     ],
+     "gloss": "yes"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vâng lệnh",
+     "en": "to obey a command"
+    }
+   ]
+  },
+  {
+   "headword": "từng",
+   "base": "9691d5604f29369c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "once (formerly; during some period in the past)"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "every; each"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "one by one; one at a time; going through each one individually"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quantity; amount"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chúng tôi không thể xem xét từng trường hợp cụ thể.",
+     "en": "We cannot consider each individual case."
+    },
+    {
+     "sense": 3,
+     "vi": "đọc từng chữ một",
+     "en": "to read word for word"
+    },
+    {
+     "sense": 3,
+     "vi": "Ở ngã tư có đèn đỏ nhấp nháy, xe phải ngừng và được chạy từng chiếc một theo ưu tiên.",
+     "en": "At an intersection with flashing red lights, vehicles must stop and proceed one by one according to (arrival) priority."
+    }
+   ]
+  },
+  {
+   "headword": "bao giờ",
+   "base": "1ccff536341bdf88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "when, how long until"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "ever, at some unspecified time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bao giờ bạn về?",
+     "en": "When will you come home?"
+    },
+    {
+     "sense": 2,
+     "vi": "không bao giờ",
+     "en": "never"
+    },
+    {
+     "sense": 2,
+     "vi": "chẳng bao giờ",
+     "en": "never"
+    },
+    {
+     "sense": 2,
+     "vi": "chả bao giờ",
+     "en": "never"
+    },
+    {
+     "sense": 2,
+     "vi": "Tên riêng bao giờ cũng cần viết hoa.",
+     "en": "Proper names must always be upper case."
+    },
+    {
+     "sense": 2,
+     "vi": "Có bao giờ bạn đi Hoa Kỳ chưa?",
+     "en": "Have you ever been to the US?"
+    }
+   ]
+  },
+  {
+   "headword": "mấy",
+   "base": "b7979d464a9b345f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "some, an indefinite quantity greater than one"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "how much, how many"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mấy anh ơi, cứu tụi em !",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "Mấy giờ rồi?",
+     "en": "What time is it now?"
+    }
+   ]
+  },
+  {
+   "headword": "thằng",
+   "base": "3eed2bc8b457f9ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [
+      "informal",
+      "offensive"
+     ],
+     "gloss": "indicates male people"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "character, personality (not referring to a person, but pretending to)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hai thằng, một con",
+     "en": "two guys, one girl"
+    },
+    {
+     "sense": 1,
+     "vi": "Lần đầu tiên tôi theo tía nuôi và thằng Cò đi ăn ong đây.",
+     "en": "It was the first time I went to eat honey with my adoptive father and Cò."
+    },
+    {
+     "sense": 2,
+     "vi": "Cái thằng này là bình phương của cái thằng này",
+     "en": "This guy is the square of this guy"
+    }
+   ]
+  },
+  {
+   "headword": "cùng",
+   "base": "b2bcebbd8b16ca4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the end, limit"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "destitute; impecunious"
+    },
+    {
+     "position": 3,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "with"
+    },
+    {
+     "position": 4,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "and"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "same; together"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cố gắng đến cùng",
+     "en": "to try one's best until the end"
+    },
+    {
+     "sense": 1,
+     "vi": "Thanh tác vụ nằm ở dưới cùng màn hình.",
+     "en": "The task bar is at the bottom of the screen."
+    }
+   ]
+  },
+  {
+   "headword": "thưa",
+   "base": "f0631211a7a33670",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sparse"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell somebody something in a respectful way"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoài",
+   "base": "5ad0df0f495d724a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "outside (of an interior or enclosed space)"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "out (through an opening)"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in/at (an outdoor or external location)"
+    },
+    {
+     "position": 4,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in (a place in northern Vietnam)"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "outside (of); except (for); other than"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "outside; external"
+    },
+    {
+     "position": 7,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "out; outside"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngoài nhà/phòng",
+     "en": "outside the house/room"
+    },
+    {
+     "sense": 1,
+     "vi": "ngoài vòng tròn",
+     "en": "outside the circle"
+    },
+    {
+     "sense": 2,
+     "vi": "ngoài cửa (sổ)",
+     "en": "out the door/window"
+    },
+    {
+     "sense": 3,
+     "vi": "ngoài sân",
+     "en": "outside in the yard"
+    },
+    {
+     "sense": 3,
+     "vi": "ngoài bãi biển",
+     "en": "at the beach"
+    },
+    {
+     "sense": 3,
+     "vi": "bệnh ngoài da",
+     "en": "external (medical) conditions, as opposed to internal conditions"
+    },
+    {
+     "sense": 4,
+     "vi": "ngoài bắc",
+     "en": "someplace in northern Vietnam; \"the north\""
+    },
+    {
+     "sense": 4,
+     "vi": "ngoài Hà Nội",
+     "en": "in Hanoi, which is to the north of where we are"
+    },
+    {
+     "sense": 5,
+     "vi": "Ngoài tôi ra thì không ai biết làm cả.",
+     "en": "I'm the only one who can do it."
+    },
+    {
+     "sense": 6,
+     "vi": "bên ngoài",
+     "en": "the outside"
+    },
+    {
+     "sense": 6,
+     "vi": "người ngoài",
+     "en": "an outsider"
+    },
+    {
+     "sense": 7,
+     "vi": "ăn ngoài",
+     "en": "to eat out"
+    }
+   ]
+  },
+  {
+   "headword": "bây giờ",
+   "base": "11eea6cdaca612e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "now"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Indicates an imminent possibility"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mang dép vô, đạp miểng chai bây giờ.",
+     "en": "Get your sandals, or else you might just step on glass shards."
+    }
+   ]
+  },
+  {
+   "headword": "chỗ",
+   "base": "7fed8976bf789ec7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a seat"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a space; area; room"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a place; spot; site; location"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ",
+   "base": "d55577a940772bb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put; to place"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring out to use for something"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drop; to toss"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take off; to remove"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave; to abandon"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to quit (like a bad habit)"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a godfather"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bỏ chai nước lên bàn",
+     "en": "to put a bottle of water on the table"
+    },
+    {
+     "sense": 2,
+     "vi": "bỏ tiền ra mua đồ chơi",
+     "en": "to spend money on buying toys"
+    },
+    {
+     "sense": 4,
+     "vi": "Vậy nhóm quyết định bỏ tiết mục này phải hông?",
+     "en": "So we've decided to scrap this performance, correct?"
+    },
+    {
+     "sense": 5,
+     "vi": "Thằng anh bỏ đi học rồi mà thằng em vẫn chưa thức.",
+     "en": "The older brother already left for school but the younger brother is still asleep."
+    },
+    {
+     "sense": 6,
+     "vi": "bỏ hút thuốc",
+     "en": "to quit smoking"
+    },
+    {
+     "sense": 7,
+     "vi": "bỏ đỡ đầu",
+     "en": "male godparent"
+    }
+   ]
+  },
+  {
+   "headword": "nơi",
+   "base": "651972d0a5e12447",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "place"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "Used to refer to (without explicitly stating) a romantic partner whom someone wants to marry."
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "where"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ở nơi công cộng",
+     "en": "in public spaces"
+    },
+    {
+     "sense": 1,
+     "vi": "nơi ở",
+     "en": "residence"
+    },
+    {
+     "sense": 3,
+     "vi": "Đó là nơi tôi lớn lên.",
+     "en": "That's where I grew up."
+    }
+   ]
+  }
+ ]
+}

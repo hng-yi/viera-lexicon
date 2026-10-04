@@ -1,0 +1,1716 @@
+{
+ "batch": "0010",
+ "entries": [
+  {
+   "headword": "chơi",
+   "base": "07f001bd8390220d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to play (an instrument, a sport, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to have fun; to hang out; to spend time idly"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to be friends (with someone)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to deceive, to prank"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chơi ghi-ta",
+     "en": "to play the guitar"
+    },
+    {
+     "sense": 1,
+     "vi": "chơi đá bóng",
+     "en": "to play soccer"
+    },
+    {
+     "sense": 2,
+     "vi": "Nó qua nhà bạn chơi cả ngày.",
+     "en": "He was hanging out at his friend's home all day."
+    },
+    {
+     "sense": 3,
+     "vi": "Tao chơi với nó được hơn hai năm rồi.",
+     "en": "(informal) I've been friends with him/her for over 2 years."
+    },
+    {
+     "sense": 4,
+     "vi": "Tao bị nó chơi một vố đau quá.",
+     "en": "(informal) I got played hard by him/her."
+    }
+   ]
+  },
+  {
+   "headword": "trai",
+   "base": "f4eff7131b242ff9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "boys and men"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "gigolos; male prostitutes"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "masculine"
+     ],
+     "gloss": "male"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mussel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "con trai",
+     "en": "boys"
+    },
+    {
+     "sense": 2,
+     "vi": "làm trai",
+     "en": "to be a gigolo"
+    },
+    {
+     "sense": 3,
+     "vi": "anh trai",
+     "en": "an older brother"
+    },
+    {
+     "sense": 3,
+     "vi": "em trai",
+     "en": "a younger brother"
+    },
+    {
+     "sense": 3,
+     "vi": "con trai",
+     "en": "a son / boys"
+    },
+    {
+     "sense": 3,
+     "vi": "cháu trai",
+     "en": "a grandson / a nephew"
+    },
+    {
+     "sense": 3,
+     "vi": "bác trai",
+     "en": "a man who's presumably slightly older than one's parent"
+    },
+    {
+     "sense": 3,
+     "vi": "bạn trai",
+     "en": "a young male friend / a young boy or man / a boyfriend"
+    }
+   ]
+  },
+  {
+   "headword": "tự",
+   "base": "a99858c287a8d00d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a Chinese character"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a courtesy name"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "since, from"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "by oneself; on one's own"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "tự khi nào",
+     "en": "since when"
+    },
+    {
+     "sense": 4,
+     "vi": "Để tao tự làm.",
+     "en": "Let me do it myself."
+    }
+   ]
+  },
+  {
+   "headword": "ngủ",
+   "base": "1abb45f5a1a6a28d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to sleep"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sleep"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đi ngủ",
+     "en": "to go to bed/sleep"
+    },
+    {
+     "sense": 1,
+     "vi": "ngủ gật/gục",
+     "en": "to doze"
+    },
+    {
+     "sense": 1,
+     "vi": "ngủ trưa",
+     "en": "to nap at noon"
+    },
+    {
+     "sense": 1,
+     "vi": "ngủ nướng",
+     "en": "to sleep in"
+    },
+    {
+     "sense": 1,
+     "vi": "ngủ với",
+     "en": "to sleep with"
+    }
+   ]
+  },
+  {
+   "headword": "đồ",
+   "base": "911c447bd1bf11d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "unspecified stuff or things"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "the thing that is used for...; the whatsit that is used for...; -er"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "belongings"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "clothes"
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [
+      "Southern",
+      "informal"
+     ],
+     "gloss": "or whatever, or something"
+    },
+    {
+     "position": 6,
+     "pos": "particle",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "A contemptible person. Used with nouns or adjectives to form insults."
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to steam (glutinous rice)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "do, C (note)"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trace (a drawing or painting)"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to duplicate (a drawing or painting)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cái/đồ đánh trứng",
+     "en": "a whisk"
+    },
+    {
+     "sense": 4,
+     "vi": "đồ tây",
+     "en": "Western clothings"
+    },
+    {
+     "sense": 5,
+     "vi": "Lớn già đầu rồi! Ra ngoài tập thể dục đồ đi!",
+     "en": "You're a grown-up now! Go outside and do exercise or something!"
+    },
+    {
+     "sense": 6,
+     "vi": "Đồ chó đẻ!",
+     "en": "You bitch! / You bastard!"
+    },
+    {
+     "sense": 6,
+     "vi": "Đồ vũ phu!",
+     "en": "You brute!"
+    },
+    {
+     "sense": 6,
+     "vi": "Đồ độc ác!",
+     "en": "You cruel evil one!"
+    },
+    {
+     "sense": 6,
+     "vi": "Đồ ngu!",
+     "en": "You idiot!"
+    },
+    {
+     "sense": 7,
+     "vi": "đồ xôi",
+     "en": "to steam glutinous rice"
+    }
+   ]
+  },
+  {
+   "headword": "lớn",
+   "base": "1d633802c8f00cb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "big; large"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grown-up; adult"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "great; grand"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loud"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grow; to become big"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Bẩm, chồng tôi buôn bán lớn, việc lời lổ tôi hiểu sao được. Lại bên Tàu có thơ qua thơ lại hoài, tôi không biết chữ Tàu, tôi có hiểu đâu.",
+     "en": "- Dear Sir, my husband has a big business, I can't keep track of how it was doing. And he kept his correspondence with his partners in China; I don't know Chinese characters so I can't read anything."
+    },
+    {
+     "sense": 3,
+     "vi": "chí lớn",
+     "en": "grand ambitions"
+    },
+    {
+     "sense": 3,
+     "vi": "2 lớn hơn 1",
+     "en": "2's greater than 1"
+    }
+   ]
+  },
+  {
+   "headword": "gần",
+   "base": "df86efa27738bc9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "near; nearby; close (to)"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "nearly; almost"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cuộc",
+   "base": "c314ba83b8e53484",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "a continuous and long enough event that involves several people"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "specifically"
+     ],
+     "gloss": "competition, competitive event"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuộc họp",
+     "en": "a meeting"
+    },
+    {
+     "sense": 1,
+     "vi": "cuộc gọi",
+     "en": "a telephone call"
+    },
+    {
+     "sense": 1,
+     "vi": "cuộc đua",
+     "en": "a race"
+    },
+    {
+     "sense": 1,
+     "vi": "cuộc hẹn",
+     "en": "an appointment"
+    },
+    {
+     "sense": 1,
+     "vi": "cuộc nhậu",
+     "en": "a drinking party; a carousal"
+    },
+    {
+     "sense": 1,
+     "vi": "cuộc thi",
+     "en": "a contest; a competition"
+    },
+    {
+     "sense": 1,
+     "vi": "cuộc vui",
+     "en": "a period of fun"
+    },
+    {
+     "sense": 2,
+     "vi": "thua cuộc",
+     "en": "to lose a match"
+    },
+    {
+     "sense": 2,
+     "vi": "xe đạp cuộc",
+     "en": "racing bicyle"
+    }
+   ]
+  },
+  {
+   "headword": "cố",
+   "base": "56b2a386cc9f8f14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "great-grandparent"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to reason"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "bureaucratese",
+      "morpheme"
+     ],
+     "gloss": "the late"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "intentional; premeditated"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to try; to endeavor"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "firm; strong"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to seal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cố Tổng Bí thư Trường Chinh",
+     "en": "the late General Secretary Trường Chinh"
+    }
+   ]
+  },
+  {
+   "headword": "vấn đề",
+   "base": "4af657d5aab066d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "problem"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "issue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếng",
+   "base": "e756406438858d02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "voice"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sound"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "language"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reputation or renown"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "syllable"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "dialect"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "accent"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "hour"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tắt tiếng",
+     "en": "to lose one's voice"
+    },
+    {
+     "sense": 2,
+     "vi": "tiếng súng",
+     "en": "(sound of a) gunshot"
+    },
+    {
+     "sense": 2,
+     "vi": "tiếng sủa",
+     "en": "bark (of a dog)"
+    },
+    {
+     "sense": 3,
+     "vi": "nói ba thứ tiếng",
+     "en": "to speak three languages"
+    },
+    {
+     "sense": 4,
+     "vi": "nổi tiếng",
+     "en": "famous"
+    },
+    {
+     "sense": 4,
+     "vi": "khét tiếng",
+     "en": "infamous; notorious"
+    },
+    {
+     "sense": 4,
+     "vi": "danh tiếng / tiếng tăm",
+     "en": "reputation"
+    },
+    {
+     "sense": 4,
+     "vi": "tiếng thơm",
+     "en": "fame for being a paragon"
+    },
+    {
+     "sense": 4,
+     "vi": "Tiếng thơm còn mãi cho muôn đời sau.",
+     "en": "They will forever be known by later generations as the paragon of virtue."
+    },
+    {
+     "sense": 7,
+     "vi": "Thằng cha đó nói tiếng Quảng Ngãi tao không nghe được.",
+     "en": "He speaks the Quãng Ngãi accent and I can't make sense of it."
+    },
+    {
+     "sense": 8,
+     "vi": "Nó ngồi đọc truyện suốt năm tiếng.",
+     "en": "He's been sitting there reading manga for five hours."
+    }
+   ]
+  },
+  {
+   "headword": "đứng",
+   "base": "baa515c7590ae7e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stand"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to stand up for"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to halt"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "motionless; immobile; still"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đứng ra làm chứng",
+     "en": "to support as a witness"
+    },
+    {
+     "sense": 3,
+     "vi": "đứng lại cho tôi, hai tên kia!",
+     "en": "freeze, you two!"
+    },
+    {
+     "sense": 4,
+     "vi": "nước đứng",
+     "en": "still water"
+    }
+   ]
+  },
+  {
+   "headword": "cứu",
+   "base": "f2a178e618e86439",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to save, to rescue, to relieve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ạ",
+   "base": "5d14a0fe59300859",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "polite",
+      "usually"
+     ],
+     "gloss": "Used at the end of the sentence to express formality or politeness, usually to older people"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to use the particle ạ when speaking to someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chào cụ ạ!",
+     "en": "Hi! (to an elderly person)"
+    },
+    {
+     "sense": 2,
+     "vi": "Con hư quá! Phải ạ chú đi chứ!",
+     "en": "That's not polite of you! Don't forget to use ạ!"
+    }
+   ]
+  },
+  {
+   "headword": "vui",
+   "base": "58c26850e9ac0249",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "merry; joyful; gay"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "niềm vui",
+     "en": "joy"
+    },
+    {
+     "sense": 1,
+     "vi": "- Sài Gòn vui quá má hả! Phải ba còn, ba đem mình về trong nầy ở thì vui biết chừng nào.",
+     "en": "\"Saigon really is lively, don't you think so, mom? If dad was still alive, just think about all the fun we could have had if he took us here.\""
+    }
+   ]
+  },
+  {
+   "headword": "nay",
+   "base": "69c842ae6a394dcc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "that is today, or happening today"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "usually"
+     ],
+     "gloss": "now, the present, as opposed to xưa (“long ago; the past”) and mai (“later in the future”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sáng/trưa/chiều/tối/đêm nay",
+     "en": "this morning/forenoon/afternoon/evening/night"
+    },
+    {
+     "sense": 1,
+     "vi": "bữa/hôm nay",
+     "en": "today"
+    },
+    {
+     "sense": 1,
+     "vi": "Sáng nay ăn sáng chưa?",
+     "en": "Have you had breakfast this morning?"
+    },
+    {
+     "sense": 2,
+     "vi": "Nay không lo làm thì mai không có ăn đâu.",
+     "en": "If you don't work today, you won't be able to afford to eat tomorrow."
+    },
+    {
+     "sense": 2,
+     "vi": "Xưa cả làng sợ họ nhà nó lắm. Nay chẳng ai sợ cái cóc khô gì cả.",
+     "en": "The whole village used to fear their family. These days, though, nobody fears a damn thing."
+    }
+   ]
+  },
+  {
+   "headword": "thế giới",
+   "base": "a1216f7ff3654c07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "world"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trên thế giới",
+     "en": "in the world"
+    },
+    {
+     "sense": 1,
+     "vi": "tin (tức) thế giới",
+     "en": "world news"
+    },
+    {
+     "sense": 1,
+     "vi": "Hoa hậu Thế giới",
+     "en": "Miss World"
+    },
+    {
+     "sense": 1,
+     "vi": "thế giới động vật",
+     "en": "the animal world/kingdom"
+    },
+    {
+     "sense": 1,
+     "vi": "thế giới bên kia",
+     "en": "the otherworld"
+    },
+    {
+     "sense": 1,
+     "vi": "Thế Giới Đồng Hồ",
+     "en": "The Timekeeping World"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhiều người khi đọc đến đây sẽ đặt câu hỏi rằng, đây có phải là mô hình của một thế giới lý tưởng hay chỉ là một thế giới ảo?",
+     "en": "Readers at this point may ask, “Is this the model for an ideal world, or simply an imaginary world?”"
+    }
+   ]
+  },
+  {
+   "headword": "cảnh sát",
+   "base": "425ca044192d3c08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the police"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "police"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "a police officer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cảnh sát phòng cháy / chữa cháy",
+     "en": "the firefighting \"police\"; fireperson; firefighter"
+    },
+    {
+     "sense": 2,
+     "vi": "đồn cảnh sát",
+     "en": "police station"
+    },
+    {
+     "sense": 2,
+     "vi": "xe cảnh sát",
+     "en": "police car"
+    },
+    {
+     "sense": 3,
+     "vi": "cảnh sát trưởng",
+     "en": "an American sheriff"
+    }
+   ]
+  },
+  {
+   "headword": "ngồi",
+   "base": "9967a2b12b826255",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sit"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to be somewhere for a long period of time"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to hold (a position)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngồi không",
+     "en": "to sit around idly"
+    },
+    {
+     "sense": 2,
+     "vi": "ngồi nhà đá",
+     "en": "to be in prison"
+    },
+    {
+     "sense": 3,
+     "vi": "ngồi ghế thủ tướng",
+     "en": "to hold the seat of prime minister"
+    }
+   ]
+  },
+  {
+   "headword": "sợ",
+   "base": "a3fae5163ceafb3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fear; to be afraid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chó hiền lắm, đừng sợ.",
+     "en": "Don't worry, the dog is friendly."
+    }
+   ]
+  },
+  {
+   "headword": "tối",
+   "base": "f2b23b087d456beb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dark (lack of light)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dark"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the duration from the late evening (around 6 PM) to the early night (around 8 PM)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "7 giờ tối là về tới nhà.",
+     "en": "I will get back home at 7 pm."
+    }
+   ]
+  },
+  {
+   "headword": "dừng",
+   "base": "abb4a5951bf38223",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a material made from bamboo, used to build walls"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "to build walls using phên, cót, etc."
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stop; to halt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "dừng lại rồi sẽ thấy",
+     "en": "ease and you'll see"
+    }
+   ]
+  },
+  {
+   "headword": "đánh",
+   "base": "7fc19feb03ee3beb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strike, usually with one's palms or a weapon; to strike, to smack, to whack, to bash, to hit, to beat, to assault, etc.; compare gõ (“to hit with the side of the fist, with the knuckles, or with the fingertips”), đấm (“to punch”) and đá (“to kick”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play a game that involves striking or slamming with one's hands or something you hold; compare đá (“to kick; to play a sport that involves kicking”)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play (a non-wind instrument); compare thổi (“to play/blow (a wind instrument)”)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to type on a typewriter or computer keyboard"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rub continuously on the surface of something until it's clean or shiny"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fish with a net or a trap; compare câu (“to fish with a rod”)"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mold a metal object into a specific shape"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mix some combination of food up"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to transplant a piece of plant cutting"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight with weapons"
+    },
+    {
+     "position": 11,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be erroneously deranked"
+    },
+    {
+     "position": 12,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conduct a move that's usually on purpose"
+    },
+    {
+     "position": 13,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to enjoy oneself some eating and/or resting"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đánh đòn",
+     "en": "to give (one's child) a beating"
+    },
+    {
+     "sense": 1,
+     "vi": "đánh trống thổi kèn",
+     "en": "(of a parade) to beat drums and blow trumpets"
+    },
+    {
+     "sense": 2,
+     "vi": "đánh cầu lông/bóng chuyền/bóng chày",
+     "en": "to play badminton/volleyball/baseball"
+    },
+    {
+     "sense": 2,
+     "vi": "đánh/chơi cờ/bài",
+     "en": "to play a board game/cards"
+    },
+    {
+     "sense": 2,
+     "vi": "đánh bạc",
+     "en": "to gamble"
+    },
+    {
+     "sense": 4,
+     "vi": "đánh văn bản",
+     "en": "to type some text"
+    },
+    {
+     "sense": 5,
+     "vi": "đánh răng",
+     "en": "to brush one's teeth"
+    },
+    {
+     "sense": 5,
+     "vi": "đánh bóng",
+     "en": "to rub until something becomes shiny; to polish up (reputation)"
+    },
+    {
+     "sense": 5,
+     "vi": "đánh giày",
+     "en": "to polish shoes"
+    },
+    {
+     "sense": 6,
+     "vi": "đánh (bắt) cá/thuỷ sản/hải sản",
+     "en": "to fish fish/seafood"
+    },
+    {
+     "sense": 9,
+     "vi": "Cây này mà đánh sang chỗ tôi thì đẹp phải biết.",
+     "en": "If only I could get a cut of this tree for myself, it would be simply fabulous!"
+    },
+    {
+     "sense": 10,
+     "vi": "đánh giặc ngoại xâm",
+     "en": "to do away with foreign invaders."
+    },
+    {
+     "sense": 11,
+     "vi": "Chẳng biết sao mình lại bị đánh xuống giải ba nữa.",
+     "en": "I have no clue why my rank has somehow moved third."
+    },
+    {
+     "sense": 12,
+     "vi": "dùng mưu để đánh lạc hướng địch",
+     "en": "to take one's enemy for a ride by clever tricks."
+    },
+    {
+     "sense": 13,
+     "vi": "Làm xong đánh 2 bát cơm rồi đánh 1 giấc.",
+     "en": "After I'm done, I'm gonna demolish 2 rice bowls and then hit the hay for a power nap."
+    }
+   ]
+  },
+  {
+   "headword": "chút",
+   "base": "8019427e9af7ebec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "great-great-grandchild"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a very small, tiny portion or amount"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a moment, an instant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "chờ chút",
+     "en": "gimme a second"
+    }
+   ]
+  },
+  {
+   "headword": "nhỉ",
+   "base": "c489f6495d3f790e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Used to create a tag question."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chắc hay lắm nhỉ?",
+     "en": "Must have been good, wasn't it?"
+    },
+    {
+     "sense": 1,
+     "vi": "Bài này khó dữ nhỉ?",
+     "en": "This one's really tough, don't you think?"
+    }
+   ]
+  },
+  {
+   "headword": "dưới",
+   "base": "66468c2e7b69e05a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "Lower in space: under, below, down"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "Lower in position or rank: behind"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "Lower in quality or level: under, below"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dưới đồng bằng",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "đứng dưới cùng",
+     "en": null
+    },
+    {
+     "sense": 3,
+     "vi": "dưới trung bình",
+     "en": "to be below average"
+    }
+   ]
+  },
+  {
+   "headword": "câu",
+   "base": "3710f1b590fe2afc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sentence; expression; line"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fish with a rod; to hook"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attract; to bait"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "câu cá",
+     "en": "to fish"
+    },
+    {
+     "sense": 3,
+     "vi": "câu view, câu like, câu tương tác",
+     "en": "to attract view, like, interaction"
+    }
+   ]
+  },
+  {
+   "headword": "ba",
+   "base": "820719abbbca144c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "father"
+    },
+    {
+     "position": 2,
+     "pos": "num",
+     "tags": [],
+     "gloss": "three"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "secondborn"
+    },
+    {
+     "position": 4,
+     "pos": "det",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "some, an indefinite quantity greater than one"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ba con tên gì?",
+     "en": "What is your dad's name?"
+    },
+    {
+     "sense": 2,
+     "vi": "Ba người lính ngự lâm",
+     "en": "The Three Musketeers"
+    },
+    {
+     "sense": 3,
+     "vi": "anh/chị ba",
+     "en": "second eldest brother/sister"
+    },
+    {
+     "sense": 3,
+     "vi": "bác ba",
+     "en": "second eldest brother/sister of one's parent"
+    },
+    {
+     "sense": 3,
+     "vi": "chú ba",
+     "en": "secondborn younger brother of one's father"
+    },
+    {
+     "sense": 4,
+     "vi": "Ba cái đó chả đáng quan tâm.",
+     "en": "There's no need to be concerned about those."
+    }
+   ]
+  },
+  {
+   "headword": "hoặc",
+   "base": "7233ca3beab6a600",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "or"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "either"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "some; someone; something"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mislead, to confuse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hoặc chịu phạt hoặc báo phụ huynh, chọn đi.",
+     "en": "Either you accept the penalty or I will have to inform your parents of what you did, your choice."
+    }
+   ]
+  },
+  {
+   "headword": "tại",
+   "base": "050ee80872873612",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be located at; to be located in; to be located on"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be because of; to be due to"
+    },
+    {
+     "position": 3,
+     "pos": "conj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "because"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vụ án xảy ra tại đường số 9.",
+     "en": "The crime took place on 9th Street."
+    },
+    {
+     "sense": 2,
+     "vi": "Lỗi tại ai đây? Lỗi tại tôi.",
+     "en": "Whose fault is this? It's my fault."
+    },
+    {
+     "sense": 2,
+     "vi": "Tại số cả thôi.",
+     "en": "It is all because of luck."
+    },
+    {
+     "sense": 3,
+     "vi": "Tại tôi không biết. Xin lỗi nhé.",
+     "en": "Because I didn't know. Sorry."
+    }
+   ]
+  },
+  {
+   "headword": "rõ",
+   "base": "deb1965f45ea9d82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clear"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "distinct"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of clear understanding"
+    },
+    {
+     "position": 4,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "roger, understood"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Điều đó thì tôi không rõ lắm.",
+     "en": "I am not very clear on that."
+    },
+    {
+     "sense": 4,
+     "vi": "Phận \"Rõ!\" một tiếng rất gọn nhưng vẫn ngồi im.",
+     "en": "Phận let out a very neat \"Roger!\", but he did not budge."
+    }
+   ]
+  },
+  {
+   "headword": "hôm nay",
+   "base": "2fb8871c17fdba85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "today (on the current day)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lo",
+   "base": "4b6f73c839f303bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bother; to worry"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attend to; to care for"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "\"Taylo rồi chân cũng lo\"",
+     "en": "\"Taylor's Hands and Feet Are All Nervy\" (a 1964 Nhân Dân article by Hồ Chí Minh)"
+    }
+   ]
+  },
+  {
+   "headword": "đêm",
+   "base": "c7dc6a9b2a6718c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "night"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "late night after 9 PM, including the wee hours of the morning"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đêm qua đi ngủ mấy giờ?",
+     "en": "When did you go to bed last night?"
+    },
+    {
+     "sense": 2,
+     "vi": "đi chơi đêm",
+     "en": "to hang out overnight"
+    }
+   ]
+  },
+  {
+   "headword": "phía",
+   "base": "e9e2221843378dff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "side, way, direction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "súng",
+   "base": "da1187c4123d007c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water lily"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gun"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "penis"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

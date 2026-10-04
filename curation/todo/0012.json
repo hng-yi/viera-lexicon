@@ -1,0 +1,1464 @@
+{
+ "batch": "0012",
+ "entries": [
+  {
+   "headword": "một chút",
+   "base": "776d9c0404caab50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a little bit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khiến",
+   "base": "5735c0a4dec07a2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cause (someone or something to do something); to make"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "duy nhất",
+   "base": "fef3be1f9c570da5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sole; unique"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quan tâm",
+   "base": "657ba4ee9a4f99c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to care about; to be interested in; to take interest in"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng",
+   "base": "b1beffd84ee486b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "month"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "menstruation; period"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "học sinh của tháng",
+     "en": "student of the month"
+    },
+    {
+     "sense": 2,
+     "vi": "tới tháng",
+     "en": "to get one's period"
+    }
+   ]
+  },
+  {
+   "headword": "tuần",
+   "base": "5734c9ac5bc40271",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "week (any period of seven consecutive days)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "week (period of seven days in the Gregorian calendar beginning with Sunday or Monday)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one of three ten-day periods in a month in the Vietnamese calendar; a week"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a decade of age"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a time period"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "instance, occurrence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nghỉ hè tám tuần",
+     "en": "to go on an eight-week summer holiday"
+    },
+    {
+     "sense": 6,
+     "vi": "tuần rượu",
+     "en": "a drink (of alcohol)"
+    },
+    {
+     "sense": 6,
+     "vi": "tuần hương",
+     "en": "the burn time of a stick of incense"
+    }
+   ]
+  },
+  {
+   "headword": "cổ",
+   "base": "2c2c53ed432e0b0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neck"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ancient; \"old\"; compare cũ (“old, but not ancient”)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "antique; \"old\"; compare cũ (“old, but not ancient”)"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "she/her, that young adult woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cổ chai",
+     "en": "a bottleneck"
+    },
+    {
+     "sense": 2,
+     "vi": "Ai Cập cổ",
+     "en": "Ancient Egypt"
+    },
+    {
+     "sense": 3,
+     "vi": "đồ cổ",
+     "en": "antiques"
+    }
+   ]
+  },
+  {
+   "headword": "quan trọng",
+   "base": "38d37bc297b32eed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "important; significant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thật sự",
+   "base": "2d9ce66ee40d21ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "real; true"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "really; truly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trở lại",
+   "base": "3fa3e42da835ce68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to return, to come back, to go back"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be no more than (the amount of something)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trở lại vấn về chính...",
+     "en": "let's return to the main problem..."
+    },
+    {
+     "sense": 2,
+     "vi": "Cứ 50 nghìn đồng trở lại mà triển, hên thì được.",
+     "en": "With no more than two bucks to bet, go and see if we get any luck."
+    }
+   ]
+  },
+  {
+   "headword": "phần",
+   "base": "d6abb02bd65489d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a part of something that may or may not be divided from a larger whole; a part, a portion, a ration, etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a season; a series"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a prequel or a sequel"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a decimal place"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tenth part"
+    },
+    {
+     "position": 6,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "used in fractions, between the numerator and the denominator; per; -th"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phần lớn",
+     "en": "the majority"
+    },
+    {
+     "sense": 4,
+     "vi": "phần chục",
+     "en": "the first decimal place; the tenths place"
+    },
+    {
+     "sense": 4,
+     "vi": "phần trăm",
+     "en": "the second decimal place; the hundredths place"
+    },
+    {
+     "sense": 4,
+     "vi": "phần nghìn",
+     "en": "the third decimal place; the thousandths place"
+    },
+    {
+     "sense": 5,
+     "vi": "– Cha ta tinh thông thuật âm dương ngũ hành, con gái ông tự nhiên cũng biết được ba phần,[…]",
+     "en": "\"My father is expert in yin-yang and five-element techniques; as his daughter naturally I know a little as well, […]\""
+    },
+    {
+     "sense": 6,
+     "vi": "một phần tư",
+     "en": "one fourth"
+    },
+    {
+     "sense": 6,
+     "vi": "năm mươi phần trăm",
+     "en": "fifty percent"
+    }
+   ]
+  },
+  {
+   "headword": "chó",
+   "base": "33c9635dd0cc0f97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dog"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "(little) (son of a) bitch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chó là động vật đầu tiên được thuần hoá.",
+     "en": "Dog was the first domesticated animal."
+    },
+    {
+     "sense": 1,
+     "vi": "(vulgar) loại chó (má)",
+     "en": "scum"
+    },
+    {
+     "sense": 2,
+     "vi": "Thằng chó này!",
+     "en": "You son of a bitch!/You dog!"
+    },
+    {
+     "sense": 2,
+     "vi": "Con chó này!",
+     "en": "You little bitch!/You dog!"
+    }
+   ]
+  },
+  {
+   "headword": "hơi",
+   "base": "8eeea9ab741df225",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "slightly, somewhat, a little"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vapor, steam"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "breath"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gas (state of matter)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gas (chemical element or compound)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "breeze"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stretch, turn (single uninterrupted sitting)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smell, odor"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weight of a head of livestock before slaughtering, minus its coat and entrails"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tàu hơi nước",
+     "en": "steam locomotive"
+    },
+    {
+     "sense": 3,
+     "vi": "hết hơi",
+     "en": "be out of breath"
+    }
+   ]
+  },
+  {
+   "headword": "mua",
+   "base": "863d4d9762ad7bd2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to buy; to purchase"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bribe; to square"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring upon oneself; to court"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "melastoma (genus Melastoma)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thay đổi",
+   "base": "26ee2c91d0cd15ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to change, to alter, to modify"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đời",
+   "base": "a2b34931923ac019",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lifetime; compare cuộc sống (activities in life or daily life)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "generation (of people)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the world of the living, the mortal plane"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates a phase of life"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trọn đời",
+     "en": "all of one's life"
+    },
+    {
+     "sense": 3,
+     "vi": "trên đời",
+     "en": "in this world"
+    },
+    {
+     "sense": 3,
+     "vi": "Gần hai mươi năm sống trên đời, đây là lần thứ hai anh khóc,[…]",
+     "en": "In the about twenty years of his life in this world, this was the second time he cried, […]"
+    },
+    {
+     "sense": 4,
+     "vi": "Cô lấy hai đời chồng.",
+     "en": "She married twice."
+    }
+   ]
+  },
+  {
+   "headword": "bộ",
+   "base": "b5eae22528f68b12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a collection of multiple copies"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a series"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ministry"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ministry-level department in countries where the English word ministry is not used"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an order"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bearing and figure; appearance; carriage; look; gait"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory",
+      "often"
+     ],
+     "gloss": "capability (judging from one's appearance)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foot (unit of measure equal to twelve inches)"
+    },
+    {
+     "position": 9,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "on foot"
+    },
+    {
+     "position": 10,
+     "pos": "adv",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "on land"
+    },
+    {
+     "position": 11,
+     "pos": "particle",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "sentence-initial question particle, is it that? do...? I bet ..."
+    },
+    {
+     "position": 12,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "in-compounds"
+     ],
+     "gloss": "synonym of bạ (“register”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bộ bài",
+     "en": "a deck/pack of cards"
+    },
+    {
+     "sense": 2,
+     "vi": "bộ truyện",
+     "en": "a novel or comic series"
+    },
+    {
+     "sense": 2,
+     "vi": "bộ phim",
+     "en": "a drama or comedy TV series"
+    },
+    {
+     "sense": 3,
+     "vi": "Bộ Binh / Binh Bộ",
+     "en": "the Ministry of War"
+    },
+    {
+     "sense": 3,
+     "vi": "Bộ Hình / Hình Bộ",
+     "en": "the Ministry of Justice"
+    },
+    {
+     "sense": 3,
+     "vi": "Bộ Giáo dục và Đào tạo",
+     "en": "the the Ministry of Education and Training"
+    },
+    {
+     "sense": 3,
+     "vi": "Bộ Quốc phòng",
+     "en": "the Ministry of Defense"
+    },
+    {
+     "sense": 4,
+     "vi": "Bộ Quốc phòng",
+     "en": "the Department of Defense"
+    },
+    {
+     "sense": 8,
+     "vi": "Tôi chưa từng đi trên con sông này nhưng người ta quả quyết với tôi rằng nó sâu hơn 12 bộ ở ngay tại cửa sông.",
+     "en": "I had never been on this river, but they told me it was more than 12 feet deep right at the mouth."
+    },
+    {
+     "sense": 9,
+     "vi": "đi/cuốc bộ",
+     "en": "to walk"
+    },
+    {
+     "sense": 9,
+     "vi": "đi bộ đến trường",
+     "en": "to walk to school"
+    },
+    {
+     "sense": 9,
+     "vi": "Tao cuốc bộ muốn lọi giò luôn!",
+     "en": "I walked for so long my legs were literally dying!"
+    },
+    {
+     "sense": 9,
+     "vi": "chạy bộ",
+     "en": "to run"
+    },
+    {
+     "sense": 9,
+     "vi": "lội bộ",
+     "en": "to wade"
+    },
+    {
+     "sense": 9,
+     "vi": "tản bộ",
+     "en": "to stroll"
+    },
+    {
+     "sense": 10,
+     "vi": "lính thuỷ đánh bộ",
+     "en": "a marine"
+    },
+    {
+     "sense": 10,
+     "vi": "giao thông đường bộ",
+     "en": "land traffic"
+    },
+    {
+     "sense": 11,
+     "vi": "Bộ tụi bây thấy chán lắm hay sao vậy?",
+     "en": "Do you guys just get seriously bored or what?"
+    }
+   ]
+  },
+  {
+   "headword": "bay",
+   "base": "8caa261bf738ee81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fly (travel through the air)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flutter (flap or wave quickly but irregularly)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fly (travel very fast)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fade away"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "with ease; as if it were nothing"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trowel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "bay 3 triệu",
+     "en": "lose 3 million dong"
+    },
+    {
+     "sense": 6,
+     "vi": "cãi bay",
+     "en": "to bluntly deny"
+    },
+    {
+     "sense": 6,
+     "vi": "Dạ, con Nga chối bay, con đâu có cười, tại ba má sanh cái miệng con vậy mà.",
+     "en": "Nga flatly denied it: \"I'm not smiling; it's my parents who made me with a mouth like that.\""
+    }
+   ]
+  },
+  {
+   "headword": "tránh",
+   "base": "d7d5624970160b2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to stay out of the way"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to avoid; to keep out of; to keep from"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bác sĩ",
+   "base": "63c26c9cbcdc718b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a medical doctor; a physician"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chữ bác sĩ",
+     "en": "a doctor's handwriting"
+    }
+   ]
+  },
+  {
+   "headword": "biến",
+   "base": "4e880efa5e97884d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn into; to change into"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vanish"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "an emergency"
+    },
+    {
+     "position": 4,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "I shall transform with magic"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "impolite"
+     ],
+     "gloss": "get lost; beat it"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mau",
+   "base": "f6410e29cfa1af04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dense"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "fast, quick"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "fast, quickly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "do",
+   "base": "d69ca0f8e65b3942",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "by"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "because of; due to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hầu hết các mô hình dưỡng lão đều do nhà nước bảo trợ, […]",
+     "en": "Most of the aged care models are sponsored by the state, […]"
+    }
+   ]
+  },
+  {
+   "headword": "kiểm tra",
+   "base": "3e71b1b338ae76d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "a test or quiz; compare thi (“exam”, finals or entrance exams)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to check or examine; compare thanh tra (“to inspect”, of an inspector or inspecting agency)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kiểm tra 15 phút",
+     "en": "a 15-minute test/pop quiz"
+    },
+    {
+     "sense": 1,
+     "vi": "kiểm tra 1 tiết",
+     "en": "a 1-period test"
+    }
+   ]
+  },
+  {
+   "headword": "chịu",
+   "base": "4e1dd067d9f11ee9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to endure; to suffer; to tolerate; to put up with"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "to have no idea what to do or how to respond"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be willing (to); to agree (to); to consent (to)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be on credit (of a transaction)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tao không chịu nổi thằng cha đó nữa!",
+     "en": "I can't put up with that jerk any longer!"
+    },
+    {
+     "sense": 1,
+     "vi": "Hết cách rồi thì đành chịu thôi.",
+     "en": "There's no other choice than to endure it."
+    },
+    {
+     "sense": 1,
+     "vi": "Không chịu đâu !",
+     "en": "No way!"
+    },
+    {
+     "sense": 2,
+     "vi": "Bài này dễ tao làm được chứ bài đó thì tao chịu.",
+     "en": "I can do this one, but I have no idea on that."
+    },
+    {
+     "sense": 3,
+     "vi": "Ba phải nói vậy, con mới chịu nín.",
+     "en": "I had to say that just so you would stop crying."
+    },
+    {
+     "sense": 4,
+     "vi": "mua chịu",
+     "en": "to buy on credit"
+    }
+   ]
+  },
+  {
+   "headword": "bao nhiêu",
+   "base": "56f6d672d735f114",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "how many?"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "how much?"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bởi",
+   "base": "0eabd21ff702cc1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "from"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "because"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "A Nan bởi ngôi mà dậy.",
+     "en": "Ānanda stands up from his seat."
+    },
+    {
+     "sense": 2,
+     "vi": "Bởi chồng cờ bạc nên lòng không yêu.",
+     "en": "I don't love my husband because he gambles."
+    },
+    {
+     "sense": 2,
+     "vi": "Bởi vậy!",
+     "en": "I told you so!"
+    }
+   ]
+  },
+  {
+   "headword": "phụ nữ",
+   "base": "bd1a182c2a318486",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "woman (adult female human)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trở thành",
+   "base": "d0ef23199ab68f02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become; to turn into"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ư",
+   "base": "f3c134957bea428c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "question particle: is it that? is it so?"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter Ư/ư."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặt",
+   "base": "0ae8b2ab400378fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to place; to put; to lay"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to request for a product or service, especially over long distances, long in advance, by phone, on the Internet, or when expecting a delivery; to order, commission, book, reserve, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đặt tên",
+     "en": "to name"
+    },
+    {
+     "sense": 2,
+     "vi": "đặt hàng",
+     "en": "to order goods or products"
+    },
+    {
+     "sense": 2,
+     "vi": "đặt vé/chỗ/bàn/phòng",
+     "en": "to reserve/book a ticket/seat/table/room"
+    }
+   ]
+  },
+  {
+   "headword": "rời",
+   "base": "3b23331e1eae4d2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break off; to break loose; to leave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công việc",
+   "base": "17ecbc4acb4979aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "work (labour, employment, occupation, job)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công việc nặng nhọc/vất vả",
+     "en": "laborious work"
+    }
+   ]
+  },
+  {
+   "headword": "đàn ông",
+   "base": "b0ae64b255baeb20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "man (adult male human)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết thúc",
+   "base": "614dbe4097c501e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "end (extreme part)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to end (in/with something); to come to an end; to close"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring to an end"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mùa mưa sắp kết thúc.",
+     "en": "The wet season is coming to an end soon."
+    }
+   ]
+  },
+  {
+   "headword": "mở",
+   "base": "afbb02c83da6221d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive"
+     ],
+     "gloss": "to open, be open (a door, lid, path, source code)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to unfold, expand, open up"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to turn on, start up (a computer, light, fan)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to open for business"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to launch, inaugurate (an investigation, conference, military campaign)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to mark the beginning of (an era, situation)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mở cửa phòng",
+     "en": "to open the door to a room"
+    },
+    {
+     "sense": 1,
+     "vi": "mở nắp hộp",
+     "en": "to open the lid of a jar (box)"
+    },
+    {
+     "sense": 1,
+     "vi": "phần mềm nguồn mở",
+     "en": "open source software"
+    },
+    {
+     "sense": 2,
+     "vi": "Mở tờ báo ra xem.",
+     "en": "Open the newspaper and you'll see."
+    },
+    {
+     "sense": 2,
+     "vi": "mở ví",
+     "en": "to open a wallet (purse)"
+    },
+    {
+     "sense": 2,
+     "vi": "Cánh đồng mở ra bao la.",
+     "en": "The field is expansive."
+    },
+    {
+     "sense": 3,
+     "vi": "mở đài nghe tin.",
+     "en": "to turn on the news (on the television)"
+    },
+    {
+     "sense": 3,
+     "vi": "mở quạt điện",
+     "en": "to turn on an electric fan"
+    },
+    {
+     "sense": 3,
+     "vi": "mở máy",
+     "en": "to turn on a machine"
+    },
+    {
+     "sense": 4,
+     "vi": "mở xưởng dệt",
+     "en": "to open a clothing factory"
+    }
+   ]
+  },
+  {
+   "headword": "khá",
+   "base": "5b1333d731960db4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fairly/decently competent; fine; OK"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "\"decent\", below xuất sắc (“excellent”) and giỏi (“good”), above trung bình (“average”), yếu (“poor”) and kém (“terrible”)"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "fairly competently"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "quite; rather; fairly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tốt nghiệp loại khá",
+     "en": "to graduate cum laude"
+    }
+   ]
+  },
+  {
+   "headword": "kiếm",
+   "base": "8d8694a782cc893f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sword"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seek, to search, to find"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loại",
+   "base": "c0edcf2a861f5256",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "species, kind, type, category, sort"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reject, to eliminate, to fail"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bài",
+   "base": "b7a067807e7ca502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "card, playing card, card game"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tag, tablet"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be against; to oppose; to act against"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lesson"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exercise, paper, task, theme"
+    },
+    {
+     "position": 6,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "used for compositions like songs, drawings, poems, essays, etc."
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

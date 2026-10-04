@@ -1,0 +1,1668 @@
+{
+ "batch": "0020",
+ "entries": [
+  {
+   "headword": "nắm",
+   "base": "5458931ca46f1e1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold; to grip; to grasp"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to grasp (opportunity, power, etc.); to seize"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for a handful or fistful of something."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khó khăn",
+   "base": "e1977eda6f1a2c20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "difficult, hard"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "difficulty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "may",
+   "base": "5de09d0b215718d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sew"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lucky"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a cold breeze"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quen",
+   "base": "8ff58e51ad9c3694",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "familiar"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "used to; accustomed to"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in a (romantic) relationship with"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đó là người quen của tôi.",
+     "en": "That's someone I know."
+    },
+    {
+     "sense": 1,
+     "vi": "Mày quen nhỏ đó hả?",
+     "en": "You know her? / Are you dating her?"
+    },
+    {
+     "sense": 1,
+     "vi": "Bài này nhìn quen quá.",
+     "en": "This problem looks very familiar."
+    },
+    {
+     "sense": 1,
+     "vi": "trước lạ sau quen",
+     "en": "we/they'll know each other in no time"
+    },
+    {
+     "sense": 1,
+     "vi": "Đừng ngại, trước lạ sau quen.",
+     "en": "Don't worry, you'll be friends in no time."
+    },
+    {
+     "sense": 2,
+     "vi": "Tao quen bị vợ nhằn rồi.",
+     "en": "I'm used to her ranting."
+    },
+    {
+     "sense": 3,
+     "vi": "Tao quen nhỏ được hai tháng rồi.",
+     "en": "We've been going out for two months."
+    }
+   ]
+  },
+  {
+   "headword": "kiếp",
+   "base": "95bfa6cc3d7fef62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a life; an incarnation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kiếp trước",
+     "en": "a past/previous life"
+    },
+    {
+     "sense": 1,
+     "vi": "Nếu có kiếp sau, ta nguyện bên nhau.",
+     "en": "If there is another life, we vow to be together."
+    }
+   ]
+  },
+  {
+   "headword": "cho phép",
+   "base": "dfc596daa62568a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to allow; to permit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cưới",
+   "base": "295e7df0cb55fb75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to marry; to wed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get married"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get a member of one's family married"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get someone married with one's family member"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cưới vợ",
+     "en": "to get a wife"
+    },
+    {
+     "sense": 1,
+     "vi": "cưới chồng",
+     "en": "to get a husband"
+    },
+    {
+     "sense": 2,
+     "vi": "vợ chồng mới cưới",
+     "en": "a newly wedded couple"
+    },
+    {
+     "sense": 3,
+     "vi": "Nhà tao cưới thằng anh tao.",
+     "en": "My family has had my brother married."
+    },
+    {
+     "sense": 4,
+     "vi": "Mẹ quý con nên mẹ mới cưới con về đấy chớ.",
+     "en": "I like you a lot, that's why I accepted you as my daughter-in-law."
+    }
+   ]
+  },
+  {
+   "headword": "văn phòng",
+   "base": "f1a412bcebcb0a80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "office (room used for non-manual work)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "any space used for non-manual work"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "văn phòng ảo",
+     "en": "virtual office"
+    },
+    {
+     "sense": 2,
+     "vi": "Văn phòng được chia thành nhiều phòng khác nhau với các chức năng làm việc khác nhau.",
+     "en": "The office is divided into many different rooms for different types of work."
+    }
+   ]
+  },
+  {
+   "headword": "rơi",
+   "base": "b304db3e89efe731",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall (from a height)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall (to occur, to happen)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall (to arrive through chance, fate)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall to become ensnared or entrapped; to be worse off than before"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mưa rơi",
+     "en": "rain falls"
+    },
+    {
+     "sense": 2,
+     "vi": "Sinh nhật tôi rơi vào thứ hai.",
+     "en": "My birthday falls on Monday."
+    },
+    {
+     "sense": 3,
+     "vi": "Số phận rơi vào tay của tổng thống.",
+     "en": "Fate falls into the hand of the president."
+    },
+    {
+     "sense": 4,
+     "vi": "rơi vào nợ nần",
+     "en": "to fall into debts"
+    }
+   ]
+  },
+  {
+   "headword": "quan hệ",
+   "base": "9e0878e4830bac6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a relation or relationship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quan hệ vợ chồng",
+     "en": "marriage"
+    },
+    {
+     "sense": 1,
+     "vi": "quan hệ tình dục",
+     "en": "a sexual relationship"
+    },
+    {
+     "sense": 1,
+     "vi": "quan hệ sản xuất",
+     "en": "relations of production"
+    },
+    {
+     "sense": 1,
+     "vi": "quan hệ ngoại giao",
+     "en": "diplomatic relations"
+    },
+    {
+     "sense": 1,
+     "vi": "quan hệ công chúng",
+     "en": "public relations"
+    }
+   ]
+  },
+  {
+   "headword": "thuê",
+   "base": "b1cb5e7154b77cd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rent or to lease"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đập",
+   "base": "cb7239eebc829b26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to smash; to bang; to strike"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to throb; to beat"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bản",
+   "base": "b15689604481e058",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a version or copy"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "Indicates certain body parts"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small village in the highlands of Vietnam"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "source; origin; root"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bản sao",
+     "en": "a copy"
+    },
+    {
+     "sense": 2,
+     "vi": "bản mặt",
+     "en": "face (derogatory)"
+    },
+    {
+     "sense": 2,
+     "vi": "Nói muốn rát bản họng luôn mà tụi nó có nghe đâu.",
+     "en": "There goes all my effort convincing them now that my damn throat is sored and they still don't give a shit."
+    }
+   ]
+  },
+  {
+   "headword": "giây",
+   "base": "17e6806fbbbb10ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "second (SI unit of time)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trở nên",
+   "base": "1e74f2931fdbf88e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rừng",
+   "base": "0e1d22bdcb39bea1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "forest"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jungle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đô",
+   "base": "b4f65f5d9b4a7176",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "well-built; muscular"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dose; dosage"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "do, c (note)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồi",
+   "base": "e10bbf224665001e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "time, especially in the past"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "relatively long occurrence of an action"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "instance of sustained sound, usually of a bell or drum"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chapter"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "act"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to be back in good shape or a calm and collected state of consciousness"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hồi trước",
+     "en": "there was a time when; back when"
+    },
+    {
+     "sense": 1,
+     "vi": "hồi nhỏ/trẻ",
+     "en": "during childhood"
+    },
+    {
+     "sense": 1,
+     "vi": "Ông kể, hồi trẻ, ông toàn sống trên sông, ông có chiếc ghe, hai vợ chồng lang thang xứ nầy xứ nọ.",
+     "en": "He told that, in his youth, he always lived on the river; he had a junk and he and his wife would roam from one place to the other."
+    },
+    {
+     "sense": 2,
+     "vi": "Họ nói chuyện một hồi rồi về.",
+     "en": "They talked for a while, then left."
+    },
+    {
+     "sense": 2,
+     "vi": "Lão nói một thôi một hồi không nghỉ.",
+     "en": "He just kept going on and on forever."
+    },
+    {
+     "sense": 3,
+     "vi": "hồi trống",
+     "en": "a drum roll"
+    },
+    {
+     "sense": 4,
+     "vi": "Đã ba hồi trôi qua rồi mà chẳng thấy có tiến triển gì cả.",
+     "en": "Three chapters past and there's still no progress."
+    },
+    {
+     "sense": 5,
+     "vi": "Hồi 1, Cảnh 1",
+     "en": "Act 1, Scene 1"
+    },
+    {
+     "sense": 5,
+     "vi": "cấu trúc 3 hồi",
+     "en": "the 3-act structure"
+    }
+   ]
+  },
+  {
+   "headword": "lớp",
+   "base": "8d74acaa1c1cd621",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a layer (single thickness of some material covering a surface)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grade; school year"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a class (group of students in a regularly scheduled meeting with a teacher)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a class"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an act"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a generation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phủ một lớp bơ lên miếng bánh mì nướng.",
+     "en": "Spread a layer of butter on that slice of toast."
+    },
+    {
+     "sense": 2,
+     "vi": "Em học lớp năm.",
+     "en": "I'm a fifth grader. / I'm a fifth-grade student. / I'm in fifth grade."
+    },
+    {
+     "sense": 3,
+     "vi": "Mấy đứa con trai lớp A quậy lắm!",
+     "en": "The boys in class A are really mischievous!"
+    },
+    {
+     "sense": 4,
+     "vi": "lớp Thú / lớp Có Vú",
+     "en": "Mammalia"
+    },
+    {
+     "sense": 5,
+     "vi": "Lớp 1, Cảnh 1",
+     "en": "Act 1, Scene 1"
+    },
+    {
+     "sense": 6,
+     "vi": "lớp trẻ",
+     "en": "younger generations"
+    }
+   ]
+  },
+  {
+   "headword": "thẳng",
+   "base": "66565ee437cb544c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "straight"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "direct; nonstop"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "heterosexual"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "straight; upright"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "straightforwardly; forthrightly; sincerely"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "directly, continuously, without stopping"
+    },
+    {
+     "position": 7,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "directly, without anything intervening"
+    },
+    {
+     "position": 8,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "straight away; soon after"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vẽ đường thẳng",
+     "en": "to draw a straight line"
+    },
+    {
+     "sense": 1,
+     "vi": "đoạn đường rất thẳng",
+     "en": "a very straight stretch of road"
+    },
+    {
+     "sense": 2,
+     "vi": "chuyến bay thẳng",
+     "en": "nonstop flight"
+    },
+    {
+     "sense": 3,
+     "vi": "Thằng/Con này là trai/gái thẳng thật đấy!",
+     "en": "This guy/gal is straight for real!"
+    },
+    {
+     "sense": 4,
+     "vi": "đứng thẳng",
+     "en": "to stand up straight"
+    },
+    {
+     "sense": 4,
+     "vi": "chạy thẳng qua ngã tư",
+     "en": "to drive straight through the intersection"
+    },
+    {
+     "sense": 6,
+     "vi": "đi thẳng về nhà",
+     "en": "to go straight home"
+    },
+    {
+     "sense": 6,
+     "vi": "ngủ thẳng đến sáng",
+     "en": "to sleep all the way until morning"
+    },
+    {
+     "sense": 6,
+     "vi": "bay thẳng từ Mỹ về Việt Nam",
+     "en": "to fly nonstop from America to Vietnam"
+    },
+    {
+     "sense": 7,
+     "vi": "nói thẳng với bạn",
+     "en": "to speak directly with a friend"
+    },
+    {
+     "sense": 7,
+     "vi": "gặp thẳng giám đốc mà nói",
+     "en": "to speak directly with a supervisor"
+    },
+    {
+     "sense": 8,
+     "vi": "nói xong bỏ đi thẳng",
+     "en": "to hightail it after one is done speaking"
+    }
+   ]
+  },
+  {
+   "headword": "tầng",
+   "base": "3313d4b39811e918",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "story; floor"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "vertical level"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tầng 1",
+     "en": "the first floor (either (Northern Vietnam) the ground floor, or (Southern Vietnam) the floor immediately above it)"
+    },
+    {
+     "sense": 1,
+     "vi": "tầng trệt",
+     "en": "(Southern Vietnam) the ground floor"
+    },
+    {
+     "sense": 1,
+     "vi": "tầng hầm",
+     "en": "an underground level"
+    },
+    {
+     "sense": 1,
+     "vi": "tầng lửng",
+     "en": "a full-fledged mezzanine, as opposed to a gác lửng which is just a platform used in small flats"
+    },
+    {
+     "sense": 2,
+     "vi": "giường hai tầng",
+     "en": "double bunk bed"
+    },
+    {
+     "sense": 2,
+     "vi": "18 tầng địa ngục",
+     "en": "18 levels of hell"
+    }
+   ]
+  },
+  {
+   "headword": "bố mẹ",
+   "base": "c301d871807db9f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "parents"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vả lại, mẹ thường bảo chúng tôi rằng: “[…] Con cái mà cứ nhong nhóng ăn bám vào bố mẹ thì chỉ sinh ra tính ỷ lại, xấu lắm, rồi ra đời không làm nên trò trống gì đâu.”",
+     "en": "Besides, my mother used to tell her children, “[…] Children who are a burden to their parents develop parasitic habits and will grow up into ne’er-do-wells.”"
+    }
+   ]
+  },
+  {
+   "headword": "Viên",
+   "base": "969f8a1b259ad65a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Viennese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "viên",
+   "base": "094e84060dba3539",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "suffix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "member"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates government workers"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "round"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to round off; to make round; to ball up"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates small, solid things, such as bricks (gạch), pills (thuốc), tiles (ngói), bullets (đạn), etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tổ viên",
+     "en": "a student member of a class's subdivision"
+    }
+   ]
+  },
+  {
+   "headword": "ờ",
+   "base": "7d07bee2b04b217b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "yeah"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nope"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "uh; er"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cạnh",
+   "base": "378709a6b8c2022a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a defining edge"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a side"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "right next to; beside"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cạnh bàn",
+     "en": "one of the edges of a table"
+    }
+   ]
+  },
+  {
+   "headword": "vùng",
+   "base": "19fc52f42d44c0ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "region, area"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to struggle to get away"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cô gái loạng choạng vùng chạy khỏi Maca, máu loang lổ trên ra giường, máu vương theo những bước chân cô…",
+     "en": "The girl feebly struggled away from Maca, blood running over the bed and spraying after her footsteps."
+    }
+   ]
+  },
+  {
+   "headword": "ê",
+   "base": "546b95a131b3e3e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter Ê/ê."
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "hey (exclamation to get attention)"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "hey (protest or reprimand)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to read loudly and unceasingly"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "numb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổi",
+   "base": "0f45b76efc74a9f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive"
+     ],
+     "gloss": "to change (to (make something) become something different)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to change (to give money in exchange for a smaller amount)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tắt",
+   "base": "945aec3cdbb28635",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive"
+     ],
+     "gloss": "(of fire) to be out; to put out; (of light source) to stop glowing"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to switch off, turn off, shut down"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disappear; to fade away; to cease to exist (temporarily or permanently)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short; (of movement) taking a shorter route"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abbreviated; short"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lửa tắt ngúm",
+     "en": "the fire is completely out"
+    },
+    {
+     "sense": 1,
+     "vi": "nắng tắt",
+     "en": "the sun sets (literally, “the sunlight fades”)"
+    },
+    {
+     "sense": 2,
+     "vi": "tắt ti vi",
+     "en": "to turn off the TV"
+    },
+    {
+     "sense": 3,
+     "vi": "Nụ cười trên môi vụt tắt.",
+     "en": "The smile on the lips suddenly disappeared."
+    },
+    {
+     "sense": 3,
+     "vi": "Hi vọng đã tắt",
+     "en": "Hope has faded."
+    },
+    {
+     "sense": 4,
+     "vi": "đường tắt",
+     "en": "shortcut"
+    },
+    {
+     "sense": 5,
+     "vi": "cách nói tắt",
+     "en": "abbreviated speech"
+    }
+   ]
+  },
+  {
+   "headword": "tập trung",
+   "base": "c38bcd77d4ec0a6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather (at a particular location)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to concentrate; to focus"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sáng mai tập trung ở cổng trường nhá !",
+     "en": "Everybody, we'll gather at the school gate first thing tomorrow morning !"
+    },
+    {
+     "sense": 1,
+     "vi": "trại tập trung",
+     "en": "a concentration camp"
+    },
+    {
+     "sense": 2,
+     "vi": "mất tập trung",
+     "en": "distracted"
+    },
+    {
+     "sense": 2,
+     "vi": "Tập trung vào !",
+     "en": "Focus!"
+    }
+   ]
+  },
+  {
+   "headword": "quanh",
+   "base": "904ae1490ad2e065",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "roundabout; indirect; sinuous; meandering"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "evasive; sidestepping"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "around; round"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "muộn",
+   "base": "939ae736ee382438",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "late; tardy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc vụ",
+   "base": "786821cb2c94b8b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "special agent; secret agent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đối với tổ chức đặc vụ của địch còn lại, cần có kế hoạch nắm lấy tài liệu, điều tra rõ ràng, sau đó dưới sự chỉ huy thống nhất, sẽ quét sạch.",
+     "en": "For the rest of our enemy's intelligence agencies, it necessitated snatching their documents be planned and transparent investigation be made to eliminate them under our united command."
+    }
+   ]
+  },
+  {
+   "headword": "mừng",
+   "base": "18d47541cdaf2717",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "glad, happy"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rejoice, to congratulate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "mừng thầm",
+     "en": "to internally rejoice"
+    }
+   ]
+  },
+  {
+   "headword": "quân đội",
+   "base": "03700514dc4a0869",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "army, armed forces, military"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏ",
+   "base": "1a8632bea711f823",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "red"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "lucky; fortunate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tâm tỏ thái độ hung hãn với đôi mắt vằn đỏ.",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "số đỏ; vận đỏ",
+     "en": "good luck"
+    },
+    {
+     "sense": 2,
+     "vi": "đỏ đen",
+     "en": "red and black; good and bad luck"
+    }
+   ]
+  },
+  {
+   "headword": "giao",
+   "base": "630f510145fc459e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hand over"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pass (to move a ball to a teammate)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intersection"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiếu",
+   "base": "06da5f36f0c67914",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be short of, to lack"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "having 29 days a month"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốn",
+   "base": "186e9a58c79846a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "four"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nợ",
+   "base": "d0e04116b8df8b58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "debt"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to owe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nỗi",
+   "base": "bc3c26fe4ba4a042",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "status; situation; state"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "feeling (usually negative)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nỗi buồn",
+     "en": "sadness"
+    },
+    {
+     "sense": 2,
+     "vi": "nỗi đau",
+     "en": "grief"
+    },
+    {
+     "sense": 2,
+     "vi": "nỗi ám ảnh",
+     "en": "obsession"
+    },
+    {
+     "sense": 2,
+     "vi": "nỗi sợ",
+     "en": "fear"
+    },
+    {
+     "sense": 2,
+     "vi": "nỗi sầu",
+     "en": "sorrow"
+    }
+   ]
+  },
+  {
+   "headword": "bệnh viện",
+   "base": "a9e4c4b3223db1ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hospital"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trách nhiệm",
+   "base": "bd35b9b20129affe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "responsibility or accountability"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "liability"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chịu trách nhiệm (cho)",
+     "en": "to be (held) responsible/accountable (for)"
+    },
+    {
+     "sense": 2,
+     "vi": "trách nhiệm hữu hạn",
+     "en": "limited liability"
+    }
+   ]
+  },
+  {
+   "headword": "chụp",
+   "base": "708fe31e0b69e076",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seize, to catch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to photograph"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sai lầm",
+   "base": "838d52139e1745c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mistake"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mistaken; wrong; erroneous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nước đi sai lầm",
+     "en": "a wrong move"
+    }
+   ]
+  },
+  {
+   "headword": "tỉnh",
+   "base": "26230efe624217dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "province, prefecture"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "metonymically"
+     ],
+     "gloss": "provincial capital"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "alert, conscious"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unconcerned, unfazed"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to awaken"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to sober up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tỉnh lẻ",
+     "en": "provinces (less developed than thành phố trực thuộc trung ương (“municipality, centrally-controlled city”))"
+    },
+    {
+     "sense": 1,
+     "vi": "tỉnh Phú Thọ",
+     "en": "Phú Thọ province"
+    },
+    {
+     "sense": 1,
+     "vi": "tỉnh Hồ Bắc",
+     "en": "Hubei province"
+    },
+    {
+     "sense": 1,
+     "vi": "tỉnh Gifu",
+     "en": "Gifu prefecture"
+    },
+    {
+     "sense": 1,
+     "vi": "dân tỉnh lẻ",
+     "en": "\"small town\" folks"
+    },
+    {
+     "sense": 1,
+     "vi": "lệnh của tỉnh đưa về xã",
+     "en": "a decree handed down to the commune from the province"
+    },
+    {
+     "sense": 1,
+     "vi": "Họ Hồ có nguồn gốc từ làng Quỳnh Đôi, xã Quỳnh Đôi, huyện Quỳnh Đôi, tỉnh Nghệ An.",
+     "en": "The Hồ clan hails from Quỳnh Đôi village, Quỳnh Đôi commune, Quỳnh Đôi district, Nghệ An province."
+    },
+    {
+     "sense": 2,
+     "vi": "lên tỉnh mua hàng",
+     "en": "going into the provincial capital to buy goods"
+    },
+    {
+     "sense": 3,
+     "vi": "Sốt nhiều nhưng vẫn tỉnh.",
+     "en": "Running a high fever but still alert."
+    },
+    {
+     "sense": 3,
+     "vi": "tỉnh lại",
+     "en": "to regain consciousness, to regain mental clarity, to come to one's senses"
+    },
+    {
+     "sense": 4,
+     "vi": "tỉnh như sáo",
+     "en": "completely unfazed"
+    },
+    {
+     "sense": 5,
+     "vi": "Tỉnh ra mới biết là mình chiêm bao",
+     "en": "Only when I woke up did I know I had been dreaming"
+    },
+    {
+     "sense": 6,
+     "vi": "Càng uống nó càng tỉnh mày ạ.",
+     "en": "The more he drinks, the more sober he is."
+    }
+   ]
+  }
+ ]
+}

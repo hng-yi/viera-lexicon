@@ -1,0 +1,1590 @@
+{
+ "batch": "0005",
+ "entries": [
+  {
+   "headword": "chứ",
+   "base": "c324dce05ce19aff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Compares a predicate or clause stated before it to its supposed alternative, which is nullified in the predicate or clause after. Provides clarification, or implies high credibility, of either or both clauses (or predicates)."
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "if what comes after is an interrogative word or phrase, implies that you highly doubt there is any alternative to an affirmative answer of the question"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "at the end of a question, hints that you think what you have said before this particle is true, although you still want to confirm it"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "at the end of a statement, affirms what comes before this particle and hints that you think your conversation partner was too clueless about it"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó thà chết chứ không khai.",
+     "en": "He'd rather die than testify, I'm telling you."
+    },
+    {
+     "sense": 1,
+     "vi": "Mày giỏi trò ăn nói với bạn bè, chứ có biết gì về chuyện vợ chồng đâu mà đi dạy người ta.",
+     "en": "You're good at socialising with friends, but not that much about the affairs of marriage to teach people (about it)."
+    },
+    {
+     "sense": 1,
+     "vi": "Thầy nói thế thôi, chứ người ta hơi đâu mà phạt mày kiểu đấy.",
+     "en": "The teacher was just bluffing, no one has the commitment to punish you that way."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi giỏi chịu đựng thôi, chứ thật ra vẫn biết đau.",
+     "en": "I just cope with it well, but I still feel pain."
+    },
+    {
+     "sense": 1,
+     "vi": "Họ chơi như thế là còn nhẹ tay, chứ họ đánh thật có khi phải mười-không",
+     "en": "Them playing like that is still merciful, had they gone all out, it would have been ten-nill."
+    },
+    {
+     "sense": 2,
+     "vi": "Chứ mày nghĩ tao lên trường làm gì ?",
+     "en": "Wait, what'd you think I went to the school for?"
+    },
+    {
+     "sense": 2,
+     "vi": "Chứ theo ông thì tôi phải làm thế nào ?",
+     "en": "What do you think I should've done then?"
+    },
+    {
+     "sense": 2,
+     "vi": "Chứ sao !",
+     "en": "Of course! What else could it be then?"
+    },
+    {
+     "sense": 2,
+     "vi": "Thằng Tú vứt chứ ai vào đây ! Nó suốt ngày chê cái ghế làm xấu mặt tiền nhà mình.",
+     "en": "Of course Tú threw it away, who else then? He always complained how that chair was an eyesore in front of our house."
+    },
+    {
+     "sense": 3,
+     "vi": "Ông già mày còn sống đấy chứ ?",
+     "en": "Your old man's still alive, yes?"
+    },
+    {
+     "sense": 4,
+     "vi": "Có thế chứ ! Đàn ông đàn ang phải biết làm việc nặng.",
+     "en": "That's what I'm talkin' about! You're a man, you're supposed to be able to handle heavy jobs like this."
+    },
+    {
+     "sense": 4,
+     "vi": "Khẽ chứ ! Cu Tí đang ngủ !",
+     "en": "Quiet! Baby Tí's sleeping!"
+    },
+    {
+     "sense": 4,
+     "vi": "Người ta cũng biết tiếng Anh chứ bộ !",
+     "en": "In case you didn't know, I do speak some English!"
+    }
+   ]
+  },
+  {
+   "headword": "nữa",
+   "base": "19cb4f8e9e3bef97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "more, further"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "longer (as in \"I cannot wait any longer\")"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "encore!"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một chai nữa",
+     "en": "one more bottle"
+    }
+   ]
+  },
+  {
+   "headword": "bị",
+   "base": "bc8c150b3420caff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "big sack made from sedge"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "plastic bag"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "particle denoting the subject is negatively affected by the predicate"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be (used to form the passive voice if the subject is negatively affected by the action)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "bị đột quỵ",
+     "en": "to suffer a stroke"
+    },
+    {
+     "sense": 3,
+     "vi": "Rồi tháng tám năm ngoái, mẹ anh bị bệnh qua đời.",
+     "en": "Then, in August last year, his mother fell ill and passed away."
+    },
+    {
+     "sense": 4,
+     "vi": "bị đánh",
+     "en": "to be beaten"
+    },
+    {
+     "sense": 4,
+     "vi": "Loan bực tức vì bị để ra ngoài một câu chuyện quan trọng.",
+     "en": "Loan was angry because she was left out of something important."
+    },
+    {
+     "sense": 4,
+     "vi": "Ông quản than thở một cách rền rĩ: / – Chúng ta bị phạt nhiều quá. / Thầy min đơ nhắc lại, âu sầu: / – Thật vậy, chúng ta bị nhiều quá.",
+     "en": "The manager complained pitifully: \"We are being fined too much.\" Mr Mille Deux repeated, morose, \"That's true, we are [being fined] too much.\""
+    }
+   ]
+  },
+  {
+   "headword": "chúng tôi",
+   "base": "5954186a3cbaf38f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "dialectal",
+      "formal"
+     ],
+     "gloss": "we/us (exclusive); compare chúng ta (inclusive, including the listener)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "à",
+   "base": "47974744b68f63b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "oh; I see"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Question particle."
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Denote surprise or a sudden recollection"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to rush, to charge at the same time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thế à?",
+     "en": "Really?"
+    },
+    {
+     "sense": 2,
+     "vi": "Cháu mới về à?",
+     "en": "So you've come back."
+    },
+    {
+     "sense": 2,
+     "vi": "Nhóm mày có bốn người thôi à?",
+     "en": "There's only four members in your group, isn't there?"
+    },
+    {
+     "sense": 3,
+     "vi": "à quên",
+     "en": "oh I forgot"
+    }
+   ]
+  },
+  {
+   "headword": "tới",
+   "base": "91e5e53d7a200921",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "to (indicating destination)"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "until (up to the time of); until (up to the time that); up to, as far as, as much as"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "intransitive",
+      "transitive"
+     ],
+     "gloss": "to arrive (at)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "next"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "incident; of incidence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ô-tô chạy tới bến mới đổ khách.",
+     "en": "The car went to the station before dropping off its passengers."
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi cũng học cho tới nghỉ hè như các bạn.",
+     "en": "I also study until summer break like all of you."
+    },
+    {
+     "sense": 2,
+     "vi": "Đi tới ngã tư kia thì lại hỏi thăm đường.",
+     "en": "Go over to that four-way intersection and ask for directions."
+    },
+    {
+     "sense": 2,
+     "vi": "Đọc báo tới khuya mà vẫn chưa buồn ngủ.",
+     "en": "[Someone] read the newspaper until late in the evening but still didn’t feel sleepy."
+    },
+    {
+     "sense": 2,
+     "vi": "Đạp tới ba mươi cây số vẫn chưa phải nghỉ.",
+     "en": "[Someone] biked 30 kilometers without having to rest."
+    },
+    {
+     "sense": 3,
+     "vi": "Tàu tới ga lúc tám giờ.",
+     "en": "The train arrives at the station at 8 o'clock."
+    },
+    {
+     "sense": 4,
+     "vi": "tuần tới",
+     "en": "next week"
+    },
+    {
+     "sense": 4,
+     "vi": "Tôi sẽ xuống tàu ở ga tới.",
+     "en": "I’m going to get off the train at the next stop."
+    },
+    {
+     "sense": 5,
+     "vi": "tia tới",
+     "en": "an incident ray"
+    },
+    {
+     "sense": 5,
+     "vi": "góc tới",
+     "en": "an angle of incidence"
+    }
+   ]
+  },
+  {
+   "headword": "cả",
+   "base": "09a8ada1c502784c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "main; biggest"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "whole"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "firstborn; eldest; oldest"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "great (title referring to an important leader)"
+    },
+    {
+     "position": 5,
+     "pos": "det",
+     "tags": [],
+     "gloss": "all"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "on a large scale; to a great degree"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "price, cost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cả lớp đứng lên!",
+     "en": "The whole class, stand up!"
+    },
+    {
+     "sense": 4,
+     "vi": "Grêgôriô Cả",
+     "en": "Gregory the Great"
+    },
+    {
+     "sense": 6,
+     "vi": "cả cười",
+     "en": "to laugh heartily"
+    },
+    {
+     "sense": 6,
+     "vi": "Chúng con nguyện danh Cha cả sáng.",
+     "en": "Hallowed be thy name."
+    }
+   ]
+  },
+  {
+   "headword": "thật",
+   "base": "0b40260f3cdaf6e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "real; true; factual"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "actually, for real"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very, really"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chuyện thật",
+     "en": "true story"
+    },
+    {
+     "sense": 2,
+     "vi": "Là con thật!",
+     "en": "It's you for real!"
+    }
+   ]
+  },
+  {
+   "headword": "chưa",
+   "base": "065ec3000534e2bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "not yet"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "yet"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "completive",
+      "interrogative",
+      "particle"
+     ],
+     "gloss": "Interrogative completive particle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mày chưa chết hử?",
+     "en": "You're not dead yet, huh?"
+    },
+    {
+     "sense": 3,
+     "vi": "Em thấy buồn ngủ chưa?",
+     "en": "Do you feel sleepy yet?"
+    }
+   ]
+  },
+  {
+   "headword": "lên",
+   "base": "bb8c6419ceae9ff7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go up, come up, rise"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be or reach a certain age"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get on (a vehicle)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go to (a more developed area)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be activated"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "upwards"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "thẻ lên máy bay",
+     "en": "boarding pass"
+    },
+    {
+     "sense": 3,
+     "vi": "lên xe",
+     "en": "to get on/in the car"
+    },
+    {
+     "sense": 4,
+     "vi": "lên thành phố",
+     "en": "to go to the city"
+    },
+    {
+     "sense": 5,
+     "vi": "bật máy lên",
+     "en": "to turn on the machine"
+    }
+   ]
+  },
+  {
+   "headword": "đúng",
+   "base": "39dbdcef6b88eda1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "right, correct, accurate, precise, proper, etc.; not wrong or improper"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bài 10 câu, đúng có 2 câu.",
+     "en": "There were 10 questions, and I only got 2 correct answers."
+    },
+    {
+     "sense": 1,
+     "vi": "Đúng rồi.",
+     "en": "That’s right."
+    },
+    {
+     "sense": 1,
+     "vi": "năm giờ đúng",
+     "en": "five o'clock"
+    }
+   ]
+  },
+  {
+   "headword": "chúng",
+   "base": "686a33fd8ec771bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Pluralizing particle for pronouns"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "they/them (used for animals)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "they/them (used for people whom one holds in low regard)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Chúng xả súng hại chết 3 người.",
+     "en": "They unloaded and killed 3 people."
+    },
+    {
+     "sense": 3,
+     "vi": "Chúng tàn sát dân ta, bắt dân ta làm nô lệ.",
+     "en": "They slaughtered our people, they made us into their slaves."
+    }
+   ]
+  },
+  {
+   "headword": "thứ",
+   "base": "a67e5501b1d1cdf2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order, rank, sort, type, kind, category"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thing"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "weekday"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "second"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates things of the same category, such as languages (tiếng)"
+    },
+    {
+     "position": 6,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "ordinal number marker"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "literary"
+     ],
+     "gloss": "to pardon, to forgive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Hôm nay là thứ mấy?",
+     "en": "What (week)day is today?"
+    },
+    {
+     "sense": 4,
+     "vi": "con trai thứ",
+     "en": "the second son"
+    },
+    {
+     "sense": 6,
+     "vi": "thứ tám",
+     "en": "eighth"
+    }
+   ]
+  },
+  {
+   "headword": "mọi",
+   "base": "1364e6456903a1a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "all"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "barbarian; savage; subhuman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một người vì mọi người! Mọi người vì một người!",
+     "en": "One for all! All for one!"
+    }
+   ]
+  },
+  {
+   "headword": "vì",
+   "base": "331e5b773ed80c55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "because (by or for the cause that; on this account that; for the reason that)"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "for; for the sake of"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "throne"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for sao and tinh tú."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Vì ai? Vì cái gì?",
+     "en": "Who for? What for?"
+    }
+   ]
+  },
+  {
+   "headword": "bạn",
+   "base": "e2e3ecdcba08991a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a friend, mate, buddy, ally, etc."
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, a young person in their twenties"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, an unspecified person viewing a work; compare ông (“you, a middle-aged or older man”), bà (“you, a middle-aged or older woman”), anh (“you, a reasonably young man”) and chị (“you, a reasonably young woman”)"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "especially"
+     ],
+     "gloss": "you, a peer of the speaker"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "literary",
+      "obsolete"
+     ],
+     "gloss": "to revolt against; to oppose the higher power"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bạn cùng lớp/trường/phòng",
+     "en": "a class/school/roommate"
+    },
+    {
+     "sense": 1,
+     "vi": "an toàn là bạn, tai nạn là thù",
+     "en": "safety is your friend, accidents your foes"
+    },
+    {
+     "sense": 2,
+     "vi": "Chào bạn. Bạn là sinh viên năm thứ mấy ạ?",
+     "en": "Hi. What year are you in?"
+    },
+    {
+     "sense": 3,
+     "vi": "Đó là tôi. Chắc bạn muốn biết làm sao mà tôi lại rơi vào tình huống này.",
+     "en": "That is me. You might be wondering how I ended up in this situation."
+    },
+    {
+     "sense": 3,
+     "vi": "Bạn và tôi, chúng ta hãy cùng chung tay bảo vệ ngôi nhà xanh này.",
+     "en": "You and me, let's protect this green home of ours together."
+    },
+    {
+     "sense": 3,
+     "vi": "Bạn vừa thích tin nhắn từ lolly70.",
+     "en": "You liked a message from lolly70."
+    },
+    {
+     "sense": 4,
+     "vi": "Bạn cho mình hỏi Quận 1 đi đường nào.",
+     "en": "Could you show me the way to District 1?"
+    }
+   ]
+  },
+  {
+   "headword": "nghe",
+   "base": "d410368485bd4662",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hear (to perceive sounds through the ear)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to listen (to use one's sense of hearing in an intentional way)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to listen (to accept advice or obey instruction; to agree or assent)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sound"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to smell"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel (inside the body or of feelings)"
+    },
+    {
+     "position": 7,
+     "pos": "particle",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "okay?"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Nó chẳng bao giờ nghe tôi cả.",
+     "en": "She never listens to me."
+    },
+    {
+     "sense": 3,
+     "vi": "Mày hư quá! Chẳng nghe mẹ gì cả!",
+     "en": "You're so naughty! You never listen to your mother!"
+    },
+    {
+     "sense": 4,
+     "vi": "Nghe hay vãi!",
+     "en": "Sounds super cool!"
+    },
+    {
+     "sense": 4,
+     "vi": "Sau mấy tiếng còi un un dữ dội nghe như tiếng gầm của một thứ lợn rừng kỳ quái, chiếc xe chờ ba phút thì có một tên gia nhân chạy ra mở toang hai cánh cửa sắt, đón xe từ từ vào sân.",
+     "en": "After several fierce sounds of the horn sounding like the roaring of some kind of monstrous wild boar, the car waited three minutes for a servant to run outside, pull the iron gate wide open, and let the car slowly into the yard."
+    },
+    {
+     "sense": 5,
+     "vi": "Quái, sao cứ nghe mùi thum thủm?",
+     "en": "Weird, I think I'm smelling a fart."
+    },
+    {
+     "sense": 5,
+     "vi": "Nhà ai vừa chín quả đầu. / Đã nghe gió thổi vườn sau thơm lừng.",
+     "en": "Who has freshly ripe fruit? / Smelling the delicious aroma carried by the wind."
+    },
+    {
+     "sense": 6,
+     "vi": "Họ chắc cũng từng yêu từng vui từng đau, từng nghe phảng phất niềm thương nhớ đất.",
+     "en": "They too must have loved, rejoiced, suffered, faintly felt that longing for their land."
+    },
+    {
+     "sense": 7,
+     "vi": "Về nhớ làm bài nghe!",
+     "en": "Don't forget to do your homework when you return (home)."
+    }
+   ]
+  },
+  {
+   "headword": "đừng",
+   "base": "2513da70f0a8e55c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "do not; don't"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đừng hiểu lầm (tôi/ta).",
+     "en": "Don't get me wrong."
+    }
+   ]
+  },
+  {
+   "headword": "hơn",
+   "base": "755b8ea63c046958",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "more, -er, to a greater degree or extent"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "better"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "to hơn",
+     "en": "bigger"
+    },
+    {
+     "sense": 1,
+     "vi": "hơn một năm",
+     "en": "more than a year"
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi thích tiếng Việt hơn tiếng Anh.",
+     "en": "I like Vietnamese more than English."
+    },
+    {
+     "sense": 1,
+     "vi": "không hơn không kém",
+     "en": "neither more nore less"
+    },
+    {
+     "sense": 2,
+     "vi": "Có hơn nó chỗ nào đâu mà chém kinh thế?",
+     "en": "You're not better than him/her at anything, stop shit talking."
+    }
+   ]
+  },
+  {
+   "headword": "chết",
+   "base": "e670af6bc611770e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to die; to decease; to perish"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "intransitive"
+     ],
+     "gloss": "to break; to stop working"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dead; deceased; perished"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "broken; ruined"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "unoccupied; free; idle"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "extremely; terribly; awfully"
+    },
+    {
+     "position": 7,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "crap; shoot"
+    },
+    {
+     "position": 8,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "... am/is screwed big time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cái chết",
+     "en": "death"
+    },
+    {
+     "sense": 1,
+     "vi": "sự chết",
+     "en": "death (in Christian literature)"
+    },
+    {
+     "sense": 1,
+     "vi": "Biết chết liền.",
+     "en": "Damned if I know (literally, “If I knew I'd die at once.”)."
+    },
+    {
+     "sense": 3,
+     "vi": "cá chết",
+     "en": "dead fish"
+    },
+    {
+     "sense": 6,
+     "vi": "Em sợ chết đi được.",
+     "en": "I was dead scared."
+    },
+    {
+     "sense": 8,
+     "vi": "Chết tôi rồi!",
+     "en": "Screw me! / I am so screwed!"
+    },
+    {
+     "sense": 8,
+     "vi": "Đừng! Mày mà đi thì chết tao!",
+     "en": "Don't! If you go, I'll be dead meat!"
+    },
+    {
+     "sense": 8,
+     "vi": "A ha! Phải đấy, hắn cứ thế mà chửi, cứ chửi đứa chết mẹ nào đẻ ra thân hắn, đẻ ra cái thằng Chí Phèo!",
+     "en": "Uh-huh! That's right, he can just do this, he can just curse whatever motherfucker that gave birth to him, to the bastard known as Chí Phèo!"
+    }
+   ]
+  },
+  {
+   "headword": "điều",
+   "base": "438ba5051618db0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "something to say or tell"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "something to think about or discuss"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a clause"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an article"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cashew"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có nhiều điều muốn nói",
+     "en": "to have a lot to say"
+    },
+    {
+     "sense": 2,
+     "vi": "học được nhiều điều hay",
+     "en": "to have learnt a lot of cool stuff"
+    },
+    {
+     "sense": 2,
+     "vi": "một điều giản dị",
+     "en": "a simple fact"
+    },
+    {
+     "sense": 2,
+     "vi": "có điều",
+     "en": "although"
+    },
+    {
+     "sense": 3,
+     "vi": "Chương I, Điều 1",
+     "en": "Chapter I, Clause 1"
+    },
+    {
+     "sense": 4,
+     "vi": "Chương I, Điều 1",
+     "en": "Chapter I, Article 1"
+    }
+   ]
+  },
+  {
+   "headword": "mày",
+   "base": "f817366ba4010535",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyebrows"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "Southern",
+      "familiar",
+      "impolite",
+      "singular"
+     ],
+     "gloss": "you"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to gather or to pick up bits and pieces"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "obsolete"
+     ],
+     "gloss": "adopted or adoptive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mẹ",
+   "base": "d1faa70d06e83310",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Our Lady"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "You, Our Lady"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "She/Her, Our Lady"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đức Mẹ",
+     "en": "Our Lady"
+    }
+   ]
+  },
+  {
+   "headword": "mẹ",
+   "base": "d292d4f9abae773b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mother"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your mother"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my mother"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "ironic"
+     ],
+     "gloss": "you (toward a female person whom one disdains)"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "Used as an intensifier."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "mẹ mày",
+     "en": "your mom"
+    },
+    {
+     "sense": 5,
+     "vi": "Trời nóng bỏ mẹ ra.",
+     "en": "The weather is so fucking hot."
+    }
+   ]
+  },
+  {
+   "headword": "từ",
+   "base": "f7bf50041a07800b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "from, since"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "at, in (a time; indicating that the result of the action continues to the present)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "word"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ci (poetry)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disown, to cut ties with"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resign"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to give up"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spare, to leave out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bảo tàng Hà Nội thực tế đã được quyết định thành lập từ năm 1982, hiện tạm đặt tại phố Hàm Long.",
+     "en": "The Museum of Hanoi was actually officially founded in 1982, temporarily in Hàm Long street."
+    },
+    {
+     "sense": 5,
+     "vi": "từ mặt nhau",
+     "en": "to cut ties with each other"
+    },
+    {
+     "sense": 6,
+     "vi": "từ quan",
+     "en": "to resign as mandarin"
+    },
+    {
+     "sense": 7,
+     "vi": "gian nan cũng không từ",
+     "en": "not give up even in the face of hardship"
+    },
+    {
+     "sense": 8,
+     "vi": "không từ thủ đoạn",
+     "en": "to spare no means"
+    },
+    {
+     "sense": 8,
+     "vi": "đồ lễ cũng không từ",
+     "en": "to not spare even the offerings"
+    }
+   ]
+  },
+  {
+   "headword": "hãy",
+   "base": "75fe8dabc03b256b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "do; let's (mild imperative sentence-initial particle)"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "still; yet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hãy cho biết ...",
+     "en": "Tell me ..."
+    },
+    {
+     "sense": 2,
+     "vi": "hãy còn trẻ",
+     "en": "still young"
+    }
+   ]
+  },
+  {
+   "headword": "tìm",
+   "base": "7fa21bab077d5cae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to search, to seek, to look for"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to find"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nên",
+   "base": "22a7693378dbd507",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to develop into; to change into"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "should; ought to (the speaker intends for the subject to execute the sentence predicate)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to be auspicious"
+    },
+    {
+     "position": 4,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "therefore; so"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Cầm cây đũa vẫy vẫy trước mặt người ta vậy là không nên!",
+     "en": "You shouldn't wave around a single chopstick in front of someone else like that."
+    }
+   ]
+  },
+  {
+   "headword": "tốt",
+   "base": "4d366dfe8e87ccb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good, as in high-quality, well-made, well executed, good-natured or ethical; compare hay (“good as in inventive, brilliant or entertaining”) and giỏi (“good as in skilled or competent”)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very dense or long, more so than it should be"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soldier, a piece labeled with the characters 卒 (black) and 兵 (binh, red)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "pawn"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "pawn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gạo tốt",
+     "en": "good rice"
+    },
+    {
+     "sense": 1,
+     "vi": "người tốt",
+     "en": "a good person; good people"
+    },
+    {
+     "sense": 2,
+     "vi": "Tóc tốt quá rồi, phải đi cắt thôi.",
+     "en": "My hair's getting out of hand. I gotta get it cut."
+    }
+   ]
+  },
+  {
+   "headword": "tớ",
+   "base": "33788c0c7d88b402",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "a servant"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "familiar"
+     ],
+     "gloss": "I; me"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đầy tớ",
+     "en": "a servant"
+    },
+    {
+     "sense": 1,
+     "vi": "tôi tớ",
+     "en": "servants"
+    },
+    {
+     "sense": 1,
+     "vi": "chủ tớ",
+     "en": "master and servant"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1561 @@
+{
+ "batch": "0015",
+ "entries": [
+  {
+   "headword": "thường",
+   "base": "3bed5a0b1e0f8cc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "frequent; usual; ordinary; common; average"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "small; lower-case"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "often"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "once"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repay, to recompense"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cũng thường thôi.",
+     "en": "Nothing special."
+    },
+    {
+     "sense": 3,
+     "vi": "Em có thường đến đây không?",
+     "en": "Do you come here often?"
+    },
+    {
+     "sense": 5,
+     "vi": "– Phải chi có cái gì thường được, mình thường cho ảnh.",
+     "en": "\"If only there were something I could do to compensate for it, I'd recompense him."
+    }
+   ]
+  },
+  {
+   "headword": "hướng",
+   "base": "d5b6c624a062180e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "direction"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to face toward"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hướng đông",
+     "en": "east"
+    },
+    {
+     "sense": 2,
+     "vi": "luôn hướng về tổ quốc",
+     "en": "to never stop missing one's motherland"
+    }
+   ]
+  },
+  {
+   "headword": "thậm chí",
+   "base": "c8828befea057a90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "even"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhiều tháng, thậm chí nhiều năm.",
+     "en": "Several months, even several years."
+    },
+    {
+     "sense": 1,
+     "vi": "Thậm chí một miligram chất độc cũng đủ chết người.",
+     "en": "Even a milligram of the poison can kill a person."
+    }
+   ]
+  },
+  {
+   "headword": "chả",
+   "base": "0468184edc00f2dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "patty (a flattened, grilled or fried portion of ground or chopped meat, egg, or seafood)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "Vietnamese pork sausage"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "not at all"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "informal"
+     ],
+     "gloss": "he/him, that dude"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Tau chả biết.",
+     "en": "I haven't a clue."
+    }
+   ]
+  },
+  {
+   "headword": "dành",
+   "base": "b75220408fc3cb1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to save up; to reserve (for)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "See dành dành."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dành thời gian",
+     "en": "to spend time (on)"
+    }
+   ]
+  },
+  {
+   "headword": "đặc biệt",
+   "base": "0228dc080631e840",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "special; unusual"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đặc biệt là",
+     "en": "especially ..."
+    }
+   ]
+  },
+  {
+   "headword": "may mắn",
+   "base": "d3c2d3ed983e8ab2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lucky; fortunate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến đấu",
+   "base": "80c4812226e6744d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fight; battle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight; to combat"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to take action; to struggle; to endeavor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đoán",
+   "base": "2a08523a4e6a519c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to guess; to predict; to surmise; to divine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trời ơi em đoán như thần!",
+     "en": "My god you predict it like a prophet!"
+    }
+   ]
+  },
+  {
+   "headword": "đồng ý",
+   "base": "333160d2e6571d5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to agree, to consent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bữa",
+   "base": "d9d3003c2e3d95ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "day"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bữa sáng",
+     "en": "breakfast"
+    },
+    {
+     "sense": 1,
+     "vi": "bữa trưa",
+     "en": "lunch"
+    },
+    {
+     "sense": 1,
+     "vi": "bữa tối",
+     "en": "dinner"
+    },
+    {
+     "sense": 2,
+     "vi": "Bữa nay đi đâu đây bay?",
+     "en": "Guys where are we going today?"
+    }
+   ]
+  },
+  {
+   "headword": "chàng",
+   "base": "d9be20e20510bae9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "endearing"
+     ],
+     "gloss": "an admirable/lovable young/young adult man"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "endearing",
+      "literary"
+     ],
+     "gloss": "you (referring to beloved man)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "literary"
+     ],
+     "gloss": "he/him, that admirable or lovable young man"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "humorous",
+      "literary",
+      "usually"
+     ],
+     "gloss": "he/him, my male romantic partner"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chisel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chàng hoàng tử",
+     "en": "a prince"
+    },
+    {
+     "sense": 1,
+     "vi": "chuyện chàng Hậu Nghệ bắn hạ Mặt Trời",
+     "en": "the tale of Hou Yi, the man who shot down the Suns"
+    },
+    {
+     "sense": 1,
+     "vi": "(humorous) anh chàng",
+     "en": "a lad; a dude"
+    },
+    {
+     "sense": 2,
+     "vi": "Chàng với thiếp đêm khuya trằn trọc",
+     "en": "You and I, in the dead of night"
+    }
+   ]
+  },
+  {
+   "headword": "xấu",
+   "base": "b59425ddcaccc6b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ugly; hideous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad; of low quality"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad; wicked"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xấu òm / xấu hoắc",
+     "en": "ugly as heck"
+    },
+    {
+     "sense": 1,
+     "vi": "Tên gì xấu quá vậy?",
+     "en": "What an awful name!"
+    },
+    {
+     "sense": 2,
+     "vi": "gạo xấu",
+     "en": "bad rice"
+    },
+    {
+     "sense": 3,
+     "vi": "kẻ xấu",
+     "en": "a bad person"
+    },
+    {
+     "sense": 3,
+     "vi": "theo nghĩa xấu",
+     "en": "in the pejorative sense"
+    }
+   ]
+  },
+  {
+   "headword": "cười",
+   "base": "9fc57f8719f6f24f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smile"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make an expression whereby the corners of the mouth are raised; to smile, to grin, to laugh, to sneer, to smirk, etc."
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to laugh at (to make an object of laughter or ridicule; to make fun of; to deride; to mock)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một nụ cười bằng mười thang thuốc bổ.",
+     "en": "A smile does as much as ten doses of supplementary medicine."
+    },
+    {
+     "sense": 2,
+     "vi": "buồn cười",
+     "en": "to want to laugh badly; to be hilarious"
+    },
+    {
+     "sense": 2,
+     "vi": "cười mỉm",
+     "en": "to smile or grin"
+    },
+    {
+     "sense": 2,
+     "vi": "cười đểu",
+     "en": "to sneer or smirk"
+    },
+    {
+     "sense": 3,
+     "vi": "Ăn mặc xấu người ta cười cho đấy!",
+     "en": "People's going to laugh at you if you dress poorly!"
+    }
+   ]
+  },
+  {
+   "headword": "đùa",
+   "base": "e36e1febfda52f2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to joke; to jest; to tease"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play; to mess around"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "màu",
+   "base": "6eb58c4fdd521edf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colour, color (spectral composition of visible light)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colour, color (hue)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colour, color (paint)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "external features that create a particular impression or convey a specific quality"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Khung cảnh nhuốm màu u buồn.",
+     "en": "The scene is tinked with sorrow."
+    }
+   ]
+  },
+  {
+   "headword": "bức",
+   "base": "e721fcfc8bcf53cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "force, coerce"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disturbed, upset, unsettled"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unbearably hot"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates walls, barriers, handwritten letters, drawings, paintings, photographs, sculptures or statues"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Trời bức lắm, có lẽ sắp mưa.",
+     "en": "The sky is unsettled; it must be about to rain."
+    },
+    {
+     "sense": 3,
+     "vi": "Không có lấy một chút gió nhẹ cho đỡ bức.",
+     "en": "There was not the slightest bit of wind to dispel the heat."
+    }
+   ]
+  },
+  {
+   "headword": "yêu cầu",
+   "base": "337223d5006a4861",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to demand"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "demand; request; requirement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầy",
+   "base": "7b24da3666c62af2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full, filled"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having indigestion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đổ xăng đầy bình",
+     "en": "to fill the gas tank full"
+    },
+    {
+     "sense": 1,
+     "vi": "Khúc ca đầy tình cảm.",
+     "en": "The song is full of emotion."
+    },
+    {
+     "sense": 2,
+     "vi": "Ăn cái đó vào dễ bị đầy.",
+     "en": "Eating that can easily cause one to have indigestion."
+    }
+   ]
+  },
+  {
+   "headword": "khoảng",
+   "base": "7f5ff99218293899",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "space; interval; span; distance"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "interval"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "about; approximately"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổng thống",
+   "base": "f636a1358d9fa0fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "president (of non-communist/non-socialist country)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tổng thống của Việt Nam Cộng hoà",
+     "en": "President of the Republic of Vietnam"
+    },
+    {
+     "sense": 1,
+     "vi": "Tổng thống Hoa Kì George Bush",
+     "en": "US President George Bush"
+    },
+    {
+     "sense": 1,
+     "vi": "Tổng thống Pháp Jacques Chirac",
+     "en": "French President Jacques Chirac"
+    }
+   ]
+  },
+  {
+   "headword": "phá",
+   "base": "720d58613bdf59ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to destroy, to demolish"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lagoon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúc",
+   "base": "8cd29ad399c3d089",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell someone that you wish/hope something good will happen to them; compare cầu (“to pray”) and ước (“to wish in your mind”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lean downward; to bend downward; to decline (in angle)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gọi điện chúc bà năm mới đi con.",
+     "en": "Call your grandma and wish her a happy new year."
+    },
+    {
+     "sense": 1,
+     "vi": "(Con) (kính) chúc cụ sống lâu trăm tuổi.",
+     "en": "I/We wish you live for a hundred years."
+    },
+    {
+     "sense": 1,
+     "vi": "Chúc anh một năm mới an khang thịnh vượng.",
+     "en": "I/We wish you a happy new year."
+    }
+   ]
+  },
+  {
+   "headword": "quý",
+   "base": "69072f6f5e5e5ec7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "valuable; precious"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "that one holds honorable or respectable; important"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treasure; to hold dear"
+    },
+    {
+     "position": 4,
+     "pos": "prefix",
+     "tags": [
+      "honorific",
+      "morpheme"
+     ],
+     "gloss": "honorific prefix"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quarter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "của quý",
+     "en": "valuable belongings"
+    },
+    {
+     "sense": 2,
+     "vi": "Hôm nay nhà mình có khách quý. Mấy đứa nhớ chào hỏi lễ phép nhá.",
+     "en": "We're having some important guests today. You kids don't forget to give them a cordial welcome and behave yourselves."
+    },
+    {
+     "sense": 3,
+     "vi": "Mẹ nó quý nó lắm. Cái gì cũng chiều.",
+     "en": "His mom really loves him. She panders to his every whim."
+    },
+    {
+     "sense": 4,
+     "vi": "quý ông; quý ngài",
+     "en": "a gentleman"
+    },
+    {
+     "sense": 4,
+     "vi": "quý bà",
+     "en": "a lady"
+    },
+    {
+     "sense": 4,
+     "vi": "quý vị",
+     "en": "sir; ma'am; everyone; you; our honorable audience"
+    },
+    {
+     "sense": 4,
+     "vi": "Kính thưa quý vị và các bạn.",
+     "en": "Dear our treasured audience."
+    },
+    {
+     "sense": 4,
+     "vi": "quý ông bà anh chị em",
+     "en": "honorable audience"
+    },
+    {
+     "sense": 4,
+     "vi": "Quý khách có muốn dùng gì nữa không ạ?",
+     "en": "Is there anything else you would like, sir/ma'am/our honorable customers?"
+    },
+    {
+     "sense": 5,
+     "vi": "thành tích quý 1",
+     "en": "first quarter achievements"
+    },
+    {
+     "sense": 5,
+     "vi": "nhân viên của quý",
+     "en": "employee of the quarter"
+    }
+   ]
+  },
+  {
+   "headword": "khả năng",
+   "base": "31f7540fe53d09b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "likelihood"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ability; capability"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khả năng em ấy qua khỏi không cao.",
+     "en": "The odds of her making it are low."
+    },
+    {
+     "sense": 2,
+     "vi": "Anh có khả năng đi trên than nóng.",
+     "en": "He is able to walk on searing charcoal."
+    }
+   ]
+  },
+  {
+   "headword": "thả",
+   "base": "894a0c904d776658",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to release; to let go; to set free"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drop (bomb); to cast; to lower down"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to breed (fish) in water; to fly (kite)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "to send out (affection, etc.); to give"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "thả like",
+     "en": "to give a like"
+    }
+   ]
+  },
+  {
+   "headword": "tiếc",
+   "base": "680720ac0adeaef0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to regret (feel sorry about some past thing)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to regret having lost (something)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiếc rằng, cuối cùng Lục Ứng Khâm không cho cô cơ hội ấy.",
+     "en": "Unfortunately, in the end Luc Ung Kham did not give her the chance."
+    },
+    {
+     "sense": 2,
+     "vi": "tiếc hùi hụi",
+     "en": "to deeply regret having lost something"
+    },
+    {
+     "sense": 2,
+     "vi": "tiếc của",
+     "en": "to regret having lost something of value"
+    },
+    {
+     "sense": 2,
+     "vi": "Tiếc cái ti-vi quá đi !",
+     "en": "Dang, that was a nice TV!"
+    }
+   ]
+  },
+  {
+   "headword": "nổi",
+   "base": "ca1c3a26f5aa88c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to float; to overfloat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise; to develop"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swell; to swell out; to appear"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be popular"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "be able to; to be capable of; to be in a position to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Dạo này có bài nào nổi?",
+     "en": "What songs are popular these days?"
+    },
+    {
+     "sense": 5,
+     "vi": "Hai người thì khiêng nổi cái ghế bành nặng trịch này chứ một mình em đâu có khiêng nổi.",
+     "en": "Two people can carry this heavy armchair; I can not carry it alone."
+    },
+    {
+     "sense": 5,
+     "vi": "7 người mới khiêng nổi cá hô dài 1,8m",
+     "en": "A 1.8-meter-long giant barb that can only be carried by seven people (a 2014 VnExpress article)"
+    }
+   ]
+  },
+  {
+   "headword": "cố gắng",
+   "base": "27020111a27e0267",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to try, to attempt"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strive, to endeavor"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "effort"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Những cố gắng của anh ta đã được đền đáp xứng đáng.",
+     "en": "His efforts have paid off."
+    }
+   ]
+  },
+  {
+   "headword": "ngày mai",
+   "base": "3d5186d9c69d244a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "tomorrow"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the future"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ít",
+   "base": "b916bbf4c474d652",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "few, little"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh",
+   "base": "481b4c662f1e9942",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disease; illness; sickness"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "defect; malfunction"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bad habit"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "sick; ill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vũ khí",
+   "base": "9d7e12e754756d83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weapon; arms"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lính",
+   "base": "d24d837886678591",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "enlisted servicemember"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "figuratively"
+     ],
+     "gloss": "subordinate; drone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lính đánh thuê",
+     "en": "mercenary"
+    }
+   ]
+  },
+  {
+   "headword": "vòng",
+   "base": "0a499c5025669aa5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "circle; ring"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "object shaped like a circle, such as necklace, bracelet, earring, hoop, etc."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "circumference; perimeter; measurement"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "round (of a competition or examination)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Indicates a particular time period."
+    },
+    {
+     "position": 6,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for round or circular trips."
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trace a circle; to form a circle; to encircle"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move in a circular or tortuous path"
+    },
+    {
+     "position": 9,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "winding; curving"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "trong vòng",
+     "en": "within (a time period)"
+    }
+   ]
+  },
+  {
+   "headword": "chồng",
+   "base": "50483c548e1b4d52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "husband"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stack up"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stack"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lấy chồng",
+     "en": "(of a woman) to get married"
+    },
+    {
+     "sense": 1,
+     "vi": "bố/mẹ chồng",
+     "en": "husband's father/mother"
+    }
+   ]
+  },
+  {
+   "headword": "trường",
+   "base": "743a5bc94bda3807",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "school (an institution dedicated to teaching and learning)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field or range"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "literary",
+      "poetic"
+     ],
+     "gloss": "long"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wild lychee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trường tiểu học/trung học cơ sở/trung học phổ thông/đại học",
+     "en": "an elementary school/junior high/senior high/university"
+    },
+    {
+     "sense": 1,
+     "vi": "đến trường",
+     "en": "to physically come to a school, not necessarily to study; (literary) to go to school"
+    },
+    {
+     "sense": 1,
+     "vi": "nhà trường",
+     "en": "a school administration"
+    },
+    {
+     "sense": 2,
+     "vi": "trường bắn",
+     "en": "a shooting range"
+    },
+    {
+     "sense": 2,
+     "vi": "trường lái",
+     "en": "a range for motorcycle-riding or driving practice"
+    },
+    {
+     "sense": 2,
+     "vi": "trường từ vựng",
+     "en": "a semantic field"
+    },
+    {
+     "sense": 2,
+     "vi": "trường nhìn",
+     "en": "a field of view"
+    },
+    {
+     "sense": 3,
+     "vi": "ngày trường",
+     "en": "long days"
+    }
+   ]
+  },
+  {
+   "headword": "cũ",
+   "base": "f88649121e27c2c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old, but not ancient; compare cổ (“ancient”) and già (of a lifeform)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "obsolete"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "secondhand (not new; previously owned and used by another)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "former"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "no longer close"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "từ/nghĩa cũ",
+     "en": "an obsolete word/sense"
+    },
+    {
+     "sense": 4,
+     "vi": "Liên Xô cũ",
+     "en": "the former Soviet Union"
+    },
+    {
+     "sense": 4,
+     "vi": "Nam Tư cũ",
+     "en": "the former Yugoslavia"
+    },
+    {
+     "sense": 5,
+     "vi": "bạn cũ",
+     "en": "old friend"
+    },
+    {
+     "sense": 5,
+     "vi": "người yêu/người tình/bồ/bạn trai/bạn gái cũ",
+     "en": "an ex-lover/boyfriend/girlfriend"
+    },
+    {
+     "sense": 5,
+     "vi": "chồng/vợ cũ",
+     "en": "an ex-husband/wife"
+    }
+   ]
+  },
+  {
+   "headword": "quả",
+   "base": "c514fdec89e67ca6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "piece of fruit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "broadly"
+     ],
+     "gloss": "something round"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "round, painted casket (i.e., a jewelry box) with a lid"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "punch (a hit or strike with one's fist)"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "Refers to anything round, such as a piece of fruit."
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "really; truly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "quả trầu",
+     "en": "small box of betel nuts"
+    },
+    {
+     "sense": 4,
+     "vi": "Tao đấm cho mày một quả bây giờ!",
+     "en": "I'll punch you!"
+    },
+    {
+     "sense": 5,
+     "vi": "quả bóng",
+     "en": "a football; a balloon"
+    },
+    {
+     "sense": 5,
+     "vi": "quả trứng",
+     "en": "an egg"
+    },
+    {
+     "sense": 5,
+     "vi": "quả tim",
+     "en": "the heart"
+    },
+    {
+     "sense": 6,
+     "vi": "Đây quả là vấn đề phức tạp.",
+     "en": "This truly is a complicated problem."
+    }
+   ]
+  },
+  {
+   "headword": "tiếp",
+   "base": "f2d2932704c365c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be contiguous to; to be adjacent to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to join"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to continue (after a verb)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive (guests); to entertain"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to add (strength, etc.) to; to transfuse"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to land"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to graft (in agriculture)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "ăn tiếp",
+     "en": "to continue eating"
+    },
+    {
+     "sense": 3,
+     "vi": "xem tiếp",
+     "en": "to continue watching"
+    },
+    {
+     "sense": 5,
+     "vi": "tiếp nhiên liệu",
+     "en": "to add fuel"
+    },
+    {
+     "sense": 6,
+     "vi": "tiếp đất khẩn cấp",
+     "en": "emergency landing"
+    }
+   ]
+  }
+ ]
+}

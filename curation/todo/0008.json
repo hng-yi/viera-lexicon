@@ -1,0 +1,1603 @@
+{
+ "batch": "0008",
+ "entries": [
+  {
+   "headword": "ngươi",
+   "base": "7a4b47f0d0147c17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "you (to address perceived inferiors)"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "literary",
+      "obsolete"
+     ],
+     "gloss": "prefixes someone's name, functioning either as a vocative or focus marker."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pupil (the hole in the middle of the iris of the eye)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các ngươi là quan tại nhiệm, khi trở về, phải bảo dân gắng sức làm ruộng, xử án phải cho công bằng, nếu có trộm cướp, phải hết lòng lùng bắt, không được thờ ơ lười biếng.",
+     "en": "You are incumbent mandarins, once [you] come back, [you] must tell the people to work hard on the paddies, [you] must judge cases justly, investigate robberies and thefts -if there be- to the best of your ability, and never be lazy and complacent."
+    }
+   ]
+  },
+  {
+   "headword": "chị",
+   "base": "01518449dfcebe7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an elder sister"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a female cousin who's descended from an ancestor who is/was an older sibling to yours or your spouse's"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a female who's (presumably) slightly older than you or the person you're talking to"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your big sister"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my big sister"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your female cousin who's descended from an ancestor who is/was an older sibling to yours or your spouse's"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my female cousin who's descended from an ancestor who is/was an older sibling to mine or my spouse's"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "I/me, a female who's (presumably) slightly older than you"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "you, a female who's (presumably) slightly older than me"
+    },
+    {
+     "position": 10,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, a young-adult woman"
+    },
+    {
+     "position": 11,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, the high schoolgirl reading this textbook"
+    },
+    {
+     "position": 12,
+     "pos": "pron",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "she/her, that admirable/lovable young-adult woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 11,
+     "vi": "Trọng Thuỷ gây nên sự sụp đổ cơ đồ Âu Lạc và cái chết của Mị Châu. Vậy anh (chị) hiểu như thế nào về hình ảnh “ngọc trai – giếng nước” ?",
+     "en": "Trọng Thuỷ caused the downfall of Âu Lạc and Mị Châu's death. So, what do you think about the imagery of the pearls and the well?"
+    }
+   ]
+  },
+  {
+   "headword": "tiền",
+   "base": "8e6ec76780ac2b77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "money"
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "pre-"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "early (used to distinguish similarly named dynasties)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiền túi",
+     "en": "one's own money"
+    },
+    {
+     "sense": 2,
+     "vi": "kỉ Tiền Cambri",
+     "en": "the Precambrian"
+    },
+    {
+     "sense": 3,
+     "vi": "nhà/triều Tiền Lê",
+     "en": "the Early Lê dynasty"
+    }
+   ]
+  },
+  {
+   "headword": "gái",
+   "base": "a00cbd709c412dc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "girls and women"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "whores; female prostitutes"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "feminine"
+     ],
+     "gloss": "female"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wife of, Mrs (when used after a pronoun or noun denoting a male person)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "làm gái",
+     "en": "to be a whore"
+    },
+    {
+     "sense": 3,
+     "vi": "chị gái",
+     "en": "an older sister"
+    },
+    {
+     "sense": 3,
+     "vi": "em gái",
+     "en": "a younger sister"
+    },
+    {
+     "sense": 3,
+     "vi": "con gái",
+     "en": "a daughter / girl"
+    },
+    {
+     "sense": 3,
+     "vi": "cháu gái",
+     "en": "a granddaughter / a niece"
+    },
+    {
+     "sense": 3,
+     "vi": "bạn gái",
+     "en": "a young female friend / a girlfriend"
+    },
+    {
+     "sense": 3,
+     "vi": "bác gái",
+     "en": "a parent's older sister / a woman older than one's parents"
+    },
+    {
+     "sense": 3,
+     "vi": "Bác gái có nhà không ạ?",
+     "en": "Is she (a woman older than my parents) home?"
+    },
+    {
+     "sense": 4,
+     "vi": "Phi hỏi, \"Vậy bác Sáu gái đâu rồi ?\"",
+     "en": "Phi asked, \"Where did Mrs Sáu go then?\""
+    }
+   ]
+  },
+  {
+   "headword": "bên",
+   "base": "4e1677aaa122212e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "side (one half of something or someone)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "side (a line of descent traced through a particular relative)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "side (a group having a particular allegiance in a conflict or competition)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aspect, facet"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "by; beside"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "neighboring"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "side, lateral"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bên ngoài đang mưa to",
+     "en": "it's raining hard outside"
+    },
+    {
+     "sense": 2,
+     "vi": "bên nội, bên ngoại",
+     "en": "father's side, mother's side"
+    },
+    {
+     "sense": 3,
+     "vi": "bên địch",
+     "en": "enemy side"
+    },
+    {
+     "sense": 4,
+     "vi": "bên tốt bên xấu",
+     "en": null
+    },
+    {
+     "sense": 5,
+     "vi": "bên con nước",
+     "en": "beside the stream"
+    },
+    {
+     "sense": 6,
+     "vi": "làng bên",
+     "en": "neighboring village"
+    },
+    {
+     "sense": 7,
+     "vi": "mặt bên của hình chóp",
+     "en": "lateral surface of a pyramid"
+    }
+   ]
+  },
+  {
+   "headword": "quay",
+   "base": "b921d26c745f4585",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn; to revolve; to swivel"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whirl; to reverse; to turn back"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move on, to proceed"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spit roast"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to film"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to question thoroughly and in a tricky manner (often in the context of exams or lessons)"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cheat (in exams)"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "broadly",
+      "transitive"
+     ],
+     "gloss": "to dial (a phone number)"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wooden spinning top"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 7,
+     "vi": "quay bài",
+     "en": null
+    },
+    {
+     "sense": 8,
+     "vi": "quay số 9-1-1",
+     "en": "to dial 9-1-1"
+    }
+   ]
+  },
+  {
+   "headword": "nhớ",
+   "base": "c53e2ec49ad110e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remember"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to miss (feel the absence of someone or something)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhớ về nhà sớm nha.",
+     "en": "Come back soon, OK?"
+    },
+    {
+     "sense": 2,
+     "vi": "nỗi nhớ",
+     "en": "feeling of longing"
+    },
+    {
+     "sense": 2,
+     "vi": "nhớ nhà",
+     "en": "to miss home"
+    },
+    {
+     "sense": 2,
+     "vi": "nhớ thương",
+     "en": "to miss dearly; great longing/missing"
+    }
+   ]
+  },
+  {
+   "headword": "yêu",
+   "base": "f846df771c5bb06a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to love: to have a strong affection for (someone, something)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to love: to love (someone) romantically"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "lovingly, affectionately (jocularly, not violently or abusively)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "beloved, darling, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bạn yêu nhạc pop",
+     "en": "pop music lover"
+    },
+    {
+     "sense": 1,
+     "vi": "người yêu nước",
+     "en": "patriot"
+    },
+    {
+     "sense": 1,
+     "vi": "Muốn trụ lâu trong nghề này thì phải yêu nghề.",
+     "en": "If you want to last long in this profession, you need to love it."
+    },
+    {
+     "sense": 1,
+     "vi": "Người bề tôi được vua yêu là Nguyễn Dư nói mình có phép cấm được sấm.",
+     "en": "Nguyễn Dư, a servant the king loved, claimed to have the power to stop thunder."
+    },
+    {
+     "sense": 1,
+     "vi": "Bà ơi bà, cháu yêu bà lắm.",
+     "en": "Grandma, I love you so."
+    },
+    {
+     "sense": 1,
+     "vi": "Ông đã bước vào tuổi 70 nhưng vẫn nhiệt tình làm việc. Những công việc thường ngày của một bác sĩ nha khoa và niềm đam mê cống hiến nghệ thuật cho cuộc đời, như ông nói: “Đơn giản lắm, hãy yêu đời, yêu người rồi hãy hát”.",
+     "en": "He has entered his seventies yet he is still working fervently, performing the daily tasks and duties of a dentist as well as zealously making artistic contributions to life, as he says: \"It's simple. Love life, love people, then sing!\""
+    },
+    {
+     "sense": 2,
+     "vi": "Em thương anh lắm, nhưng không yêu thôi.",
+     "en": "I cherish you very much, yet I love you not."
+    },
+    {
+     "sense": 4,
+     "vi": "vợ yêu",
+     "en": "darling wife"
+    },
+    {
+     "sense": 4,
+     "vi": "con gái yêu của mẹ",
+     "en": "my darling daughter"
+    },
+    {
+     "sense": 4,
+     "vi": "Này em yêu ơi, tình anh ngàn lời muốn nói",
+     "en": "Hey my beloved, I have a thousand words to say to you"
+    }
+   ]
+  },
+  {
+   "headword": "kẻ",
+   "base": "3b9623c52336d4e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "individual, person, man; specifically, put before a verb/adjective to mean a specific type of people"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "informal"
+     ],
+     "gloss": "Indicates a country or a region"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw a line"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "1923, Hồ Biểu Chánh, Tỉnh mộng, Đức Lưu Phương, chapter 6",
+     "en": "So long have I resented people's morals; they witness occasions that clearly show them that the rich and noble often cause more trouble than the poor and humble, and that these poor and humble are not all a \"band of depravity\", but that they often benefit society a lot."
+    },
+    {
+     "sense": 1,
+     "vi": "kẻ ám sát",
+     "en": "assassin"
+    },
+    {
+     "sense": 1,
+     "vi": "kẻ giết người",
+     "en": "murderer"
+    },
+    {
+     "sense": 1,
+     "vi": "kẻ cắp",
+     "en": "thief"
+    },
+    {
+     "sense": 1,
+     "vi": "kẻ cướp",
+     "en": "robber"
+    },
+    {
+     "sense": 1,
+     "vi": "kẻ trộm",
+     "en": "thief"
+    }
+   ]
+  },
+  {
+   "headword": "luôn",
+   "base": "93befcc392f14e65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "always"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "continually"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at once; straight away"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chẳng",
+   "base": "ba3294cfec81886b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "not at all"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "even if not"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "if not"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "there is not"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chẳng biết.",
+     "en": "No idea."
+    },
+    {
+     "sense": 2,
+     "vi": "Chẳng chua, nhưng vẫn có thể là chanh.",
+     "en": "Even if it isn’t sour, it could still be a lemon."
+    }
+   ]
+  },
+  {
+   "headword": "nhanh",
+   "base": "cc37782f8894e864",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fast; quick"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "fast; quickly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó nhanh lắm.",
+     "en": "He is very fast."
+    }
+   ]
+  },
+  {
+   "headword": "tay",
+   "base": "c969e91838b780b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "hand"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "arm"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "guy; dude; -er, -ist"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quẹo bên tay phải",
+     "en": "to turn right (to the right-hand side)"
+    },
+    {
+     "sense": 2,
+     "vi": "tay áo",
+     "en": "a sleeve"
+    },
+    {
+     "sense": 3,
+     "vi": "Tay này không phải vừa đâu!",
+     "en": "This dude is no middling one!"
+    }
+   ]
+  },
+  {
+   "headword": "cha",
+   "base": "f0494a6f1797dcb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "father"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "humorous"
+     ],
+     "gloss": "dude"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "I/me, your father"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "you, my father"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, father"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thôi dẹp đi cha!",
+     "en": "Stop it, dude!"
+    }
+   ]
+  },
+  {
+   "headword": "đều",
+   "base": "23e83ee628480e4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "equal in size or dimension"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "constant"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "equilateral"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in a constant rhythm"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "into equal portions"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "equally"
+    },
+    {
+     "position": 7,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "always"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 7,
+     "vi": "đều đều",
+     "en": "at a rather even tempo"
+    }
+   ]
+  },
+  {
+   "headword": "ơi",
+   "base": "9fe5cd47f22de4e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "vocative particle; oh, hey"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chú gì ơi!",
+     "en": "Hey, Uncle!"
+    },
+    {
+     "sense": 1,
+     "vi": "Anh gì ơi! Anh mua giùm em một vé đi ạ.",
+     "en": "Hey, Big Brother! Please buy a [lottery] ticket for me!"
+    },
+    {
+     "sense": 1,
+     "vi": "Mẹ ơi! Cơm chín chưa ạ?",
+     "en": "Hey Mom! Is the rice ready?"
+    },
+    {
+     "sense": 1,
+     "vi": "Trời (đất) ơi!",
+     "en": "Good heavens!"
+    },
+    {
+     "sense": 1,
+     "vi": "Chúa ơi!",
+     "en": "Oh my God! ~ Oh Lord! ~ Oh Lordy!"
+    },
+    {
+     "sense": 1,
+     "vi": "Con ơi là con!",
+     "en": "Oh you brat! (to express disapproval, frustration, and/or exasperation)"
+    },
+    {
+     "sense": 1,
+     "vi": "À (á à à) ơi. Mẹ ru con ngủ cho ngoan.",
+     "en": "Oh, little baby, I'm singing you to sleep."
+    },
+    {
+     "sense": 1,
+     "vi": "Má ơi, con về rồi nè !",
+     "en": "Mom, I'm home!"
+    },
+    {
+     "sense": 1,
+     "vi": "Tía ơi má dìa.",
+     "en": "Pa! Ma's Home!"
+    }
+   ]
+  },
+  {
+   "headword": "xảy",
+   "base": "b359e731e1b7f326",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to occur; to happen (by itself)"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "suddenly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xảy ra",
+     "en": "to happen"
+    }
+   ]
+  },
+  {
+   "headword": "ừ",
+   "base": "ea91836ebd6d8f8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "yeah"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nope"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to express agreement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Ông cọp ừ; người ấy lấy dây trói lại, rồi lấy bắp cầy đánh mãi, bảo rằng: “Trí khôn đây này!”.",
+     "en": "Tiger agreed; the person then tied the tiger up, and kept beating it with a plough-beam, saying: “Here's where the wisdom is!”"
+    }
+   ]
+  },
+  {
+   "headword": "ổn",
+   "base": "7d6ada6d2acc5847",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "settled; steady"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "satisfactory; fair; OK"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fine; decent"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fine; OK; in healthy state"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Vẽ vầy ổn chưa?",
+     "en": "How is my painting?"
+    },
+    {
+     "sense": 3,
+     "vi": "Phim này ổn, chả có gì đặc biệt.",
+     "en": "This movie is fine, nothing special though."
+    },
+    {
+     "sense": 4,
+     "vi": "Ổn không?",
+     "en": "Are you OK?"
+    }
+   ]
+  },
+  {
+   "headword": "giống",
+   "base": "2e32386d432216f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "usually"
+     ],
+     "gloss": "human race"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "breed"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cultivar"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gender"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "genus"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be alike, to be similar"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be alike, be similar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "tương hợp giống và số",
+     "en": "grammatical agreement"
+    },
+    {
+     "sense": 4,
+     "vi": "giống đực",
+     "en": "the masculine gender"
+    },
+    {
+     "sense": 4,
+     "vi": "giống cái",
+     "en": "the feminine gender"
+    }
+   ]
+  },
+  {
+   "headword": "thế nào",
+   "base": "15534327501d85db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Northern",
+      "dialectal",
+      "formal"
+     ],
+     "gloss": "how; what; in what manner; in what way"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "inevitably, somehow or other, one way or another"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi nghe thiên hạ nói vậy nên tò mò muốn về VN một chuyến xem đời sống thay đổi thế nào.",
+     "en": "I heard people say that so I was curious and wanted to return to Vietnam one time to see how life had changed."
+    },
+    {
+     "sense": 1,
+     "vi": "Nếu em được nhận vào làm quản lý cho bà thì lương lậu bà trả thế nào ạ?",
+     "en": "If I am accepted to work as a manager for you what will my salary be?"
+    },
+    {
+     "sense": 2,
+     "vi": "Con thế nào mò vào bánh.",
+     "en": "One way or another, you (child) always find your way to the pastries."
+    }
+   ]
+  },
+  {
+   "headword": "Đường",
+   "base": "bacaea4e8be2e61c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "related to Tang"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Chinese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đường",
+   "base": "683724a341f7cac5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "road; street; path; route; trace"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "path (metaphorical course)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "region"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tract"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "uncountable"
+     ],
+     "gloss": "sugar (sucrose in the form of small crystals)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lên đường",
+     "en": "to set out; to be on the road"
+    },
+    {
+     "sense": 1,
+     "vi": "Ở Thành phố Hồ Chí Minh có bốn đường mang tên người Pháp: Alexandre de Rhodes, Pasteur, Calmette và Yersin.",
+     "en": "There are four streets in Ho Chi Minh City named after Frenchmen: Alexandre de Rhodes, Pasteur, Calmette and Yersin."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi đang mơ màng, thì trước mắt tôi hiện ra cảnh tượng một cánh đồng cát, màu xanh biếc, cạnh bờ biển; trên vòm trời xanh đậm, treo lửng lơ một vừng trăng tròn vàng thắm. Tôi nghĩ bụng: đã gọi là hy vọng thì không thể nói đâu là thực, đâu là hư. Cũng giống như những con đường trên mặt đất; kỳ thực, trên mặt đất vốn làm gì có đường. Người ta đi mãi thì thành đường thôi.",
+     "en": "I was pondering, and then there was this deep-green sandy beach in front of me; and a golden full moon hanging in the blue sky. I thought to myself: you can’t really tell what’s real and what’s not about hope. Kind of like roads; if you think about it, there used to be no such thing as a road. Only when people have passed by back and forth enough times, roads start to form."
+    },
+    {
+     "sense": 2,
+     "vi": "đường đời",
+     "en": "life path"
+    },
+    {
+     "sense": 3,
+     "vi": "đường chân trời",
+     "en": "skyline"
+    },
+    {
+     "sense": 4,
+     "vi": "đường xuôi",
+     "en": "the lowland"
+    },
+    {
+     "sense": 5,
+     "vi": "đường tiêu hóa",
+     "en": "digestive tract"
+    }
+   ]
+  },
+  {
+   "headword": "Ý",
+   "base": "5e45ba07ceab186d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Italian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ý",
+   "base": "60cebec76fb42378",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a point (element in larger whole)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "what one means"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ý chính",
+     "en": "main point; key point"
+    },
+    {
+     "sense": 1,
+     "vi": "Bài có ba ý.",
+     "en": "There are three key points to this essay."
+    },
+    {
+     "sense": 2,
+     "vi": "Ý anh là sao?",
+     "en": "What do you mean? / What's your point?"
+    },
+    {
+     "sense": 2,
+     "vi": "Ý tôi nói là phải cẩn thận một tí.",
+     "en": "What I meant to say is that one has to be a little more careful."
+    },
+    {
+     "sense": 2,
+     "vi": "Ý là cần nhiều thời gian hơn.",
+     "en": "Basically, that means we need more time."
+    }
+   ]
+  },
+  {
+   "headword": "hỏi",
+   "base": "e3cce6b6a2de7eb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ask (request an answer)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thanh hỏi",
+     "en": "the tone as in the word hỏi"
+    }
+   ]
+  },
+  {
+   "headword": "kia",
+   "base": "00c570764da63fd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "that, over there"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "other, opposite"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "two removed from the present"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "over there"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Khi ngồi nhìn lên chúng ta nghĩ đó là phía trên, nhìn xuống ta nghĩ đó là phía dưới. Nhưng cùng một lúc đó, đồng loại ta ở phía bên kia địa cầu nhìn sẽ thấy ngược lại.",
+     "en": "When we are seated and look up, we imagine that is above; looking down we imagine that is below. But at the same time, people at the other side of the world will see it the other way around."
+    },
+    {
+     "sense": 3,
+     "vi": "ngày kia",
+     "en": "the day after tomorrow"
+    },
+    {
+     "sense": 3,
+     "vi": "hôm kia",
+     "en": "the day before yesterday"
+    },
+    {
+     "sense": 3,
+     "vi": "năm kia",
+     "en": "two years ago"
+    }
+   ]
+  },
+  {
+   "headword": "bằng",
+   "base": "e1bb4ccf049bdf84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "flat"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a ngang or huyền tone"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "carrying a bằng tone"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "equal to"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "congruent to"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diploma; certificate; license; degree"
+    },
+    {
+     "position": 7,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "by; by means of"
+    },
+    {
+     "position": 8,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "made of"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to count (on), to depend (on)"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "rare"
+     ],
+     "gloss": "(chim ~) Peng, a giant mythical bird"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "một cộng một bằng hai",
+     "en": "one plus one equal to two"
+    },
+    {
+     "sense": 5,
+     "vi": "góc A và góc B bằng nhau",
+     "en": "angle A and angle B are congruent"
+    },
+    {
+     "sense": 5,
+     "vi": "góc A bằng góc B",
+     "en": "angle A is congruent to angle B"
+    },
+    {
+     "sense": 7,
+     "vi": "bằng đường bộ",
+     "en": "by land"
+    },
+    {
+     "sense": 7,
+     "vi": "bằng ô tô",
+     "en": "by car"
+    },
+    {
+     "sense": 7,
+     "vi": "bằng tiếng Việt",
+     "en": "in Vietnamese"
+    },
+    {
+     "sense": 8,
+     "vi": "bức tường bằng gạch",
+     "en": "a wall of bricks; a brick wall"
+    },
+    {
+     "sense": 9,
+     "vi": "- Lúc bấy giờ mà bằng vào khí khái anh hùng, thân thủ hào kiệt của hai vị, tìm tới Lâm An bắt thằng gian thần ấy, ba người bọn ta ăn thịt uống máu y thì không phải ngồi đây ăn đậu hủ uống rượu lạnh!",
+     "en": "\"If at the time I could've counted on the heroic indomitability and the great abilities of the two of you to go to Lín'ān and capture that treacherous courtier, the three of us would now be eating his flesh and drinking his blood rather than sitting here eating tofu and drinking cold rice wine!\""
+    },
+    {
+     "sense": 10,
+     "vi": "Zhuangzi, ch. 1. English translation by James Legge; Vietnamese translation by Nguyễn Hiến Lê",
+     "en": "In the Northern Ocean there is a fish, the name of which is Kun - I do not know how many li in size. It changes into a bird with the name of Peng, the back of which is (also) - I do not know how many li in extent."
+    }
+   ]
+  },
+  {
+   "headword": "chú",
+   "base": "efa77ac2e3a6646d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paternal uncle, father's younger brother"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maternal uncle-in-law, mother's sister's husband"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paternal uncle-in-law, father's sister's husband"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "man who's presumably slightly younger than your parents"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your father's younger brother"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your mother's sister's husband"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, a man who's presumably slightly younger than your parents"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my father's younger brother"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my mother's sister's husband"
+    },
+    {
+     "position": 10,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, a man who's presumably slightly younger than my parents"
+    },
+    {
+     "position": 11,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, a fella who's either slightly younger, or less experienced than me"
+    },
+    {
+     "position": 12,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "literary"
+     ],
+     "gloss": "he/him, that young fellow"
+    },
+    {
+     "position": 13,
+     "pos": "pron",
+     "tags": [
+      "endearing",
+      "literary"
+     ],
+     "gloss": "he/him, that anthropomorphic male animal"
+    },
+    {
+     "position": 14,
+     "pos": "classifier",
+     "tags": [
+      "endearing",
+      "literary"
+     ],
+     "gloss": "indicates an animal, especially an anthropomorphic one"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Chú gì ơi!",
+     "en": "Hey, Mister!"
+    },
+    {
+     "sense": 14,
+     "vi": "Chú mèo đi hia",
+     "en": "Puss in Boots"
+    },
+    {
+     "sense": 14,
+     "vi": "những chú gà trống Gô-loa",
+     "en": "the \"Gallic Roosters;\" the French male footballers"
+    }
+   ]
+  }
+ ]
+}

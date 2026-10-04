@@ -1,0 +1,1584 @@
+{
+ "batch": "0017",
+ "entries": [
+  {
+   "headword": "đám",
+   "base": "f0bf662e494322cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cluster; heap"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crowd; throng; gathering"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates things with the form of a cluster"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lựa chọn",
+   "base": "1ce9cca7eb65deb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to choose; to select; to pick"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "choice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lựa chọn đúng đắn",
+     "en": "the right choice"
+    }
+   ]
+  },
+  {
+   "headword": "vô",
+   "base": "7a4669c161a4f7fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to enter; to go into"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to toast"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to go southwards in Vietnam"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "emphasizing sentence-ending particle"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in, into, upon"
+    },
+    {
+     "position": 6,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "cheers! (common toast used when drinking)"
+    },
+    {
+     "position": 7,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "without, -less, un-, in-"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vô nhà lấy con dao cho ba mày làm cá coi cu Thắng.",
+     "en": "Thắng boy, go inside and fetch the knife so that your dad can start preparing some fish."
+    },
+    {
+     "sense": 4,
+     "vi": "Uống cho lắm vô! Giờ đau đầu!",
+     "en": "You drank yourself to death and now you're wondering why you're having a headache!"
+    },
+    {
+     "sense": 4,
+     "vi": "Mại vô!",
+     "en": "Check it out, guys!"
+    },
+    {
+     "sense": 5,
+     "vi": "Nhìn vô nhà coi, có ai hông?",
+     "en": "Did you see anyone when you looked into the house?"
+    },
+    {
+     "sense": 6,
+     "vi": "Một, hai, ba, dzô!",
+     "en": "One, two, three, cheers!"
+    },
+    {
+     "sense": 7,
+     "vi": "vô văn hoá",
+     "en": "ill-mannered"
+    },
+    {
+     "sense": 7,
+     "vi": "vô tác dụng",
+     "en": "ineffective"
+    }
+   ]
+  },
+  {
+   "headword": "cắt",
+   "base": "b2330660bc20c0fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sever using a sharp object; to cut, snip, slit, trim, clip, shear, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to intersect"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "falcon (bird of the genus Falco)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sao chép, cắt và dán",
+     "en": "to copy, cut and paste"
+    },
+    {
+     "sense": 2,
+     "vi": "đường thẳng d cắt đường thẳng f tại điểm B",
+     "en": "line d intersects line f at point B"
+    },
+    {
+     "sense": 3,
+     "vi": "nhanh như cắt",
+     "en": "very quick; very swift"
+    }
+   ]
+  },
+  {
+   "headword": "vua",
+   "base": "033743ed7348cf41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monarch (ruler)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "king"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a king"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đức vua",
+     "en": "the king"
+    },
+    {
+     "sense": 3,
+     "vi": "mối vua",
+     "en": "a king termite"
+    },
+    {
+     "sense": 3,
+     "vi": "ong vua",
+     "en": "a drone"
+    }
+   ]
+  },
+  {
+   "headword": "thuộc",
+   "base": "c67fd1fdaaa44dc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to belong to, to be subordinate to, or to be under the management of"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be a proper subset of"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to know (lesson, road, etc.) by heart"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tan (leather)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thuộc Pháp",
+     "en": "French"
+    },
+    {
+     "sense": 1,
+     "vi": "cơ quan thuộc Bộ Chính trị",
+     "en": "an institution of the Politburo"
+    },
+    {
+     "sense": 1,
+     "vi": "học sinh thuộc loại giỏi",
+     "en": "a good student"
+    },
+    {
+     "sense": 2,
+     "vi": "A thuộc B (A ⊂ B)",
+     "en": "A is a proper subset of B"
+    }
+   ]
+  },
+  {
+   "headword": "riêng",
+   "base": "d0c986c49a132d4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "private; personal"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "distinct; specific; separate; particular"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "as to; as regards; except for"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phòng riêng",
+     "en": "one's own room"
+    },
+    {
+     "sense": 2,
+     "vi": "dành riêng",
+     "en": "to use exclusively (for); to reserve (for)"
+    },
+    {
+     "sense": 2,
+     "vi": "phong cách riêng",
+     "en": "individual style"
+    }
+   ]
+  },
+  {
+   "headword": "tự do",
+   "base": "b4ff8de2e0ff1769",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "freedom; liberty"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "free (not imprisoned; unconstrained; mathematics: unconstrained; software: with very few limitations on distribution or improvement)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Độc lập - Tự do - Hạnh phúc",
+     "en": "Independence - Liberty - Happiness"
+    },
+    {
+     "sense": 1,
+     "vi": "Tự do, bình đẳng, bác ái",
+     "en": "Liberty, equality, fraternity"
+    },
+    {
+     "sense": 1,
+     "vi": "Không có gì quý hơn độc lập, tự do. Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!",
+     "en": "Nothing is more precious than independence and freedom. When victory day comes, our people will rebuild our country and endow it with bigger and more beautiful construction."
+    },
+    {
+     "sense": 2,
+     "vi": "phần mềm tự do",
+     "en": "free/libre software"
+    }
+   ]
+  },
+  {
+   "headword": "tham gia",
+   "base": "e3daad245844abaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to participate, to take part"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cưng",
+   "base": "cd8205bd4a95fa6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to indulge; to pamper; to spoil; to coddle excessively (especially a child or a pet)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dear; darling; beloved"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "you kid; kiddo; honey; dear; darling; sweetheart"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mẹ nó cưng nó lắm.",
+     "en": "His mother spoils him very much."
+    },
+    {
+     "sense": 2,
+     "vi": "chó cưng",
+     "en": "one's beloved dog"
+    },
+    {
+     "sense": 2,
+     "vi": "Bé cưng của mẹ ơi!",
+     "en": "Oh, my sweet darling baby!"
+    },
+    {
+     "sense": 3,
+     "vi": "Cho chị xin 2000 đi cưng.",
+     "en": "That's 2000 dongs [for your bus ticket], love."
+    }
+   ]
+  },
+  {
+   "headword": "cảm giác",
+   "base": "b0176aa10b88c6e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a feel, feeling or sensation; a vibe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt động",
+   "base": "50eca7691826a923",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "activity, event"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "active"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hẳn",
+   "base": "8734bd3754fed6ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "certainly; surely"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely; finally"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tòa",
+   "base": "c00b2fe36cdd322a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of toà."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of toà."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mơ",
+   "base": "9fcf2e9798c6088e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dream"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ume"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng",
+   "base": "b120427c1bc95b29",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "yellow"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gold"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "giá vàng hôm nay",
+     "en": "the price of gold today"
+    }
+   ]
+  },
+  {
+   "headword": "toàn bộ",
+   "base": "bec245da5e07cc38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "everything, all"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "entire, whole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình yêu",
+   "base": "c38fdae87a91d72a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "love; passion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sử dụng",
+   "base": "545c783255b3c204",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to utilize; to employ"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đọc kĩ hướng dẫn sử dụng trước khi dùng.",
+     "en": "Read the usage instructions carefully before use."
+    },
+    {
+     "sense": 1,
+     "vi": "Anh biết sử dụng máy tính chứ?",
+     "en": "Do you know how to use computers?"
+    },
+    {
+     "sense": 1,
+     "vi": "sử dụng kiến thức của mình vào mục đích chính trị",
+     "en": "to use one's knowledge for political ends"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhiều năm qua due to đã được sử dụng rộng rãi như một giới từ kép.",
+     "en": "“Due to” has been widely used for many years as a compound preposition."
+    },
+    {
+     "sense": 1,
+     "vi": "các điều khoản sử dụng",
+     "en": "terms of use"
+    },
+    {
+     "sense": 1,
+     "vi": "độc quyền sử dụng cái gì",
+     "en": "to be the sole user of something; to have an exclusive right to use something"
+    }
+   ]
+  },
+  {
+   "headword": "khoan",
+   "base": "4bce10b938622c66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "to wait a bit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a drill"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "suy nghĩ",
+   "base": "c3393bc5b2a73e9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to think; to ponder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vượt",
+   "base": "7dbd8bff39551eec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cross a mark, line or obstacle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(chạy) vượt rào",
+     "en": "to jump over a fence or hurdle; to hurdle"
+    },
+    {
+     "sense": 1,
+     "vi": "vượt đèn đỏ",
+     "en": "to run a red light"
+    }
+   ]
+  },
+  {
+   "headword": "tim",
+   "base": "cdee829f463ded28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(anatomy, cardiology) a heart"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(literary) heart (as seat of emotions)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heart (symbol)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hẳn là các vị thần trên núi Ô-lem-pơ đã ban cho nàng một trái tim sắt đá hơn ai hết trong đám đàn bà yếu đuối,[…]",
+     "en": "The Olympians must have granted you the hardest heart among the frail women, […]"
+    },
+    {
+     "sense": 3,
+     "vi": "hình trái tim",
+     "en": "heart shape"
+    }
+   ]
+  },
+  {
+   "headword": "trái",
+   "base": "8c8729653582871e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "often"
+     ],
+     "gloss": "left (side, direction)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reverse (side)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "morally wrong, unreasonable, illogical"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "inside out"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "contrary to, despite"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "South",
+      "Southern"
+     ],
+     "gloss": "piece of fruit"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "land mine"
+    },
+    {
+     "position": 8,
+     "pos": "classifier",
+     "tags": [
+      "Central",
+      "South",
+      "Southern"
+     ],
+     "gloss": "Refers to anything round, such as a piece of fruit."
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smallpox"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bên trái",
+     "en": "on the left"
+    },
+    {
+     "sense": 1,
+     "vi": "Rẽ/Quẹo (tay) trái.",
+     "en": "Turn left."
+    },
+    {
+     "sense": 2,
+     "vi": "mặt trái của tấm vải",
+     "en": "the reverse of a piece of cloth"
+    },
+    {
+     "sense": 3,
+     "vi": "phân rõ phải trái, đúng sai",
+     "en": "to distinguish between right and wrong"
+    },
+    {
+     "sense": 4,
+     "vi": "Lộn trái quần áo để phơi.",
+     "en": "Turn the clothes inside out and hang them out to dry."
+    },
+    {
+     "sense": 5,
+     "vi": "nắng trái tiết",
+     "en": "unseasonably sunny"
+    },
+    {
+     "sense": 5,
+     "vi": "trái nghĩa",
+     "en": "antonymous"
+    },
+    {
+     "sense": 5,
+     "vi": "trái với quan niệm thông thường",
+     "en": "contrary to popular belief"
+    },
+    {
+     "sense": 6,
+     "vi": "ăn trái (cây)",
+     "en": "to eat fruit"
+    },
+    {
+     "sense": 7,
+     "vi": "gài trái",
+     "en": "to place land mines"
+    },
+    {
+     "sense": 8,
+     "vi": "trái chôm chôm",
+     "en": "rambutan"
+    },
+    {
+     "sense": 8,
+     "vi": "trái lựu đạn",
+     "en": "grenade"
+    },
+    {
+     "sense": 8,
+     "vi": "trái núi",
+     "en": "mountain"
+    },
+    {
+     "sense": 8,
+     "vi": "trái banh",
+     "en": "football"
+    },
+    {
+     "sense": 8,
+     "vi": "trái cây",
+     "en": "a piece of fruit"
+    },
+    {
+     "sense": 9,
+     "vi": "lên trái",
+     "en": "to come down with smallpox"
+    }
+   ]
+  },
+  {
+   "headword": "giải thích",
+   "base": "044d5e41c9e416f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to explain; to explicate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lối",
+   "base": "99fbf0908db53a16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "path; way; track"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nói lối Yên Huy",
+     "en": "to talk smoothly, being skillful in Vietnamese"
+    }
+   ]
+  },
+  {
+   "headword": "lệnh",
+   "base": "0548dfb8e426b8cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order; decree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giúp đỡ",
+   "base": "95a228a707931dba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to help, to aid, to assist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hẹn",
+   "base": "2c74692654b42177",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make an appointment; to arrange or promise (to meet)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "appointment; date"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hẹn gặp lại.",
+     "en": "See you later."
+    }
+   ]
+  },
+  {
+   "headword": "hát",
+   "base": "7c9b090acd9299f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sing"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter H/h."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh em",
+   "base": "8a6aa4cad933f22b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "older brother and younger sibling (with brothers only, or with one sister who is the youngest)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "collective"
+     ],
+     "gloss": "siblings"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "collective"
+     ],
+     "gloss": "family; brethren"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "y'all, you guys, my bros, my pals"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Ý tôi là thế, anh em thấy thế nào?",
+     "en": "So that was my opinion, what do you guys think?"
+    }
+   ]
+  },
+  {
+   "headword": "khách",
+   "base": "fbbf16f9184bd18a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "someone who is not the owner, host or proprietor of a place and who's visiting or temporarily staying at that place; a guest, shopper, patron, customer, client, visitor, passenger, etc.; compare chủ (“owner; host; proprietor”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "celebrity"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "informal"
+     ],
+     "gloss": "Sino-Vietnamese (ethnic Chinese in Vietnam)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "treepie"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khách hàng",
+     "en": "a customer or client"
+    },
+    {
+     "sense": 1,
+     "vi": "Cửa hàng đông khách.",
+     "en": "The shop/restaurant was crowded. / The shop/restaurant was selling."
+    },
+    {
+     "sense": 1,
+     "vi": "khách đi tàu",
+     "en": "passengers on a ship or a cruise ship"
+    },
+    {
+     "sense": 1,
+     "vi": "đất khách (quê người)",
+     "en": "a foreign land; somewhere that's not your homeland"
+    },
+    {
+     "sense": 3,
+     "vi": "Chú ăn ở một hiệu khách.",
+     "en": "He ate at a Chinese restaurant."
+    }
+   ]
+  },
+  {
+   "headword": "to",
+   "base": "b4c02094309a6e5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "big, large"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "great, considerable"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loud"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đông",
+   "base": "85916a7ff0bc8494",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "winter"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the east"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to congeal; to coagulate; to freeze"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crowded; populous; densely populated"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vụ đông xuân",
+     "en": "the winter-spring cultivation season"
+    },
+    {
+     "sense": 1,
+     "vi": "xuân hạ thu đông",
+     "en": "spring, summer, autumn, winter"
+    },
+    {
+     "sense": 2,
+     "vi": "đông tây nam bắc",
+     "en": "east, west, south, north"
+    },
+    {
+     "sense": 2,
+     "vi": "đông bắc",
+     "en": "northeast"
+    },
+    {
+     "sense": 2,
+     "vi": "đông đông bắc",
+     "en": "east-northeast"
+    }
+   ]
+  },
+  {
+   "headword": "nổ",
+   "base": "f7a594fc98d4aa61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to explode"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pop"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to burst"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fire"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break out"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to backfire"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "figuratively"
+     ],
+     "gloss": "to brag, to display bravado"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vụ nổ",
+     "en": "an explosion"
+    },
+    {
+     "sense": 4,
+     "vi": "nổ súng",
+     "en": "to fire a gun"
+    },
+    {
+     "sense": 4,
+     "vi": "nổ đại bác",
+     "en": "to fire a cannon"
+    }
+   ]
+  },
+  {
+   "headword": "rắc rối",
+   "base": "c564aebf58114de7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "complicated; complex; intricate; troublesome"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trouble; problem; complication"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phép",
+   "base": "4e9fc740fb86a551",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "custom"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "permission; authorization"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a methodology"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "feudal law"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a magical power"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "magical"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phải phép",
+     "en": "appropriate, according to custom"
+    },
+    {
+     "sense": 1,
+     "vi": "vô phép",
+     "en": "without manners"
+    },
+    {
+     "sense": 2,
+     "vi": "xin phép",
+     "en": "to ask for permission"
+    },
+    {
+     "sense": 2,
+     "vi": "cấp phép",
+     "en": "to grant permission"
+    },
+    {
+     "sense": 2,
+     "vi": "cho phép",
+     "en": "to allow to"
+    },
+    {
+     "sense": 2,
+     "vi": "giấy phép",
+     "en": "a permit"
+    },
+    {
+     "sense": 2,
+     "vi": "nghỉ phép",
+     "en": "to take permitted leave"
+    },
+    {
+     "sense": 2,
+     "vi": "trái phép",
+     "en": "unauthorized"
+    },
+    {
+     "sense": 3,
+     "vi": "phép biện chứng",
+     "en": "dialectic"
+    },
+    {
+     "sense": 3,
+     "vi": "phép chiếu",
+     "en": "a type of projection"
+    },
+    {
+     "sense": 3,
+     "vi": "phép tính",
+     "en": "an arithmetic"
+    },
+    {
+     "sense": 4,
+     "vi": "phép vua",
+     "en": "the law, as decreed by the monarch"
+    },
+    {
+     "sense": 5,
+     "vi": "Tôn Ngộ Không có 72 phép biến hoá.",
+     "en": "Sun Wukong can perform 72 different transformations."
+    },
+    {
+     "sense": 6,
+     "vi": "đũa phép",
+     "en": "a magic wand"
+    }
+   ]
+  },
+  {
+   "headword": "tiến",
+   "base": "491bbcc582d13aa9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to advance; to go forward"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to offer; to present"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngu",
+   "base": "cfef16ef5ca4b806",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stupid; idiotic; moronic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tụi Kăply rúm người lại, lấm lét nhìn nhau, cố đoán xem cái \"lũ ngu\" mà ông K'Tul đang chửi te tua kia có phải là tụi nó hay không.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "hành động",
+   "base": "60d7d4f7e05e98f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to act"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "action"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dài",
+   "base": "dceef84108a64942",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "long (having much distance in space from one end to the other)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "long (having great duration)"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nonstop"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "con đường dài",
+     "en": "a long road"
+    },
+    {
+     "sense": 2,
+     "vi": "bộ phim dài",
+     "en": "a long movie"
+    },
+    {
+     "sense": 2,
+     "vi": "mùa hè dài",
+     "en": "a long summer"
+    },
+    {
+     "sense": 3,
+     "vi": "Đừng để trẻ \"chơi dài\"",
+     "en": "Don't let your kids play nonstop."
+    }
+   ]
+  },
+  {
+   "headword": "nghỉ",
+   "base": "e95e8261a8e1b391",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take a break"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get to temporarily leave work (e.g., for holiday/vacation, for pregnancy, etc.)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "euphemistic",
+      "figuratively"
+     ],
+     "gloss": "to die"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "he; him"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "she; her"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "(before verb) by oneself"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kì nghỉ",
+     "en": "holiday period"
+    }
+   ]
+  },
+  {
+   "headword": "hệ thống",
+   "base": "703cdfc381348e5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a system"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a franchise or chain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hệ thống Cửa hàng PNJ",
+     "en": "PNJ Stores"
+    }
+   ]
+  }
+ ]
+}

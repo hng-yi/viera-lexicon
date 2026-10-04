@@ -1,0 +1,1763 @@
+{
+ "batch": "0002",
+ "entries": [
+  {
+   "headword": "ở",
+   "base": "4fe752c55f7d1d09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "at, in"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be, to live, to stay, to remain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nó",
+   "base": "e48e2cb8d8b4efbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "colloquial",
+      "impolite"
+     ],
+     "gloss": "he; him; she; her"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "he; him; she; her (used by the author when talking about a young person (especially the protagonist) or a non-human animal)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "it"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "it, used to refer to inanimate objects when accompanied by topic-comment structure"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Cái ghế này nó gãy rồi.",
+     "en": "This chair is broken"
+    }
+   ]
+  },
+  {
+   "headword": "em",
+   "base": "de613f8c88e28dc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "younger sibling"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cousin, who is descended from an ancestor who is/was a younger sibling to oneself's or one's spouse's (such as a child of a younger sibling of one of one's parents or a grandchild of a younger sibling of one of one's grandparents)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "person younger than oneself but of the same generation"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "child; student"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "pronoun used to refer to any person (oneself, the addressee, or any third person) described by the noun em above"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "pronoun used to refer to younger person of the same generation"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "pronoun used to refer to younger siblings or cousins descended from an ancestor who is/was a younger sibling to one's own or one's spouse's"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "pronoun used to refer to a child or a student"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "pronoun used to refer to the girl or woman in a romantic relationship"
+    },
+    {
+     "position": 10,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "small; smaller"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thằng em của em",
+     "en": "my younger brother"
+    },
+    {
+     "sense": 4,
+     "vi": "Cận cảnh các em học sinh tiểu học ăn ngủ, sinh hoạt trong khu cách ly tại trường",
+     "en": "Close-up of primary students living in school quarantine"
+    },
+    {
+     "sense": 5,
+     "vi": "thằng em của em",
+     "en": "my younger brother"
+    },
+    {
+     "sense": 8,
+     "vi": "Viết một đoạn văn ngắn miêu tả một thứ bố em làm cho em.",
+     "en": "Write a short essay describing something your father made for you."
+    },
+    {
+     "sense": 9,
+     "vi": "Anh yêu em. / Em cũng yêu anh.",
+     "en": "I love you. / I love you too."
+    },
+    {
+     "sense": 9,
+     "vi": "Tôi yêu em âm thầm, không hi vọng, / Lúc rụt rè, khi hậm hực lòng ghen, / Tôi yêu em, yêu chân thành, đằm thắm, / Cầu em được người tình như tôi đã yêu em.",
+     "en": "I loved you, without words, without hope, / Sometimes I felt shy, sometimes I felt tortured with jealousy, / I loved you, truly and deeply, / I pray you will find someone who loves you as much as I ever did."
+    }
+   ]
+  },
+  {
+   "headword": "biết",
+   "base": "2c9be43f4dc0a73c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to know; to be aware of"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to learn about; to realize"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to know how to; to be able to"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a taste for (an acquired taste)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to know (have sexual relations with)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "biết đọc",
+     "en": "to be able to read"
+    },
+    {
+     "sense": 3,
+     "vi": "biết viết",
+     "en": "to know how to write"
+    },
+    {
+     "sense": 4,
+     "vi": "biết ăn mắm tôm",
+     "en": "to like to eat shrimp paste"
+    }
+   ]
+  },
+  {
+   "headword": "ông",
+   "base": "5618acea03c332a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grandfather"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "old man"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "man, old or young"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my grandfather"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "you, an old man"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "you, a man about 40 or older"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "you, a dude"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your grandfather"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "I/me, an old man"
+    },
+    {
+     "position": 10,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him, an admirable/lovable old or deceased man"
+    },
+    {
+     "position": 11,
+     "pos": "classifier",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "Indicates a star"
+    },
+    {
+     "position": 12,
+     "pos": "classifier",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "Indicates a lime container"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 7,
+     "vi": "Ông nghĩ sao vậy !?",
+     "en": "The heck were you thinking, man!?"
+    },
+    {
+     "sense": 11,
+     "vi": "ông mặt trời",
+     "en": "the sun"
+    },
+    {
+     "sense": 12,
+     "vi": "ông bình vôi",
+     "en": "a lime container"
+    }
+   ]
+  },
+  {
+   "headword": "con",
+   "base": "ef638a2a2dd0583f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "child (daughter or son)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "son"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "build; stature"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "in-compounds",
+      "rare"
+     ],
+     "gloss": "a small thing"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me (used by children when talking to their parents)"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "I/me (used when talking to someone significantly older than the speaker)"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you (used by parents when talking to their children)"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "you (used when talking to some significantly younger than the speaker)"
+    },
+    {
+     "position": 9,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates animals (including humans)."
+    },
+    {
+     "position": 10,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates female people."
+    },
+    {
+     "position": 11,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates knives, ships, boats, trains and eye pupils."
+    },
+    {
+     "position": 12,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates roads, rivers, streams and waves."
+    },
+    {
+     "position": 13,
+     "pos": "classifier",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "Indicates written characters."
+    },
+    {
+     "position": 14,
+     "pos": "classifier",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Indicates any piece of technology, especially with the brand name.: Indicates electronic devices."
+    },
+    {
+     "position": 15,
+     "pos": "classifier",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Indicates any piece of technology, especially with the brand name.: Indicates wheeled vehicles."
+    },
+    {
+     "position": 16,
+     "pos": "classifier",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Indicates any piece of technology, especially with the brand name.: Indicates video games and movies."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "con cái",
+     "en": "children"
+    },
+    {
+     "sense": 1,
+     "vi": "con nuôi",
+     "en": "adopted child"
+    },
+    {
+     "sense": 1,
+     "vi": "gà con",
+     "en": "chick"
+    },
+    {
+     "sense": 1,
+     "vi": "Con cóc con là con con cóc.",
+     "en": "A toadlet is an offspring of a toad."
+    },
+    {
+     "sense": 1,
+     "vi": "Tê-lê-mác, con ! Đừng làm rầy mẹ, mẹ còn muốn thử thách cha ở tại nhà này. Thế nào rồi mẹ con cũng sẽ nhận ra, chắc chắn như vậy. Hiện giờ cha còn bẩn thỉu, áo quần rách rưới, nên mẹ con khinh cha, chưa nói : “Đích thị là chàng rồi !”. […]",
+     "en": "Telemachus, my son! Don’t you bother your mother, she still wants to put me to trials at this home. She will recognize me eventually, there is no doubt about that. I still look like a rascal, in torn clothes, that is why your mother still doubts me, she is yet to say: “It was definitely you this whole time!”. […]"
+    },
+    {
+     "sense": 4,
+     "vi": "con quay",
+     "en": "a spinning top"
+    },
+    {
+     "sense": 4,
+     "vi": "con lắc",
+     "en": "a pendulum"
+    },
+    {
+     "sense": 8,
+     "vi": "Là con thật!",
+     "en": "It's you for real!"
+    },
+    {
+     "sense": 10,
+     "vi": "một thằng, hai con",
+     "en": "one guy, two girls"
+    },
+    {
+     "sense": 11,
+     "vi": "con dao",
+     "en": "a knife"
+    },
+    {
+     "sense": 12,
+     "vi": "trên con đường đến hạnh phúc",
+     "en": "on the road/path to happiness"
+    },
+    {
+     "sense": 13,
+     "vi": "con chữ",
+     "en": "a character or letter"
+    },
+    {
+     "sense": 14,
+     "vi": "Con Iphone của em đấy.",
+     "en": "This is my Iphone."
+    },
+    {
+     "sense": 15,
+     "vi": "Anh mày có hẳn hai con xe Honda đấy nhớ!",
+     "en": "I have two Honda motorbikes!"
+    },
+    {
+     "sense": 16,
+     "vi": "Ông chơi con game này chưa?",
+     "en": "Have you played this game?"
+    }
+   ]
+  },
+  {
+   "headword": "cậu",
+   "base": "011a172e32b179a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a maternal uncle (mother's brother)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a young male master"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a younger male stranger"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "a father"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your mother's brother"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my mother's brother"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "you, my peer who I know is as old as me"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "you, a male younger than me"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "you, my young master, my old master's son"
+    },
+    {
+     "position": 10,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, a young boy or man"
+    },
+    {
+     "position": 11,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him, a young boy or man"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "với",
+   "base": "6cb5c52be17dd236",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reach (out for something)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stretch of the hand (một với)"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "with; together with; along with; and: to or by"
+    },
+    {
+     "position": 4,
+     "pos": "prep",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "with; together with; along with; and: to"
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "at the end of a sentence, indicates a request for inclusion or help"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cộng 2 với 3",
+     "en": "to add 2 to 3"
+    },
+    {
+     "sense": 3,
+     "vi": "nhân tổng với hiệu",
+     "en": "to multiply this sum by this difference"
+    },
+    {
+     "sense": 4,
+     "vi": "góc ABC kề với góc CBD",
+     "en": "angle ABC is adjacent to angle CBD"
+    },
+    {
+     "sense": 4,
+     "vi": "đường thẳng d song song/vuông góc với đường thẳng e/mặt phẳng p",
+     "en": "line d is parallel/perpendicular to line e/plane p"
+    },
+    {
+     "sense": 5,
+     "vi": "Cho con đi với.",
+     "en": "Let me go with you please."
+    },
+    {
+     "sense": 5,
+     "vi": "Mày rảnh làm dùm bố với.",
+     "en": "If you're free, how 'bout give your old man a hand?"
+    }
+   ]
+  },
+  {
+   "headword": "nói",
+   "base": "88d45cd05a441981",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to speak, to talk, to say, to tell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúng ta",
+   "base": "1449a5b684f2c850",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "dialectal",
+      "formal"
+     ],
+     "gloss": "we/us (inclusive); compare chúng tôi (exclusive, not including the listener)"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "colloquial"
+     ],
+     "gloss": "you guys; y'all"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chúng ta có hiểu không ạ?",
+     "en": "Is that clear, everyone?"
+    }
+   ]
+  },
+  {
+   "headword": "lại",
+   "base": "9af92d8f13893f10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "once more, indicates an action or state is resumed"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "again"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "reducing in volume, distance, or increasing in density or viscosity"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "on the other hand, meanwhile"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "indicates a return to some original state"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to come"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recover"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to make up for one's disadvantage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tuy nhiên, trong thực tế có không ít trường hợp mắc COVID-19 điều trị khỏi, trong vòng hơn 1 tháng lại tiếp tục bị tái nhiễm lần 2.",
+     "en": "In practice, however, more than a few people with COVID-19 recover and after a month are infected a second time."
+    },
+    {
+     "sense": 2,
+     "vi": "Bạn nói lại đi.",
+     "en": "Say it again."
+    },
+    {
+     "sense": 3,
+     "vi": "nhắm mắt lại",
+     "en": "to shut one's eyes"
+    },
+    {
+     "sense": 3,
+     "vi": "cứng lại",
+     "en": "to harden"
+    },
+    {
+     "sense": 3,
+     "vi": "rắn lại",
+     "en": "to stiffen"
+    },
+    {
+     "sense": 3,
+     "vi": "nấu cho đến khi đặc lại",
+     "en": "keep the heat on until the consistency is appropriately thick"
+    },
+    {
+     "sense": 3,
+     "vi": "Bật nhạc nhỏ lại!",
+     "en": "Turn the volume down!"
+    },
+    {
+     "sense": 4,
+     "vi": "Tại sao có người trông mong đến giờ để được đi thiền hành, lại có người nghe chuông thiền hành thấy mệt nhọc trong lòng?",
+     "en": "Why do some people look forward to the moment they can go meditate, while others feel weary when hearing the meditation bell?"
+    },
+    {
+     "sense": 5,
+     "vi": "đóng cửa lại",
+     "en": "to close the door"
+    },
+    {
+     "sense": 6,
+     "vi": "Mang lại đây!",
+     "en": "Bring that here!"
+    },
+    {
+     "sense": 7,
+     "vi": "Này con, ăn bát cháo nóng này cho lại sức",
+     "en": "Kid, here's the hot porridge for you to heal yourself."
+    },
+    {
+     "sense": 8,
+     "vi": "Đội bạn đá như trâu thế thì đánh sao cho lại",
+     "en": "How can we even put up with a team as strong as horses without being lost?"
+    }
+   ]
+  },
+  {
+   "headword": "để",
+   "base": "48d869cb3e64f5af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to place; to set"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let; to leave (alone)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave (to transfer something)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "North",
+      "archaic",
+      "dialectal"
+     ],
+     "gloss": "to abandon"
+    },
+    {
+     "position": 7,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "in order to, so that, for, to"
+    },
+    {
+     "position": 8,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "Indicating that what follows is a natural and undesirable consequence of what was just mentioned: wind up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Để nó ở đó.",
+     "en": "Put that there."
+    },
+    {
+     "sense": 2,
+     "vi": "Để nó ở đó.",
+     "en": "Leave that there."
+    },
+    {
+     "sense": 3,
+     "vi": "thất bại để lại cho họ những bài học sâu sắc",
+     "en": "failure has left them with valuable lessons"
+    },
+    {
+     "sense": 3,
+     "vi": "để phòng ốc lộn xộn",
+     "en": "to leave one's room messy"
+    },
+    {
+     "sense": 4,
+     "vi": "Anh trật tự để em học.",
+     "en": "Please be quiet and let me study."
+    },
+    {
+     "sense": 5,
+     "vi": "Bố mẹ để lại cho anh ta một căn nhà.",
+     "en": "His parents left him a house."
+    },
+    {
+     "sense": 5,
+     "vi": "Nếu anh muốn thì tôi sẽ để cây đàn này lại cho anh.",
+     "en": "If you want, I will leave this guitar for you."
+    },
+    {
+     "sense": 5,
+     "vi": "Việc này thì cứ để chuyên gia xử lí.",
+     "en": "You should just leave things like this for professionals."
+    },
+    {
+     "sense": 6,
+     "vi": "để vợ",
+     "en": "to divorce [one's] wife"
+    },
+    {
+     "sense": 7,
+     "vi": "chỗ để làm việc",
+     "en": "place for work"
+    },
+    {
+     "sense": 7,
+     "vi": "Tiết kiệm để có tiền mua nhà.",
+     "en": "To save money in order to buy a house."
+    },
+    {
+     "sense": 8,
+     "vi": "Nhớ làm gì để thêm buồn.",
+     "en": "Why should I keep something in mind if it only brings me more sorrow?"
+    }
+   ]
+  },
+  {
+   "headword": "ấy",
+   "base": "5f445f7505940b21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "that; those"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "sentence-ending intensifying particle"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "humorous"
+     ],
+     "gloss": "you, my buddy/gal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ra",
+   "base": "6ffc0914b8f43c40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go out, to leave"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to go northwards in Vietnam"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be released, to be published, to be out, to come out"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become, to turn into"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to cum; to spurt"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bed sheet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vào nam, ra bắc",
+     "en": "to go southwards and northwards"
+    },
+    {
+     "sense": 3,
+     "vi": "Phim này mới ra nè.",
+     "en": "Hey, this movie has just came out."
+    },
+    {
+     "sense": 4,
+     "vi": "Nó chẳng ra gì hết.",
+     "en": "He didn't turn out to be anybody."
+    }
+   ]
+  },
+  {
+   "headword": "cái",
+   "base": "04a8ccaef2b7b06a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates an inanimate, tangible thing"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "Indicates animals"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Precedes another classifier (any one but “cái” itself), effectively acting as a focus marker, sometimes conveying a connotation of deprecation, especially if persons are referred to."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "utensil for"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "that which is"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "way of working, way of doing (something)"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the solid bits (of a broth)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "indicates a young girl"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "banker, dealer or keeper"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "keeper"
+    },
+    {
+     "position": 11,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of gái"
+    },
+    {
+     "position": 12,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "mother"
+    },
+    {
+     "position": 13,
+     "pos": "adj",
+     "tags": [
+      "feminine"
+     ],
+     "gloss": "female"
+    },
+    {
+     "position": 14,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "big, large, main"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cái răng cái tóc là góc con người.",
+     "en": "Teeth and [head]hair are part and parcel of the human figure ~ Teeth and [head]hair tell how good one looks."
+    },
+    {
+     "sense": 3,
+     "vi": "Cầm cái con dao này đưa cho mẹ.",
+     "en": "Take this knife and hand it to your mom."
+    },
+    {
+     "sense": 3,
+     "vi": "Cái thằng đần thối này!",
+     "en": "You stinkin' moron!"
+    },
+    {
+     "sense": 4,
+     "vi": "cái đánh trứng",
+     "en": "a whisk"
+    },
+    {
+     "sense": 5,
+     "vi": "cái đẹp",
+     "en": "beauty"
+    },
+    {
+     "sense": 5,
+     "vi": "cái cao cả",
+     "en": "the sublime"
+    },
+    {
+     "sense": 6,
+     "vi": "Ước-ao rằng cái công-phu này không đến nỗi bỏ uổng vậy.",
+     "en": "We only hope that this painstaking work will not be for nothing."
+    },
+    {
+     "sense": 7,
+     "vi": "Canh này thì chỉ có nước là ngon, còn cái thì dở ẹc.",
+     "en": "Only the liquid part of this broth tastes good, the solid bits suck."
+    },
+    {
+     "sense": 8,
+     "vi": "cái Hằng",
+     "en": "the young girl Hằng"
+    },
+    {
+     "sense": 9,
+     "vi": "làm cái; cầm cái",
+     "en": "to act as a gamemaster for such games"
+    },
+    {
+     "sense": 9,
+     "vi": "nhà cái",
+     "en": "gambling house"
+    },
+    {
+     "sense": 13,
+     "vi": "hoa cái",
+     "en": "carpellate flower; female flower"
+    },
+    {
+     "sense": 13,
+     "vi": "nhị cái",
+     "en": "a pistil"
+    },
+    {
+     "sense": 14,
+     "vi": "sông cái",
+     "en": "the big river"
+    },
+    {
+     "sense": 14,
+     "vi": "ngón chân cái",
+     "en": "the big toe"
+    }
+   ]
+  },
+  {
+   "headword": "đang",
+   "base": "16b099d2da150dec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "marks the continuous, imperfect aspect of an action or state"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tao nhớ lúc đó nó đang chơi ngoài sân.",
+     "en": "I think she was playing in the yard."
+    },
+    {
+     "sense": 1,
+     "vi": "Đang bận. Không có thì giờ đâu mà đi chơi.",
+     "en": "I'm busy right now. I don't have time to go out."
+    }
+   ]
+  },
+  {
+   "headword": "sao",
+   "base": "93f9d6160dd7da2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "why"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "how"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "what; what is it; what now"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "whatever"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "problematic, bad"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "star (luminous celestial body)"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "asterisk"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "star (celebrity)"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "star (actor)"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to duplicate; to copy"
+    },
+    {
+     "position": 11,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dry with heat in a pan"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sao nó bảo không đến?",
+     "en": "Why did he say he wouldn’t come?"
+    },
+    {
+     "sense": 2,
+     "vi": "Sao tao biết được?",
+     "en": "How should I know?"
+    },
+    {
+     "sense": 2,
+     "vi": "Sao làm được hay vậy?",
+     "en": "How did you do that?"
+    },
+    {
+     "sense": 2,
+     "vi": "Có thân thì cóc khá làm sao.",
+     "en": "How could I manage when I'm on my own?"
+    },
+    {
+     "sense": 4,
+     "vi": "Sao cũng được.",
+     "en": "Whatever / Anything will do."
+    },
+    {
+     "sense": 5,
+     "vi": "Có sao lắm không?",
+     "en": "Is it very bad?"
+    },
+    {
+     "sense": 5,
+     "vi": "Không sao đâu.",
+     "en": "No problem."
+    },
+    {
+     "sense": 7,
+     "vi": "toán sao",
+     "en": "an \"asterisked\" math problem (marked with an asterisk); a difficult math problem"
+    }
+   ]
+  },
+  {
+   "headword": "muốn",
+   "base": "f14afe934e9a6232",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "modal"
+     ],
+     "gloss": "to want"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gia đình Dursley có mọi thứ mà họ muốn, nhưng họ cũng có một bí mật, và nỗi sợ hãi lớn nhất của họ là cái bí mật đó bị ai đó bật mí.",
+     "en": "The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it."
+    }
+   ]
+  },
+  {
+   "headword": "trong",
+   "base": "e5bd8e3e3219720f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clear and thus presumably clean"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "translucent or transparent"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in; inside; within (an interior or enclosed space)"
+    },
+    {
+     "position": 4,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "within (an amount of time)"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in/among (a group)"
+    },
+    {
+     "position": 6,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in (a place in southern Vietnam)"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "behind (an enclosed space)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nước trong mà! Uống chắc không sao đâu!",
+     "en": "The water looks pretty clean! Probably wouldn't hurt to drink a bit!"
+    },
+    {
+     "sense": 3,
+     "vi": "trong nhà/phòng",
+     "en": "in(side) the house/room"
+    },
+    {
+     "sense": 3,
+     "vi": "trong tim/lòng/bụng",
+     "en": "in one's heart"
+    },
+    {
+     "sense": 4,
+     "vi": "trong (vòng) 4 tiếng",
+     "en": "within four hours"
+    },
+    {
+     "sense": 5,
+     "vi": "trong đám đông",
+     "en": "in/among the crowd"
+    },
+    {
+     "sense": 6,
+     "vi": "trong nam",
+     "en": "someplace in southern Vietnam; \"the south\""
+    },
+    {
+     "sense": 7,
+     "vi": "phòng trong",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "vậy",
+   "base": "e5c016d2a10fd508",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "so, thus"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "intensifying sentence-final particle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Làm sao hay quá vậy?",
+     "en": "How did you do that?"
+    },
+    {
+     "sense": 2,
+     "vi": "Mày làm như mày là bác sĩ vậy.",
+     "en": "You're talking like you were a doctor or something."
+    }
+   ]
+  },
+  {
+   "headword": "mà",
+   "base": "7e18f9c80ff01061",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "but; however; nevertheless"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "which, whom, that, where"
+    },
+    {
+     "position": 3,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "and; and then; and so (marks succession of actions or causality)"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Final affirmative particle, indicating emphasis or contrast."
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "An intensifier, placed before an adjective or verb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "già mà vẫn khoẻ",
+     "en": "old but still energetic"
+    },
+    {
+     "sense": 1,
+     "vi": "Mới đi có chút mà thằng ất ơ nào chiếm chỗ rồi.",
+     "en": "I was just gone for a bit but some random dude already took my place."
+    },
+    {
+     "sense": 1,
+     "vi": "Nhìn trong hộp rồi mà hông thấy.",
+     "en": "I already looked into the box but I can't see it."
+    },
+    {
+     "sense": 1,
+     "vi": "Trần Hưng rất hài lòng với những đoạn phim vừa thu được, nó nổi bật lên phần đời của người chiến sĩ này, giản dị mà cao quý, bình thường mà phi thường.",
+     "en": "Trần Hưng was very satisfied with the footage just shot; it highlighted the life of this fighter, simple but lofty, ordinary but extraordinary."
+    },
+    {
+     "sense": 2,
+     "vi": "Bài kiểm tra mà tuần trước mình làm.",
+     "en": "The exam that we took last week."
+    },
+    {
+     "sense": 3,
+     "vi": "đến mà xem",
+     "en": "to come and see"
+    },
+    {
+     "sense": 3,
+     "vi": "nghe cho kĩ mà làm",
+     "en": "to listen closely in order to do it well"
+    },
+    {
+     "sense": 3,
+     "vi": "thắt cổ mà chết",
+     "en": "to hang oneself and die"
+    },
+    {
+     "sense": 3,
+     "vi": "đói mà chết",
+     "en": "to starve to death"
+    },
+    {
+     "sense": 4,
+     "vi": "Tôi có làm gì đâu mà!",
+     "en": "I really didn't do anything!"
+    },
+    {
+     "sense": 4,
+     "vi": "Ngon mà, sao chê dữ vậy?",
+     "en": "It tastes pretty good tho/actually, not sure why you gotta shit on it that much."
+    },
+    {
+     "sense": 5,
+     "vi": "thấy mà ghê",
+     "en": "disgusted just (by) looking (at it)"
+    },
+    {
+     "sense": 5,
+     "vi": "nghĩ mà sướng",
+     "en": "elated just thinking (about it)"
+    }
+   ]
+  },
+  {
+   "headword": "nhưng",
+   "base": "4ebf01e87d330c3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "but; yet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có thể",
+   "base": "4727df47f242b287",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "possibly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có thể làm/nghe/nói",
+     "en": "can do/hear/say"
+    },
+    {
+     "sense": 1,
+     "vi": "« [...] Tạo-hóa cho họ những quyền không ai có thể xâm-phạm được, trong những quyền ấy, có quyền được sống, quyền tự-do và quyền mưu cầu hạnh-phúc. »",
+     "en": "\"… They are endowed by their Creator with certain inalienable rights, among these are Life, Liberty, and the pursuit of Happiness\"."
+    }
+   ]
+  },
+  {
+   "headword": "những",
+   "base": "f0ff8d588cdbbc08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "Plural marker."
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "only; just (followed by a verb)"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Emphasizes the quantity of noun: as many as; as much as"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Emphasizes the abundance and uncountability of something: nothing but"
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "Emphasizes the overwhelming nature of a psychological or emotional state."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tất cả những người khác",
+     "en": "all the others"
+    },
+    {
+     "sense": 3,
+     "vi": "Bài kiểm tra rồi tớ được những tám điểm đấy!",
+     "en": "I got an EIGHT on the last exam!"
+    },
+    {
+     "sense": 4,
+     "vi": "những hoa là hoa",
+     "en": "nothing but flowers"
+    }
+   ]
+  },
+  {
+   "headword": "đến",
+   "base": "f2c4b64e2c2fdf9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrive, to come"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "to"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "Indicating a subject: about"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đi đến",
+     "en": "to go to"
+    },
+    {
+     "sense": 3,
+     "vi": "Tôi biết đến ông như một nhà toán học.",
+     "en": "I learn about him as a mathematician."
+    }
+   ]
+  }
+ ]
+}

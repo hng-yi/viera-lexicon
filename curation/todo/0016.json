@@ -1,0 +1,1693 @@
+{
+ "batch": "0016",
+ "entries": [
+  {
+   "headword": "thần",
+   "base": "7b6e44df7997ae15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "deity; god"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spirit"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "I/me (used by a mandarin/officer towards the monarch)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ",
+   "base": "65695d57ea6afd70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boss; head; manager; master"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "owner; proprietor"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "host"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be mostly concerned (with), to be mostly associated with"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chủ hộ",
+     "en": "the head of a household"
+    },
+    {
+     "sense": 1,
+     "vi": "làm chủ",
+     "en": "to take charge or control"
+    },
+    {
+     "sense": 1,
+     "vi": "Đảng lãnh đạo, nhà nước quản lý, nhân dân làm chủ",
+     "en": "the Party holds the leadership, the State exercises management, and the people act as the master (translation by VietnamPlus)"
+    },
+    {
+     "sense": 2,
+     "vi": "chủ quán",
+     "en": "the proprietor of a shop"
+    },
+    {
+     "sense": 4,
+     "vi": "Văn-hóa phương Tây chủ ở sự theo nhân-dục mà hành-động, cốt lấy sự mở-mang nhân trí làm trọng, dùng lý-trí mà suy-xét mọi điều,[…]",
+     "en": "Western culture is mostly based on following human desires, places the expansion of human knowledge central, and uses reason to examine all things, […]"
+    },
+    {
+     "sense": 4,
+     "vi": "La Hầu mang hành hỏa chủ về hung tinh gây ra tai ương, trắc trở. Bên cạnh đó đây còn là sao chủ về buồn rầu, dễ bị hao tài tán của, đa sầu, đa cảm, khẩu thiệt thị phi.",
+     "en": "Rāhu, belonging to the element fire, is mostly an inauspicious star that brings misfortune and obstacles. It is furhtermore the star mostly associated with sorrow, lack of defence to financial loss, emotional turmoil, and disputes and scandals."
+    }
+   ]
+  },
+  {
+   "headword": "khóa",
+   "base": "341af81ed187ddea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of khoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sách",
+   "base": "4fee3ea8872dd519",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "book"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhảy",
+   "base": "b2b2770400496399",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to jump, to leap, to dive"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hop"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise up to a higher position quickly and illegitimately; to come out of nowhere"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dance as a form of hobby, recreation, or entertainment"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mate, to copulate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhảy qua hàng rào",
+     "en": "to hop over a fence"
+    },
+    {
+     "sense": 3,
+     "vi": "Ông ấy nhảy lên làm tổng thống.",
+     "en": "He came out of nowhere to become President."
+    },
+    {
+     "sense": 4,
+     "vi": "Chiều nay nhảy không?",
+     "en": "Would you dance with me this evening?"
+    },
+    {
+     "sense": 5,
+     "vi": "Trâu nhảy cái.",
+     "en": "The water buffalo [bull] mates with a female [cow]."
+    }
+   ]
+  },
+  {
+   "headword": "một mình",
+   "base": "66d41b2db2ee7fcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "alone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quyền",
+   "base": "95ac02050361f656",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "right"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "power, authority"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "temporary; acting; interim"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "punch"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "martial arts move, or a systematic set of such moves; a martial arts style"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quyền tự do hội họp",
+     "en": "right of freedom of assembly"
+    },
+    {
+     "sense": 1,
+     "vi": "quyền tự do ngôn luận",
+     "en": "right of freedom of speech"
+    },
+    {
+     "sense": 3,
+     "vi": "quyền Bộ trưởng Y tế",
+     "en": "acting Minister of Health"
+    },
+    {
+     "sense": 3,
+     "vi": "quyền Thủ tướng",
+     "en": "acting Prime Minister"
+    },
+    {
+     "sense": 5,
+     "vi": "Bài quyền này chỉ dành cho biểu diễn thôi.",
+     "en": "This style is only for show performance."
+    },
+    {
+     "sense": 5,
+     "vi": "Long Hổ Quyền! Khai quyền!",
+     "en": "Dragon-Tiger Style! Start!"
+    },
+    {
+     "sense": 5,
+     "vi": "tuý quyền",
+     "en": "the Drunken Fist"
+    }
+   ]
+  },
+  {
+   "headword": "dẫn",
+   "base": "d16f189076d87e24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lead (someone) to a place"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conduct (a program, a show, etc.)"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "conductive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chương trình sẽ dẫn các bé vào thế giới cổ tích phương Đông.",
+     "en": "The program will take your children into the world of Eastern folklore."
+    },
+    {
+     "sense": 2,
+     "vi": "dẫn chương trình",
+     "en": "to host a show; to be the MC"
+    },
+    {
+     "sense": 2,
+     "vi": "người dẫn truyện",
+     "en": "narrator"
+    },
+    {
+     "sense": 3,
+     "vi": "dẫn nhiệt/điện",
+     "en": "thermally/electrically conductive"
+    },
+    {
+     "sense": 3,
+     "vi": "chất dẫn điện",
+     "en": "a conductor"
+    },
+    {
+     "sense": 3,
+     "vi": "chất bán dẫn",
+     "en": "a semiconductor"
+    }
+   ]
+  },
+  {
+   "headword": "hạ",
+   "base": "27c333b6040b6cd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "summer"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lower"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring down, to take down"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to defeat"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play (a card)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xuân hạ thu đông",
+     "en": "spring, summer, fall and winter"
+    },
+    {
+     "sense": 3,
+     "vi": "bắn hạ",
+     "en": "to shoot down"
+    }
+   ]
+  },
+  {
+   "headword": "bí mật",
+   "base": "2373b9d29f42b206",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "secret"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "secret; clandestine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giữ bí mật",
+     "en": "to keep secret"
+    },
+    {
+     "sense": 1,
+     "vi": "lộ bí mật",
+     "en": "to leak secret"
+    },
+    {
+     "sense": 1,
+     "vi": "Gia đình Dursley có mọi thứ mà họ muốn, nhưng họ cũng có một bí mật, và nỗi sợ hãi lớn nhất của họ là cái bí mật đó bị ai đó bật mí.",
+     "en": "The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it."
+    },
+    {
+     "sense": 2,
+     "vi": "văn kiện bí mật",
+     "en": "secret document"
+    },
+    {
+     "sense": 2,
+     "vi": "công tác bí mật",
+     "en": "clandestine activity"
+    }
+   ]
+  },
+  {
+   "headword": "lòng",
+   "base": "1d2538b3c44653ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intestines; guts; bowels; entrails"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "the central region of a hand or foot"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the central part, the heart or core of something"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heart (emotions or kindness)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lòng lợn",
+     "en": "pig intestines"
+    },
+    {
+     "sense": 2,
+     "vi": "lòng bàn tay",
+     "en": "a palm"
+    },
+    {
+     "sense": 2,
+     "vi": "lòng bàn chân",
+     "en": "a sole"
+    },
+    {
+     "sense": 3,
+     "vi": "trong lòng thành phố",
+     "en": "in the middle of the city"
+    },
+    {
+     "sense": 3,
+     "vi": "lòng đường",
+     "en": "the surface of a roadway as opposed to a sidewalk"
+    },
+    {
+     "sense": 4,
+     "vi": "lòng thương",
+     "en": "compassion"
+    },
+    {
+     "sense": 4,
+     "vi": "lòng tin",
+     "en": "trust"
+    },
+    {
+     "sense": 4,
+     "vi": "Lòng người khó đoán.",
+     "en": "The human's heart is unpredictable."
+    },
+    {
+     "sense": 4,
+     "vi": "Cái gì nó cũng giữ trong lòng.",
+     "en": "He keeps it all in."
+    },
+    {
+     "sense": 4,
+     "vi": "Quý khách vui lòng bỏ giày trước khi vào.",
+     "en": "Please take off your shoes before coming in."
+    },
+    {
+     "sense": 4,
+     "vi": "Tôi rất sẵn lòng giúp anh.",
+     "en": "I'd be glad to help you."
+    },
+    {
+     "sense": 4,
+     "vi": "Mẹ nó không đành lòng bỏ nó.",
+     "en": "Her mother didn't have the heart to abandon her."
+    }
+   ]
+  },
+  {
+   "headword": "vị trí",
+   "base": "ec66617d32175ff2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "location"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tính",
+   "base": "4af8997d2b44ea3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to calculate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to plan; to think of (doing something)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disposition (of people); nature; character; temperament"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nature (of things); character; property"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tính chết mấy lần rồi, nhưng còn mắc nợ đời.",
+     "en": "I thought of dying several times already, but I still owe life."
+    }
+   ]
+  },
+  {
+   "headword": "điểm",
+   "base": "3a6182dae765c1a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "metric for evaluation; point, mark, grade, score, etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "point (a focus of conversation or consideration)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "point"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to list to report or reevaluate"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ring to tell time"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "broadly",
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "to start"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "điểm qua",
+     "en": "to list or to give a rundown"
+    },
+    {
+     "sense": 4,
+     "vi": "điểm lại năm qua",
+     "en": "to reevaluate deeds done last year"
+    },
+    {
+     "sense": 6,
+     "vi": "(hồi chuông) giao thừa đã điểm",
+     "en": "New Year has finally started"
+    }
+   ]
+  },
+  {
+   "headword": "dám",
+   "base": "8a9f3e6735f9770e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dare to do something"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "to be likely to happen"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to weep, to cry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chống",
+   "base": "1a3095de3b081755",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prop up; to lean on (by using a stick-like object)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to punt (to propel a boat)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to oppose; to resist"
+    },
+    {
+     "position": 4,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "anti-"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "chủ nghĩa chống tư bản",
+     "en": "anti-capitalism"
+    },
+    {
+     "sense": 4,
+     "vi": "chủ nghĩa chống cộng",
+     "en": "anti-communism"
+    }
+   ]
+  },
+  {
+   "headword": "dạy",
+   "base": "ec146a3d5cf17c5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to teach, to train"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dạy tiếng Việt",
+     "en": "to teach Vietnamese"
+    }
+   ]
+  },
+  {
+   "headword": "nói dối",
+   "base": "aa9b97df4d9f1609",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lie; to tell a lie"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biển",
+   "base": "34cfdb390813b05f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sea; ocean"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "sea (of people, flames)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sign; signboard; placard; title tablet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bờ biển",
+     "en": "seashore"
+    },
+    {
+     "sense": 3,
+     "vi": "biển hiệu",
+     "en": "a store/shop sign"
+    },
+    {
+     "sense": 3,
+     "vi": "biển báo (giao thông)",
+     "en": "a traffic sign"
+    },
+    {
+     "sense": 3,
+     "vi": "biển số (xe)",
+     "en": "a license plate"
+    }
+   ]
+  },
+  {
+   "headword": "mạnh",
+   "base": "59c9c0a14947add6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strong; powerful; vigorous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đằng",
+   "base": "77a0da74aa241828",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a direction or a way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đằng này/kia",
+     "en": "this/that way"
+    },
+    {
+     "sense": 1,
+     "vi": "đằng trước/sau",
+     "en": "the front/back"
+    },
+    {
+     "sense": 1,
+     "vi": "ở đằng trước/sau",
+     "en": "in front of/behind"
+    },
+    {
+     "sense": 1,
+     "vi": "Đằng nào chả vậy.",
+     "en": "It's the same anyway."
+    },
+    {
+     "sense": 1,
+     "vi": "Nhìn đằng trước kìa.",
+     "en": "Look ahead."
+    }
+   ]
+  },
+  {
+   "headword": "bàn",
+   "base": "be52201a80142601",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "table"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "game; match (a particular instance of playing a game)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "board (long, wide and thin piece of wood or other material)"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates a single score or goal"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discuss; to talk over"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "bàn thờ",
+     "en": "altar"
+    },
+    {
+     "sense": 3,
+     "vi": "bàn tính",
+     "en": "abacus"
+    },
+    {
+     "sense": 3,
+     "vi": "bàn cầu cơ",
+     "en": "Ouija board"
+    },
+    {
+     "sense": 4,
+     "vi": "bàn thắng",
+     "en": "goal"
+    },
+    {
+     "sense": 4,
+     "vi": "thua 2 bàn",
+     "en": "to lose by two goals"
+    }
+   ]
+  },
+  {
+   "headword": "trận",
+   "base": "2ad06e031f15e5c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "battle (general action, fight, or encounter; a combat)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "battle formation"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "match"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates events where physical harm is dealt, such as battles or beating punishments"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates natural disasters such as storms, whirlwinds or earthquakes"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chết trận",
+     "en": "to die during a battle"
+    },
+    {
+     "sense": 1,
+     "vi": "trận đánh",
+     "en": "a battle"
+    },
+    {
+     "sense": 1,
+     "vi": "trận Điện Biên Phủ",
+     "en": "the Battle of Điện Biên Phủ"
+    },
+    {
+     "sense": 1,
+     "vi": "Phàm những quân sĩ Mông Cổ chết trận thì mỗi nhà được cấp năm con ngựa, năm tên tù binh làm nô lệ.",
+     "en": "Whenever Mongol soldiers die on the field of battle, their families are each provided with five horses and five prisoners of war as slaves."
+    },
+    {
+     "sense": 2,
+     "vi": "dàn trận",
+     "en": "to arrange a battle formation"
+    },
+    {
+     "sense": 2,
+     "vi": "bày trận",
+     "en": "to arrange a battle formation"
+    },
+    {
+     "sense": 2,
+     "vi": "bày binh bố trận",
+     "en": "to arrange a battle formation"
+    },
+    {
+     "sense": 3,
+     "vi": "trận lượt đi",
+     "en": "the first leg"
+    },
+    {
+     "sense": 3,
+     "vi": "trận lượt về",
+     "en": "the second leg"
+    },
+    {
+     "sense": 3,
+     "vi": "thắng trận",
+     "en": "to win a match"
+    },
+    {
+     "sense": 4,
+     "vi": "trận đòn",
+     "en": "a beating, especially one used as a punishment on children"
+    },
+    {
+     "sense": 4,
+     "vi": "Hôm qua nó bị mẹ đánh một trận nhừ tử.",
+     "en": "His mother gave him quite a beating yesterday."
+    },
+    {
+     "sense": 4,
+     "vi": "chịu trận",
+     "en": "to be forced to suffer cruel treatment, such as punishment or criticism; to be the fall guy or scapegoat"
+    }
+   ]
+  },
+  {
+   "headword": "chuyến",
+   "base": "25c53119b48b8cd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trip, instance of travel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chuyến bay",
+     "en": "a flight"
+    },
+    {
+     "sense": 1,
+     "vi": "chuyến xe",
+     "en": "instance of travel by car"
+    },
+    {
+     "sense": 1,
+     "vi": "chuyến thăm",
+     "en": "a visit"
+    }
+   ]
+  },
+  {
+   "headword": "ghét",
+   "base": "053914d233350236",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dirt, filth"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hate or detest, but in a relatively mild way; compare căm (“to really loathe or despise”), thù and hận (“to hate so much that you want to hurt or even kill the ones you hate”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dễ",
+   "base": "09158b4d1ff1afc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "easy (requiring little skill or effort)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên quan",
+   "base": "845de95efcbcbdf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a relevant connection, association, relation or affinity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có liên quan tới/đến/với",
+     "en": "to be associated with"
+    },
+    {
+     "sense": 1,
+     "vi": "Liên quan gì tới mày ?",
+     "en": "What the hell does that have to do with you?"
+    }
+   ]
+  },
+  {
+   "headword": "nhờ",
+   "base": "f7a0cf224ce813d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have recourse to; to ask (someone to do something)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rely on; to depend on"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "thanks to; owing to"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "somewhat unclear, somewhat dull"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy bay",
+   "base": "c8b2731aa6180c88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aircraft, (specifically) airplane"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xưởng máy bay khéo lạ lùng sao, […]",
+     "en": "The aircraft factory is surprisingly clever, […]"
+    }
+   ]
+  },
+  {
+   "headword": "da",
+   "base": "1264bf2b765eaf46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "skin (outer covering of the body)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hide; material made of animal skin, such as leather"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "da đầu",
+     "en": "scalp"
+    }
+   ]
+  },
+  {
+   "headword": "nhiệm vụ",
+   "base": "0f92fd64d4cec6b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a task or focused, small-scale mission; compare sứ mệnh (“lofty mission”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhiệm vụ bất khả thi",
+     "en": "Mission: Impossible"
+    }
+   ]
+  },
+  {
+   "headword": "câu chuyện",
+   "base": "1c2184d1ecb61187",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a story; tale"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "matter, affair, subject"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một câu chuyện buồn cười",
+     "en": "a funny story"
+    },
+    {
+     "sense": 2,
+     "vi": "Dẹp câu chuyện ấy đi.",
+     "en": "Let go of that matter."
+    }
+   ]
+  },
+  {
+   "headword": "triệu",
+   "base": "17d30058230ac594",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "million"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kéo",
+   "base": "42d7b56af9d203fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scissors (tool used for cutting)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông tin",
+   "base": "1feb4b986cb90eba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a piece of information"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pass on information"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công nghệ thông tin",
+     "en": "information technology"
+    },
+    {
+     "sense": 1,
+     "vi": "các thông tin mới nhất",
+     "en": "the latest updates"
+    }
+   ]
+  },
+  {
+   "headword": "diễn",
+   "base": "67c7955df2d43f8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to act; to perform"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take place; to occur"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngốc",
+   "base": "d08d7093dad3dbfd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "formal",
+      "mildly"
+     ],
+     "gloss": "foolish; doltish"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "endearing",
+      "informal",
+      "mildly"
+     ],
+     "gloss": "dummy; dumb-dumb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chàng ngốc",
+     "en": "The Idiot (a novel by Fyodor Dostoevsky)"
+    }
+   ]
+  },
+  {
+   "headword": "quân",
+   "base": "de76886dd996c43f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "troops, army"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for playing cards and pieces in certain board games"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for villains, thugs, gangsters and the like"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "quân bồi",
+     "en": "a jack"
+    },
+    {
+     "sense": 2,
+     "vi": "quân mã",
+     "en": "a horse"
+    },
+    {
+     "sense": 3,
+     "vi": "quân côn đồ",
+     "en": "a thug"
+    }
+   ]
+  },
+  {
+   "headword": "rõ ràng",
+   "base": "3cc624ec6255147f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clear, obvious, evident"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạn",
+   "base": "a4ac92791014dea5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bullet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "băng",
+   "base": "4a7470efdbd22699",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "non-hail ice"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "band; strip"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tape"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gang; group"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cut across; to move across quickly; to cross; to rush"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tảng băng trôi",
+     "en": "iceberg"
+    },
+    {
+     "sense": 1,
+     "vi": "đóng băng",
+     "en": "to freeze"
+    },
+    {
+     "sense": 3,
+     "vi": "băng đĩa",
+     "en": "VHS tapes/cassettes and CD's"
+    },
+    {
+     "sense": 3,
+     "vi": "đầu băng",
+     "en": "a VHS player"
+    },
+    {
+     "sense": 3,
+     "vi": "băng dính",
+     "en": "sticky tape"
+    },
+    {
+     "sense": 5,
+     "vi": "băng đèo, vượt núi",
+     "en": "to make a long and difficult journey"
+    }
+   ]
+  },
+  {
+   "headword": "cá",
+   "base": "6bb2fa58028c89e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fish (vertebrate animal)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to bet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cá heo và cá voi không phải là cá.",
+     "en": "Dolphins and whales aren't fish."
+    }
+   ]
+  },
+  {
+   "headword": "bình thường",
+   "base": "fba2cac6df9be659",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "normal; ordinary; usual"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "normally; usually"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bệnh do tổn thương của tim, vôi hoá van, tổn thương tim do giang mai và hở động mạch chủ đơn thuần, do giãn động mạch chủ bình thường theo tuổi thọ và ảnh hưởng đến tăng huyết áp.",
+     "en": "A disease due to cardiac injury, valve calcification, cardiac damage secondary to syphilis, or idiopathic aortic incompetence, which is from normal age-related dilatation of the aortic (root) and results in increased blood pressure."
+    },
+    {
+     "sense": 1,
+     "vi": "Ông bà Dursley, nhà số 4 đường Privet Drive, tự hào mà nói họ hoàn toàn bình thường, cám ơn bà con quan tâm.",
+     "en": "Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much."
+    }
+   ]
+  },
+  {
+   "headword": "cầm",
+   "base": "515f1e85b4d48669",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold, to keep"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to capture, to seize, to arrest"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "zither; string instrument"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "bird"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất",
+   "base": "a323fc29f1c91ad2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earth; soil; dirt"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ôi đất Việt yêu dấu ngàn năm!",
+     "en": "O, beloved [many-]thousand-year-old Viet land!"
+    }
+   ]
+  },
+  {
+   "headword": "ngựa",
+   "base": "9444269602698959",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a horse (members of the species Equus ferus)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "trestle"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "dated",
+      "derogatory",
+      "figuratively"
+     ],
+     "gloss": "sexually promiscuous, prurient, lewd, lecherous, slutty"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "broadly",
+      "derogatory",
+      "figuratively"
+     ],
+     "gloss": "appearance-obssessed, showy, flashy, gaudy, flamboyant, ostentatious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Đừng có ngựa! Coi chừng nó lừa đấy!",
+     "en": "Don't be a trollop! Beware that he can make an ass out of you!"
+    },
+    {
+     "sense": 4,
+     "vi": "Mày ngựa lắm con ạ. Tốn bao nhiêu là tiền mua quần áo với chả mĩ phẩm.",
+     "en": "You're so appearance-obsessed. All this money you spend on clothing and cosmetics."
+    },
+    {
+     "sense": 4,
+     "vi": "Kìa, trông thằng đó ngựa chưa kìa!",
+     "en": "Look how flamboyant that guy is!"
+    }
+   ]
+  },
+  {
+   "headword": "bản thân",
+   "base": "c2dd222b9a3acaed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "self, oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhóm",
+   "base": "12e781e315b4248f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "group"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to team up, to form a group"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a fire, to start a fire, to kindle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhóm máu",
+     "en": "a blood type"
+    },
+    {
+     "sense": 1,
+     "vi": "máu nhóm A",
+     "en": "having A-type blood"
+    },
+    {
+     "sense": 1,
+     "vi": "nhóm phát triển",
+     "en": "development group"
+    },
+    {
+     "sense": 2,
+     "vi": "Tụi mình có nhóm lại cũng chả đẩy nổi cái xe này đi đâu.",
+     "en": "Even if we team up, we still won't be able push this car forward."
+    }
+   ]
+  }
+ ]
+}

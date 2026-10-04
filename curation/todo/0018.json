@@ -1,0 +1,1614 @@
+{
+ "batch": "0018",
+ "entries": [
+  {
+   "headword": "Áo",
+   "base": "fc20786fb3d0ce33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Austrian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo",
+   "base": "4f5d7ae2bd2e93e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "top"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "rare"
+     ],
+     "gloss": "outfit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "áo ngực/vú",
+     "en": "top undergarment for women; bra, corset, etc."
+    },
+    {
+     "sense": 1,
+     "vi": "áo ba lỗ",
+     "en": "tanktop"
+    },
+    {
+     "sense": 1,
+     "vi": "áo khoác/ấm/lạnh",
+     "en": "jacket, coat, etc."
+    },
+    {
+     "sense": 1,
+     "vi": "áo len",
+     "en": "sweater"
+    }
+   ]
+  },
+  {
+   "headword": "tiệc",
+   "base": "534ccd9f73c6dc29",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "banquet; party; dinner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hôm trước đi ăn tiệc vui hông?",
+     "en": "Did you have fun at the banquet the other day?"
+    }
+   ]
+  },
+  {
+   "headword": "đuổi",
+   "base": "d9155694769c8ef7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to chase, to pursue"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kick out, to chivy, to expel, to drive out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đuổi học",
+     "en": "to expel (from an educational institution)"
+    },
+    {
+     "sense": 2,
+     "vi": "đuổi việc",
+     "en": "to get fired (from a job)"
+    }
+   ]
+  },
+  {
+   "headword": "bao lâu",
+   "base": "46733b73bf0fef5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "how long"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh học tiếng Việt bao lâu rồi?",
+     "en": "How long have you been learning Vietnamese?"
+    }
+   ]
+  },
+  {
+   "headword": "thịt",
+   "base": "0e7053e9ddd208d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human or animal flesh, especially meat, but mostly except fish and shellfish"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "synonym of làm thịt (“to butcher; to slaughter”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thịt lợn/heo",
+     "en": "pork"
+    },
+    {
+     "sense": 1,
+     "vi": "thịt trâu",
+     "en": "water buffalo beef"
+    },
+    {
+     "sense": 1,
+     "vi": "thịt nạc",
+     "en": "lean meat"
+    }
+   ]
+  },
+  {
+   "headword": "cướp",
+   "base": "bed725b2697da9b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rob"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "robber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hay là",
+   "base": "bd85a3e8765eec8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "represents an alternative theory, option or solution in an interrogative form"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hay (là) nó bị tai nạn ?",
+     "en": "Maybe he had an accident?"
+    },
+    {
+     "sense": 1,
+     "vi": "Hay (là) mày gọi sếp mày xem thế nào ?",
+     "en": "How about you call your boss, maybe he could help?"
+    }
+   ]
+  },
+  {
+   "headword": "già",
+   "base": "19555c3f0d6a319b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old; compare cũ (of objects)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having the characteristics of appearances of an old person although not that old"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "veteran, experienced, longtime"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "overripe"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "above average, more than normal"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slightly excessive, over"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [
+      "dialectal",
+      "literary"
+     ],
+     "gloss": "Used to indicate one's contact with a village or tribe elder or the elderly"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "Used to refer to the elder sister of one's mother"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "elder, old person"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "king"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhường bước người già",
+     "en": "to make way for the elderly"
+    },
+    {
+     "sense": 1,
+     "vi": "gà già thịt dai",
+     "en": "old chickens have leathery meat"
+    },
+    {
+     "sense": 1,
+     "vi": "cây già",
+     "en": "old tree"
+    },
+    {
+     "sense": 2,
+     "vi": "mặt già",
+     "en": "an old face (ie. with wrinkles)"
+    },
+    {
+     "sense": 2,
+     "vi": "tìm một chị tiếng già để đóng vai bà lão",
+     "en": "to search for a woman with an old voice to voice the role of an old woman (ie. someone whose voice sounds like an old person)"
+    },
+    {
+     "sense": 2,
+     "vi": "lo nghĩ nhiều nên già trước tuổi",
+     "en": "to worry too much and thus age too soon"
+    },
+    {
+     "sense": 3,
+     "vi": "thầy già",
+     "en": "veteran teacher"
+    },
+    {
+     "sense": 3,
+     "vi": "Cậu ta là bạn già của mình.",
+     "en": "He is my old friend."
+    },
+    {
+     "sense": 3,
+     "vi": "Chưa đến bốn mươi nhưng đã già tuổi Đảng.",
+     "en": "Not even 40 years old but already a Party veteran."
+    },
+    {
+     "sense": 4,
+     "vi": "cau già",
+     "en": "overripe areca nut"
+    },
+    {
+     "sense": 4,
+     "vi": "bầu già",
+     "en": "overripe gourd"
+    },
+    {
+     "sense": 5,
+     "vi": "nước nóng già",
+     "en": "too-warm water"
+    },
+    {
+     "sense": 5,
+     "vi": "dọa già dọa non",
+     "en": "to scare someone and make them give in"
+    },
+    {
+     "sense": 5,
+     "vi": "nước ô-xi già",
+     "en": "hydrogen peroxide"
+    },
+    {
+     "sense": 6,
+     "vi": "già một thước",
+     "en": "over by one meter"
+    },
+    {
+     "sense": 6,
+     "vi": "lấy già một đấu",
+     "en": "scoop just over one dou"
+    },
+    {
+     "sense": 7,
+     "vi": "Cám ơn già.",
+     "en": "Thank you, elder."
+    }
+   ]
+  },
+  {
+   "headword": "lửa",
+   "base": "cc13bdd1f9f61af1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fire (chemical reaction)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flame or blaze"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thổi bùng lên ngọn lửa đam mê",
+     "en": "to blow the passionate flame; the ignite passion"
+    }
+   ]
+  },
+  {
+   "headword": "sức mạnh",
+   "base": "c2d4d47e5812e446",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "power; strength"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trò",
+   "base": "d4ddce01d2629f37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trick; artifice; antic"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "comedy; amusement"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "play; game; facetiousness"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "you (used by a teacher when talking to a student in their class)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Làm trò gì vậy?",
+     "en": "What trickery are you doing?"
+    },
+    {
+     "sense": 2,
+     "vi": "Tấn trò đời",
+     "en": "La Comédie humaine (\"The Human Comedy\") (a collection of novels and stories by Honoré de Balzac)"
+    }
+   ]
+  },
+  {
+   "headword": "trừ",
+   "base": "ee1c93830ff1c6f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exclude"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to subtract"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exterminate (pests)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chọn đứa nào cũng được, trừ thằng Tú (ra).",
+     "en": "Pick any of them you like, except for Tú."
+    },
+    {
+     "sense": 3,
+     "vi": "thuốc trừ sâu",
+     "en": "pesticide"
+    }
+   ]
+  },
+  {
+   "headword": "lão",
+   "base": "03da7371bac75d63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "old"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me (used by an old man)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him (an old man)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ông lão",
+     "en": "an old man"
+    }
+   ]
+  },
+  {
+   "headword": "lo lắng",
+   "base": "64092f5fb848b34b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be worried; to worry; to be anxious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lo lắng về sức khỏe",
+     "en": "worry about health"
+    }
+   ]
+  },
+  {
+   "headword": "giải quyết",
+   "base": "ee85548367612986",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resolve"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giải quyết khó khăn",
+     "en": "to resolve difficulties"
+    },
+    {
+     "sense": 1,
+     "vi": "sự giải quyết",
+     "en": "decision"
+    },
+    {
+     "sense": 1,
+     "vi": "Không ai chịu giải quyết vấn đề này.",
+     "en": "No one is willing to resolve this issue."
+    },
+    {
+     "sense": 1,
+     "vi": "Gửi đơn lâu rồi nhưng chưa được giải quyết.",
+     "en": "It's been a long time since the application was sent, but it still hasn't been acted upon."
+    }
+   ]
+  },
+  {
+   "headword": "cuộc đời",
+   "base": "ae5d29d5f0fbe10d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the period during which one lives; one's lifetime"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dây",
+   "base": "238e1739c9c7486f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rope; cord; wire; string"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "vine; stem"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stain (by ink, blood, etc.)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spread"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to get involved in something unpleasant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "Dây vào chuyện rùm beng ấy thì có mà sạt nghiệp.",
+     "en": "Getting tangled up in that sort of drama will drive you penniless."
+    }
+   ]
+  },
+  {
+   "headword": "thề",
+   "base": "c0ea923004f3884d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swear; to vow; to pledge"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "profanity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "một cách",
+   "base": "eafd9269ad6fba5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see một, cách."
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "adverbializes adjectives; in a ... way/manner/fashion; -ly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "một cách ngu xuẩn",
+     "en": "in a foolish way; foolishly"
+    }
+   ]
+  },
+  {
+   "headword": "thực hiện",
+   "base": "3dd9aa4f561dd44c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to realize; to carry out; to bring about; to implement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tóc",
+   "base": "0ffaeb5d7c2a18d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "headhair"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sợi/cọng tóc",
+     "en": "a single strand of headhair"
+    },
+    {
+     "sense": 1,
+     "vi": "mái tóc",
+     "en": "all the headhairs as a unit"
+    }
+   ]
+  },
+  {
+   "headword": "tấm",
+   "base": "9dd10698788d9c05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "broken or fractured rice grains"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for large flat things, such as pieces of cloth (vải), planks (ván), boards (gỗ), pictures (ảnh, hình), mirrors (gương), etc."
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "Used for small or seemingly insignificant things that are deemed valuable or worth cherishing."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "truyện Tấm Cám",
+     "en": "The Story of Tam and Cam (Broken-Rice and Rice-Bran) (ancient Vietnamese tale)"
+    },
+    {
+     "sense": 3,
+     "vi": "tấm thân",
+     "en": "body"
+    },
+    {
+     "sense": 3,
+     "vi": "tấm lòng vàng",
+     "en": "heart of gold"
+    },
+    {
+     "sense": 3,
+     "vi": "tấm chồng",
+     "en": "a husband (that is ideal, that one can rely on for one's livelihood)"
+    },
+    {
+     "sense": 3,
+     "vi": "Phụ nữ hơn nhau ở tấm chồng.",
+     "en": "The standard of comparison between two women is their husbands. (Vietnamese saying)"
+    }
+   ]
+  },
+  {
+   "headword": "theo dõi",
+   "base": "d6048d71fce2a54d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep an eye on; to keep track (of); to monitor; to watch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khỉ",
+   "base": "184c4aa051556a7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monkey (primate)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "ape (animal)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trò khỉ",
+     "en": "a \"monkey trick\" / a stupid comedy routine"
+    },
+    {
+     "sense": 1,
+     "vi": "Hay cái con khỉ!",
+     "en": "Good my ass!"
+    },
+    {
+     "sense": 1,
+     "vi": "Khỉ thật!",
+     "en": "Damn it!"
+    },
+    {
+     "sense": 2,
+     "vi": "Hành tinh khỉ",
+     "en": "Planet Of The Apes"
+    }
+   ]
+  },
+  {
+   "headword": "đen",
+   "base": "974ed7fda47e0991",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of the color black"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "dark; swarthy"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unlucky; unfortunate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "đen đủi",
+     "en": "very unlucky"
+    },
+    {
+     "sense": 3,
+     "vi": "số/vận đen",
+     "en": "bad luck"
+    },
+    {
+     "sense": 3,
+     "vi": "đỏ và đen",
+     "en": "red and black; good and bad luck"
+    }
+   ]
+  },
+  {
+   "headword": "đối với",
+   "base": "ae61b55ff86cbdfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "according to"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "relative to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hắn không lịch sự đối với tôi. Đối với hắn, tôi không đáng được xem trọng.",
+     "en": "He wasn't polite to me. To him, I didn't deserve to be respected."
+    },
+    {
+     "sense": 2,
+     "vi": "Chuyển động của điểm M đối với các trục tọa độ di động gọi là chuyển động tương đối (là chuyển động mà một người đứng cố định ở hệ trục Oxyz và chuyển động cùng với hệ ấy có thể thấy được).",
+     "en": "The movement of point M relative to the moving axes is called relative motion (which is the motion a person standing still in the Oxyz coordinate system and moving along with this system would observe)."
+    }
+   ]
+  },
+  {
+   "headword": "thuyền",
+   "base": "c0e60bf1c37179ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boat"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "wooden ship (large water vessel)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thuyền/tàu cướp biển/hải tặc",
+     "en": "a pirate ship"
+    }
+   ]
+  },
+  {
+   "headword": "điện",
+   "base": "1719f83cc6f5dd1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electricity"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "electric lights"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to send telegram or to make a phone call"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "temple; shrine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thợ điện",
+     "en": "an electrician"
+    },
+    {
+     "sense": 1,
+     "vi": "cột điện",
+     "en": "a utility pole"
+    },
+    {
+     "sense": 2,
+     "vi": "bật điện",
+     "en": "to turn on the lights"
+    },
+    {
+     "sense": 3,
+     "vi": "Về nhớ điện cho tao khỏi lo.",
+     "en": "Don't forget to phone me when you're there so I won't worry."
+    },
+    {
+     "sense": 4,
+     "vi": "điện Pác-tê-nông",
+     "en": "the Parthenon"
+    },
+    {
+     "sense": 4,
+     "vi": "điện Hòn Chén",
+     "en": "Hòn Chén Shrine"
+    }
+   ]
+  },
+  {
+   "headword": "cuốn",
+   "base": "97bb6e58eb528cfe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roll"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to captivate, to enchant, to enamor"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates books"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cuốn/quyển vở",
+     "en": "a notebook"
+    }
+   ]
+  },
+  {
+   "headword": "vui vẻ",
+   "base": "b1e5823f0b6b29e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "happy; joyful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tương lai",
+   "base": "77b68411b4c24ce6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the future"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trẻ em là tương lai của đất nước.",
+     "en": "Our children are the future of our country."
+    }
+   ]
+  },
+  {
+   "headword": "xác",
+   "base": "8f15097356cd643f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "remains: corpse"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "remains: carcass"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "remains: wreckage"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "body"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "xác cầu (sập)",
+     "en": "wreckage or remains of a collapsed bridge"
+    }
+   ]
+  },
+  {
+   "headword": "chung",
+   "base": "2e0a9dd872e96268",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "general; common; public"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to end; to finish"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small handleless cup (usually for drinking alcohol)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bóng",
+   "base": "b57dcb69b03e1fcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ball"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shadow, shade"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reflection"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shiny"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "female occultist, shamaness"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [
+      "offensive",
+      "slang"
+     ],
+     "gloss": "homosexual"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "dưới bóng cây",
+     "en": "in the shade of the tree"
+    },
+    {
+     "sense": 3,
+     "vi": "bóng cây trên mặt nước",
+     "en": "tree reflection on the water"
+    },
+    {
+     "sense": 5,
+     "vi": "bà bóng",
+     "en": "the shamaness"
+    }
+   ]
+  },
+  {
+   "headword": "thở",
+   "base": "e0db2e95e470aa95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to breathe out; to exhale"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to breathe"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hít thở khí trời",
+     "en": "to breathe some fresh air"
+    },
+    {
+     "sense": 1,
+     "vi": "hít vào, thở ra",
+     "en": "to breathe in and out"
+    },
+    {
+     "sense": 2,
+     "vi": "ngừng thở",
+     "en": "to stop breathing"
+    },
+    {
+     "sense": 2,
+     "vi": "thở hổn hển",
+     "en": "to pant heavily, gasping for air"
+    }
+   ]
+  },
+  {
+   "headword": "giá",
+   "base": "7502898c4eef4134",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "price"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "value"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bean sprout"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shelf"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mount (object on which another object is mounted)"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "cold"
+    },
+    {
+     "position": 7,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "if; in case; supposing; if only; I wish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Giá USD trong ngân hàng tăng tăng mạnh trong tháng 4, còn đồng bạc xanh tự do cũng đứng ở mức cao.",
+     "en": "The value of the USD in banks increased sharply in April, while the greenback also stood high."
+    },
+    {
+     "sense": 7,
+     "vi": "Giá trời không mưa thì giờ ta đã đến nơi rồi.",
+     "en": "If it had not rained we would have already arrived."
+    }
+   ]
+  },
+  {
+   "headword": "thành công",
+   "base": "f0e9a7a4f2a1093a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to succeed"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "success"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự thành công",
+     "en": "success"
+    },
+    {
+     "sense": 2,
+     "vi": "gặt hái nhiều thành công",
+     "en": "to have achieved great success"
+    },
+    {
+     "sense": 2,
+     "vi": "Đoàn kết, đoàn kết, đại đoàn kết! Thành công, thành công, đại thành công!",
+     "en": "United, we succeed!"
+    }
+   ]
+  },
+  {
+   "headword": "ngôi",
+   "base": "f85bcdbbb65bb3f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kingship or emperorship"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a grand title; high rank; status (of great importance)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "position; rank"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "position of a hào within a hexagram’s six lines."
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "person"
+    },
+    {
+     "position": 6,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates important structures, such as houses, buildings, markets, graves and stars"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nối ngôi",
+     "en": "to inherit the throne"
+    },
+    {
+     "sense": 2,
+     "vi": "lên ngôi hoàng đế",
+     "en": "to ascend the imperial throne"
+    },
+    {
+     "sense": 2,
+     "vi": "lên ngôi vô địch",
+     "en": "to become champion"
+    },
+    {
+     "sense": 5,
+     "vi": "ngôi thứ hai số ít",
+     "en": "second person singular"
+    }
+   ]
+  },
+  {
+   "headword": "hóa",
+   "base": "10ee81014bf7cd28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoá."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tìm kiếm",
+   "base": "4703e7607066ff5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look for; to search (for); to seek"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bom",
+   "base": "853b4b07c0a2849b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bomb"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "apple"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đấu",
+   "base": "b46431cdd342581c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to battle, fight"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dipper, ladle, scoop"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lạ",
+   "base": "63d321e5a1e2760d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strange; unfamiliar"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strange; odd; weird"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người lạ",
+     "en": "a stranger"
+    },
+    {
+     "sense": 2,
+     "vi": "Lạ thật.",
+     "en": "How strange."
+    },
+    {
+     "sense": 2,
+     "vi": "hương thơm là lạ",
+     "en": "a smell that is a little bit strange"
+    }
+   ]
+  },
+  {
+   "headword": "hạnh phúc",
+   "base": "07dbc205129bd02c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "happy"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "happiness"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Muốn hạnh phúc thì phải có hòa bình.",
+     "en": "One needs peace to be happy."
+    }
+   ]
+  },
+  {
+   "headword": "đơn giản",
+   "base": "ca88ec50001af6b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "simple (uncomplicated)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đầu óc đơn giản",
+     "en": "simple-minded"
+    }
+   ]
+  },
+  {
+   "headword": "mối",
+   "base": "0445fc3ef56ad693",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "termite"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "common house gecko (Hemidactylus frenatus)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knot; end (of entangled thread or string)"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for romantic relationships or a sentiment of hatred"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "negotiator; go-between"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be a matchmaker"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "mối tình",
+     "en": "a love affair"
+    },
+    {
+     "sense": 4,
+     "vi": "mối thù",
+     "en": "hatred; feud"
+    }
+   ]
+  },
+  {
+   "headword": "liên lạc",
+   "base": "8bcb84ae6be401a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to connect"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to communicate"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

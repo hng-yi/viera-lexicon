@@ -1,0 +1,1682 @@
+{
+ "batch": "0006",
+ "entries": [
+  {
+   "headword": "việc",
+   "base": "c7e5dee34950cf24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "job, work, business"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thing, matter, affair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiều",
+   "base": "607f83f369160c24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "many, much; a lot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "không thể",
+   "base": "9272a38545493a6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "impossibly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impossible"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "không thể làm/nghe/thấy",
+     "en": "cannot do/hear/see"
+    },
+    {
+     "sense": 2,
+     "vi": "điều không thể",
+     "en": "an impossible thing; the impossible"
+    }
+   ]
+  },
+  {
+   "headword": "tao",
+   "base": "b52f1e30209f58b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "Southern",
+      "familiar",
+      "impolite"
+     ],
+     "gloss": "I/me"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quá",
+   "base": "cded712654c69dfe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very, excessively"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exceed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lâu quá không gặp",
+     "en": "long time no see"
+    }
+   ]
+  },
+  {
+   "headword": "giờ",
+   "base": "adb306548005aade",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "unit for specifying a point in time in terms of hours"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "one of the twelve two-hour periods in a day in the traditional time system, denoted by the twelve earthly branches"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "hour"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bốn giờ năm (phút)",
+     "en": "five past four"
+    },
+    {
+     "sense": 1,
+     "vi": "bốn giờ (đúng)",
+     "en": "four (o'clock)"
+    },
+    {
+     "sense": 1,
+     "vi": "bốn giờ hơn",
+     "en": "a little past four"
+    },
+    {
+     "sense": 1,
+     "vi": "bốn giờ kém",
+     "en": "almost four"
+    },
+    {
+     "sense": 1,
+     "vi": "bốn giờ kém năm (phút)",
+     "en": "five to four"
+    },
+    {
+     "sense": 1,
+     "vi": "bốn (giờ) rưỡi",
+     "en": "half past four"
+    },
+    {
+     "sense": 2,
+     "vi": "giờ Tí",
+     "en": "from 11 PM to 1 AM"
+    },
+    {
+     "sense": 3,
+     "vi": "giờ (đồng hồ)",
+     "en": "hour(s)"
+    },
+    {
+     "sense": 3,
+     "vi": "Hãy hoàn thành nhiệm vụ này trong vòng 4 giờ.",
+     "en": "Complete this task within 4 hours."
+    }
+   ]
+  },
+  {
+   "headword": "nhà",
+   "base": "0d0c22e72986be1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "house; home; dwelling"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "immediate family; household; home"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spouse"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "building for a particular purpose"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "condominium"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "professional in; expert in; performer of"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dynasty"
+    },
+    {
+     "position": 8,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "domestic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà trên",
+     "en": "the \"main\" house/building, where a family receives guests and common activies take place"
+    },
+    {
+     "sense": 3,
+     "vi": "Tôi yêu nhà tôi lắm!",
+     "en": "I love my house/home/wife!"
+    },
+    {
+     "sense": 3,
+     "vi": "anh nhà",
+     "en": "your husband"
+    },
+    {
+     "sense": 3,
+     "vi": "anh nhà tôi",
+     "en": "my husband"
+    },
+    {
+     "sense": 3,
+     "vi": "ông nhà tôi",
+     "en": "my husband"
+    },
+    {
+     "sense": 3,
+     "vi": "chị nhà",
+     "en": "your wife"
+    },
+    {
+     "sense": 3,
+     "vi": "chị nhà tôi",
+     "en": "my wife"
+    },
+    {
+     "sense": 3,
+     "vi": "bà nhà tôi",
+     "en": "my wife"
+    },
+    {
+     "sense": 5,
+     "vi": "Đội đặc nhiệm nhà C21",
+     "en": "C21-Condominium Task Force"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà khoa học",
+     "en": "scientist"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà độc tài",
+     "en": "dictator"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà ảo thuật",
+     "en": "stage magician"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà chính trị",
+     "en": "politician"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà đầu tư",
+     "en": "investor"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà khảo cổ",
+     "en": "archeologist"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà kinh tế học",
+     "en": "economist"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà nghiên cứu",
+     "en": "researcher"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà ngoại giao",
+     "en": "diplomat"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà phê bình",
+     "en": "critic"
+    },
+    {
+     "sense": 6,
+     "vi": "nhà soạn nhạc",
+     "en": "composer"
+    },
+    {
+     "sense": 6,
+     "vi": "Jogan Bécnuli (1667-1748) là một nhà toán học và cơ học người Thụy sĩ, đã phát biểu nguyên lý này dưới dạng gần như hiện nay, nhưng không chứng minh.",
+     "en": "Johann Bernoulli (1667-1748) was a Swiss mathematician and mechanician who formulated this principle almost in its current form, but without proof."
+    },
+    {
+     "sense": 7,
+     "vi": "nhà Minh",
+     "en": "the Ming dynasty"
+    },
+    {
+     "sense": 8,
+     "vi": "lợn/heo nhà",
+     "en": "domestic pig"
+    }
+   ]
+  },
+  {
+   "headword": "trên",
+   "base": "dfab8f87e075ddbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "upper"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "higher, superior"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "trên cây",
+     "en": "up on the tree"
+    }
+   ]
+  },
+  {
+   "headword": "tên",
+   "base": "7808ed4e6ecda4b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "given name"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "name"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "informal"
+     ],
+     "gloss": "person"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates hostile people, such as (enemy) soldiers (lính), criminals (tội phạm), etc."
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arrow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi tên là Vân. / Tên tôi là Vân.",
+     "en": "My name is Vân."
+    },
+    {
+     "sense": 3,
+     "vi": "Băng đó có tám tên.",
+     "en": "There are eight people in that gang."
+    },
+    {
+     "sense": 3,
+     "vi": "Có tên [địch] trốn dưới gậm giường của đồng bào, anh em chúng tôi vừa vô thì bà con đã đưa mắt ra hiệu chỉ cho anh em bắt.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "trước",
+   "base": "1ba91aece34b79f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "before (earlier than in time)"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "in front of"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "before"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "ago"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Em trước.",
+     "en": "Me first."
+    },
+    {
+     "sense": 3,
+     "vi": "Bạn đi trước",
+     "en": "After you."
+    }
+   ]
+  },
+  {
+   "headword": "bà",
+   "base": "03900f6efd178432",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a grandmother"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an old woman; an old lady"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "a lady, old or young"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, my grandmother"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "familiar",
+      "informal"
+     ],
+     "gloss": "you, an old woman"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "you, a woman about 40 or older"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I/me, your grandmother"
+    },
+    {
+     "position": 8,
+     "pos": "pron",
+     "tags": [
+      "familiar",
+      "informal"
+     ],
+     "gloss": "I/me, an old woman"
+    },
+    {
+     "position": 9,
+     "pos": "pron",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "you, a gal"
+    },
+    {
+     "position": 10,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "she/her, an admirable/lovable old/deceased woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Hai Bà Trưng",
+     "en": "the Two Ladies Trưng"
+    },
+    {
+     "sense": 9,
+     "vi": "Bà chỉ tôi chỗ này với.",
+     "en": "Girl, can you help me with this one?"
+    }
+   ]
+  },
+  {
+   "headword": "cháu",
+   "base": "709d08e2ddb36316",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grandchild"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nephew or niece"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "I/me, your nephew, niece or grandchild"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "I/me, someone who's not your child and who's a lot younger than you"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "you, my nephew, niece or grandchild"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "you, someone who's not my child and who's a lot younger than me"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he/him/she/her, the child under my guardianship (my child or grandchild) who we're talking about"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhìn",
+   "base": "e99c6affc6ad435b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look at"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vẫn",
+   "base": "221aa6cb06c6fcfb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "still; yet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọn",
+   "base": "1d51bfd5694691f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory",
+      "dialectal",
+      "literary"
+     ],
+     "gloss": "group; gang; cohorts; associates"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bọn tôi",
+     "en": "we; us"
+    },
+    {
+     "sense": 1,
+     "vi": "bọn mày",
+     "en": "you guys; y'all"
+    },
+    {
+     "sense": 1,
+     "vi": "bọn thằng Hùng",
+     "en": "Hùng and the others (with him)"
+    },
+    {
+     "sense": 1,
+     "vi": "bọn con Lâm",
+     "en": "Lâm and the others (with her)"
+    }
+   ]
+  },
+  {
+   "headword": "sau",
+   "base": "f98f82dadd4c084c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rear, hind, back"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "next, subsequent"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "later"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "afterwards"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "behind"
+    },
+    {
+     "position": 6,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "after"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hai chân sau của con chó",
+     "en": "two hind legs of a dog"
+    },
+    {
+     "sense": 2,
+     "vi": "Lần sau đi cửa trước.",
+     "en": "Next time, use the front door."
+    },
+    {
+     "sense": 5,
+     "vi": "Sau nhà có vườn.",
+     "en": "Behind the house is a garden."
+    }
+   ]
+  },
+  {
+   "headword": "khác",
+   "base": "504089d6006ee4dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "different, other"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gặp",
+   "base": "025af6495658e7d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to meet, to see"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gặp lại bạn sau!",
+     "en": "See you later!"
+    },
+    {
+     "sense": 1,
+     "vi": "Mới gặp nó tuần trước.",
+     "en": "I just saw him last week."
+    }
+   ]
+  },
+  {
+   "headword": "lắm",
+   "base": "5f2fe7a59c18063b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "many, much; a lot"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very (placed after the word to intensify)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sao mà nói lắm thế?",
+     "en": "Why do you talk so much?"
+    },
+    {
+     "sense": 1,
+     "vi": "Mình chưa tới được đâu, còn lắm việc phải làm quá!",
+     "en": "I can't come just now, [because I] still have a lot of work to do!"
+    },
+    {
+     "sense": 2,
+     "vi": "ít lắm",
+     "en": "very few"
+    }
+   ]
+  },
+  {
+   "headword": "xem",
+   "base": "5efcf95d645ecd20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to see; to look at; to watch; to read"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to examine; to consider; to evaluate; to read (palm, future, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tất cả",
+   "base": "8fad226bb544ccbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "all, everything, everybody"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "« Tất cả mọi người đều sinh ra bình đẳng. [...] »",
+     "en": "\"All men are created equal. …\"."
+    }
+   ]
+  },
+  {
+   "headword": "đưa",
+   "base": "2c03a7f74e2ea4f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to bring, to take, to give, to hand"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to lead, to guide, to drive"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to reach out (to extend one's hand, foot, etc.); to brandish"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to put into"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "transitive"
+     ],
+     "gloss": "to bring up"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to accompany, to escort"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "transitive"
+     ],
+     "gloss": "to lead to, to guide to, to drive an outcome"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "intransitive",
+      "transitive"
+     ],
+     "gloss": "to shuffle, to shift, to swing (to move in a slovenly, dragging manner)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi đưa tiền cho ông ấy rồi.",
+     "en": "I already gave him [an older man] some money."
+    },
+    {
+     "sense": 1,
+     "vi": "đưa thư đến tận tay",
+     "en": "to deliver a letter to [the recipient's] hands"
+    },
+    {
+     "sense": 1,
+     "vi": "đưa tin cho báo",
+     "en": "to tip off a newspaper"
+    },
+    {
+     "sense": 2,
+     "vi": "đưa trâu ra đồng",
+     "en": "to take the water buffalo out to the field"
+    },
+    {
+     "sense": 2,
+     "vi": "đưa khách đi tham quan",
+     "en": "to take the guests sightseeing"
+    },
+    {
+     "sense": 2,
+     "vi": "đưa bóng vào lưới",
+     "en": "to drive the ball into the net"
+    },
+    {
+     "sense": 3,
+     "vi": "Đưa tay đỡ lấy đứa bé đi.",
+     "en": "Come and lend the baby a hand."
+    },
+    {
+     "sense": 3,
+     "vi": "Nó đưa chân đá trái banh.",
+     "en": "He kicked the ball with his foot."
+    },
+    {
+     "sense": 3,
+     "vi": "đưa dao ra hăm dọa",
+     "en": "to brandish a knife menacingly"
+    },
+    {
+     "sense": 3,
+     "vi": "đưa đầu chịu đòn",
+     "en": "to show one's head to accept punishment"
+    },
+    {
+     "sense": 4,
+     "vi": "Đưa tất cả công sức vào việc này.",
+     "en": "Put all your effort into this task."
+    },
+    {
+     "sense": 4,
+     "vi": "đưa tiền ra mua chuộc",
+     "en": "to put out money to bribe"
+    },
+    {
+     "sense": 5,
+     "vi": "Các báo đã đưa tin…",
+     "en": "The newspapers have reported…"
+    },
+    {
+     "sense": 5,
+     "vi": "đưa vấn đề ra thảo luận",
+     "en": "bring up the issue for discussion"
+    },
+    {
+     "sense": 6,
+     "vi": "đưa khách ra đến tận cổng",
+     "en": "to accompany the guests to the outermost gate"
+    },
+    {
+     "sense": 6,
+     "vi": "đưa bạn lên đường",
+     "en": "to accompany a friend on the road"
+    },
+    {
+     "sense": 7,
+     "vi": "đưa cuộc kháng chiến tới thắng lợi",
+     "en": "to lead the resistance to victory"
+    },
+    {
+     "sense": 7,
+     "vi": "Chủ quan đưa đến thất bại.",
+     "en": "Subjectivity leads to failure."
+    },
+    {
+     "sense": 8,
+     "vi": "Mắt nó cứ đưa qua đảo lại.",
+     "en": "The child's eyes kept shifting back and forth."
+    },
+    {
+     "sense": 8,
+     "vi": "đưa võng ru em",
+     "en": "to push a hammock to lull a child to sleep"
+    }
+   ]
+  },
+  {
+   "headword": "Ngài",
+   "base": "8a69d847574bd670",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "He/Him/She/Her/They/Them, (referring to the Buddha or bodhisattva)"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "synonym of Người (“He/Him, (referring to God)”)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "synonym of Người (“He/Him (referring to Jesus)”)"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "You"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "Used as an equivalent to any foreign honorific title"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trước khi ôn lại Tiểu Sử Đức Phật Thích Ca Mâu Ni, để người đọc nhận định dễ hơn về ngày tháng ghi trong tiểu sử của Ngài, chúng tôi xin nhắc lại là Đức Phật Thích Ca sanh vào năm 624 trước Tây Lịch. Ngài nhập Niết Bàn lúc 80 tuổi vào năm 544 trước Tây Lịch. Sáu trăm hai mươi bốn năm sau, Tây Phương mới bắt đầu chọn năm sinh của Đức Chúa Jesus Christ làm khởi điểm cho Dương lịch. Như vậy tính đến nay là năm 2018 thì Đức Phật đã ra đời được 2,642 năm và chiếu theo Phật lịch khởi đầu từ năm Đức Phật viên tịch (năm 544 trước TL) thì Ngài đã nhập Niết Bàn được 2,562 năm.",
+     "en": "Before recounting the life and time of the Buddha Shakyamuni, just so our readers have a good idea of the timeline in His biography, we would like to remind you that the Buddha Shakyamuni was born in 624 BCE. He entered Nirvana at the age of 80, in 544 BCE. 624 years later, the West chose Jesus Christ's year of birth as the start of their solar calendar. Thus, as of 2018, the Buddha has left this world 2,642 years, and according the Buddhist calendar which began in the Buddha's year of death (544 BCE), He has been in Nirvana 2,562 years."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi gọi Ngài là mẹ, không cường điệu, và cũng không phải vì nhiều người gọi như thế. Tôi gọi Ngài là Mẹ với tất cả tình thương và sự thành kính trong tôi.",
+     "en": "I call Her \"Mother\", not hyperbolically, nor because that's what everyone does. I call Her Mother with all the love and reverence in me."
+    },
+    {
+     "sense": 1,
+     "vi": "Như vậy, không nhất thiết Ngài chỉ thị hiện nữ thân mà là vô số thân. Nhưng do niềm tịnh tín của các dân tộc vùng Đông Nam Á nói chung và Việt Nam nói riêng thì hình ảnh người Mẹ hiền, thương chúng sinh như con đỏ, thường che chở, gia hộ và tưới mát những tâm hồn khổ đau của Ngài, rất được quần chúng nhân dân ngưỡng mộ và tôn thờ. Vì vậy, tượng Ngài được thờ phụng khắp nơi đa phần là thân nữ. Tuy nhiên, một vài ngôi chùa ở miền Bắc Việt Nam và Trung Quốc, tôn tượng của Ngài được thờ phụng là thân nam.",
+     "en": "Thus, They do not necessarily manifest as a female form, but any form. Due to the unadulterated faith among the peoples of Southeast Asia in general and Vietnam in particular, in the figure of a gentle Mother who loves all life like babies, who shields, protects and relieves Their suffering souls, they love and worship Them earnestly. As such, Their statues in most places of worship are of a female form. However, in a few Northern Vietnamese and Chinese temples, Their statues are venerated as a male form."
+    },
+    {
+     "sense": 2,
+     "vi": "Thiên Chúa là Đấng Tối Cao và Hằng Hữu, Ngài tạo dựng, cứu chuộc và thánh hóa mọi loài với sự khôn ngoan và tình yêu.",
+     "en": "God is the Supreme and Eternal Being; He creates, redeems, and sanctifies all living things with wisdom and love."
+    },
+    {
+     "sense": 3,
+     "vi": "Đức Giêsu là Ngôi Lời Thiên Chúa Nhập Thể (Logos). Ngài đi rao giảng và chịu chết dưới thời Philatô.",
+     "en": "Jesus is the Word (Logos) Made Flesh. He traveled, preached and suffered death under [Pontius] Pilate's reign."
+    },
+    {
+     "sense": 4,
+     "vi": "Tiếp theo bức điện tín của Hoàng thượng hôm nay, tôi xin thành cẩn báo cáo với Ngài rằng, tôi phủ nhận cái Hội nghị đó, mà sự bất hợp pháp không cần phải chứng minh nữa.",
+     "en": "To follow up on your Imperial Highness's telegraph today, I sincerely report to You that, I reject that Conference, whose illegality needs no further proof."
+    },
+    {
+     "sense": 5,
+     "vi": "Thưa Ngài, Ngài đã can đảm vượt qua lòng tự ái của chính Ngài và biết bao nhiêu khó khăn khác mới làm được những việc làm vĩ đại nhìn nhận lỗi lầm của Giáo Hội trong qúa^([sic – meaning quá]) khứ và xin lỗi các quốc gia nạn nhân như vậy.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "ngài",
+   "base": "e8aad9326cc6b631",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "he, him"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "she, her"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "moth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay",
+   "base": "aadc751656bedd3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "direct; straight"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "honest"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "as soon as, straight away"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cây ngay",
+     "en": "a straight tree"
+    },
+    {
+     "sense": 1,
+     "vi": "Ngồi ngay lên nào!",
+     "en": "Come on, sit up straight!"
+    },
+    {
+     "sense": 3,
+     "vi": "ngay khi",
+     "en": "as soon as"
+    }
+   ]
+  },
+  {
+   "headword": "bố",
+   "base": "580607efeb40b8bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "father"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "I/me, your father"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "you, my father"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "he/him, your/my father"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "Northern",
+      "ironic"
+     ],
+     "gloss": "you, a male who I'm thinking is being stupid"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "burlap; jute fabric"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tin",
+   "base": "7f4f8b9fb675aebd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to believe; to trust; to have faith"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "news"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "niềm tin",
+     "en": "trust"
+    },
+    {
+     "sense": 1,
+     "vi": "trị bệnh bằng niềm tin",
+     "en": "faith healing"
+    },
+    {
+     "sense": 2,
+     "vi": "tin nóng",
+     "en": "breaking news"
+    },
+    {
+     "sense": 2,
+     "vi": "tin buồn",
+     "en": "sad news, especially about someone who's passed away"
+    },
+    {
+     "sense": 2,
+     "vi": "tin dữ",
+     "en": "bad news"
+    },
+    {
+     "sense": 2,
+     "vi": "tin mừng/vui",
+     "en": "good news"
+    },
+    {
+     "sense": 2,
+     "vi": "đạo Tin Lành",
+     "en": "Protestantism"
+    }
+   ]
+  },
+  {
+   "headword": "mới",
+   "base": "120172dcbefb1fc0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "new (recently made or created)"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "have just (happened); just"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "only after, only when, after that"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "Used to emphasize that something is."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Có thực mới vực được đạo.",
+     "en": "Only when people have food can they learn."
+    },
+    {
+     "sense": 4,
+     "vi": "Brasilia mới là thủ đô của Brasil.",
+     "en": "Brasilia is the capital of Brazil (not some other city)."
+    }
+   ]
+  },
+  {
+   "headword": "rằng",
+   "base": "3ef298058de5ae0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "that"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to speak"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúng tôi nghĩ rằng ...",
+     "en": "We think that ..."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi tin rằng anh ấy sẽ thực hiện đúng lời hứa.",
+     "en": "I believe that he will keep his promise."
+    }
+   ]
+  },
+  {
+   "headword": "lấy",
+   "base": "4362aac9a65b9cb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take, to seize"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive, to obtain, to accept"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wed, to marry (someone)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to charge"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull, to withdraw"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to steal"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to adjust"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "placed after verbs to indicate “to act by, to, or for oneself”"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lấy sách ra đọc",
+     "en": "to bring out one's book to read"
+    },
+    {
+     "sense": 2,
+     "vi": "Dượng cho lì xì thì lấy đi.",
+     "en": "Your uncle-in-law wants to give you lucky money, you should take it."
+    },
+    {
+     "sense": 3,
+     "vi": "lấy chồng",
+     "en": "to get a husband"
+    },
+    {
+     "sense": 3,
+     "vi": "lấy vợ",
+     "en": "to get a wife"
+    },
+    {
+     "sense": 3,
+     "vi": "Tôi chưa nghĩ đến chuyện lấy vợ.",
+     "en": "I'm not thinking about getting married yet."
+    },
+    {
+     "sense": 3,
+     "vi": "Tổng thống duy nhất chưa bao giờ lấy vợ: James Buchanan.",
+     "en": "The only president who was never married: James Buchanan."
+    }
+   ]
+  },
+  {
+   "headword": "xin lỗi",
+   "base": "f63013d0f2698434",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to apologise"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "I'm sorry (for my mistake/transgression)"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [
+      "polite"
+     ],
+     "gloss": "excuse me/pardon me (for intruding/disturbing you)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Xin lỗi, tớ không cố ý.",
+     "en": "Sorry, I didn't mean to do that."
+    },
+    {
+     "sense": 3,
+     "vi": "Xin lỗi, cho hỏi đây có phải là nhà anh Tiến không ạ?",
+     "en": "Excuse me, is this Mr. Tiến's address?"
+    }
+   ]
+  },
+  {
+   "headword": "giết",
+   "base": "56aa4ce961c35209",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kill"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giết người",
+     "en": "to kill a person"
+    },
+    {
+     "sense": 1,
+     "vi": "giết người hàng loạt",
+     "en": "to be a serial killer"
+    }
+   ]
+  },
+  {
+   "headword": "lần",
+   "base": "2e0080e6411438d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "time; instance; occurrence"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "times"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grope, to search by touch"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to track, to follow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ba lần ba là chín",
+     "en": "Three times three is nine"
+    },
+    {
+     "sense": 3,
+     "vi": "Bà lần túi, lấy ra cắc bạc, đưa cho Vạn: […]",
+     "en": "She rummaged in her bag, took out a silver hào coin, and handed it to Vạn."
+    }
+   ]
+  },
+  {
+   "headword": "sự",
+   "base": "502ebb440856ee9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prefix",
+     "tags": [
+      "collective",
+      "morpheme"
+     ],
+     "gloss": "affairs (abstract)"
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "nominalizes verbs or adjectives"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự đời",
+     "en": "life affairs"
+    },
+    {
+     "sense": 1,
+     "vi": "sự nghiệp",
+     "en": "career"
+    },
+    {
+     "sense": 2,
+     "vi": "sự sống còn",
+     "en": "survival"
+    },
+    {
+     "sense": 2,
+     "vi": "sự đau đớn",
+     "en": "pain"
+    },
+    {
+     "sense": 2,
+     "vi": "sự tương tác",
+     "en": "interaction"
+    }
+   ]
+  },
+  {
+   "headword": "theo",
+   "base": "cdde24446d866ff1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to follow"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to accompany, come with, follow (a person)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to obey"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to believe in, follow (a particular faith or religion)"
+    },
+    {
+     "position": 5,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "along"
+    },
+    {
+     "position": 6,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "according to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "Theo điều tra dân số Hoa Kỳ...",
+     "en": "According to the US Census..."
+    }
+   ]
+  }
+ ]
+}

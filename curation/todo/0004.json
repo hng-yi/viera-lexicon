@@ -1,0 +1,1471 @@
+{
+ "batch": "0004",
+ "entries": [
+  {
+   "headword": "hay",
+   "base": "f819dbd6607357db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "to know; to get to know; to learn"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "auxiliary",
+      "obsolete"
+     ],
+     "gloss": "can, could, may, might"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "able, capable"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good, as in useful, inventive, interesting or entertaining; compare tốt (good as in high-quality, skillful or ethical)"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "well"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "often, habitually"
+    },
+    {
+     "position": 7,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "or"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hồi mẹ nó ẵm về nước, bà nội nó nói mua cho cái vé khứ hồi, tới hồi ra sân bay về lại Hàn Quốc thì mới hay cái vé đi có một chiều.",
+     "en": "When his mother carried him in her arms back to Vietnam, his paternal grandmother said they had bought a return ticket for her, but she realised it was only a one-way ticket when she was at the airport, trying to return to Korea."
+    },
+    {
+     "sense": 4,
+     "vi": "ý hay",
+     "en": "a good idea"
+    },
+    {
+     "sense": 4,
+     "vi": "Phim hay quá ha !",
+     "en": "That was a great movie!"
+    },
+    {
+     "sense": 5,
+     "vi": "Ai hay vẽ rồi sẽ vẽ hay.",
+     "en": "Whoever draws often will draw well."
+    },
+    {
+     "sense": 6,
+     "vi": "Con hay nói nhiều lắm.",
+     "en": "You, child, are talkative."
+    },
+    {
+     "sense": 6,
+     "vi": "Ai hay vẽ rồi sẽ vẽ hay.",
+     "en": "Whoever draws often will draw well."
+    },
+    {
+     "sense": 7,
+     "vi": "Chọn cái này, hay chọn cái kia",
+     "en": "Choose this one, or choose that one"
+    },
+    {
+     "sense": 7,
+     "vi": "Lại thua ả Lý bán mình hay sao?",
+     "en": "Could I fall short of Lady Li, who sold herself?"
+    }
+   ]
+  },
+  {
+   "headword": "ngũ tạng",
+   "base": "99549986a45129c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the five solid principal internal organs in the trunk of the body: tâm (心, “heart”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the five solid principal internal organs in the trunk of the body: can (肝, “liver”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the five solid principal internal organs in the trunk of the body: tì (脾, “spleen”)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the five solid principal internal organs in the trunk of the body: phế (肺, “lungs”)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the five solid principal internal organs in the trunk of the body: thận (腎, “kidneys”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu nghiệm",
+   "base": "afc2648f24ec0828",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "apparent effect"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "apparently effective"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cải cách đã có hiệu nghiệm.",
+     "en": "The reform has an apparent effect."
+    },
+    {
+     "sense": 2,
+     "vi": "Thuốc đó rất hiệu nghiệm.",
+     "en": "That medicine is very effective."
+    },
+    {
+     "sense": 2,
+     "vi": "Tiến công là một cách duy nhất hiệu nghiệm để tiêu diệt quân địch.",
+     "en": "Attack is the only effective way to destroy the enemy."
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi lấy làm tự đắc rằng đã tìm ra một kế hay và rất mừng cái kế đó hiệu nghiệm, vì chị tôi coi như mất hẳn con gà rồi, không cho người đi tìm nữa.",
+     "en": "I was proud that I had found a good plan and was very glad that it is effective, because my sister considered the chicken completely lost and did not send anyone to look for it anymore."
+    }
+   ]
+  },
+  {
+   "headword": "cánh",
+   "base": "85015c6573d9a030",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wing"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "airfoil, wing"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "petal"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "point"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "side"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "clothes; clothing"
+    },
+    {
+     "position": 7,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates doors, windows, gates, kites, bows, forests and agricultural fields (of maize/corn, rice, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cánh hoa",
+     "en": "petal"
+    },
+    {
+     "sense": 4,
+     "vi": "sao vàng năm cánh",
+     "en": "a five-pointed golden star"
+    },
+    {
+     "sense": 6,
+     "vi": "Hắn diện một bộ cánh lỗi mốt hết cỡ.",
+     "en": "He wears/wore a super out-of-style set of clothes."
+    }
+   ]
+  },
+  {
+   "headword": "lán",
+   "base": "1c92786430f49cf3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of shelter: a wooden shed or hut"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of shelter: a shanty, roughly-built cottage"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "storehouse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Anh bước qua những rễ cây nhẫy sình, xuống một cái lán vuông nhỏ xíu bằng chiếc tủ đứng. Mái lán có mấy làn khói nhạt vật vờ trong lá cây.",
+     "en": "He walked past the tree roots that were glistening with mud down to a teeny little square shanty made out of upright cupboards. In the roof of the shanty there were some pale and lifeless wisps of smoke in the leaves."
+    }
+   ]
+  },
+  {
+   "headword": "lợn",
+   "base": "6f646a0161f77274",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "pig, swine"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "derogatory",
+      "vulgar"
+     ],
+     "gloss": "a person: contemptible, objectionable person."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "derogatory",
+      "figuratively"
+     ],
+     "gloss": "a person: glutton."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "figuratively",
+      "humorous"
+     ],
+     "gloss": "a person: fat person."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ơ con lợn này!",
+     "en": "Oi you bloody swine!"
+    },
+    {
+     "sense": 3,
+     "vi": "Con lợn này ham ăn vãi!",
+     "en": "This pig is gluttonous as hell!"
+    },
+    {
+     "sense": 4,
+     "vi": "Bụng con lợn này to vãi cả chưởng!",
+     "en": "This pig's belly is big as hell!"
+    }
+   ]
+  },
+  {
+   "headword": "xe",
+   "base": "45bd71c6124047a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wheeled vehicle (except for airplanes)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chariot, a piece labeled with the characters 車 /车 (xa, black) and 俥 /伡 (red)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "rook"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "uncommon"
+     ],
+     "gloss": "to transport using a wheeled vehicles"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spin small threads into a big one"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to make something big from small ones"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to bring two people together in marriage"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pipe used to smoke makhorka or opium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đậu xe",
+     "en": "to park"
+    },
+    {
+     "sense": 1,
+     "vi": "lái xe",
+     "en": "to pilot a wheeled vehicle other than planes or trains; to drive, to ride, etc."
+    },
+    {
+     "sense": 5,
+     "vi": "xe chỉ",
+     "en": "to spin into threads"
+    },
+    {
+     "sense": 5,
+     "vi": "xe tơ",
+     "en": "to spin into silk"
+    },
+    {
+     "sense": 6,
+     "vi": "xe cát",
+     "en": "to make a big pile of sand"
+    },
+    {
+     "sense": 7,
+     "vi": "kết tóc xe tơ",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "mã",
+   "base": "100ac71f734e0e89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "code (short symbol)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cipher; code (method of transforming a text in order to conceal its meaning)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "code (computer instructions)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese numerals"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yard (unit of length)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "joss paper"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lemon (defective item)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plumage on the neck or rear of a rooster"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "outward appearance, looks"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horizontal bar of a rake, to which teeth are attached"
+    },
+    {
+     "position": 11,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "object to be weighed on a scale"
+    },
+    {
+     "position": 12,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horse, a piece labeled with the characters 馬 /马 (mǎ, black) and 傌 /㐷 (red)"
+    },
+    {
+     "position": 13,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "1915: Phan Kế Bính, \"Tang ma\" [Obsequies], Việt Nam phong tục [Vietnamese customs]",
+     "en": "Some households burn joss paper at the house, while others burn it at the temple."
+    },
+    {
+     "sense": 6,
+     "vi": "đốt mã",
+     "en": "to burn joss paper"
+    },
+    {
+     "sense": 8,
+     "vi": "gà mã tía",
+     "en": "rooster with purple plumage"
+    },
+    {
+     "sense": 9,
+     "vi": "Nó thì được cái mã thôi.",
+     "en": "He's only good for his looks."
+    },
+    {
+     "sense": 9,
+     "vi": "Chiếc xe tuy xấu mã nhưng máy rất tốt.",
+     "en": "The car, while ugly on the outside, has a very good engine."
+    }
+   ]
+  },
+  {
+   "headword": "chúa",
+   "base": "4ba3851d2530aaa3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "an informal Vietnamese nobility title similar to the Chinese 王 (vương, “noble prince/duke”), formally simply vương, used for the de facto rulers of the Trịnh and Nguyễn families under the guise of aiding the puppet Lê emperors"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a \"lord\" (compare English overlord) (someone who is the \"pinnacle\" of something)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a queen"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "elegant"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "amazing"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "very; mighty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chúa Trịnh/Nguyễn / Trịnh/Nguyễn vương",
+     "en": "the Trịnh/Nguyễn lords"
+    },
+    {
+     "sense": 1,
+     "vi": "Thời Lê Trung Hưng, chúa Trịnh nắm thực quyền triều chính, biến vua tôi nhà Lê thành bù nhìn.",
+     "en": "During the Restored Lê dynasty, the Trịnh lord held real political power, turning the Lê monarchy into a puppet."
+    },
+    {
+     "sense": 2,
+     "vi": "chúa lười",
+     "en": "slacker lord"
+    },
+    {
+     "sense": 3,
+     "vi": "ong chúa",
+     "en": "a queen bee"
+    },
+    {
+     "sense": 4,
+     "vi": "ăn mặc chúa",
+     "en": "to be elegantly dressed"
+    },
+    {
+     "sense": 5,
+     "vi": "Về toán thì nó chúa lắm.",
+     "en": "He is very amazing in mathematics."
+    },
+    {
+     "sense": 6,
+     "vi": "Thằng bé chúa bướng.",
+     "en": "He's so darn stubborn."
+    }
+   ]
+  },
+  {
+   "headword": "cắn",
+   "base": "79ce65b248c61546",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bite"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "synonym of sủa (“to bark”)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Internet",
+      "dated"
+     ],
+     "gloss": "synonym of sủa (“to bark”): to curse, to comment (something) disrespectfully"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to sting, to bite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bến cảng",
+   "base": "2205ee22d168748f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "berth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "game",
+   "base": "d95cbc81ab553de3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of trò chơi điện tử (“a video game”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẹp",
+   "base": "3aae96399458f850",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "beautiful"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pleasant to look at; good-looking"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "nice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tốt gỗ hơn tốt nước sơn, xấu người đẹp nết còn hơn đẹp người.",
+     "en": "Good woodwork is better than good finish, ugliness with a good personality is better than good looks."
+    },
+    {
+     "sense": 1,
+     "vi": "Trước là đẹp ý, sau ta biết tình.",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "cái đẹp",
+     "en": "beauty"
+    },
+    {
+     "sense": 2,
+     "vi": "đẹp gái",
+     "en": "(of girls or women) beautiful"
+    },
+    {
+     "sense": 2,
+     "vi": "đẹp trai",
+     "en": "(of boys or men) handsome"
+    },
+    {
+     "sense": 2,
+     "vi": "cảnh đẹp",
+     "en": "a beautiful landscape"
+    },
+    {
+     "sense": 2,
+     "vi": "người đẹp vì lụa, lúa tốt vì phân",
+     "en": "clothes make person look good the way fertilizer helps rice grow"
+    },
+    {
+     "sense": 3,
+     "vi": "quần áo đẹp",
+     "en": "nice clothing"
+    },
+    {
+     "sense": 3,
+     "vi": "trời đẹp",
+     "en": "nice weather"
+    }
+   ]
+  },
+  {
+   "headword": "quận",
+   "base": "6846c9fd11fe17ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "district: commandery or prefecture during Chinese domination of Vietnam"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "district: district in Japan"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "district: administrative subdivision of a province of South Vietnam, whether urban or rural; district"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "district: urban district in Vietnam"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "district: arrondissement in France"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "district: county in the United States"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "US"
+     ],
+     "gloss": "district: circuit (the jurisdiction of certain judges within a state or country)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "duke"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "Quận 13, Paris",
+     "en": "13th Arrondissement of Paris"
+    },
+    {
+     "sense": 6,
+     "vi": "quận lỵ",
+     "en": "county seat"
+    },
+    {
+     "sense": 6,
+     "vi": "Quận Cam",
+     "en": "Orange County"
+    }
+   ]
+  },
+  {
+   "headword": "lục phủ",
+   "base": "17d6c874f05d1dd8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the six hollow principal internal organs in the trunk of the body: vị (胃, “stomach”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the six hollow principal internal organs in the trunk of the body: đảm (膽, “gall bladder”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the six hollow principal internal organs in the trunk of the body: tiểu tràng (小腸, “small intestine”)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the six hollow principal internal organs in the trunk of the body: đại tràng (大腸, “large intestine”)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the six hollow principal internal organs in the trunk of the body: bàng quang (膀胱, “urinary bladder”)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the six hollow principal internal organs in the trunk of the body: tam tiêu (三焦, “triple burner”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "oải",
+   "base": "30230ed6df149262",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Sino-Vietnamese reading of 矮"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tired, worn out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cook",
+   "base": "d4065a324fa532e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Internet",
+      "neologism"
+     ],
+     "gloss": "synonym of cút (“to beat it; to take a hike; to get lost”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thế này thì cook rồi",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "bi",
+   "base": "0f70d817fe4a40f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a marble (spherical ball)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ball"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "a ball (testicle)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "big concrete sewer"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a type of water tank made from concrete"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bắn bi",
+     "en": "to shoot marbles"
+    },
+    {
+     "sense": 2,
+     "vi": "bi cái",
+     "en": "a cue ball"
+    },
+    {
+     "sense": 3,
+     "vi": "Á! Dập bi tao rồi!",
+     "en": "Ow! My bawlls popped!"
+    }
+   ]
+  },
+  {
+   "headword": "go",
+   "base": "7d208fbaa0466d3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "gills"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "woof, weft"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "4° Lớp ếch nhái ( Batraciens ) Có máu lạnh; lái tim có 3 ngăn; vật ấy hoá hình, lúc bé có go để thở dưới nước rồi thay go lấy phổi để thở trong khí giời; có da trơn trụi lông; thường có 4 chân; hầu hết đẻ trứng.",
+     "en": "4° Amphibians ( Batraciens ) are ectothermic; they have three-chambered hearts and undergo metamorphosis, as when they are juvenile, they have gills to breathe underwater but lose their gills for lungs in order to breathe air; their skin is smooth and furless; they are often quadruped; most are oviparous."
+    }
+   ]
+  },
+  {
+   "headword": "ao",
+   "base": "55a18f0265ada3cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pond"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to measure roughly, to measure approximately"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng",
+   "base": "2788f2ef7e19916f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field (clearly delimited land area free of woodland, cities, and towns)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "medium (one who communicates with spirits)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "copper"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dong (currency of Vietnam, or of the historical state of South Vietnam)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "a thousand dongs"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a currency"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Meronym: ruộng (“field used to grow crops”)",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "đồng lúa",
+     "en": "a rice paddy"
+    },
+    {
+     "sense": 1,
+     "vi": "đồng cỏ",
+     "en": "a meadow"
+    },
+    {
+     "sense": 2,
+     "vi": "ông đồng",
+     "en": "male medium"
+    },
+    {
+     "sense": 2,
+     "vi": "bà đồng",
+     "en": "female medium"
+    },
+    {
+     "sense": 2,
+     "vi": "thứ nhất ngồi đồng, thứ nhì chồng quan",
+     "en": "sitting as a medium ranks first; having an official for a husband ranks second [among the best things for women]"
+    },
+    {
+     "sense": 5,
+     "vi": "hai đồng",
+     "en": "two thousand dongs"
+    },
+    {
+     "sense": 6,
+     "vi": "đồng yên Nhật",
+     "en": "the Japanese yen"
+    },
+    {
+     "sense": 6,
+     "vi": "đồng đô-la Mĩ",
+     "en": "the US dollar"
+    }
+   ]
+  },
+  {
+   "headword": "qua",
+   "base": "572a13f7927f579e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "through, across (from one side to the other)"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "by way of"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "by means of, by, over, using"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "last (most recent)"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ago (before now)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to have transpire, to take place, to come to pass"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to go over to; to spend time at"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to survive"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to escape, to elude"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to cross (to move relatively); to traverse"
+    },
+    {
+     "position": 11,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to go to the front of"
+    },
+    {
+     "position": 12,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to trump, to outweigh, to prevail over"
+    },
+    {
+     "position": 13,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to drift past; to elapse"
+    },
+    {
+     "position": 14,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "across (from one side to the other), through"
+    },
+    {
+     "position": 15,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in passing"
+    },
+    {
+     "position": 16,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "cursorily, superficially"
+    },
+    {
+     "position": 17,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely"
+    },
+    {
+     "position": 18,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "archaic"
+     ],
+     "gloss": "I; me"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ô-tô chạy qua cầu",
+     "en": "the car crosses the bridge"
+    },
+    {
+     "sense": 1,
+     "vi": "xe vượt qua đèo",
+     "en": "the car crosses the mountain pass"
+    },
+    {
+     "sense": 1,
+     "vi": "nhìn qua cửa sổ",
+     "en": "to look through the window"
+    },
+    {
+     "sense": 1,
+     "vi": "nhảy qua mương",
+     "en": "to hop across the ditch"
+    },
+    {
+     "sense": 1,
+     "vi": "lật qua trang khác",
+     "en": "to flip to another page"
+    },
+    {
+     "sense": 3,
+     "vi": "nói chuyện qua điện thoại",
+     "en": "to converse over the telephone"
+    },
+    {
+     "sense": 3,
+     "vi": "học tập qua kinh nghiệm",
+     "en": "to learn by experience"
+    },
+    {
+     "sense": 3,
+     "vi": "hiểu biết qua thực tế",
+     "en": "to understand through reality"
+    },
+    {
+     "sense": 4,
+     "vi": "Đêm qua chớp bể mưa nguồn, hỏi người quân tử có buồn hay không?",
+     "en": "literally, \"Last night, it rained thunderously; I wonder, my love, if you are blue?\""
+    },
+    {
+     "sense": 5,
+     "vi": "Xuân này hơn hẳn mấy xuân qua.",
+     "en": "This year is better than many years past."
+    },
+    {
+     "sense": 6,
+     "vi": "tai qua nạn khỏi",
+     "en": "literally, \"disaster to pass [and] ordeal to be relieved\""
+    },
+    {
+     "sense": 6,
+     "vi": "nhắc lại việc đã qua",
+     "en": "to recall events that have transpired"
+    },
+    {
+     "sense": 7,
+     "vi": "Ông ấy qua Pháp dự một hội nghị.",
+     "en": "He went over to France for a conference."
+    },
+    {
+     "sense": 8,
+     "vi": "Bà cụ khó qua được đêm nay.",
+     "en": "The old woman is unlikely to survive the night."
+    },
+    {
+     "sense": 9,
+     "vi": "Mọi việc trong cơ quan không qua được sự theo dõi của ông ta.",
+     "en": "Nothing in the agency can escape his watchful eye."
+    },
+    {
+     "sense": 10,
+     "vi": "Qua cầu dừng bước trông cầu, cầu bao nhiêu nhịp em sầu bấy nhiêu.",
+     "en": "literally, \"[As I] cross the bridge, [I] stop to look at it; my sorrows multiply with the number of its arches.\""
+    },
+    {
+     "sense": 11,
+     "vi": "Qua đình ngả nón trông đình, đình bao nhiêu ngói thương mình bấy nhiêu.",
+     "en": "literally, \"[As I] enter the [courtyard] of the đình (Vietnamese communal houses), [I] tip my nón (leaf hat) to take in the scenery; my self-pity multiplies with the number of tiles on its roof.\""
+    },
+    {
+     "sense": 12,
+     "vi": "khôn chẳng qua lẽ, khỏe chẳng qua lời",
+     "en": "literally, \"Shrewdness can't trump rightousness; brute strength can't trump wise words.\" / It is advisable to respond with temperance, rather than with cunningness or force."
+    },
+    {
+     "sense": 13,
+     "vi": "Ngày qua ngày",
+     "en": "day after day"
+    },
+    {
+     "sense": 14,
+     "vi": "nhìn qua",
+     "en": "to look past"
+    },
+    {
+     "sense": 14,
+     "vi": "nhảy qua",
+     "en": "to hop across"
+    },
+    {
+     "sense": 15,
+     "vi": "dặn qua mấy lời",
+     "en": "to give a few words of advice in passing"
+    },
+    {
+     "sense": 16,
+     "vi": "biết qua thế thôi",
+     "en": "to know a thing or two about it"
+    },
+    {
+     "sense": 16,
+     "vi": "đọc qua vài trang",
+     "en": "to skim over a few pages"
+    },
+    {
+     "sense": 17,
+     "vi": "Trải qua một cuộc bể dâu / Những điều trông thấy mà đau đớn lòng.",
+     "en": "Through the whirligig of time / There are events which wrench one’s heart"
+    },
+    {
+     "sense": 18,
+     "vi": "Hôm qua qua bảo qua qua mà qua không qua. Hôm nay qua không bảo qua qua mà qua lại qua.",
+     "en": "Yesterday ah said ah'd cuhm over but ah ain't cuhm. Today ah ain't say ah'd cuhm over but ah came."
+    },
+    {
+     "sense": 18,
+     "vi": "Qua đã nói với bậu, nhưng bậu chẳng nghe.",
+     "en": "Ah told ya but ya wouldn’t listen."
+    }
+   ]
+  },
+  {
+   "headword": "rang",
+   "base": "d6b62df3a8912b92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roast (usually rice, beans, black pepper, corn, etc.) in a pan; compare nướng (“to roast directly over fire or charcoal”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bắp rang (bơ)",
+     "en": "roast maize/corn or buttered popcorn"
+    }
+   ]
+  },
+  {
+   "headword": "thảo khấu",
+   "base": "c5eeb033d0aba23b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "robber who has his lair in faraway places like forests or mountains"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thậm chí người ta còn đặt vấn đề thẳng thừng, đó có phải làm một cuộc nhậu theo lối giang hồ thảo khấu để tranh ngôi, bá chiếm một người đàn bà không?",
+     "en": "They even wondered outright whether it had been an outlaw-mountain-and-forest-bandit type carousing competition for a woman."
+    }
+   ]
+  }
+ ]
+}

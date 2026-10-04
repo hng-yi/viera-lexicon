@@ -1,0 +1,1646 @@
+{
+ "batch": "0009",
+ "entries": [
+  {
+   "headword": "chính",
+   "base": "84496901af974dcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "exactly; precisely"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "main; major; chief"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "just; fair; righteous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nói chuyện",
+   "base": "b3422d6bf116376a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to talk, to speak"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "conversation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thời gian",
+   "base": "c3ddf0a4085f68c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "time (the inevitable passing of events from past to present then future)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a period or duration of time"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a point in time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thời gian là vô cùng tận.",
+     "en": "Time is eternal."
+    },
+    {
+     "sense": 2,
+     "vi": "thời gian làm việc",
+     "en": "working hours"
+    },
+    {
+     "sense": 2,
+     "vi": "một thời gian",
+     "en": "a while; for a while"
+    },
+    {
+     "sense": 3,
+     "vi": "Thời gian lúc này là một giờ mười lăm phút.",
+     "en": "The time now is a quarter past one."
+    }
+   ]
+  },
+  {
+   "headword": "vài",
+   "base": "a861202154852818",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "some, an indefinite quantity greater than one"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn",
+   "base": "17e658fdc0a49a9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to eat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of uống (“to drink”)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dine; to feast, to attend a feast, to celebrate, to commemorate"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to eat with (a utensil)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to smoke (tobacco); to chew (tobacco, paan)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "literally"
+     ],
+     "gloss": "to consume"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick up (a passenger, cargo)"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to endure (a punishment)"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enjoy, to benefit from, to earn, to win (money, a salary, roses, a prize)"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to capture (a piece in board games such as chess, xiangqi, etc.)"
+    },
+    {
+     "position": 11,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to empty into (a body of water)"
+    },
+    {
+     "position": 12,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be subordinated to; to belong to (an administrative area)"
+    },
+    {
+     "position": 13,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have an effect, to work"
+    },
+    {
+     "position": 14,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be equivalent to, to be worth (a quantity denominated in a smaller unit)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ăn thịt",
+     "en": "to eat meat; to be carnivorous"
+    },
+    {
+     "sense": 1,
+     "vi": "ăn bánh",
+     "en": "to eat cakes"
+    },
+    {
+     "sense": 1,
+     "vi": "ăn uống đầy bụng",
+     "en": "to eat and drink one's fill"
+    },
+    {
+     "sense": 1,
+     "vi": "ăn chay",
+     "en": "to go/be vegan"
+    },
+    {
+     "sense": 2,
+     "vi": "ăn/uống sữa",
+     "en": "to drink milk"
+    },
+    {
+     "sense": 2,
+     "vi": "ăn sinh tố",
+     "en": "to drink a smoothie"
+    },
+    {
+     "sense": 3,
+     "vi": "Có người mời ăn.",
+     "en": "Someone has invited you (us, them) to come over for a meal."
+    },
+    {
+     "sense": 3,
+     "vi": "ăn tết",
+     "en": "to feast for the new year; to celebrate the new year"
+    },
+    {
+     "sense": 3,
+     "vi": "ăn giỗ",
+     "en": "to celebrate a death anniversary"
+    },
+    {
+     "sense": 4,
+     "vi": "Người Châu Âu không quen ăn đũa.",
+     "en": "Europeans are unaccustomed to eating with chopsticks."
+    },
+    {
+     "sense": 5,
+     "vi": "Ông cụ ăn thuốc bà cụ ăn trầu.",
+     "en": "The old man smoked while his wife chewed paan."
+    },
+    {
+     "sense": 6,
+     "vi": "Xe này ăn tốn xăng.",
+     "en": "This car guzzles gas."
+    },
+    {
+     "sense": 6,
+     "vi": "Lò này ăn nhiều than.",
+     "en": "This oven consumes a lot of coal."
+    },
+    {
+     "sense": 6,
+     "vi": "Giấy ăn mực.",
+     "en": "The paper ate the ink. (The pen ran out of ink.)"
+    },
+    {
+     "sense": 6,
+     "vi": "ăn da",
+     "en": "to consume skin; caustic"
+    },
+    {
+     "sense": 7,
+     "vi": "Ô-tô ăn khách.",
+     "en": "The car picked up a passenger."
+    },
+    {
+     "sense": 7,
+     "vi": "Tàu ăn hàng.",
+     "en": "Cargo was loaded onto the ship."
+    },
+    {
+     "sense": 8,
+     "vi": "ăn đòn",
+     "en": "to be spanked"
+    },
+    {
+     "sense": 8,
+     "vi": "ăn đạn",
+     "en": "to be shot at"
+    },
+    {
+     "sense": 9,
+     "vi": "ăn thừa tự",
+     "en": "to accept an inheritance"
+    },
+    {
+     "sense": 9,
+     "vi": "ăn lương",
+     "en": "to earn a salary"
+    },
+    {
+     "sense": 9,
+     "vi": "ăn hoa hồng",
+     "en": "to enjoy roses"
+    },
+    {
+     "sense": 9,
+     "vi": "ăn giải",
+     "en": "to win a prize"
+    },
+    {
+     "sense": 11,
+     "vi": "Sông ăn ra biển.",
+     "en": "The river empties into the sea."
+    },
+    {
+     "sense": 12,
+     "vi": "Ruộng này ăn về xã tôi.",
+     "en": "These woods lie within my commune."
+    },
+    {
+     "sense": 13,
+     "vi": "Phanh này không ăn.",
+     "en": "The brakes don't work."
+    },
+    {
+     "sense": 14,
+     "vi": "Một cân ta ăn 600 gam.",
+     "en": "One traditional cân is equivalent to 600 grams."
+    },
+    {
+     "sense": 14,
+     "vi": "Hôm nay một đô la Mỹ ăn mười ba nghìn đồng Việt Nam.",
+     "en": "Today, one U.S. dollar is worth 13,000 Vietnamese dong."
+    }
+   ]
+  },
+  {
+   "headword": "giữ",
+   "base": "0c6333e1fa4cdc72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep; to hold and maintain as one's own"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to safeguard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hãy giữ lịch sự!",
+     "en": "Stay polite!"
+    },
+    {
+     "sense": 1,
+     "vi": "Giữ cái này chặt lại không thôi nó sẽ rớt ra.",
+     "en": "Keep this tight or else it will fall out."
+    },
+    {
+     "sense": 1,
+     "vi": "giữ khoảng cách an toàn",
+     "en": "to keep a safe distance"
+    }
+   ]
+  },
+  {
+   "headword": "đầu",
+   "base": "d7b9fe4fa0c5abbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "head"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an end or extremity; compare mũi (“tip”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "physical media player"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "first"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "hai đầu cầu",
+     "en": "the two ends of the bridge"
+    },
+    {
+     "sense": 3,
+     "vi": "đầu đĩa",
+     "en": "a disc player"
+    },
+    {
+     "sense": 3,
+     "vi": "đầu băng",
+     "en": "a VHS player"
+    },
+    {
+     "sense": 4,
+     "vi": "ngày đầu",
+     "en": "the first day"
+    }
+   ]
+  },
+  {
+   "headword": "bắt",
+   "base": "6558c0e52d6c4112",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seize; to catch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrest"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive; to pick up"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to force; to compel"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fit; to install"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "bắt sóng",
+     "en": "to pick up the (phone) signal"
+    }
+   ]
+  },
+  {
+   "headword": "vụ",
+   "base": "bf1db0b7efcf227e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "season"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "case, affair"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specialized department within a ministry"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to seek"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "spinning top"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vụ gặt",
+     "en": "harvest season"
+    },
+    {
+     "sense": 2,
+     "vi": "vụ tham nhũng",
+     "en": "a case of bribery"
+    },
+    {
+     "sense": 2,
+     "vi": "vụ kiện",
+     "en": "a case of suing; that is, a lawsuit"
+    },
+    {
+     "sense": 3,
+     "vi": "vụ kế hoạch",
+     "en": "planning department"
+    },
+    {
+     "sense": 3,
+     "vi": "Vụ luật pháp và điều ước quốc tế, Bộ Ngoại giao",
+     "en": "Law and International Treaties Department, Ministry of Foreign Affairs"
+    },
+    {
+     "sense": 4,
+     "vi": "vụ danh lợi",
+     "en": "to seek fame and wealth"
+    },
+    {
+     "sense": 4,
+     "vi": "vụ thành tích",
+     "en": "to seek credit for achievements"
+    },
+    {
+     "sense": 5,
+     "vi": "đánh vụ",
+     "en": "to spin a top"
+    }
+   ]
+  },
+  {
+   "headword": "bắn",
+   "base": "d194690e5881902c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fire; to shoot"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to send something (usually cash) via telephone, email, online bank account etc."
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to speak (a language) fluently without much hassle"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to puff (after smoking thuốc lào)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "slang",
+      "vulgar"
+     ],
+     "gloss": "to cum, jizz"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Anh ấy bắn tiếng Anh như gió.",
+     "en": "He speaks English without much hassle"
+    }
+   ]
+  },
+  {
+   "headword": "bé",
+   "base": "ddcf8012ed5caa85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "small; little; tiny"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "little; very young"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "small, barely audible"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "girl"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, little child"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "you, young person"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "you, young girl"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "hồi bé",
+     "en": "when I/he/she/we was/were little"
+    },
+    {
+     "sense": 4,
+     "vi": "- Con Quân là cu hay bé? - Quyên hỏi lại.",
+     "en": "\"Is Quân a boy or a girl?\" Quyên asked again."
+    }
+   ]
+  },
+  {
+   "headword": "như vậy",
+   "base": "2fc9c7e50928645d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "such, like that"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phòng",
+   "base": "f0be8ab3f19c671c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a room"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a flat-like room for rent"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a department directly under a ministry (bộ)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prevent, ward off"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phòng ngủ",
+     "en": "a bedroom"
+    },
+    {
+     "sense": 1,
+     "vi": "phòng 2, lầu 2",
+     "en": "room 2, 2nd floor"
+    },
+    {
+     "sense": 1,
+     "vi": "phòng thí nghiệm",
+     "en": "a laboratory"
+    }
+   ]
+  },
+  {
+   "headword": "có lẽ",
+   "base": "a5ca50fa9b5f81b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "maybe; perhaps; probably; possibly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có lẽ hắn chưa biết bố hắn vô tù.",
+     "en": "He probably doesn't know his father is in jail."
+    }
+   ]
+  },
+  {
+   "headword": "đủ",
+   "base": "f60e6a918ebd5156",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "sufficiently; enough"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "finished; over"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "(of a month) having 30 days"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chưa đủ lễ thì má Huệ đã khóc òa.",
+     "en": "The ceremony was not yet over when Huệ's mum burst out crying."
+    }
+   ]
+  },
+  {
+   "headword": "chờ",
+   "base": "a92204d531aef61b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wait for; to await"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter Ch/ch."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lời",
+   "base": "075a2667472a101a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "word; utterances"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "words; lyrics"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a verse"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates utterances"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "profit, interest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lời bài hát",
+     "en": "song lyrics"
+    },
+    {
+     "sense": 3,
+     "vi": "lời 1",
+     "en": "verse 1; the first verse"
+    },
+    {
+     "sense": 4,
+     "vi": "một lời hứa",
+     "en": "a promise"
+    }
+   ]
+  },
+  {
+   "headword": "nhận",
+   "base": "c191850e844e2b04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive; to get; to obtain"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recognise; to identify"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to admit (to); to acknowledge; to accept; to confess"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to agree (to)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to dip; to sink; to plunge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "nhận đầu xuống nước",
+     "en": "to drown one's head in water"
+    }
+   ]
+  },
+  {
+   "headword": "cám ơn",
+   "base": "6159620c65be0e39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to thank"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(Cháu/Con) cám ơn cô.",
+     "en": "(I'd like to) thank you."
+    },
+    {
+     "sense": 1,
+     "vi": "Cám ơn chú đi con.",
+     "en": "Go ahead and thank him."
+    },
+    {
+     "sense": 1,
+     "vi": "Cám ơn các anh đã tới đây.",
+     "en": "Thank you all for coming."
+    },
+    {
+     "sense": 1,
+     "vi": "(Con) cám ơn mẹ đã sinh thành và nuôi nấng con.",
+     "en": "Mother, thank you for bearing and rearing me."
+    },
+    {
+     "sense": 1,
+     "vi": "Cám ơn vì bức thư của em.",
+     "en": "Thank you for your letter."
+    },
+    {
+     "sense": 1,
+     "vi": "Cám ơn (rất) nhiều (nhé/nha).",
+     "en": "Many thanks. / Thank you very much. / Merci beaucoup."
+    },
+    {
+     "sense": 1,
+     "vi": "Chân thành cám ơn.",
+     "en": "I'd like to express my deep gratitude."
+    },
+    {
+     "sense": 1,
+     "vi": "Xin cám ơn mọi người.",
+     "en": "I'd like to thank everyone."
+    },
+    {
+     "sense": 1,
+     "vi": "Anh vẫn nhớ lần đầu tiên lên sân khấu tặng hoa cho em. Em cười duyên, nói “cảm ơn”. Ôi, lúc đó em không thể hiểu anh xúc động như thế nào! Anh xem tất cả các clip phỏng vấn của em trên truyền hình, xem đi xem lại, và anh thấy em luôn chỉ nói “cám ơn” – tức chữ “cám” có dấu sắc. Nhưng chắc chắn, một trăm phần trăm, lúc mình gặp nhau trên sân khấu ngày hôm đó em đã nói “cảm ơn” với anh, chữ “cảm” có dấu hỏi. […] Điều em muốn nói (nhưng không thể nói được trước đám đông) là em cảm thấy đặc biệt ấn tượng với anh, rất muốn biết thêm về anh, muốn “hỏi” anh rất nhiều chuyện.",
+     "en": "I still remember the first time I went onstage and gave you flowers. You smiled elegantly, and you said “cảm ơn”. Oh, you wouldn’t have known how touched I was then! I’d watched all of your interviews on TV, all over and over again, and I’d noticed you’d always said “cám ơn” – the “cám” with the sắc tone. But I’m one hundred percent sure that, at the moment we met onstage that day, you said “cảm ơn” to me, with the “cảm” with the hỏi tone. […] What you wanted to profess (but couldn’t in front of the whole crowd) was that you felt especially impressed by me, that you wanted to know a lot more about me, that you wanted to “hỏi” (ask) me about a lot of things."
+    }
+   ]
+  },
+  {
+   "headword": "dùng",
+   "base": "07507df7158645bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use; to employ"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "polite"
+     ],
+     "gloss": "to eat or drink; to have"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "white bamboo (Bambusa chungii)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Xin mời ông dùng trà.",
+     "en": "Please enjoy your tea."
+    }
+   ]
+  },
+  {
+   "headword": "vừa",
+   "base": "86c456cc1a407871",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fit, to suit"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to satisfy, to please"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reasonable, just right"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "moderate, average"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "just, recently, at this moment"
+    },
+    {
+     "position": 6,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "indicates multiple things that simultaneously are true or happen/are happening"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "Nhà nó vừa nhỏ vừa xấu.",
+     "en": "Her house is both tiny and ugly."
+    },
+    {
+     "sense": 6,
+     "vi": "Cả nhà vừa ăn vừa xem ti vi, chẳng có nói chuyện gì cả.",
+     "en": "The whole family watches TV while eating, without saying a word to each other."
+    },
+    {
+     "sense": 6,
+     "vi": "Đi xe buýt vừa tiết kiệm, vừa góp phần bảo vệ môi trường.",
+     "en": "Taking the bus helps you not only economize, but also contribute to preserving the environment."
+    }
+   ]
+  },
+  {
+   "headword": "làm việc",
+   "base": "a6fdb7742a13c838",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắt đầu",
+   "base": "5ca95fad83bee76a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to begin; to start"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bắt đầu từ nay",
+     "en": "beginning from now (see also bat lau dung laai)"
+    },
+    {
+     "sense": 1,
+     "vi": "Đứa trẻ bắt đầu tập nói.",
+     "en": "The child begins to learn to talk."
+    }
+   ]
+  },
+  {
+   "headword": "mang",
+   "base": "5b2a1d98dd04dd0c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wear (footwear)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "pregnant"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gill"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hood"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muntjac"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mang đi",
+     "en": "to leave and take something along"
+    },
+    {
+     "sense": 1,
+     "vi": "cà phê mang đi",
+     "en": "coffee to go; takeout/takeaway coffee"
+    },
+    {
+     "sense": 2,
+     "vi": "mang giày không tất",
+     "en": "to wear shoes without socks"
+    },
+    {
+     "sense": 2,
+     "vi": "mang giày cao gót",
+     "en": "to wear high-heels"
+    },
+    {
+     "sense": 4,
+     "vi": "mang nòng nọc",
+     "en": "tadpole gills"
+    }
+   ]
+  },
+  {
+   "headword": "chạy",
+   "base": "a6786fde1fc7fced",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to run (to move quickly)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive",
+      "transitive"
+     ],
+     "gloss": "to move quickly by driving a vehicle"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to run (to be operating or working normally)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to run (to make a machine operate)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to flee from a danger"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to urgently search or make arrangements to quickly obtain or achieve what is very needed or desired."
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to extend in space or through a range"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to run (to execute or carry out a plan or program)"
+    },
+    {
+     "position": 9,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "smoothly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sáng em dậy muộn nên phải chạy đến trường.",
+     "en": "I had to run to school because I woke up late this morning."
+    },
+    {
+     "sense": 1,
+     "vi": "Tàu chạy nhanh hơn ô tô.",
+     "en": "Trains run faster than cars."
+    },
+    {
+     "sense": 2,
+     "vi": "chạy xe máy về quê",
+     "en": "to go back to hometown by driving a motorbike"
+    },
+    {
+     "sense": 3,
+     "vi": "Máy tính này chạy mượt lắm.",
+     "en": "This computer runs real smooth."
+    },
+    {
+     "sense": 4,
+     "vi": "chạy máy phát điện",
+     "en": "to operate generator"
+    },
+    {
+     "sense": 5,
+     "vi": "chạy lụt, chạy nạn",
+     "en": "to flee from flood, to flee from a disaster"
+    },
+    {
+     "sense": 6,
+     "vi": "chạy gạo; chạy việc; chạy tiền; chạy điểm",
+     "en": "to find ways to have rice to eat; to have a job; to have money; to have good marks at school"
+    },
+    {
+     "sense": 6,
+     "vi": "chạy thầy chạy thuốc",
+     "en": "to go to places to find a good doctor or medicine"
+    },
+    {
+     "sense": 6,
+     "vi": "chạy chức chạy quyền",
+     "en": "to find ways to get a good position or high power (often by unethical means)"
+    },
+    {
+     "sense": 7,
+     "vi": "con đường chạy bên sườn núi",
+     "en": null
+    },
+    {
+     "sense": 8,
+     "vi": "chạy sự kiện",
+     "en": "to run an event"
+    },
+    {
+     "sense": 8,
+     "vi": "chạy chương trình",
+     "en": "to run a computer program/to run an event"
+    },
+    {
+     "sense": 9,
+     "vi": "bán chạy",
+     "en": "to sell like hot cakes"
+    }
+   ]
+  },
+  {
+   "headword": "thêm",
+   "base": "2c2f02ef0839d4a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "additional"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "more"
+    },
+    {
+     "position": 3,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "plus"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to increase"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ôi",
+   "base": "c0bd91a905e4394d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tainted (meat), putrid (flesh)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "oh"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "alas"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thịt ôi",
+     "en": "spoiled meat"
+    }
+   ]
+  },
+  {
+   "headword": "số",
+   "base": "2c8b73a444f125f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "number"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "size"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amount; count"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "destiny; fate; lot"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "issue (a single edition of a newspaper or other periodical publication)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gear"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "digital"
+    },
+    {
+     "position": 8,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "thug-like; with attitude"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đếm từ số một đến số mười",
+     "en": "to count from one to ten"
+    },
+    {
+     "sense": 1,
+     "vi": "số bốn",
+     "en": "the number four"
+    },
+    {
+     "sense": 1,
+     "vi": "cộng sai một số",
+     "en": "to be off by one [number]"
+    },
+    {
+     "sense": 1,
+     "vi": "số nhiều",
+     "en": "the plural; the majority"
+    },
+    {
+     "sense": 3,
+     "vi": "số tiền thu được",
+     "en": "revenue (amount of money collected)"
+    },
+    {
+     "sense": 3,
+     "vi": "số vé đã bán được",
+     "en": "ticket sales (number of tickets sold)"
+    },
+    {
+     "sense": 4,
+     "vi": "số vất vả",
+     "en": "a fate of hardship"
+    },
+    {
+     "sense": 5,
+     "vi": "số tháng 9-2016",
+     "en": "the September issue of 2016"
+    }
+   ]
+  },
+  {
+   "headword": "chiếc",
+   "base": "c6c8a17c4d0411e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "Indicates generic inanimate tangible things"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Indicates popular vehicles, such as bicycles, motorcycles, cars, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chiếc lược ngà",
+     "en": "The Ivory Comb"
+    },
+    {
+     "sense": 2,
+     "vi": "Nó có hai chiếc xe máy.",
+     "en": "He's got two motorcycles."
+    }
+   ]
+  },
+  {
+   "headword": "đứa",
+   "base": "bf811807b992f2ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates young person, child, or an inferior person"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai đứa tôi ngồi đâu đó (chỗ mà ai cũng nhìn thấy) nói chuyện chơi, có lúc, chẳng cần nói gì.",
+     "en": "The two of us were sitting somewhere (a place where everyone could see us) chatting, sometimes not needing to say anything."
+    }
+   ]
+  },
+  {
+   "headword": "bảo",
+   "base": "5cc94e75d16516b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to inform; to command by telling"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lại đây mẹ bảo.",
+     "en": "Come here, I got something to tell you. / I got something I want you to do."
+    },
+    {
+     "sense": 1,
+     "vi": "Nó bảo thứ hai nghỉ.",
+     "en": "She told me we don't need to come on Monday."
+    },
+    {
+     "sense": 1,
+     "vi": "Đã bảo rồi!",
+     "en": "Told you!"
+    },
+    {
+     "sense": 1,
+     "vi": "Bảo sao nghe vậy.",
+     "en": "I'm only doing what I'm told to do. / I'm only following orders."
+    },
+    {
+     "sense": 1,
+     "vi": "Có câm không thì bảo !",
+     "en": "Shut the hell up or else!"
+    }
+   ]
+  },
+  {
+   "headword": "nước",
+   "base": "b5740143de09824b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "liquid; fluid"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the liquid part of a broth"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "move, step"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vua hỏi: tay bẩn thì lấy nước để rửa, rứa nước bẩn lấy chi mà rửa? Ông quan thị vệ hoảng hốt, không biết trả lời thế nào. Vua liền nhấn giọng: “Nước bẩn thì lấy máu mà rửa!”.",
+     "en": "The emperor (Duy Tân) asked: “If your hands are dirty, you would wash them with water. But if the water (= country) is dirty, what would you wash it with?” The flustered court officials could not answer. The emperor then raised his voice: “If the water / country is dirty, you should wash it with blood!”"
+    },
+    {
+     "sense": 2,
+     "vi": "nước cam",
+     "en": "orange juice"
+    },
+    {
+     "sense": 2,
+     "vi": "nước chanh",
+     "en": "lime juice"
+    },
+    {
+     "sense": 2,
+     "vi": "nước dừa",
+     "en": "coconut water"
+    },
+    {
+     "sense": 2,
+     "vi": "nước mắt",
+     "en": "tear"
+    },
+    {
+     "sense": 2,
+     "vi": "nước mũi",
+     "en": "mucus"
+    },
+    {
+     "sense": 2,
+     "vi": "nước đái",
+     "en": "piss"
+    },
+    {
+     "sense": 2,
+     "vi": "nước tiểu",
+     "en": "urine"
+    },
+    {
+     "sense": 2,
+     "vi": "nước xô-đa",
+     "en": "soda water"
+    },
+    {
+     "sense": 4,
+     "vi": "nước cờ khôn ngoan",
+     "en": "a wise move"
+    }
+   ]
+  }
+ ]
+}

@@ -104,6 +104,8 @@ they are used today. Wiktionary lists meanings in editing order, not by frequenc
 - Drop a sense only when it is not a meaning: a Sino-Vietnamese reading ("Sino-Vietnamese
   reading of 矮"), a bare cross-reference with nothing to say, or a parsing accident. Rare,
   archaic, regional and offensive meanings are meanings: keep them and tag them.
+- A sense you cannot verify is not dropped either: keep Wiktionary's meaning in its words,
+  tag it `rare`, write a short plain example, and say in `notes` that it is unverified.
 
 ## Tags
 

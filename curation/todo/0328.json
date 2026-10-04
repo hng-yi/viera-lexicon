@@ -1,0 +1,1305 @@
+{
+ "batch": "0328",
+ "entries": [
+  {
+   "headword": "voi biển",
+   "base": "b597f1341a016f1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "walrus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "voi ma-mút",
+   "base": "df7772507b0185be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mammoth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "volume",
+   "base": "b30a4391cfa6a6ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "strength of sound of a device"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vặn nhỏ (cái) volume lại.",
+     "en": "Turn down the sound volume."
+    }
+   ]
+  },
+  {
+   "headword": "vonfam",
+   "base": "ec5258bd413566db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tungsten (chemical element)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vong quốc",
+   "base": "2be0485bb33aefca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to lose one's country; to perish (of a state)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vong thân",
+   "base": "12518b6554493338",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to be killed; to lose one's life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vong ân bội nghĩa",
+   "base": "eebdcf82c79408fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to forget and deny the favors of one's benefactor; to betray one's kindness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "voọc",
+   "base": "d4ab0836741ef865",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Hà-Tĩnh",
+      "Nghệ-An"
+     ],
+     "gloss": "a monkey (primate)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a langur"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vu hích",
+   "base": "61f1054818215229",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "female medium and male medium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "1971, Trần Trọng Kim, Nho Giáo (Ruism), \"volume 1, chapter I\"",
+     "en": "In China's distant past, the mediums had immense power and influence; every household ever worshipped daemons and spirits."
+    }
+   ]
+  },
+  {
+   "headword": "vu nữ",
+   "base": "eb954bcdbdb340a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Japanese shrine maiden; miko"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vua cờ",
+   "base": "7f64481fbe9f6b60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "World Chess Champion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vun",
+   "base": "b713aa5dcb2a81bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pile up; to heap up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vun trồng",
+   "base": "dfc58103d37a4672",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cultivate, to take care of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vun xới",
+   "base": "de728e330b8541d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to till soil and dig up roots; to cultivate (farmland, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to foster conditions for development"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vung tay quá trán",
+   "base": "e1c1ce9945f805bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to overdo something, especially to overspend or to squander"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quá mải mê khẳng định bản ngã mà vung tay quá trán có thể khiến con người đánh mất đi những giá trị cốt lõi của chính mình.",
+     "en": "Being so eager to assert one's identity with an overindulging manner can lead to losing their core values."
+    }
+   ]
+  },
+  {
+   "headword": "vung vinh",
+   "base": "f9e12f7ad1ac5964",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "well-off, financially comfortable, (especially) proud of being so"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] con Mỵ nghèo, toàn mặc đồ cũ của chị Hai, 18 tuổi mới vung vinh được bộ quần áo của chính mình.",
+     "en": "[…] Mỵ was poor and always wore her older sister's hand-me-downs; at 18 she finally became the proud owner of a set of clothes of her own."
+    },
+    {
+     "sense": 1,
+     "vi": "Gái 4 đời chồng sống vung vinh nhờ tiền cấp dưỡng nuôi con",
+     "en": "After four husbands, woman lives comfortably off child support"
+    }
+   ]
+  },
+  {
+   "headword": "vuốt râu hùm",
+   "base": "278004c203573b17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to do something extremely dangerous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàm",
+   "base": "fd8760cd2a83f4e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rivulet mouth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "river mouth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng chanh",
+   "base": "886cbb46ab1a31c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lime (color)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng da",
+   "base": "ee55438f0c140624",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jaundice (a morbid condition, characterized by yellowness of the eyes, skin, and urine)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng mã",
+   "base": "79dbadf44a6cad0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "joss paper; incense paper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng mơ",
+   "base": "b038b79c637e296d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "apricot (of a pale yellowish-orange colour, like that of an apricot)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng ruộm",
+   "base": "88661270e8f62f18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of striking golden color, often spread over a large surface area"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vàng tây",
+   "base": "7e9a4c4efab1d194",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an alloy of gold and a bit of copper; tumbaga"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vành khuyên",
+   "base": "15deca4139669a80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "white-eye"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vào sinh ra tử",
+   "base": "f279352f9535fad7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be involved in long, dangerous, life-or-death missions, especially military ones"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vá vỏ",
+   "base": "1143a42f4b3f4094",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repair a puncture on a tyre"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vách núi",
+   "base": "430bbe50e02b87f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cliff of a mountain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vách đá",
+   "base": "1997b11e5dc61f38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rock face: cliff; escarpment; bluff"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vái giời",
+   "base": "adc117c1784d9589",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "to perform a wai to the sky"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "kind of small crab"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Loại định cư cuối cùng là Vái giời chỉ to bằng gốc đũa, lưng khum cao, thân màu phù sa và cặp càng cũng tía đỏ.",
+     "en": "The final sedentary species is the vái giời, only as big as the root of the chopstick, with a curved and tall carapace, silt-colored body and pair of reddish pincers."
+    }
+   ]
+  },
+  {
+   "headword": "ván ngựa",
+   "base": "dd2012593cc648b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "low wooden bed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con vịt không chạy lại cái mẻ mà lạch bạch đi tới chỗ bộ ván ngựa sần sùi nó chui xuống gầm.",
+     "en": "The duck did not run back to the furnace but plodded over to the rough wooden bed and crawled underneath it."
+    }
+   ]
+  },
+  {
+   "headword": "ván trượt",
+   "base": "381a9acec496a5ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "skateboard"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ván ép",
+   "base": "3a730b2a0d83ecc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a plank of plywood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "váng sữa",
+   "base": "f00f6fd77e8ebbf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cream (butterfat/milkfat part of milk which rises to the top)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "váng vất",
+   "base": "209c736260456b58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uncomfortable and dizzy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Rượu, mệt mỏi, chán ngán và cả ủ mê, chẳng thiết gì nữa, sự váng vất cuối cùng đã khiến cô thả lỏng chân tay ra, mắt nhắm lại.",
+     "en": "Rice wine, fatigue, boredom, even infatuation, she cared no longer; the uncomfortable dizziness finally made her relax her limbs and close her eyes."
+    }
+   ]
+  },
+  {
+   "headword": "vân vân mây mây",
+   "base": "0d1d1600869dbeb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "synonym of vân vân và mây mây"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vân vân và mây mây",
+   "base": "334526796f3e0ae7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "and so on and so forth; et cetera"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vân vê",
+   "base": "6c9548ac3e9ecef7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repeatedly roll between the fingers"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi đưa tay vân vê cằm, nhìn cô ta bằng ánh mắt chờ mong.",
+     "en": "I twiddled my chin with my hand, looking at her with expectant eyes."
+    }
+   ]
+  },
+  {
+   "headword": "vâng dạ",
+   "base": "cc9985fc44569835",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to respond to another person respectfully with particles such as vâng and dạ to show one's obedience; to obey the order"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vãi cả lồn",
+   "base": "7d3479424a28df36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "holy fucking shit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "véc ni",
+   "base": "08a21d4f3a4b2d65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "varnish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gỗ đánh véc ni xong bóng loáng.",
+     "en": "The wooden item hasn't turned shiny until its varnishing."
+    }
+   ]
+  },
+  {
+   "headword": "vét-tông",
+   "base": "9bf206d5b28a4bb6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jacket"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vê đúp",
+   "base": "a86a43dfcf8d0b45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "The name of the Latin script letter W/w."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vêbe",
+   "base": "1d0f0884ffb36b4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vên vên",
+   "base": "fd108619890d9841",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Anisoptera costata"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vêu",
+   "base": "a374dabb4d88821e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unhealthily slim and thin"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "swelling (of mouth or lips)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mặt mũi (anh) vêu vao như đói cả tháng.",
+     "en": "His face looks thin as if he has starved for a whole month."
+    },
+    {
+     "sense": 2,
+     "vi": "Mày ăn nói cẩn thận, không tao tát cho vêu mồm.",
+     "en": "You shall choose your words wisely, or else I will smash you (so hard that you have) a swelling mouth"
+    }
+   ]
+  },
+  {
+   "headword": "vì chưng",
+   "base": "aad8997bd4fb21a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "because"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "for"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ví bằng",
+   "base": "277d68c04e78bc54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "if; supposing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ví tiền",
+   "base": "c91e94ed3734f468",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "purse, wallet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vía van",
+   "base": "85cacb0e7070c975",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "synonym of vía (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vích",
+   "base": "1f3b22e7e843c299",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an olive ridley sea turtle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "víu",
+   "base": "8955785bcf077a62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vò võ",
+   "base": "2802fec3b4e5b2f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solitary, lonely for extended periods of time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Về nhà đi con, tội má con vò võ có một mình.",
+     "en": "Come home, child; poor mother of yours, lonely for so long on her own."
+    }
+   ]
+  },
+  {
+   "headword": "vò vẽ",
+   "base": "1f7d0c952734d015",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(Northern Vietnam) lesser banded hornet (Vespa affinis)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vò đầu bứt tai",
+   "base": "3023b9edcc828bda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to not know how to deal with a complicated problem or affair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi hoa sen",
+   "base": "429f9650156afada",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shower (device); showerhead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi nhụy",
+   "base": "962c91cc0a9b7ca2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "style"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi rồng",
+   "base": "a072fbf2e1375bd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tornado"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a high-pressure water hose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Trong Lễ trao giải Ấn tượng VTV, Hình ảnh tàu Trung Quốc phun vòi rồng tấn công tàu Việt Nam trên vùng biển Hoàng Sa phát sóng trong Bản tin Thời sự 19h00 đã vượt qua các đề cử khác để xuất sắc giành giải Hình ảnh Thời sự ấn tượng. Đây là giải thưởng dành cho các quay phim của Ban Thời sự, Trung tâm THVN tại Đà Nẵng và Huế.",
+     "en": "During the VTV Impression Awards, the photo of a Chinese vessel blasting high-pressure water at a Vietnamese vessel in the waters near the Paracel Islands, which was aired on the 19-o'-Clock News, beat other nominations and took the Impressive News Photo award. This award was earned by the Current Events Divisions of the Danang and Hue Centers for Vietnamese Television."
+    }
+   ]
+  },
+  {
+   "headword": "vòi voi",
+   "base": "eaa058b23631feba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Heliotropium indicum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi vọi",
+   "base": "cc31b6285ded466e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very high; sky-high"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi xịt",
+   "base": "5f838e92f04f6b82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spray nozzle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vòi xịt vệ sinh",
+     "en": "bidet shower"
+    },
+    {
+     "sense": 1,
+     "vi": "Ông Quảng cho hay, mỗi bộ rớ đánh cá sau khoảng một tháng được mang về vệ sinh rong rêu bằng vòi xịt.",
+     "en": "Mr Quảng explains how, about once a month, each set of lift nets is brought in for cleaning to remove moss and algae with a spray nozzle."
+    }
+   ]
+  },
+  {
+   "headword": "vòm miệng",
+   "base": "4cbdfe6f576cf8e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "palate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòm muối",
+   "base": "670fdc7f8354e3d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "salt dome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòng ba",
+   "base": "e2d38fdfdab3c19f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the hip measurement"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "euphemistic",
+      "humorous",
+      "often"
+     ],
+     "gloss": "a butt; buttocks"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu khái niệm của “vòng 1” làm báo mạng tiếng Anh ngại thì khái niệm của “vòng 3” làm các tờ chạy mất monitor luôn. “Vòng 3” tiếng Anh dịch gần nhất là “hips”. Thợ may người Việt đo vòng 3, thợ may người Anh đo hips. Nhưng từ “hips” nghe nhẹ nhàng hơn nhiều. “Hips” chủ yếu nhắc hai bên trái và phải (thế mới là danh từ số nhiều có chữ “s” ở cuối), còn “vòng 3” là… cả một vòng.",
+     "en": "If the concept of the “first loop” makes the English-language online media queasy, then the “third loop” would make them drop their monitors and run for their lives. The “third loop” is best translated into English as “hips”. Vietnamese dressmakers measure the third loop, English-speaking ones do hips. But “hips” sounds a lot less risqué. “Hips” mainly refers to the left and right parts (hence the pluralizing “s” at the end), while the “third loop” is… an entire loop."
+    }
+   ]
+  },
+  {
+   "headword": "vòng tránh thai",
+   "base": "deaafaf6c86fcb67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an intrauterine device"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đặt vòng (tránh thai)",
+     "en": "to get an IUD inserted"
+    }
+   ]
+  },
+  {
+   "headword": "vòng vo Tam Quốc",
+   "base": "adb0d99979b27022",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "humorous"
+     ],
+     "gloss": "long-winded and roundabout"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có gì thì nói thẳng, đừng có mà vòng vo Tam Quốc.",
+     "en": "Cut the crap, just tell me what happened."
+    }
+   ]
+  },
+  {
+   "headword": "vòng đu quay",
+   "base": "a60782752d6c9272",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Ferris wheel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô chính phủ",
+   "base": "a8be6ef51ac13fd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "anarchic"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anarchy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tình trạng vô chính phủ",
+     "en": "anarchy"
+    },
+    {
+     "sense": 1,
+     "vi": "trạng thái vô chính phủ",
+     "en": "anarchy"
+    },
+    {
+     "sense": 1,
+     "vi": "Pas un essayiste des premières années du XXᵉ siècle, Chesterton, Papini, Suarès, Unamuno, qui n'ait écrit sur Ibsen, Strindberg, Schopenhauer. C’est souvent pour s’opposer à une sorte d’anarchisme latent chez les grands désespérés nordiques.",
+     "en": "There was no essayist in the early years of the 20th century — Chesterton, Papini, Suarès, Unamuno — who had not written about Ibsen, Strindberg, Schopenhauer, often to oppose the latent anarchism in the great Nordic pessimists."
+    }
+   ]
+  },
+  {
+   "headword": "vô chính phủ chủ nghĩa",
+   "base": "f5d59de634f3f085",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anarchism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô công rồi nghề",
+   "base": "240867e354c6c03e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not in employment"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be in the state of NEET"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô cùng tận",
+   "base": "cc14e2ecc973cedf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "endless, limitless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] vì sự kiện lịch sử là vô cùng tận, ở khắp mọi trường lịch sử mà cả sự kiện văn hóa cũng được sử dụng như một sự kiện lịch sử khi cần để giải thích bản chất hay quá trình lịch sử.",
+     "en": "[…] for historical events are limitless; in every school of history, even cultural events are used as historical events when needed to explain the nature or process of history."
+    }
+   ]
+  },
+  {
+   "headword": "vô căn",
+   "base": "6f966e48e0d414c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "primary; essential; idiopathic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô căn cứ",
+   "base": "dd636f1b42ff137d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "baseless; groundless; unfounded"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô cương",
+   "base": "052e1a02db482112",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "synonym of vô biên"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô danh tiểu tốt",
+   "base": "c41327e5eeb3e35d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "nobody; individually unremarkable, or not ubiquitous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một kẻ vô danh tiểu tốt như tôi thì làm gì có cửa vào cái ghế đó.",
+     "en": "As a man of nothing, I have no chance taking that position."
+    }
+   ]
+  },
+  {
+   "headword": "vô dạng",
+   "base": "06f03ab00c5f2b5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "unharmed; in good health; without a scratch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[...] từ khi người theo đức Nguyển Ánh mà phò vua giúp nước, xông pha giửa chốn mủi đạn đường tên, chẳng biết người có bình yên vô dạng, mạnh giõi thế nào, mà vắng bặc âm hao, làm cho cô mong-mõi ngày trông đêm đợi [...]",
+     "en": "… ever since he followed lord Nguyễn Ánh, serving the king and aiding the country, charging through places filled with bullets and arrows, there had been no knowing whether he had remained safe and sound; rather, it was filled with his absence of any word or sign, leaving her longing day and night …"
+    }
+   ]
+  },
+  {
+   "headword": "vô giáo dục",
+   "base": "62f7859892815330",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uneducated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô hướng",
+   "base": "adbf40b1e3a6f5e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "scalar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô hạnh",
+   "base": "4681ea8cb103d631",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "dishonorable; unvirtuous; lacking moral standards"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô hậu",
+   "base": "8c4799f229df888b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "heirless; without posterity"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

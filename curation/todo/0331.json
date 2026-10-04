@@ -1,0 +1,1288 @@
+{
+ "batch": "0331",
+ "entries": [
+  {
+   "headword": "về phía",
+   "base": "450ae156aab0ccd2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "toward, towards"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vện vàng",
+   "base": "8f17e77b6d9263b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "offensive"
+     ],
+     "gloss": "sympathizers of the Republic of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị kỉ",
+   "base": "a4d58bdf2b3d24fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "literary"
+     ],
+     "gloss": "selfish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tính/lòng vị kỉ",
+     "en": "selfishness"
+    }
+   ]
+  },
+  {
+   "headword": "vị lai",
+   "base": "adcce1815a5e0553",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "future",
+      "literary"
+     ],
+     "gloss": "future"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chủ nghĩa vị lai",
+     "en": "futurism"
+    },
+    {
+     "sense": 1,
+     "vi": "Heart Sutra, 2014, Vietnamese and English translations by Thích Nhất Hạnh",
+     "en": "All Buddhas in the past, present and future by practicing the Insight that Brings Us to the Other Shore are all capable of attaining Authentic and Perfect Enlightenment."
+    }
+   ]
+  },
+  {
+   "headword": "vị lợi",
+   "base": "8f1a81c50f5778c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solely knowing that something serves for an individual's own personal interest or benefit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị ngã",
+   "base": "1321643b4532a637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "selfish; self-centered; egoistical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị ngữ",
+   "base": "a36007aad658e194",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "predicate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị tinh",
+   "base": "3d7f329217326231",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "monosodium glutamate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị trí cấu âm",
+   "base": "c141279b4ac844a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "place of articulation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị tất",
+   "base": "3d05143f5a932f1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "not necessarily (it is not necessary that)"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "not automatically (it does not immediately follow that)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "[…] thành-thử cái xấu, cái dở của mình, thì vị tất đã bỏ đi được,[…]",
+     "en": "[…] which is the reason why the ugly and the bad in us is not automatically done away with, […]"
+    }
+   ]
+  },
+  {
+   "headword": "vịm",
+   "base": "015482b5546dc33c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Huế"
+     ],
+     "gloss": "glazed terracotta pot with lid, usually for storing food"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vịt bầu",
+   "base": "000654ebe0aeba8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one of two Vietnamese breeds of duck"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lạch bạch như vịt bầu",
+     "en": "to waggle like a bầu''' duck"
+    }
+   ]
+  },
+  {
+   "headword": "vịt giời",
+   "base": "02989fa32a480c33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "disapproving",
+      "humorous"
+     ],
+     "gloss": "a daughter, whom a family may be disappointed to have because of patriarchy (that favors boys to take care of their immediate families and extended families, and to maintain their family names), or who may possess disapproved stereotypically feminine qualities such as talkativeness, whining and nagging that's likened to a duck's or goose's quacking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhà tôi có năm con vịt giời.",
+     "en": "Oh boy, I've got five little princesses."
+    }
+   ]
+  },
+  {
+   "headword": "vịt trời",
+   "base": "a1965ee99b846267",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wigeon"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "disapproving",
+      "humorous"
+     ],
+     "gloss": "a daughter, with implied disappointment in the fact that she's a girl, or that she might have stereotypically disapproved feminine qualities such as nagging or loquacity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nhà tôi có năm con vịt trời.",
+     "en": "Oh boy, I've got five little princesses."
+    }
+   ]
+  },
+  {
+   "headword": "vịt xiêm",
+   "base": "082eb999bc3e6d14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "Muscovy duck"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vọ",
+   "base": "f971a013a74f40c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of owl"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sponge (something from someone)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vọi",
+   "base": "ec22c4f63eea58a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "towering; lofty; high"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vọng ngoại",
+   "base": "35d0e912dfd58250",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to worship what is foreign; to be xenophilic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỏ chuối",
+   "base": "082e3a514143276f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "banana peel, banana skin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỏ lãi",
+   "base": "aeac311a297ca6bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "type of motor canoe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỏ quýt dày có móng tay nhọn",
+   "base": "f26836fc15bbadbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "it doesn't matter how smart or cunning you are, there's always someone else better to take you down"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vốn từ",
+   "base": "829c1ee50356e353",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vocabulary"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vốn từ chuyên dụng",
+     "en": "specialized vocabulary"
+    }
+   ]
+  },
+  {
+   "headword": "vốt",
+   "base": "8b1b093867e21121",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to vote"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Rốt cuộc, “Ta lần” này nên “vốt” cho ai? Bẩy họa sĩ để “vốt”, nhưng mỗi người xem lại chỉ có một lá phiếu để gửi gắm.",
+     "en": "Finally, who should this “talent” “vote” for? Seven painters to “vote” for, but looking back, each has only one ballot to cast."
+    }
+   ]
+  },
+  {
+   "headword": "vồ vập",
+   "base": "0557c07abd417198",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "warm, with a warm welcome"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Từ cực kỳ lạnh lùng, ghét bỏ cô bé, Joseph chuyển sang cực kỳ vồ vập, yêu thương.",
+     "en": "From infinitely cold and hateful towards the baby girl, Joseph turned infinitely warm and loving."
+    }
+   ]
+  },
+  {
+   "headword": "vồn vã",
+   "base": "4839e5c5338926a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "cordial; hospitable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỗ yên",
+   "base": "69582c084998ef8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to pacify; to calm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vội vội vàng vàng",
+   "base": "a20ad3c7bd4f9288",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very hurried"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "với chẳng",
+   "base": "91db527a952851d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "connects two ideas, or two syllables of a word for one idea, and emphasizes that that idea or those ideas have no bearing on the current situation, and therefore that idea or those ideas are to be dismissed out of hand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con với chẳng cái, có giúp được mẹ tí gì đâu !",
+     "en": "Why the hell did I even give birth to you? You're no use to me whatsoever!"
+    },
+    {
+     "sense": 1,
+     "vi": "Quà với chẳng cáp ! Anh em mình với nhau mà !",
+     "en": "Why'd you bother buying me gifts? We're bosom buddies!"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhưng ta chẳng cần con mẹ nó gì danh môn với chẳng danh môn, chính phái với chẳng chính phái, miễn sao sử cho đúng cách.",
+     "en": "I don’t give a damn about his background or sect, just how I can make good use of him."
+    },
+    {
+     "sense": 1,
+     "vi": "Làm gì có đông với chẳng tây. Mặt trời mọc lên ở đằng đông, lặn xuống ở đằng tây, nhưng đó đơn thuần chỉ là một quan sát thiên văn. Biết rằng ta chẳng hiểu đông là gì, tây là gì thì gần với sự thật hơn. Thực tế thì không ai biết mặt trời từ đâu mà ra.",
+     "en": "There ain't no east or west. The sun rises in the east and sets in the west for sure, but that's just an astronomical observation. It's more accurate to say we don't actually know what east and west mean. The fact of the matter is nobody really knows where the sun comes from."
+    },
+    {
+     "sense": 1,
+     "vi": "“[…] Thuyền với chẳng thiếc. Tôi chẳng hiểu nổi. Anh bị làm sao vậy?”",
+     "en": "“[…] To hell with boats. I just don’t get it. What’s wrong with you?”"
+    }
+   ]
+  },
+  {
+   "headword": "với nhau",
+   "base": "ec8fc3767a005c20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "together; with each other; with one another"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vờ vĩnh",
+   "base": "20c270d23ea28d40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pretend, to feign"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vẫn những sự ôm ấp, nưng niu, hôn hít đầy những vẻ kính yêu thành thực mà một người chồng, nếu chưa hẳn là vợ còn băng tuyết, thì không thể nào vờ vĩnh yêu đương được như thế.",
+     "en": "Still the same embraces, pampering, and kisses full of sincere reverential love; no husband, unless his wife were made of ice, could ever possibly fake this kind of love."
+    }
+   ]
+  },
+  {
+   "headword": "vờ vịt",
+   "base": "5dc9c2f62f97f936",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pretend; to play dumb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỡ chợ",
+   "base": "a6178041ba3e8aae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a chaotic scene"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỡ giọng",
+   "base": "1f769bbe743bd3ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to undergo a voice crack (change in a boy's voice during puberty)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vợ bé",
+   "base": "b683fbc17dad8ce7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "co-wife; concubine; mistress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vợ lớn",
+   "base": "044a6dd59c7e6223",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the first wife of a polygamous man"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vợ vua",
+   "base": "8d0bcf996f5b635b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "queen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vụ kiện",
+   "base": "a8896c18c517c2ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "case (legal proceeding)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lawsuit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vụ kiện chống độc quyền",
+     "en": "antitrust lawsuit"
+    }
+   ]
+  },
+  {
+   "headword": "vụ mùa",
+   "base": "3078904c536519f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crop period (time period that elapsed for the instant of the sowing of the crop to the instant of its harvesting)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vụng chèo khéo chống",
+   "base": "ed50f4d004ae860b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "incompetent but good at making excuses"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vừa miệng",
+   "base": "1b00348cc1fefd35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pleasant to the taste; tasty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vừa mắt",
+   "base": "5dc9e86c0b96bfbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pleasant to the eyes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vừa sức",
+   "base": "531e65ff037533d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not too demanding; within one's abilities"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vừa ăn cướp vừa la làng",
+   "base": "d20d5b54c34ed48f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "to burglarize while crying for help"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "derogatory",
+      "figuratively",
+      "idiomatic"
+     ],
+     "gloss": "to accuse others of wrongdoing as the wrongdoer to escape guilt and responsibility by diverting attention"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vừa đánh trống vừa ăn cướp",
+   "base": "2f95899b33b4517d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "to beat the drum (as in, sound the burglar alarm) while burglarizing"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "derogatory",
+      "figuratively",
+      "idiomatic"
+     ],
+     "gloss": "to accuse others of wrongdoing as the wrongdoer to escape guilt and responsibility by diverting attention"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vực dậy",
+   "base": "48a4adc0872028e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise up; to revitalise; to recover; to get back on one's feet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "wibu",
+   "base": "f540f9facbbbb39a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "weeaboo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "word by word",
+   "base": "bdbdb34ea251ecd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "word for word, verbatim"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đoạn này nghe cứ như được dịch word by word ấy.",
+     "en": "This text sounds like it was translated word for word."
+    }
+   ]
+  },
+  {
+   "headword": "xa giá",
+   "base": "f093a56bb6bf00b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "emperor's personal carriage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] đi theo xa giá của nhà vua để ghi chép công việc và lời nói của nhà vua;[…]",
+     "en": "[…] to follow the king's carriage to record his deeds and words; […]"
+    }
+   ]
+  },
+  {
+   "headword": "xa lắc",
+   "base": "3d6c3fe0914f73a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very far"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa lắc xa lơ",
+   "base": "3d6c3fe0914f73a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "emphatic"
+     ],
+     "gloss": "very far"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa pô chê",
+   "base": "d02f3bb30d1ae0b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "sapodilla (Manilkara zapota)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa vắng",
+   "base": "b5a9dd9a9093a576",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "far away"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa xỉ phẩm",
+   "base": "fd713bd3d90ed82a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "luxury goods"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa-lông",
+   "base": "07938cbf35be558f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a couch (furniture for seating of more than one person)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a showroom (room for display of products)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a beauty salon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa-phia",
+   "base": "007f6b52b6c71fb4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sapphire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa-tanh",
+   "base": "6aabf36eb7c923ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "satin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa-van",
+   "base": "f2bf86de92dfa118",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "savanna"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xan",
+   "base": "2111a94cd119afdf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "well-ventilated"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "a room, usually well-ventilated, with specialized function, such as a room in an infirmary or clinic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh cỏ",
+   "base": "270743e6cc956737",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "dead for a long time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh da trời",
+   "base": "941b38d7ce1eeb38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "azure; sky blue; celeste (pale turquoise blue color); Maya blue (bright azure blue pigment); deep sky blue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh lá cây",
+   "base": "291bd3ca25c08372",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "green as opposed to blue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh lơ",
+   "base": "0d70e2ee5bba51af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cyan (a color between blue and green)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh mòng két",
+   "base": "6a1facd67757c6ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "teal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh ngắt",
+   "base": "bd80ccc17b82d668",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deep blue; very green"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh ngọc",
+   "base": "a30c2b48aac45b08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "turquoise, a shade halfway between blue and green"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh nước biển",
+   "base": "dfe820dba937dbac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "blue as opposed to green"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh rì",
+   "base": "e846b7843d859070",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deep green/blue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh-tuya",
+   "base": "76316101b5d9554a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "belt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh-đi-ca",
+   "base": "5b7ddce2114f5ff1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a syndicate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe Honda",
+   "base": "cb09c71ed47d93fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "motorbike"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe ba gác",
+   "base": "30a7e7e7677fd86b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Commonly refer to a type of three-wheeled motorbike wagon or cart used for deliveries in Vietnam. It can also be referred to a four-wheeled mini truck."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe ben",
+   "base": "42d068e445308b9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dump truck"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe bù ệt",
+   "base": "99faa0104dcf2627",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wheelbarrow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe ca",
+   "base": "ae3461625f07a7ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "rare"
+     ],
+     "gloss": "minibus, usually used as a coach"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe cam-nhông",
+   "base": "023e6fe994bd1968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "truck/lorry"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thì chúng tôi vừa ở dưới ấy lên đây mà lại ! Việt gian từ thằng chủ tịch mà đi cơ ông ạ. Tây vào làng, chúng nó bảo nhau vác cờ thần ra hoan hô. Thằng chánh Bệu thì khuân cả tủ chè, đỉnh đồng, vải vóc lên xe cam nhông, đưa vợ con lên vị trí với giặc ở ngoài tỉnh mà lại.",
+     "en": "We just came from there! All of 'em, includin' the committee, are traitors. When the Westerners came to our village, they all went give 'em a welcome hailin' with banners and stuff. That fat-ass mayor even had his guys stuff his cupboard, his bronze ding, and his cloth into a truck, along with his wife and kids, to go and live with those invaders from outside the province."
+    }
+   ]
+  },
+  {
+   "headword": "xe cúp",
+   "base": "4447948f241d42b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Honda Super Cub motorcycle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe cút kít",
+   "base": "dfc84e39ab70184c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wheelbarrow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe cấp cứu",
+   "base": "d2a23eea0314c1be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ambulance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe cứu thương",
+   "base": "d2a23eea0314c1be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ambulance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe dù",
+   "base": "a1f9d30e3467d781",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "disapproving"
+     ],
+     "gloss": "a xe ca (“coach”) that is often small and cramped, and that underhandly takes in passengers along its route despite its limited capacity"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

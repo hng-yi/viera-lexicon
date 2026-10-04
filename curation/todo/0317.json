@@ -1,0 +1,1316 @@
+{
+ "batch": "0317",
+ "entries": [
+  {
+   "headword": "trái tim ngón tay",
+   "base": "615d74829bb40c7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "finger heart"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trái với",
+   "base": "7facebada7e5a796",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "against; contrary to; in opposition to; as opposed to"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "opposed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hành động trái với nguyên tắc của mình",
+     "en": "to act against one's principles"
+    },
+    {
+     "sense": 1,
+     "vi": "Trái với dự đoán của chúng tôi, họ...",
+     "en": "Contrary to our predictions, they..."
+    },
+    {
+     "sense": 2,
+     "vi": "Quan điểm anh ta hoàn toàn trái với tôi.",
+     "en": "His views are diametrically opposed to mine."
+    }
+   ]
+  },
+  {
+   "headword": "trái xoan",
+   "base": "3495d9629e7abf91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "oval; egg-shaped"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tráng chí",
+   "base": "3d22e90579267b39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "great ambitions; lofty aspirations"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tráng niên",
+   "base": "3a97334019762ca5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "in the prime of life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tránh ra",
+   "base": "3ae3af364bcc045d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to get out of the way"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tránh vỏ dưa gặp vỏ dừa",
+   "base": "f9bd41fcdda0d1ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "away from the watermelon rind, into the coconut shell"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "out of the frying pan, into the fire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tránh xa",
+   "base": "54d1b54bd8c79c49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to avoid; to keep away from"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trâm bầu",
+   "base": "2bb8824eded6dd4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sakae naa, Combretum quadrangulare"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đám trâm bầu đứng im lặng, xơ rơ.",
+     "en": "The sakae naa trees stood silent and scruffy."
+    }
+   ]
+  },
+  {
+   "headword": "trân trối",
+   "base": "3351953ee9568834",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in a staring way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Joseph trân trối nhìn Luisa. Ông thực sự bất bình trước trước^([sic]) quyết định quá bất ngờ của vợ.",
+     "en": "Joseph stared at Luisa. He was not happy with his wife's sudden decision at all."
+    }
+   ]
+  },
+  {
+   "headword": "trâu buộc ghét trâu ăn",
+   "base": "dbe420c4f91573a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "The chained water buffalo hates the water buffalo that grazes."
+    },
+    {
+     "position": 2,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "those who have a hard time tend to be jealous of those who are better off"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trâu bò húc nhau, ruồi muỗi chết",
+   "base": "53b963590dd9097f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "When the strong-willed members of a group butt heads, the bystanders suffer."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trâu già gặm cỏ non",
+   "base": "e9eabf69fc9b962c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "robbing the cradle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trâu nước",
+   "base": "e0f7a52255dc1dfb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water buffalo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trây lười",
+   "base": "2623b8fcfe2c388d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lazy, idle, bone-lazy, bone-idle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trèo cao té đau",
+   "base": "daef94eaf94912e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "Southern",
+      "idiomatic"
+     ],
+     "gloss": "the bigger they are, the harder they fall"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mày đừng có trèo cao té đau, tao sẽ đá mày xuống mà không cần nhìn lại.",
+     "en": "Don't you dare climb high and fall hard, I will kick you down and not look back."
+    }
+   ]
+  },
+  {
+   "headword": "trèo cây",
+   "base": "c9b4d31dac0bb435",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nuthatch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tré",
+   "base": "7e1c614177632a9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a dish of heavily seasoned pork, specialty of Central Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trê-mô-lô",
+   "base": "69caa20bcaad4a41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tremolo (rapid repetition of the same note, or an alternation between two or more notes), especially alternate picking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trên bảo, dưới không nghe",
+   "base": "e0d52ce58c53db94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "euphemistic",
+      "idiomatic"
+     ],
+     "gloss": "to impotent, unable to achieve or sustain an erection, having impotentia coeundi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trên không",
+   "base": "f6caea426010949f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in the air"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trận Điện Biên Phủ trên không",
+     "en": "the Battle of Dien Bien Phu in the Air"
+    }
+   ]
+  },
+  {
+   "headword": "trên mạng",
+   "base": "d7672e14f82b1d07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "online"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "online"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trêu ghẹo",
+   "base": "089c632ec1b2dd72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trì tục",
+   "base": "ad825b6813d9f507",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "continuous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trì độn",
+   "base": "63e90afdca438797",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dim-witted, slow on the uptake"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "not glib, hesitant when speaking, thinking things through before speaking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi thiếu vitamin B12, phụ nữ dễ có cảm giác trì độn, chân tay rã rời, hay bị viêm lưỡi, tiêu chảy.",
+     "en": "When lacking vitamin B12, women are prone to feeling dim-witted and weak in the limbs, and they often suffer from glossitis and diarrhea."
+    }
+   ]
+  },
+  {
+   "headword": "trình bệnh",
+   "base": "d3d211821c42d644",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to present a patient; to give a case presentation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trình cắm",
+   "base": "6427d5c50eef675d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plug-in"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trình dược viên",
+   "base": "0e6cc48b53f88071",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sales representative for a pharmaceutical company"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trình đơn",
+   "base": "e5657b397a9e8fc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "menu (a list from which the user may select an operation to be performed)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí cùng lực kiệt",
+   "base": "4bb3b2cfe414a402",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "stumped and exhausted; at a loss as to what to do; at one's wits' end; at the end of one's rope"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí dục",
+   "base": "5adfbd83041503b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "intellectual education; cognitive development"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí giả",
+   "base": "199f4f2c3cbeb837",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "an intellectual; sage; wise and educated thinker"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí lự",
+   "base": "6a9f7cab113b2934",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "contemplation; deep thinking; deliberation"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "comprehension; understanding"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "contemplative; understanding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí mạng",
+   "base": "86093f5cb5a6f327",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fatal; lethal; deadly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh ta chết vì cú ngã trí mạng.",
+     "en": "He died of a fatal fall."
+    }
+   ]
+  },
+  {
+   "headword": "trí sĩ",
+   "base": "50f7c393d8670d0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "an intellectual; wise and educated thinker"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "to retire (as a mandarin)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí thuật",
+   "base": "0a2c9ec1443cccf5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clever scheme"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kẻ nhân-giả suốt cả người đầy những tình-cảm chân-thực, cho nên đã nhân thì bao giờ cũng hiếu đễ và trung thứ; kẻ bất-nhân thì đầy những trí-thuật, rất khôn-khéo, rất linh-lợi, mà tình-cảm đơn-bạc và không chân-thực, cho nên thành ra gian-ác tàn-nhẫn.",
+     "en": "A virtuous person is full of genuine feelings, therefore, being virtuous, they always follow the principles of filial piety and fraternal duty and are trustworthy and sincere; an unvirtuous person is full of schemes, is very clever and resourceful, but their feelings are shallow and insincere, and thus they become deceitful and cruel."
+    }
+   ]
+  },
+  {
+   "headword": "trí tri cách vật",
+   "base": "fd6000b676deae43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pursue knowledge and study the nature of things"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nho-giáo trọng sự chính tâm, tu thân, nhưng vẫn lấy điều trí tri, cách vật, làm cốt-yếu.",
+     "en": "Confucianism values uprightness and self-cultivation, yet still considers knowledge and study as fundamental."
+    }
+   ]
+  },
+  {
+   "headword": "trí trá",
+   "base": "744b44f4a1e3e3ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cunning; devious; cleverly deceitful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí tuệ nhân tạo",
+   "base": "af43ba857f1090bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "artificial intelligence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí tuệ xúc cảm",
+   "base": "0375e93df5c7c5c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "emotional intelligence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí tưởng tượng",
+   "base": "475de47d69710eab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "imagination"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giàu trí tưởng tượng",
+     "en": "imaginative (rich in imagination)"
+    }
+   ]
+  },
+  {
+   "headword": "trí tử",
+   "base": "92c9da767516fb22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "guaranteed to cause death; fatal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí xảo",
+   "base": "279b1fedc61119ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "ingenuity; finesse; cunning"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "ingenious; cunning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trích diễm",
+   "base": "9b855bdbdbdcbe2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to extract fine literary pieces"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trích lập",
+   "base": "a0df2dbfd1cf131e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to allocate; to set aside; to earmark"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trò chơi nhịp điệu",
+   "base": "247821585ba19778",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rhythm game"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trò chơi điện tử",
+   "base": "ed0a77b1329e3e82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a video game"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trò nhời",
+   "base": "d034fa4e81098da8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of theatrical play related to chèo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tròn quay",
+   "base": "2f49912fda377c97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very round; very plump"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tròng trành",
+   "base": "a9c81a293e7ded83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sway; to rock; to tilt back and forth"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "unstable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tróc nã",
+   "base": "b597e8fd2da6aabb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to catch, to arrest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] đời nào dám giấu diếm^([sic]) chút gì, lập tức kể lại việc tróc nã hai người Quách Dương ở thôn Ngưu Gia.",
+     "en": "[…] no way he dared to hide anything and he immediately recounted the arrest of Guō and Yáng in Niújiā hamlet."
+    }
+   ]
+  },
+  {
+   "headword": "trót dại",
+   "base": "f74825fb8277cb0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a mistake in doing something (foolish)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trôi qua",
+   "base": "f3517435f966a3a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to elapse; to pass by"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trôn ốc",
+   "base": "549646bc6ab94e21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spiral; helix"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trông lên thì chẳng bằng ai, trông xuống thì cũng chẳng ai bằng mình",
+   "base": "81c3ecbde9df5a65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "Looking up, I am no one's equal; looking down, no one is my equal either."
+    },
+    {
+     "position": 2,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "Strive for success but be considerate of others."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trông ra",
+   "base": "eb57e673642a2a04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to look outside; to look out (on); to overlook"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phòng ở trên lầu, trông ra mặt đường.",
+     "en": "The room is upstairs and overlooks the street."
+    }
+   ]
+  },
+  {
+   "headword": "trông thấy",
+   "base": "37ec5c65a01d9589",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to see; to observe; to notice; to perceive"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "visibly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "già đi trông thấy",
+     "en": "to get visibly older"
+    }
+   ]
+  },
+  {
+   "headword": "trõm",
+   "base": "880a2d41368e4318",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sunken"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mắt trõm",
+     "en": "sunken eyes"
+    }
+   ]
+  },
+  {
+   "headword": "trõm lơ",
+   "base": "aec763098ede7977",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sunken from exhaustion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ba đêm Thường thức trắng, con mắt trõm lơ, người căng như sợi dây đàn,[…]",
+     "en": "For three nights, Thường stayed awake; his eyes were sunken, his body taut like a string; […]"
+    }
+   ]
+  },
+  {
+   "headword": "trù trừ",
+   "base": "969bbb46a47c1dce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hesitate; to dither; to procrastinate; to delay (especially due to ambivalence)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùm cuối",
+   "base": "73681853941e76ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "final boss"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "informal"
+     ],
+     "gloss": "main antagonist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùm gọng",
+   "base": "fd4bd02e6e31511c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Indian privet (Volkameria inermis, Clerodendrum inerme)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùn quế",
+   "base": "f771459e418329a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Perionyx excavatus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng huyết",
+   "base": "73f6f8f05c2d9b92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be inbred"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thay con đực mỗi năm để tránh trùng huyết",
+     "en": "to swap out the breeding male each year to avoid inbreeding"
+    }
+   ]
+  },
+  {
+   "headword": "trùng lặp",
+   "base": "9771f22e02813b93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repeat or duplicate redundantly and uselessly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng nữu",
+   "base": "34a0652325e90921",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chongniu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng phùng",
+   "base": "9ae5094cf0bbbfce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to meet again after parting (for a long time); to be reunited"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng phương",
+   "base": "d7c8739812d99e3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "biquadratic (with only the 4th and 2nd powers)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng roi",
+   "base": "f799e0f8c5578f0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flagellate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng sinh",
+   "base": "7a6c244575bb03ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rebirth; to be revived"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng trùng",
+   "base": "77e28060c6259fe6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "innumerable; numberless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng trục",
+   "base": "69d79dfe8887077d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "ideophonic"
+     ],
+     "gloss": "round; plump"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lanceolaria fruhstorferi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúc mai",
+   "base": "66cc727a7396588c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "an intimate bond"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúc phu nhân",
+   "base": "d08f04506769ee66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo wife"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúc đào",
+   "base": "46c950996edadaa9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the oleander, Nerium oleander, a poisonous shrub often grown as an ornamental plant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúm",
+   "base": "5c1724b56a4f3115",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weel for catching Asian swamp eels"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúng gió",
+   "base": "9222f965bb482f5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a fever after being exposed to gió (sense 2)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúng số",
+   "base": "e0ff790de465acb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to win a lottery, raffle, sweepstakes, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trúng số độc đắc",
+     "en": "to win the first prize (in a raffle/lottery); (fig.) to earn big money, to hit the jackpot"
+    }
+   ]
+  },
+  {
+   "headword": "trúng thương",
+   "base": "5634439c91d3702c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slander; to malign; to humiliate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúng tủ",
+   "base": "1505133b3cac042a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be fortunate and be tested on the only thing(s) one has studied"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to be right on by saying things that someone else had tried to keep to themselves and did not want others to know"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

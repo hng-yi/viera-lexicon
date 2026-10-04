@@ -1,0 +1,1247 @@
+{
+ "batch": "0336",
+ "entries": [
+  {
+   "headword": "án lệ",
+   "base": "db0f21481d4adac3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "legal precedent (a previous court decision that serves as an authority for deciding similar cases)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hội đồng Thẩm phán Tòa án nhân dân tối cao đã thông qua nhiều án lệ mới.",
+     "en": "The Council of Justices of the Supreme People's Court has approved many new precedents."
+    },
+    {
+     "sense": 1,
+     "vi": "Việc áp dụng án lệ giúp đảm bảo tính thống nhất trong xét xử.",
+     "en": "The application of precedents helps ensure consistency in adjudication."
+    }
+   ]
+  },
+  {
+   "headword": "án oan",
+   "base": "8313ccae29fb9eb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a miscarriage of justice; a wrongful conviction; an unjust sentence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vụ án oan kéo dài mười năm cuối cùng cũng được minh oan.",
+     "en": "The ten-year-long miscarriage of justice was finally exonerated."
+    },
+    {
+     "sense": 1,
+     "vi": "Nạn nhân của các vụ án oan có quyền yêu cầu bồi thường.",
+     "en": "Victims of wrongful convictions have the right to claim compensation."
+    }
+   ]
+  },
+  {
+   "headword": "án phúc thẩm",
+   "base": "7b335237ec4b9959",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an appellate verdict or sentence (a legal decision made by an appellate court during a second-instance trial)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bản án phúc thẩm có hiệu lực pháp luật ngay kể từ ngày tuyên án.",
+     "en": "The appellate verdict takes legal effect immediately from the date of pronouncement."
+    },
+    {
+     "sense": 1,
+     "vi": "Hội đồng xét xử công bố bản án phúc thẩm sau ba ngày nghị án.",
+     "en": "The trial panel announced the appellate sentence after three days of deliberation."
+    }
+   ]
+  },
+  {
+   "headword": "án quyết",
+   "base": "9b1e02661fc1970f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "judgement of the court"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "án sát",
+   "base": "00de22525e748218",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a government official in charge of judicial matters in a province during the feudal era"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "án thư",
+   "base": "8280c82dbd1b62d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a high and narrow table, used in the past to arrange books, writing materials, and stationery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "án tù",
+   "base": "62b42c6773235c93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prison sentence; imprisonment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "án từ",
+   "base": "5bbf0bbd4be7cbe1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "documents and files related to a case"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "án tử hình",
+   "base": "b0f029069605bf89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the death penalty; capital punishment (the legally authorized killing of someone as punishment for a crime)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bị cáo bị tuyên án tử hình về tội mua bán trái phép chất ma túy.",
+     "en": "The defendant was sentenced to the death penalty for illegal drug trafficking."
+    },
+    {
+     "sense": 1,
+     "vi": "Việt Nam hiện áp dụng hình thức tiêm thuốc độc để thi hành án tử hình.",
+     "en": "Vietnam currently applies lethal injection to carry out death sentences."
+    }
+   ]
+  },
+  {
+   "headword": "án điểm",
+   "base": "905604d31fb7e17f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a key case; a focal case (a criminal case selected by authorities for prioritized investigation, prosecution, and trial to serve as a public deterrent)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vụ án này được xác định là một án điểm để răn đe tội phạm.",
+     "en": "This case has been designated as a key case to deter crime."
+    },
+    {
+     "sense": 1,
+     "vi": "Đẩy nhanh tiến độ giải quyết các vụ án điểm về tham nhũng.",
+     "en": "Accelerating the progress of resolving key corruption cases."
+    }
+   ]
+  },
+  {
+   "headword": "áng chừng",
+   "base": "25109791fa452df0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to estimate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh kim",
+   "base": "0b3b67a6e21ff967",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shininess as of a metal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh mắt",
+   "base": "92207febe367fc31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gaze; a look"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh nhìn",
+   "base": "870395ae8c28f875",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "gaze, glance, look"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh nắng",
+   "base": "a4d0fc6949ef991e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sunlight; sunshine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh sao",
+   "base": "c719c5172f4fcfbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "starlight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh đèn",
+   "base": "fe276634231bc689",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "light from a bulb or lamp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo Nhật Bình",
+   "base": "fb36c8782ea7b62b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a formal dress traditionally worn in Vietnam and previously worn by imperial dynasty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo ba lỗ",
+   "base": "6dc3b11abc346f35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "A-shirt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo bà ba",
+   "base": "44676bca044cf386",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an ao ba ba, a traditional southern Vietnamese garment consisting of a long-sleeved, button-down silk shirt split at the waist with a scooped neck, paired with silk pants."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo bù long",
+   "base": "a32e2fd38532a8ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parallel‑front overlapping robe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo chíp",
+   "base": "7f928eaf367238db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brassiere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo dầu",
+   "base": "a7cdc7bda4937b4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Huế"
+     ],
+     "gloss": "a waterproof coat or cloak that is usually worn in rain or other liquid precipitations such as a raincoat; rainsuit and rainjacket"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo gấm",
+   "base": "4f7ebcbed22bfc2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "áo gấm (traditional Vietnamese brocade tunic for men)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo may ô",
+   "base": "6dc3b11abc346f35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "A-shirt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo ngủ",
+   "base": "4c14043611501807",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sleepwear (clothes worn before going to sleep, such as a nightgown or a bathrobe)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo nậu",
+   "base": "5dd00e1393288b34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trimmed ceremonial garment worn in processions"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo sát nách",
+   "base": "ed38b58a0e948f57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sleeveless shirt; a sleeveless dress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo tràng vạt",
+   "base": "a732272e53d5da31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cross-collar robe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo trấn thủ",
+   "base": "8615b8a14d52f52e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of winter clothing employed by the Vietminh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo tơi",
+   "base": "1f9270ccdef30ded",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "a kind of straw coat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo tấc",
+   "base": "b47399f079de7921",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "five-piece robe with loose sleeves; a variant of the áo ngũ thân"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cô mặc một chiếc áo tấc vạt dài, không để lộ tay chân.",
+     "en": "She wore an áo tấc with long flaps covering her limbs."
+    }
+   ]
+  },
+  {
+   "headword": "áo tắm hai mảnh",
+   "base": "8687ed2c8f10a02f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bikini"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo tứ thân",
+   "base": "dea1e0b1dd723022",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ao tu than; a traditional Vietnamese dress commonly worn in the Northern part of Vietnam, comprised of four distinct garments: a flowing outer tunic, a long skirt, an undergarment bodice, and a silk sash"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo vải",
+   "base": "d302cca49790d367",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of common descent, without illustrious forebears, especially not descended from highly ranked people in the previous dynasty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "anh hùng áo vải",
+     "en": "hero of common descent"
+    }
+   ]
+  },
+  {
+   "headword": "áp kế",
+   "base": "09a67c79c8dc3dda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barometer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áp phe",
+   "base": "36859c5653893571",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a business deal"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trade for commission"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áp-xe",
+   "base": "e2cfcde30bbb30a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "abscess"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "át-lát",
+   "base": "8167d4d02a7fe910",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an atlas"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm ba",
+   "base": "dd4f11d679daa585",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "sound wave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm chủ",
+   "base": "d097e76f91d33584",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a tonic; keynote"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm cực",
+   "base": "71d7848b7ff3635a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cathode"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm cực dương hồi",
+   "base": "f66851e833200011",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "At the end of yin, yang returns."
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively",
+      "idiomatic"
+     ],
+     "gloss": "All things are difficult before they become easy."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm giai",
+   "base": "99c6e9170fbbdbc4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "musical scale"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm hạch",
+   "base": "089020bf9f170939",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clitoris"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm nhạc học",
+   "base": "4af8b0fbd83f1451",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "musicology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm phụt",
+   "base": "8651fa5d40b80097",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ejective"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm quặt lưỡi",
+   "base": "6f4ef150370f5a04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "retroflex"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm thịnh dương suy",
+   "base": "6baaf0506054f52c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "figuratively",
+      "idiomatic",
+      "informal"
+     ],
+     "gloss": "having more females than males"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lớp này âm thịnh dương suy.",
+     "en": "There are more girls than boys in this class."
+    }
+   ]
+  },
+  {
+   "headword": "âm tắc",
+   "base": "1d33ef89d574438a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plosive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm tố",
+   "base": "71c3bf5d6ce44fac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm vị",
+   "base": "a16ee11cdcc56d7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phoneme"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm vị học",
+   "base": "0ec1165159235024",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phonology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm đọc",
+   "base": "40090ab92256c3c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phonetic reading"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm ấm",
+   "base": "f0cf5288b42c36fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "warmish; somewhat warm; tepid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ân nghĩa",
+   "base": "caeb1945b14a6509",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "feeling of gratitude"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "grace, favor, kindness"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mang nặng ân nghĩa trong lòng",
+     "en": "to entertain a feeling of gratitude deep in one's heart"
+    },
+    {
+     "sense": 1,
+     "vi": "Văn hóa trong tình yêu biểu hiện ở lòng thủy chung, ân nghĩa, sự son sắt hẹn thề; trong chiến tranh chia cắt, người vợ vẫn đợi ngày thống nhất.",
+     "en": "Culture within love manifests itself in faithfulness, gratitude and obligation, steely unbreakable vows; even during war-caused separation, the wife still waited for the day of unification."
+    },
+    {
+     "sense": 2,
+     "vi": "Biết bao nhiêu là ân nghĩa! Từ có yêu Hộ đến đâu, có chịu khó đến đâu, có làm nô lệ cho Hộ suốt đời Từ nữa, thì cũng chưa đủ để đền ơn.",
+     "en": "So many favors! However much Từ loves Hộ, however many hardships she'll endure, even to the point of being enthralled to Hộ for the rest of Từ's life, those shan't be enough to return those favors."
+    },
+    {
+     "sense": 2,
+     "vi": "Là con người thì phải trọn đạo hiếu, phải nhớ ân nghĩa và đền trả những ân nghĩa ấy. Trong tất cả các ân nghĩa, có thể nói lớn lao nhất là ân nghĩa cha mẹ .",
+     "en": "As human beings, we must fulfill our duty to be filial, to remember favors and return those favors. Of all favors, we may say that the greatest are our fathers' and mothers' favors."
+    }
+   ]
+  },
+  {
+   "headword": "âu là",
+   "base": "e7d141211e76fdad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "or"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "if"
+    },
+    {
+     "position": 3,
+     "pos": "conj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "perhaps"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âu vàng",
+   "base": "abffb82d881d545e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "nation; border; the land of a country which is intact like a small pot of gold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ây da",
+   "base": "c18eb125d9dceb26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "aiya, ouch, ugh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "è cổ",
+   "base": "0c15cbd65fced619",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be forced to do something excruciatingly difficult"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Vẫn còn hơn để nó nằm chết giẫm thế kia rồi hàng ngày è cổ chịu tiền lưu không bến đỗ.",
+     "en": "\"Still better than leaving it withering away like that and having to suffer paying storage fees for nothing every single day."
+    }
+   ]
+  },
+  {
+   "headword": "é",
+   "base": "46ce32c22afeded4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lemon basil"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bé như hột é",
+     "en": "very small"
+    }
+   ]
+  },
+  {
+   "headword": "éc-pét",
+   "base": "10919951c89ad1a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "herpes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ép phê",
+   "base": "d9c822eb0cc73cd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "efficacious, effectual, potent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ép xung",
+   "base": "67e1cdf90afe50d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to overclock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ét-sì",
+   "base": "23bed3ae9e9efcb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter S/s."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ét-xăng",
+   "base": "f1da132a36b31b99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "gasoline, petrol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê a",
+   "base": "164a2974bf7d894d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to read aloud without much understanding of the content"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê hề",
+   "base": "b135f83da6ca2b00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "in great abundance to the point that one feels unable to use all of said abundant thing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê-ke",
+   "base": "4fdc9bbc30993471",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a set square; a triangle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê-kíp",
+   "base": "b9711c03ec93755f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crew"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê-líp-xô-ít",
+   "base": "f47dfbeb4e3432a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ellipsoid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "êtanol",
+   "base": "4916ba5c85f061ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ethanol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ì oạp",
+   "base": "5fecd74f9ca37eb0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "ideophonic"
+     ],
+     "gloss": "imitative of the sound of waves breaking on a hard object"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ì à ì ạch",
+   "base": "31b112edfcb09c97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of ì ạch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ích-xì",
+   "base": "07421a56511639cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter X/x."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ít khi",
+   "base": "b5b9a9de910581ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "seldom, rarely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi có một trái tim và trong đời sống hằng ngày tôi ít khi để ý tới nó.",
+     "en": "I have a heart and in everyday life I rarely pay attention to it."
+    }
+   ]
+  },
+  {
+   "headword": "ít nói",
+   "base": "e5080cd7885f2238",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uncommunicative; taciturn; silent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ò ó o",
+   "base": "ac767c01747fd355",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "cock-a-doodle-doo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ó cá",
+   "base": "3dc682c25fca8671",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "osprey (Pandion haliaetus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "óc chó",
+   "base": "da3c50ff54a5e6e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "walnut"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "offensive"
+     ],
+     "gloss": "stupid, silly, oafish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mày là thằng óc chó!",
+     "en": "You oaf!"
+    }
+   ]
+  }
+ ]
+}

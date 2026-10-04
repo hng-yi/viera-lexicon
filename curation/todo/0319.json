@@ -1,0 +1,1379 @@
+{
+ "batch": "0319",
+ "entries": [
+  {
+   "headword": "trận đánh",
+   "base": "01ad71d2b189e656",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "battle; fight; combat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trận đấu",
+   "base": "1917ec76643cdc83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a match; competition"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a battle; fight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trận đấu quốc tế",
+     "en": "International Match"
+    },
+    {
+     "sense": 1,
+     "vi": "Trận đấu giao hữu",
+     "en": "Friendly Match; Exhibition Match"
+    }
+   ]
+  },
+  {
+   "headword": "trận địa pháo",
+   "base": "4941b70b43df33a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "artillery battery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trập trùng",
+   "base": "43a9ec37b531dee4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wavy; rolling; rippling; billowing (especially of landscape)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "unstable; unsteady; precarious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trật lất",
+   "base": "56cde015d7ba6d59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "completely miss the mark"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "complete wrong"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bắn trật lất",
+     "en": "to have a missshot"
+    }
+   ]
+  },
+  {
+   "headword": "trắc diện",
+   "base": "3a01ddb9cb7a15a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "lateral side; side face"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trắm",
+   "base": "668c99e4867b0cb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pike (any carnivorous freshwater fish of the genus Esox)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "worm (condensing tube of a still)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trắng bốp",
+   "base": "e0528a7bcec584f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "crisp white, spotless white, pristine white"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chiếc áo trắng bốp",
+     "en": "a spotless white shirt"
+    }
+   ]
+  },
+  {
+   "headword": "trắng hếu",
+   "base": "299dad188837d56d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "chalky white"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trắng lốp",
+   "base": "7dbc5d1f05d57447",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bright white; gleaming white; dazzling white"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tường quét vôi trắng lốp.",
+     "en": "The wall was whitewashed a glaring bright white."
+    }
+   ]
+  },
+  {
+   "headword": "trắng muốt",
+   "base": "f98616eb9fb5a496",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "white and smooth; pale and fine; silky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trắng mịn",
+   "base": "92388cc25338e686",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smooth; soft; silky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trắng xoá",
+   "base": "66f4fdfac40e47eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uniform white"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sáng hôm sau tuyết rơi càng lớn, bông bạc đầy trời, ngọc rắng khắp đất bốn bề mênh mông trắng xóa.",
+     "en": "The next morning the snow was falling ever thicker, white flakes filled the sky, the earth seemed covered in fine jade, everywhere a boundless uniform white."
+    }
+   ]
+  },
+  {
+   "headword": "trắng xóa",
+   "base": "41d8ab7e75f9e50e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of trắng xoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trằm",
+   "base": "e7dd16e73596f67a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "dialectal"
+     ],
+     "gloss": "earring"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pond, lake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trẻ sơ sinh",
+   "base": "d5ae7da05246b146",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a newborn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trệ",
+   "base": "30b349c37ff1d589",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to lag, encumber, stall"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trỉa",
+   "base": "b34505d387b3274b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "to sow (seeds)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trị thuỷ",
+   "base": "77298ddb9a8cf4dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to control water resources for irrigation, flood prevention, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] thì lý-trí tức là cái trí xuyên-tạc của người, chứ không phải là cái trí công-nhiên như cái trí của vua Vũ trị-thủy.",
+     "en": "[…] with intellect I mean the twisting mind of man, not the public-oriented mind like that of King Yǔ who did flood control."
+    },
+    {
+     "sense": 1,
+     "vi": "Câu thơ ấy nhắc đến một dòng sông chảy qua thị trấn huyện lỵ Đại Lộc ngày nay, gắn liền với công cuộc trị thủy ở Quảng Nam vào cuối thế kỷ 19.",
+     "en": "The verse mentions a river flowing through the present-day district capital of Đại Lộc, associated with water resource control in Quảng Nam in the late 19th century."
+    }
+   ]
+  },
+  {
+   "headword": "trị thủy",
+   "base": "ba12814c93868d78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of trị thuỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọc lốc",
+   "base": "8a2131f309a78fde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "completely bald"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cái đầu trắng hếu trọc lốc",
+     "en": "an unpleasingly white and completely bald head"
+    }
+   ]
+  },
+  {
+   "headword": "trọc phú",
+   "base": "9d63726fcf026eea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "often"
+     ],
+     "gloss": "a rich person, especially one whose wealth comes from means seen as despicable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng bệnh",
+   "base": "1bb9762b5a1f5ba4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a serious illness; severe disease; critical ailment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng nam khinh nữ",
+   "base": "2737679fddb74bb4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to favor males over females, especially when deciding to have children; to be sexist against females"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trốc",
+   "base": "80fddb5fb58035fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "head"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be lifted up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhà trốc mái",
+     "en": "a house whose roof was destroyed"
+    },
+    {
+     "sense": 2,
+     "vi": "cây trốc rễ",
+     "en": "uprooted trees"
+    }
+   ]
+  },
+  {
+   "headword": "trốc gối",
+   "base": "bedb5d561690676f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "knee (joint in the middle of the leg and area around it)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trối kệ",
+   "base": "54e97117db4423c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "colloquial"
+     ],
+     "gloss": "to leave alone, ignore, let be"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trối thây",
+   "base": "0cb4ea2e34c490e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to hell with it; too bad (for); who cares"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trốn tìm",
+   "base": "930436411c754260",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hide and seek"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trống chầu",
+   "base": "364beae355d1a2b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of drum that is double-sided and cylindrical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trống cơm",
+   "base": "ac05dc24a8b84a06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of traditional barrel-shaped Vietnamese drum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trống prôvăng",
+   "base": "0bca00282a482f60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tambourine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trống trơ",
+   "base": "a41944e7fb82f329",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "completely and utterly empty, devoid of anything one would normally expect to be inside"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ông Sáu cười, hàm răng trống trơ, móm mém, \"Qua chờ chú em về\".",
+     "en": "Mr Sáu smiled, mouth sunken and toothless: \"I was waiting for you to come back.\""
+    }
+   ]
+  },
+  {
+   "headword": "trống định âm",
+   "base": "038e19b28ca4fa92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "timpani"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trống đồng",
+   "base": "2c7dff8a3a7a3a44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bronze drum, especially the Heger drum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trốt",
+   "base": "29f5ff25fdd1e774",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "tornado, twister"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trồng cây chuối",
+   "base": "926a9af6826569b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plant a banana plant"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to do a handstand"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trộm nghĩ",
+   "base": "daf4ba22f2c22433",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "in my humble opinion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trộm vía",
+   "base": "2252c9bf6432ba9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "Central",
+      "North",
+      "Northern"
+     ],
+     "gloss": "used before complimenting an infant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trộm vía, cháu bé bụ bẫm quá!",
+     "en": "Oh my! What a chubby baby you've got there!"
+    }
+   ]
+  },
+  {
+   "headword": "trớp",
+   "base": "e8467977b925f339",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "empty; shriveled"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trớt quớt",
+   "base": "b8e4067d78552ea8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "futile, anticlimactic, having turned out to be useless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trời che đất chở",
+   "base": "f16e9faa74f9e3d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "all-encompassing; totally inclusive; affecting all things"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "providing and caring for all things"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trời tru đất diệt",
+   "base": "2bda6b67f6828dfa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "the person in question shall be cursed/damned; the person in question shall suffer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trời đánh",
+   "base": "5179faaeec86dac2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "the Heavenly Lord strikes"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loathsome; nasty; awful; goddamn; lousy; pesky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trời đánh tránh bữa ăn",
+     "en": "don't make a fuss at mealtime"
+    },
+    {
+     "sense": 2,
+     "vi": "Cái thằng trời đánh này !",
+     "en": "You god-damned (literally, “heaven-stricken”) punk! (to a male addressee)"
+    },
+    {
+     "sense": 2,
+     "vi": "Cái con trời đánh này !",
+     "en": "You god-damned (literally, “heaven-stricken”) wench! (to a female addressee)"
+    }
+   ]
+  },
+  {
+   "headword": "trời đánh thánh vật",
+   "base": "d886cdf92e56c4bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "the Heavenly Lord strikes, the sages wrestle"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of trời đánh (“nasty; pesky; awful”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trời đánh tránh bữa ăn",
+   "base": "95552a8a410538aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "even the Heavenly Lord knows better not to strike at mealtime"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "don't make a fuss a mealtime; don't argue or fight while we're eating"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trời ạ",
+   "base": "6758ddc92f71adea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "for heaven's sake; for God's sake; for Christ's sake; for Pete's sake; for goodness' sake"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trời ạ! Đã bảo là đừng có động vào đồ của người ta mà không chịu nghe !",
+     "en": "Oh for heaven's sake! I told you not to touch my stuff and you didn't listen!"
+    }
+   ]
+  },
+  {
+   "headword": "trở cờ",
+   "base": "0e73a1b28ad17323",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to change allegiances; to turncoat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trợ chiến",
+   "base": "d9ca759078b1fb20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reinforce (during a fight)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dương Thiết Tâm cầm thương sắt định ra cửa trợ chiến, Quách Khiếu Thiên vội kéo lại, hạ giọng nói:[…]",
+     "en": "Yáng Tiěxīn grabbed his iron spear to go out and help him fight, Guō Xiàotiān quickly pulled him back and quietly said, […]"
+    }
+   ]
+  },
+  {
+   "headword": "trợ giá",
+   "base": "b3623ee9f7a77623",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to provide price supports, especially to subsidize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trợ từ",
+   "base": "1956c436c5351a99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a particle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of lượng từ (“classifier; counter”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trợ động từ",
+   "base": "56dea8d278299a3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an auxiliary verb; a helping verb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phần lớn động từ tiếng Pháp đi kèm trợ động từ avoir.",
+     "en": "Most French verbs go with the auxiliary avoir."
+    }
+   ]
+  },
+  {
+   "headword": "trợn trạo",
+   "base": "e425909d1e03371d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give a stern and angry look"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "arrogant, considering others to be very much beneath oneself"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hiện ca Tình anh bán chiếu mà nước mắt ròng ròng. Hiện lấy mu bàn tay quệt nước mắt, trợn trạo biểu:\" Rượu xứ này cay dễ sợ\".",
+     "en": "Hiện sung The Mat-Seller's Love, tears pouring down. He wiped away the tears with the back of his hand and said arrogantly, \"The wine around here is damn harsh.\""
+    }
+   ]
+  },
+  {
+   "headword": "trụ sinh",
+   "base": "2c3d12f2b257c03c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "antibiotic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trụ thạch",
+   "base": "93f50e240500d3d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "headquarters"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leader"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Các khanh là trụ thạch của quốc gia, nên vì nước mà đồng lòng gắng sức để trừ ngoại loạn, bất tất phải đem lòng nghi ngờ.",
+     "en": "If you really are the leaders of our nation, it should be for the sake of the nation that an attempt to get rid of foreign invaders with solid agreement be made, no need to spark any hair of doubt."
+    }
+   ]
+  },
+  {
+   "headword": "trụ vững",
+   "base": "7f470175d591f3e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perseverant, enduring despite hardship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trục cao",
+   "base": "4c532ded9dd40cb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the z-axis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trục hoành",
+   "base": "909e22a28f5730b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the x-axis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trục số",
+   "base": "6a01280cd555eab7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a number line"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trục tung",
+   "base": "7f01a07cea59d382",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the y-axis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trụng",
+   "base": "2b5d99780c6d66fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to dip in boiling water; to scald"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng chấy",
+   "base": "5f500598b592510b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng cá",
+   "base": "5ee653cc3e0a5dcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fish egg(s); roe"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Muntingia calabura"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng dái",
+   "base": "b8e0d77af521c875",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "vulgar"
+     ],
+     "gloss": "a ball (testicle)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng dái đánh lô tô",
+   "base": "983bdd147072949d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "slang",
+      "vulgar"
+     ],
+     "gloss": "to experience a sudden strong emotional reaction (such as fear, anxiety, nervousness, or shock)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng gà",
+   "base": "3b46fd0efdc79d12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lucmo (Pouteria lucuma)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng khôn hơn vịt",
+   "base": "4a991e08482baac6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "the egg is smarter than the duck"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "when a child thinks they're smarter than the adults around them: to teach grandmother to suck eggs"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mày có cái tật trứng khôn hơn vịt.",
+     "en": "You're one smart aleck, you know that?"
+    }
+   ]
+  },
+  {
+   "headword": "trứng ngỗng",
+   "base": "f09a005ff49cdb49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "goose egg"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a score of zero"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Lại xơi trứng ngỗng nữa rồi!",
+     "en": "(I) got zero grade again!"
+    }
+   ]
+  },
+  {
+   "headword": "trứng nước",
+   "base": "5e5816e88baaadea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water flea"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "incipient; at an early stage; emergent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng rán",
+   "base": "c6ccc52d5a1a9104",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fried egg"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an omelette"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng rận",
+   "base": "5f500598b592510b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng vịt lộn",
+   "base": "e081a5a2e9e2b584",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "egg containing a developing duck embryo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trứng ốp la",
+   "base": "1d1d2acb8a987c9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fried egg"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trừ bị",
+   "base": "50c37e42dbcaa34b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reserve, to keep for later"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quân trừ bị",
+     "en": "reserve troops"
+    },
+    {
+     "sense": 1,
+     "vi": "lính trừ bị",
+     "en": "reservist"
+    }
+   ]
+  },
+  {
+   "headword": "trừu tượng hoá",
+   "base": "6ebb06ced4f17d79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abstract"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trừu tượng hóa",
+   "base": "47109c2c7af17f46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of trừu tượng hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trực chuẩn",
+   "base": "8efd683f8458ec34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "orthonormal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cơ sở trực chuẩn",
+     "en": "orthonormal basis"
+    }
+   ]
+  },
+  {
+   "headword": "trực giao cảm",
+   "base": "72ebf5e666784641",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "orthosympathetic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trực khuẩn mủ xanh",
+   "base": "8b12a4a7a55d5df3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Pseudomonas aeruginosa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trực thu",
+   "base": "34de478eae6f0796",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "direct"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

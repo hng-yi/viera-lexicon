@@ -1,0 +1,1614 @@
+{
+ "batch": "0041",
+ "entries": [
+  {
+   "headword": "tư cách",
+   "base": "e1e64ad7747d9edc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "conduct; behaviour"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "qualification"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "status (of someone)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khiêu vũ",
+   "base": "c51c31e5eac5813e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dance with a partner, particularly as in ballroom dance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thị trưởng",
+   "base": "cff77ce288ce3d27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a municipal mayor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hang",
+   "base": "db0be14c7a5e621c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cave"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "den"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gốc",
+   "base": "3ba0cab46f8804e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foot (of a tree, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "origin"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "root"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "original"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Tài liệu gốc hiện được lưu giữ tại Bảo tàng Quốc gia.",
+     "en": "The original document is currently kept at the National Museum."
+    }
+   ]
+  },
+  {
+   "headword": "tế bào",
+   "base": "b240207f3a6a0c8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mong đợi",
+   "base": "94f60aae66360f7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to expect; to wait (for)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa phương",
+   "base": "5b07b445c824c8c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "region; area"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "regional; local"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhà máy",
+   "base": "04f330703612f39b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "factory, plant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tội ác",
+   "base": "51de1ea627433e78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crime; serious offence; vice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sa mạc",
+   "base": "180e19b0737174ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "desert"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mớ",
+   "base": "3f38e8fe1deac626",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have bad dreams, nightmares"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wiggle one's body while sleeping; to sleep talk"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Hà-Tĩnh",
+      "Nghệ-An"
+     ],
+     "gloss": "to dream"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a whole lot; a bundle"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "one hundred thousand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "một mớ việc",
+     "en": "a whole bunch of works"
+    }
+   ]
+  },
+  {
+   "headword": "thà",
+   "base": "091ece994a6b742a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "used to signify a better choice or preference"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thà chết còn hơn.",
+     "en": "I'd rather die / I'd be caught dead rather."
+    },
+    {
+     "sense": 1,
+     "vi": "Bạc Hy Lai viết tâm thư: “Thà chịu khổ chứ không chịu nhục!”",
+     "en": "Bo Xilai writes in letter to family: “I would rather endure hardships, not humiliation”"
+    }
+   ]
+  },
+  {
+   "headword": "kịch",
+   "base": "72a1b2982f1b8b71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "play, drama"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "common moorhen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xăng",
+   "base": "f1da132a36b31b99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gasoline, petrol"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xe chạy xăng",
+     "en": "gas-powered car"
+    },
+    {
+     "sense": 1,
+     "vi": "đổ xăng",
+     "en": "to pump gas, to fill up the gas tank"
+    },
+    {
+     "sense": 1,
+     "vi": "đổ đầy xăng",
+     "en": "to top off the gas tank"
+    },
+    {
+     "sense": 1,
+     "vi": "Xe gần hết xăng rồi.",
+     "en": "The car is almost out of gas."
+    },
+    {
+     "sense": 1,
+     "vi": "Xe tốn nhiều xăng quá.",
+     "en": "The car uses too much gas."
+    }
+   ]
+  },
+  {
+   "headword": "hành lang",
+   "base": "33b8942fb9f5a448",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hall; corridor"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "right of way (legal easement granted for the construction of a roadway or railway)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áo khoác",
+   "base": "663f8f8d8c65b2e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coat, jacket"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xem ra",
+   "base": "571a7ee6133b35c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "it seems"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chuyện này xem ra khó thành.",
+     "en": "It seems this was not meant to be."
+    }
+   ]
+  },
+  {
+   "headword": "bến",
+   "base": "d69996481e91e35a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "port; wharf"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the shore of a body of water"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "station (place where a vehicle may stop)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bến Nhà Rồng",
+     "en": "Dragon Wharf, lit. Dragon House Wharf"
+    },
+    {
+     "sense": 3,
+     "vi": "Bến xe Miền Đông",
+     "en": "Mien Dong Coach Station"
+    }
+   ]
+  },
+  {
+   "headword": "phép thuật",
+   "base": "66cd070bce141a6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magic (use of supernatural rituals, forces etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đường hầm",
+   "base": "8a0c94e0e4fde460",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tunnel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có ánh sáng cuối đường hầm",
+     "en": "There is light at the end of the tunnel"
+    }
+   ]
+  },
+  {
+   "headword": "kim cương",
+   "base": "75b71866899b8097",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diamond (gemstone)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quảng cáo",
+   "base": "918aa339f52d7a91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to advertise, publicize"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "advertisement; commercials"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "năm ngoái",
+   "base": "e0c4f8eded7430ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "last year"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phạt",
+   "base": "ddb8ae008f9969c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to punish"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fine"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conquer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình dung",
+   "base": "0ebc01888545fe4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to envision; to imagine; to visualize"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "appearance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi hình dung từng con [bò] một sẽ cúi xuống thè lưỡi ráp nóng liếm khắp người ông.",
+     "en": "I imagined each cow would bend down and stick out their warm tongue to lick over him."
+    }
+   ]
+  },
+  {
+   "headword": "chiếu",
+   "base": "7699924cc4f822df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sown mat made of straw strands or bamboo pieces"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "seat; rank"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to emit light onto a surface; to light up, to shine, to project onto, etc."
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to display a movie in a theater, by projection or otherwise"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to project"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to check"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "imperial order"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "chiếu sáng",
+     "en": "to light up/shine"
+    },
+    {
+     "sense": 3,
+     "vi": "máy chiếu",
+     "en": "a projector"
+    },
+    {
+     "sense": 4,
+     "vi": "công chiếu",
+     "en": "to release a movie"
+    },
+    {
+     "sense": 5,
+     "vi": "phép chiếu song song",
+     "en": "orthographic projection"
+    },
+    {
+     "sense": 6,
+     "vi": "Chiếu tướng/vua!",
+     "en": "Check!"
+    },
+    {
+     "sense": 6,
+     "vi": "chiếu hết/bí",
+     "en": "checkmate"
+    },
+    {
+     "sense": 7,
+     "vi": "Chiếu dời đô",
+     "en": "The Imperial Order to Move the Capital"
+    }
+   ]
+  },
+  {
+   "headword": "đường phố",
+   "base": "bf0db62c5adf1365",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "street"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ông bà",
+   "base": "fcc368d79127601f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grandparents"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "ancestor"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ladies and gentlemen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chọc",
+   "base": "dd4c685a039f58cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prick; to jab; to puncture"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to poke; to prod"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to tease; to provoke"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to annoy; to bother"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phân",
+   "base": "c49fa914dfeb4403",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "formal"
+     ],
+     "gloss": "stool; faeces; excrement"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inch (unit of length)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "hundredth-level (centi-) unit, such as centimetre and centigram"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "an ancient unit of length, equal to ¹⁄₁₀₀ of a thước"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "an ancient unit of weight, equal to ¹⁄₁₀₀ of a lạng and approximately 0.378 g"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to divide (among, between)"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to distribute; to allocate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cục phân",
+     "en": "a turd"
+    },
+    {
+     "sense": 1,
+     "vi": "đống phân",
+     "en": "a pile of feces"
+    }
+   ]
+  },
+  {
+   "headword": "chảy máu",
+   "base": "32429962ec237651",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bleed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "y tế",
+   "base": "93f6bd52c625909e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "health care"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phòng y tế",
+     "en": "an infirmary; a sickbay"
+    },
+    {
+     "sense": 1,
+     "vi": "bảo hiểm y tế",
+     "en": "health insurance"
+    },
+    {
+     "sense": 1,
+     "vi": "Tổ chức Y tế Thế giới",
+     "en": "the World Health Organization"
+    }
+   ]
+  },
+  {
+   "headword": "kế tiếp",
+   "base": "706b15e8e47f7ac6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be next; to succeed to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mời người kế tiếp!",
+     "en": "Next please!"
+    }
+   ]
+  },
+  {
+   "headword": "két",
+   "base": "0917190d267f36f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "parrot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "safe; strongbox; coffer; lockbox"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "case (used to store glass bottles of beer or soft drink)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiền mặt",
+   "base": "4a1ed45d0eb50e0e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cash (money in the form of notes/bills and coins)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân tiện",
+   "base": "c81231725c89e46a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "incidentally; conveniently; by the way"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mất trí",
+   "base": "6fa72e7b15e91630",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose one's mind; to go crazy"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dementia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mong muốn",
+   "base": "bb44fa4539ef6b2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wish; to desire"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "desire"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có tác dụng (như) mong muốn",
+     "en": "to produce the desired effect"
+    }
+   ]
+  },
+  {
+   "headword": "ngăn cản",
+   "base": "ded7f62b78692f66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prevent (from); to hinder (from)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuế",
+   "base": "10bf6fe8d22d2fa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tax"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trốn thuế",
+     "en": "to evade tax"
+    }
+   ]
+  },
+  {
+   "headword": "móc",
+   "base": "e44423876b57a4dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hook"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw out (with the fingers)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick (pocket)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "humorous",
+      "slang",
+      "vulgar"
+     ],
+     "gloss": "to masturbate; to fingering"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hook, crotchet, clasp"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stroke that is a hook"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clustering fishtail palm"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "dew"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 7,
+     "vi": "sợi móc",
+     "en": "fibers from the clustering fishtail palm"
+    }
+   ]
+  },
+  {
+   "headword": "tình báo",
+   "base": "3a20c777944b4995",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intelligence; intel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơ quan Tình báo Trung ương",
+     "en": "the Central Intelligence Agency"
+    }
+   ]
+  },
+  {
+   "headword": "đẻ",
+   "base": "32b2211ea7ae47c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "often"
+     ],
+     "gloss": "to give birth to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to birth"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "biological"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "mother, mom"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cha đẻ",
+     "en": "birth father"
+    },
+    {
+     "sense": 4,
+     "vi": "Hai tiếng cha mẹ, nước ta mỗi nơi cũng gọi hơi khác nhau: Nơi thì gọi là Bố là Đẻ, nơi thì gọi là Thầy là U.",
+     "en": "With the two words “father” and “mother”, each place in our country uses words that are slightly different; in some places people say bố and đẻ, and in other places people say thầy and u."
+    }
+   ]
+  },
+  {
+   "headword": "đúng đắn",
+   "base": "033327072950ed05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "correct (and worthy of being a model); proper"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một quyết định đúng đắn",
+     "en": "a good decision; the right decision"
+    }
+   ]
+  },
+  {
+   "headword": "công",
+   "base": "6e60067bdacfd625",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peafowl; peacock; peahen; peachick"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the amount of labor that will factor in one's pay"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "accomplishment"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "competence, one of the tứ đức (“four virtues”) that women are supposed to have"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "work"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "duke"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "public or state-owned"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "top; seme (in a male same-sex relationship)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ngày công",
+     "en": "working day"
+    },
+    {
+     "sense": 3,
+     "vi": "có công với nước",
+     "en": "to have achieved greatness for one's homeland"
+    },
+    {
+     "sense": 3,
+     "vi": "Lục súc tranh công",
+     "en": "Six Livestock Animals Arguing Who Works the Hardest / Who Contributes the Most"
+    },
+    {
+     "sense": 5,
+     "vi": "Công thực hiện bởi một lực không đổi là đại lượng đo bằng tích độ lớn của lực và hình chiếu của độ dời điểm đặt trên phương của lực.",
+     "en": "The work done by a constant force is the quantity measured by the product of the amount of force times the projection of the displacement of the point material placed on the direction of the force."
+    },
+    {
+     "sense": 7,
+     "vi": "việc công",
+     "en": "public affairs"
+    },
+    {
+     "sense": 7,
+     "vi": "trường công",
+     "en": "a public school"
+    }
+   ]
+  },
+  {
+   "headword": "nhân vật",
+   "base": "3f37e11010b8bbf7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a figure (person)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a character"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lãng mạn",
+   "base": "6908306acb50e113",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "romantic (concerned with, or conducive to, romance and love)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "romantic (having the qualities of romance)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "self-indulgent"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "undisciplined; unruly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tình yêu của họ không già đi, cũ đi theo năm tháng mà vẫn mới mẻ, lãng mạn như thuở ban đầu: “Thương anh, yêu anh - lấy nhau lâu, nhưng sao em không hề thấy tình yêu “già” đi, hay bớt “lãng mạn” đi trong em. Em vẫn yêu anh, như người ta yêu một người… yêu, bao giờ cũng tha thiết, cũng trẻ, cũng có những dằn dỗi của nó…”",
+     "en": "Their love never went tired and stale, but remained as fresh and romantic as on their early days: “Having liked you, loved you, married you for that long, how come I’ve never felt love become ‘tired’ or less ‘romantic’ inside me? I still love you the way one loves a, well, loved one, always in a tender and fresh way, though with some anguish of its own…”"
+    },
+    {
+     "sense": 1,
+     "vi": "Bất cứ ông chồng nào yêu vợ nên tìm hiểu quan điểm về sự lãng mạn. Lãng mạn không chỉ thể hiện bất ngờ vào ngày 14 tháng 2 hàng năm mà lãng mạn còn thể hiện vào những ngày thường. Thần Cupid không bao giờ ngủ hoặc nếu có thì thần chỉ ngủ vài giờ một đêm để tiếp thêm năng lượng.",
+     "en": "Every husband who loves his wife should learn more viewpoints on romance. You don't just suddenly get romantic on the fourteenth of February every year, you're romantic every day. Cupid never sleeps, and even if he does, only a couple hours each night to recharge."
+    },
+    {
+     "sense": 2,
+     "vi": "Nhạc phái lãng mạn đã bắt nguồn từ đâu ? Đó là câu hỏi khó giải đáp. Mặc dù đượm màu sắc êm dịu, nhưng một số nhạc phẩm thời trung cổ cũng chưa đủ yếu tố để được mệnh danh là lãng mạn. Sầu thảm và bi ai nhất là một số sáng tác phẩm của Bach ; tuy nhiên những sáng tác phẩm nầy cũng chưa đũ^([sic]) tính chất của một nhạc phẩm lãng mạn.",
+     "en": "Where does romanticism come from? That is a difficult question. Albeit they sounded gentle, certain medieval pieces did not meet the criteria of romanticism. Most depressed and anguished were the works of Bach; yet they did not possess the quality of romantic works."
+    },
+    {
+     "sense": 2,
+     "vi": "Nhưng sang tháng sau tình thương yêu tuy vẫn nặng, mà cái tình nồng nàn của Diễm-Lan đã thấy giảm bớt vài phần. Đối với sự thay đổi của bạn, Vinh-Sơn chỉ cười nhạt. Chàng cho sự đó rất thường, và chàng đã đoán biết từ trước rằng cái ngày ấy chẳng chóng thì chầy thế nào cũng tới. Linh hồn lãng mạn của Diễm-Lan chàng chỉ ví như một con bướm, một đóa hải đường, nghĩa là một cốt cách hữu tình chứa một khối tinh thần vô tư.",
+     "en": null
+    },
+    {
+     "sense": 3,
+     "vi": "1) Phạm nhơn trẻ tuổi, mê mẩn những dâm thơ, rồi tâm hồn trở nên lãng mạn, bỏ hết luân lý, quên hết tiết trinh.",
+     "en": "1) The young prisoner, fascinated by erotic poetry, then became self-indulgent, abandoned all morality, and forgot all chastity."
+    },
+    {
+     "sense": 4,
+     "vi": "Cách mạng là thống khổ, trong đó cũng phải có lộn dơ bẩn và máu, quyết không phải là thú vị, hoàn mỹ, như thi nhân đã tưởng tượng ra kia ; cách mạng rất là việc hiện thực, cần có các thứ công tác hèn hạ, rắc rối, quyết không phải là lãng mạn như thi nhân đã tưởng tượng ra kia ; cách mạng cố nhiên có phá hoại, nhưng lại cần kiến thiết, phá hoại là thú lắm, nhưng kiến thiết lại là việc rắc rối.",
+     "en": null
+    },
+    {
+     "sense": 4,
+     "vi": "Vô tình tiếp tay cho Cộng-Sản phá-hoại là những phần-tử nhiễu-loạn vô kỷ-cương, những phần-tử giả danh dân-chủ, lẫn-lộn những điều ảo-tưởng với thực-trạng xã-hội, lấy bạo tàn thay cho bác-ái, đem lãng-mạn phiêu-lưu thay cho đấu-tranh cách-mạng.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "đếch",
+   "base": "bd7e27dcbfb1ed76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "mildly",
+      "vulgar"
+     ],
+     "gloss": "not"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yên lặng",
+   "base": "75f5910a30a1713d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "calm, quiet"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soundlessness, silence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cân nhắc",
+   "base": "9201c39a81edc095",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to consider; deliberate; contemplate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assess; evaluate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lợi",
+   "base": "b42784a236a6fa80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gain, profit, benefit, advantage"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gum (the flesh around the teeth)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Analects, 4.16; 1972, Vietnamese translation & annotations by Nguyễn Hiến Lê",
+     "en": "Confucius said: “The superior person clearly understands rectitude; the inferior person clearly understands profits.”"
+    },
+    {
+     "sense": 1,
+     "vi": "Mozi 32.1; 1929 English translation by Y. P. Mei; Vietnamese translation by Nguyễn Hiến Lê, published 1995.",
+     "en": "The purpose of the magnanimous is to be found in procuring benefits for the world and eliminating its calamities."
+    }
+   ]
+  },
+  {
+   "headword": "ngọt ngào",
+   "base": "306d4672d0beed83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "sweet; pleasant; loving; tender; suave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loại bỏ",
+   "base": "dc79b0f7b200c770",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reject; to discard (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mệnh lệnh",
+   "base": "3d5dd4cb21c0cdda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order; command"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thừa",
+   "base": "93137b483a4be3fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unneeded, needless, unnecessary (exceeding what is needed); redundant, superfluous; leftover"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "without doubt; surely; certainly"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take advantage of (an opportunity or situation)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to receive (something from one's social superior[s]), to accept (something from one's social superior[s])"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to inherit"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to obey (one's social superior[s])"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thừa"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đời thừa",
+     "en": "Redundant life (a short story by Nam Cao)"
+    },
+    {
+     "sense": 1,
+     "vi": "động tác thừa",
+     "en": "redundant action"
+    },
+    {
+     "sense": 1,
+     "vi": "còn thừa thời gian",
+     "en": "still [have] time to spare"
+    },
+    {
+     "sense": 1,
+     "vi": "trả tiền thừa cho khách",
+     "en": "to return the change to customers"
+    },
+    {
+     "sense": 1,
+     "vi": "Thừa tiền mà mua cái ngữ ấy!",
+     "en": "Is there even more than enough money to buy that thing?"
+    },
+    {
+     "sense": 1,
+     "vi": "Lời mẹ dặn không có thừa đâu!",
+     "en": "[Your] mother's advice is not redundant!"
+    },
+    {
+     "sense": 1,
+     "vi": "đồ ăn thừa",
+     "en": "leftover food"
+    },
+    {
+     "sense": 1,
+     "vi": "vải thừa",
+     "en": "leftover textile"
+    },
+    {
+     "sense": 1,
+     "vi": "Bài viết này có nhiều câu thừa.",
+     "en": "This article contains many unnecessary sentences."
+    },
+    {
+     "sense": 2,
+     "vi": "thừa biết; biết thừa",
+     "en": "to be well aware"
+    },
+    {
+     "sense": 2,
+     "vi": "thừa hiểu",
+     "en": "to fully understand"
+    },
+    {
+     "sense": 2,
+     "vi": "Nó thừa khôn ngoan để hiểu chuyện ấy.",
+     "en": "He is surely smart enough to understand the matter."
+    },
+    {
+     "sense": 3,
+     "vi": "thừa cơ",
+     "en": "to seize an opportunity"
+    },
+    {
+     "sense": 3,
+     "vi": "thừa gió bẻ măng",
+     "en": "to seize an opportunity"
+    },
+    {
+     "sense": 3,
+     "vi": "thừa nước đục thả câu",
+     "en": "to seize an opportunity"
+    },
+    {
+     "sense": 3,
+     "vi": "thừa thắng",
+     "en": "to take advantage of a victory"
+    },
+    {
+     "sense": 3,
+     "vi": "thừa thế",
+     "en": "to take advantage of a beneficial situation"
+    },
+    {
+     "sense": 3,
+     "vi": "thừa dịp",
+     "en": "to take advantage of an occasion"
+    },
+    {
+     "sense": 3,
+     "vi": "Thừa lúc đông người, kẻ xấu lẻn vào ăn cắp.",
+     "en": "Taking advantage of the crowd, a bad person sneaked in to steal."
+    },
+    {
+     "sense": 4,
+     "vi": "thừa lệnh",
+     "en": "to accept order"
+    },
+    {
+     "sense": 4,
+     "vi": "thừa ân",
+     "en": "to be grateful (for favor received)"
+    },
+    {
+     "sense": 5,
+     "vi": "con thừa tự",
+     "en": "heir"
+    },
+    {
+     "sense": 6,
+     "vi": "thừa lệnh",
+     "en": "‘to obey order’ ← ‘to accept order’"
+    },
+    {
+     "sense": 6,
+     "vi": "khâm thừa",
+     "en": "to respectfully obey"
+    },
+    {
+     "sense": 6,
+     "vi": "phụng thừa",
+     "en": "to obey (someone's order)"
+    }
+   ]
+  }
+ ]
+}

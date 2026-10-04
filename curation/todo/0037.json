@@ -1,0 +1,1479 @@
+{
+ "batch": "0037",
+ "entries": [
+  {
+   "headword": "cắm",
+   "base": "682ea8e65c2ad726",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stick (something) into a surface"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "to bite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "y",
+   "base": "c602c13876ba9c0e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "he; him; she; her"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "he, him"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "exactly; precisely (like)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "medicine; physician"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hồi đó ở kinh đô có một người em hoàng hậu họ Vương. Y cũng là tay cự phú nổi tiếng tiền rừng biển bạc và xài phí vào bậc nhất.",
+     "en": "At the time, there was in the capital a brother of the queen of the Wáng family. He was also a famous for being immensely rich and was an extravagant spender of first degree."
+    },
+    {
+     "sense": 3,
+     "vi": "y như",
+     "en": "exactly like/as"
+    },
+    {
+     "sense": 3,
+     "vi": "y như thật",
+     "en": "so realistic"
+    },
+    {
+     "sense": 3,
+     "vi": "y chang",
+     "en": "very much like"
+    },
+    {
+     "sense": 4,
+     "vi": "Sau này tôi muốn đi học y.",
+     "en": "I want to pursue medicine in the future."
+    }
+   ]
+  },
+  {
+   "headword": "heo",
+   "base": "d156901bac769607",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "a pig (mammal of genus Sus)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a two"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vãi",
+   "base": "9210535ac4ec943c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spill (something) all over; to strew; to broadcast"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to be spilled all over; to be scattered"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to excrete (involuntarily); to let out; to urinate or pee (by accident)"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "slang",
+      "vulgar"
+     ],
+     "gloss": "extremely; fucking"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "damn, dang, dayum"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "middle-aged female pagoda-goer"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Buddhist nun"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bớt",
+   "base": "d5b538bd780b4eb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birthmark"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to diminish, to cut down, to decrease, to reduce"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đóng cửa lại đi cho bớt ồn ào.",
+     "en": "You should go shut the door so that less noise can come in."
+    },
+    {
+     "sense": 2,
+     "vi": "Bớt mưa rồi.",
+     "en": "The rain eased up."
+    }
+   ]
+  },
+  {
+   "headword": "rẽ",
+   "base": "f2bca14ed3e12e7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to turn (to another path)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cleave, to split (into branches)"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "being a tenant farmworker"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thuyền ta rẽ sóng biển Đông.",
+     "en": "Our boat breaks the waves of the Eastern Sea."
+    }
+   ]
+  },
+  {
+   "headword": "gắn",
+   "base": "8b9b14fd028d4e1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to glue (together); to stick (together); to paste (together); to link; to attach"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ đồ",
+   "base": "07c1d9b3d05a0030",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a suit; a dress"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bộ đồ mặc đi công việc",
+     "en": "a suit for business wear"
+    }
+   ]
+  },
+  {
+   "headword": "phi công",
+   "base": "309aa06d98e58698",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pilot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cột",
+   "base": "abf59234aab915d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pillar, column, pole"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fasten, to strap in, to bind, to tie"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cột điện",
+     "en": "electric pole"
+    }
+   ]
+  },
+  {
+   "headword": "nhẹ nhàng",
+   "base": "06f9336e3ce2b683",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "light; gentle; soft"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "gently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhẹ nhàng đặt cuốn sách xuống",
+     "en": "gently put the book down"
+    }
+   ]
+  },
+  {
+   "headword": "bầu",
+   "base": "8ad20adf825af3ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lagenaria siceraria (calabash vine, bottle gourd)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "Any plant of genus Lagenaria"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Various varieties of Oryza sativa rice that are usually planted as lúa Chiêm in deep paddies, and are relatively colorful, rather strong, and can be planted in paddies high in alum, for red rice or low-quality rice."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gourd (hard-shelled fruit from a plant in Lagenaria)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gourd (dried and hardened shell of a gourd fruit)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ovary (lower part of a pistil or carpel that bears ovules)"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rootball"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bulbous bow; bulbous stern"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bosom (seat of one's inner thoughts, feelings, etc.)"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "womb; baby bump"
+    },
+    {
+     "position": 11,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a space of something"
+    },
+    {
+     "position": 12,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pregnancy"
+    },
+    {
+     "position": 13,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pregnant"
+    },
+    {
+     "position": 14,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bulging, plump"
+    },
+    {
+     "position": 15,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be pregnant"
+    },
+    {
+     "position": 16,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vote"
+    },
+    {
+     "position": 17,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to elect"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 11,
+     "vi": "Chú chim lượn trên bầu trời.",
+     "en": "The bird hovers in the sky."
+    },
+    {
+     "sense": 11,
+     "vi": "Chúng tôi không muốn thở cùng một bầu không khí.",
+     "en": "We didn't want to breathe the same air."
+    },
+    {
+     "sense": 14,
+     "vi": "má bầu",
+     "en": "bulging cheeks"
+    }
+   ]
+  },
+  {
+   "headword": "lạy",
+   "base": "36eb2d80e8163ea3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kowtow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trời ơi tao lạy luôn!",
+     "en": "(informal) God, I'm begging you. / Oh my gosh, you're kidding me."
+    }
+   ]
+  },
+  {
+   "headword": "sợi",
+   "base": "f23d11cfdec62098",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thread, fiber"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates string, thread, and fiber and things with similar shape to those"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "sợi cáp quang",
+     "en": "an optical fiber"
+    }
+   ]
+  },
+  {
+   "headword": "mạo hiểm",
+   "base": "13b454c2515f3751",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "risky or adventurous"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take risk"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vốn mạo hiểm",
+     "en": "venture capital"
+    },
+    {
+     "sense": 1,
+     "vi": "du lịch mạo hiểm",
+     "en": "adventurous travel/expedition"
+    },
+    {
+     "sense": 1,
+     "vi": "thể thao mạo hiểm",
+     "en": "extreme sports"
+    }
+   ]
+  },
+  {
+   "headword": "năng lực",
+   "base": "52f4c2d65d29b518",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "work competence or capability"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có năng lực",
+     "en": "competent"
+    },
+    {
+     "sense": 1,
+     "vi": "Làm theo năng lực, hưởng theo nhu cầu",
+     "en": "From each according to his ability, to each according to his needs"
+    }
+   ]
+  },
+  {
+   "headword": "vớ vẩn",
+   "base": "6cec3cf68eadade0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ridiculous; stupid; nonsensical"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dẹp ba trò vớ vẩn đi!",
+     "en": "Enough with the bullcrap!"
+    }
+   ]
+  },
+  {
+   "headword": "khăn",
+   "base": "bee61eaab8a6c486",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "towel, napkin, handkerchief, kerchief, turban"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tài liệu",
+   "base": "8a7c355b7f273561",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "document"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "material (text written for a specific purpose); documentation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thư mục tài liệu",
+     "en": "the documents folder"
+    },
+    {
+     "sense": 1,
+     "vi": "đọc tài liệu tại thư viện",
+     "en": "to read documents at the library"
+    },
+    {
+     "sense": 2,
+     "vi": "tài liệu học tập",
+     "en": "learning resources"
+    },
+    {
+     "sense": 2,
+     "vi": "tài liệu tham khảo",
+     "en": "reference works"
+    }
+   ]
+  },
+  {
+   "headword": "đáng giá",
+   "base": "aa88a0fea0dadce2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "worth (the money); worthy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dữ",
+   "base": "96d7b903cba1b7a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ferocious"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "very bad; awful"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "really; very much"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chó dữ",
+     "en": "a ferocious dog"
+    },
+    {
+     "sense": 1,
+     "vi": "Bà đó dữ như chằn lửa.",
+     "en": "She's very ferocious."
+    },
+    {
+     "sense": 2,
+     "vi": "tin dữ",
+     "en": "very bad news"
+    },
+    {
+     "sense": 3,
+     "vi": "Thằng này sao mà ngu dữ!",
+     "en": "Why are you so damn stupid?"
+    }
+   ]
+  },
+  {
+   "headword": "ga",
+   "base": "f30299f972cecd34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "train station"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gas, such as propane and/or butane, used for a gas stove; compare khí (“gas as a chemical substance”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carbon dioxide used for a carbonated drink"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lighter fluid"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the ignited mixture of fuel and air that powers an engine; not to be confused with xăng (“gasoline”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ga Sài Gòn",
+     "en": "Saigon Station"
+    },
+    {
+     "sense": 1,
+     "vi": "Ga Hà Nội",
+     "en": "Hanoi Station"
+    },
+    {
+     "sense": 2,
+     "vi": "bình ga",
+     "en": "a gas tank"
+    },
+    {
+     "sense": 3,
+     "vi": "nước ngọt có ga",
+     "en": "a sweet carbonated drink"
+    },
+    {
+     "sense": 4,
+     "vi": "Bật lửa này hết ga rồi.",
+     "en": "This lighter's run out of fluid."
+    },
+    {
+     "sense": 5,
+     "vi": "xe bị rồ/oà ga",
+     "en": "a motorcycle with a broken throttle that accelerates while the twistgrip is released"
+    },
+    {
+     "sense": 5,
+     "vi": "Nổ nãy giờ mà chẳng có ga gì hết !",
+     "en": "I've been trying to start my bike for hours and it's still not working!"
+    },
+    {
+     "sense": 5,
+     "vi": "chạy tẹt ga",
+     "en": "to step on it/on the gas; to floor it; to put your foot down; to run full throttle"
+    }
+   ]
+  },
+  {
+   "headword": "khô",
+   "base": "d4bf6b575be87301",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dry (free from liquid or moisture), dried; dehydrated; arid; drained"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short and sharp; (of personality) dry, unemotional"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "jerky"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meal, press cake, pomace"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lá khô",
+     "en": "withered leaves"
+    },
+    {
+     "sense": 1,
+     "vi": "cá khô",
+     "en": "dried fish"
+    },
+    {
+     "sense": 1,
+     "vi": "trời khô và lạnh",
+     "en": "dry and cold weather"
+    },
+    {
+     "sense": 2,
+     "vi": "tính tình khô như ngói",
+     "en": "a personality as dry as a tile"
+    },
+    {
+     "sense": 3,
+     "vi": "khô bò/heo/nai/mực",
+     "en": "beef/pork/venison/squid jerky"
+    },
+    {
+     "sense": 4,
+     "vi": "khô đậu tương",
+     "en": "soybean meal"
+    }
+   ]
+  },
+  {
+   "headword": "khoảnh khắc",
+   "base": "f3b0e05dd2215a1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "short period of time; instant, moment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trừng phạt",
+   "base": "c8e6b3c43453b3c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to punish; to chastise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lặn",
+   "base": "97c70521eb675464",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dive"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to set"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to hide (from something unpleasant); to be unavailable for a while"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "recessive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Cái thằng này lặn đâu mất rồi? Hôm nay đến lượt nó trực nhật.",
+     "en": "Where has he been hiding? It's his turn to do the class chores."
+    },
+    {
+     "sense": 3,
+     "vi": "Nó lặn mất tăm rồi. Nó trốn khỏi bọn đòi nợ.",
+     "en": "He's gone for good. He's hiding from debt collectors."
+    },
+    {
+     "sense": 4,
+     "vi": "gen lặn",
+     "en": "recessive gene"
+    }
+   ]
+  },
+  {
+   "headword": "thiên tài",
+   "base": "9e53f9147f2be4cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a genius (someone possessing extraordinary intelligence or skill)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoàng hậu",
+   "base": "96622956533e828b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a queen consort or an empress consort"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đe dọa",
+   "base": "4cb4aec20e5690e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of đe doạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quét",
+   "base": "c5141373f26d544d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sweep (with a broom); to sweep up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to coat (with); to paint"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scan (code, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hỏa",
+   "base": "1fb40dd6693ea8a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoả."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hét",
+   "base": "daa961210c1e5557",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shout; to scream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thrush (bird)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồi",
+   "base": "9fb7068b530a6e5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hill (elevated location)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khí",
+   "base": "f311cb61c96bd82a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gas"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chi"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "liberty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khí hiếm",
+     "en": "\"rare\" gas"
+    },
+    {
+     "sense": 1,
+     "vi": "khí hiđrô",
+     "en": "hydrogen gas (H₂)"
+    }
+   ]
+  },
+  {
+   "headword": "học sinh",
+   "base": "53b8fbd936fd0ae8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "a student"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pupil; a schoolchild/schoolkid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "la",
+   "base": "512ad1fe1b9a2f57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cry, to shout"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to reprimand, to scold"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horse–donkey hybrid; mule or hinny"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "la; A"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bị vợ la",
+     "en": "to be scolded by wife"
+    }
+   ]
+  },
+  {
+   "headword": "khuôn mặt",
+   "base": "7f37b7ab78b7bbbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "face; facial appearance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "canh",
+   "base": "e9dd89cf09dda7e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vegetable soup"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "broth (water in which food has been boiled)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to simmer liquid until it is thick enough."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "warp (the threads that run lengthwise in a woven fabric)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "synonym of kinh (“Chinese classic; sacred text of a certain religion”)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to watch, to guard"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a unit of time equal to one-fifth of the period from sunset to sunrise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "canh thuốc",
+     "en": "simmer traditional medicine"
+    },
+    {
+     "sense": 3,
+     "vi": "canh mật",
+     "en": "simmer honey"
+    },
+    {
+     "sense": 4,
+     "vi": "canh tơ chỉ vải",
+     "en": "silk warp and cotton weft"
+    }
+   ]
+  },
+  {
+   "headword": "trưởng thành",
+   "base": "900a40a325c02371",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grow up"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thận",
+   "base": "59e864faeed782dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kidney"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chạy thận nhân tạo",
+     "en": "to run an \"artificial kidney\"; to go/be on dialysis"
+    }
+   ]
+  },
+  {
+   "headword": "đánh thức",
+   "base": "33675fa0cf89a334",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to awaken; to wake someone up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính trị",
+   "base": "23e1f3fac10c8d16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "politics"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "political"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà chính trị",
+     "en": "politician"
+    },
+    {
+     "sense": 2,
+     "vi": "ổn định chính trị",
+     "en": "political stability"
+    }
+   ]
+  },
+  {
+   "headword": "bảo đảm",
+   "base": "c6ea9eb6d2d9d29d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ensure; to guarantee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rút lui",
+   "base": "fc6bb8f6c4143184",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to retreat; to move back"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to withdraw (from something); to stand down"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên hệ",
+   "base": "fead9df638088709",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to contact, especially by phone"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "relation between people or things; association, affiliation, relationship, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Liên hệ: 055-555-555",
+     "en": "Contact us: 055-555-555"
+    }
+   ]
+  },
+  {
+   "headword": "ngầm",
+   "base": "8420b80cd13b5424",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "beneath the surface (underground; subterranean, underwater; subaquatic)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "secret; covert; unspoken"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "secretly; covertly; unspokenly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cảnh sát ngầm",
+     "en": "undercover policeman"
+    },
+    {
+     "sense": 3,
+     "vi": "ngầm hiểu",
+     "en": "to understand something without being told"
+    }
+   ]
+  },
+  {
+   "headword": "thử thách",
+   "base": "61f7528bd53b7b66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to challenge; to try; to put to the test"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "challenge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàng xóm",
+   "base": "9011700203ce1b86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neighbour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cực",
+   "base": "6f46fca5a486e44b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "extremely; utterly; extraordinarily"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miserable; unhappy"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pole"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "terminal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cực hay",
+     "en": "exquisite"
+    },
+    {
+     "sense": 1,
+     "vi": "vui cực",
+     "en": "so, so fun"
+    },
+    {
+     "sense": 2,
+     "vi": "Thân tao cực lắm!",
+     "en": "Boy, does my life suck!"
+    },
+    {
+     "sense": 2,
+     "vi": "Cực chẳng đã !",
+     "en": "God, my life sucks!"
+    },
+    {
+     "sense": 3,
+     "vi": "cực dương/âm",
+     "en": "a cathode / anode"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1583 @@
+{
+ "batch": "0039",
+ "entries": [
+  {
+   "headword": "tháp",
+   "base": "f6b98b79129a52f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "a pagoda"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tower"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Hinduism"
+     ],
+     "gloss": "a temple or temple complex"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thác Tháp Lí Thiên Vương",
+     "en": "Pagoda-Bearing Heavenly King Li"
+    },
+    {
+     "sense": 2,
+     "vi": "tháp Ép-phen",
+     "en": "the Eiffel Tower"
+    },
+    {
+     "sense": 2,
+     "vi": "tháp nghiêng Pi-da",
+     "en": "the Leaning Tower of Pisa"
+    },
+    {
+     "sense": 3,
+     "vi": "tháp Chăm/Chàm",
+     "en": "Cham temples"
+    }
+   ]
+  },
+  {
+   "headword": "nối",
+   "base": "abd687035a63c966",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to join, to add, to unite, to connect"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to continue; to carry on; to perpetuate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngưng",
+   "base": "36c222e9ad4c9cdf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to condense (to change from the gas state to the liquid state)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to stop; to halt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ngày 11-3, tại Jeddah (Saudi Arabia) Mỹ và Ukraine đã đạt được thỏa thuận ngưng bắn 30 ngày trong cuộc chiến ở Ukraine,[…]",
+     "en": "On March 11, in Jeddah (Saudi Arabia), the US and Ukraine reached a 30-day ceasefire agreement in the war in Ukraine, […]"
+    }
+   ]
+  },
+  {
+   "headword": "khối",
+   "base": "318419d48bd34a4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "block; mass; piece"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cube (of a length); cubed"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bloc (group of countries acting together for political or economic goals)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a myriad of something or somebody"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cubic (Used in the names of units of volume)"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "Used to end and emphasize a negative clause so as to defy a previous statement of the other speaker(s): no way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "Làm ăn như thế thì có mà thạo khối",
+     "en": "To look at how the boy was doing the task, there's no way he can handle it."
+    }
+   ]
+  },
+  {
+   "headword": "phản đối",
+   "base": "e549d3a6e9a60c6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to oppose; to object"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opposition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "miễn phí",
+   "base": "e7292570e6cde1fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "free of charge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "y tá",
+   "base": "4fb5aa044f9387f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a medical assistant"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "informal"
+     ],
+     "gloss": "synonym of điều dưỡng viên (“nurse”) (person trained to provide care for the sick)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tâm trí",
+   "base": "ef7bcf6df2dfc6d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heart and mind; mind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầy đủ",
+   "base": "13e43092bbe71bac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "adequate; enough; sufficient; complete; full"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely; fully"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mỏ",
+   "base": "fce204199a177e1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beak; bill"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "trap (a person's mouth)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mine (place from which ore is extracted)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thú mỏ vịt",
+     "en": "platypus"
+    },
+    {
+     "sense": 2,
+     "vi": "Câm mỏ",
+     "en": "Shut your trap!"
+    },
+    {
+     "sense": 3,
+     "vi": "thợ mỏ",
+     "en": "miner"
+    }
+   ]
+  },
+  {
+   "headword": "bệ hạ",
+   "base": "76980e3981908d7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "you, Your (East Asian) Majesty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ám ảnh",
+   "base": "639a8c637d4fccfa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to haunt; to obsess"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Điều đó đã trở thành một nỗi ám ảnh.",
+     "en": "It became an obsession."
+    },
+    {
+     "sense": 1,
+     "vi": "Nỗi lo âu ngày đêm ám ảnh",
+     "en": "Day and night haunted by anxieties"
+    },
+    {
+     "sense": 1,
+     "vi": "bị tiền bạc ám ảnh",
+     "en": "to be haunted by money (troubles)"
+    }
+   ]
+  },
+  {
+   "headword": "đầu tư",
+   "base": "0bee33fe3c9d4b52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to invest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà đầu tư",
+     "en": "investor"
+    },
+    {
+     "sense": 1,
+     "vi": "quỹ đầu tư",
+     "en": "an investment fund"
+    }
+   ]
+  },
+  {
+   "headword": "thủy",
+   "base": "5202e0aa153d2968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thuỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại nhân",
+   "base": "63519c3d5845277c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "suffix",
+     "tags": [
+      "archaic",
+      "honorific",
+      "morpheme"
+     ],
+     "gloss": "lord/lady; -sama; -dono"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "honorific"
+     ],
+     "gloss": "you, my lord/lady"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical",
+      "obsolete",
+      "rare"
+     ],
+     "gloss": "important man, powerful man, great man, magnate, grandee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Mencius; Vietnamese translation by Nguyễn Hiến Lê; English translation by Robert Eno",
+     "en": "When one counsels a powerful man one must view him as very small and ignore his grandeur."
+    }
+   ]
+  },
+  {
+   "headword": "cơ mà",
+   "base": "4ebf01e87d330c3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "colloquial",
+      "dialectal"
+     ],
+     "gloss": "but; yet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quan điểm",
+   "base": "70749d61bebf9a42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stance (opinion or point of view)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hung thủ",
+   "base": "f727994cca34158d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a culprit who is a suspect murderer or assailant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bếp",
+   "base": "633bd4fcf0c0210a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stove, cooker"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "kitchen"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bếp lò",
+     "en": "heater, stove"
+    }
+   ]
+  },
+  {
+   "headword": "liên tục",
+   "base": "064fb01c7697454a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "continuous"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "continuously"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẹo",
+   "base": "97776d47b2f16d04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "becoming thick or concentrated through evaporation"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "\"non-bánh\" candy"
+    },
+    {
+     "position": 3,
+     "pos": "num",
+     "tags": [],
+     "gloss": "five"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kho cho đến khi kẹo lại",
+     "en": "continue to simmer until much water has been reduced"
+    },
+    {
+     "sense": 2,
+     "vi": "bánh kẹo",
+     "en": "\"bánh\" and \"non-bánh\" candy; confectionery"
+    }
+   ]
+  },
+  {
+   "headword": "trời ơi",
+   "base": "9c4cc4c09a17036b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "good heavens; good God; good Lord; oh my God"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "for God's sake"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tống Giang nghe nói níu lấy hai người công sai mà kêu rằng: \"Khổ lắm trời ơi! Thực là phúc bất trùng lai, họa vô đơn chí!\"",
+     "en": "Upon hearing that, Song Jiang clutched the two guards tightly and wailed: \"Good heavens, woe is me! Truly, blessings never come in pair; disasters never come singly!\""
+    }
+   ]
+  },
+  {
+   "headword": "vệ sinh",
+   "base": "3a6e91d53cce52ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hygiene; sanitation"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "personal health practices"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hợp vệ sinh",
+     "en": "hygienic"
+    },
+    {
+     "sense": 1,
+     "vi": "mất vệ sinh",
+     "en": "unhygienic"
+    },
+    {
+     "sense": 1,
+     "vi": "đi vệ sinh",
+     "en": "to go to the restroom"
+    },
+    {
+     "sense": 1,
+     "vi": "nhà vệ sinh",
+     "en": "a restroom"
+    },
+    {
+     "sense": 2,
+     "vi": "vệ sinh tim mạch",
+     "en": "maintenance of cardiovascular health"
+    }
+   ]
+  },
+  {
+   "headword": "sinh viên",
+   "base": "a2561e20db5bfe83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a postsecondary/undergraduate student"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sinh viên năm nhất",
+     "en": "a postsecondary freshman"
+    }
+   ]
+  },
+  {
+   "headword": "giờ đây",
+   "base": "00e061a54e957702",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "now, at present"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nụ",
+   "base": "ba0d182a1941a546",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flower bud"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for smiles and kisses"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any member of the species Garcinia gummi-gutta (syn. Garcinia cambogia)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "một nụ cười",
+     "en": "a smile"
+    }
+   ]
+  },
+  {
+   "headword": "biểu diễn",
+   "base": "6a16c0ef4a1e8185",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to perform; to put on a performance; to demonstrate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express; to represent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiện",
+   "base": "a482cb2834114751",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be addicted to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "con nghiện",
+     "en": "an addict"
+    },
+    {
+     "sense": 1,
+     "vi": "gây nghiện",
+     "en": "to be addictive"
+    }
+   ]
+  },
+  {
+   "headword": "cánh tay",
+   "base": "0f167eef35dcc590",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arm"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "upper arm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bầu trời",
+   "base": "944cdbf665b6c3de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the vault of heaven; firmament"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông điệp",
+   "base": "0b34a80de745bd9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diplomatic note; official note; correspondence"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "message; memo"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "encyclical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lợi dụng",
+   "base": "43e31cf7d0f1d3a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to utilise; to use; to make use of"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exploit; to take advantage of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tức là",
+   "base": "56bd905be60ac0b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "that is; that is to say"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mean (something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắt giữ",
+   "base": "aa2052aeea595497",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tò mò",
+   "base": "ee97d0cd0dbf94fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "curious; inquisitive; nosy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dãy",
+   "base": "481197ee6492eba7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a set, a chain, a series"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a row"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con cái",
+   "base": "46c0b8353291bd04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "children; offspring (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giàu có",
+   "base": "ec06afe3e033c5f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rich, wealthy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thí nghiệm",
+   "base": "5ac2beff19bede9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "experiment, test"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ác mộng",
+   "base": "fbcbdd1022b1606e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nightmare (dream)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nightmare (experience)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối thủ",
+   "base": "da208073357a1ddb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opponent; rival; competitor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuyến",
+   "base": "a0a22cf7265334b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gland"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a route or line"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tuyến Hà Nội - Huế",
+     "en": "the Hanoi-Hue line"
+    }
+   ]
+  },
+  {
+   "headword": "xé",
+   "base": "cc6f7425301d933e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to tear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xé tờ giấy",
+     "en": "to tear up a sheet of paper"
+    },
+    {
+     "sense": 1,
+     "vi": "xé vải",
+     "en": "to tear cloth"
+    }
+   ]
+  },
+  {
+   "headword": "lãnh chúa",
+   "base": "c19f4644116fab76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lord in feudal Europe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yếu đuối",
+   "base": "9dd8eb6dda6568c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "weak; frail; weak-willed; feeble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vốn",
+   "base": "4053b69a108c51d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "capital, funding"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a supply of skills or knowledge; repertoire"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "originally; inherently; initially; formerly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vốn lưu động",
+     "en": "working capital"
+    },
+    {
+     "sense": 1,
+     "vi": "vốn cố định",
+     "en": "fixed capital"
+    },
+    {
+     "sense": 1,
+     "vi": "vốn điều lệ",
+     "en": "authorized capital"
+    },
+    {
+     "sense": 1,
+     "vi": "vốn mạo hiểm",
+     "en": "venture capital"
+    },
+    {
+     "sense": 1,
+     "vi": "Không có vốn thì khó mà khởi nghiệp.",
+     "en": "It's hard to start a business without funding."
+    },
+    {
+     "sense": 2,
+     "vi": "vốn từ",
+     "en": "one's vocabulary"
+    },
+    {
+     "sense": 2,
+     "vi": "vốn sống",
+     "en": "living experience"
+    },
+    {
+     "sense": 2,
+     "vi": "vốn hiểu biết, vốn tri thức",
+     "en": "a foundation of knowledge"
+    },
+    {
+     "sense": 2,
+     "vi": "Vốn tiếng Anh của tôi kém.",
+     "en": "My English is bad."
+    },
+    {
+     "sense": 3,
+     "vi": "Súng vốn là một tay đầu gấu khét tiếng ở huyện Hương Khê.",
+     "en": "Súng was inherently a notorious thug in Hương Khê District."
+    },
+    {
+     "sense": 3,
+     "vi": "Tự tánh vốn thanh tịnh",
+     "en": "The own-being is inherently purely serene"
+    }
+   ]
+  },
+  {
+   "headword": "dự",
+   "base": "184d23960c664c78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take part (in); to participate (in); to be involved (in)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to prepare (for); to make ready (for); to do in advance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiếm",
+   "base": "9fda055b8d02ee9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rare; scarce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "robot",
+   "base": "11a12b9fc63c101c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "robot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tủ",
+   "base": "963b6eb727b1e3c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cabinet; cupboard; wardrobe; chest; safe"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "figuratively"
+     ],
+     "gloss": "something valuable and useful that is kept by people to themselves, and only shown or used in times of need to win over others; stock-in-trade"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "part of a subject deemed to be high-yield in exams and chosen as the focus of one's study/exam preparation"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "to cover (with); to overlay (with)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo hiểm",
+   "base": "4259068ae2bfe1a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "insurance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bảo hiểm y tế",
+     "en": "medical insurance"
+    }
+   ]
+  },
+  {
+   "headword": "cư xử",
+   "base": "fbe73b72a67dec12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to behave; to conduct oneself; to deal with"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Do Thái",
+   "base": "7c15b706d0a2779e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Jewish"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "rare"
+     ],
+     "gloss": "Israeli"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "synonym of Hê-brơ (“Hebrew”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người Do Thái",
+     "en": "a Jew; the Jews"
+    },
+    {
+     "sense": 1,
+     "vi": "Trong các ngày 09 - 10/11/1938, Đức Quốc xã khởi động trò Kristallnacht (đêm kính vỡ), trong đó 91 người Do Thái đã bị sát hại, còn tài sản của họ bị tịch thu. Ngoài ra, các giáo đường Do Thái bị phá hủy, 30.000 người Do Thái bị đưa vào trại tập trung.",
+     "en": "On 9 and 10 November 1938, the Nazis instigated the Kristallnacht (Night of Broken Glass), during which 91 Jews were murdered and their properties confiscated. Besides, Jewish synagogues were destroyed, and 30,000 Jews were sent to concentration camps."
+    },
+    {
+     "sense": 2,
+     "vi": "người Do Thái",
+     "en": "an Israeli; the Israelis"
+    }
+   ]
+  },
+  {
+   "headword": "sự nghiệp",
+   "base": "94ddfd4c62bd3c67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a career (one's calling in life; a person's occupation)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a career (an individual’s work and life roles over their lifespan)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thang máy",
+   "base": "902f54cea56053e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lift; elevator"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng nghiệp",
+   "base": "aedada3fd60c6286",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "working together"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colleague; coworker"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pha",
+   "base": "360dce06ad8d31b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mix, to mingle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make certain drinks"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "short, and astonishing and/or exciting, incident"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a phase; a stage"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "headlight"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fa; F"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "pha cà phê",
+     "en": "to make coffee"
+    },
+    {
+     "sense": 3,
+     "vi": "Vừa rồi quả là một pha ghi bàn ấn tượng!",
+     "en": "That was a nice goal!"
+    },
+    {
+     "sense": 3,
+     "vi": "Quả là một pha nhào lộn ấn tượng!",
+     "en": "That was an amazing acrobatic move!"
+    },
+    {
+     "sense": 4,
+     "vi": "Pha của dao động cơ là (ωt+φ), trong đó φ là pha ban đầu.",
+     "en": "The phase of a mechanical oscillation is (ωt+φ), with φ being the phase constant."
+    },
+    {
+     "sense": 4,
+     "vi": "Mỗi nhịp tim có năm pha.",
+     "en": "Each heartbeat involves five stages."
+    }
+   ]
+  },
+  {
+   "headword": "lui",
+   "base": "18ac34ae551e4132",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to step back; to recede; to move backward; to retreat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to (fall, look, think) back"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to abate; to decrease"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of lùi (“to postpone”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tập hợp",
+   "base": "6e61d7d543722a0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather (people)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a set (collection of mathematical objects, often having a common property)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tập hợp mọi người lại để bàn công chuyện.",
+     "en": "Gather everyone for a meeting."
+    },
+    {
+     "sense": 2,
+     "vi": "Mọi người tập hợp lại để bàn công chuyện.",
+     "en": "Everyone gathers for a meeting."
+    },
+    {
+     "sense": 3,
+     "vi": "tập hợp rỗng",
+     "en": "an empty set"
+    },
+    {
+     "sense": 3,
+     "vi": "tập hợp con",
+     "en": "a subset"
+    }
+   ]
+  },
+  {
+   "headword": "Đài",
+   "base": "1d4aaf905d5c5e99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "Taiwanese"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người Đài",
+     "en": "Taiwanese person/people"
+    }
+   ]
+  },
+  {
+   "headword": "đài",
+   "base": "04b14be0d4a6e3e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "used in words for certain raised structures or platforms"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a network or station"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a radio (receiver)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "in-compounds",
+      "literary"
+     ],
+     "gloss": "noble-mannered"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đài quan sát",
+     "en": "a watchtower or observatory"
+    },
+    {
+     "sense": 1,
+     "vi": "đài tưởng niệm",
+     "en": "a platform on which there is a monument or obelisk"
+    },
+    {
+     "sense": 1,
+     "vi": "đoạn đầu đài",
+     "en": "a scaffold"
+    },
+    {
+     "sense": 2,
+     "vi": "đài truyền hình",
+     "en": "a TV network"
+    },
+    {
+     "sense": 2,
+     "vi": "đài phát thanh",
+     "en": "a radio station"
+    },
+    {
+     "sense": 3,
+     "vi": "nghe đài",
+     "en": "to listen to the radio"
+    },
+    {
+     "sense": 3,
+     "vi": "cái đài cũ, bám bụi",
+     "en": "an old, dusty radio"
+    }
+   ]
+  },
+  {
+   "headword": "hầu như",
+   "base": "de2892d7704fa638",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "almost, nearly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ra tay",
+   "base": "181d1932831adf6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to act, to perform an action"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mới rồi Bao thị nương tử ra ngoài rửa tay, mình cũng vào nhà xí một lúc, trước sau không đầy thời gian tàn một nén hương, tại sao đã có người vào phòng ra tay?",
+     "en": "Lady Bāo just went outside to wash her hands, I also went to the toilet for a moment, altogether less long than to burn an incense stick; how could anyone have come into the room and do this?"
+    }
+   ]
+  },
+  {
+   "headword": "bé nhỏ",
+   "base": "ff66e918f8bdbf87",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "little; small; young (generally speaking)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

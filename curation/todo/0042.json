@@ -1,0 +1,1574 @@
+{
+ "batch": "0042",
+ "entries": [
+  {
+   "headword": "định mệnh",
+   "base": "123a606b0be0f928",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "destiny"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ đạc",
+   "base": "061663df046d5342",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "stuff"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dọn đồ dọn đạc đi!",
+     "en": "Put your stuff away and clean your room!"
+    }
+   ]
+  },
+  {
+   "headword": "truyện",
+   "base": "74f71a260a6fb5e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of chuyện (“story; tale”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "biography"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "novel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Truyện Kiều",
+     "en": "The Tale of Kiều"
+    },
+    {
+     "sense": 1,
+     "vi": "truyện ngắn",
+     "en": "short story"
+    },
+    {
+     "sense": 1,
+     "vi": "truyện cười",
+     "en": "funny story"
+    },
+    {
+     "sense": 1,
+     "vi": "truyện phim",
+     "en": "film script"
+    },
+    {
+     "sense": 1,
+     "vi": "truyện thơ",
+     "en": "narrative poem"
+    },
+    {
+     "sense": 2,
+     "vi": "tự truyện",
+     "en": "autobiography"
+    },
+    {
+     "sense": 3,
+     "vi": "truyện tranh; tranh truyện",
+     "en": "an illustrated storybook, a comic book, a graphic novel"
+    }
+   ]
+  },
+  {
+   "headword": "cầu thang",
+   "base": "5be6a2ca05b99d7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a staircase; flight of stairs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ tịch",
+   "base": "46af6871d10347a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chairperson: person presiding over a meeting"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chairperson: head of a corporate or governmental board of directors, a committee, or other formal entity"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "chairperson: chairman (of the People's Republic of China)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chairperson: president (of communist/socialist country)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chủ tịch hội đồng quản trị",
+     "en": "chairperson of the board of directors"
+    },
+    {
+     "sense": 2,
+     "vi": "Chủ tịch Quốc hội",
+     "en": "Chairperson of the National Assembly"
+    },
+    {
+     "sense": 3,
+     "vi": "Chủ tịch Mao Trạch Đông",
+     "en": "Chairman Máo Zédōng"
+    },
+    {
+     "sense": 3,
+     "vi": "[Phó] Chủ tịch Lưu Thiếu Kỳ",
+     "en": "[Vice] Chairman Liú Shàoqí"
+    },
+    {
+     "sense": 4,
+     "vi": "chủ tịch nước",
+     "en": "the president"
+    },
+    {
+     "sense": 4,
+     "vi": "chủ tịch Việt Nam",
+     "en": "president of Vietnam"
+    }
+   ]
+  },
+  {
+   "headword": "ghép",
+   "base": "9f878b42e4711fa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to join; to couple; to graft"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "theo đuổi",
+   "base": "b7d225cb780546fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pursue (dream, fame, etc.); to strive for"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xúc phạm",
+   "base": "b667bddf4a3f76b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to offend; to derogate; to hurt; to injure"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bài quảng cáo này xúc phạm tới đạo Hồi.",
+     "en": "This advertisement is offensive to Muslims."
+    }
+   ]
+  },
+  {
+   "headword": "ngày nay",
+   "base": "08bd6a410799a20d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "nowadays; these days"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngày nay, Somalia vẫn trong tình trạng xung đột không ngừng.",
+     "en": "Nowadays, Somalia is still in constant unrest."
+    }
+   ]
+  },
+  {
+   "headword": "chào đón",
+   "base": "07cd32c05cad6700",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to welcome; to warmly greet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hối hận",
+   "base": "7cde0f5c51fd6559",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to regret; to feel remorse; to be remorseful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nói dại, nếu chẳng may ba bị làm sao đó thì hối hận không kịp.",
+     "en": "If anything bad ever happens to dad, regretting then will be too late."
+    }
+   ]
+  },
+  {
+   "headword": "gánh",
+   "base": "17ef5682c7489ed7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry (something) on one's shoulder via a shoulder pole; to shoulder"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shoulder (responsibility)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "load (carried at one time on one's shoulder with a shoulder pole)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "burden; heavy responsibility"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a troupe"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "gánh xiếc",
+     "en": "a circus troupe"
+    },
+    {
+     "sense": 5,
+     "vi": "gánh hài",
+     "en": "a comedy troupe"
+    }
+   ]
+  },
+  {
+   "headword": "lang thang",
+   "base": "b4cb8654ab3be27b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wander; to roam about"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chắn",
+   "base": "27ae69667bbd8436",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shield"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to block"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barrier; obstacle"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "variation of tổ tôm in which a player is said to ù (i.e. to win) if he/she has enough card suites of the same type"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vận chuyển",
+   "base": "75053aaf867632eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transport; to deliver; to ship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại dương",
+   "base": "d5fd72dc92c8beb6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an ocean (one of the large bodies of water)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trên thế giới có sáu lục địa là lục địa Á - Âu, lục địa Phi, lục địa Bắc Mĩ, lục địa Nam Mĩ, lục địa Ô-xtrây-li-a, lục địa Nam Cực và bốn đại dương là Thái Bình Dương, Đại Tây Dương, Ấn Độ Dương, Bắc Băng Dương.",
+     "en": "There are six \"geographic continents\" in the world: Eurasia, Africa, North America, South America, Australia and Antarctica; and four oceans: the Pacific Ocean, the Atlantic Ocean, the Indian Ocean and the Arctic Ocean."
+    }
+   ]
+  },
+  {
+   "headword": "áp lực",
+   "base": "1e486793ff938f84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "literally"
+     ],
+     "gloss": "pressure"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pressuring; stressful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "áp lực nước",
+     "en": "water pressure"
+    },
+    {
+     "sense": 1,
+     "vi": "áp lực công việc",
+     "en": "work-related stress"
+    }
+   ]
+  },
+  {
+   "headword": "người yêu",
+   "base": "0573f45c4fc09214",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "non-marital romantic partner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người yêu cũ",
+     "en": "an ex"
+    }
+   ]
+  },
+  {
+   "headword": "thực",
+   "base": "16e24ec59de7b424",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "true, real"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiết lộ",
+   "base": "a78c64861042b19a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reveal, to disclose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lùn",
+   "base": "740875cb435c4868",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quê",
+   "base": "1bf794e3cbb5cbea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the countryside"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hometown (place of birth or residence)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one's parent's, especially one's father's, birthplace"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "broadly"
+     ],
+     "gloss": "very embarrassing; mortifying"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tết này có về quê không?",
+     "en": "Will you go back to your hometown this New Year?"
+    },
+    {
+     "sense": 4,
+     "vi": "Mẹ ở nhà đi. Con lớn rồi có mẹ đi cùng thì quê lắm.",
+     "en": "Just stay home. I'm a grown-up and it's embarrassing to be chaperoned by you."
+    }
+   ]
+  },
+  {
+   "headword": "bậc",
+   "base": "f42320328ce48513",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rung"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stair or step"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a level; a rank"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "a degree; a power"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a degree"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "a degree; an order"
+    },
+    {
+     "position": 7,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for respected people."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bậc thềm",
+     "en": "steps to the porch"
+    },
+    {
+     "sense": 4,
+     "vi": "luỹ thừa bậc 2 của 3 bằng 9",
+     "en": "the 2nd power of 3 is 9"
+    },
+    {
+     "sense": 5,
+     "vi": "căn bậc 2 của 9 bằng 3",
+     "en": "the 2nd root of 9 is 3"
+    },
+    {
+     "sense": 6,
+     "vi": "bậc 1",
+     "en": "1st degree; linear"
+    },
+    {
+     "sense": 6,
+     "vi": "bậc 2",
+     "en": "2nd degree; quadratic"
+    },
+    {
+     "sense": 6,
+     "vi": "bậc 3",
+     "en": "3rd degree; cubic"
+    },
+    {
+     "sense": 7,
+     "vi": "một bậc thánh nhân",
+     "en": "a saint"
+    }
+   ]
+  },
+  {
+   "headword": "đại tướng",
+   "base": "73536f8727561f7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a general"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi, đại tướng Dương Văn Minh, tổng thống chính quyền Sài Gòn, kêu gọi Quân lực Việt Nam Cộng hòa hạ vũ khí đầu hàng không điều kiện Quân Giải phóng miền Nam Việt Nam.",
+     "en": "I, General Duong Van Minh, President of the Saigon Government, call on the Army of the Republic to lay down their weapons and unconditionally surrender to the Liberation Army of South Vietnam."
+    }
+   ]
+  },
+  {
+   "headword": "cưỡi",
+   "base": "53f9e70eec6bc319",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ride (an animal)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sát hại",
+   "base": "47052451fb7ec087",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "euphemistic"
+     ],
+     "gloss": "to murder; to kill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xấu xa",
+   "base": "cfa8d530f33a9e84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad; evil; immoral"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chắc hẳn",
+   "base": "e749cf9763f96cf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "certainly; surely; undoubtedly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồng",
+   "base": "5e1ce917e52e7c93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pink"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "red"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "persimmon (Diospyros kaki)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rose (Rosa)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bông giấy ngũ sắc có 5 màu: đỏ, hồng, cam, trắng, tím; là loài dễ trồng, ít sâu bệnh, chịu hạn tốt, phù hợp với khí hậu nhiệt đới.",
+     "en": "Five-colored bougainvilleas are either red, pink, orange, white, or purple; they are easy to grow, rarely susceptible to pests and diseases, and drought-tolerant, thus fitting for the tropical climate."
+    },
+    {
+     "sense": 1,
+     "vi": "Còn Tuấn Anh khi thấy chiếc xe rực một màu hồng sến sẩm thì méo xệ cả mặt mày.",
+     "en": "And when Tuấn Anh saw the garishly pink bike, his face contorted."
+    },
+    {
+     "sense": 2,
+     "vi": "Trận Stalingrad giữa phát xít Đức và Hồng quân Liên Xô được coi là đẫm máu nhất không chỉ trong Thế chiến 2 mà còn cả trong lịch sử nhân loại.",
+     "en": "The battle of Stalingrad between Nazi Germany and the Soviet Red Army is deemed to be the bloodiest battle in not only the Second World War but also human history."
+    },
+    {
+     "sense": 3,
+     "vi": "Theo ghi nhận của PV, hồng chín có lẽ là một trong những món ăn khoái khẩu của loài dơi. Tại nhiều khu vườn, những trái hồng chín căng mọng đều bị dơi cạp lỗ chỗ.",
+     "en": "As noted by this reporter, ripe persimmons are possibly among bats' favorite foods. In many gardens, ripe, plump, and juicy persimmon fruits are all bitten full of holes by bats."
+    }
+   ]
+  },
+  {
+   "headword": "tình cờ",
+   "base": "7c4720489a0b18b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "by chance; accidental"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sản xuất",
+   "base": "2443e8d4b4eaa7b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "production"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to produce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự tử",
+   "base": "6ba3f4884cc9629b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to commit suicide, to kill oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cụ thể",
+   "base": "d677739ab9050a33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "specific; detailed"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "concrete"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cụ thể là",
+     "en": "specifically; particularly; in particular"
+    }
+   ]
+  },
+  {
+   "headword": "che",
+   "base": "ca79d78f76edcf97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover; to take shelter"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "to hide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mật mã",
+   "base": "a296faffbbf3bb1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "code; cipher"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dễ chịu",
+   "base": "82d012dbc95de062",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pleasant; comfortable; agreeable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghe nói",
+   "base": "d963f8544a657b44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hear it said that; to hear tell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sổ",
+   "base": "138fa3079359130e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "notebook, register book"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slip away, to escape from"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vertical stroke"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "nét sổ ngang",
+     "en": "horizontal stroke"
+    },
+    {
+     "sense": 3,
+     "vi": "nét sổ dọc",
+     "en": "vertical stroke"
+    }
+   ]
+  },
+  {
+   "headword": "đòn",
+   "base": "ec5bfa9cabb500e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lever, carrying pole"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a hit, a blow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đòn đá",
+     "en": "a kick"
+    }
+   ]
+  },
+  {
+   "headword": "liên minh",
+   "base": "82b03d9122606c04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "union, league, alliance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm nhạc",
+   "base": "d6d50326957286de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "music (as a concept)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tốt bụng",
+   "base": "d33de6f8a2961405",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "kind-hearted, good-natured"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thỏ",
+   "base": "b1b6f52f2fb880fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a leporid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung",
+   "base": "4c2f43f441d2b212",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a palace"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sign"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the first note in the classic pentatonic scale."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bow"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arc"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "supply"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cung/nhà văn hoá",
+     "en": "a palace/house of culture; a clubhouse"
+    },
+    {
+     "sense": 2,
+     "vi": "12 cung hoàng đạo",
+     "en": "the 12 zodiac signs"
+    }
+   ]
+  },
+  {
+   "headword": "luyện tập",
+   "base": "395c9a352634af71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to practice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự luyện tập",
+     "en": "practice (noun)"
+    }
+   ]
+  },
+  {
+   "headword": "kết hợp",
+   "base": "d8cf2d3481420c20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to combine, to link up, to coordinate"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "associative"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiên liệu",
+   "base": "02d4a26e39e7050c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fuel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "y như",
+   "base": "450c63c2b0a720f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "just like; exactly like"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "sure enough; used to express that what is about to be said has happened in the same way many times before"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyền rủa",
+   "base": "48ba6ffabcec3b60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to curse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có thai",
+   "base": "770e4cb42067f483",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pregnant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cố ý",
+   "base": "bd14edea97600035",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do (something) intentionally; to do (something) on purpose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tội cố ý làm trái",
+     "en": "the crime of deliberately/knowingly/intentionally contravening (the state's regulations, etc.)"
+    }
+   ]
+  },
+  {
+   "headword": "môn",
+   "base": "b4b448a1bc790c42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subject, discipline"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trật tự",
+   "base": "1b223dd2fd8f04fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order (good arrangement); compare thứ tự (“arrangement, disposition”)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "orderly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trật tự !",
+     "en": "Order! / Silence!"
+    },
+    {
+     "sense": 1,
+     "vi": "giữ vững an ninh trật tự / trật tự trị an",
+     "en": "to maintain law and order"
+    }
+   ]
+  },
+  {
+   "headword": "xài",
+   "base": "6706ec7ab159d872",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "to use"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "to spend (money)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cò",
+   "base": "33aaca50874e829c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stork (large wading bird of the family Ciconiidae)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "egret"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "penis, pee-pee"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "boy"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trigger (finger-operated lever used to fire a gun)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "informal"
+     ],
+     "gloss": "broker (mediator between a buyer and seller), especially a deceptive one, or the money paid for such broker"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "chief of police, head of police, superintendent"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "obsolete"
+     ],
+     "gloss": "police officer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con cò, cò bay lả, lả bay la; bay từ là từ cửa phủ, bay ra là ra cánh đồng.",
+     "en": "The stork flies gracefully from the palace's gate out into the field."
+    },
+    {
+     "sense": 5,
+     "vi": "bóp cò",
+     "en": "to pull the trigger"
+    }
+   ]
+  },
+  {
+   "headword": "cảng",
+   "base": "3d31fd3c959fa08e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "port, harbor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyền thoại",
+   "base": "53d990679bffbd11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "legend"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "epic, saga"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "myth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "báu",
+   "base": "9612bc5b842c51ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "precious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "móng",
+   "base": "88551b2dedbe64bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nail"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "claw, talon or hoof"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foundation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "móng ngựa",
+     "en": "a horse hoof; a horseshoe"
+    },
+    {
+     "sense": 2,
+     "vi": "vành móng ngựa",
+     "en": "a platform with a fence that curves like a horseshoe in a courtroom, where the defendant is supposed to stand"
+    },
+    {
+     "sense": 3,
+     "vi": "nền móng",
+     "en": "(literal) the floor and the foundation; (figurative) a foundation (that upon which anything is founded)"
+    },
+    {
+     "sense": 3,
+     "vi": "cá đớp móng",
+     "en": "fish breaking the water surface to gasp air"
+    }
+   ]
+  },
+  {
+   "headword": "chứng tỏ",
+   "base": "cc2696c3caad88ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prove; to demonstrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm tình",
+   "base": "d2950762221717d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have sex"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm tình với",
+     "en": "to have sex with"
+    }
+   ]
+  },
+  {
+   "headword": "buộc tội",
+   "base": "b5cc89b0312911e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to accuse; incriminate; charge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thợ săn",
+   "base": "f5de9ad4cd51c5a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hunter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tay thờ săn",
+     "en": "a hunter"
+    }
+   ]
+  },
+  {
+   "headword": "ván",
+   "base": "975e7974a3902765",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plank (long, broad and thick piece of timber)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a game"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ván ép",
+     "en": "plywood"
+    },
+    {
+     "sense": 2,
+     "vi": "đánh 2 ván bài/cờ",
+     "en": "to play 2 card games/games of xiangqi/chess"
+    }
+   ]
+  },
+  {
+   "headword": "xác chết",
+   "base": "894ec8240889973f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a corpse; dead body; cadaver; the remains"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ban đầu",
+   "base": "c92054fee7122b1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beginning; the get-go"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "first; initial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Kinh",
+   "base": "cd8367482448cd42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ethnically Vietnamese"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người Kinh",
+     "en": "the ethnically Vietnamese"
+    },
+    {
+     "sense": 1,
+     "vi": "dân tộc Kinh",
+     "en": "the Vietnamese ethnic group"
+    }
+   ]
+  }
+ ]
+}

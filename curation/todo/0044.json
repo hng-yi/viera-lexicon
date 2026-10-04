@@ -1,0 +1,1491 @@
+{
+ "batch": "0044",
+ "entries": [
+  {
+   "headword": "tuyệt vọng",
+   "base": "21f2d2d910275136",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "desperate, hopeless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sẵn lòng",
+   "base": "7ccd0ee0be2c6f6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be willing to; to do something with pleasure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quy tắc",
+   "base": "08ef2d9fbe2c83dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rule (especially a rule of thumb), a code or a principle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kém",
+   "base": "04d56548b859373d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "less; lesser"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad (at doing something)"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "preceding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kém may mắn",
+     "en": "unlucky"
+    },
+    {
+     "sense": 3,
+     "vi": "ba giờ kém mười",
+     "en": "ten to three o'clock-2:50"
+    }
+   ]
+  },
+  {
+   "headword": "thảo luận",
+   "base": "4d384c67b688bede",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discuss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày càng",
+   "base": "6ef3c62a92d5ef63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "more and more (as days go by)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "to lớn",
+   "base": "53026814e5c0b7b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "big and tall; large; great; enormous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trách",
+   "base": "cf33cb8741c018eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reproach; to blame; to reprove"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "earthenware pot; small cooking pot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sự việc",
+   "base": "2dc8939d7f207a01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an intangible thing, such as an affair, a happening or an occurrence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phản ánh sự việc với chính quyền",
+     "en": "to report the incident to the authority"
+    }
+   ]
+  },
+  {
+   "headword": "cân",
+   "base": "c6a3ae2e1b65d20a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weighing instrument; balance, scale, etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "kilogram"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to weigh"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to take on multiple opponents at once and defeat them all"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of balance or equilibrium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cán cân công lí",
+     "en": "the scales of justice"
+    },
+    {
+     "sense": 2,
+     "vi": "cân nặng",
+     "en": "weight"
+    },
+    {
+     "sense": 2,
+     "vi": "nặng cân",
+     "en": "heavy; formidable"
+    },
+    {
+     "sense": 3,
+     "vi": "cân đo đong đếm",
+     "en": "to weigh, measure, put in measuring cups, count; to perform exhaustive measurement"
+    },
+    {
+     "sense": 3,
+     "vi": "cân nhắc",
+     "en": "to weigh one's options"
+    },
+    {
+     "sense": 5,
+     "vi": "tam giác cân",
+     "en": "isosceles triangle"
+    },
+    {
+     "sense": 5,
+     "vi": "cân đối",
+     "en": "in shape and healthy"
+    }
+   ]
+  },
+  {
+   "headword": "lời nói",
+   "base": "da11302510c70dfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "word; speech"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyền",
+   "base": "4b658544992c111e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to wish for; to long for"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to swear; to vow; to promise on oath"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to curse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "bài hát bị nguyền",
+     "en": "a cursed song"
+    },
+    {
+     "sense": 3,
+     "vi": "lời nguyền",
+     "en": "a curse"
+    }
+   ]
+  },
+  {
+   "headword": "lặp",
+   "base": "c49edad84c7ff219",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repeat; to iterate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lặp lại",
+     "en": "to repeat"
+    }
+   ]
+  },
+  {
+   "headword": "cất",
+   "base": "c5919fdd8559b06b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lift, to raise"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to clear; to relocate, to put back"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to distil"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cất tiếng thở dài",
+     "en": "to heave a heavy sigh"
+    },
+    {
+     "sense": 1,
+     "vi": "Máy bay cất cánh lúc 6 giờ.",
+     "en": "The airplane took off at 6 a.m."
+    },
+    {
+     "sense": 2,
+     "vi": "cất sách vô cặp",
+     "en": "to put one's books into a bag"
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi cất mấy cái đĩa sạch.",
+     "en": "I put away some clean dishes."
+    }
+   ]
+  },
+  {
+   "headword": "đấu tranh",
+   "base": "48bd90b5ef4c31ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to struggle; to fight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đấu tranh cho đất nước được độc lập và tự do",
+     "en": "to struggle for the independence and freedom of one's country"
+    },
+    {
+     "sense": 1,
+     "vi": "Hạnh phúc là đấu tranh",
+     "en": "To be happy is to fight (based on Karl Marx's jocular confession)"
+    }
+   ]
+  },
+  {
+   "headword": "cộng",
+   "base": "87e0c1b8be21dd97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to add"
+    },
+    {
+     "position": 2,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "plus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pháp luật",
+   "base": "534e1ba678c43be0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "law"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cộng đồng",
+   "base": "4b58c4ec6451eadd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a community"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "communal; public"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mát",
+   "base": "626f846446415741",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cool"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pleasant, soothing, agreeable, goes down easily"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smoothly ironic"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "a little short of the weight shown on the scale"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "cray-cray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tia",
+   "base": "d28eb6539dbd1dc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a beam or a ray"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a jet"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ray"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tia nắng",
+     "en": "a beam of sunshine"
+    },
+    {
+     "sense": 1,
+     "vi": "(phóng xạ) tia X/Rơn-ghen",
+     "en": "X-/Roentgen ray (radiation)"
+    }
+   ]
+  },
+  {
+   "headword": "râu",
+   "base": "7b0369047eb7da4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beard"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "whiskers"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "barbels"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "antennae"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "silk"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hair of beard, whisker, barbel, antenna, strand of silk"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cạo râu",
+     "en": "to shave one's facial hair"
+    },
+    {
+     "sense": 5,
+     "vi": "râu ngô",
+     "en": "corn silk"
+    }
+   ]
+  },
+  {
+   "headword": "xông",
+   "base": "4a4290df60122a4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to charge, to rush forward"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to soak (in steam or smoke)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gnaw"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "catheter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xông lên!",
+     "en": "Charge!"
+    }
+   ]
+  },
+  {
+   "headword": "trung học",
+   "base": "de5a2a810de5b26a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "secondary education"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sạch sẽ",
+   "base": "81737e96e63551ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clean, tidy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "no",
+   "base": "8c608f277ca00523",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full (of the stomach)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "full; complete"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "saturated"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "saturated"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đang no.",
+     "en": "I'm full."
+    },
+    {
+     "sense": 1,
+     "vi": "No bụng rồi.",
+     "en": "My stomach's full."
+    }
+   ]
+  },
+  {
+   "headword": "giỡn",
+   "base": "4a230ad25a9f47be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to joke, to play"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn trộm",
+   "base": "058d3d63c41765f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to steal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thief"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "K",
+   "base": "d482171129ad7c13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "K (Kelvin)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cancer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoảng cách",
+   "base": "66cb8d1a3d73fe26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "distance, space"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự tin",
+   "base": "3e6bff5d7de641a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be self-confident"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "self-confident; self-assured; self-reliant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự tự tin; lòng tự tin",
+     "en": "self-confidence"
+    }
+   ]
+  },
+  {
+   "headword": "đầu óc",
+   "base": "b9c429e9a2ca6123",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mental capacity"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mind; thought"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đầu óc ngu si, tứ chi phát triển",
+     "en": "strong and healthy but very stupid"
+    },
+    {
+     "sense": 2,
+     "vi": "đầu óc trên mây",
+     "en": "wandering, unfocused mind"
+    }
+   ]
+  },
+  {
+   "headword": "thần linh",
+   "base": "5e51c52f360f5e8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a deity; a god"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chẳng hạn",
+   "base": "1b446afadbcae54e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "for example; for instance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư viện",
+   "base": "e566d6f86ee729c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "library (institution which holds books etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hủy diệt",
+   "base": "a6ff9870bb9b19e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of huỷ diệt."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơ",
+   "base": "62d10af3272f6c5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "young, tender"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "poetry"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a poem"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thơ Đường",
+     "en": "Tang poetry"
+    }
+   ]
+  },
+  {
+   "headword": "cụ",
+   "base": "adf2ba416288b48f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "great grandparent"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, Sir, Madam, Mr, Mrs (when addressing a very old person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ý nghĩ",
+   "base": "5943a76a6d678889",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opinion, idea, thought"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cất cánh",
+   "base": "ea78de33bc3ba75b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take off"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiện",
+   "base": "e8899638795cc1f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bale; parcel; package"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates items for transport, such as luggage, parcels, cargo, etc."
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sue; to bring legal action (against)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tỉnh táo",
+   "base": "1a36325aab378645",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to be alert, watchful, awake, vigilant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhặt",
+   "base": "0459cc206f03748a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick up (usually from the ground)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lừa dối",
+   "base": "70b83631e628674c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deceive; to cheat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe lửa",
+   "base": "c831fdcecda0c881",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "train"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thi thể",
+   "base": "9725801b0104be96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "corpse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngành",
+   "base": "a1edb7c18bd1dae8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an industry, a sector"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a postsecondary major"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a phylum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhấc",
+   "base": "244a501790af9004",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lift; to raise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoang",
+   "base": "8bb8883222949b99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uncultivated; uninhabited; virgin"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wild; feral"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abandoned; deserted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rừng hoang",
+     "en": "untouched forest"
+    },
+    {
+     "sense": 2,
+     "vi": "mèo hoang",
+     "en": "feral cat"
+    },
+    {
+     "sense": 3,
+     "vi": "nhà hoang",
+     "en": "abandoned house"
+    }
+   ]
+  },
+  {
+   "headword": "trước hết",
+   "base": "98fa997d6ca4764f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "firstly; first of all"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng tính",
+   "base": "39ee6fe6575625d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "homosexual; gay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đứt",
+   "base": "6ddba5bb5d56281d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to break off, to be cut off"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cut off"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dây đàn lên căng quá thì sẽ đứt.",
+     "en": "A guitar string would snap if it's under too much tension when tuning."
+    }
+   ]
+  },
+  {
+   "headword": "che giấu",
+   "base": "531e35dcbef57125",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hide; to conceal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vững",
+   "base": "d4290154b9c61957",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "firm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiệt độ",
+   "base": "76274d6e1e267525",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "temperature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lợi ích",
+   "base": "9fdb20ed83d49e60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "benefit; interest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lợi ích sức khoẻ",
+     "en": "health benefits"
+    }
+   ]
+  },
+  {
+   "headword": "đáy",
+   "base": "92a1a1ae373e9b80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the inside bottom of a container, as opposed to a đế which is the outside bottom"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the bottom of a well or a natural body of water such as a lake, river, sea, etc."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a base"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(figurative) đáy lòng",
+     "en": "the bottom of the heart"
+    },
+    {
+     "sense": 2,
+     "vi": "ếch ngồi đáy giếng",
+     "en": "one that's intellectually confined by their limited surroundings"
+    }
+   ]
+  },
+  {
+   "headword": "ruột",
+   "base": "927f92f563188d13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intestine"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inner tube"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "directly biologically related"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "bố ruột",
+     "en": "biological father"
+    }
+   ]
+  },
+  {
+   "headword": "cạo",
+   "base": "b59fb5d3878a74b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scrape"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cạo râu",
+     "en": "to shave your mustache and beard"
+    },
+    {
+     "sense": 2,
+     "vi": "cạo mặt",
+     "en": "to shave all hair on your face, chin and ears, except your lashes and brows"
+    },
+    {
+     "sense": 2,
+     "vi": "cạo đầu",
+     "en": "to shave your scalp"
+    },
+    {
+     "sense": 2,
+     "vi": "cạo lông chân",
+     "en": "to shave your legs"
+    },
+    {
+     "sense": 2,
+     "vi": "Cắt tóc hết 2 chục. Cạo mặt với lấy ráy tai thêm 10 nghìn. Tổng cộng 3 chục.",
+     "en": "Your hair cut is 20,000 dongs. Your face shave and earwax removal are 10,000. 30,000 in total."
+    }
+   ]
+  },
+  {
+   "headword": "triệu chứng",
+   "base": "000c29ef585e9ed8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sign; omen; indication (especially of bad things to come)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a symptom"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "triệu chứng thực thể",
+     "en": "physical signs of disease"
+    },
+    {
+     "sense": 2,
+     "vi": "triệu chứng cơ năng",
+     "en": "functional symptoms"
+    }
+   ]
+  },
+  {
+   "headword": "cài",
+   "base": "03a43b44514d5b0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pin; to fasten"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trâm cài tóc",
+     "en": "a hairpin"
+    }
+   ]
+  },
+  {
+   "headword": "giai đoạn",
+   "base": "cc0bbf18df0f4da0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stage; phase; period"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trải qua những giai đoạn đau khổ",
+     "en": "to go through painful times"
+    }
+   ]
+  },
+  {
+   "headword": "tranh cãi",
+   "base": "471205acb0263a34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to argue; to dispute; to debate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại sứ",
+   "base": "a557feacf587291c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an ambassador"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đại sứ thiện chí",
+     "en": "a goodwill ambassador"
+    }
+   ]
+  },
+  {
+   "headword": "chuỗi",
+   "base": "3a30e08d2c17babd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chain, string, series"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prayer beads, rosary"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a string"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "streak"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "chuỗi trận thắng",
+     "en": "winning streak"
+    }
+   ]
+  },
+  {
+   "headword": "đắt",
+   "base": "bd04a3493169d2d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "expensive; dear; costly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having plenty of business; saleable; marketable"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "apt; well-chosen"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đắt tiền",
+     "en": "expensive; costly"
+    }
+   ]
+  }
+ ]
+}

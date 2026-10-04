@@ -1,0 +1,1554 @@
+{
+ "batch": "0111",
+ "entries": [
+  {
+   "headword": "kiên cố",
+   "base": "dacbdd60fdb829ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solid; sturdy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà cửa kiên cố",
+     "en": "sturdy house"
+    }
+   ]
+  },
+  {
+   "headword": "lằng nhằng",
+   "base": "29bd1b36121389cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "messy; complex"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stubborn; obstinate (in an annoying manner)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lời giải cho bài toán này lằng nhằng quá.",
+     "en": "The solution for this math problem is really messy."
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi bảo năm mươi ngàn là năm mươi ngàn. Sao cậu cứ lằng nhằng thế nhỉ?",
+     "en": "I said fifty dongs are fifty dongs. Why are you so stubborn?"
+    }
+   ]
+  },
+  {
+   "headword": "cương quyết",
+   "base": "4c28303b057c4aba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "firm; resolute; determined; resolved"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nọc độc",
+   "base": "14f12f5a5318acf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "venom; poison"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình tiết",
+   "base": "79c8be2db9ada340",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "detail(s); circumstances"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghẹo",
+   "base": "38effe21ea7af5e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tease; to provoke; to poke fun at"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lập trường",
+   "base": "70749d61bebf9a42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stance (opinion or point of view)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giữ vững lập trường",
+     "en": "to take a firm stance"
+    },
+    {
+     "sense": 1,
+     "vi": "không có lập trường",
+     "en": "to sit on the fence"
+    }
+   ]
+  },
+  {
+   "headword": "tối ngày",
+   "base": "2a9743495fe5b50f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "all night and all day"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "all the time; habitually"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tối ngày làm lụng.",
+     "en": "Working all night and day."
+    },
+    {
+     "sense": 2,
+     "vi": "Tối ngày đi nhậu.",
+     "en": "Go drinking all the time."
+    }
+   ]
+  },
+  {
+   "headword": "khó dễ",
+   "base": "13d53721c9535351",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deliberately-caused difficulties or obstacles for others."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gây khó dễ",
+     "en": "to cause difficulty"
+    },
+    {
+     "sense": 1,
+     "vi": "làm khó dễ",
+     "en": "to cause difficulty"
+    }
+   ]
+  },
+  {
+   "headword": "vận tải",
+   "base": "d092487461f07ffb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transport"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ chốt",
+   "base": "c7aa3c9f496733a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "paramount; key; principal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Loài chủ chốt",
+     "en": "Keystone Species (paramount species)"
+    }
+   ]
+  },
+  {
+   "headword": "cho hay",
+   "base": "708385c0d9eb24cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell the news; to inform; to notify"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "that shows that; as a result; in conclusion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chè",
+   "base": "a8355bf84b3a4189",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "tea (plant and drink)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a thick, sweet dessert soup or pudding, often made with glutinous rice and/or beans"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lễ phục",
+   "base": "be0b9a49f6103a0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "formalwear; full dress; ceremonial dress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cán cân",
+   "base": "e208183dc0f72412",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "often"
+     ],
+     "gloss": "scale beam; balance, parity, equilibrium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cán cân thương mại",
+     "en": "The Balance (of) Trade"
+    },
+    {
+     "sense": 1,
+     "vi": "Cán cân tài trợ chính thức",
+     "en": "The Official Funding Balance"
+    }
+   ]
+  },
+  {
+   "headword": "hèn chi",
+   "base": "c5c632533cb8301f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "no wonder; of course; it figures"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu lệnh",
+   "base": "229e9809059a1f6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order; command; directive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ruộng",
+   "base": "7e1cce3a0cd3fd45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field (an area of open land used for growing crops)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ruộng lúa",
+     "en": "a rice paddy"
+    },
+    {
+     "sense": 1,
+     "vi": "ruộng ngô",
+     "en": "a corn field"
+    }
+   ]
+  },
+  {
+   "headword": "xô đẩy",
+   "base": "a17a608204aab376",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to push; to shove"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hậu trường",
+   "base": "43541b4f0742f270",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "literally"
+     ],
+     "gloss": "backstage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thảm khốc",
+   "base": "d7d1a401a6fb2252",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tragic; catastrophic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gia cố",
+   "base": "615d98be390d40d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reinforce; to consolidate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dang dở",
+   "base": "31ab8c91dd450022",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unfinished; uncompleted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nỏ",
+   "base": "38ecc918a92c232b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crossbow"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "not"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tau nỏ biết.",
+     "en": "I don't know."
+    }
+   ]
+  },
+  {
+   "headword": "trụ cột",
+   "base": "d7ad0a77ffb54204",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "backbone, cornerstone, pillar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối ngoại",
+   "base": "616169a99599b00f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deal with foreign countries; (attributive) foreign"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi phiếu",
+   "base": "6e5ba4aeb7f18049",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cheque"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tơi bời",
+   "base": "f63ecfd1246c50cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in tatters; raggedly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vại",
+   "base": "3b87c34dd1d67637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of earthenware jar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lạ lẫm",
+   "base": "ef82e1835543004e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "strange; foreign; unknown"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khốc liệt",
+   "base": "2b8b2fe6687ee510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "violent; fierce; ruthless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạ lệnh",
+   "base": "ebd85bfc67896f90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to order; to command"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng bệnh",
+   "base": "9ae44409fc137a35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disease; illness (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy sấy",
+   "base": "6d5ecba379173cf2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a drying appliance, esp. a clothes dryer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội tâm",
+   "base": "52ecc453b9b3f368",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inner feelings; what is in one's heart of hearts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sống nội tâm",
+     "en": "to be introverted"
+    }
+   ]
+  },
+  {
+   "headword": "Bắc Hàn",
+   "base": "cbc06062feba814b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "North Korea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hờ",
+   "base": "a5a2758f1a0a6f27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to mourn"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "incompletely; not throughout"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "with no substance; without actual relationship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hờ chồng",
+     "en": "to mourn the death of one's husband"
+    },
+    {
+     "sense": 2,
+     "vi": "che hờ",
+     "en": "left cover incompletely"
+    },
+    {
+     "sense": 2,
+     "vi": "buộc hờ",
+     "en": "tied not very tightly"
+    },
+    {
+     "sense": 3,
+     "vi": "vợ chồng hờ",
+     "en": "a legally married couple who has no real conjugal relationship with each other and mostly uses their legal relationship as a front to society"
+    }
+   ]
+  },
+  {
+   "headword": "luẩn quẩn",
+   "base": "82727a0873110558",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dangle about; to hover about; to hang around"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hốc",
+   "base": "036aefdb0ca0d909",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "creephole, hole"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "niche"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "derogatory"
+     ],
+     "gloss": "to gobble, to gorge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "hốc tường",
+     "en": "niche in a wall"
+    }
+   ]
+  },
+  {
+   "headword": "chuyên khoa",
+   "base": "04e7d95794367054",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specialty (usually in medicine)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên đoàn",
+   "base": "b0ee7ab6e72854ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "all the chi đoàn of a school; the captain is called liên đoàn trưởng"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a union"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "liên đoàn lao động",
+     "en": "a confederation of labor"
+    },
+    {
+     "sense": 2,
+     "vi": "Liên đoàn Bóng đá Việt Nam",
+     "en": "the Vietnam Football Federation"
+    },
+    {
+     "sense": 2,
+     "vi": "Liên đoàn A-rập / Liên đoàn Ả Rập",
+     "en": "the Arab League"
+    }
+   ]
+  },
+  {
+   "headword": "thể lực",
+   "base": "38caa3e704b2ce01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "physical fitness; physical strength"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhà xí",
+   "base": "7e4e7242ec2bd8c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "toilet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mới rồi Bao thị nương tử ra ngoài rửa tay, mình cũng vào nhà xí một lúc, trước sau không đầy thời gian tàn một nén hương, tại sao đã có người vào phòng ra tay?",
+     "en": "Lady Bāo just went outside to wash her hands, I also went to the toilet for a moment, altogether less long than to burn an incense stick; how could anyone have come into the room and do this?"
+    }
+   ]
+  },
+  {
+   "headword": "lồn",
+   "base": "244526ad7a87345e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cunt, pussy, vulva, vagina"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "cunty, the fuck"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ơ, cái thằng lồn này?",
+     "en": "Uh, you cunt here?"
+    },
+    {
+     "sense": 2,
+     "vi": "Ơ, cái con lồn này?",
+     "en": "Uh, you cunt here?"
+    },
+    {
+     "sense": 2,
+     "vi": "Cái lồn gì thế?",
+     "en": "[What] the fuck is that?"
+    }
+   ]
+  },
+  {
+   "headword": "tái lập",
+   "base": "28644221c3528138",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to restore; to reestablish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nóng vội",
+   "base": "35da6711a3c5e694",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hasty; impatient; rash"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùn",
+   "base": "c71dfbece00b727e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recoil; to shrink back; to flinch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hesitate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ế",
+   "base": "347ae01d8ba3f080",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unmarketable; unsalable; unable to find customers; sluggish"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "past the usual age for marriage but still unmarried or single; on the shelf"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ế chồng",
+     "en": "(of a woman) to be on the shelf"
+    },
+    {
+     "sense": 2,
+     "vi": "Nhiều bạn trẻ thường rỉ tai nhau rằng muốn nhanh thoát ế, thì cứ siêng đi đám cưới, tiệc tùng vào.",
+     "en": "Many young people often tell each other that the way to quickly say goodbye to singledom is to keep going to weddings and parties."
+    }
+   ]
+  },
+  {
+   "headword": "dưỡng lão",
+   "base": "264656eb5849f010",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to support and take care of the elderly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà dưỡng lão",
+     "en": "a nursing home"
+    }
+   ]
+  },
+  {
+   "headword": "cừ khôi",
+   "base": "5bc758dc3d078d64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "outstanding; extremely talented; excellent (capable of achieving great feats)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cầu thủ cừ khôi",
+     "en": "an outstanding/talented footballer"
+    }
+   ]
+  },
+  {
+   "headword": "dữ tợn",
+   "base": "8691536b48221dcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cruel; brutal; ferocious; fierce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biên lai",
+   "base": "b7cbe892333bee6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a receipt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nảy sinh",
+   "base": "1fb74150c05d160b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to develop; to arise; to emerge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dùi",
+   "base": "a582bce8895e5f4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "long stick"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "awl"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drumstick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tương xứng",
+   "base": "e0ae4aa16a9065ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "matching; corresponding; adequate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "doanh thu",
+   "base": "0e14ced82d519df8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earnings"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "doanh thu thuế",
+     "en": "tax revenue"
+    },
+    {
+     "sense": 1,
+     "vi": "doanh thu bán hàng",
+     "en": "sales revenues"
+    }
+   ]
+  },
+  {
+   "headword": "nhím",
+   "base": "1ed568a20f433e66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "porcupine"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "hedgehog (animal)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lông nhím",
+     "en": "porcupines' quills"
+    }
+   ]
+  },
+  {
+   "headword": "khứa",
+   "base": "e11e61bc25802fd0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to cut little by little; to saw off"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "cut; slice; piece from cutting"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "sawtooth"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "archaic"
+     ],
+     "gloss": "moderate; fair; average"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "archaic"
+     ],
+     "gloss": "a lot of; much; considerable"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "Central",
+      "Southern",
+      "derogatory"
+     ],
+     "gloss": "he; that bloke"
+    },
+    {
+     "position": 7,
+     "pos": "pron",
+     "tags": [
+      "Central",
+      "Southern",
+      "derogatory",
+      "humorous",
+      "slang"
+     ],
+     "gloss": "a person"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "guests"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 7,
+     "vi": "Khứa nào lấy mũ của tao rồi?",
+     "en": "Who stole my hat?"
+    }
+   ]
+  },
+  {
+   "headword": "thúc ép",
+   "base": "23bfdbdc894a7cf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to force; to compel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nằm vùng",
+   "base": "91fc7c8f955e9df6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work undercover (for a clandestine intelligence operation)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gian nan",
+   "base": "3b33f10ea5ec0f61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miserably hard; difficult; tough"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tỉ số",
+   "base": "564b72069b436d01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the score between two opponents or opposing teams"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khẽ",
+   "base": "a0894d006f1dac50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gentle; soft"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in a reserved, gentle manner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ghé vào tai nói rất khẽ.",
+     "en": "Come up to my ear and whisper to me."
+    }
+   ]
+  },
+  {
+   "headword": "trườn",
+   "base": "f16aa2234d9397be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to crawl (by the underside)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ủy nhiệm",
+   "base": "2c75265dbf001827",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of uỷ nhiệm."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trồi",
+   "base": "da5ee566fff79159",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to emerge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hằn",
+   "base": "68bd299e73aa8d47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave a mark or trace"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line; mark"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "hatred"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lằn bánh xe hằn xuống con đường đất",
+     "en": "the car wheels left its marks on the dirt road"
+    }
+   ]
+  },
+  {
+   "headword": "an sinh",
+   "base": "b8b1905cc67019c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "welfare"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "an sinh xã hội",
+     "en": "social welfare"
+    }
+   ]
+  },
+  {
+   "headword": "thuần chủng",
+   "base": "23e4111562c2f1e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "purebred"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội tụ",
+   "base": "7e6aad28c3622c73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to converge"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "convergent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tiến hoá hội tụ",
+     "en": "convergent evolution"
+    }
+   ]
+  },
+  {
+   "headword": "hết thảy",
+   "base": "5cf77164a0702b17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "each and every; all"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hết thảy lòng thành",
+     "en": "with all one's heart"
+    }
+   ]
+  },
+  {
+   "headword": "tha hồ",
+   "base": "60a0b2ec18dfdcf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "at will; to one's satisfaction; to get one's fill; to (do something) to one's heart's content"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sông rộng tha hồ bơi.",
+     "en": "The river is so wide, perfect for swimming."
+    },
+    {
+     "sense": 1,
+     "vi": "Xích lô thì thưa chị chị chỉ mất có 5 đồng thôi, một ngày, tha hồ chị muốn đi đâu thì đi.",
+     "en": "For a pedicab you only have to pay 5 dong a day and you can go wherever you want to your heart's content."
+    }
+   ]
+  },
+  {
+   "headword": "ách",
+   "base": "e99246d7aac496ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yoke (frame at animals' neck)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a heavy disaster or misfortune that one must bear"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to stop, get stalled, or fail to continue"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to stop, block, or force to halt"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stuffed, with a sense of discomfort or irritation"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "the position of deputy manager, a lower-ranking officer during the French colonial period"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ách giữa đàng, quàng vào cổ",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "kinh đô",
+   "base": "6ab6735e09a5a570",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a feudal capital city"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dữ dằn",
+   "base": "d1c8d83afc7cd7ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fierce, ferocious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dung dịch",
+   "base": "fb0a31b1b4926420",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "solution (homogenous mixture)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghẽn",
+   "base": "f9d95d5b5cfd73c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to block; to be blocked; to be obstructed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhói",
+   "base": "1fb2c90d6945f7ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stinging pain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhạc cụ",
+   "base": "9c5bebae4b200657",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "musical instrument"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xác suất",
+   "base": "2bc8a9ec25b71d0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "probability"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

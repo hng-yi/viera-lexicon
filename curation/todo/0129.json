@@ -1,0 +1,1495 @@
+{
+ "batch": "0129",
+ "entries": [
+  {
+   "headword": "thường nhật",
+   "base": "87783b9b95f0f277",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "everyday"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuộc sống/hoạt động thường nhật",
+     "en": "everyday life/activities"
+    }
+   ]
+  },
+  {
+   "headword": "thư điện tử",
+   "base": "eb9c0b94af0b21a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "email"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông dịch viên",
+   "base": "748d041fdaddebfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "interpreter"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "translator"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chõ",
+   "base": "31db24d90b604ee8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a steam boiler (often for sticky rice); steamer"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to face; to turn toward; to direct (one's mouth) to"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "disapproving",
+      "figuratively"
+     ],
+     "gloss": "to butt in; to meddle; to poke one's nose into"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyên đề",
+   "base": "c122b474584640f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specialised topic (being the subject of a study or discussion)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chuyên đề giáo dục giới tính.",
+     "en": "Sex education specialized subject"
+    }
+   ]
+  },
+  {
+   "headword": "trường thành",
+   "base": "ab3f11c28546d05e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a long, sturdy wall"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xệ",
+   "base": "23fbfbd16ea9873c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "saggy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dở dang",
+   "base": "00e7d6daee1d5bbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unfinished; half-done"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổng kết",
+   "base": "b657c7f4bd7090bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "summary"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to summarize; to sum up; to recapitulate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khuôn khổ",
+   "base": "671ae3b39f79db1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shape and size"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "framework; scope"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vượt quá khuôn khổ của cái gì",
+     "en": "to go beyond the scope/framework of something"
+    }
+   ]
+  },
+  {
+   "headword": "la cà",
+   "base": "e88e036036f572eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to waste time; to loiter; to linger; to dawdle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rống",
+   "base": "d6059fc0fca7bca5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phản diện",
+   "base": "6bd10267bbe92c6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a literary antagonist or villain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vai phản diện",
+     "en": "a bad-guy role"
+    },
+    {
+     "sense": 1,
+     "vi": "nhân vật phản diện",
+     "en": "an antagonist"
+    },
+    {
+     "sense": 1,
+     "vi": "ông là nhân vật phản diện trong câu chuyện",
+     "en": "he is the villain in the story"
+    }
+   ]
+  },
+  {
+   "headword": "lưu lạc",
+   "base": "41de248b92a911a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wander about"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khổ sai",
+   "base": "e1a329fe81b50a5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of hard labor"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "án khổ sai",
+     "en": "a sentence of penal servitude"
+    }
+   ]
+  },
+  {
+   "headword": "Phục Hưng",
+   "base": "e8e80b6aed291a59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of the Renaissance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thời (kì) Phục Hưng",
+     "en": "the Renaissance"
+    },
+    {
+     "sense": 1,
+     "vi": "văn hoá (thời) Phục Hưng",
+     "en": "Renaissance culture"
+    }
+   ]
+  },
+  {
+   "headword": "phục hưng",
+   "base": "843fb30d4a53500d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to restore to former prosperity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phục hưng không phải là phục cổ, hay \"sao y bản cũ\", mà là \"ôn cố tri tân\" nghĩa là truy cứu những kiến văn, học thuật thời xưa và do đó suy ra những kiến thức mới hợp khoa học, làm sáng tỏ những giá-trị tinh-thần truyền thống.",
+     "en": "A revival is not a retread, nor a carbon copy, of the past, but a \"look at the past to know the present\", that is to say, one should look at the words and researches of the old, and use it to bring forth new scientific knowledge, as well as give light to traditional values."
+    }
+   ]
+  },
+  {
+   "headword": "phát cuồng",
+   "base": "45f7a1f4021b7866",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go mad"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hóc",
+   "base": "bda49bf0718f4d7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to choke on food (especially bones)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "choked; jammed; stuck; immobilized"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trách móc",
+   "base": "eae94c5c886f7f8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reproach; to lay the blame"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lam",
+   "base": "4cc6b7cec973381e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "blue"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "louvers, blinds, shutters"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mì Ý",
+   "base": "c3d1650763151d6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spaghetti"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên đơn",
+   "base": "ce6c33a431d68501",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plaintiff"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùng",
+   "base": "c5caa3f8232cf0a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "baggy; slack; relaxed; loose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồi hương",
+   "base": "bced83fd1e95ee11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary",
+      "often"
+     ],
+     "gloss": "to return to one's hometown or country"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biểu thị",
+   "base": "a9b1606069851f06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to indicate; signify; display"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quan ngại",
+   "base": "7b6e5a6f092d2be4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "bureaucratese",
+      "often"
+     ],
+     "gloss": "to become concerned (about)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa phận",
+   "base": "5c47e719a315c00e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "locality; region; area"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bước đường",
+   "base": "a687607ada0753ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stage; circumstance; situation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ thập",
+   "base": "e0891c9a58cc52ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Chinese character 十 (shí, “ten”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cross (geometrical figure)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chữ thập đỏ",
+     "en": "the Red Cross"
+    }
+   ]
+  },
+  {
+   "headword": "làm đẹp",
+   "base": "806f1ff8c50ab24b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vivify; to enrich"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lấy thơ ca làm đẹp cho đời",
+     "en": "to make use of literature to enhance human's life"
+    }
+   ]
+  },
+  {
+   "headword": "hát ru",
+   "base": "87543fbce8487195",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lullaby"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "viễn thông",
+   "base": "02eb9d7aa4b6f73c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "telecommunication"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rựa",
+   "base": "2183e165b45b79af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of bush knife"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phượng hoàng",
+   "base": "ea8f8e2271bd69a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "a fenghuang"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a phoenix"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hội Phượng Hoàng",
+     "en": "The Order of the Phoenix"
+    }
+   ]
+  },
+  {
+   "headword": "thô thiển",
+   "base": "886b92a759a69875",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "disapproving"
+     ],
+     "gloss": "crude; vulgar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ăn nói thô thiển",
+     "en": "to use vulgar language"
+    }
+   ]
+  },
+  {
+   "headword": "khoa học gia",
+   "base": "cea07da4e8e90626",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scientist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nằng nặc",
+   "base": "2b65907261e636fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "insistently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó cứ nằng nặc đòi về.",
+     "en": "He insistently nagged me to go home."
+    }
+   ]
+  },
+  {
+   "headword": "dậm",
+   "base": "a0e40697d5bc7811",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fishing tool"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thị tộc",
+   "base": "02ecb994279f587d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quặng",
+   "base": "8d6cbc8caefcd2ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rỗi",
+   "base": "42b5a35f5118af66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remain unoccupied"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to salvage"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "already (intensifier used to emphasize impatience or express exasperation)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cứu rỗi linh hồn",
+     "en": "to save the soul"
+    },
+    {
+     "sense": 3,
+     "vi": "Đi rỗi!",
+     "en": "Let's go already!"
+    },
+    {
+     "sense": 3,
+     "vi": "Ngủ rỗi.",
+     "en": "Go to sleep already."
+    }
+   ]
+  },
+  {
+   "headword": "úng",
+   "base": "2c834f5eac1e5630",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rotten due to water"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "waterlogged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo Hồi",
+   "base": "0be8f0f125a4a747",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "synonym of Hồi giáo (“Islam”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều dưỡng",
+   "base": "b6c1dcd5549256ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nursing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính kiến",
+   "base": "362b75c6f8a9e38a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political view; political opinion"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "personal view; opinion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bất đồng chính kiến",
+     "en": "Dissent; different political views"
+    }
+   ]
+  },
+  {
+   "headword": "mắt kính",
+   "base": "80c8aca5b69635ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spectacle lenses; glasses; eyeglasses"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trụ trì",
+   "base": "1d4bdb6611686152",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "head monk of a Buddhist temple"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nài",
+   "base": "5c3bbcafe93dc546",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "usually"
+     ],
+     "gloss": "to beg"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "how"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "what can be done"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mahout"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "horsekeeper"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of rope that people tight to their feet in order to climb palm trees"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảm tính",
+   "base": "32cd8f157fd70037",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sensibility; perception (especially about the future)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "feeling; liking; personal impulse"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sentience"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cảm tính mách bảo rằng không nên tin nó.",
+     "en": "My sense told me we shouldn't trust him."
+    },
+    {
+     "sense": 2,
+     "vi": "Cảm tính thôi, ai biết được.",
+     "en": "Dunno man, I just feel like it."
+    }
+   ]
+  },
+  {
+   "headword": "cối xay",
+   "base": "78a733722d1d0ef3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mill"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a windmill; seesaw (a kind of move)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Indian abutilon, Indian mallow (Abutilon indicum)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cối xay thóc",
+     "en": "Unhusked Rice Mill"
+    }
+   ]
+  },
+  {
+   "headword": "rậm rạp",
+   "base": "81c3dc59c6bdf094",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "often"
+     ],
+     "gloss": "dense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "song hành",
+   "base": "94b471b8f733da73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to walk side by side; to be parallel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công cốc",
+   "base": "dfa3221ef34470de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic",
+      "informal"
+     ],
+     "gloss": "something that one has put a lot of effort into but yields no real result"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính tả",
+   "base": "3f4d364a3cd95009",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orthography"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dictation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thì thào",
+   "base": "e67bb0a675b1330e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whisper, to say in a very low voice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hắn còn thì thào mấy câu gì nữa, nhưng tôi không nghe được.",
+     "en": "He whispered several more sentences, but I couldn't hear him."
+    }
+   ]
+  },
+  {
+   "headword": "đánh số",
+   "base": "512b99ff8082cc23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enumerate; to number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dưỡng khí",
+   "base": "1f5b5b46be1dd75a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "oxygen (molecular oxygen)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cốt truyện",
+   "base": "6f839219a58355ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plot, storyline"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạo",
+   "base": "e7018bc552fe8c39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "hat; cap; helmet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "duyên hải",
+   "base": "0194d0fef51b256f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of coastal areas"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chướng",
+   "base": "746696a18ddf5a3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unsightly; ugly; distasteful (especially in appearance)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to obstruct"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "miasma; toxic wind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đường nét",
+   "base": "91737081c9e9d080",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lines (generally speaking); outline; contour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ráy",
+   "base": "d27242cee58e10a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "(con~) eardrum, earhole"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earwax"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "giant taro (Alocasia macrorrhizos)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "other similar plants of the family Araceae"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "– Ừa, nghe khoái con ráy rồi, mai mốt dẫn tụi tao đi coi chân cẳng họ nghe, mầy!",
+     "en": "– Ye, hearing it was a pleasure to our ear[hole]s, someday you need to take us go and watch those legs [of the soccer players] in action!"
+    }
+   ]
+  },
+  {
+   "headword": "truyền kiếp",
+   "base": "d862e9f09d8141a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "disapproving",
+      "usually"
+     ],
+     "gloss": "as old as the hills, with extensive continuity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đối thủ truyền kiếp này chả biết sao đấu lại đây.",
+     "en": "We just don't know how to deal with these enemies of old and long hatred."
+    }
+   ]
+  },
+  {
+   "headword": "thiển cận",
+   "base": "fc2c220b37d5b915",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "shallow; superficial"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short-sighted; impulsive; improvident"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tâm tình",
+   "base": "702ba5e772ac3471",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "personal feelings"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express one's personal feelings"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người Mông Cổ biểu lộ tâm tình phần nhiều là dùng lời ca tiếng hát.",
+     "en": "The Mongols express their feelings mostly through song."
+    }
+   ]
+  },
+  {
+   "headword": "thuyết giảng",
+   "base": "8ddb96d52f13040e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to preach, to lecture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sủi",
+   "base": "093bb7fff689596a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bubble (to produce bubbles, to rise up in bubbles)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "to leave; to bail out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mới làm được hai ngày ở công ty ấy là tao đã sủi rồi.",
+     "en": "I bailed out after working for only two days at that company."
+    }
+   ]
+  },
+  {
+   "headword": "âm vật",
+   "base": "11c281d626a7a05a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a clitoris"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dược sĩ",
+   "base": "d2e57e2b03342526",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pharmacist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái giám",
+   "base": "389636d92360da20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an imperial eunuch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khí tượng",
+   "base": "63b0d2aa302b1b4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meteorological phenomena"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đơn phương",
+   "base": "400e2e11488c344e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "one-sided; unrequited"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "unilateral"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "one-sidedly; unrequitedly"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "unilaterally"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "đơn phương chấm dứt hợp đồng",
+     "en": "to unilaterally terminate the contract"
+    }
+   ]
+  },
+  {
+   "headword": "cỗi",
+   "base": "99aa5de94ce4b69b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "synonym of cội"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stunted by old age"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm bộ",
+   "base": "b9b4e8aba008cb9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to feign; to pretend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trữ",
+   "base": "33ff7df1ec237b89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "store (up)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ áo",
+   "base": "141950092f121428",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "collar (of a shirt, dress, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khuyên tai",
+   "base": "b816a1a7cadab99b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earrings; ear jewelry"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tổng hợp những mẫu khuyên tai đẹp.",
+     "en": "Collection of beautiful earring designs."
+    }
+   ]
+  },
+  {
+   "headword": "giấc mơ",
+   "base": "42da636d92798c4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dream"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

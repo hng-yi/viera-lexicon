@@ -1,0 +1,1441 @@
+{
+ "batch": "0110",
+ "entries": [
+  {
+   "headword": "cảm ứng",
+   "base": "4d91e8915e5c2127",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "response (to an external stimulant); reaction"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "responsive, reactive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "điện thoại cảm ứng",
+     "en": "a touchphone"
+    }
+   ]
+  },
+  {
+   "headword": "địa chấn",
+   "base": "64422eae967fb902",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earthquake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ốc sên",
+   "base": "738151c65ee4e148",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land snail"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biệt động",
+   "base": "7f70edd3eeff426b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "special operations"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "á thần",
+   "base": "fa25ee5231b421ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "synonym of bán thần (“a demigod”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hồ sơ á thần",
+     "en": "The Demigod Files"
+    }
+   ]
+  },
+  {
+   "headword": "xa lánh",
+   "base": "e8d2ebf8cc519b34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stay away from; to alienate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầu mong",
+   "base": "e0cc3d96473715b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wish; to pray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tân",
+   "base": "5c8ab3c4c6d15305",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "new"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "virgin"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "used in the titles of modern serialized East Asian works of fiction to mean \"this series is a reboot/remake/reimagining, or it tells a brand new story arc\""
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "gái tân",
+     "en": "a virgin girl or woman"
+    },
+    {
+     "sense": 2,
+     "vi": "trai tân",
+     "en": "a virgin boy or man"
+    },
+    {
+     "sense": 3,
+     "vi": "Tân Dòng sông ly biệt",
+     "en": "Romance in the Rain"
+    },
+    {
+     "sense": 3,
+     "vi": "Tân Thiết quyền tiểu tử",
+     "en": "New Ironfist Chinmi"
+    }
+   ]
+  },
+  {
+   "headword": "buồi",
+   "base": "066e727fdb2431c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "dick; cock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thám thính",
+   "base": "c7f6eee4e390bfb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to snoop around, to scout to assess the situation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì dị",
+   "base": "0333832e96ba94fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strange; odd; weird; bizarre"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các tảng đá vôi trong hang động tại chùa Hương Tích bị nước xói mòn tạo thành những hình thù kỳ dị.",
+     "en": "The limestone rocks in the cave at the Huong Tich Temple have been eroded by water into bizarre formations."
+    },
+    {
+     "sense": 1,
+     "vi": "‘Theo lệ thường[,] […] sự việc càng kì dị thì lại càng ít bí ẩn.[…]",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "đài truyền hình",
+   "base": "26caaf35b8184e23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "television station; television network"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đài Truyền hình Việt Nam",
+     "en": "Vietnam Television or with the same name as Vietnam Television Network"
+    }
+   ]
+  },
+  {
+   "headword": "đèn lồng",
+   "base": "7a289a4bf6ccc6f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of lồng đèn (“lantern”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đèn lồng đỏ treo cao cao",
+     "en": "Raise High the Red Lantern (a film by Zhang Yimou)."
+    }
+   ]
+  },
+  {
+   "headword": "ngờ vực",
+   "base": "13046c925eec6ccb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to doubt; to suspect; to be suspicious (of)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "doubtful; skeptical; suspicious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hâm nóng",
+   "base": "8bc299c465dcbc67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "literally"
+     ],
+     "gloss": "to reheat; to warm up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quay cuồng",
+   "base": "985d9f8c0bc37f43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whirl; to spin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tham mưu trưởng",
+   "base": "49af6c32ec958ff7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chief of staff"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cặc",
+   "base": "f3b94c976e5ebe01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cock, prick, dick"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "indefinite"
+     ],
+     "gloss": "nothing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cho mày cái con cặc nè!",
+     "en": "I'll give you no fucking thing!"
+    }
+   ]
+  },
+  {
+   "headword": "quý phái",
+   "base": "0dfbb6a68bdd0eed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "noble"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "classy; elegant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nàng biết rằng trong những gia đình quý phái, bao giờ người ta cũng cúng lễ tiên thường trước một ngày như thế.",
+     "en": "The woman recognized that it should be one day before the occasion that such families of noble descent would do their ancestral worshipping."
+    },
+    {
+     "sense": 2,
+     "vi": "giọng ca quý phái",
+     "en": "having a classy singing voice"
+    }
+   ]
+  },
+  {
+   "headword": "cấu tạo",
+   "base": "5631a0854bdc9615",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "composition, structure"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compose, to construct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhồi nhét",
+   "base": "42273abed60ae828",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cram; to fill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự tiện",
+   "base": "d06d3c3ddb81907f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "as one pleases"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đừng có chưa xin phép mà tự tiện lấy.",
+     "en": "Just because you feel like it doesn't mean you can just take it without asking for permission."
+    }
+   ]
+  },
+  {
+   "headword": "dàn nhạc",
+   "base": "697b3c8e6bd2c7b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orchestra"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buồn phiền",
+   "base": "990d2ba6e27419fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sad and worried; distressed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "minh bạch",
+   "base": "f964e0eac94f852d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "clear; explicit; evident"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sóng âm",
+   "base": "dd4f11d679daa585",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sound wave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổi đời",
+   "base": "02bf364712f9c3d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move forward"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người ta thủ vàng để có cơ may đổi đời ấy mà.",
+     "en": "Those who store a number of gold are just giving themselves a chance to move forward."
+    }
+   ]
+  },
+  {
+   "headword": "nhân quả",
+   "base": "9ec72544ecc2fcf1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the principle of karmic cause and effect regarding human conduct: a specific act or deed (nhân) shall return a justly positive or negative repercussion (quả)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phần cứng",
+   "base": "863b4d3f7481d523",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hardware"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "náo loạn",
+   "base": "4bcc94dcef4c8a95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a riot; rampage; disturbance"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to riot; to rampage; to revolt"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chaotic; turbulent; riotous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sọt",
+   "base": "8ab286c6aa14b0b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basket"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cylindrical crate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiêu chảy",
+   "base": "367c3a24de26122f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have diarrhoea"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bị tiêu chảy",
+     "en": "to suffer from diarrhoea"
+    }
+   ]
+  },
+  {
+   "headword": "trạm xá",
+   "base": "b013fd96896d8b73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "local infirmary, cottage hospital"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ông cha",
+   "base": "c8d4a4fa53a1c145",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ancestors; forefathers; forebears"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giao phó",
+   "base": "b3577596cbf6d3c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to entrust; to hand over (an important task with confidence)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trưng dụng",
+   "base": "51aba66c5432427f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to requisition; to expropriate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đất của công ty chế biến thực phẩm sắp được chính phủ trưng dụng rồi,[…]",
+     "en": "The government is about to expropriate the food processing company's lands; […]"
+    }
+   ]
+  },
+  {
+   "headword": "đỉa",
+   "base": "aa99ffa662616eaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a leech (annelid)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biểu lộ",
+   "base": "861a029eeabcc1b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express; reveal; signal (emotions)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo dưỡng",
+   "base": "84f5088046c6da21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to maintain; to keep (vehicle, machine, etc.) in good repair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trụy lạc",
+   "base": "d4f939ebae558c3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of truỵ lạc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vế",
+   "base": "c3eea4793678913a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the calf (back of the leg below the knee)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a side (in the context of two or more sides)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "role"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ào",
+   "base": "a855a92df0f71ba1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "impetuously"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rush"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhỏ nhắn",
+   "base": "bbf6b5a873caacb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tiny; petite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiền tệ",
+   "base": "55c3449ba91ae6b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "currency"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tái thiết",
+   "base": "0e7c01988991cd82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rebuild; to reconstruct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tố chất",
+   "base": "5166107048f2c7c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inner quality, character, nature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dị",
+   "base": "78ea7a6fa91bd89c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "weird, strange, unusual"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "embarrassed, shy, bashful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "am",
+   "base": "6f3b40d88f6160da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small Buddhist temple, small pagoda"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hermitage, secluded hut, cottage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu suất",
+   "base": "d3269d631024a0d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "efficiency; effectiveness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buông tha",
+   "base": "5812860bd15f679b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let go; release; disengage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tẩn",
+   "base": "8267f83a253831de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to beat, to hit, to pound"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tẩn cho nó một trận!",
+     "en": "Let's beat the shit out of him!"
+    }
+   ]
+  },
+  {
+   "headword": "dâu tây",
+   "base": "53c90d311e6442f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strawberry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên sứ",
+   "base": "79783a04e8064ce8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of thiên thần (“angel”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhưng thiên sứ của Đức Giê-hô-va thấy nàng ở trong đồng vắng gần bên suối nước, nơi mé đường đi về Su-rơ, thì hỏi rằng: Hỡi A-ga, đòi của Sa-rai, ngươi ở đâu đến, và sẽ đi đâu?",
+     "en": "But Jehovah's angel saw her in a forsaken field near a spring beside the road to Shur and asked, \"Hagar, slave of Sarai, where have you come from and where are you going?\""
+    }
+   ]
+  },
+  {
+   "headword": "trọng tội",
+   "base": "0936fedc79840d5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "serious crime or offence; mortal sin; felony"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Việc mày mới làm là trọng tội đó biết không.",
+     "en": "What you have just done is a serious crime, you know?"
+    }
+   ]
+  },
+  {
+   "headword": "bở",
+   "base": "d2d36b49dc4504b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crumbly; flaky; friable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nông thôn",
+   "base": "f7ad73c7984fb5ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the countryside; the country; rural areas"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "binh lực",
+   "base": "f8e1aad171037ece",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "combat force; armed forces"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đợi chờ",
+   "base": "2b82df5a85127c83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wait; to await"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tân hôn",
+   "base": "744430d4a441312f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the period of time just after getting married"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "newlywed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đêm tân hôn",
+     "en": "wedding night"
+    },
+    {
+     "sense": 2,
+     "vi": "cầu nguyện cho đôi tân hôn",
+     "en": "to pray for the newlywed couple"
+    }
+   ]
+  },
+  {
+   "headword": "đề bạt",
+   "base": "aec59b6114e93530",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give a promotion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh bạn chắc đang nghĩ rằng cái thằng tôi phải cảm động lắm với cái sự cất nhắc đề bạt ấy của anh bạn?",
+     "en": "You probably think I should feel all emotional at that going up and being promoted of yours."
+    }
+   ]
+  },
+  {
+   "headword": "mic",
+   "base": "c728822f4ed14989",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "microphone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảm nhiệm",
+   "base": "56a3cae175686d59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take on (responsibility); to assume; to undertake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chân vịt",
+   "base": "070eb33c923f4880",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a duck foot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a propeller (for accelerating watercrafts)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "flipper; swim fin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thờ ơ",
+   "base": "9e78edea82935637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "indifferent; apathetic; lukewarm; detached; cold"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thái độ lạnh lùng và thờ ơ",
+     "en": "cold and indifferent attitude"
+    }
+   ]
+  },
+  {
+   "headword": "cấp tính",
+   "base": "36e3ddc012c63394",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "acute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giá lạnh",
+   "base": "11e6f75ec029aa6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "freezing cold (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hảo",
+   "base": "778a346cbdd0c430",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "good"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hảo ngọt",
+     "en": "sweet-toothed"
+    }
+   ]
+  },
+  {
+   "headword": "bao bọc",
+   "base": "6421d9ed8cea1339",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enclose; to wrap"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gia truyền",
+   "base": "5c37e54e33118831",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "passed down through generations of an extended family"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công thức gia truyền",
+     "en": "a family recipe"
+    }
+   ]
+  },
+  {
+   "headword": "mô tô",
+   "base": "507dc91323c97def",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a motorcycle of maximum speed higher than 50 km/h, or of a cylinder capacity higher than 50 cc, that requires a driver's license to be legally used"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "việt quất",
+   "base": "1d4fea3f1d6ad07b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blueberry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu não",
+   "base": "2728b8b5372cd8ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human mind (used to describe the control center or leadership of an organization)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cơ quan đầu não",
+     "en": "headquarters"
+    }
+   ]
+  },
+  {
+   "headword": "tì",
+   "base": "4669253d81ad21d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to press"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pipa"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dollar, buck"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Linh tính bảo cho anh biết nhất định đã xảy ra chuyện chẳng lành. Anh tì mạnh trán vào chạc cây.",
+     "en": "His foreboding told him something not good had definitely happened. He strongly pressed his forehead against the fork in the tree."
+    }
+   ]
+  },
+  {
+   "headword": "suy thoái",
+   "base": "4ffa031fa2f1a0e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to decline; to regress; to retrograde"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "suy thoái kinh tế",
+     "en": "recession"
+    },
+    {
+     "sense": 1,
+     "vi": "Đại suy thoái",
+     "en": "Great Recession"
+    }
+   ]
+  },
+  {
+   "headword": "chan",
+   "base": "53f9e1c4abf4d5b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pour sauce, soup or broth over solid food"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chan canh/mắm",
+     "en": "to pour broth/nước mắm"
+    }
+   ]
+  },
+  {
+   "headword": "chay",
+   "base": "5fdd886986ca8d91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Artocarpus tonkinensis A Cheval (a tree in the mulberry family)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in accordance with Buddhist dietary principles (no meat, fish, alcohol, onion, etc.)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "typified by the absence of certain animal products, vegetarian"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "in an ordinary, even lackluster, way; without special aids or equipment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bia chay",
+     "en": "non-alcoholic beer"
+    },
+    {
+     "sense": 2,
+     "vi": "Ăn chay một ngày mùng 1 thôi còn khó nói gì những việc lành khác.",
+     "en": "Eating in accordance with Buddhist dietary principles just the 1st day of the month [of the Lunar calendar] is difficult enough, let alone the other virtuous things."
+    },
+    {
+     "sense": 3,
+     "vi": "ăn chay",
+     "en": "to eat vegetarian"
+    },
+    {
+     "sense": 3,
+     "vi": "chả giò chay",
+     "en": "vegetarian spring rolls"
+    },
+    {
+     "sense": 3,
+     "vi": "bún bò chay",
+     "en": "vegetarian beef noodles"
+    },
+    {
+     "sense": 3,
+     "vi": "Tuy nói rằng, ăn chay là chế độ sử dụng nguồn nguyên liệu chủ yếu từ thực vật nhưng chế độ ăn chay chia làm nhiều loại. […] Chế độ ăn chay thuần […] Chế độ Lacto - Ovo Vegetarian (ăn chay có kết hợp trứng và sữa) […] Người ăn bán chay[…]",
+     "en": "Although I said a vegetarian diet uses mainly plant-based ingredients, vegetarian diets come in many types. […] Vegan diet […] Lacto-ovo vegetarian diet (a vegetarian diet that includes eggs and milk) […] Semi-vegetarians […]"
+    },
+    {
+     "sense": 4,
+     "vi": "dạy chay",
+     "en": "to teach without any pedagogic materials"
+    }
+   ]
+  },
+  {
+   "headword": "đồng trinh",
+   "base": "c28621413a947048",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "virgin"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đức Mẹ Đồng Trinh (Ma-ri-a)",
+     "en": "the Virgin Mary"
+    }
+   ]
+  },
+  {
+   "headword": "kền kền",
+   "base": "9e9686619b7c4a18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vulture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nản lòng",
+   "base": "7dad84ee8fd5e2b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be discouraged; to be disheartened"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịch liệt",
+   "base": "0f75d596f6040043",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "intensely; fiercely; severely"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "intense; fierce; severe"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

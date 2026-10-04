@@ -1,0 +1,1423 @@
+{
+ "batch": "0138",
+ "entries": [
+  {
+   "headword": "gọng",
+   "base": "b28bd80bab6168e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rim, frame, framework"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gọng kính",
+     "en": "glass frame"
+    }
+   ]
+  },
+  {
+   "headword": "cắc",
+   "base": "4a56ed0301cb15f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "coin, small change"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vè",
+   "base": "09a88aae013f8ad5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rhyming poetic and song form, most typical of northern Vietnam"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "shoot (of rice plant)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "pole erected to mark water level in a river or ditch"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to draw near or nearer"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to come alongside (another boat)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "mudguard"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chọc trời",
+   "base": "136a3560e1a90929",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to poke the sky; to reach for the sky"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to do extraordinary things"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "extraordinary; exceptional"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông lệ",
+   "base": "7912200be5f58189",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "formal"
+     ],
+     "gloss": "general rule; common practice; customary behavior"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xấu số",
+   "base": "c068eefe081436fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "unlucky; ill-fated; unfortunate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xuể",
+   "base": "0c6146a5bee147f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "Placed after a verb or after a negator in a negative sentence to indicate the inability to carry out something."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhiều bát đĩa quá, tôi không rửa xuể.",
+     "en": "There are too many dishes, I can't clean them all."
+    },
+    {
+     "sense": 1,
+     "vi": "Cổ thụ mấy trăm năm tuổi, ba người ôm chẳng xuể.",
+     "en": "It is a tree hundreds of years old, not even the arm spans of three can completely surround it."
+    }
+   ]
+  },
+  {
+   "headword": "thu ngân",
+   "base": "277edd32b4842036",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collect money from customers"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cashier"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nản chí",
+   "base": "f4a6a1b8c27b6efe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become despondent; to be discouraged; to be disheartened"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dâm đãng",
+   "base": "20a46693b5357e80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lustful; lascivious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vĩ",
+   "base": "247cedb804edef59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sịp",
+   "base": "38d96708d46c4da0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "briefs"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "panties"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đi đôi",
+   "base": "9a65c2e56d314a67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go hand in hand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Học phải đi đôi với hành.",
+     "en": "Learning must go hand in hand with practice."
+    }
+   ]
+  },
+  {
+   "headword": "khinh suất",
+   "base": "b40a791cbece5d35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "underprepared; thoughtless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thán phục",
+   "base": "7ace833f5cf33b60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to praise and admire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự quyết",
+   "base": "d60b2aeb0962c398",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to decide on one's own"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xót",
+   "base": "b2e88173c97379be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "hurt, in pain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ù",
+   "base": "4a6388dba51c0a89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have tinnitus"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having tinnitus"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "swiftly; fast"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lay động",
+   "base": "f6a2f53135950c09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vibrate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nàng chợt thấy mặt nóng bừng, tay trái khẽ run lên chiếc giá nến lay động, mấy giọt sáp nhỏ xuống mặt người kia.",
+     "en": "She suddenly felt herself blushing, her left hand trembled lightly and the candle holder vibrated, some drops of wax dripped onto that person's face."
+    }
+   ]
+  },
+  {
+   "headword": "gở",
+   "base": "8865d34f888bf10c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a kind of demon or monster"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unlucky, unfortunate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "điềm gở",
+     "en": "a bad omen"
+    }
+   ]
+  },
+  {
+   "headword": "bán đảo",
+   "base": "4cdd648a94e95bc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a peninsula"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuyên giảm",
+   "base": "c405bb652c2e7535",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remit, alleviate (often related to disease)."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơn sốt bắt đầu thuyên giảm.",
+     "en": "The fever begins to remit."
+    },
+    {
+     "sense": 1,
+     "vi": "Và khi biết được nguyên do đã đưa tới đau khổ thì ta áp dụng những chi phần khác của Bát Chánh Đạo để làm thuyên giảm niềm đau khổ.",
+     "en": "And when we know the reason that led to suffering, we apply the other parts of the Noble Eightfold Path to relieve the suffering."
+    }
+   ]
+  },
+  {
+   "headword": "vật tư",
+   "base": "a3612864dfd58e44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "materials; supplies; resources"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "personal belongings; possessions"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cấp dưỡng",
+   "base": "0265f2174b515b3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to support; provide (for)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to nourish; foster"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a canteen chef; cafeteria cook"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bát đĩa",
+   "base": "5f90ab6c16e59152",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "crockery; dishware"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giả danh",
+   "base": "15ca1dd731d1f22b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pretend to be something that one is not in order to trick others into doing one's bidding; to larp and deceive others"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thể tích",
+   "base": "19cdc41889ee853d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "volume (spatial measure)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tùng",
+   "base": "88c26e808abee503",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "the pounding sound of a drum"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pine (tree of the genus Pinus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đò",
+   "base": "546ed003cae52515",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a boat for travel on rivers, especially for sightseeing or getting across to the other bank"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trả góp",
+   "base": "931176a436c6cde0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pay in/by installments"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Máy này mắc quá. Có bán trả góp không chị ?",
+     "en": "This is one expensive machine. Can I pay by installments?"
+    }
+   ]
+  },
+  {
+   "headword": "ân tình",
+   "base": "b1113afc004ba827",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kindness; affection; compassion"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "kind; affectionate; compassionate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm tiết",
+   "base": "5fb711be71ef1c28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a syllable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đính ước",
+   "base": "195a144099943bbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to become engaged; to exchange vows"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to undertake; to contract; to make a commitment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "jun",
+   "base": "3a5d471d909b76d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "joule"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "jun kế",
+     "en": "joulemeter"
+    }
+   ]
+  },
+  {
+   "headword": "coi sóc",
+   "base": "89b730635df31913",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look after; to take care of; to nurture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mỏi",
+   "base": "ffbf5afd0896251c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "weary, tired"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sickening (causing sickness), indisposed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hỗn mang",
+   "base": "6814f8cc25fd3d06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chaotic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Và chỉ mình trí năng mới có khả năng thu thập những cái vụn vặt và hỗn mang đó lại thành một đối tượng duy nhất của tri thức.",
+     "en": "There is nothing but intelligence that might hence enable us to collect and transform what's scattered and disordered into a unified subject of knowledge."
+    }
+   ]
+  },
+  {
+   "headword": "phát tác",
+   "base": "4dd1f54d56a7dded",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take effect"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mai Siêu Phong hai mắt đã mù, đầu óc hôn mê, rõ ràng chất độc trên ám khí đã phát tác,[…]",
+     "en": "Méi Chāofēng was blind in both eyes and her mind was bewildered; the poison on the hidden weapon was clearly taking effect; […]"
+    }
+   ]
+  },
+  {
+   "headword": "phích",
+   "base": "b21feeb347f10b66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a plug"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "a thermos"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liệm",
+   "base": "26b840177ade4cb6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shroud (to cover a dead body with a burial shroud)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nham thạch",
+   "base": "4871ed3d9bd2b0d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lava rock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thượng cổ",
+   "base": "6e8b5216e14f6a81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "distant past; antiquity; time immemorial"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ancient beyond memory; immemorial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "méc",
+   "base": "9a8622d86570c8bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to sneak, to tell, to report (something bad) about someone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "riêng lẻ",
+   "base": "c11ef6ee515a4119",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "individual; separate"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "private"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rành rành",
+   "base": "f94aec7ef5d6e33f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "clearly; plainly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sử thi",
+   "base": "df27e394a513be2f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an epic poem"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiếu động",
+   "base": "ecb37c9c74bb2d44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "active and curious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hiếu động thái quá",
+     "en": "hyperactive"
+    }
+   ]
+  },
+  {
+   "headword": "ngập ngừng",
+   "base": "8a71be584744e723",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be hesitant; to waver"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồng bột",
+   "base": "617bfb60619bd0d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ebullient; eager; energetic; impulsive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tuổi trẻ bồng bột, dễ mắc sai lầm.",
+     "en": "Young people are impulsive. It's easy for them to make mistakes."
+    }
+   ]
+  },
+  {
+   "headword": "báo ứng",
+   "base": "29d4b1778c711cd7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "retribution, karma"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lữ hành",
+   "base": "8baec386cc69b28c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to travel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bào ngư",
+   "base": "03a387ab8b4979ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "abalone; ormer; sea-ear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giảm sút",
+   "base": "6f4bb3296806649d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become worse; to decrease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đúp",
+   "base": "094bc938fc0020da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to repeat another grade/year of study"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "twice"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "take"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó bị đúp một năm.",
+     "en": "He had to repeat another year of study."
+    },
+    {
+     "sense": 2,
+     "vi": "nhấp đúp",
+     "en": "to double-click"
+    }
+   ]
+  },
+  {
+   "headword": "nói thầm",
+   "base": "5ecb921bc463d39c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whisper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuột đồng",
+   "base": "dccaf15559d9b5d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a vole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cấy ghép",
+   "base": "db590976a53913f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transplant (an organ)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to implant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô giá trị",
+   "base": "05f98f055ab833e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "valueless; worthless; inconsequential"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhát gan",
+   "base": "874279be9cffef43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "weak-hearted; gutless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhát gan không dám bơi qua sông",
+     "en": "to be too weak-hearted to swim across the river"
+    }
+   ]
+  },
+  {
+   "headword": "tạp dề",
+   "base": "141fd9dc83b6d814",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "apron"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lệ phí",
+   "base": "e9d77b5a7f1ef024",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fee; charge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sân cỏ",
+   "base": "54bd6afd35b4034a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a large, grassy field for playing sports like football, soccer, etc.; a soccer field"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ân sủng",
+   "base": "10df9e1d38a8b5f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "privilege; favour; grace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ươi",
+   "base": "bf79573376428f25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "malva nut tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ưỡn",
+   "base": "5281847c5e04fdaf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to puff up, to puff out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành tâm",
+   "base": "5251e6320552a839",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sincere; candid; candour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vả",
+   "base": "d454f66efb8f3db6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slap"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Ficus auriculata"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "Third personal distal pronoun."
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "besides, moreover"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Vả lúc đầu đời nhà Hán những người có địa-vị trọng-yếu ở triều-đình như Tiêu Hà là chân đao-bút-lại xuất thân; Tào Tham và Trần Bình thuộc về phái Hoàng Lão, đều nối nhau làm tể-tướng giữ triều chính.",
+     "en": "Moreover, in the early Han dynasty, those who held important positions at court —such as Xiāo Hé, who came from a background as a scribe, and Cáo Shēn and Chén Píng, who belonged to the Huang–Lao school— successively served as chancellors in charge of court administration."
+    }
+   ]
+  },
+  {
+   "headword": "vô trùng",
+   "base": "d8d41ad13cb6ef48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sterile (germless)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy quay",
+   "base": "177b2409aebec5a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "camera for filming or surveillance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quắc",
+   "base": "56bce892017d8dbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scowl, to glower, to look angrily"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "quark"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đôi mắt màu xám tro gan lì ấy chưa từng bao giờ quắc lên với đồng đội.",
+     "en": "Those ash-grey and intrepid eyes had never yet scowled at a teammate."
+    }
+   ]
+  },
+  {
+   "headword": "thư thái",
+   "base": "5f4ac913bab462bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "at ease, not stressed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuyệt thực",
+   "base": "d831651ac311356d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to fast"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "qua loa",
+   "base": "485e3b68fa73afc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perfunctory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bìu",
+   "base": "f9e1f11be91fdbc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soft part protruding from the body, such as goitre, swelling, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giản đơn",
+   "base": "89c035d6ff5e0daa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "simple (uncomplicated)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lao động giản đơn",
+     "en": "simple labor"
+    }
+   ]
+  },
+  {
+   "headword": "phỉnh",
+   "base": "e4eff2351b33fbb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to blandish; to coax; to toady"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "poker chip"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xưng hô",
+   "base": "c7bbefd0002b3e44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to address each other as"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong doanh nghiệp, có đồng nghiệp lớn tuổi và đồng nghiệp nhỏ tuổi, xưng hô bằng chú cháu cũng hay chứ không phải dở, nghe có vẻ thân thiết và thâm tình hơn, nếu muốn xưng bằng tôi và anh cũng được, nghe có vẻ rõ ràng, nhưng gọi bằng tên thì có vẻ hay hơn cả bởi vì tên gợi nhớ đến đặc điểm riêng của đồng nghiệp, giúp ta cảm thấy quen thuộc và gần gũi.",
+     "en": "In a business with both older and younger colleagues, addressing each other with chú and cháu is okay and not wrong — it sounds more intimate and affectionate; addressing each other with tôi and anh is also good — it sounds more accurate; but calling each other by name seems more catchy, as it calls to a particular attribute of one's colleague, making people more familiar and close."
+    },
+    {
+     "sense": 1,
+     "vi": "'Cái khó nhất đối với tôi trong tiếng Việt là không biết xưng hô thế nào cho đúng. Tôi nghĩ rằng để giỏi tiếng Việt cần phải thực hành giao tiếp thường xuyên với người Việt.'",
+     "en": "'The hardest part of Vietnamese to me is not knowing how to address people correctly. I think to be skilled in Vietnamese, you have to stay in regular contact with Vietnamese people.'"
+    }
+   ]
+  },
+  {
+   "headword": "kháng cáo",
+   "base": "49d35e0bc0a9cb33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to appeal; to request a retrial with a higher legal body"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngộp",
+   "base": "5a5fe30114732f14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suffocate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn hàng",
+   "base": "202c80acb48bbfbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to eat between meals; to snack (when outside)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to rob (a shop)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

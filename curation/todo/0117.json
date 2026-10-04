@@ -1,0 +1,1602 @@
+{
+ "batch": "0117",
+ "entries": [
+  {
+   "headword": "mềm lòng",
+   "base": "c4ee82859cd0d990",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sentimental before a hurdle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh tình",
+   "base": "8404877face41fc0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "state of disease; patient's condition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ở riêng",
+   "base": "b47bd6ca5388d041",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to start a family, away from one's parents; to become independent and move away"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nông nổi",
+   "base": "6f4525237e6a1010",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shallow; superficial"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impulsive; inconsiderate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điệp khúc",
+   "base": "3ed5cc12d2dbae06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chorus (a repeated part of a song)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đào tẩu",
+   "base": "5d0c593bf8210355",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to run away; to escape; to take flight; to flee; to abscond; to decamp; to hightail it"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côn",
+   "base": "d0a5a802b2418abd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stick or staff"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "rare"
+     ],
+     "gloss": "(cá ~) Kun, a giant mythical fish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Zhuangzi, ch. 1. English translation by James Legge; Vietnamese translation by Nguyễn Hiến Lê",
+     "en": "In the Northern Ocean there is a fish, the name of which is Kun - I do not know how many li in size. It changes into a bird with the name of Peng, the back of which is (also) - I do not know how many li in extent."
+    }
+   ]
+  },
+  {
+   "headword": "cứa",
+   "base": "a0ae4906b18ffd51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cut little by little; to saw off"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lãnh sự quán",
+   "base": "4979e86a2819b9aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a consulate (an office of a government, comparable to an embassy)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hầy",
+   "base": "5e279bd9537e7490",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "Sentence-final question particle."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nói nghe hay hầy?",
+     "en": "You really are just saying anything huh?"
+    },
+    {
+     "sense": 1,
+     "vi": "Vậy chứ món đó cũng đâu mắc lắm đâu hầy.",
+     "en": "When you think about it, that stuff is actually not that expensive, no?"
+    }
+   ]
+  },
+  {
+   "headword": "lơ là",
+   "base": "c859502e672e9a56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "negligent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong khi dịch bệnh bùng phát đợt mới mạnh mẽ ở các nước láng giềng với Việt Nam, nhiều nơi trong nước vẫn xuất hiện tâm lý chủ quan, lơ là.",
+     "en": "While the epidemic is surging with a strong new wave in countries neighouring Vietnam, over-confident and negligent thinking is appearing in many places in the country."
+    }
+   ]
+  },
+  {
+   "headword": "dô",
+   "base": "42333058f382ba52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "a common toast used when drinking in a group"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo toàn",
+   "base": "ecd62397df1f013f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to preserve; to keep intact"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bảo toàn mạng sống",
+     "en": "to keep oneself alive in front of threat"
+    }
+   ]
+  },
+  {
+   "headword": "di tích",
+   "base": "0d81633723fda6e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a historical site"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh nên thăm các di tích lịch sử",
+     "en": "You should visit historical sites."
+    }
+   ]
+  },
+  {
+   "headword": "tục ngữ",
+   "base": "7226bcaabf5d2646",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a proverb (phrase expressing a basic truth)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tục ngữ có câu […]",
+     "en": "as one proverb says […]"
+    }
+   ]
+  },
+  {
+   "headword": "nhân công",
+   "base": "02e21488c1437d21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manpower; labour; workforce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mong mỏi",
+   "base": "148f0ca3f80a60fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wait impatiently; to fervently long for; to urgently wish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mộng du",
+   "base": "b4352461434a484a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sleepwalking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bị mộng du",
+     "en": "to sleepwalk"
+    }
+   ]
+  },
+  {
+   "headword": "tuôn",
+   "base": "40039366e9af3448",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to spurt, to gush"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "informal",
+      "intransitive"
+     ],
+     "gloss": "to spew"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to strip (to remove the thread or teeth from a screw, nut, or gear)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nước suối tuôn ra.",
+     "en": "Water gushes from the spring."
+    },
+    {
+     "sense": 1,
+     "vi": "Mồ hôi tuôn ròng ròng.",
+     "en": "Sweat pours continuously."
+    },
+    {
+     "sense": 1,
+     "vi": "Nước mắt tuôn như mưa.",
+     "en": "Tears stream down like rainfall."
+    },
+    {
+     "sense": 1,
+     "vi": "Khói tuôn nghi ngút.",
+     "en": "A plume of smoke billows out."
+    },
+    {
+     "sense": 2,
+     "vi": "tuôn ra những lời thô bỉ",
+     "en": "to spew vulgarities"
+    },
+    {
+     "sense": 3,
+     "vi": "Con vít bị tuôn rồi.",
+     "en": "The screw has become stripped."
+    }
+   ]
+  },
+  {
+   "headword": "thầy thuốc",
+   "base": "dfd958d96fe55bfb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "doctor; physician"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tâu",
+   "base": "a36ab964a5d23a55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "historical"
+     ],
+     "gloss": "to report (to the king)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to report (on); to make a report (on something to curry favour)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "binh pháp",
+   "base": "8f54998b69e91763",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "art of war; military tactics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêu đãi",
+   "base": "e9a00604f9dbf0a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to entertain (a guest); to host; to receive; to extend hospitality (to)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "định kiến",
+   "base": "ae27127db54861cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "preconception; fixed views"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sửa sang",
+   "base": "0d2f2d87dd489c67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repair; to fix; to renovate (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dỏm",
+   "base": "332e455f95b12ca7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô tri",
+   "base": "a9068ee3de3a43e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mindless; unsentient"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "endearing",
+      "neologism",
+      "slang"
+     ],
+     "gloss": "clueless, silly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vật vô tri",
+     "en": "inanimate objects"
+    },
+    {
+     "sense": 2,
+     "vi": "chiếc meme/trend vô tri",
+     "en": "a silly meme/trend"
+    },
+    {
+     "sense": 2,
+     "vi": "cậu/cô bé vô tri dễ thương",
+     "en": "a silly yet cute boy/girl"
+    }
+   ]
+  },
+  {
+   "headword": "vật vã",
+   "base": "ece9d49713727d48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to writhe about in pain"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to struggle (with something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêu đẳng",
+   "base": "02c98d0f49a1cef2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "superhuman; extraordinary"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trí nhớ siêu đẳng",
+     "en": "a superhuman-level memory"
+    }
+   ]
+  },
+  {
+   "headword": "thái cực",
+   "base": "ab77ce0a798d4821",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "extreme"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tai chi"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tâm trạng hai người ở hai thái cực khác nhau.",
+     "en": "Their moods were at two different extremes."
+    }
+   ]
+  },
+  {
+   "headword": "nao",
+   "base": "d8fe90b199dbb9a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uneasy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "provoking deep emotions; moving"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhìn những đứa trẻ đói nghèo mà nao lòng",
+     "en": "looking at hungry and poor children, I can't help but feel uneasy"
+    },
+    {
+     "sense": 2,
+     "vi": "đẹp đến nao lòng",
+     "en": "deeply beautiful"
+    }
+   ]
+  },
+  {
+   "headword": "rong ruổi",
+   "base": "ba9e2d9a55ee7c8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to travel far and wide (to do something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạ vũ",
+   "base": "35d13f8f147b4eae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "night rain"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soiree, prom"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "buổi dạ vũ",
+     "en": "a soiree"
+    }
+   ]
+  },
+  {
+   "headword": "dứa",
+   "base": "85fc34ba03790835",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pandan"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "pineapple"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xôi lá dứa",
+     "en": "sweet glutinous rice with pandan leaves"
+    }
+   ]
+  },
+  {
+   "headword": "ống tiêm",
+   "base": "0a8266721ba9c235",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hypodermic syringe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuổi thọ",
+   "base": "706c514bcb2dd5c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "life expectancy; length of life (of a person) or use (of a product)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yếu điểm",
+   "base": "f78ce19ff5ecb4bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an area critical to a military organization"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô định",
+   "base": "e0f2914f4b67b3fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "undetermined or undeterminable"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not definitively or precisely determined, because of the presence of infinity or zero symbols used in any of several improper combinations."
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "infinitive (neutral with respect to inflection)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chìm đắm",
+   "base": "7df90f80fc7b0beb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be completely sunk; to be fully immersed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to be engrossed; to be enraptured; to be spellbound"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cục diện",
+   "base": "e92cc47cff405792",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "situation; state of affairs"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trí tuệ nhân tạo đang làm thay đổi cục diện thế giới",
+     "en": "Artificial intelligence is changing the global landscape."
+    }
+   ]
+  },
+  {
+   "headword": "thất lễ",
+   "base": "5111b177bb94bec0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated",
+      "formal"
+     ],
+     "gloss": "impolite"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ở nhà kiêng ngồi giữa bậc cửa, e thất lễ.",
+     "en": "When at home, avoid sitting on the doorstep, so as not to be impolite / discourteous."
+    }
+   ]
+  },
+  {
+   "headword": "có hạn",
+   "base": "7d13db122ec47ba6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "limited; scarce; scanty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Số lượng bản sao có hạn.",
+     "en": "There's a limited number of copies."
+    },
+    {
+     "sense": 1,
+     "vi": "Lòng kiên nhẫn của tôi cũng có hạn chứ.",
+     "en": "There's a limit to my patience!"
+    }
+   ]
+  },
+  {
+   "headword": "ghẻ",
+   "base": "6e7ba2f113bb3eef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scabies"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "scab"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "shit; trash; garbage; low-quality; cheap"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "step-"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Nhà có cái máy tính ghẻ thôi, game ghiếc gì.",
+     "en": "I only have a trash PC at home, that thing is not gonna be able to handle any game."
+    },
+    {
+     "sense": 4,
+     "vi": "cha ghẻ",
+     "en": "stepfather"
+    },
+    {
+     "sense": 4,
+     "vi": "mẹ ghẻ",
+     "en": "stepmother"
+    }
+   ]
+  },
+  {
+   "headword": "tham mưu",
+   "base": "32c5884750c4efb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "staff"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to give advice; to advise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điệp",
+   "base": "b66b473411cacbf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "butterfly"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scallop (bivalve mollusc)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scallop powder (used in papermaking)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "Caesalpinia pulcherrima"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repeat; to reduplicate"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "historical"
+     ],
+     "gloss": "official message; official letter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giải trình",
+   "base": "378d5e41434d0d4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to explain with the aim of convincing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đớp",
+   "base": "a99bfda05a9edf4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to snap up (food, bait, etc.); to snatch; to catch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to eat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tôn sùng",
+   "base": "44f1588228e63ff4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to revere"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] để hạn chế khuynh hướng tôn sùng vật chất.",
+     "en": "[…] to limit the tendency of revering the material."
+    }
+   ]
+  },
+  {
+   "headword": "thó",
+   "base": "9bb48b9b6aaf2248",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to steal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of clay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tha hóa",
+   "base": "77975dca26a97279",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tha hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vén",
+   "base": "08afb2af2ca8b96f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roll up; to lift up; to tuck up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to gather in a tidy heap; to put in order; to arrange"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thỏ đế",
+   "base": "534b8856a2fdf698",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a scaredy-cat; a chicken"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bưởi",
+   "base": "b13ad3822b231cc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pomelo"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "humorous"
+     ],
+     "gloss": "a boob; a jug"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nó có bưởi to.",
+     "en": "She has huge jugs."
+    }
+   ]
+  },
+  {
+   "headword": "lập luận",
+   "base": "b4effc4760fda1cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reason; to argue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mênh mông",
+   "base": "2e45ba72b938209e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "vast; immense; extensive; boundless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nước sông Tiền Đường mênh mông,[…]",
+     "en": "The Qiantang River is vast, […]"
+    }
+   ]
+  },
+  {
+   "headword": "chốc",
+   "base": "0d0dfb3da054bff0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a moment; instant; short while"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "impetigo"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to flip; to turn over"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "chốc ngược chai",
+     "en": "to invert the bottle (to flip the bottle upside-down)"
+    }
+   ]
+  },
+  {
+   "headword": "lôi thôi",
+   "base": "757c4c6c6597689f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "carelessly (in the appearance or the way things are organized)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngừa",
+   "base": "6561e86a48ea6d68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to warn (against); to forewarn (about)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to prevent; to avert"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ấu trĩ",
+   "base": "6a125a942d8d4752",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "disapproving"
+     ],
+     "gloss": "childish; infantile; immature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "di vật",
+   "base": "0e4a5c3d1492d011",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "relic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhập cuộc",
+   "base": "bca1d6565be8bdd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take part in; to be an insider; to join"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "của nợ",
+   "base": "c26da5855e5903a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "curse; pain in the neck"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tòng phạm",
+   "base": "a5b3efb2b5fa8e6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "accomplice (a person who helps another commit a crime)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tên trộm khai ra đồng bọn là kẻ tòng phạm đắc lực.",
+     "en": "The thief identified his accomplice as an effective accomplice."
+    },
+    {
+     "sense": 1,
+     "vi": "Bị tuyên án 5 năm tù với vai trò tòng phạm.",
+     "en": "Sentenced to 5 years in prison for the role of an accomplice."
+    }
+   ]
+  },
+  {
+   "headword": "khét",
+   "base": "13b02652680a0d35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having a burning smell"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "cool; awesome"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Trông khét đấy!",
+     "en": "[You] look great!"
+    }
+   ]
+  },
+  {
+   "headword": "ngoi",
+   "base": "a39e91f593241637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to emerge, to rise up (from a surface)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công lực",
+   "base": "05cc84e5916382da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trained skill with high effect on its object"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] kẻ có công lực như thế trên đời chỉ có lơ thơ vài người.",
+     "en": "[…] people with that level of effective skill are few and far between."
+    }
+   ]
+  },
+  {
+   "headword": "dòm",
+   "base": "e99c6affc6ad435b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to look at"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dò hỏi",
+   "base": "fe929561b836153d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to inquire into; to seek information"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại thần",
+   "base": "f201f4ac2c9c2357",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a minister"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngoại vụ đại thần",
+     "en": "a minister of foreign affairs"
+    }
+   ]
+  },
+  {
+   "headword": "thương binh",
+   "base": "fcb5b6d72aa9db16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a handicapped war veteran"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thương binh tàn nhưng không phế",
+     "en": "our war veterans, physically handicapped, yet very much capable of contributing"
+    }
+   ]
+  },
+  {
+   "headword": "bụi bặm",
+   "base": "832596a745de5e1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dusty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tít",
+   "base": "c2f5503b54a31a04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "title"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hermetically closed"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "far away"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "centipede"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kinh phí",
+   "base": "a87db9680e5274d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "appropriation (for public affairs); outlay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Phổ",
+   "base": "dc719dc1571221b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "Prussian (of, from or relating to the former kingdom of Prussia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phổ",
+   "base": "45fe0ce5043acd98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compose a score, arrange, or write lyrics to a song"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write a poem"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a spectrum"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phổ nhạc",
+     "en": "to compose a score or to arrange it; to set to music"
+    },
+    {
+     "sense": 1,
+     "vi": "phổ lời",
+     "en": "to write lyrics"
+    },
+    {
+     "sense": 3,
+     "vi": "phổ tự kỉ",
+     "en": "the autism spectrum"
+    }
+   ]
+  },
+  {
+   "headword": "bóp méo",
+   "base": "60a04f9a0aa8bd7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to distort; misrepresent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tích trữ",
+   "base": "7d01df6ff6f00416",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stockpile; to reserve; to amass"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giám ngục",
+   "base": "2c94eaae7a86a647",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "warden"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giám ngục Azkaban",
+     "en": "dementor"
+    }
+   ]
+  },
+  {
+   "headword": "hình học",
+   "base": "0104b3ef094b4e2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "geometry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chênh lệch",
+   "base": "7e4b73630b052180",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uneven; unequal; different; disparate"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "unjust; biased; unfair"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

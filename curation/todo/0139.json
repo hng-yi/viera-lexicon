@@ -1,0 +1,1388 @@
+{
+ "batch": "0139",
+ "entries": [
+  {
+   "headword": "đốt phá",
+   "base": "b9654b5f33187510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to burn and destroy things"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to incinerate; to commit arson"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mê đắm",
+   "base": "3d5890f22e2a3377",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be infatuated; to be enchanted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoát",
+   "base": "1356b2bb9effee85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to beckon; to wave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đơn lẻ",
+   "base": "ae698541ea6fd13a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "single; separate; isolated"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lonely; solitary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vọc",
+   "base": "51ffd3afa0ade396",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fiddle with; to play around"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó ngồi vọc nước cả buổi, giờ làm cảm.",
+     "en": "He played with water for hours, now he got himself a cold."
+    }
+   ]
+  },
+  {
+   "headword": "thịnh soạn",
+   "base": "5f11115f09d52d38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sumptuous; lavish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mệt nhọc",
+   "base": "c7855d29e975e6a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tired; exhausted; weary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biến số",
+   "base": "0a2a3e22de72476a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a variable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xén",
+   "base": "001f33ba5abdc586",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shear; to trim; to clip; to prune"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầu cơ",
+   "base": "26a1503d5b4bea93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "seance with a Ouija board"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độ lượng",
+   "base": "5e35fdf0d6f4b918",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tolerant; merciful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỉ",
+   "base": "45c1167a1706d4ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trellis matting (used to lag bottom of a double boiler (chõ), usually made of bamboo)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "something flat with many small holes in it, such as a fly swatter, a barbecue grill, etc."
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for small flat objects containing many small items of the same type, such as blister packs (of medicine, batteries), etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vỉ nướng",
+     "en": "a gridiron"
+    }
+   ]
+  },
+  {
+   "headword": "thủy tiên",
+   "base": "9c19d7e9aaff01d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thuỷ tiên."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xốc",
+   "base": "678fe9bb6576eccd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lift up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange, to organize"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a bunch; a group"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bách tính",
+   "base": "11b42c49f0cbdf2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "common people, masses, ordinary citizens, general population"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hoàng đế làm hại bách tính chịu khổ, lấy một ít vàng bạc mà y lấy được của bách tính cũng chẳng phải là trộm cắp gì.",
+     "en": "The emperor harms the common people; taking some of the treasures he took from the common people isn't stealing at all."
+    }
+   ]
+  },
+  {
+   "headword": "dây cương",
+   "base": "256bfcf0035d6c74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rein"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công chứng viên",
+   "base": "f8fe36db95762792",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a notary public (certifier of documents)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vướng mắc",
+   "base": "83ab3f718a21a231",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "impediments; obstacles; entanglement; misgivings"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thường niên",
+   "base": "17f8df4372a7203b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Ordinary Time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thường niên",
+   "base": "15cdb9683abe3da4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "annual; yearly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiệt quệ",
+   "base": "65fb6e0317994a28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "exhausted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chớm",
+   "base": "41439c894d9cf0a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary",
+      "poetic"
+     ],
+     "gloss": "to start to; to begin to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lúc chớm hạ",
+     "en": "early summer"
+    }
+   ]
+  },
+  {
+   "headword": "bẩy",
+   "base": "2e883e0769db35e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wrest up (e.g. a slab of stone)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầy đặn",
+   "base": "09b0540d17ae2ccf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full-faced; plump; full"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "upright"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo cụ",
+   "base": "c6b3abed4a207556",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prop, theatrical property"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thụt",
+   "base": "b21b651937705388",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull back"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to throw a punch, to punch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ồ ạt",
+   "base": "9d24182d15a519ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "moving in a storm-like, massive, rapid and disorderly manner"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ kính",
+   "base": "3322364f492cf09b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ancient; antique"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mình rất thích nét cổ kính ở đây, rất hợp với áo dài và không khí Tết nữa.",
+     "en": "I like the ancient style here a lot; it goes really well with áo dài and the Tết atmosphere."
+    }
+   ]
+  },
+  {
+   "headword": "lộc",
+   "base": "d3c318ffd9509251",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "some sort of pay/salary of a mandarin/courtier"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "velvet antler"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "rare"
+     ],
+     "gloss": "bud"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hưởng lộc",
+     "en": "to enjoy pays and benefits as a mandarin"
+    },
+    {
+     "sense": 2,
+     "vi": "lộc nai",
+     "en": "velvet antler"
+    },
+    {
+     "sense": 3,
+     "vi": "đâm chồi nảy lộc",
+     "en": "(of trees) to bud"
+    },
+    {
+     "sense": 3,
+     "vi": "hái lộc",
+     "en": "to get some tree branches with buds for Lunar New Year's good luck"
+    }
+   ]
+  },
+  {
+   "headword": "thị vệ",
+   "base": "73215b32cb321075",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "imperial bodyguard, royal guard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đồng thời Thang Tổ Đức cũng suất lĩnh đám thị vệ la hét ầm ĩ tìm bắt thích khách.",
+     "en": "Meanwhile, Tāng Zǔdé also led the imperial guard to, noisily screaming, hunt down the assassin."
+    }
+   ]
+  },
+  {
+   "headword": "lẻ loi",
+   "base": "9e1d10287f6a34a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solitary; lonely; lonesome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vùi dập",
+   "base": "cfd3b3d2da6e7691",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to oppress somebody by one's power or influence"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "(to stop the development of a good subject): to crush; to shatter; to suppress"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see vùi, dập."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giọng ca 7X tâm sự: \"Tính cách tôi khác với nhiều người. Tôi luôn đối diện với cuộc sống, với áp lực một cách hoan hỉ và vui vẻ, vì nếu cuộc đời mà suôn sẻ thì không còn là cuộc đời nữa. Càng sóng gió hay bị vùi dập, tôi lại càng tích cực\".",
+     "en": "\"My personality is unlike most people. I've always faced alongside life and pressure with delight and pleasure as if our life was already running smooth, it wouldn't be then supposed to be itself any more. And so, the more challenging or oppressing it gets, the more I indeed enjoy my life,\" said the singer of the 70s."
+    },
+    {
+     "sense": 1,
+     "vi": "Bộ máy và cơ chế quan liêu cần có sự phụ thuộc cá nhân chứ không cần đến chuẩn mực, để dễ bề ban phát và duy trì đặc quyền đặc lợi. Sự biến dạng đã đến mức đặc quyền, đặc lợi được đưa vào nấc thang giá trị đánh giá. Sự ban phát dẫn đến con người trở thành đối tượng của ý muốn chủ quan: thủ trưởng cơ quan có quyền \"cất nhắc\" người anh ta muốn, có quyền vùi dập hoặc đẩy đi những kẻ \"cứng đầu, cứng cổ\".",
+     "en": "The apparatus and its mechanism need to base on individual dependencies rather than norms for granting and maintaining one's privileges with ease. The deformation has reached to the extent that those powerful rights are listed on a scale of evaluative supervision. That granting leads human to replace their mind with subjectivism, as a head of some institution has their rights to \"promote\" the person they want and oppress or displace those who are \"stubborn\"."
+    },
+    {
+     "sense": 2,
+     "vi": "vùi dập tương lai",
+     "en": "to destroy one's future"
+    },
+    {
+     "sense": 2,
+     "vi": "Đừng vùi dập ước mơ của trẻ.",
+     "en": "Don't crush kids' dreams."
+    },
+    {
+     "sense": 2,
+     "vi": "Giáo dục luôn hướng đến một tư duy văn minh cởi mở cho trẻ, chớ có vùi dập trẻ khi mầm mống phát triển của dân tộc nằm ở đó.",
+     "en": "Education always aims to cultivate an open and civilized mindset in children, so do not suppress them, for they are the seeds of our nation's future."
+    },
+    {
+     "sense": 3,
+     "vi": "Khu vườn đền ở ngoài thành cũ biến thành ruộng lúa nương ngô, lại thêm gió mưa vùi dập, ít người nghĩ đến lễ giáo phong tục mà lo việc tu sửa phục hồi.",
+     "en": "The temple garden outside the old citadel had been transformed into fields of rice and corns. Combined with the battering of wind and rain, few people would bother with rituals and traditions to have it under repair and restoration."
+    }
+   ]
+  },
+  {
+   "headword": "thoái vị",
+   "base": "7a95ce6a28e73867",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abdicate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Pháp chạy, Nhật hàng, vua Bảo-Đại thoái vị. Dân ta đã đánh đổ các xiềng xích thực dân gần 100 năm nay để gây nên nước Việt-Nam độc-lập. Dân ta lại đánh đổ chế độ quân chủ mấy mươi thế kỷ mà lập nên chế độ Dân-chủ Cộng-hòa.",
+     "en": "The French have fled, the Japanese have capitulated, Emperor Bao Dai has abdicated. Our people have broken the chains which for nearly a century have fettered them and have won independence for the Fatherland. Our people at the same time have overthrown the monarchic regime that has reigned supreme for dozens of centuries. In its place has been established the present Democratic Republic."
+    }
+   ]
+  },
+  {
+   "headword": "nhợt",
+   "base": "683483d46a9e8e4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pale"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhờn nhợt",
+     "en": "rather pale"
+    }
+   ]
+  },
+  {
+   "headword": "thiết tha",
+   "base": "aff9735f6df8c671",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "earnest; ardent; fervent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuốc bổ",
+   "base": "56aa62040de5172e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tonic (restorative)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơm tho",
+   "base": "bb8897420dd145a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fragrant; sweet-smelling (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chấn song",
+   "base": "a94d6090d335cb9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a vertical bar; mullion; paling (especially for a window or a fence)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhưng phải dừng lại vì các chấn song sắt to bằng cổ tay đã theo da trời hiện lên lù lù đập vào mặt.",
+     "en": "But he had to stop, as the wrist-sized iron bars had appeared imposingly and glaringly together with the sky."
+    }
+   ]
+  },
+  {
+   "headword": "dạt",
+   "base": "5d792da5cc5c87d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be adrift; to be pushed along"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bè dạt vào bờ.",
+     "en": "The raft drifted to shore."
+    }
+   ]
+  },
+  {
+   "headword": "kính hiển vi",
+   "base": "d2fa9f977eec50a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a microscope"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kính hiển vi điện tử",
+     "en": "an electron microscope"
+    }
+   ]
+  },
+  {
+   "headword": "ran",
+   "base": "a2d293d6fbbff45f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resound; to spread widely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thánh nhân",
+   "base": "d6256e45dc115018",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "sage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đức thánh nhân",
+     "en": "the sage"
+    }
+   ]
+  },
+  {
+   "headword": "vu oan",
+   "base": "111bf5bffe0b830c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slander"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buồn rầu",
+   "base": "377e0bf44c31d98b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sad; melancholy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung lưu",
+   "base": "56bacd38723eafd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "middle reaches (of a river)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "middle class"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pháo tay",
+   "base": "806b691e24136b2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ovation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mọi người hãy cho bạn ấy một tràng pháo tay đi ạ!",
+     "en": "Everyone, let's give our friend an ovation!"
+    }
+   ]
+  },
+  {
+   "headword": "tín",
+   "base": "c765c8ec7f7da233",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trust; honesty"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "saddhā; faith; confidence"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "news; information"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẳng thừng",
+   "base": "a0e1276bd294790b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "blunt; forthright; direct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hà mã",
+   "base": "8cb4fa95434f1fcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hippopotamus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thời bình",
+   "base": "120667235cd8e415",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peacetime"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dỗ dành",
+   "base": "edd5a1bb76fb854f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to soothe, coax, cajole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sàn diễn",
+   "base": "c44b8bf3925d823b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stage (for performance)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tệ bạc",
+   "base": "789e5cca97795bb0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ungrateful; unappreciative"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "heartless; cold"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "ungratefully; unappreciatively"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "heartlessly; coldly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sai số",
+   "base": "22f7875a810ff729",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "error, deviation of a measured or calculated value from the true value"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chăm nom",
+   "base": "3fc1b59e0c590d56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to care for; to take care of; to look after"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trỏ",
+   "base": "34a81975a38f8edb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to point"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngón trỏ",
+     "en": "the \"pointing finger\"; the index finger"
+    }
+   ]
+  },
+  {
+   "headword": "Tiệp",
+   "base": "8cfcd25bd37644e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Czech (of, from or relating to the Czech Republic)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hiện tại các nhà chuyên môn của Steiger vẫn dùng công thức lên men cổ truyền từ người Tiệp cách hơn 5 thế kỷ trước để ủ lên men kép (hai lần).",
+     "en": "Currently Steiger specialists still use the Czech people’s age-old fermentation recipe from over five centuries ago for secondary fermentation (two times)."
+    }
+   ]
+  },
+  {
+   "headword": "thạch tín",
+   "base": "9818d171f3a22fae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arsenolite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rút ruột",
+   "base": "b20b4431a9ad7029",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to extort; to gut, as removing the core parts of something"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "disapproving"
+     ],
+     "gloss": "to steal public funds for one's own interest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Việc rút ruột công trình xây dựng của anh không ai có thể gánh tội thay đâu.",
+     "en": "Not anyone but you could bear the blame for your embezzlement of the company's constructional budget."
+    }
+   ]
+  },
+  {
+   "headword": "gạ gẫm",
+   "base": "7e0c59cc73fc0c18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "sometimes"
+     ],
+     "gloss": "to speak persuasively or seduce in favor of someone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trấu",
+   "base": "e4163cc30ecd76fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rice chaff; rice hull; rice husk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lồi",
+   "base": "94d7e58d65d987a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "protruding, jutting or convex"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cười nhạo",
+   "base": "363714eb919d93e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to laugh at, to mock, to jeer at"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phế truất",
+   "base": "091809bc0222f760",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remove someone from their position of power; to dethrone (a monarch); to remove (an official) from office"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dư vị",
+   "base": "1b78dd6d12ca7acc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "literally"
+     ],
+     "gloss": "aftertaste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cường tráng",
+   "base": "0b3ed128e2bef571",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "physically strong; sturdy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nạt",
+   "base": "0374b9adb782c11e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bully; to cow"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to browbeat; to thunder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tăng giá",
+   "base": "af0154ff4b03dda2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive",
+      "transitive"
+     ],
+     "gloss": "to increase in price"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điệu bộ",
+   "base": "b5efec9375370a64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mannerisms; gestures with the hands, legs, etc. to express or convey a concept"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "making exaggerated gestures to put on airs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạn định",
+   "base": "ba3a3a5e08c1ae69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "limited; restricted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phản phúc",
+   "base": "7e97377d93d6fb90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unfaithful; disloyal; treacherous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đụt",
+   "base": "3c3d515620b7936c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dull-witted, slow-witted"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of fish trap"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Phật tổ",
+   "base": "ee373157844e34b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Founder of Buddhism (the title of the Buddha)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phật tổ Như Lai/Thích Ca Mâu Ni",
+     "en": "our Founder Tagathata/Shakyamuni"
+    }
+   ]
+  },
+  {
+   "headword": "Như Lai",
+   "base": "910c2ea775207cca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tathagata"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhựa đường",
+   "base": "0e9f5ddf3170d054",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "asphalt; bitumen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mai mối",
+   "base": "cea3cf827c94f1c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do matchmaking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hăm hở",
+   "base": "4ffda2bfd8782558",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "eager; enthusiastic; impetuous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó về nhà trong bộ đồ tươm tất, trông hăm hở lắm.",
+     "en": "The guy was heading home in a smart outfit, as if being on a rush."
+    }
+   ]
+  },
+  {
+   "headword": "kinh khiếp",
+   "base": "b9affd22ab0e0749",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "terrible; terrifying; formidable; awful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm u",
+   "base": "a9aedad36e9a8931",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gloomy; dim"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong rừng đầy chỗ âm u, ẩm thấp, muỗi sinh sôi nhiều.",
+     "en": "The jungle is full of dim and damp pockets that facilitate the proliferation of mosquitoes."
+    }
+   ]
+  },
+  {
+   "headword": "nghiệp vụ",
+   "base": "8732f375ec690968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "professional competence or knowledge; specialist skill; specialty"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

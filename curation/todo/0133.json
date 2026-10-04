@@ -1,0 +1,1485 @@
+{
+ "batch": "0133",
+ "entries": [
+  {
+   "headword": "chuột chũi",
+   "base": "ad77d7b5cca114f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mole (burrowing insectivore)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảnh ngộ",
+   "base": "76d7ec5650bf65a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a predicament; plight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hùng biện",
+   "base": "d3b94730b1565b93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "eloquent, convincing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thi hùng biện",
+     "en": "debate contest"
+    },
+    {
+     "sense": 1,
+     "vi": "Duy có Mạnh Tử, ông nầy có tiếng là hùng biện, chính mình cũng xưng rằng tri ngôn, mà lại sai hơn Khổng Tử nhiều.",
+     "en": "Even Mencius, known for being eloquent and who claimed to be good at interpreting the words of others, made many more mistakes than Confucius."
+    },
+    {
+     "sense": 1,
+     "vi": "[…] mà còn ở cách lập luận thông minh, cách nói hùng biện, đầy sức thuyết phục của ông.",
+     "en": "[…] but also through his intelligent reasoning and his eloquent, highly convincing manner of expression."
+    }
+   ]
+  },
+  {
+   "headword": "tan trường",
+   "base": "c743682a52b2d737",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to finish school for the day"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mấy giờ tan trường?",
+     "en": "What time does school finish?"
+    },
+    {
+     "sense": 1,
+     "vi": "Đứng trước cổng, tan trường anh ra đón.",
+     "en": "I'll pick you up after school, you should stay by the school gate [once you're out]."
+    },
+    {
+     "sense": 1,
+     "vi": "Hẹn gặp sau tan trường nha!",
+     "en": "See you after school!"
+    }
+   ]
+  },
+  {
+   "headword": "chọc ghẹo",
+   "base": "426d8b3465d68a42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tease; to taunt; to make fun of"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to flirt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lú",
+   "base": "eacf5df69cf942b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "delusional"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "anile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỉm",
+   "base": "0edcd859f225c1d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paper diaper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ang",
+   "base": "25d743ccb2127d3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "a kind of water container"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of betel container"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a traditional instrument made from wood or bamboo, used to measure grain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cọ xát",
+   "base": "d7fb4637f092753c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rub; to rub against something"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình ca",
+   "base": "68cfdb43c1cae4fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a song, poem or narrative that evokes a strong feeling of love (romantic, patriotic, nostalgic or otherwise)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Câu chuyện là một bản tình ca hùng tráng, khơi dậy tình yêu quê hương, đất nước.",
+     "en": "The story is an epic that evokes palpable love for one's home, one's country."
+    }
+   ]
+  },
+  {
+   "headword": "thính giác",
+   "base": "9234e45a982d42ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hearing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chàm",
+   "base": "5a8cb4ad527da50a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "indigo (a dark bluish-purplish color)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "indigo (color)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tree of the genus Indigofera, commonly used to make indigo dye"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "crimes"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dermatitis; eczema"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đỏ, cam, vàng, lục, lam, chàm, tím",
+     "en": "red, orange, yellow, green, blue, indigo, violet"
+    },
+    {
+     "sense": 4,
+     "vi": "tay nhúng chàm",
+     "en": "having one's hands dirty by committing crimes"
+    }
+   ]
+  },
+  {
+   "headword": "chúa thượng",
+   "base": "93746ee453296854",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "historical",
+      "honorific"
+     ],
+     "gloss": "Your Highness; Your Excellency (addressing a royalty who can be referred to as chúa, not the reigning monarch)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical",
+      "honorific"
+     ],
+     "gloss": "Your Lord, the Most High"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùa đông",
+   "base": "93c297cc4c7c36d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "winter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầu sỏ",
+   "base": "37876c3897689121",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "ringleader"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diễn hành",
+   "base": "28f869d23379337f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "US",
+      "intransitive"
+     ],
+     "gloss": "to march; to parade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chức vị",
+   "base": "a74f00d1e80d8b59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a position (of status); a post; an office"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "qué",
+   "base": "a642dd203196d9f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "poultry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tính năng",
+   "base": "33e1b6e65ddc0170",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a function or feature"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Máy này không có tính năng đó.",
+     "en": "This machine doesn't have that feature."
+    }
+   ]
+  },
+  {
+   "headword": "thuế má",
+   "base": "71534ef724976aa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "taxes (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải âu",
+   "base": "983214f4515ed3a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birds in the Procellariidae and Diomedeidae families"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghị viên",
+   "base": "b14c6faf5dc5985b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of nghị sĩ (“parliamentarian”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải lưu",
+   "base": "99963c0d22a50bae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ocean current"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảo hành",
+   "base": "bc7ab678317f82b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "warranty; guarantee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lẫy lừng",
+   "base": "2d096436d23e585b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "illustrious, glorious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh trở về cùng với cả đội hình trên vạn con người đã lập nên những chiến tích lẫy lừng trong suốt chiều dài các chiến dịch.",
+     "en": "He returned with his troops of more than ten thousand people who had set down glorious exploits throughout the entire campaign."
+    }
+   ]
+  },
+  {
+   "headword": "đểu cáng",
+   "base": "27360db6f08ab6d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "obsolete"
+     ],
+     "gloss": "porters, carriers"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "dated",
+      "derogatory"
+     ],
+     "gloss": "cads, rascals, scoundrels"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "scummy, caddish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công trạng",
+   "base": "5daf1d74cef83e06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "big accomplishment, especially for one's nation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nẹp",
+   "base": "9e1c7ff422c12697",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hem"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rim"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "splint"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa đàng",
+   "base": "6613b448c6cb505a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paradise on earth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "utopia"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu có cơ hội tôi sẽ dẫn em tới một nơi, ở nơi ấy em sẽ có được nhiều bình an và hạnh phúc. Đến được nơi ấy rồi em sẽ không cần làm gì hết. Chúng mình chỉ rong chơi thôi. […] Mọi người vẫn thường gọi nơi ấy là địa đàng. Địa đàng có nghĩa là thiên đàng ở trần gian.",
+     "en": "Should there be a chance, I'll lead you to some mythical site where we can find it peaceful and satisfying. It must be, let's say, a piece of land that you are free to take any action and start a mutual play. People often refer to it as 'paradise on earth', that is, a holy place of the world."
+    }
+   ]
+  },
+  {
+   "headword": "bạo",
+   "base": "035d63b4ca549968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bold; daring; brave"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "ferocious; cruel; violent"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "healthy"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "to a great degree, like crazy, like mad"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gian dâm",
+   "base": "eb401d436aa750b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fornication"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiểm nghèo",
+   "base": "d59bef430a369927",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dangerous; serious; grave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bệnh hiểm nghèo",
+     "en": "deadly disease"
+    }
+   ]
+  },
+  {
+   "headword": "điện lực",
+   "base": "fefbcbdae96088b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "concerning supplying electricity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngành điện lực",
+     "en": "the electricity industry"
+    }
+   ]
+  },
+  {
+   "headword": "giận dỗi",
+   "base": "58d317273accc921",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be in the sulks; to be sulky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa đạo",
+   "base": "7700da009af39653",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an underground tunnel/passage, or a network of such tunnels/passages"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "địa đạo Củ Chi",
+     "en": "the Củ Chi underground tunnels"
+    }
+   ]
+  },
+  {
+   "headword": "buông xuôi",
+   "base": "3c7676291300f945",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let (something) run its course"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất chính",
+   "base": "3fcb9de7200b0e6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "improper, dishonest, devious, shady"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẩm định",
+   "base": "6ade01bdada57080",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to examine and decide; to assess; to appraise; to evaluate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liệng",
+   "base": "019e7e3825b3740a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to glide (in the air)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to throw"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghì",
+   "base": "5cc8e18b7a1add09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold tightly, to tightly embrace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá ngựa",
+   "base": "5ed6e942620b959d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sea horse (fish)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dưỡng",
+   "base": "3ceee208b7e570b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to nourish; to foster; to raise (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thảm đỏ",
+   "base": "28d7e588b360a59e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "red carpet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thanh long",
+   "base": "df6a08141f3f5c2f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pitaya, dragon fruit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rừng già",
+   "base": "1587b67cd4a00a12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "old-growth forest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cứng cựa",
+   "base": "6b7a12f091a2e9b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "persistent; tenacious; adamant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biên kịch",
+   "base": "175afa0968a8ca1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write plays or scripts"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "playwright, screenwriter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lay chuyển",
+   "base": "99daa8b80bf82578",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sway"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một khi chí đã quyết thì khó có gì lay chuyển được.",
+     "en": "Once the will is set, little can sway it."
+    }
+   ]
+  },
+  {
+   "headword": "dịch tả",
+   "base": "a733399695ec98df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cholera"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chật vật",
+   "base": "11f5ade8d3e18efc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strenuous; arduous; toilsome; laborious; strugglesome"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] gia đình cuộc sống khá chật vật, anh Dụng buộc phải mang vườn tiêu hơn 4.000m² của gia đình đem đi cầm [cố] để trang trải nợ nần, đồng thời lo chuyện ăn hàng ngày, đóng tiền học phí cho con.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "sôi sục",
+   "base": "9661f4e31c892b21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seethe; to boil"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "seething; turbulent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân thương",
+   "base": "8d1de65c0d7ef1bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "affectionate, full of affection"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiển hách",
+   "base": "0ccb37f0cb6ab8f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brilliant; glorious; splendid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bưng",
+   "base": "21f1648ce1b1ecff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry a recipient in both hands"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "a kind of marshland"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Bưng cháo ra đây, chú em? - tiếng con gián điệp gọi lên lanh lảnh, khiến tôi nổi gai ốc khắp người.",
+     "en": "\"Bring us the congee, will you?\" the spy's voice called loudly, giving me goosebumps all over."
+    }
+   ]
+  },
+  {
+   "headword": "áo phông",
+   "base": "4f19b331b1797cdd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "T-shirt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạ nghị sĩ",
+   "base": "26f139505102deae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a member of lower house"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giai đoạn hai của trợ giúp tài chính này được tính trên tỉ lệ các nghị sĩ – hạ nghị sĩ và thượng nghị sĩ – của mỗi đảng. Cụ thể mỗi nghị sĩ mang lại 37.280 euro cho đảng của mình.",
+     "en": "Stage 2 of this financial aid is based on the ratio of members - deputies and senators - of each party. In particular, each member contributes 37,280 euros to their respective party."
+    },
+    {
+     "sense": 1,
+     "vi": "Cho đến thời điểm hiện tại, 35 hạ nghị sĩ, gồm 23 nghị sĩ đảng Dân chủ và 12 nghị sĩ đảng Cộng hòa, đã tiết lộ ý định về hưu hoặc chuyển sang các ban ngành khác, theo thông tin từ cơ quan báo chí Hạ viện Mỹ. Trong số này, số nghị sĩ đảng Dân chủ giữ ghế ở các khu vực bầu cử \"chiến địa\" muốn về hưu cao hơn phía nghị sĩ đảng Cộng hòa.",
+     "en": "Currently, 35 representatives, including 23 Democrats and 12 Republicans, have disclosed their intent to retire or transfer to other agencies, according to press releases from the House of Representatives. Of these, the number of Democrats with seats in strategic districts who want to retire is larger than that of Republicans."
+    }
+   ]
+  },
+  {
+   "headword": "tong",
+   "base": "505c69eb8bcfc329",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "done for, screwed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mất tong một buổi chiều mà chẳng tiến triển gì",
+     "en": "an afternoon wasted without any significant progress"
+    },
+    {
+     "sense": 1,
+     "vi": "Mưa. Thế là lại đi tong một ngày mủ vì mưa nữa rồi!",
+     "en": "Rain. So yet another day's worth of latex gone to waste because of the rain!"
+    }
+   ]
+  },
+  {
+   "headword": "hết mực",
+   "base": "5bb69a1355eb4b26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "exceptionally; outstandingly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cũ kĩ",
+   "base": "30434d229388eff0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old; out of date"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "những tấm ảnh cũ kĩ",
+     "en": "old pictures"
+    }
+   ]
+  },
+  {
+   "headword": "chuyện trò",
+   "base": "65fefc7f015b2120",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to talk; to converse; to chat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sa hoàng",
+   "base": "bf5d7d4611908f4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tsar; tsarina regnant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiếm chác",
+   "base": "9507cb770e6f151d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to profit fraudulently; to gain dishonestly; to racketeer; to graft"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truy cứu",
+   "base": "405a074f5bf9d97e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to press charges; to accuse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ ngơi",
+   "base": "1e9076611d090dfb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "houses, lands and other assets acquired (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự phát",
+   "base": "1f806ea91963918b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spontaneous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "idiopathic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải cảng",
+   "base": "f0bad955dee57059",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a seaport; harbor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự kỉ",
+   "base": "b6b595a530442965",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "autistic"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial",
+      "figuratively"
+     ],
+     "gloss": "resembling an introvert"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bệnh tự kỉ",
+     "en": "autism"
+    },
+    {
+     "sense": 2,
+     "vi": "Nó đang ngồi tự kỉ đằng kia.",
+     "en": "He's sitting alone like he's introverted."
+    }
+   ]
+  },
+  {
+   "headword": "vo",
+   "base": "2092d3da2bc1ba7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wash (uncooked rice), especially with a grabbing motion"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make into a ball with a grabbing motion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vo gạo",
+     "en": "to wash uncooked rice"
+    },
+    {
+     "sense": 2,
+     "vi": "Nó vo tờ giấy quăng sọt rác rồi.",
+     "en": "He crumpled the sheet into a ball and threw it into the trash can."
+    }
+   ]
+  },
+  {
+   "headword": "thất tình",
+   "base": "d3130de0dcbb3945",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lovelorn; broken-hearted"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "the seven emotional states: joy, anger, anxiety, thought, grief, fear, fright"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam sinh",
+   "base": "3e7f257d0f5dde22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a schoolboy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giao cảm",
+   "base": "cb6db2b46640d07c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mutually sympathize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dẻo dai",
+   "base": "51c85392dac9bb67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "resilient; resistant; tenacious; able to operate for long periods of time without reduced efficiency"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nổi trội",
+   "base": "996e0ab55afac98e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "outstanding; prominent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lành nghề",
+   "base": "a5bf75b3f84bc2f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "competent and knowledgeable in one's profession or line of work"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thợ lành nghề",
+     "en": "a skilled laborer"
+    }
+   ]
+  },
+  {
+   "headword": "chủ nghĩa xã hội",
+   "base": "50402d0fe09e0551",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "socialism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kinh tế thị trường định hướng chủ nghĩa xã hội",
+     "en": "Socialism-oriented market economy"
+    }
+   ]
+  },
+  {
+   "headword": "tơi",
+   "base": "1f97604b31459179",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "friable"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "palm-leaf coat"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "palm whose leaves are used to make raincoats, conical hats, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hát hò",
+   "base": "711bbb1bd2a394ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sing (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lễ vật",
+   "base": "fa00b82459dea5df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gift, present"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sacrifice; offering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lốt",
+   "base": "68e67e6e0ffc91b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shed or molted skin; slough"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a guise (cover; cloak) or a disguise (attire to hide/assume an identity; that which masks what's beneath)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "honorific",
+      "obsolete"
+     ],
+     "gloss": "snake"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of lá lốt (“Piper sarmentosum”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rắn thay lốt",
+     "en": "a snake molting/shedding; a snake casting off its slough"
+    },
+    {
+     "sense": 2,
+     "vi": "sói đội lốt cừu",
+     "en": "a wolf in sheep's clothing"
+    },
+    {
+     "sense": 3,
+     "vi": "Con hùm kiêng gọi là ông ba mươi, con rắn kiêng gọi là ông lốt, con voi kiêng gọi là ông vâm.",
+     "en": "As a form of avoidance, the tiger is called ông ba mươi (literally, “Sir Thirtieth [Night]”), the snake is called ông lốt (literally, “Sir Slough”), the elephant is called ông vâm (literally, “Sir Oliphant”)."
+    },
+    {
+     "sense": 4,
+     "vi": "bò nướng lá lốt",
+     "en": "grilled beef in (piper) lolot leaves"
+    }
+   ]
+  },
+  {
+   "headword": "rẻ mạt",
+   "base": "6c9d9d2b97ff8661",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cheap almost to the point of being worthless; dirt-cheap"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiền công rẻ mạt",
+     "en": "low wages"
+    }
+   ]
+  }
+ ]
+}

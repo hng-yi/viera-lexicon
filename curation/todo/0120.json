@@ -1,0 +1,1477 @@
+{
+ "batch": "0120",
+ "entries": [
+  {
+   "headword": "hào nhoáng",
+   "base": "bddbdbc3995b9591",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "outwardly beautiful but in a showy manner; gaudy; flashy; meretricious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nước sơn hào nhoáng, nhưng gỗ không tốt",
+     "en": "The paint is flashy but the wood is not good."
+    }
+   ]
+  },
+  {
+   "headword": "thớt",
+   "base": "4ec658ea7eea4358",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chopping board"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Internet",
+      "neologism"
+     ],
+     "gloss": "thread (series of messages)"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "Indicates certain animals, chiefly horses and elephants."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Vua trên thớt ngựa chạy sang Bảo Lộc, [...]",
+     "en": "The king on horse's [back] fled towards Bảo Lộc, …"
+    },
+    {
+     "sense": 3,
+     "vi": "[...] đem 3.000 binh đinh, 80 thớt voi chiến, theo đường miền trên vào Ai Lao, [...]",
+     "en": "… took 3,000 troops, 80 war elephants, to march along the upland into Laos …"
+    }
+   ]
+  },
+  {
+   "headword": "tiền tuyến",
+   "base": "8e93b2561cda0eb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a front line"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tùm lum",
+   "base": "6fcb88293beb8234",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "in profusion; in great numbers; all over the place"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phiền nhiễu",
+   "base": "04ef6f181939fd4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to annoy; to disturb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại chiến",
+   "base": "cedec217a356488d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a major war; great war; multinational war"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight a major battle"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to battle fiercely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đại chiến Bắc Âu",
+     "en": "The Great Northern War; major war of northern Europe"
+    }
+   ]
+  },
+  {
+   "headword": "rượu chè",
+   "base": "776b46e5ca2e9e51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to hit the bottle; to enjoy drinking alcohol excessively (as a habit); to be an alcoholic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháo vát",
+   "base": "5f5df197644f2d6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "resourceful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dáng cô này thanh mảnh mà trông cũng tháo vát đáo để",
+     "en": "Regardless of her slim figure, the girl looks quite capable!"
+    }
+   ]
+  },
+  {
+   "headword": "minh họa",
+   "base": "c452040f8ff9eb8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of minh hoạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại dịch",
+   "base": "82d74f873f1c5c35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pandemic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dễ tính",
+   "base": "8911e5f2d67ebbe3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "easy to please or figure out; easy-going"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàu",
+   "base": "c39ec6b125307d9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an oyster (mollusk; food)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "slang",
+      "vulgar"
+     ],
+     "gloss": "the vulva or vagina; female genitalia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ động",
+   "base": "ab4ad61eb7beb29d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cheer someone (encourage with cheers or shouts)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to motivate"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "motivational"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "tranh cổ động",
+     "en": "motivational poster"
+    }
+   ]
+  },
+  {
+   "headword": "lanh lợi",
+   "base": "77aba265de0827dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clever; smart; quick-witted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy tính xách tay",
+   "base": "3d269dc1fcd88443",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "laptop; notebook"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phủi",
+   "base": "65f90fa82324246d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dust (to remove dust)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư tín",
+   "base": "8dd48daa36a89366",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "letter; mail; correspondence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuẩn xác",
+   "base": "7ab762f627a928ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "correct; precise; exact; accurate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "toan tính",
+   "base": "e56fcbf8208ca9a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to intend (to do something); to deliberate"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intention; plan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giàu sang",
+   "base": "56c5a5af1833c7b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rich; having wealth and luxury"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hôn hít",
+   "base": "3f02fd0027240172",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to kiss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bố thí",
+   "base": "32404cc607ec7a27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "almsgiving; charity"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dana; the virtue of generosity"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give alms"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng tâm",
+   "base": "0d8ef0659545bfbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a main point"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a centroid"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a center of mass; a center of gravity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trọng tâm của bài học hôm nay là trọng tâm của một vật.",
+     "en": "Today's lesson focuses on the center of mass of objects."
+    },
+    {
+     "sense": 2,
+     "vi": "Trọng tâm của bài học hôm nay là trọng tâm tam giác.",
+     "en": "Today's lesson focuses on the centroid of triangles."
+    },
+    {
+     "sense": 3,
+     "vi": "Trọng tâm của bài học hôm nay là trọng tâm của một vật.",
+     "en": "Today's lesson focuses on the center of mass of objects."
+    }
+   ]
+  },
+  {
+   "headword": "quyền công dân",
+   "base": "141f25fa656e3a20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "citizenship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gàn",
+   "base": "0c64bd0b5f46a435",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "a bit cray-cray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biểu cảm",
+   "base": "25fc0c2fb62e0ee5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express emotions"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bóc lột",
+   "base": "f7dfffb709e3605f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exploit"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plunder"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bóc lột lao động",
+     "en": "the exploitation of labour"
+    }
+   ]
+  },
+  {
+   "headword": "tàng trữ",
+   "base": "856a0b81c44be650",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to store; to keep (something valuable)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be in possession of (illicit drugs, weapons, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "si",
+   "base": "9e8953f010510eec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certain plants of the Mallotus and Ficus genera"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "si, B"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tương phản",
+   "base": "6a7bcf49eef10cbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "contrary; opposite; contrastive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạn hán",
+   "base": "4da09567fdf01783",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drought"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộc phát",
+   "base": "c5a8b543dd7ce638",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break out; explode; burst out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nạn đói bộc phát ở ...",
+     "en": "A famine broke out in ..."
+    }
+   ]
+  },
+  {
+   "headword": "thương vụ",
+   "base": "56ed33e09ed98783",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "economic affairs with another country"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lòe",
+   "base": "97d8c054a50fd3cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of loè."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "châm ngôn",
+   "base": "7574f2f25baa1043",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a maxim; proverb; dictum; saying"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a motto; slogan"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Le colonialisme français n'a pas varié sa devise :«Diviser pour régner.» C'est ainsi que l'empire d'Annam ce pays habité par un peuple descendant de la même race, ayant les mêmes moeurs, la même histoire, les mêmes traditions et parlant la même langue – fut divisé en cinq parties.",
+     "en": "French colonialism hasn't modified its motto: “Divide and rule.” That's why the country of Annam – whose people is of the same blood, has the same customs, the same history, the same traditions, and speaks the same language – was divided into sundry parts."
+    }
+   ]
+  },
+  {
+   "headword": "dã",
+   "base": "0e028090382c887e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "countryside; field; plain"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "wild, savage, rustic"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to neutralize the effect of (alcohol)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bênh vực",
+   "base": "2c40c0f0bea2db89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to defend; to protect; to uphold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chu vi",
+   "base": "552c5069a5c3e3ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a perimeter"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "surroundings; vicinity; periphery"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chu vi hình vuông",
+     "en": "the perimeter of a square"
+    },
+    {
+     "sense": 1,
+     "vi": "chu vi hình tròn",
+     "en": "the perimeter/circumference of a circle"
+    }
+   ]
+  },
+  {
+   "headword": "áo phao",
+   "base": "088ac1e57c3da332",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "life jacket"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "puffy jacket"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhập cảnh",
+   "base": "825eea7efc578a95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enter a country"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sim",
+   "base": "1dee41dbd8db458e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rose myrtle (Rhodomyrtus tomentosa)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Subscriber Identity Module"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương cảm",
+   "base": "8b4dbee9613ca2d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to empathize; to commiserate; to be touched with compassion."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nan",
+   "base": "b504e003262c92c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo tape (for basketwork); bamboo slat (of a paper fan)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xóc",
+   "base": "89a3d9b4426f230d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to shake"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bumpy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "châu chấu",
+   "base": "c4bf910d13878a20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a flat-headed grasshopper or locust"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a grasshopper (an insect of the suborder Caelifera)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lỏm",
+   "base": "dfafafc558528086",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "quietly; stealthily"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "húng",
+   "base": "51a27b55c98d6249",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lamiales plants of various kinds, often used as culinary herbs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vùng vẫy",
+   "base": "a61e01ee33a0c920",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shake, wiggle or struggle to break free from a constraint"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to spread one's wings"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nồng",
+   "base": "b380b4bd228cc655",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strong; pungent"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "warm; ardent"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot; torrid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dĩ vãng",
+   "base": "99c4205a28c01df4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the distant, bygone or forgotten past"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lùi/chìm vào dĩ vãng",
+     "en": "to recede/fade into oblivion"
+    }
+   ]
+  },
+  {
+   "headword": "uầy",
+   "base": "22910d94723998de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "wow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rụt rè",
+   "base": "f126d481bd6ff4be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shy; timid; coy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điểm nóng",
+   "base": "999fb3a27acd59b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hotspot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn hại",
+   "base": "62e41131f2aa8c39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to freeload; act as a parasite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gói ghém",
+   "base": "0cf5810d13560875",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pack neatly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhè",
+   "base": "118cf750873ed725",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to weep, to moan"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to aim solely for"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "To push food out of one's own mouth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhè đầu mà đánh",
+     "en": "to strike for the head"
+    }
+   ]
+  },
+  {
+   "headword": "khai phá",
+   "base": "6a008fed999f8e3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to colonize; to cultivate for exploitation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dẫu thằng Pháp có tội khai phá thuộc địa nước ta nhưng chính nó cũng đã để lại một nền giáo dục tiên tiến tầm cỡ thế giới cơ mà.",
+     "en": "The French had left our country with one of the world's most advanced education facilities behind despite their blame for the local exploitation."
+    }
+   ]
+  },
+  {
+   "headword": "đùng",
+   "base": "baa3ab82d8c7da2f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boom, bang"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "a kind of field (for salt production, etc.), or its body of water"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổn",
+   "base": "6b58f2a14a000fe2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prefix",
+     "tags": [
+      "Chinese",
+      "morpheme",
+      "sometimes"
+     ],
+     "gloss": "I/me, a respectable..."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bổn cô nương",
+     "en": "I/me, a respectable young lady"
+    },
+    {
+     "sense": 1,
+     "vi": "bổn công tử",
+     "en": "I/me, a respectable young gentleman"
+    },
+    {
+     "sense": 1,
+     "vi": "bổn quan",
+     "en": "I/me, a respectable official"
+    },
+    {
+     "sense": 1,
+     "vi": "bổn vương",
+     "en": "I/me, a respectable prince"
+    }
+   ]
+  },
+  {
+   "headword": "nhạy",
+   "base": "7d71875df2bebf4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sensitive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khử nhạy",
+     "en": "desensitization; to desensitize"
+    }
+   ]
+  },
+  {
+   "headword": "ảo thuật gia",
+   "base": "3fe1ca1033d0cc6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magician; illusionist; one who performs magic tricks"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gờm",
+   "base": "94654f2864d64eb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "usually"
+     ],
+     "gloss": "to be fearsome, to be frightening"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hài cốt",
+   "base": "055202c2f54c2872",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "remains (what is left after a person dies)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diện kiến",
+   "base": "0c875ad3424bb74f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "historical",
+      "literary"
+     ],
+     "gloss": "to attend an audience"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "diện kiến quốc vương",
+     "en": "to meet the ruling monarch"
+    }
+   ]
+  },
+  {
+   "headword": "nghịch ngợm",
+   "base": "cdede3aaf20e86b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "playful; mischievous."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng bé rất thông minh nhưng hay nghịch ngợm.",
+     "en": "The boy is very intelligent but very mischievous."
+    }
+   ]
+  },
+  {
+   "headword": "triển",
+   "base": "9251f44ea345a54f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "to carry out; to execute"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có là triển luôn nha bác!",
+     "en": "I will do it as soon as it becomes available."
+    }
+   ]
+  },
+  {
+   "headword": "buôn người",
+   "base": "3d646d2373b7bf1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human trafficking"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "slave trade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rào",
+   "base": "b01e17f337eb7e76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fence"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to encircle"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "small river, creek, stream"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơ ca",
+   "base": "f0c2716e83961931",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "synonym of thơ (“poetry”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "literary"
+     ],
+     "gloss": "poetry and singing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thơ ca nhạc hoạ",
+     "en": "poetry, singing, music and painting; the arts"
+    }
+   ]
+  },
+  {
+   "headword": "mò mẫm",
+   "base": "eddb7215fb06fd05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grope"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dục vọng",
+   "base": "6d434e0931164dbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "desire; craving"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thoả mãn dục vọng bản thân",
+     "en": "to satisfy one's own selfish desire"
+    }
+   ]
+  },
+  {
+   "headword": "tâm điểm",
+   "base": "d6da65ba26873dfa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "the main point or focus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khô ráo",
+   "base": "9ffb9913badc0633",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dry; free of water; lacking moisture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "triệt hạ",
+   "base": "1cfbed2a990f20fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wipe out; to knock out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vĩ độ",
+   "base": "b63ba1bd97b027a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a latitude (angular distance north or south from the equator)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ig",
+   "base": "3ace710946cde8a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "Instagram"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiền sảnh",
+   "base": "ea68901e45d4e1f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lobby, vestibule"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khống",
+   "base": "0c85ba79e27472fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "to not give what should or must be given"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nộp thuế khống",
+     "en": "to report taxes lower than it should be so you pay lower taxes"
+    },
+    {
+     "sense": 1,
+     "vi": "khai khống",
+     "en": "to not give information you have to give, e.g. by giving false information"
+    }
+   ]
+  },
+  {
+   "headword": "kiện tụng",
+   "base": "175ce64a31c8e5df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to litigate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự kiện tụng",
+     "en": "litigation"
+    }
+   ]
+  },
+  {
+   "headword": "bưu phẩm",
+   "base": "0ab683d82023cd9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mail; letters and parcels"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

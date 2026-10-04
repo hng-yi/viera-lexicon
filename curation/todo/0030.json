@@ -1,0 +1,1568 @@
+{
+ "batch": "0030",
+ "entries": [
+  {
+   "headword": "hiệu quả",
+   "base": "dc0fd7f8975c3d0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "positive effect or result"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "efficacious; efficient; effective"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bóng tối",
+   "base": "1019cc2accfa98e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "darkness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẻ",
+   "base": "cc9e0ff756c2fe73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "stick used in the traditional game of pitch-pot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tag; (divining) stick; (fortune-telling, summoning) tablet"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "card; badge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "thẻ lên máy bay",
+     "en": "boarding pass"
+    },
+    {
+     "sense": 3,
+     "vi": "thẻ điện thoại",
+     "en": "phone card"
+    },
+    {
+     "sense": 3,
+     "vi": "thẻ sinh viên",
+     "en": "student card"
+    },
+    {
+     "sense": 3,
+     "vi": "thẻ ATM",
+     "en": "ATM card"
+    }
+   ]
+  },
+  {
+   "headword": "trực tiếp",
+   "base": "d31a9f102e2fcaa0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "direct; straight"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "live"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in person"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "directly"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "live"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "truyền hình trực tiếp",
+     "en": "a live broadcast"
+    },
+    {
+     "sense": 3,
+     "vi": "lớp học trực tiếp",
+     "en": "in-person class (i.e. not online)"
+    },
+    {
+     "sense": 4,
+     "vi": "sờ trực tiếp",
+     "en": "to touch directly"
+    }
+   ]
+  },
+  {
+   "headword": "giận",
+   "base": "183e86eb6f7569c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be angry"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "angry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hòn",
+   "base": "6cf9474d7ad72760",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for small, solid and roundish objects, such as rocks, pebbles, bricks, testicles, etc."
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for standalone mountains and islands."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khẩn cấp",
+   "base": "baf5c527a8ba45f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "urgent; pressing; emergent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nút nhấn khẩn cấp",
+     "en": "emergency button"
+    }
+   ]
+  },
+  {
+   "headword": "chi tiết",
+   "base": "86169f75c7d5c5c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "detail; minutia"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mechanical component"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "detailed; meticulous; specific"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chi tiết kho vũ khí khổng lồ Mỹ sản xuất rơi vào tay Taliban ở Afghanistan.",
+     "en": "Details about a massive arsenal of American-made weapons have fallen into the hands of the Taliban in Afghanistan."
+    }
+   ]
+  },
+  {
+   "headword": "bụng",
+   "base": "b346b2ea31a2241a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "belly"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "personality"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "inner feelings, inner thoughts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tốt bụng",
+     "en": "goodhearted"
+    },
+    {
+     "sense": 3,
+     "vi": "Tự đó vua Chiêu-thống trong bụng buồn-bã rầu-rĩ, không dám nói đến việc xin binh nữa.",
+     "en": "From then on, Emperor Chiêu Thống felt morose and did not dare mention requesting more troops anymore."
+    }
+   ]
+  },
+  {
+   "headword": "ngoan",
+   "base": "65e96ed5ed051beb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good; well-behaved; well-mannered; submissive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi đã dặn nó thỉnh thoảng phải bảo trẻ nhỏ ra ném sấu ngoài phố, không thì để nhà cửa cho rõ bẩn thỉu, cống rãnh cho nó ngập lụt, cho thầy mintoa thỉnh thoảng biên phạt, thì tôi mới có dịp phạt lại vợ thầy ấy, thế mà nó cứ để con tôi ngoan như bụt, nhà cửa sạch như lau, như chùi !",
+     "en": "I told her to, now and then, tell the children to go outside and throw dracontomelum out in the street, or else to leave the house obviously dirty or to let the sewer flow over, that Mr Mille Trois can sometimes write her fines — which will give me an opportunity to fine his wife back — but she keeps the children well-behaved like angels and the house clean like a mop!"
+    }
+   ]
+  },
+  {
+   "headword": "phụ",
+   "base": "71364f45252d613e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to aid, to help, to assist"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "side, secondary, ancillary"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to disappoint; to betray"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phụ mẹ làm việc nhà",
+     "en": "to help one's mother with housework"
+    },
+    {
+     "sense": 2,
+     "vi": "Việc chính là học hành, còn câu lạc bộ chỉ là việc phụ thôi.",
+     "en": "Your main task is to study, your club activities are secondary."
+    },
+    {
+     "sense": 3,
+     "vi": "Cậu không phụ kỳ vọng của gia đình.",
+     "en": "He did not disappoint his family."
+    },
+    {
+     "sense": 3,
+     "vi": "Tháo nói: - Thà rằng ta phụ người, còn hơn để người phụ ta.",
+     "en": "[Cao] Cao said: I'd rather betray others than let others betray me."
+    }
+   ]
+  },
+  {
+   "headword": "phát triển",
+   "base": "3bdf00178f94d83e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to develop, to expand"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "developed"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "development"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nô lệ",
+   "base": "0483485e68dda454",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a slave, especially a non-East-Asian one, forced into slavery for their ethnicity or social status"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghề",
+   "base": "c6bf93f2036c0387",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "profession, occupation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một nghề cho chín còn hơn chín nghề.",
+     "en": "It's better to know one job deeply than knowing several jobs shallowly."
+    }
+   ]
+  },
+  {
+   "headword": "vũ trụ",
+   "base": "3beed5839339dec9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the universe"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "outer space"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đơn giản nhất, có thể hiểu vũ trụ ảo là một dạng “thế giới game online”. Trong đó, mỗi một người sẽ có một nhân vật ảo riêng của mình. Nhân vật ảo đó sống, gặp gỡ các nhân vật bản thể khác, làm việc để tạo ra vật phẩm bên trong vũ trụ ảo và buôn bán, kinh doanh với các bản thể khác. Tóm lại, vũ trụ ảo giống hệt như thế giới thực, chỉ khác là thế giới này dựng lên bằng máy tính và nằm trong máy chủ của một công ty công nghệ nào đó.",
+     "en": "In a nutshell, the metaverse can be thought of as the “world of online games.” Everyone has their own virtual avatar. That avatar lives, meets other avatars, works and makes products inside the metaverse, and trades with other entities. In short, the metaverse is just like the real world, the only difference is that it is created with computers and exists on some tech companies' servers."
+    },
+    {
+     "sense": 1,
+     "vi": "Kết quả tính toán cho thấy việc sáp nhập với những vũ trụ khác có thể làm gia tăng thể tích của vũ trụ chúng ta, mà nếu dựa vào các thiết bị đo đạc hiện nay, có vẻ như vũ trụ giãn nở nhanh hơn.",
+     "en": "The math shows that the merging with other universes may increase our universe's volume, and according to the latest measuring instruments, the universe seems to be expanding at a faster rate."
+    }
+   ]
+  },
+  {
+   "headword": "xác định",
+   "base": "7c28cdde4a17cd12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to decide, to determine"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "certain, defined, decided"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thùng",
+   "base": "b66d3123a0351066",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barrel (round vessel made from staves bound with a hoop)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "drum (large cylindrical container for liquid transport and storage)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "the hip area of an outerwear bottom (pants, shorts, a skirt, etc.) within which a top is tucked in"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a cardboard box used to contain a fairly large amount of retail goods, typically beverage cans, milk bottles/packs or instant noodle packs"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flush"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thùng dầu",
+     "en": "oil drum"
+    },
+    {
+     "sense": 3,
+     "vi": "đóng thùng",
+     "en": "to close a barrel; to tuck one's shirt in"
+    },
+    {
+     "sense": 3,
+     "vi": "bỏ áo trong/ngoài thùng",
+     "en": "to keep one's shirt tucked/untucked"
+    },
+    {
+     "sense": 4,
+     "vi": "Mua 1 thùng tặng 2 gói.",
+     "en": "Buy one carton/box and get two more packs free."
+    }
+   ]
+  },
+  {
+   "headword": "có điều",
+   "base": "5a1d3028e3d9e43c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "yet; but"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó làm được, có điều không mấy suôn sẻ.",
+     "en": "He's capable yet rather difficult in his conducting."
+    }
+   ]
+  },
+  {
+   "headword": "em trai",
+   "base": "2b8acaa62e540441",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "literary",
+      "often"
+     ],
+     "gloss": "younger brother"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "một ít",
+   "base": "776d9c0404caab50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a little bit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huấn luyện",
+   "base": "87e5f0bc95cb5fc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to train; to coach; to drill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiêm trọng",
+   "base": "2fbde195ee6faa65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "serious; grave; critical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ben",
+   "base": "2859c7e735e966cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cabin"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to be comparable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ai thong thả, trâu nào ben được",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "hợp",
+   "base": "4c517689593fa515",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "suitable; harmonious; matching; fitting"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to unify; to combine, to unite, to join"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a union (the set of all elements in the collection)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai đứa nó không hợp nhau.",
+     "en": "Those two don't make a good couple."
+    },
+    {
+     "sense": 1,
+     "vi": "Màu này không hợp đâu.",
+     "en": "This color doesn't suit you."
+    },
+    {
+     "sense": 3,
+     "vi": "Hợp của A và B được viết là \"A ∪ B\".",
+     "en": "The union of A and B can be written as \"A ∪ B\"."
+    }
+   ]
+  },
+  {
+   "headword": "nãy",
+   "base": "e023faa175c8ca8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "then, at that time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa chỉ",
+   "base": "4b9690f55b7f4a7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "address"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bật",
+   "base": "1bfabc9683deb42d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to bounce off; to bounce back"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to snap; to switch on (lights)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to feature prominently"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do something suddenly"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "disapproving",
+      "slang"
+     ],
+     "gloss": "to disobey"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trái banh nó quăng bật thẳng lại vô mặt nó.",
+     "en": "The ball that he threw bounced right back into his own face."
+    },
+    {
+     "sense": 2,
+     "vi": "Phòng sao tối um vậy? Ai bật đèn lên coi?",
+     "en": "This room is pitch-black, can someone just turn the light on?"
+    },
+    {
+     "sense": 3,
+     "vi": "điều đó làm bật lên một vấn đề khác",
+     "en": "that just highlights another problem"
+    },
+    {
+     "sense": 4,
+     "vi": "bật khóc",
+     "en": "to suddenly break into tears"
+    },
+    {
+     "sense": 5,
+     "vi": "Mày định bật tao à hả thằng chó này?",
+     "en": "Ain't you finna defy my words, asshole?"
+    }
+   ]
+  },
+  {
+   "headword": "hòa bình",
+   "base": "c73dde69516ca7f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoà bình."
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoà bình."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúng tôi luôn thiết tha với hòa bình và chủ trương giải quyết vấn đề Việt Nam bằng phương pháp hòa bình.",
+     "en": "We are always attached to peace and stand for peaceful settlement of Vietnam problem."
+    },
+    {
+     "sense": 2,
+     "vi": "Chúng tôi luôn thiết tha với hòa bình và chủ trương giải quyết vấn đề Việt Nam bằng phương pháp hòa bình.",
+     "en": "We are always attached to peace and stand for peaceful settlement of Vietnam problem."
+    }
+   ]
+  },
+  {
+   "headword": "làng",
+   "base": "a09bd9d80b30fd56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "village (rural habitation of size between a hamlet and a town)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "circle, community"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "làng giải trí",
+     "en": "entertainment community"
+    }
+   ]
+  },
+  {
+   "headword": "đau đớn",
+   "base": "c56c4bfca51d131d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "painful; sore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truyền",
+   "base": "dc2f837ef5f339b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to pass to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pass down to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "truyền tin",
+     "en": "to pass information or intelligence to"
+    },
+    {
+     "sense": 2,
+     "vi": "truyền lại cho con cháu",
+     "en": "to pass down to future generations"
+    }
+   ]
+  },
+  {
+   "headword": "hiện",
+   "base": "0a591be6e6b32ef7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise, to appear, come into sight"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "presently, currently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gõ vô YouTube, cái video đầu tiên hiện lên là nó đó.",
+     "en": "Search on YouTube, and the first video that comes up will be the one I was talking about."
+    }
+   ]
+  },
+  {
+   "headword": "việc làm",
+   "base": "a43c3020e893b8db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "work; employment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tìm việc làm",
+     "en": "to look for work"
+    }
+   ]
+  },
+  {
+   "headword": "thú",
+   "base": "0d53d0e4f996c114",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hobby"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "interesting; intriguing"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "non-avian beast"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mammal"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "animal (organism)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to confess; to admit; to own to"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "two pair"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hôn",
+   "base": "97a97f50aeb5c47a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "dialectal",
+      "formal"
+     ],
+     "gloss": "to kiss"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kiss"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soft-shell turtle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thanh tra",
+   "base": "23e66b5bf46795a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to inspect; to check; to investigate"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "official inspector"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lực lượng",
+   "base": "d624cabba17c344c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "force, strength"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lập",
+   "base": "f215ac8e1d2ffc58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to set up; to establish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lập lại hoà bình",
+     "en": "to restore peace"
+    },
+    {
+     "sense": 1,
+     "vi": "lập em lên làm vua",
+     "en": "to set one's brother up as king"
+    }
+   ]
+  },
+  {
+   "headword": "tác dụng",
+   "base": "827467f98f499ce3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an effect (one someone or something) or efficacy"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to react"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tác dụng phụ",
+     "en": "a side effect"
+    },
+    {
+     "sense": 1,
+     "vi": "\"Lờn thuốc\" có nghĩa là uống thuốc mà không thấy có tác dụng.",
+     "en": "\"Resistance\" to a drug means that the drug hardly has any effect."
+    }
+   ]
+  },
+  {
+   "headword": "đơn",
+   "base": "13ee4cadf09b4ae2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "application, petition, request"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "alone, only; lonely"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Psychotria"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a condition producing skin rashes, normally indicating hives"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "various plant species, typically large or medium-sized, some of which are used to treat the condition above"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "lymphatic filariasis"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mẫu đơn",
+     "en": "application form"
+    },
+    {
+     "sense": 1,
+     "vi": "điền đơn",
+     "en": "to fill out an application"
+    },
+    {
+     "sense": 1,
+     "vi": "đơn đặt hàng",
+     "en": "purchase order"
+    },
+    {
+     "sense": 1,
+     "vi": "viết đơn",
+     "en": "to write an application"
+    },
+    {
+     "sense": 1,
+     "vi": "đơn kiện",
+     "en": "written complaint for a lawsuit"
+    },
+    {
+     "sense": 1,
+     "vi": "đơn xin",
+     "en": "application for a request"
+    },
+    {
+     "sense": 1,
+     "vi": "đơn xin việc",
+     "en": "job application"
+    },
+    {
+     "sense": 1,
+     "vi": "đệ đơn kiện",
+     "en": "to file a lawsuit; to file a petition"
+    },
+    {
+     "sense": 1,
+     "vi": "viết đơn tình nguyện",
+     "en": "to write a volunteer application"
+    },
+    {
+     "sense": 1,
+     "vi": "điền vào mẫu đơn",
+     "en": "to fill in an application form"
+    },
+    {
+     "sense": 2,
+     "vi": "Nhà đơn người.",
+     "en": "That side of the family is too small."
+    },
+    {
+     "sense": 3,
+     "vi": "đơn trắng",
+     "en": "Psychotria asiatica"
+    }
+   ]
+  },
+  {
+   "headword": "đỉnh",
+   "base": "7de1383fab72ac11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "top (uppermost part)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "summit (peak, top of mountain)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vertex"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "top notch; superior; rad"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ritual vessel with legs"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đỉnh đầu",
+     "en": "the top of a head"
+    },
+    {
+     "sense": 2,
+     "vi": "đỉnh E-vơ-rét",
+     "en": "Mount Everest"
+    },
+    {
+     "sense": 4,
+     "vi": "Đỉnh quá!",
+     "en": "So rad!"
+    }
+   ]
+  },
+  {
+   "headword": "mượn",
+   "base": "efa2cbf54fc9642e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to borrow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cho mượn",
+     "en": "to lend"
+    }
+   ]
+  },
+  {
+   "headword": "trăm",
+   "base": "30d2b7b5f498ee9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [
+      "in-compounds",
+      "usually"
+     ],
+     "gloss": "hundred"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "in-compounds"
+     ],
+     "gloss": "a hundred thousand Vietnamese dongs"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một trăm",
+     "en": "one hundred"
+    },
+    {
+     "sense": 1,
+     "vi": "năm trăm lẻ/linh năm",
+     "en": "five hundred and five"
+    },
+    {
+     "sense": 2,
+     "vi": "một trăm",
+     "en": "one hundred thousand dongs"
+    },
+    {
+     "sense": 2,
+     "vi": "(một) trăm tư",
+     "en": "one hundred forty thousand dongs"
+    },
+    {
+     "sense": 2,
+     "vi": "hai trăm rưỡi",
+     "en": "two hundred fifty thousand dongs"
+    }
+   ]
+  },
+  {
+   "headword": "phẫu thuật",
+   "base": "259f330f7828d325",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "surgery (procedure involving major incisions; medical specialty)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tách",
+   "base": "894b2d3c281cfcb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cup (with a handle)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to separate, to split"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to snap, to pop"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of a light cracking sound, typically from a small explosion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tách trà",
+     "en": "cup of tea"
+    },
+    {
+     "sense": 1,
+     "vi": "mua bộ tách ấm",
+     "en": "to buy a set of cups and teapot"
+    },
+    {
+     "sense": 2,
+     "vi": "tách quả bưởi ra từng múi",
+     "en": "to split apart the pommelo into its segments"
+    },
+    {
+     "sense": 2,
+     "vi": "tách riêng từng vấn đề để xem xét",
+     "en": "to review each issue separately"
+    },
+    {
+     "sense": 3,
+     "vi": "Quả đỗ phơi nổ tách một cái.",
+     "en": "The bean popped as it was drying."
+    }
+   ]
+  },
+  {
+   "headword": "Giáng sinh",
+   "base": "3b8c116ba0704a01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Christmas"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be born; to incarnate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lễ Giáng sinh",
+     "en": "Christmas celebrations"
+    }
+   ]
+  },
+  {
+   "headword": "giáng sinh",
+   "base": "93502a4ea36d860c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be born; to incarnate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tử tế",
+   "base": "12ee1e33023366b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "decent; proper; nice"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "kind; gracious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mày không nói được câu nào tử tế à?",
+     "en": "You can't say anything nice, can you?"
+    }
+   ]
+  },
+  {
+   "headword": "sở",
+   "base": "bda79203e729a7c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "workplace"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "department (the provincial equivalent of a bộ (“ministry”))"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sasanqua camellia (Camellia sasanqua)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sở làm",
+     "en": "a workplace"
+    }
+   ]
+  },
+  {
+   "headword": "giành",
+   "base": "c4b919e933597095",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dispute; to fight (for/over); to claim"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of wooden, woven basket with a flat bottom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại ca",
+   "base": "7ab6bde8c44ebf0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "the eldest brother"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "male gang leader"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "familiar",
+      "humorous"
+     ],
+     "gloss": "bro; dude"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đại ca, bọn em đói thuốc quá rồi.",
+     "en": "Boss, we really need some drugs."
+    },
+    {
+     "sense": 3,
+     "vi": "Đại ca đang làm gì thế?",
+     "en": "What you doin', mate?"
+    }
+   ]
+  },
+  {
+   "headword": "mồi",
+   "base": "388a08fba70cedc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prey (that which may be seized by animals)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bait (substance used in catching fish)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "side to eat with rice alcohol"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flammable material"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ignite, to kindle (via a material that has caught fire)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "con mồi",
+     "en": "a prey animal"
+    },
+    {
+     "sense": 1,
+     "vi": "săn mồi",
+     "en": "to hunt"
+    }
+   ]
+  }
+ ]
+}

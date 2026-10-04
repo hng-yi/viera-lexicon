@@ -1,0 +1,1491 @@
+{
+ "batch": "0034",
+ "entries": [
+  {
+   "headword": "tài khoản",
+   "base": "137a15b9be1e2a25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "account"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biết đâu",
+   "base": "437e2959ae581dee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "Used to indicate a possibility without a decisive confirmation; maybe; perhaps"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phó",
+   "base": "464bf285f5a769e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prefix",
+     "tags": [
+      "formal",
+      "morpheme"
+     ],
+     "gloss": "vice-"
+    },
+    {
+     "position": 2,
+     "pos": "suffix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "second-in-command; second-in-supervision"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to leave, to entrust"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phó chủ tịch",
+     "en": "vice-president"
+    },
+    {
+     "sense": 2,
+     "vi": "lớp phó",
+     "en": "assistant student supervisor of the class"
+    },
+    {
+     "sense": 2,
+     "vi": "đội phó",
+     "en": "vice captain"
+    },
+    {
+     "sense": 2,
+     "vi": "tiểu đội phó",
+     "en": "second-in-command of the squad"
+    },
+    {
+     "sense": 2,
+     "vi": "thuyền phó",
+     "en": "a first mate"
+    }
+   ]
+  },
+  {
+   "headword": "tương tự",
+   "base": "6878ca4b704a7ab8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "similar to, alike to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lầm",
+   "base": "0784c3e5f4d433f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a mistake; to be mistaken"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "by accident; by mistake; accidentally; mistakenly"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "mud"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lầm/nhầm lẫn",
+     "en": "to confuse"
+    },
+    {
+     "sense": 2,
+     "vi": "hiểu lầm/nhầm",
+     "en": "to misunderstand"
+    },
+    {
+     "sense": 2,
+     "vi": "ăn lầm/nhầm",
+     "en": "to eat something you're not meant to eat"
+    },
+    {
+     "sense": 3,
+     "vi": "lội ao vớt lầm",
+     "en": "To wade into the pond (so as) to scoop out the mud."
+    }
+   ]
+  },
+  {
+   "headword": "rửa",
+   "base": "aff5ebf0734e78a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wash something non-fabric and non-rice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rửa tay",
+     "en": "to wash one's hands"
+    },
+    {
+     "sense": 1,
+     "vi": "rửa bát",
+     "en": "to wash the dishes"
+    },
+    {
+     "sense": 1,
+     "vi": "Nước vo cơm dùng để rửa rau, rửa rau xong dành rửa cá.",
+     "en": "The water from rinsing the rice was used to wash the vegetables, and after washing the vegetables for cleaning the fish."
+    }
+   ]
+  },
+  {
+   "headword": "bông",
+   "base": "f35d6f3a8143ca28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "bloom; flower"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cotton"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates flowers."
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "coupon; voucher; bond; proof"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "earring"
+    },
+    {
+     "position": 6,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "jokingly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "gấu bông",
+     "en": "a cotton-stuffed bear"
+    },
+    {
+     "sense": 5,
+     "vi": "Thi bảo, không cần rình rang nhưng cũng phải có năm sáu bộ đồ, đôi bông, sợi dây chuyền cho Huệ không phải tủi chứ.",
+     "en": "Thi said, it didn't need to be extravagant, but there still had to be five or six outfits, a pair of earrings, and a necklace so Huệ wouldn't feel ashamed."
+    },
+    {
+     "sense": 6,
+     "vi": "nói bông",
+     "en": "to joke"
+    }
+   ]
+  },
+  {
+   "headword": "cứt",
+   "base": "8dd6a7da4e9678be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "shit (solid excretory product evacuated from the bowel)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "Bullshit!; Rubbish!"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cục cứt",
+     "en": "a turd"
+    },
+    {
+     "sense": 1,
+     "vi": "đống cứt",
+     "en": "a piled-up pile of shit"
+    },
+    {
+     "sense": 1,
+     "vi": "Coi chừng giậm cứt chó đó nghen.",
+     "en": "Be careful not to step on dog shit."
+    }
+   ]
+  },
+  {
+   "headword": "ma túy",
+   "base": "ff6389da3c9180b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of ma tuý."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tinh thần",
+   "base": "d4900a719ed69cf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mind, spirit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành thật",
+   "base": "a53aad9cad47ed5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sincere; honest; frank"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạm",
+   "base": "9ab68fd7df8fda6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "temporary"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not bad, so-so, fair, just okay, somewhat decent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lộ",
+   "base": "9725dde40db6a586",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to come out; to be discovered"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "road; street; path; way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mi giừ ở lộ mô?",
+     "en": "Where are you right now?"
+    }
+   ]
+  },
+  {
+   "headword": "chuyên gia",
+   "base": "61d4b51747ad2618",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expert; specialist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lạc",
+   "base": "d3ede091569817b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "peanut, groundnut"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go stray"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một năm đã đi qua. Mùa xuân thứ hai đã đến. Màu xanh thẫm của đỗ, của ngô, của lạc, màu xanh non của lá mạ, màu đỏ tươi của ớt chín lấn dần lên các thứ màu nham nhở, man rợ khác của đất hoang...",
+     "en": "One year already went by. The second spring has come. The dark-green color of beans, of maizes, of peanuts, the light-green color of rice-seedlings, the bright-red hue of ripe capsicums, are steadily overtaking the wasteland's barbaric, blotchy colors."
+    }
+   ]
+  },
+  {
+   "headword": "lắng nghe",
+   "base": "3a62374f230b9ba5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to listen attentively; to be all ears"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộng",
+   "base": "f7c9fdf73910f940",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having lots of space, or spanning across great amounts of space; spacious, wide, broad, vast, large, etc."
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loose or too big; compare chật (“tight or too small”) and vừa (“fitted”)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "having great breadth or depth; broad, vast, great, deep, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rộng rãi",
+     "en": "spacious"
+    },
+    {
+     "sense": 1,
+     "vi": "Chỗ này rộng thật!",
+     "en": "This place is so large!"
+    },
+    {
+     "sense": 3,
+     "vi": "hiểu biết/kiến thức (sâu) rộng",
+     "en": "broad knowledge"
+    }
+   ]
+  },
+  {
+   "headword": "thư giãn",
+   "base": "84f70958273476c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to relax"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính thức",
+   "base": "a1aa722c65edb56e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "official; formal; standard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chữ viết chính thức",
+     "en": "Official Script"
+    },
+    {
+     "sense": 1,
+     "vi": "Cán cân tài trợ chính thức",
+     "en": "Official Reserve Account"
+    }
+   ]
+  },
+  {
+   "headword": "trao",
+   "base": "21ad2e28f7ed4778",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pass (to); to hand over (to)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to entrust (with)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giấy tờ",
+   "base": "deb90b722f5a4101",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paper documents or paperwork"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tây Ban Nha",
+   "base": "54c5b7661bb5c75f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Spanish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kinh nghiệm",
+   "base": "03e2b1b5b4fb3d62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "experience (collection of events and/or activities from which an individual or group may gather knowledge; the knowledge thus gathered)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kinh nghiệm tối thiểu: 1 năm",
+     "en": "Minimum experience: 1 year"
+    }
+   ]
+  },
+  {
+   "headword": "con tin",
+   "base": "3a22fecb01455a20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hostage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm phiền",
+   "base": "040424ae8dc02334",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to annoy; to bother; to disturb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sự kiện",
+   "base": "3e9a4db3c15f2e6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an event"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tổ chức sự kiện",
+     "en": "to organize events"
+    },
+    {
+     "sense": 1,
+     "vi": "sự kiện 11 tháng 9",
+     "en": "9/11"
+    },
+    {
+     "sense": 1,
+     "vi": "Một sự kiện không nhất thiết phản ánh sự thật tự thân.",
+     "en": "An event itself doesn't need to attain any truthful appearance."
+    }
+   ]
+  },
+  {
+   "headword": "buông",
+   "base": "976cce84ecfa0f26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to release from one's hand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "buông rèm",
+     "en": "to lower the blind/the curtain"
+    }
+   ]
+  },
+  {
+   "headword": "tai",
+   "base": "b5aa69e19a5a42bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thay vì",
+   "base": "b088e5444eab425f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "instead of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địch",
+   "base": "26af9f02bf55a451",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an enemy; adversary; opponent; foe"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to resist; to oppose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "treo",
+   "base": "2fe55fb0ffd1ae8e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hang"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to stop responding to manual input devices such as the keyboard and mouse; to hang"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be halted; to be suspended"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "án treo",
+     "en": "suspended sentence"
+    }
+   ]
+  },
+  {
+   "headword": "động vật",
+   "base": "85dce980840d2380",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an animal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phỏng vấn",
+   "base": "184e37063ee9290c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to interview"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "interview"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đuôi",
+   "base": "1fc36a6f1622be0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tail"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "extension"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stern"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "suffix"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sân bay",
+   "base": "a23a1386586a6669",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "airfield"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "airport"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhà hàng",
+   "base": "56c9eb65a2f583c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a restaurant that accommodates large numbers of people, is often swanky, but is not necessarily for fine dining"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biết ơn",
+   "base": "0eb82b275c10717e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be grateful (to)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia tay",
+   "base": "c086071b1db4282e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to part ways (with); to say goodbye (to)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to end a romantic relationship (with); to break up (with); to separate (with); to split up (with)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mệt mỏi",
+   "base": "3efa6e78a26e1cd0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tired, exhausted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dối trá",
+   "base": "92308db6c58dd578",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "deceptive; fraudulent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẻ dối trá",
+     "en": "a liar or fraud"
+    }
+   ]
+  },
+  {
+   "headword": "tài sản",
+   "base": "01a973c82d188e3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "property; assets; wealth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chìm",
+   "base": "76d6c52e676f08d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be sunk; to be submerged; to be immersed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be concealed; to be hidden"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liền",
+   "base": "c5dac418eb3ebf63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "continuous; successive"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "continuously; successively"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at once; immediately; right away"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Ờ ờ, để làm liền cho.",
+     "en": "Hear, hear, I will do it right away."
+    }
+   ]
+  },
+  {
+   "headword": "trói",
+   "base": "ec212202b9c59480",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tie or bind a person or animal, or their body parts together, to immobilize them; compare buộc/cột (“to tie an object”) and còng (“to handcuff”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trói tay nó lại !",
+     "en": "Tie up her wrists!"
+    },
+    {
+     "sense": 1,
+     "vi": "Trói nó vào cột !",
+     "en": "Tie him to that column!"
+    }
+   ]
+  },
+  {
+   "headword": "căn cứ",
+   "base": "fe2d885045289daf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basis, grounds"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a base (permanent structure for housing military)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to base on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lời phê bình không có căn cứ.",
+     "en": "The criticism is groundless."
+    }
+   ]
+  },
+  {
+   "headword": "giám sát",
+   "base": "3f542a544fcb1cea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to supervise; to check; to oversee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bụi",
+   "base": "fbac2d523c107546",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dust"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dusty"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bush, shrub, clump (of trees)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ đề",
+   "base": "35cd88f3dc69e1be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subtitles, captions"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cái video này có phụ đề hơn chục thứ tiếng.",
+     "en": "This video has subtitles provided in a dozen languages."
+    }
+   ]
+  },
+  {
+   "headword": "kín",
+   "base": "8ae830540e7e20ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "closed; covered; sealed; enclosed"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "secret; private"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "obsolete",
+      "possibly"
+     ],
+     "gloss": "to fetch; to go get"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Chiều hôm ấy thị Nở cũng ra sông kín nước như mọi chiều.",
+     "en": "That afternoon, as always, Nở went to the river to fetch some water."
+    }
+   ]
+  },
+  {
+   "headword": "tình cảm",
+   "base": "520657aede6d0837",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "affection"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the capability of having affection"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "ironic"
+     ],
+     "gloss": "goodwill acquired through money or gifts"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sentimental; emotional"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Tặng ổng cái đồng hồ cho có tình cảm.",
+     "en": "Give him a watch for good will."
+    }
+   ]
+  },
+  {
+   "headword": "vô dụng",
+   "base": "98c470d8deebe439",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "useless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẹp trai",
+   "base": "f8b68060e9fc3aa0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "handsome; attractive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xét nghiệm",
+   "base": "4eefd0ce2ccad1a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do tests (with the aim of diagnosis)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh dự",
+   "base": "f8c95b5a855a1380",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "honor (recognition of importance or spiritual value; respect; excellence of character, high moral worth, virtue)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mất danh dự",
+     "en": "to lose honor"
+    }
+   ]
+  },
+  {
+   "headword": "thay thế",
+   "base": "7fa17b6374256872",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to replace; to take the place of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giơ",
+   "base": "0c70b2b7dd40ed3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold up, to lift"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giơ tay lên",
+     "en": "to raise one's hand; to hands up"
+    }
+   ]
+  },
+  {
+   "headword": "bão",
+   "base": "945b3505532e8725",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "storm"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colicky pain (in the abdomen)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "rowdy and wild behaviour, such as in celebration after a triumph"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Nhóm này sẽ di chuyển từ nhiều quận huyện tới điểm hẹn để tổ chức \"bão\".",
+     "en": "This group gathers from different districts and meets at a designated spot to hold a riot."
+    }
+   ]
+  },
+  {
+   "headword": "ý định",
+   "base": "3fc4d5719b2f33b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intention"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khởi động",
+   "base": "d252068e2b13ec4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to boot, to start up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to warm up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hứng thú",
+   "base": "83831a2a17889aff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "interest"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "interested"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình",
+   "base": "d69cd7a91ac4e0e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vase"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pot"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vessel, container"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to declaim, to recite"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "satisfactory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gấu",
+   "base": "e2a83748adae07c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bear (large mammal of family Ursidae)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "date; romantic partner"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "bullylike; fierce"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hem; hemline"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Truyện gấu ăn trăng",
+     "en": "Tale of the Bear Who Ate the Moon"
+    }
+   ]
+  },
+  {
+   "headword": "giới hạn",
+   "base": "073e2eb8b0e3c6aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "limit; bound"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúi",
+   "base": "8019b4104dea31b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "pig"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bend (one's body)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a roll of twisted straw or cotton fiber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nhật",
+   "base": "c266269ed58d729c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Japanese"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiếng Nhật",
+     "en": "the Japanese language"
+    }
+   ]
+  },
+  {
+   "headword": "tám",
+   "base": "2cad2b619b0f4696",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "eight"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to chat"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to gossip"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

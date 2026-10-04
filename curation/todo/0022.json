@@ -1,0 +1,1575 @@
+{
+ "batch": "0022",
+ "entries": [
+  {
+   "headword": "ma",
+   "base": "7f9d3ede8da6c6c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ghost (spirit appearing after death)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "a demon"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "anyone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Có thấy ma nào đâu!",
+     "en": "(I) don't see anyone!"
+    }
+   ]
+  },
+  {
+   "headword": "luật sư",
+   "base": "e9c082ca619b4e2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lawyer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a type of priest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồ sơ",
+   "base": "1d6d0b75b6e1e9cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a file; case; record; profile"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hồ sơ khách hàng",
+     "en": "Customer Profile; Customer Record"
+    },
+    {
+     "sense": 1,
+     "vi": "Hồ sơ địa hình",
+     "en": "Topographical Profile; Terrain Record"
+    }
+   ]
+  },
+  {
+   "headword": "vì vậy",
+   "base": "364b6bba6efa33a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "therefore; consequently; so for that reason"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sinh con bình thường là một quá trình tự nhiên, vì vậy không cần phải sợ hãi.",
+     "en": "Normal childbirth is a natural process, therefore there's no need to be scared."
+    }
+   ]
+  },
+  {
+   "headword": "hành tinh",
+   "base": "3d57b7b45c494cdc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a planet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hành tinh thứ ba, tính từ Mặt Trời",
+     "en": "the third planet, counting from the Sun"
+    },
+    {
+     "sense": 1,
+     "vi": "hành tinh đỏ",
+     "en": "the red planet"
+    }
+   ]
+  },
+  {
+   "headword": "loài",
+   "base": "8436519f53a6007c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "kind; type"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "species"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khóc",
+   "base": "26ebd62d9f08c870",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cry, to weep"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẻ thù",
+   "base": "ea889351bc85336a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "enemy; foe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình như",
+   "base": "4b544f08db93a17f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "seemingly, although not certainly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hình như nó mới phẫu thuật thẩm mĩ hay sao í.",
+     "en": "I think she's gotten some work done."
+    }
+   ]
+  },
+  {
+   "headword": "vì thế",
+   "base": "60a77572dbed6b52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "therefore; thus; hence; as a result; as such"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh",
+   "base": "294c52be1590a004",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grue (green or blue)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "green (sickly, unwell)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "green (unripe)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "youthfully black"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of sanh"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bầu trời xanh thẳm",
+     "en": "the deep blue sky"
+    },
+    {
+     "sense": 1,
+     "vi": "Lá còn xanh như anh đang còn trẻ. / Lá trên cành, như anh trong đoàn quân.",
+     "en": "A leaf is green, like he is young. / A leaf is on a branch, like he is in a troop."
+    },
+    {
+     "sense": 1,
+     "vi": "Em yêu anh, ngả nghiêng, bồng bềnh niềm kiêu hãnh. / Thiên đường xanh mướt, gió trong lành […] Hãy yêu nhau, biển trời xanh mãi !",
+     "en": "I love you, with drifting, floating pride. / A green paradise, with refreshing winds […] Let's be in love so the sea and the sky remain forever blue!"
+    },
+    {
+     "sense": 4,
+     "vi": "người đầu bạc tiễn kẻ đầu xanh",
+     "en": "\"the young perish and the old linger\"; the old watch the young die"
+    },
+    {
+     "sense": 4,
+     "vi": "Tóc nào hãy còn xanh, cho ta chút hồn nhiên.",
+     "en": "Whose hair is still black, granting me a tad of innocence?"
+    },
+    {
+     "sense": 4,
+     "vi": "Được yêu em đến khi bạc mái đầu xanh.",
+     "en": "That I could love you until our black hair turns gray."
+    },
+    {
+     "sense": 5,
+     "vi": "Xuống bếp, Vịnh đổ mỡ vào xanh. Mỡ chảy ra trong những tiếng xèo xèo.",
+     "en": "Entering the kitchen, Vịnh poured oil into the wok. Grease poured out with a sizzling sound."
+    }
+   ]
+  },
+  {
+   "headword": "liệu",
+   "base": "7241bc318787ee39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to think about; to consider; to weigh in one's mind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngăn",
+   "base": "9449bcb4c70a4abd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stop or prevent someone from doing something"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "compartment; case, shelf"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chamber"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ngăn kéo",
+     "en": "a drawer"
+    },
+    {
+     "sense": 2,
+     "vi": "Cặp này có 3 ngăn.",
+     "en": "This backpack has 3 compartments."
+    },
+    {
+     "sense": 2,
+     "vi": "Giá sách này có 4 ngăn. Ngăn trên cùng để sách chính trị.",
+     "en": "This bookcase has 4 shelves. I put my political books on the topmost shelf."
+    },
+    {
+     "sense": 3,
+     "vi": "Tim bò sát có 3 ngăn, trừ tim cá sấu.",
+     "en": "Reptilian hearts tend to have 3 chambers, except those of crocodilians."
+    }
+   ]
+  },
+  {
+   "headword": "rút",
+   "base": "a80a94610dc92724",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull out or pull back"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to withdraw; to revoke"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw (lesson, experience, conclusion, etc.)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go down; to recede; to ebb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tắm",
+   "base": "2fa3f86b2b044177",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wash a live body, usually your own; to bathe, to shower, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to bathe in something, watery or not"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vòi tắm",
+     "en": "a shower hose or showerhead"
+    },
+    {
+     "sense": 1,
+     "vi": "tắm (cho) chó/con",
+     "en": "to give your dog/child a bath or a shower"
+    },
+    {
+     "sense": 2,
+     "vi": "tắm nắng",
+     "en": "to sunbathe"
+    },
+    {
+     "sense": 2,
+     "vi": "tắm bùn",
+     "en": "to have a mud bath"
+    },
+    {
+     "sense": 2,
+     "vi": "tắm biển",
+     "en": "to swim in the sea"
+    }
+   ]
+  },
+  {
+   "headword": "trái tim",
+   "base": "bf8d763c5d204dbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "heart (as seat of emotions)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nóng",
+   "base": "9228329ac2d1b072",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot (temperature)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot-tempered; quick-tempered; irritable"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impatient"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot; fresh"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "causing the body to be nhiệt (literally “heated”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm nóng",
+     "en": "to warm up"
+    },
+    {
+     "sense": 1,
+     "vi": "Hôm nay trời nóng nhỉ?",
+     "en": "It's really hot today, isn't it?"
+    }
+   ]
+  },
+  {
+   "headword": "im",
+   "base": "a347c7d0e3537a7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "calm; silent; quiet; not talking anymore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự nhiên",
+   "base": "9a2d03acbbf21199",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nature"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "natural (of nature)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "natural; unstudied"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "suddenly; all of a sudden; spontaneously"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "for no good reason"
+    },
+    {
+     "position": 6,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "what the heck do ya think you're doin'?"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chọn lọc tự nhiên",
+     "en": "natural selection"
+    },
+    {
+     "sense": 3,
+     "vi": "Xin cứ tự nhiên như ở nhà.",
+     "en": "Please make yourself at home."
+    }
+   ]
+  },
+  {
+   "headword": "nhân viên",
+   "base": "9d2a2a9e6380c3b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an employee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuyền trưởng",
+   "base": "32c6f9339a04b202",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sea captain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dấu",
+   "base": "0510e435e5a31373",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mark, sign"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diacritic"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "tone"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to love"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Giờ tôi đang có 2.214 tên lưu trong một chiếc máy điện thoại không còn so sánh với vật liệu xây dựng nữa – bạn bè, bạn của bạn bè, người không biết từ hành tinh nào xuống. Vì thế, mỗi lần lưu “contact” mới tôi viết cụ thể lắm: “Chi Minh Thuy ban cua anh Hai gap o Starbowl hom sinh nhat”, do phần mềm linh hoạt nên tôi có thể viết dài dòng, thêm đại từ chỉ định, kể cả tiếng Việt có dấu, phân biệt giữa các em Thúy, Thủy, Thùy, và Thụy.",
+     "en": "Currently I have 2,214 names saved in my contact list on a phone I no longer compare to a type of building material: of friends, of friends' friends, of aliens from some unknown planets. So every time I save a new contact, I try to be as specific as possible: \"Sis Minh Thuy friend of bro Hai met at Starbowl on birthday\", and thanks to flexible software, I can be verbose, add demonstratives, use diacritical marks to distinguish between Thúy, Thủy, Thùy and Thụy."
+    }
+   ]
+  },
+  {
+   "headword": "nam",
+   "base": "84d35d0a065b9a6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "south"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "boys and men"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "masculine"
+     ],
+     "gloss": "male"
+    },
+    {
+     "position": 4,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "male; -o"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "nam thanh niên",
+     "en": "a young man"
+    }
+   ]
+  },
+  {
+   "headword": "trễ",
+   "base": "7c48f3cd6bda495a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "late; tardy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hanging; drooping; sagging"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ thể",
+   "base": "18befbe194235759",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human body, organism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nửa",
+   "base": "aaf1132f6ac35082",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "half"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "half; semi-"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nửa thời gian",
+     "en": "half of the time"
+    }
+   ]
+  },
+  {
+   "headword": "ý tưởng",
+   "base": "4672a032e17ef8e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "idea, thought"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lên ý tưởng cho chuyến thực địa tới",
+     "en": "to look for ideas for the next field trip"
+    }
+   ]
+  },
+  {
+   "headword": "sống sót",
+   "base": "62893ce19187477d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to survive; to live past a major disaster, upheaval, or other dangerous event that leaves many others dead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sư phụ",
+   "base": "77f91190933de989",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "especially"
+     ],
+     "gloss": "one's male teacher"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "a master (expert at something)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Aaaa! Sư phụ tha tội! Con biết lỗi rồi!",
+     "en": "Aaargh! Forgive me, master! I'm sorry!"
+    }
+   ]
+  },
+  {
+   "headword": "tầm",
+   "base": "57ac500d6ee6cd90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "An ancient unit of length."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "range (extent of excursion; reach; scope)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "level or degree"
+    },
+    {
+     "position": 4,
+     "pos": "prep",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "about"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tầm tay/với",
+     "en": "reach"
+    },
+    {
+     "sense": 2,
+     "vi": "Tránh xa tầm tay trẻ em.",
+     "en": "Keep out of children's reach."
+    },
+    {
+     "sense": 2,
+     "vi": "tầm bắn",
+     "en": "firing range"
+    },
+    {
+     "sense": 2,
+     "vi": "tên lửa tầm ngắn",
+     "en": "short-range ballistic missile"
+    },
+    {
+     "sense": 3,
+     "vi": "có tâm ắt có tầm",
+     "en": "if you have a mind, you will have a vision"
+    },
+    {
+     "sense": 4,
+     "vi": "Tầm mười năm trở lại đây, diện mạo nơi này đã thay đổi hẳn.",
+     "en": "Within the last 10 years or so, this place has completely transformed."
+    }
+   ]
+  },
+  {
+   "headword": "hại",
+   "base": "9555bcb0b88cc9e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "detrimental; injurious"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to harm; to cause problems to someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đọc sách nơi thiếu ánh sáng hại mắt lắm.",
+     "en": "It's harmful to your eyes when you read books in dimly lit places."
+    }
+   ]
+  },
+  {
+   "headword": "giấu",
+   "base": "3655f271f2be0977",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hide (from sight)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hide (to keep something secret); to conceal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thất bại",
+   "base": "4a4eb6c8b0d3034c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fail; to be unsuccessful"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be defeated"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "failure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Á",
+   "base": "e93fab2293805d7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Asian (of, from or relating to Asia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "á",
+   "base": "a43cb4b9ad1206ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter Ă/ă."
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "secondary"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "semi-; demi-"
+    },
+    {
+     "position": 4,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "An expression of sudden pain or uttered under shock."
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "emphasizes a quality that the listener may not have known; you see?; I'm telling you"
+    },
+    {
+     "position": 6,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Question particle, express strong doubts; really?"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "á hậu",
+     "en": "a beauty pageant runner-up"
+    },
+    {
+     "sense": 2,
+     "vi": "Mạnh Tử được mệnh danh là á thánh, sau Khổng Tử.",
+     "en": "Mencius is known as the secondary sage, second only to Confucius."
+    },
+    {
+     "sense": 3,
+     "vi": "á kim",
+     "en": "a metalloid"
+    },
+    {
+     "sense": 3,
+     "vi": "á thần",
+     "en": "a demigod"
+    },
+    {
+     "sense": 5,
+     "vi": "Món này ngon lắm á! Mày ăn thử đi rồi biết.",
+     "en": "This dish is delicious! Try it and you will know."
+    },
+    {
+     "sense": 6,
+     "vi": "Mày có chắc không á?",
+     "en": "Are you sure about that?"
+    }
+   ]
+  },
+  {
+   "headword": "chương trình",
+   "base": "668bcd51cb6da67e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a program"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a show or performance set on a stage"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a nonfiction program (e.g. game show, talk show, call-in show, etc.); compare phim"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a program; a computer program"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chương trình đào tạo",
+     "en": "a curriculum"
+    },
+    {
+     "sense": 1,
+     "vi": "chương trình bảo vệ nhân chứng",
+     "en": "witness protection"
+    }
+   ]
+  },
+  {
+   "headword": "phục vụ",
+   "base": "dd605eebfe1f0c94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to serve, to attend to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phục vụ người ốm",
+     "en": "to attend to the sick, to nurse the sick"
+    }
+   ]
+  },
+  {
+   "headword": "đẩy",
+   "base": "bd39f946986a296a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to push, to shove, to thrust"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "miệng",
+   "base": "e6123ec5a5c8e3f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mouth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "family member"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "báo cáo miệng",
+     "en": "spoken report"
+    }
+   ]
+  },
+  {
+   "headword": "giới thiệu",
+   "base": "7276661736feacce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to present, to introduce"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suggest, to recommend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lễ",
+   "base": "89461e7d3c84f7b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ceremony, festival, festive day, holiday"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds",
+      "obsolete"
+     ],
+     "gloss": "etiquette, propriety, decorum, manners"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "offering"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "bribe"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kowtow, to worship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lễ tốt nghiệp",
+     "en": "graduation ceremony"
+    },
+    {
+     "sense": 2,
+     "vi": "đáp lễ",
+     "en": "to reciprocate propriety"
+    },
+    {
+     "sense": 3,
+     "vi": "mang lễ lên chùa",
+     "en": "to bring offerings to the temple"
+    },
+    {
+     "sense": 3,
+     "vi": "trả lễ",
+     "en": "to return [a supernatural being's favor[s]] with offerings"
+    },
+    {
+     "sense": 5,
+     "vi": "Trước cửa chùa là con rùa to bằng đá, đội bát nhang để du khách thập phương thắp hương trước khi vào lễ Phật.",
+     "en": "In front of the temple's gate is a large stone turtle carrying an incense bowl for visitors from everywhere to burn their incenses before entering to worship the Buddha[s]."
+    }
+   ]
+  },
+  {
+   "headword": "nạn nhân",
+   "base": "2f1e3f148e4a0e4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "victim"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "luật",
+   "base": "f4d54f154b458d2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the law (body of rules established in a community by its authorities)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rules (what to adhere to in order to do things correctly, as designed); compare nội quy (what to adhere to for, specifically, proper and acceptable conduct at a place, such as a park or workplace)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a code or an act"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "luật chơi",
+     "en": "the rules of a game (in order to play it correctly, as it is designed to be played)"
+    },
+    {
+     "sense": 2,
+     "vi": "luật thơ Đường",
+     "en": "the rules of Tang poetry (in order to write a correct poem, as it should be written)"
+    },
+    {
+     "sense": 3,
+     "vi": "bộ luật",
+     "en": "a code or an act"
+    },
+    {
+     "sense": 3,
+     "vi": "Luật Bảo hiểm Xã hội",
+     "en": "the Social Insurance Act"
+    }
+   ]
+  },
+  {
+   "headword": "em gái",
+   "base": "89071c95ffc077f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "literary",
+      "often"
+     ],
+     "gloss": "younger sister"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bà Potter là em gái của bà Dursley, nhưng nhiều năm rồi họ chẳng hề gặp gỡ nhau.",
+     "en": "Mrs. Potter was Mrs. Dursley's sister, but they hadn't met for several years."
+    }
+   ]
+  },
+  {
+   "headword": "nghiên cứu",
+   "base": "d623e1667df3a3c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to research; to study intensively"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a study; scholarly investigation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà nghiên cứu",
+     "en": "researcher"
+    },
+    {
+     "sense": 1,
+     "vi": "sự nghiên cứu",
+     "en": "the research (generally)"
+    },
+    {
+     "sense": 2,
+     "vi": "Vì vậy, các nhà khoa học thần kinh thuộc Đại học Yale đã chủ trì một nghiên cứu hồi đầu năm về vấn đề này.",
+     "en": "Consequently, neuroscientists from Yale University led a study this year on the matter."
+    }
+   ]
+  },
+  {
+   "headword": "nhắn",
+   "base": "dc9f805b994bc94b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to send word; to leave a message"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an ninh",
+   "base": "e911b57dccfe8a3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "security"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "secure"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "an ninh mạng",
+     "en": "cybersecurity"
+    }
+   ]
+  },
+  {
+   "headword": "anh chàng",
+   "base": "6937f8ddc10d0fa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory",
+      "familiar"
+     ],
+     "gloss": "guy; dude; chap"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khốn kiếp",
+   "base": "111ea415066e647c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "misery, distress"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "miserable, distressful"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [
+      "offensive",
+      "vulgar"
+     ],
+     "gloss": "Damn! Shit!"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Đồ khốn kiếp!",
+     "en": "Fuck you!"
+    }
+   ]
+  },
+  {
+   "headword": "thị trấn",
+   "base": "7fb949106ff65cf1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "commune-level town (Vietnamese administrative unit)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ừm",
+   "base": "e2af20ae55ae7b31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "um"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "yeah"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nope"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh sách",
+   "base": "8cb3545e150b4ffa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "list"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chậm",
+   "base": "957c59a921634f3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chậm mà chắc",
+     "en": "steady yet resolute"
+    }
+   ]
+  },
+  {
+   "headword": "sông",
+   "base": "cdabca2866907af7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "river (large stream which drains a landmass)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bờ sông",
+     "en": "river bank"
+    }
+   ]
+  },
+  {
+   "headword": "pháp",
+   "base": "ca664637ee560e00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "rule; law; standard; method"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiều",
+   "base": "2aa888d28c68853b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "late afternoon; early evening"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the direction; course (from one point in space to another)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a dimension"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to coddle; to pamper; to spoil"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "theo chiều từ A đến B",
+     "en": "follow the direction from A to B"
+    },
+    {
+     "sense": 2,
+     "vi": "theo chiều từ bắc xuống nam",
+     "en": "follow the direction from north to south"
+    },
+    {
+     "sense": 3,
+     "vi": "không gian 3 chiều",
+     "en": "3D space"
+    },
+    {
+     "sense": 4,
+     "vi": "Anh đừng có chiều nó ! Phải dạy cho nó biết quý trọng giá trị đồng tiền.",
+     "en": "Stop coddling her! You should be showing her how to appreciate the true value of money."
+    }
+   ]
+  }
+ ]
+}

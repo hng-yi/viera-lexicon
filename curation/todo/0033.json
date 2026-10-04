@@ -1,0 +1,1581 @@
+{
+ "batch": "0033",
+ "entries": [
+  {
+   "headword": "đe",
+   "base": "405aae449a2a4939",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anvil"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to warn, to threaten"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảy",
+   "base": "307e879e0da4eaa5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "seven"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tin tức",
+   "base": "5c72ad5f2bf8e8dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "news; tidings; information"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đến nơi",
+   "base": "36f2a6ef258c6215",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "drawing near"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hoạ đến nơi rồi mà còn không biết liệu.",
+     "en": "Disaster is about to strike, yet you don't even think about it."
+    }
+   ]
+  },
+  {
+   "headword": "ngắm",
+   "base": "9e14915dcdba27fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to view attentively, especially for pleasure"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to aim (at) something, to target"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to view"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngắm bức tranh",
+     "en": "to view a painting"
+    },
+    {
+     "sense": 1,
+     "vi": "ngắm phong cảnh",
+     "en": "to view/contemplate a landscape"
+    },
+    {
+     "sense": 1,
+     "vi": "ngắm chim",
+     "en": "to watch birds"
+    },
+    {
+     "sense": 1,
+     "vi": "Chúng ta không đến đây để ngắm cảnh. Mọi người bắt tay làm việc nào !",
+     "en": "We're not here for sightseeing. Everybody, get working!"
+    },
+    {
+     "sense": 2,
+     "vi": "ngắm đích mà bắn",
+     "en": "to aim a target (before shooting)"
+    },
+    {
+     "sense": 3,
+     "vi": "ngắm bộ",
+     "en": "viewfinder"
+    },
+    {
+     "sense": 3,
+     "vi": "bộ ngắm",
+     "en": "sight (of a weapon)"
+    },
+    {
+     "sense": 3,
+     "vi": "bộ ngắm oanh tạc",
+     "en": "bombsight"
+    }
+   ]
+  },
+  {
+   "headword": "tiếp cận",
+   "base": "f98d5ca3591300bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to approach; to reach"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vương quốc",
+   "base": "25fccf68c130b9eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kingdom (nation having as supreme ruler a king and/or queen)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vương quốc Liên hiệp/hợp Anh và Bắc Ai-len",
+     "en": "the United Kingdom of Great Britain and Northern Ireland"
+    }
+   ]
+  },
+  {
+   "headword": "hư",
+   "base": "6731cab272862fcc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "corrupt, decayed, rotten, spoiled, damaged"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad; misbehaving; mischievous; disobedient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vớ",
+   "base": "d4485818f8384e00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to seize (quickly); to grasp; to grip; to snatch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "to come upon; to light upon"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "a sock"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "broadly"
+     ],
+     "gloss": "stocking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "mang vớ",
+     "en": "to be wearing socks"
+    },
+    {
+     "sense": 3,
+     "vi": "đi vớ",
+     "en": "to put on socks"
+    }
+   ]
+  },
+  {
+   "headword": "cứu mạng",
+   "base": "468bc603b71e1800",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to save someone's life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trả thù",
+   "base": "4dbb9c0f2f4bc0ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to avenge, to take revenge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nàng làm vậy là để trả thù.",
+     "en": "She did it out of revenge."
+    }
+   ]
+  },
+  {
+   "headword": "nút",
+   "base": "2a864b226f152d43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bung; stopper; cork"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "button"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "button; key"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "button"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "button"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a bunch; a group of people"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to suck (on)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nút chai rượu vang",
+     "en": "the cork of a wine bottle"
+    },
+    {
+     "sense": 7,
+     "vi": "Nhanh lên không chết cả nút bây giờ!",
+     "en": "Hurry up or we'll all die!"
+    },
+    {
+     "sense": 8,
+     "vi": "ong nút nhụy hoa",
+     "en": "The bee sucks on the flower's pistil"
+    }
+   ]
+  },
+  {
+   "headword": "gác",
+   "base": "9d4d3f0118736a72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to guard; to watch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put something on something; to hang something on something"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put on hold"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a loft"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "gác chân lên bàn",
+     "en": "to put/rest one's legs on a table"
+    },
+    {
+     "sense": 3,
+     "vi": "Giờ ta tạm gác lại chuyện đó.",
+     "en": "Let's put that on hold for the time being."
+    }
+   ]
+  },
+  {
+   "headword": "sói",
+   "base": "bb4832f11ef162d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wolf (animal)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Siamese jackal (Canis aureus cruesemanni)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "synonym of hói"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sẵn",
+   "base": "56c46036b5ae651d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ready; prepared"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số phận",
+   "base": "24d9c0d0073e71ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fate; destiny (usually bad)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "life or lifespan"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "số phận hảm hiu",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "vượt lên trên số phận",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "kết liễu số phận tên tướng cướp",
+     "en": "to end a gangleader's life"
+    },
+    {
+     "sense": 2,
+     "vi": "số phận ngắn ngủi của những bộ phim mì ăn liền",
+     "en": "the short lifespans of budget movies"
+    }
+   ]
+  },
+  {
+   "headword": "không khí",
+   "base": "4b737f97dd89a6f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "air (mixture of gases making up the atmosphere of the Earth)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the air or atmosphere of a place, especially one that is energized and involves lots of activity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không khí chứa nhiều loại khí như ni-tơ, ô-xi và các-bon đi-ô-xít.",
+     "en": "Air contains different gases, such as nitrogen, oxygen and carbon dioxide."
+    },
+    {
+     "sense": 2,
+     "vi": "Lớp này hơi trầm, thiếu không khí.",
+     "en": "This class has sort of a subdued air."
+    }
+   ]
+  },
+  {
+   "headword": "ấm",
+   "base": "0ea253926ace2d7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "warm"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pot; kettle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đấm",
+   "base": "36eb38b7086590c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to punch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cú đấm",
+     "en": "a punch"
+    }
+   ]
+  },
+  {
+   "headword": "tướng",
+   "base": "e8d6bbbcf31630ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "general officer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "general, a piece labeled with the characters 將 /将 (black) and 帥 /帅 (soái, red)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "looks; build; stature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mồm",
+   "base": "801782ae92d3ec91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mouth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "to mồm",
+     "en": "loudmouthed"
+    }
+   ]
+  },
+  {
+   "headword": "đau khổ",
+   "base": "dbd5c5df3fa5ab54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wretched; anguished; feeling awful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân chứng",
+   "base": "8c0766bbc2b56570",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "witness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nền",
+   "base": "c316fe968bbe71dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foundation, basis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "background"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for abstract nouns, such as culture, civilisation, law, economics, education, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nền đất",
+     "en": "the ground"
+    },
+    {
+     "sense": 2,
+     "vi": "nhạc nền",
+     "en": "background music"
+    }
+   ]
+  },
+  {
+   "headword": "thiết kế",
+   "base": "3e267c775c29adb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to design"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thiết kế vi mạch",
+     "en": "integrated circuit design"
+    }
+   ]
+  },
+  {
+   "headword": "tổ",
+   "base": "0132a00799510f8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "a nest"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a group or team that is divided from a larger body merely for management"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the lowest subdivision of a thành phố trực thuộc tỉnh or quận, below khối"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ancestor; forefather"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "forefather; patron saint; founder"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "tổ nghề mộc",
+     "en": "the founder of woodworking"
+    }
+   ]
+  },
+  {
+   "headword": "quyển",
+   "base": "8c0c225130ced661",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "synonym of cuốn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ổn định",
+   "base": "3729792f3516effe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stable; secure"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stability"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ổn định chính trị",
+     "en": "political stability"
+    }
+   ]
+  },
+  {
+   "headword": "sàn",
+   "base": "97c45d4cd682f098",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "floor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát",
+   "base": "51ec6d6dca5abe5e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sand"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grain (as in a fine grain of silk)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đồng hồ cát",
+     "en": "an hourglass"
+    }
+   ]
+  },
+  {
+   "headword": "quần",
+   "base": "dd04663d2b02dfa3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "two-legged/holed bottom; pants, shorts, briefs, panties, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wear (someone) out; to exhaust (someone)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "\"quần không đáy\"",
+     "en": "\"crotchless pants\"; skirt"
+    },
+    {
+     "sense": 1,
+     "vi": "quần đùi",
+     "en": "shorts; boxers"
+    },
+    {
+     "sense": 1,
+     "vi": "quần lửng",
+     "en": "capri pants"
+    },
+    {
+     "sense": 1,
+     "vi": "quần xà lỏn",
+     "en": "shorts"
+    }
+   ]
+  },
+  {
+   "headword": "xu",
+   "base": "2a92b4e4dfa1b1b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "xu (1/100 of a dong); cent; penny"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thích hợp",
+   "base": "68aae04128d71738",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "suitable; matching; fitting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thám tử",
+   "base": "1dbb7bb82827f719",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "detective"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "spy; scout"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chợt bắt được tên thám-tử của quân Minh, tra ra thì biết rằng quân Vương Thông đóng ở Ninh-kiều, […]",
+     "en": "Accidentally, they discovered a scout from the Ming; having interrogated [him], they found out that Wang Tong's troops were stationed in Ninh-kiều, […]"
+    }
+   ]
+  },
+  {
+   "headword": "trả giá",
+   "base": "29f4c0f9d4786142",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bid"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to bargain, haggle"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to pay the price (for one's action); to pay the penalty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiệt",
+   "base": "9aaa1eef97cb849c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "real; true; factual"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suffer one's loss, often figuratively"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bữa nay gió ghê thiệt.",
+     "en": "It's real windy today, isn't it?"
+    },
+    {
+     "sense": 2,
+     "vi": "Người chịu thiệt rốt cuộc vẫn là người tiêu dùng.",
+     "en": "In the end, the consumers are still the ones to be burned."
+    }
+   ]
+  },
+  {
+   "headword": "mặt nạ",
+   "base": "792da9e4415b64b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mask (cover for the face)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mask (that which disguises)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kệ",
+   "base": "30337f8dfed3e021",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "to leave alone; to let be"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "whatever; screw it; what the hell"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small shelf"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gatha"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "kệ sách",
+     "en": "a bookshelf"
+    }
+   ]
+  },
+  {
+   "headword": "sân",
+   "base": "ebd60f789e19815b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a yard"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a ground for playing physical sports; a field, a pitch, a course, a court, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sân trường",
+     "en": "a schoolyard"
+    },
+    {
+     "sense": 2,
+     "vi": "sân vận động",
+     "en": "a stadium"
+    }
+   ]
+  },
+  {
+   "headword": "phe",
+   "base": "34c8059d202eff0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "faction, side, sect, camp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rác",
+   "base": "c5f76cac967178ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "short, scattered straws and stalks"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "trash, garbage, rubbish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ki hốt rác",
+     "en": "a dustpan"
+    },
+    {
+     "sense": 2,
+     "vi": "sọt rác",
+     "en": "a small trash bin"
+    }
+   ]
+  },
+  {
+   "headword": "thiên thần",
+   "base": "b4c3640be60afffe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "angel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lãnh đạo",
+   "base": "96375fd957a29d38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leader"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xây",
+   "base": "b93ccf798b07303a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to build"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vùng đất",
+   "base": "f1d3dabd1fc6a50e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land; territory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỏ",
+   "base": "de5d0bcfd9060622",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cover, bark, shell, sheath, husk, skin, peel, pot, crust"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tyre, tire"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trượt vỏ chuối",
+     "en": "to slip on banana's peel"
+    }
+   ]
+  },
+  {
+   "headword": "trung úy",
+   "base": "cefd6b2a6092e94c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of trung uý."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lâu đài",
+   "base": "dc94187496470752",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a castle; château; palace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loài người",
+   "base": "af68f3688b1fded6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mankind; human race"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ ăn",
+   "base": "5b152c5fa294f0b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "food"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cỗ",
+   "base": "e813942207377658",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "feast"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "set; suite"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates certain tools that are assembled from smaller parts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cỗ pháo",
+     "en": "a cannon"
+    },
+    {
+     "sense": 3,
+     "vi": "cỗ máy",
+     "en": "a machine"
+    }
+   ]
+  },
+  {
+   "headword": "đoàn",
+   "base": "fc2b65938399bbb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "group; party; corps; league"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đương nhiên",
+   "base": "2f5410f6f55b99ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "obvious; evident; apparent"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "obviously; evidently; apparently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chở",
+   "base": "bd0a6d27493a766f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transport; to convey; to freight; to transfer (especially by vehicle or vessel)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô đơn",
+   "base": "fc81f68a118e374c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lonely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "miền",
+   "base": "1f5f4337e522eb53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "region, district"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "domain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "miền xuôi",
+     "en": "lowland"
+    },
+    {
+     "sense": 1,
+     "vi": "miền núi",
+     "en": "mountainous region"
+    }
+   ]
+  },
+  {
+   "headword": "đáp",
+   "base": "742cdcf025117865",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reply or respond"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to land"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "\"Thì sao?\" - hắn đáp",
+     "en": "\"So what?\" - he said [in response]"
+    },
+    {
+     "sense": 1,
+     "vi": "đáp trả",
+     "en": "to verbally or physically counterattack"
+    },
+    {
+     "sense": 2,
+     "vi": "Giữa rừng dây choại kẹo lền, Chim bay đáp xuống hóa nên sân bằng.",
+     "en": "In the forest, ferns grew dense and thick, but the birds keep landing there, so it became a flat field."
+    }
+   ]
+  },
+  {
+   "headword": "cờ",
+   "base": "6002e67d233a125e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flag; banner; standard; vexillum; streamer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vexillum (upper petal of a papilionaceous flower)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a board game in which there are pieces, such as chess, go, shogi, xiangqi, etc., or tokens such as Monopoly, Ludo, etc. (including their bootleg counterparts)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter C/c."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cờ tổ quốc",
+     "en": "the national flag, specifically referring to the flag of Vietnam"
+    }
+   ]
+  },
+  {
+   "headword": "sát thủ",
+   "base": "16d05b94f58b9fe5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "assassin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuy nhiên",
+   "base": "7d5b2b0659adfbf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "however, but, nevertheless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạt",
+   "base": "324dd48c5b65e8c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a small hard piece; a seed, a grain, a nut, etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "drop"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "particle"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an administrative division that translates to English county"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hạt bụi",
+     "en": "a dust speck"
+    },
+    {
+     "sense": 1,
+     "vi": "hạt đậu",
+     "en": "a bean"
+    },
+    {
+     "sense": 1,
+     "vi": "hạt dẻ",
+     "en": "a chestnut"
+    },
+    {
+     "sense": 1,
+     "vi": "hạt giống",
+     "en": "a seed"
+    },
+    {
+     "sense": 1,
+     "vi": "hạt cải dầu",
+     "en": "rapeseed"
+    },
+    {
+     "sense": 1,
+     "vi": "hạt điều",
+     "en": "cashew nut"
+    },
+    {
+     "sense": 1,
+     "vi": "hạt điều màu",
+     "en": "annatto seed"
+    }
+   ]
+  },
+  {
+   "headword": "lầu",
+   "base": "ef56d372a25edfe8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a multistory building"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "floor/storey (except the ground floor/storey),"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "proscribed",
+      "rare"
+     ],
+     "gloss": "floor/storey (including the ground floor/storey)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lầu 2",
+     "en": "floor one level above the ground floor; i.e. 2nd floor (US)"
+    },
+    {
+     "sense": 2,
+     "vi": "nhà lầu",
+     "en": "multi-storey house"
+    },
+    {
+     "sense": 2,
+     "vi": "nhảy lầu tự tử",
+     "en": "to jump off a [high] floor to kill oneself"
+    },
+    {
+     "sense": 3,
+     "vi": "lầu trệt",
+     "en": "ground floor"
+    },
+    {
+     "sense": 3,
+     "vi": "lầu 1",
+     "en": "floor one level above the ground floor; i.e. 1st floor (Europe)"
+    },
+    {
+     "sense": 3,
+     "vi": "Ngoài ra, Biệt đội Kiểm soát Nhiễm khuẩn (KSNK) của bệnh viện cũng tổ chức quầy thông tin tại lầu trệt, để hướng dẫn mọi người thực hiện rửa tay đúng cách.",
+     "en": "The Hospital’s Infection Control Unit will also organise an information counter on the ground floor to guide people in how to correctly wash their hands."
+    }
+   ]
+  },
+  {
+   "headword": "điều trị",
+   "base": "f1f4c9646c18d533",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive or give medical treatment; to treat"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

@@ -1,0 +1,1480 @@
+{
+ "batch": "0024",
+ "entries": [
+  {
+   "headword": "ban",
+   "base": "a9ab618bf1e94e63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "branch of administration in the feudal court (of which there are two types: the civil administrators and the martial office holders)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "group (of people doing the same work); band; board; squad; committee"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shift; work period"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "time period; section of the day"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "(college-level) subject; (academic) department"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "orchid tree (Bauhinia variegata)"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rash"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "ball made from rubber"
+    },
+    {
+     "position": 9,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to confer on; to bestow"
+    },
+    {
+     "position": 10,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to announce; to herald; to proclaim"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "ban trưa",
+     "en": "noon"
+    }
+   ]
+  },
+  {
+   "headword": "hi vọng",
+   "base": "1c1b8b82a2f7b6be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to hope"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hope"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "niềm hi vọng",
+     "en": "hope"
+    }
+   ]
+  },
+  {
+   "headword": "thua",
+   "base": "ad75d05823166ac9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quần áo",
+   "base": "8f51784a91b0c93a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clothes, clothing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tín hiệu",
+   "base": "46044a7a74c06940",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sign, signal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tín hiệu (đã) đến hồi chuông báo động",
+     "en": "a signal of caution"
+    }
+   ]
+  },
+  {
+   "headword": "chứng minh",
+   "base": "f445fa30d6d98765",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prove (to demonstrate that something is true; to give proof for)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ý nghĩa",
+   "base": "b4509e40d0283cfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meaning (symbolic value of something)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meaning (significance of a thing, as \"the meaning of life\")"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ả",
+   "base": "cffd15c1a78c7e21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "elder sister"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "Southern",
+      "derogatory"
+     ],
+     "gloss": "villainess"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "derogatory",
+      "dialectal",
+      "endearing",
+      "familiar"
+     ],
+     "gloss": "she/her"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dính",
+   "base": "de93a2d2ed207092",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stick; to glue"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be involved in"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sticky; gluey"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhẫn",
+   "base": "e72977c7e6ec686c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ring (round piece of (precious) metal worn around the finger)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chỉ có những người dũng cảm nhất trong dòng họ mới được đeo nhẫn này thôi!",
+     "en": "Only the most courageous people in my family can wear this ring!"
+    }
+   ]
+  },
+  {
+   "headword": "ngân hàng",
+   "base": "6a1683205c61ed4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bank (financial institution)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đeo",
+   "base": "e2565b03ed3f28d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry by hanging onto your body"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wear (a non-hat/crown/tiara accessory)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to latch on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đeo cặp",
+     "en": "to (be) wear(ing) a backpack"
+    },
+    {
+     "sense": 2,
+     "vi": "đeo nhẫn/dây chuyền/bông tai/đồng hồ/khẩu trang",
+     "en": "to (be) wear(ing) a ring/necklace/earring/watch/mask"
+    }
+   ]
+  },
+  {
+   "headword": "sam",
+   "base": "bb4c422eb78a3cf5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a horseshoe crab"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "common purslane (Portulaca oleracea)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đuôi sam",
+     "en": "a horseshoe crab's tail; a braid/plait"
+    }
+   ]
+  },
+  {
+   "headword": "giảm",
+   "base": "84c37b18ea411ad6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to decrease"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Số người tham gia giảm.",
+     "en": "Attendance decreased."
+    },
+    {
+     "sense": 1,
+     "vi": "Chúng tôi buộc phải giảm số người tham gia.",
+     "en": "We had to decrease our attendance."
+    }
+   ]
+  },
+  {
+   "headword": "anh trai",
+   "base": "4918fe4fcd3ad956",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "elder brother"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you (used for a male who the speaker assumes is somewhat older than them)"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "young man"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Đường này đi thẳng là tới Thủ Đức hả anh trai?",
+     "en": "Am I correct in assuming that this road leads to Thủ Đức, young man?"
+    }
+   ]
+  },
+  {
+   "headword": "đón",
+   "base": "e92acea9c85ef502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be ready to receive; to welcome"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to welcome, greet, meet"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick up, fetch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đón xuân",
+     "en": "to welcome spring"
+    }
+   ]
+  },
+  {
+   "headword": "có mặt",
+   "base": "fa2e6bc56d279fa1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be present (at)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi đang có mặt tại Shoreditch, nằm ở phía đông của Luân Đôn.",
+     "en": "I'm now in Shoreditch, in the east of London."
+    }
+   ]
+  },
+  {
+   "headword": "trò chơi",
+   "base": "1a1b23870712eeaf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a game (playful or competitive activity)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độ",
+   "base": "8f86354607e38ead",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a degree"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a diopter"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "period; time"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "to help one passing through their obstacles; to save from difficulties"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "about; approximately"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "động đất mạnh 7 độ Rích-te",
+     "en": "an earthquake of magnitude 7"
+    },
+    {
+     "sense": 2,
+     "vi": "tăng độ",
+     "en": "(of eyes) to get worse vision"
+    },
+    {
+     "sense": 3,
+     "vi": "độ này năm sau",
+     "en": "about this time next year"
+    },
+    {
+     "sense": 4,
+     "vi": "Số gì hên thế, ai độ cho không biết nữa.",
+     "en": "Whose blessing did this guy receive to be this lucky?"
+    },
+    {
+     "sense": 4,
+     "vi": "Trời độ.",
+     "en": "God helped him."
+    }
+   ]
+  },
+  {
+   "headword": "thân",
+   "base": "485c1f4d59f3cc56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "close or even best"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relative"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "derogatory",
+      "morpheme",
+      "usually"
+     ],
+     "gloss": "pro-"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "torso"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trunk"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stem"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bạn thân",
+     "en": "a close/best friend"
+    },
+    {
+     "sense": 1,
+     "vi": "chơi thân với",
+     "en": "to be close/best friends with; to hang out with"
+    },
+    {
+     "sense": 2,
+     "vi": "người thân",
+     "en": "(close) relatives"
+    },
+    {
+     "sense": 3,
+     "vi": "thân Mĩ/Pháp/Nhật",
+     "en": "pro-America/France/Japan"
+    }
+   ]
+  },
+  {
+   "headword": "New York",
+   "base": "a865cfe0de5086ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "New York, New York City (the largest city in the state of New York, and the largest city in the United States, a metropolis extending into neighboring New Jersey in addition to Pennsylvania and Connecticut)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "New York (a state of the United States)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình",
+   "base": "68f72038fdbca4b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "image"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "figure; silhouette"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "photo; picture"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shape"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mi",
+   "base": "059c2f233d80db0c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyelashes"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Central",
+      "derogatory",
+      "dialectal"
+     ],
+     "gloss": "you (second person singular pronoun, referring to a peer or person held in low esteem)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "thou/thee (used against an adversary)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mi (third note of diatonic scale)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to kiss"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "đô, rê, mi",
+     "en": "do, re, mi"
+    }
+   ]
+  },
+  {
+   "headword": "tai nạn",
+   "base": "199cdfa9a6faa5f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an accident that results in bodily injury or property damage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tai nạn giao thông/lao động",
+     "en": "a traffic/job-related accident"
+    }
+   ]
+  },
+  {
+   "headword": "vỡ",
+   "base": "a7865e6de8d6771b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break into pieces"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "broken into pieces"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dễ vỡ",
+     "en": "fragile"
+    }
+   ]
+  },
+  {
+   "headword": "Nga",
+   "base": "86f41c9841dac4b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "relational"
+     ],
+     "gloss": "of Russia, Russia’s, Russian"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Liên bang Nga",
+     "en": "the Russian Federation"
+    }
+   ]
+  },
+  {
+   "headword": "nga",
+   "base": "53c9f117ed077b75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "only used in tố nga (“the moon”)."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "only used in tiên nga (“angel; fairy”)."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "only used in thiên nga (“swan”)."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dịch",
+   "base": "546745042d97c55b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to translate"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "translation"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fluid; liquid"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "epidemic"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move over, to move something away"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dịch tiếng Anh ra tiếng Việt",
+     "en": "to translate English into Vietnamese"
+    },
+    {
+     "sense": 1,
+     "vi": "\"The Grumpy Alcoholic\" / Đó là tên tiếng Anh của truyện Chí Phèo theo cách dịch tác phẩm nghệ thuật hiện nay.",
+     "en": "The Grumpy Alcoholic / That would be the English title of Chí Phèo, according to how titles are translated these days."
+    }
+   ]
+  },
+  {
+   "headword": "bò",
+   "base": "3e654e30691193f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bovine"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to creep; to crawl (move slowly with the abdomen close to the ground)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to creep (to grow across a surface rather than upwards); to climb (to grow upwards by clinging to something)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slowly climb"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "a unit of measurement for grain volume equivalent to the capacity of a condensed milk can"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nuôi bò",
+     "en": "to keep cows"
+    },
+    {
+     "sense": 1,
+     "vi": "chăn bò",
+     "en": "to graze the cows"
+    },
+    {
+     "sense": 1,
+     "vi": "thịt bò",
+     "en": "beef"
+    },
+    {
+     "sense": 1,
+     "vi": "bò vàng phương Nam",
+     "en": "Southern Yellow cattle"
+    },
+    {
+     "sense": 1,
+     "vi": "bò sữa",
+     "en": "dairy cow"
+    },
+    {
+     "sense": 2,
+     "vi": "rắn bò",
+     "en": "a snake crawls"
+    },
+    {
+     "sense": 2,
+     "vi": "lổm ngổm như cua bò",
+     "en": "to swagger as a crab crawls"
+    },
+    {
+     "sense": 3,
+     "vi": "Mướp bò lên giàn.",
+     "en": "The loofah climbed the frame."
+    },
+    {
+     "sense": 4,
+     "vi": "Chiếc xe bò lên dốc.",
+     "en": "The car climbed up the hill."
+    },
+    {
+     "sense": 5,
+     "vi": "Vay vài bò gạo.",
+     "en": "Lend me some condensed milk cans' worth of rice."
+    }
+   ]
+  },
+  {
+   "headword": "lái xe",
+   "base": "e1f5684e6680cd9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drive a car (or any vehicle)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "driver"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoải mái",
+   "base": "2b7f4955fa663296",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relaxed; at ease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghế",
+   "base": "4be2943ed9fdf5f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "seat (A piece of furniture made for sitting)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ghế bành",
+     "en": "an armchair"
+    },
+    {
+     "sense": 1,
+     "vi": "ghế đá",
+     "en": "a stone bench"
+    }
+   ]
+  },
+  {
+   "headword": "bám",
+   "base": "bc0ecf33fa990fcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cling to, to adhere to, to stick to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rêu bám vào con tàu",
+     "en": "seaweed clings to the boat"
+    },
+    {
+     "sense": 1,
+     "vi": "thằn lằn bám vào tường",
+     "en": "a gecko sticks to the wall"
+    },
+    {
+     "sense": 1,
+     "vi": "bụi bám vào tóc, tóc bám đầy bụi",
+     "en": "dust clings to hair, hair is full of dust clinging (to it)"
+    }
+   ]
+  },
+  {
+   "headword": "từ từ",
+   "base": "99a49d2ad14355fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "slowly; gradually; leisurely"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "slow down; calm down"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "say",
+   "base": "e7890fda4db347c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "drunk; intoxicated; inebriated"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "suffering motion sickness"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "engrossed, especially in love"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "deep; fast (of sleep)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "say tàu/xe/sóng",
+     "en": "trainsick/carsick/seasick"
+    },
+    {
+     "sense": 3,
+     "vi": "say tình",
+     "en": "madly in love; enamored"
+    },
+    {
+     "sense": 4,
+     "vi": "ngủ say",
+     "en": "fast asleep"
+    }
+   ]
+  },
+  {
+   "headword": "lịch sử",
+   "base": "9afd11f0bd163f8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "history (aggregate of past events; school subject)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "historical"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "historic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhân vật lịch sử",
+     "en": "historical person"
+    },
+    {
+     "sense": 2,
+     "vi": "sự kiện lịch sử",
+     "en": "historical event"
+    },
+    {
+     "sense": 3,
+     "vi": "khoảnh khắc lịch sử",
+     "en": "historic moment"
+    },
+    {
+     "sense": 3,
+     "vi": "chứng nhân lịch sử",
+     "en": "historic witness"
+    }
+   ]
+  },
+  {
+   "headword": "bằng chứng",
+   "base": "6ac44d8c1e6834ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "evidence; proof"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cặp",
+   "base": "13a79aec03e8e603",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pair; duo; couple"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pair"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to date someone"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "wooden satchel used to hold books"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "schoolbag"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "briefcase"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điên rồ",
+   "base": "7b9ea7a98dd29c46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crazy; mad; insane"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cục",
+   "base": "ef9ed2e2910ddd05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates turds, stones, erasers, flour balls, bricks, tiles."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an office under a bộ (“ministry”)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short-tempered; hotheaded"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "để ý",
+   "base": "c3aeda64330db52f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pay attention; to regard; to take notice of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sáu",
+   "base": "2c6221c455714db5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "six"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buộc",
+   "base": "29ec40482e93d41a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tie an object or seal a container by tying; compare trói (“to tie or bind a person or animal”) and thắt (“to tighten with a string or rope”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to force; to compel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "buộc/cột dây dày",
+     "en": "to tie your shoes"
+    },
+    {
+     "sense": 1,
+     "vi": "buộc/cột tóc",
+     "en": "to tie up your hair"
+    },
+    {
+     "sense": 1,
+     "vi": "buộc/cột bao lại cho chắc",
+     "en": "to securely seal the bag by tying its handles"
+    }
+   ]
+  },
+  {
+   "headword": "gà",
+   "base": "14340c79ef622747",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chicken (bird)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "inexperienced or unskilled; newbie"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to up the ante"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give away an answer (e.g., to a math exercise)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give a hint or tip; to forgo a turn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gà chọi",
+     "en": "gamecock"
+    },
+    {
+     "sense": 2,
+     "vi": "Thằng này gà quá! Coi anh mày làm này!",
+     "en": "You're so weak! Watch me, the expert, in action!"
+    },
+    {
+     "sense": 3,
+     "vi": "Gà lần nào cũng thua thì đánh làm gì.",
+     "en": "Every time you/they up the ante, you/they lose, so why bother?"
+    },
+    {
+     "sense": 4,
+     "vi": "Để em nó tự làm toán, anh đừng gà cho nó.",
+     "en": "Let him/her solve the math problem on his/her own; don't give the answer away."
+    },
+    {
+     "sense": 5,
+     "vi": "Cờ đương bí, ông ấy chỉ gà cho một nước mà thành thắng.",
+     "en": "In a stalemate, he gave up a single turn which meant giving up a victory."
+    }
+   ]
+  },
+  {
+   "headword": "đèn",
+   "base": "ebf2bbdd889c511e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a light; a lamp, an oil lamp, a light bulb, an incandescent light, a fluorescent light, a flashlight, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đèn dầu",
+     "en": "an oil lamp"
+    },
+    {
+     "sense": 1,
+     "vi": "đèn huỳnh quang",
+     "en": "an fluorescent light"
+    },
+    {
+     "sense": 1,
+     "vi": "A-la-đanh và cây đèn thần",
+     "en": "Aladdin and the Magic Lamp"
+    },
+    {
+     "sense": 1,
+     "vi": "thần đèn",
+     "en": "the Genie of the Lamp"
+    }
+   ]
+  },
+  {
+   "headword": "trại",
+   "base": "44a5d16b0b5da265",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barrack; outpost"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deviate"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "twisted; askew"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "\"Sài Gòn\" trại lại là \"Xì Gòn\", \"Hà Nội\" trại lại là \"Hà Lội\".",
+     "en": "\"Xì Gòn\" is a deviation of \"Sài Gòn\", and \"Hà Lội\" is a deviation of \"Hà Nội\"."
+    },
+    {
+     "sense": 3,
+     "vi": "trại chân",
+     "en": "having a twisted ankle"
+    }
+   ]
+  },
+  {
+   "headword": "tốt đẹp",
+   "base": "c0388c8a94aeea97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good; fine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "từ chối",
+   "base": "b57f7192cce3bd64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to refuse; to decline; to reject"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

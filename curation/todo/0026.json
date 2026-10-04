@@ -1,0 +1,1571 @@
+{
+ "batch": "0026",
+ "entries": [
+  {
+   "headword": "trải",
+   "base": "c613b852e6cf42be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spread on a surface"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to have experienced; to have gone through"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trải chiếu",
+     "en": "to spread a mat"
+    },
+    {
+     "sense": 1,
+     "vi": "trải khăn bàn",
+     "en": "to put on a tablecloth"
+    }
+   ]
+  },
+  {
+   "headword": "án",
+   "base": "3e3ed9f15f2848aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "criminal case"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sentence (judicial order for punishment)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "high table with a narrow surface"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to impede visibility by using the body of something"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "in-compounds"
+     ],
+     "gloss": "to camp or station troops in one place"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông báo",
+   "base": "8d5044bcf33c4be2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell; to report; to advise; to announce"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "report; notice; announcement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "người dân",
+   "base": "293eebd9b6ef854b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "the people; the mass"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ý kiến",
+   "base": "4e1be83795290783",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opinion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cà phê",
+   "base": "8ecaa72947d1cf03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coffee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cà phê có liền",
+     "en": "instant coffee"
+    },
+    {
+     "sense": 1,
+     "vi": "cà phê dùng ngay",
+     "en": "instant coffee"
+    },
+    {
+     "sense": 1,
+     "vi": "cà phê hòa tan",
+     "en": "instant coffee"
+    },
+    {
+     "sense": 1,
+     "vi": "cà phê nồi",
+     "en": "coffee pot"
+    },
+    {
+     "sense": 1,
+     "vi": "máy xay cà phê",
+     "en": "coffee grinder"
+    },
+    {
+     "sense": 1,
+     "vi": "tiệm cà phê",
+     "en": "café"
+    }
+   ]
+  },
+  {
+   "headword": "chữ",
+   "base": "ec1ddd6f3d8c0d86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a letter or character"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "a writing system; a script"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "handwriting (characteristic writing of a particular person)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "syllable; compare từ (lexical word)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "a Sinoxenic vocabulary item"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "courtesy name"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "ancient words"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "an old type of coin"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concept (as denoted by one Chinese character)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chữ A",
+     "en": "the letter A"
+    },
+    {
+     "sense": 1,
+     "vi": "chữ hoa/thường",
+     "en": "an uppercase/lowercase letter"
+    },
+    {
+     "sense": 1,
+     "vi": "hình chữ thập",
+     "en": "a cross shape"
+    },
+    {
+     "sense": 1,
+     "vi": "hình chữ nhật",
+     "en": "a rectangle"
+    },
+    {
+     "sense": 1,
+     "vi": "trên đầu chữ sắc có con dao",
+     "en": "beware of cunning beautiful women"
+    },
+    {
+     "sense": 2,
+     "vi": "biết chữ",
+     "en": "can write"
+    },
+    {
+     "sense": 2,
+     "vi": "chữ Quốc ngữ",
+     "en": "Latin-based Vietnamese alphabet"
+    },
+    {
+     "sense": 2,
+     "vi": "chữ Hán",
+     "en": "Han characters; Chinese characters"
+    },
+    {
+     "sense": 3,
+     "vi": "chữ viết rất đẹp",
+     "en": "very beautiful handwriting"
+    },
+    {
+     "sense": 3,
+     "vi": "chữ như gà bới",
+     "en": "chicken scratch (illegible handwriting)"
+    },
+    {
+     "sense": 3,
+     "vi": "chữ bác sĩ",
+     "en": "a doctor's handwriting"
+    },
+    {
+     "sense": 4,
+     "vi": "câu thơ bảy chữ",
+     "en": "a seven-syllable line in a poem"
+    },
+    {
+     "sense": 4,
+     "vi": "Viết một bài 100 chữ.",
+     "en": "Write a 100-word essay."
+    },
+    {
+     "sense": 4,
+     "vi": "Vậy thì nếu mình chỉ tập trung vào chữ Đ bằng tiếng Việt mà so sánh với cái chữ F bằng tiếng Anh…",
+     "en": "So if we just focus on the Vietnamese Đ word as compared with the English F word…"
+    },
+    {
+     "sense": 5,
+     "vi": "sính dùng chữ",
+     "en": "to be fond of using Sino-Vietnamese terms or expressions"
+    },
+    {
+     "sense": 5,
+     "vi": "Cái đồ ngu mà thích nói chữ.",
+     "en": "You're an idiot yet like to use big, fancy words."
+    },
+    {
+     "sense": 7,
+     "vi": "sách có chữ rằng",
+     "en": "the book says"
+    },
+    {
+     "sense": 7,
+     "vi": "chữ nghĩa",
+     "en": "knowledge ← word and its meaning (literal) → writing, script"
+    },
+    {
+     "sense": 8,
+     "vi": "Một đồng một chữ cũng không có.",
+     "en": "to have not even one piastre or one chữ; to be very poor"
+    },
+    {
+     "sense": 9,
+     "vi": "Em luôn sống trong nỗi đau khổ khi bị giằng xé giữa chữ hiếu và tình.",
+     "en": "I always suffer being torn apart between filial piety and love."
+    }
+   ]
+  },
+  {
+   "headword": "dao",
+   "base": "157836cb5791720e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knife"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dao bếp",
+     "en": "kitchen knife"
+    }
+   ]
+  },
+  {
+   "headword": "giải",
+   "base": "4293c80d5369f92e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an accolade; a prize; an award"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "an awards event"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a tournament"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to relieve; to alleviate; to break down; to release; to liberate; to free; to raise (a siege)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to solve a problem, like homeworks, mysteries, puzzles, riddles, codes, passwords etc."
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to relieve oneself; to pass water"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deliver (a criminal); to conduct under escort; to transport under guard"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of large soft-shell turtle (\"various species in the family Trionychidae\")"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giải nhất/nhì/ba",
+     "en": "first/second/third prize"
+    },
+    {
+     "sense": 2,
+     "vi": "Giải Nô-ben",
+     "en": "a Nobel Prize"
+    },
+    {
+     "sense": 2,
+     "vi": "Giải Grammy",
+     "en": "a Grammy; the Grammys"
+    },
+    {
+     "sense": 2,
+     "vi": "Giải Oscar",
+     "en": "an Oscar; the Oscars"
+    },
+    {
+     "sense": 3,
+     "vi": "giải vô địch",
+     "en": "a championship"
+    },
+    {
+     "sense": 3,
+     "vi": "mùa giải",
+     "en": "a championship season"
+    },
+    {
+     "sense": 6,
+     "vi": "đi giải",
+     "en": "to go and relieve oneself"
+    }
+   ]
+  },
+  {
+   "headword": "bắc",
+   "base": "9efedf20c4dd6ce3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "north; northern"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to place things so that one can climb them to reach a higher spot"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to place a pot or pan onto a stove, or to take it off it"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phía bắc",
+     "en": "northern direction"
+    },
+    {
+     "sense": 1,
+     "vi": "hướng bắc",
+     "en": "northern direction"
+    },
+    {
+     "sense": 1,
+     "vi": "Bắc Ai-len",
+     "en": "Northern Ireland"
+    },
+    {
+     "sense": 2,
+     "vi": "bắc thang",
+     "en": "to place a ladder so one can climb it"
+    },
+    {
+     "sense": 2,
+     "vi": "Bắc thang lên mà hỏi ông trời!",
+     "en": "How should I know!?"
+    },
+    {
+     "sense": 2,
+     "vi": "bắc ghế lên bàn",
+     "en": "to put a chair on top of a table so one can stand on it"
+    },
+    {
+     "sense": 3,
+     "vi": "bắc nồi xuống",
+     "en": "to take the pot off the stove"
+    }
+   ]
+  },
+  {
+   "headword": "giày",
+   "base": "1864dfe536b87bd2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a non-sock, non-stockings piece of footwear that gives full coverage to the foot; a shoe, a boot, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trample; to tread underfoot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lí do",
+   "base": "dfd711fd97eb685e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a reason (that which causes: a cause)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an excuse (explanation designed to avoid or alleviate guilt or negative judgement)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lí do tại sao",
+     "en": "the reason why"
+    },
+    {
+     "sense": 2,
+     "vi": "viện lí do/cớ",
+     "en": "to use an excuse"
+    }
+   ]
+  },
+  {
+   "headword": "dọa",
+   "base": "f7ec69749adeeb23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of doạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "có khi",
+   "base": "d88904c8293cdfe5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "sometimes, once in a while"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mông",
+   "base": "555c6b1c25da6cbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "buttock"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "forward and distant as if contemplative or expectant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mục đích",
+   "base": "7014af9a2e84cad6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a goal, a purpose, an aim or an objective"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chán",
+   "base": "30c28f48ef5aa137",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dull, boring"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bored, tired"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "satiated, tired of"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disgusted with"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Cậu chán sống rồi sao?",
+     "en": "Are you tired of your life?"
+    }
+   ]
+  },
+  {
+   "headword": "thời",
+   "base": "0523ca5331207a9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "time, moment, season"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chance, opportunity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có thời ngày nào tôi cũng ra ruộng bắt dế, thả diều với lũ bạn.",
+     "en": "There was a time when I went to the fields every day to catch crickets and fly the kites with my friends."
+    }
+   ]
+  },
+  {
+   "headword": "kết hôn",
+   "base": "68045597a530b4d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to get married"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quý vị",
+   "base": "cefa6f446d1bd78f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "polite"
+     ],
+     "gloss": "you"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kính thưa quý vị…",
+     "en": "ladies and gentlemen…"
+    }
+   ]
+  },
+  {
+   "headword": "đại tá",
+   "base": "897e084663274573",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "senior colonel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "commodore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gấp",
+   "base": "b4f288f613940c01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pressing; urgent; hurry"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fold; to close; to shut"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Placed before numerals to express times or multiplication."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "gấp mười",
+     "en": "ten times (as much, many)"
+    },
+    {
+     "sense": 3,
+     "vi": "nhanh gấp hai lần",
+     "en": "twice as fast"
+    }
+   ]
+  },
+  {
+   "headword": "khuyên",
+   "base": "46e0693541124319",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to advise or recommend"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ring, now chiefly earring"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "white-eye, any of the passerine birds of the family Zosteropidae, native to Africa, Asia, and Australasia, typically having a ring of tiny white feathers around their eyes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ảnh hưởng",
+   "base": "43993e82846279df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "influence"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to influence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dọn",
+   "base": "fd8b6d1e7eb9b0a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange; to put in order"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to clear (e.g. a table)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move; to relocate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dọn ngăn nắp đống sách vở",
+     "en": "to neatly arrange a bunch of books"
+    },
+    {
+     "sense": 2,
+     "vi": "dọn phòng",
+     "en": "to clear one's room"
+    },
+    {
+     "sense": 3,
+     "vi": "dọn nhà lên thành phố",
+     "en": "to move to a city"
+    }
+   ]
+  },
+  {
+   "headword": "bất ngờ",
+   "base": "51c6875916a7e78c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sudden, unexpected"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xây dựng",
+   "base": "b79b1a97b027ec1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to build, to construct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đóng cửa",
+   "base": "6d88ff57644d3e17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "to close the door; to shut the door"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to close (for business); to close down; to shut down"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lỡ",
+   "base": "ab585b352263adf0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do something inadvertently; to do by mistake"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to miss"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "missed"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "inadvertently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chết, lỡ nói điều không nên nói rồi.",
+     "en": "Shit, I slipped out things that I shouldn't say."
+    },
+    {
+     "sense": 2,
+     "vi": "lỡ xe buýt",
+     "en": "to miss the bus"
+    }
+   ]
+  },
+  {
+   "headword": "e",
+   "base": "06ac8a9247f00756",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter E/e."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fear; to be apprehensive, to be afraid"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be slightly ashamed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tôi e cô ta không đến.",
+     "en": "I am afraid she will not come."
+    }
+   ]
+  },
+  {
+   "headword": "cảnh",
+   "base": "84fa4f046a5e3bfd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scenery; view; landscape"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scene (so much of a play as passes without change of locality or time)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "state; situation; plight"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shot (single unbroken sequence of photographic film exposures)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ornament, decoration"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "A traditional Vietnamese cymbal found in chầu văn that is placed on the floor and struck with wooden beaters."
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ornamental, decorative"
+    },
+    {
+     "position": 8,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pet"
+    },
+    {
+     "position": 9,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cervical (of the neck)"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "slang"
+     ],
+     "gloss": "cop"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "uốn cây thế làm cảnh",
+     "en": "to bend a tree into an ornamental tree"
+    },
+    {
+     "sense": 7,
+     "vi": "cây cảnh",
+     "en": "ornamental plant"
+    },
+    {
+     "sense": 7,
+     "vi": "cây ớt cảnh",
+     "en": "ornamental pepper plant"
+    },
+    {
+     "sense": 7,
+     "vi": "vườn cảnh",
+     "en": "garden"
+    },
+    {
+     "sense": 8,
+     "vi": "chó cảnh",
+     "en": "toy dog"
+    },
+    {
+     "sense": 8,
+     "vi": "chim cảnh",
+     "en": "pet bird"
+    },
+    {
+     "sense": 8,
+     "vi": "cá cảnh",
+     "en": "aquarium or garden fish"
+    },
+    {
+     "sense": 8,
+     "vi": "chuột cảnh",
+     "en": "fancy mouse"
+    },
+    {
+     "sense": 8,
+     "vi": "gà cảnh",
+     "en": "pet chicken"
+    },
+    {
+     "sense": 9,
+     "vi": "động mạch cảnh",
+     "en": "carotid"
+    }
+   ]
+  },
+  {
+   "headword": "thất vọng",
+   "base": "f886abbd3a8d9c34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disappointed"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disappointment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cậu làm tôi thất vọng quá !",
+     "en": "I'm really disappointed in you, young man!"
+    }
+   ]
+  },
+  {
+   "headword": "tôn trọng",
+   "base": "9e5599209d9fff83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to respect; to honour; to revere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trưa",
+   "base": "8f5f7d719203678e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "noon, midday"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức",
+   "base": "75119949d24e85a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strength; power"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sức nóng mặt trời",
+     "en": "the heat of the sun"
+    }
+   ]
+  },
+  {
+   "headword": "đối mặt",
+   "base": "e4d502fba8048d62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to face (difficulty, danger, etc.); to face up to; to confront"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trúng",
+   "base": "1f1b46a62f4b7df7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hit (a target)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to win, to gain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nữ",
+   "base": "21a9d41ba7780cbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "females"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "feminine"
+     ],
+     "gloss": "female"
+    },
+    {
+     "position": 3,
+     "pos": "prefix",
+     "tags": [
+      "formal",
+      "morpheme"
+     ],
+     "gloss": "-ess; -a"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "nữ công tố viên",
+     "en": "a female prosecutor"
+    }
+   ]
+  },
+  {
+   "headword": "ô",
+   "base": "607d839ca007eb2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter Ô/ô."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter O/o."
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "black"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "umbrella"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "powerful superior who provides protection and support to the subordinate; patron; backer; sponsor; godfather"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "square area or division marked on a surface"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "area outside the Imperial Citadel of Thang Long"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tray for holding areca nuts and betel quids"
+    },
+    {
+     "position": 9,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "Used to express surprise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Khớp con ngựa ngựa ô. / Ngựa ô anh khớp, anh khớp cái kiệu vàng",
+     "en": "Bridling a black horse. / The black horse he bridled, he bridled with a golden litter."
+    },
+    {
+     "sense": 3,
+     "vi": "Khớp ! Khớp ! Khớp ! Khớp con ngựa ô, ngựa ô, ngựa ô!",
+     "en": "Bridle! Bridle! Bridle the black horse! The black horse! The black horse!"
+    },
+    {
+     "sense": 4,
+     "vi": "giương ô",
+     "en": "to open an umbrella"
+    },
+    {
+     "sense": 6,
+     "vi": "ô cửa sổ",
+     "en": "windowpane"
+    },
+    {
+     "sense": 6,
+     "vi": "giấy kẻ ô",
+     "en": "graph paper"
+    },
+    {
+     "sense": 6,
+     "vi": "áo sơ mi kẻ ô",
+     "en": "checkered shirt"
+    },
+    {
+     "sense": 6,
+     "vi": "ô trống",
+     "en": "a blank (to fill in)"
+    },
+    {
+     "sense": 7,
+     "vi": "cửa ô",
+     "en": "city gate"
+    },
+    {
+     "sense": 8,
+     "vi": "ô trầu",
+     "en": "betel tray"
+    },
+    {
+     "sense": 9,
+     "vi": "Ô, sao lại thế?",
+     "en": "Why is that so?"
+    }
+   ]
+  },
+  {
+   "headword": "phiền",
+   "base": "985cc4bdcdc1014a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bothersome; annoying"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "very concerned"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bother; to annoy; to cause unnecessary concern"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phiền quá đi!",
+     "en": "Such a nuisance!"
+    },
+    {
+     "sense": 2,
+     "vi": "buồn phiền",
+     "en": "to concern and worry"
+    },
+    {
+     "sense": 2,
+     "vi": "phiền lòng",
+     "en": "to worry a lot"
+    }
+   ]
+  },
+  {
+   "headword": "dấu hiệu",
+   "base": "47aabcf185171d4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a telltale sign"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dấu hiệu chia hết cho 3",
+     "en": "the rule for divisibility by 3"
+    }
+   ]
+  },
+  {
+   "headword": "tình hình",
+   "base": "4f170d04de4654e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "situation, state of affairs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mãi",
+   "base": "d9d539bcf3a433d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "for a long time; unceasingly; always; all the time"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "until; till"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "all the way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mưa rơi mãi",
+     "en": "it kept raining nonstop"
+    },
+    {
+     "sense": 2,
+     "vi": "Mãi hai giờ sáng mới ngủ được.",
+     "en": "It was not until two a.m. did I manage to sleep."
+    },
+    {
+     "sense": 3,
+     "vi": "Nhà tôi ở mãi bên kia sông.",
+     "en": "My house is all the way on the other side of the river."
+    }
+   ]
+  },
+  {
+   "headword": "tổn thương",
+   "base": "88109e6a5f303be1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to harm; to damage; to wound; to injure"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "damage; injury"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cho nên",
+   "base": "e35d664463a4e1a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "therefore; hence; consequently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vật",
+   "base": "2ea5704ccfd6cd41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "object (concrete, tangible thing)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wrestle"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shake violently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Krud là tên gọi mà người Khmer dùng để chỉ một vật linh vật không tồn tại trong thế giới tự nhiên, nhưng lại xuất hiện khá phong phú trong các câu chuyện thần thoại, trong những công trình kiến trúc tôn giáo.",
+     "en": "Krud is the name that the Khmer people use to refer to an object [representing a] mascot that does not exist in the natural world, but appears quite abundantly in myths and religious architecture."
+    },
+    {
+     "sense": 1,
+     "vi": "Định luật 1: Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không, thì vật đứng yên sẽ tiếp tục đứng yên, đang chuyển động sẽ tiếp tục chuyển động thằng đều.",
+     "en": "First law: If an object is not being acted upon by any force or is acted upon by forces with a resultant force of zero, then an object at rest will remain at rest, [and an object] in motion will continue to move in a straight line with uniform velocity."
+    }
+   ]
+  },
+  {
+   "headword": "bỏ qua",
+   "base": "8fdcfd37dba6f5b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bypass; to skip"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let slip; to miss"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forgive; to overlook"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

@@ -1,0 +1,1513 @@
+{
+ "batch": "0036",
+ "entries": [
+  {
+   "headword": "công viên",
+   "base": "e5048bc3e129dc75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a park (ground for recreation)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúng nó",
+   "base": "814e9dec9fa7c3f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "they/them"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buồn cười",
+   "base": "5c030fec95193e83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "funny"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mộ",
+   "base": "babbec7bafee6a72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tomb; grave"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to admire; to adore"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to recruit (people); to enrol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hài lòng",
+   "base": "1e99f995c456ae48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "contented; satisfied"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kinh doanh",
+   "base": "b205e163e7a5f6b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do business, to operate (a business)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hủy hoại",
+   "base": "3cb360c82d6de6e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of huỷ hoại."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chín",
+   "base": "87e2a712ca5a1fd8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "nine"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "well done"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ripe; (of a flower) in full bloom"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full-grown; in the final larval stage"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thorough; well-thought-out; mature"
+    },
+    {
+     "position": 6,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "flushed; red"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyên nghiệp",
+   "base": "2560f3129c15c8b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "professional; vocational"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nấu",
+   "base": "ceacb81ce05df9b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cook"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to boil (water)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nấu cơm",
+     "en": "to cook/boil rice"
+    }
+   ]
+  },
+  {
+   "headword": "nát",
+   "base": "83a0ad0310899584",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crushed, crumbled"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "terrible"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "archaic"
+     ],
+     "gloss": "to intimidate, to cow"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Điểm thi của tao nát quá mày ạ!",
+     "en": "Dude, my grade is so terrible!"
+    }
+   ]
+  },
+  {
+   "headword": "ngược",
+   "base": "9bfea849a7313a18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reverse; contrary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoản",
+   "base": "61c04a84182babc4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a subclause"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an amount of expenditure or income"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Theo khoản 1, điều 12…",
+     "en": "According to subclause 1, clause 12…"
+    },
+    {
+     "sense": 2,
+     "vi": "khoản tiền",
+     "en": "an amount of money"
+    }
+   ]
+  },
+  {
+   "headword": "ngửi",
+   "base": "e5f8bff2971b39cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sniff; to smell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vẻ",
+   "base": "d40bff0a70d71871",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "look, appearance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giàu",
+   "base": "ebe80aa5830543bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rich; affluent; wealthy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abundant; copious; plentiful"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to be rich in; to have very much; to have very many"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Thứ nhất là giàu sức khỏe, thứ hai là giàu trí tuệ, thứ ba là giàu con cái.",
+     "en": "The first is to be rich in health, the second is to have very much wisdom, the third is to have very many children."
+    }
+   ]
+  },
+  {
+   "headword": "phiên",
+   "base": "97124fa35921b8d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "turn; time; session"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tức giận",
+   "base": "c762ee1ac3d298df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be angry; to be furious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cộng sự",
+   "base": "5eb8897658169fe6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "partner, coworker, colleague"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bí ẩn",
+   "base": "99de72edf7b77e06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "secret; mysterious"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mystery; enigma"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "‘Theo lệ thường[,] […] sự việc càng kì dị thì lại càng ít bí ẩn.[…]",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "Bà con đừng trông mong gì họ tin vào những chuyện kỳ lạ hay bí ẩn, đơn giản là vì họ chẳng hơi đâu bận tâm đến mấy trò vớ vẩn đó.",
+     "en": "They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense."
+    }
+   ]
+  },
+  {
+   "headword": "đít",
+   "base": "14005cf053390f13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "anus"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "buttocks"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "informal"
+     ],
+     "gloss": "bottom of something"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "informal"
+     ],
+     "gloss": "rear of a vehicle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chùi đít",
+     "en": "to wipe (one's) ass"
+    },
+    {
+     "sense": 1,
+     "vi": "lỗ đít",
+     "en": "anus"
+    },
+    {
+     "sense": 2,
+     "vi": "đít to",
+     "en": "big ass"
+    },
+    {
+     "sense": 3,
+     "vi": "đít chảo",
+     "en": "bottom of a pan"
+    },
+    {
+     "sense": 4,
+     "vi": "đít xe hơi; đít (xe) ô tô",
+     "en": "rear of a car"
+    }
+   ]
+  },
+  {
+   "headword": "phạm",
+   "base": "a7d030cdcd01ec23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to commit a crime, or to violate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phạm luật",
+     "en": "to violate the law"
+    }
+   ]
+  },
+  {
+   "headword": "lương",
+   "base": "c71d729dcdcb301a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated",
+      "in-compounds"
+     ],
+     "gloss": "non-Christian"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "victuals; food supplies"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "salary; earnings"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người giáo trong xứ đã nghĩ đến việc xây lại nhà thờ. Đoàn thể chính quyền và người lương trong xã hứa sẽ giúp thêm gỗ đá.",
+     "en": "Christians in the parish had thought about rebuilding the church. The commune's government and non-Christians promised to contribute wood and stones."
+    }
+   ]
+  },
+  {
+   "headword": "má",
+   "base": "30df0bc40a23b4a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cheek"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "mother; mom"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "rice seedlings"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "See rau má (“Asiatic pennywort”)."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa điểm",
+   "base": "ec66617d32175ff2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "location"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dọn dẹp",
+   "base": "70398419714541f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put in order; to tidy up; to clean up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặt đất",
+   "base": "70c426fb624f1d7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "surface of the earth; ground surface"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phòng thí nghiệm",
+   "base": "bdb995d7964915fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "laboratory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồn",
+   "base": "489a7f5a61cd0a46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "military post (bigger than a bốt)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "station"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spread a rumour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trực thăng",
+   "base": "5b1fddbd342ba148",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "helicopter (aircraft)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháo",
+   "base": "171c5e89af2f8aaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dismantle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bang",
+   "base": "8ffe08a366924191",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "state (a political division of a federation)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to crash into; to collide with; to hit"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "community of overseas Chinese in French Indochina who emigrated from the same province of China"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thành phố Oklahoma là thủ phủ bang Oklahoma.",
+     "en": "Oklahoma City is the capital of the state of Oklahoma."
+    },
+    {
+     "sense": 1,
+     "vi": "bang Kê-ra-la trong nước Cộng hòa Ấn Độ",
+     "en": "the State of Kerala in the Republic of India"
+    },
+    {
+     "sense": 1,
+     "vi": "Thụy Sĩ có 26 bang.",
+     "en": "Switzerland has 26 cantons."
+    },
+    {
+     "sense": 3,
+     "vi": "bang Phúc Kiến",
+     "en": "the Fukien Chinese expatriates' society"
+    }
+   ]
+  },
+  {
+   "headword": "vẩn",
+   "base": "1666e80af82d6291",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "turbid; cloudy; muddy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to grow thick; to become muddy"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become confused or dim"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become overcast or cloudy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm thanh",
+   "base": "c1ad22a97de81889",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sound"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sở hữu",
+   "base": "46dbb9afdb4c6e22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to own, to hold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự sát",
+   "base": "0434d3207ebacd90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to commit suicide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bạc",
+   "base": "ea2d9fc5f1bac698",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "silver"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "money"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "silver (either in material or in appearance)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "gray"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miserable; ill"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Tóc thầy bạc trắng như mây.",
+     "en": "The teacher's hair is gray like clouds."
+    }
+   ]
+  },
+  {
+   "headword": "cãi",
+   "base": "1f4e33bf96b29e10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to answer back; to talk back; to argue"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to defend (a client)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cãi nhau",
+     "en": "to quarrel"
+    },
+    {
+     "sense": 1,
+     "vi": "Cãi nhau với trọng tài thì chẳng có ích gì.",
+     "en": "It's no use having an argument with the referee."
+    },
+    {
+     "sense": 1,
+     "vi": "Họ luôn luôn cãi nhau về tiền bạc.",
+     "en": "They always quarrel (with each other) about money."
+    },
+    {
+     "sense": 1,
+     "vi": "Cãi nhau chẳng đến đâu.",
+     "en": "Quarrels come to nothing."
+    },
+    {
+     "sense": 1,
+     "vi": "Đừng cãi nhau vì một chuyện vặt như vậy nữa!",
+     "en": "Stop quarreling over such a trifle!"
+    }
+   ]
+  },
+  {
+   "headword": "đại diện",
+   "base": "44fd41c241aee9be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "representative; agent; spokesman"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to represent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vinh dự",
+   "base": "173a708b48a19386",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "honor (favorable reputation)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhanh chóng",
+   "base": "809844b71f7f4a8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rapid; quick; swift"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tư",
+   "base": "aeff269e0dac7b81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [
+      "Northern",
+      "in-compounds"
+     ],
+     "gloss": "four"
+    },
+    {
+     "position": 2,
+     "pos": "num",
+     "tags": [],
+     "gloss": "fourth"
+    },
+    {
+     "position": 3,
+     "pos": "num",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "third-born"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "private"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hai mươi tư",
+     "en": "twenty four"
+    },
+    {
+     "sense": 1,
+     "vi": "một trăm linh tư",
+     "en": "one hundred and four"
+    },
+    {
+     "sense": 2,
+     "vi": "ba phần tư",
+     "en": "three quarters"
+    },
+    {
+     "sense": 2,
+     "vi": "thứ tư",
+     "en": "fourth/Wednesday"
+    },
+    {
+     "sense": 2,
+     "vi": "tháng tư",
+     "en": "fourth month/April"
+    },
+    {
+     "sense": 3,
+     "vi": "chú tư",
+     "en": "\"fourth\" uncle (your grandparents' third child, who's male and who's younger than one of your parents)"
+    },
+    {
+     "sense": 3,
+     "vi": "anh tư",
+     "en": "\"fourth\" big brother (your parents' third child who's your older brother)"
+    },
+    {
+     "sense": 3,
+     "vi": "chị tư",
+     "en": "\"fourth\" big sister (your parents' third child who's your older sister, or a woman whose husband's his parents' third child)"
+    },
+    {
+     "sense": 4,
+     "vi": "việc tư",
+     "en": "private affairs"
+    }
+   ]
+  },
+  {
+   "headword": "thắc mắc",
+   "base": "8363b4061259cf3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wonder (about something)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "question"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nếu ai có thắc mắc gì thì xin cứ hỏi.",
+     "en": "If you have any question, please ask away."
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi có một thắc mắc.",
+     "en": "I have a question."
+    }
+   ]
+  },
+  {
+   "headword": "cử động",
+   "base": "fbb2e8ea7298b2d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move (a part of one's body)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "movement (of a part of one's body)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạng",
+   "base": "0408b45dc53c72e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one of the various forms that something appears or is produced in; a form, a variant, a type, etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "kind; type"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nó thuộc dạng/loại chỉ giỏi nói chứ không giỏi làm.",
+     "en": "He's the kind that loves to talk the talk but not so much walk the walk."
+    }
+   ]
+  },
+  {
+   "headword": "tình huống",
+   "base": "4f170d04de4654e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "situation, state of affairs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dựng",
+   "base": "e96fe57a1768db53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make something upstanding; to erect; to raise"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to build; to create; to set up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghệ thuật",
+   "base": "993f544b12c80d6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "art"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nghệ thuật vị nghệ thuật/nhân sinh/luân lí/xã hội/tôn giáo",
+     "en": "art for art's/life's/morality's/society's/religion's sake"
+    }
+   ]
+  },
+  {
+   "headword": "mét",
+   "base": "ecb25647e03fc9de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meter/metre (unit of measure)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pale; wan; pallid"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "a kind of bamboo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diệt",
+   "base": "7ac22feed98f0a4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to destroy, to exterminate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thuốc diệt chuột",
+     "en": "rat poison"
+    }
+   ]
+  },
+  {
+   "headword": "tiểu thư",
+   "base": "c6b839458d1ca40e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "a young mistress, the daughter of a wealthy man"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạng",
+   "base": "f6087ed082789572",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "class, rank, kind, category"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giám đốc",
+   "base": "791ebc4c13e098c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "director, manager, supervisor"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giám đốc điều hành",
+     "en": "chief executive officer"
+    },
+    {
+     "sense": 1,
+     "vi": "Ông Dursley là giám đốc một công ty gọi là Grunnings, chuyên sản suất máy khoan.",
+     "en": "Mr. Dursley was the director of a firm called Grunnings, which made drills."
+    }
+   ]
+  },
+  {
+   "headword": "khởi đầu",
+   "base": "b3fb1007e5c8e016",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to begin; to start, to commence"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beginning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên nhân",
+   "base": "034db75076b43c59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cause, reason"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bạo lực",
+   "base": "7d795156eedd144d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "violence"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "violent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bạo lực không giải quyết được gì cả.",
+     "en": "Violence is never the answer."
+    }
+   ]
+  },
+  {
+   "headword": "gói",
+   "base": "8e7528e40534d0dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pack; parcel; bundle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wrap around"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tỏ",
+   "base": "dca1f599502e4410",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clear; bright; shining"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "still able to see or hear clearly despite old age"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to know clearly"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell (something others are unaware of); to disclose; to narrate"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show; to demonstrate; to express"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thưởng",
+   "base": "d8a9f2ae758621ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reward or award"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "literary"
+     ],
+     "gloss": "to see and enjoy; to enjoy the sight of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thưởng phạt phân minh",
+     "en": "reward and punish properly, as the recipient deserves"
+    },
+    {
+     "sense": 1,
+     "vi": "Nó được thưởng 1 triệu.",
+     "en": "She got 1 mil."
+    },
+    {
+     "sense": 2,
+     "vi": "thưởng hoa",
+     "en": "to go flower viewing"
+    },
+    {
+     "sense": 2,
+     "vi": "thưởng xuân",
+     "en": "to enjoy the scenes of spring"
+    }
+   ]
+  },
+  {
+   "headword": "đầu hàng",
+   "base": "825e07234967f24d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to surrender"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "du lịch",
+   "base": "460a4d62d31c26bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tourism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công ty du lịch",
+     "en": "a travel agency"
+    },
+    {
+     "sense": 1,
+     "vi": "Du lịch đóng góp một phần không nhỏ vào kinh tế thành phố.",
+     "en": "Tourism plays an important role in the city's economy."
+    }
+   ]
+  },
+  {
+   "headword": "kéo dài",
+   "base": "d3d110f9a8df05bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prolong; to drag on"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quyến rũ",
+   "base": "203dc2c4282e120c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seduce; to charm; to captivate"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "charming; captivating"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "attractive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "sức quyến rũ",
+     "en": "attractiveness; charm"
+    }
+   ]
+  },
+  {
+   "headword": "váy",
+   "base": "e3349478f48683aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "skirt; dress (women's garment)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trao đổi",
+   "base": "100112790309b789",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exchange; to swap; to interchange"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to discuss (with each other) in order to arrive at an agreement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tan học em ở lại lớp nhé, cô có chuyện muốn trao đổi.",
+     "en": "After school, could you remain in class? I have something I want to discuss with you."
+    }
+   ]
+  }
+ ]
+}

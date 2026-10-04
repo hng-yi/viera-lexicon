@@ -1,0 +1,1457 @@
+{
+ "batch": "0023",
+ "entries": [
+  {
+   "headword": "đất nước",
+   "base": "87530f32194c2afb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "country; nation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cả cái đất nước này",
+     "en": "this entire country"
+    },
+    {
+     "sense": 1,
+     "vi": "Không có gì quý hơn độc lập, tự do. Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!",
+     "en": "Nothing is more precious than independence and freedom. When victory day comes, our people will rebuild our country and endow it with bigger and more beautiful construction."
+    }
+   ]
+  },
+  {
+   "headword": "nghiêm túc",
+   "base": "795e1c879c88f30b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "serious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dễ thương",
+   "base": "5b2e6f8f429a5c8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cute; adorable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tặng",
+   "base": "533c3412c4e6b282",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give as a gift"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get (something additional) for free"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mua một tặng một.",
+     "en": "Buy one get one free."
+    }
+   ]
+  },
+  {
+   "headword": "nguồn",
+   "base": "81cfd6821eccc758",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "source"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spring"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nguồn sáng",
+     "en": "a light source"
+    },
+    {
+     "sense": 1,
+     "vi": "nguồn thức ăn",
+     "en": "a food source"
+    }
+   ]
+  },
+  {
+   "headword": "chiến thắng",
+   "base": "87bc38952261ee6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a win; triumph; victory"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to win (against); to triumph (over); to achieve a victory (against)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tí",
+   "base": "eb03557cd611797a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "childish",
+      "colloquial"
+     ],
+     "gloss": "breast"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a little bit"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tiny; small"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tồi tệ",
+   "base": "1983cea88f818286",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bad; evil; terrible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kêu",
+   "base": "efb4484b957637ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cry (to shout, scream, yell; to utter animal sounds)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call for someone to see or help you"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uproarious"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "intriguing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chó sủa, mèo kêu",
+     "en": "dogs bark, cats cry"
+    },
+    {
+     "sense": 1,
+     "vi": "Mày mà không bảo con chó của mày im là tao giết nó bây giờ ! Đêm hôm cứ kêu ăng ẳng nhức cả đầu !",
+     "en": "I'll kill your stupid dog if you won't shut it up! It's been howling and giving me headache this whole night!"
+    },
+    {
+     "sense": 1,
+     "vi": "tiếng kêu",
+     "en": "a call or cry"
+    },
+    {
+     "sense": 2,
+     "vi": "kêu người đến giúp",
+     "en": "to call for help"
+    },
+    {
+     "sense": 2,
+     "vi": "Kêu nó lên đây tao bảo.",
+     "en": "Tell him to see me."
+    },
+    {
+     "sense": 2,
+     "vi": "Mày kêu tao hả ?",
+     "en": "Did you want to see me? / Were you looking for me?"
+    },
+    {
+     "sense": 4,
+     "vi": "Cách kể truyện này phải nói kêu ơi là kêu á",
+     "en": "The way the plot is being delivered sounds very much intriguing!"
+    }
+   ]
+  },
+  {
+   "headword": "ngọn",
+   "base": "dc2a070add09b441",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "top (of a tree); crown"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peak (of a mountain); summit; tip; edge; point"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates mountains, hills, flagpoles, tall structures, flames or candles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều khiển",
+   "base": "d2d2264f3db37545",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to control; to conduct; to manipulate; to operate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thức ăn",
+   "base": "9748298b0c7beb17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "food"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "non-rice and non-vegetable-soup food"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chạm",
+   "base": "85c57582c835e850",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to touch; to make physical contact"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to encounter; to bump into"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hurt"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carve"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cảm biến không chạm",
+     "en": "contactless sensor"
+    }
+   ]
+  },
+  {
+   "headword": "thực ra",
+   "base": "28a8bc108c25cbb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "actually; in fact; really"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đoạn",
+   "base": "eeb427b255f97e65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "segment"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line segment"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paragraph"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "fabric woven from silk, with a smooth, glossy surface where the warp threads fully cover the weft threads"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "then; after finishing ..."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cầm đoạn giữa",
+     "en": "to hold the middle segment"
+    },
+    {
+     "sense": 3,
+     "vi": "đoạn văn",
+     "en": "a paragraph"
+    },
+    {
+     "sense": 3,
+     "vi": "đoạn mở bài",
+     "en": "introductory paragraph"
+    },
+    {
+     "sense": 3,
+     "vi": "đoạn kết bài",
+     "en": "concluding paragraph"
+    },
+    {
+     "sense": 5,
+     "vi": "Nói đoạn, hắn quỳ gục xuống đất.",
+     "en": "He stopped talking, then collapsed with kneels on the ground."
+    }
+   ]
+  },
+  {
+   "headword": "lưng",
+   "base": "137a825730ca6b56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "back (the rear of the body)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đốt",
+   "base": "0cc1f6d08b1d63e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to set fire to; to set ablaze; to ignite"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "transitive"
+     ],
+     "gloss": "to sting"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "joint; segment; internode"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đốt củi",
+     "en": "to burn wood"
+    },
+    {
+     "sense": 1,
+     "vi": "đốt nhà",
+     "en": "to set a house on fire"
+    },
+    {
+     "sense": 2,
+     "vi": "bị ong đốt",
+     "en": "be stung by bees"
+    },
+    {
+     "sense": 3,
+     "vi": "đốt mía ― internode of a sugarcane",
+     "en": null
+    },
+    {
+     "sense": 3,
+     "vi": "đốt ngón tay",
+     "en": "phalanx (literally, “finger segment”)"
+    }
+   ]
+  },
+  {
+   "headword": "hoàn thành",
+   "base": "6120222dd1b20edd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to finish, to complete"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đôi khi",
+   "base": "398fa9d897dbfc77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "sometimes; occasionally"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sạch",
+   "base": "ebf4dfc102bc9ae4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clean"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely; entirely; utterly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổng",
+   "base": "58a87fadc58b9123",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gate (door-like structure outside; doorway, opening, or passage in a fence or wall)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "port"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Internet"
+     ],
+     "gloss": "portal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cổng trường",
+     "en": "a school gate"
+    }
+   ]
+  },
+  {
+   "headword": "đức",
+   "base": "a03abd01f5a598b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "virtue; righteousness"
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "capitalized",
+      "morpheme"
+     ],
+     "gloss": "Used for respected figures"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đức Khổng Tử/Phật/Giê-su Ki-tô/Chúa Trời/Giê-hô-va",
+     "en": "Confucius/the Buddha/Jesus Christ/the Lord/Jehovah"
+    },
+    {
+     "sense": 2,
+     "vi": "Đức Mẹ/Bà",
+     "en": "Our Lady; Notre Dame"
+    }
+   ]
+  },
+  {
+   "headword": "một vài",
+   "base": "7c1655540d88b6a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "some, a few"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phản bội",
+   "base": "7ad2bd58f9584c20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to betray; to be unfaithful to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thăm",
+   "base": "7e680639f73113e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to visit; to call on"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to (clinically) examine"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lot (drawn to tell fortune)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "vote; ballot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghi",
+   "base": "fc08c28a0c8866ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write something for the record"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to remember; to keep remembrances"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "The colour, color or shade in between white and black: grey or gray."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giấc",
+   "base": "4868b9b2ceaef7ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates sleep times and dreams"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giấc ngủ",
+     "en": "a sleep period or a nap"
+    },
+    {
+     "sense": 1,
+     "vi": "giấc mơ/mộng",
+     "en": "a dream"
+    }
+   ]
+  },
+  {
+   "headword": "niềm",
+   "base": "2f328a82e4af2af1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "feeling; sentiment (usually a positive one, cf. nỗi)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "niềm vui",
+     "en": "joy"
+    },
+    {
+     "sense": 1,
+     "vi": "niềm tin",
+     "en": "trust"
+    },
+    {
+     "sense": 1,
+     "vi": "niềm đau",
+     "en": "pain"
+    }
+   ]
+  },
+  {
+   "headword": "vĩ đại",
+   "base": "d1986b514f5e7cfb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "great, extraordinary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh sáng",
+   "base": "b218ad2cef16f7ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "light"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "spiritual or mental illumination; enlightenment, useful information"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thiên Chúa phán: “Phải có ánh sáng.” Liền có ánh sáng.",
+     "en": "The Lord said, \"Let there be light.\" And there was promptly light."
+    }
+   ]
+  },
+  {
+   "headword": "giọng",
+   "base": "8262ce9cecf02421",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "voice"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vocal"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "accent"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "dialect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hút",
+   "base": "4daf3e61e060085f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to absorb, to suck"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to smoke"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attract (iron)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to attract"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ống hút",
+     "en": "a drinking straw"
+    },
+    {
+     "sense": 2,
+     "vi": "hút thuốc",
+     "en": "to smoke (a cigarette)"
+    },
+    {
+     "sense": 4,
+     "vi": "Quán đó hút khách dữ lắm.",
+     "en": "That store attracts a lot of customers."
+    }
+   ]
+  },
+  {
+   "headword": "dì",
+   "base": "279b0ce60b90dd7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maternal aunt, mother's sister"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stepmother; stepmom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhưng mà",
+   "base": "34055087a9e11a45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "but"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dòng",
+   "base": "6e155eb5ae4cf2f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "current, stream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "line"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strain, descent"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "religious order"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "xuống dòng",
+     "en": "to start a new line"
+    },
+    {
+     "sense": 2,
+     "vi": "dòng sản phẩm",
+     "en": "product line"
+    }
+   ]
+  },
+  {
+   "headword": "quái vật",
+   "base": "6c97fefdd064e18f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monster"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung tâm",
+   "base": "4e664afe53ec2ee4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "center, centre"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "private school of a foreign language"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "trung tâm tiếng Anh",
+     "en": "private school of English"
+    }
+   ]
+  },
+  {
+   "headword": "sửa",
+   "base": "4a46fd70d56dbc2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repair, to correct, to put right"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảo",
+   "base": "4a4fcc4e083a4468",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "island"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn upside down; to flip over"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shake; to wag"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chân thiên hạ ấy, loài di địch đảo dưới trên, chi dong thói muông dê.",
+     "en": "At the base [of this country] under Heaven, the barbarians there turnt the tenet upside down, how reminiscent of the action of some wretched beasts."
+    }
+   ]
+  },
+  {
+   "headword": "giấy",
+   "base": "2c6174776d5ce9d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paper (material for writing on)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tissue (for cleaning)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hôm qua",
+   "base": "ec91c78760349f68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yesterday"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xứng đáng",
+   "base": "392a4cc1fb640776",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deserving; meritorious; worthy; suitable"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deserve; to be worthy of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dặm",
+   "base": "c18b210361853dd8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mile (measure of length)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "league (distance)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hai vạn dặm dưới đáy biển",
+     "en": "Twenty Thousand Leagues Under the Sea"
+    },
+    {
+     "sense": 2,
+     "vi": "Chúng ta cần phải biết rằng: những thắng lợi mà chúng ta đã dạt được mới chỉ là bước dần trên đường đi muôn dặm.",
+     "en": "We must realize that the successes recorded by us so far are only the first steps on a thousand-league road."
+    }
+   ]
+  },
+  {
+   "headword": "tội phạm",
+   "base": "616c9707b68787fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crime"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "criminal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vết",
+   "base": "288f880ba96ccd08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spot; stain; blemish"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates stains, spots, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hơn nữa",
+   "base": "7a5f039679cf5ce5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "moreover, besides"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghĩa",
+   "base": "6ddb45dfd5152677",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a meaning; a sense"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "morality, decency"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "relationship; bond"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nghĩa là gì?",
+     "en": "What does […] mean?"
+    },
+    {
+     "sense": 1,
+     "vi": "theo nghĩa xấu",
+     "en": "in the pejorative sense"
+    },
+    {
+     "sense": 1,
+     "vi": "Nếu từ này có nghĩa xấu, tôi sẽ không bao giờ dùng nó nữa.",
+     "en": "If this word is pejorative, I will never use it again."
+    },
+    {
+     "sense": 2,
+     "vi": "Con hổ có nghĩa",
+     "en": "The Moral Tiger (the folkloric tiger who upheld morality by gratefully returning favors to gracious human benefactors)"
+    }
+   ]
+  },
+  {
+   "headword": "khách sạn",
+   "base": "cb83cc76c02b0d1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hotel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gần đây có khách sạn nào tốt chị chỉ em với ạ.",
+     "en": "Could you please recommend me a good hotel nearby?"
+    }
+   ]
+  },
+  {
+   "headword": "anh hùng",
+   "base": "32c370e4e9c41656",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hero"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "heroic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghi ngờ",
+   "base": "129fd94e58410df3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to doubt; to suspect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh nhân",
+   "base": "7f24f153ec7dfe3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "patient, sufferer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chừng",
+   "base": "bf71bd8ba9e6fbaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rough estimate, extent or measure"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "contingency; eventuality"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "about; approximately"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stop or slow down halfway"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trường hợp",
+   "base": "f9d7f49c6bf3331f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a case, scenario or situation"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of ca (“case”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "case"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giả sử..., có hai trường hợp có thể xảy ra. Trường hợp 1:...",
+     "en": "Suppose..., there would be two scenarios. Scenario 1:..."
+    },
+    {
+     "sense": 2,
+     "vi": "2 ca/trường hợp tử vong",
+     "en": "2 cases that resulted in death"
+    },
+    {
+     "sense": 3,
+     "vi": "in case",
+     "en": "trong trường hợp"
+    },
+    {
+     "sense": 3,
+     "vi": "trong trường hợp đó",
+     "en": "in that case"
+    }
+   ]
+  },
+  {
+   "headword": "bao",
+   "base": "edead11ebd112bb4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bag; sack; pack"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "box; packet"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enclose; to envelope; to cover"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to guarantee; to assure"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take on everything; to undertake (the whole of) something as someone's proxy"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat; to pay (for someone else); to foot the bill; to cover (someone else); to stand"
+    },
+    {
+     "position": 7,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "how; how much"
+    },
+    {
+     "position": 8,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very; super (placed before an adjective to intensify)"
+    },
+    {
+     "position": 9,
+     "pos": "det",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "so many"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "Đi ăn không? Tao bao.",
+     "en": "Do you want to eat out? It's on me."
+    },
+    {
+     "sense": 7,
+     "vi": "Ngàn năm là bao?",
+     "en": "How long is one thousand years really?"
+    },
+    {
+     "sense": 8,
+     "vi": "cam bao ngọt",
+     "en": "super-duper sweet oranges"
+    },
+    {
+     "sense": 9,
+     "vi": "bao người",
+     "en": "people everywhere"
+    },
+    {
+     "sense": 9,
+     "vi": "bao ngày",
+     "en": "day after day"
+    }
+   ]
+  },
+  {
+   "headword": "sợ hãi",
+   "base": "cb3e8a2f9049f190",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "scared, afraid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chinh phục sự sợ hãi",
+     "en": "to conquer fear"
+    }
+   ]
+  }
+ ]
+}

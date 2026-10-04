@@ -1,0 +1,1402 @@
+{
+ "batch": "0028",
+ "entries": [
+  {
+   "headword": "leo",
+   "base": "7d6d81ca60bb4435",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to climb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "leo cây",
+     "en": "to climb a tree"
+    },
+    {
+     "sense": 1,
+     "vi": "leo núi",
+     "en": "to go mountain climbing or hiking"
+    }
+   ]
+  },
+  {
+   "headword": "A",
+   "base": "7f349a829f1433c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "hah!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a",
+   "base": "68331d44407813bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter A/a."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a cutting tool consisting of two blades inserted into a long handle to cut grass or to harvest rice"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "a land measurement unit, equal to 100 square meters"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to rush or charge forward at"
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "Used to indicate a question that is asked out of perplexity or sarcasm."
+    },
+    {
+     "position": 6,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "An expression of happiness, surprise or of a sudden remembrance of something."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "rèn một lưỡi a bằng ba lưỡi hái",
+     "en": "literally, \"forging one a blade (the blade of a two-bladed cutting tool) equals three scythe blades\"; a master tool takes thrice the toil"
+    },
+    {
+     "sense": 4,
+     "vi": "a vào giật cho bằng được",
+     "en": "to charge in and snatch it at all costs"
+    },
+    {
+     "sense": 5,
+     "vi": "Bây giờ mới đi a?",
+     "en": "You've only been going just now?"
+    },
+    {
+     "sense": 5,
+     "vi": "Dừ mì đi a?",
+     "en": "You've only been going just now?"
+    },
+    {
+     "sense": 5,
+     "vi": "Thật thế a?",
+     "en": "Really?"
+    },
+    {
+     "sense": 5,
+     "vi": "Rứa a?",
+     "en": "Really?"
+    },
+    {
+     "sense": 6,
+     "vi": "A mẹ đã về!",
+     "en": "Oh, my mom came home!"
+    },
+    {
+     "sense": 6,
+     "vi": "A, mình nhớ ra rồi!",
+     "en": "Oh, I remember!"
+    }
+   ]
+  },
+  {
+   "headword": "họp",
+   "base": "b26ced42f2cbd903",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to meet; to gather; to convene"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuộc họp",
+     "en": "meeting"
+    },
+    {
+     "sense": 1,
+     "vi": "kì họp",
+     "en": "meeting"
+    }
+   ]
+  },
+  {
+   "headword": "bắt cóc",
+   "base": "a926ebf5b3d4b9bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kidnap; to abduct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xác nhận",
+   "base": "a1dfdcbc8c750c43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to confirm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thấp",
+   "base": "fab5f5abfd6fd177",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short in terms of height"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "low"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chai",
+   "base": "1f030b0cd4e26ae7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bottle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "slang"
+     ],
+     "gloss": "one million dongs"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "callus"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chai nước",
+     "en": "a water bottle"
+    },
+    {
+     "sense": 3,
+     "vi": "vết chai",
+     "en": "a callus"
+    },
+    {
+     "sense": 3,
+     "vi": "bị chai tay",
+     "en": "to have calluses on one's hand"
+    },
+    {
+     "sense": 4,
+     "vi": "pin bị chai rồi",
+     "en": "the battery's no good anymore (won't hold a charge)"
+    }
+   ]
+  },
+  {
+   "headword": "phù thủy",
+   "base": "e9ea15fce78d675d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of phù thuỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hỗ trợ",
+   "base": "00208b3c25cbfd01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to help each other; to support"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiêu diệt",
+   "base": "de0404e16aa3a1b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kill, to apply genocide, to destroy"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to eliminate (as for crime, rats, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy tính",
+   "base": "8b158d493fc29993",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calculator (electronic device that performs mathematical calculations)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "computer (device)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kho",
+   "base": "d00bf5868a85f435",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to braise; to stew; to simmer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a warehouse; storehouse; depot"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a depository; storage place; armory"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a great quantity; large amount"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the treasury"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạo",
+   "base": "42b37edba94ae814",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to utter an introductory part of one's speech or instrument"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to walk; to stroll"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "time period; times"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếm",
+   "base": "8cdc53a03a6a0040",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to occupy; to usurp"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appropriate; to seize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ống",
+   "base": "149864ae55df7ed2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tube, pipe, duct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình trạng",
+   "base": "c06354c1e32515be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "situation; condition; state"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đào",
+   "base": "9b545e88fb804611",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peach"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dig up, to unearth"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a songstress or an actress in certain types of Vietnamese performance art"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầu nguyện",
+   "base": "2a9608f64106f351",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pray (a spiritual act to communicate with the divine)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "từ bỏ",
+   "base": "1954fd8d5d89ee97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abandon; to disown; to reject; to renounce"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give up (a dream, career, habit, etc.); to stop pursuing or following"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trà",
+   "base": "e84ee75fdd4e5734",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one's spectrum of age"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crops of the same kind in a particular stage; generation"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "Southern"
+     ],
+     "gloss": "tea"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "dried tea"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "chén uống trà",
+     "en": "teacup"
+    }
+   ]
+  },
+  {
+   "headword": "chi",
+   "base": "b3929b54fad08418",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "genus"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spend (money); to pay out; to disburse"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "a limb"
+    },
+    {
+     "position": 4,
+     "pos": "pron",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "what; whatever"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "what for"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Mi mần chi rứa?",
+     "en": "What are you doing over there?"
+    },
+    {
+     "sense": 4,
+     "vi": "Cuộc tình đến rồi đi. Buồn làm chi nhung nhớ làm gì.",
+     "en": "Love comes and goes. Why be sad? Why be tormented by it?"
+    },
+    {
+     "sense": 5,
+     "vi": "Chi?",
+     "en": "For what?"
+    },
+    {
+     "sense": 5,
+     "vi": "Làm vậy chi?",
+     "en": "What did you do that for?"
+    }
+   ]
+  },
+  {
+   "headword": "thuyết phục",
+   "base": "0d2e36bf001638c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to persuade"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có sức thuyết phục",
+     "en": "persuasive"
+    }
+   ]
+  },
+  {
+   "headword": "bãi",
+   "base": "cb47915afa8b1b31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shore; bank"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field; plain; yard"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "charlatan and/or vagabond"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bãi Sao",
+     "en": "name of a beach in Phú Quốc"
+    }
+   ]
+  },
+  {
+   "headword": "vậy mà",
+   "base": "26bb640dcdce8258",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "but; however; yet; still"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mẫu",
+   "base": "0ec89369bb222f93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sample"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a design, model, style, etc."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "form; type; template"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "acre"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hàng mẫu",
+     "en": "a product sample"
+    },
+    {
+     "sense": 2,
+     "vi": "nhà tạo mẫu tóc",
+     "en": "a hair stylist"
+    },
+    {
+     "sense": 3,
+     "vi": "mẫu đơn",
+     "en": "application form"
+    },
+    {
+     "sense": 3,
+     "vi": "mẫu người",
+     "en": "type of person"
+    }
+   ]
+  },
+  {
+   "headword": "đàn",
+   "base": "bbb957cc6e8880e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "large number of animals associated together in a group: flock, herd, school (of fish), murder (of crows), etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a number of musical instruments (properly a string instrument, though used for a few non-string instruments)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play (a string instrument)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "in-compounds",
+      "rare"
+     ],
+     "gloss": "raised ground or high platform for worship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "đàn tế",
+     "en": "altar"
+    },
+    {
+     "sense": 4,
+     "vi": "đàn Nam Giao",
+     "en": "Esplanade of Sacrifice to the Heaven and Earth"
+    }
+   ]
+  },
+  {
+   "headword": "xấu hổ",
+   "base": "ead26608a06561ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be ashamed; to be embarrassed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be bashful; to be shy"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "touch-me-not; shy plant (Mimosa pudica)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tóm",
+   "base": "12095375aea29b9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grab; to catch; to seize (especially by hand)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to apprehend; to capture; to arrest"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to summarize; to make concise"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "skinny, thin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chờ đợi",
+   "base": "2b82df5a85127c83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wait; to await"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạt",
+   "base": "34e4f83547a52222",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reach; to attain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lát",
+   "base": "ba4d80887a7cc141",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of wood used to make furniture"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slice"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a slice"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "moment; short while"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover (floor with tiles); to pave (road)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cắt lát",
+     "en": "to cut into slices"
+    },
+    {
+     "sense": 4,
+     "vi": "Lát nhớ đi học sớm đó.",
+     "en": "Remember to go to school early."
+    },
+    {
+     "sense": 5,
+     "vi": "lát đường",
+     "en": "to pave a road"
+    }
+   ]
+  },
+  {
+   "headword": "nhà thờ",
+   "base": "b95c0eb30dbadcf7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a house of worship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đóng tiền xây nhà thờ họ",
+     "en": "to contribute to building a family's house of worship"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhà thờ Đức Bà Pa-ri",
+     "en": "the Notre-Dame de Paris"
+    },
+    {
+     "sense": 1,
+     "vi": "Mộ-phần của ông (lập ở trong vường^([sic – meaning vườn]), gần ngay căn nhà tranh ông ở lúc sinh-thời) do ông Huỳnh-Thúc-Kháng đứng lên trông-nom việc xây cất. Nhờ số tiền quyên-trợ, ông Huỳnh-Thúc-Kháng còn cho làm thêm được một nhà thờ nhỏ lợp ngói để thờ ông, thay vào túp lều tranh trước kia ông dùng làm thư-phòng.",
+     "en": "The construction of his tomb (in the garden, next to the thatched shack he lived in) was supervised by Huỳnh Thúc Kháng. Thanks a donation, Huỳnh Thúc Kháng also had a small tiled house of worship made for him, in place of the thatched tent he used as a study."
+    },
+    {
+     "sense": 1,
+     "vi": "Hiếm có nhà thờ tổ của dòng họ nào ở Việt Nam lại có quy mô lớn như thế. Nhà thờ họ nằm ngoài cánh đồng, bề thế như một ngôi đình làng với hậu cung, đại bái, tả mạc, hữu mạc, sân tế… đủ sức chứa cho 500 người về hành hương.",
+     "en": "Rare are any families' ancestral houses of worship in Vietnam with such scale. The family house of worship is in the open paddy, as grand as a village shrine with a back house, a main house, a left wing, a right wing, a courtyard, etc. with a housing capacity for 500 pilgrims."
+    },
+    {
+     "sense": 1,
+     "vi": "Nhà thờ họ thường là nơi giúp họ nhớ lại những đỉnh cao vinh quang của dòng họ, những tấm gương sáng của tổ tiên và đồng thời những ước vọng của mỗi còn^([sic – meaning con]) người trong dòng họ được nguyện cầu tại đây.",
+     "en": "A family house of worship is where the family keep remembrances of their glory and the role models among their ancestors, as well as keep the wishes of each member who prays there."
+    },
+    {
+     "sense": 1,
+     "vi": "Hiện nay ở Bạc Liêu có 15 nhà thờ, trong đó có 12 nhà thờ Công giáo, 3 nhà thờ Tin Lành. Các nhà thờ này chủ yếu do người Kinh xây dựng từ giữa thế kỷ XIX đến nay.",
+     "en": "Currently, there are 15 churches in Bạc Liêu, including 12 Catholic and 3 Protestant ones. These churches were built mainly by the Kinh from the middle 19th century to this day."
+    },
+    {
+     "sense": 1,
+     "vi": "Xin quí tôi con Chúa gần xa nhớ đến Hội Thánh Buôn Ky trong sự cầu thay, để có đủ tài chính xây dựng hoàn thành ngôi nhà thờ đúng thời gian hoạch định.",
+     "en": "May the children of the Lord from all walks of life come to the Buôn Ky Church in prayer, so they have enough budget to finish the church house according to plan."
+    }
+   ]
+  },
+  {
+   "headword": "phản ứng",
+   "base": "798ab0793cdb120a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a reaction; a response"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a reaction"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to react; to respond"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "phản ứng hoá học",
+     "en": "a chemical reaction"
+    }
+   ]
+  },
+  {
+   "headword": "thành viên",
+   "base": "5eeb18f8976569c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "member"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trạm",
+   "base": "c8d4db7ad7336424",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stop, station"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trạm phát điện",
+     "en": "a power station"
+    }
+   ]
+  },
+  {
+   "headword": "đỡ",
+   "base": "8c92fb0130589dc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise (someone) from a fall; to lift up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prop; to support"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take in one's hands (what is offered, given); to help down with some load"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to parry; to ward off"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to help; to give a hand"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reduce (a negative emotion or situation); to relieve"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get better (after falling sick); to recover"
+    },
+    {
+     "position": 8,
+     "pos": "adv",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "temporarily (in the absence of a better method); as a makeshift"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 6,
+     "vi": "Không có một tiếng vạc sành kêu cho đỡ buồn.",
+     "en": "Not one cricket chirped to reduce the sadness."
+    },
+    {
+     "sense": 7,
+     "vi": "Em đỡ chưa?",
+     "en": "Feeling better? / Recovered yet?"
+    }
+   ]
+  },
+  {
+   "headword": "bia",
+   "base": "0835f7d8f08f5b71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tombstone; gravestone; stele; monument"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "target (for shooting); bullseye"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bụng bia",
+     "en": "a beer belly"
+    }
+   ]
+  },
+  {
+   "headword": "trẻ con",
+   "base": "b9ab2e473565d5f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "children; kids (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "childish; infantile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sắp xếp",
+   "base": "20d83223bfd18f80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange, to organize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mái",
+   "base": "f6a1ef68a939b900",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "feminine"
+     ],
+     "gloss": "female"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "feminine"
+     ],
+     "gloss": "female"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "roof"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "bangs; fringe"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "indicates all of someone's headhair"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gà mái",
+     "en": "a hen"
+    },
+    {
+     "sense": 2,
+     "vi": "cá heo mái/cái",
+     "en": "a female dolphin"
+    },
+    {
+     "sense": 4,
+     "vi": "mái ngố",
+     "en": "blunt bangs"
+    },
+    {
+     "sense": 5,
+     "vi": "mái tóc bóng mượt",
+     "en": "shiny and silky hair"
+    }
+   ]
+  },
+  {
+   "headword": "kẹt",
+   "base": "778d86762a4a5f93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be stuck"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be stuck"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to be busy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công bằng",
+   "base": "26d2be7706994338",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "just; fair"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xã hội công bằng, dân chủ, văn minh",
+     "en": "a fair, democratic, civilized society"
+    }
+   ]
+  },
+  {
+   "headword": "đánh bại",
+   "base": "4780dcae88ce518e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to defeat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xử",
+   "base": "8ac2702525edd26e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat; to deal with"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to judge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại học",
+   "base": "71eaa49c2fbb8187",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "university, college (institution of higher education that awards bachelor's degrees or higher)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a university that meets certain additional criteria, such as not being specialized and having member institutions"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "undergraduate education (university or college education for a bachelor's degree or equivalent)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thành phố này có một trường đại học và ba trường cao đẳng.",
+     "en": "There are one university and three junior colleges in this city."
+    },
+    {
+     "sense": 1,
+     "vi": "[…] nghiên cứu sinh năm nhất chương trình tiến sĩ ngành Triết học (DPhil) trong giáo dục tại Đại học Brasenose thuộc Đại học Oxford[…]",
+     "en": "[…] a first-year research student pursuing a doctorate of philosphy (DPhil) in education at Brasenose College of the University of Oxford, […]"
+    },
+    {
+     "sense": 3,
+     "vi": "giáo dục đại học và sau đại học",
+     "en": "undergraduate and postgraduate education"
+    }
+   ]
+  },
+  {
+   "headword": "không gian",
+   "base": "0d4e6d676978b1ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "space"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "space"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "area, room"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đánh giá",
+   "base": "d37c71b521dfd3fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to evaluate or estimate the price"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to evaluate; to estimate; to assess"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huynh",
+   "base": "0d6c2e969f9acdf0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an elder brother"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I; you (refers to the male senior among the speakers)"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you (used when speaking to a young man on equal footing)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

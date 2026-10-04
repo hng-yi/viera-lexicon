@@ -1,0 +1,1524 @@
+{
+ "batch": "0035",
+ "entries": [
+  {
+   "headword": "hạ cánh",
+   "base": "94cb2f908c033e92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to land"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tên lửa",
+   "base": "e74e125093817058",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rocket"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a missile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thợ",
+   "base": "66406f530a09c8c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a laborer, artisan or technician"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being a worker"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thợ xây/nề",
+     "en": "a bricklayer"
+    },
+    {
+     "sense": 1,
+     "vi": "thợ mộc",
+     "en": "a woodworker"
+    },
+    {
+     "sense": 1,
+     "vi": "thợ điện",
+     "en": "an electrician"
+    },
+    {
+     "sense": 2,
+     "vi": "kiến thợ",
+     "en": "a worker ant"
+    }
+   ]
+  },
+  {
+   "headword": "tình",
+   "base": "25e46bcf1dda2a2f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the ability to feel affection or compassion"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "romantic love"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a romantic relationship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tình người",
+     "en": "humanity"
+    },
+    {
+     "sense": 1,
+     "vi": "tình mẹ",
+     "en": "mother's love"
+    },
+    {
+     "sense": 1,
+     "vi": "có tình có nghĩa",
+     "en": "to have compassion and gratitude"
+    },
+    {
+     "sense": 1,
+     "vi": "bội tình",
+     "en": "to betray someone despite their great affection for you"
+    },
+    {
+     "sense": 1,
+     "vi": "phụ tình",
+     "en": "to disappoint someone despite their great affection for you"
+    },
+    {
+     "sense": 2,
+     "vi": "tình yêu",
+     "en": "love"
+    }
+   ]
+  },
+  {
+   "headword": "cứng",
+   "base": "98653f4e85a82b91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard; firm; rigid"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lượng",
+   "base": "32ad3d951b17ceae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quantity; amount"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quantity"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Hinduism"
+     ],
+     "gloss": "pramana"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Biến đổi về lượng dẫn đến biến đổi về chất.",
+     "en": "Changes in Quantity leads to changes in Quality."
+    }
+   ]
+  },
+  {
+   "headword": "vô địch",
+   "base": "e968d7ca15f25eeb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "champion; pertaining to a competition winner"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "archaic",
+      "rare"
+     ],
+     "gloss": "unrivaled; unbeatable"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be the champion; to have won the championship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giải vô địch",
+     "en": "a championship (champion tournament)"
+    },
+    {
+     "sense": 1,
+     "vi": "ngôi vô địch",
+     "en": "a championship (champion title)"
+    },
+    {
+     "sense": 1,
+     "vi": "nhà vô địch",
+     "en": "a champion (champion person)"
+    },
+    {
+     "sense": 3,
+     "vi": "Chúng tôi muốn vô địch Nations League.",
+     "en": "We want to be the champion (of) Nations League."
+    },
+    {
+     "sense": 3,
+     "vi": "Việt Nam vô địch!",
+     "en": "Vietnam will be the champion! (a slogan used for cheering Vietnam team at international competitions)"
+    }
+   ]
+  },
+  {
+   "headword": "bỏ rơi",
+   "base": "745882076134ece7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abandon; leave behind; desert"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con số",
+   "base": "a5194be79be27588",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "number; figure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốc",
+   "base": "1a62b0d605a6fbd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick something up with hand"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to make up (a traditional medicine prescription)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exhume and move (a corpse) to another place"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to steam, to vaporize"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise up; to surge"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to develop well"
+    },
+    {
+     "position": 7,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "enthusiastic"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "a handful"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of vase used to clean intestines"
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "a beer cup of about 1/4 litre"
+    },
+    {
+     "position": 11,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of haircut"
+    },
+    {
+     "position": 12,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boxing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ăn bốc",
+     "en": "to eat with hands"
+    },
+    {
+     "sense": 2,
+     "vi": "bốc thuốc",
+     "en": null
+    },
+    {
+     "sense": 3,
+     "vi": "bốc mộ",
+     "en": "to relocate a tomb"
+    },
+    {
+     "sense": 12,
+     "vi": "đấm bốc",
+     "en": "to box"
+    }
+   ]
+  },
+  {
+   "headword": "xưa",
+   "base": "b8e73d5536725601",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old; ancient"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a long time ago; old times"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều kiện",
+   "base": "ec5d71ef510a65fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "condition, terms"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Phi",
+   "base": "314b9c784a8787be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "African (of, from or relating to Africa)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Philippine (of, from or relating to Philippines)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phi",
+   "base": "2989c5e2c81e9a12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gallop"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flee; to travel very quickly"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lance (to throw in the manner of a lance)"
+    },
+    {
+     "position": 4,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "non-, in-"
+    },
+    {
+     "position": 5,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "if it isn't"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stir-fry (an onion, scallion, or clove of garlic) before preparing a dish"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Various species of saltwater clam of the genus Sanguinolaria, such as Sanguinolaria diphos and Sanguinolaria planculata."
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phi (Φ)"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "concubines, mistresses, ladies of a monarch."
+    },
+    {
+     "position": 10,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wives, consorts of a junior monarch such as a prince."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngựa phi.",
+     "en": "The horse gallops."
+    },
+    {
+     "sense": 2,
+     "vi": "Phi nhanh về nhà kẻo tối.",
+     "en": "Hurry home before it gets dark."
+    },
+    {
+     "sense": 3,
+     "vi": "phi dao găm",
+     "en": "to throw a dagger"
+    },
+    {
+     "sense": 4,
+     "vi": "phi (chính) nghĩa",
+     "en": "unjust; for an unjustifiable cause"
+    },
+    {
+     "sense": 4,
+     "vi": "phi phàm",
+     "en": "inhuman; extraordinary"
+    },
+    {
+     "sense": 5,
+     "vi": "Phi anh ấy, không ai biết.",
+     "en": "If it isn't him, then who knows?"
+    },
+    {
+     "sense": 6,
+     "vi": "Phi tỏi rồi mới bỏ rau muống vào.",
+     "en": "Stir-fry the garlic before adding in water spinach."
+    },
+    {
+     "sense": 6,
+     "vi": "Phi hành để nấu nước chấm.",
+     "en": "Stir-fry the onion to make dipping sauce."
+    },
+    {
+     "sense": 9,
+     "vi": "các bà phi trong cung",
+     "en": "the palace concubines"
+    },
+    {
+     "sense": 10,
+     "vi": "vương phi, vương tử phi, hoàng tử phi",
+     "en": "the queen consort, the royal princess consort, the imperial princess consort"
+    }
+   ]
+  },
+  {
+   "headword": "cản",
+   "base": "16c793d1fa06a949",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prevent; to bar; to hinder"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "barrage; dam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cốc",
+   "base": "2b37322901e61c1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "glass, tumbler"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cormorant"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Irvingia malayana"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "obsolete",
+      "possibly"
+     ],
+     "gloss": "Anthyllis indica"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "knock, the sound of hitting hard objects (usually wood or wooden doors)"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to knock (on the head) using one's knuckle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 5,
+     "vi": "cốc cốc cốc, ai gọi đó?",
+     "en": "knock knock knock, who's there?"
+    },
+    {
+     "sense": 6,
+     "vi": "cốc vào đầu",
+     "en": "to knock on the head"
+    }
+   ]
+  },
+  {
+   "headword": "ăn cắp",
+   "base": "f18f824e64243d6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to steal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều hành",
+   "base": "89404c4972890b69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to manage; to run; to operate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giám đốc điều hành",
+     "en": "chief executive officer"
+    }
+   ]
+  },
+  {
+   "headword": "tâm thần",
+   "base": "b7233843c912a85c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mental; mind; spirit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "crazy person"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "informal"
+     ],
+     "gloss": "crazy, insane, psycho"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thử nghiệm",
+   "base": "2da5e141edf5e8b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trial; experiment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hôn nhân",
+   "base": "5fd95b2f56a467e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "marriage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiến tới hôn nhân",
+     "en": "to enter into marriage (after a period of dating)"
+    },
+    {
+     "sense": 1,
+     "vi": "Hôn nhân là nấm mồ của tình yêu.",
+     "en": "Marriage is the tomb of love. (saying)"
+    }
+   ]
+  },
+  {
+   "headword": "nguyên",
+   "base": "09974fc759a24b04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yuan"
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "bureaucratese",
+      "morpheme"
+     ],
+     "gloss": "former"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "intact or unchanged"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "integral"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "related to the plaintiff"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nguyên Chủ tịch nước…",
+     "en": "former President…"
+    },
+    {
+     "sense": 2,
+     "vi": "nguyên Tổng bí thư…",
+     "en": "former General Secretary…"
+    },
+    {
+     "sense": 3,
+     "vi": "Tiền mày gửi vẫn còn nguyên.",
+     "en": "The money you sent is still all there."
+    },
+    {
+     "sense": 4,
+     "vi": "phần nguyên",
+     "en": "the integral part of a decimal fraction"
+    }
+   ]
+  },
+  {
+   "headword": "thỉnh thoảng",
+   "base": "cc7aa4d52c8d2709",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "sometimes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trang",
+   "base": "67e687a99c520d66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "page"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trang chính",
+     "en": "main page"
+    }
+   ]
+  },
+  {
+   "headword": "ho",
+   "base": "1feab0d8be3c2221",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cough"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tốn",
+   "base": "33459d59da1c8461",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pay for, to spend; to cost, to consume"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Xun, one of the eight trigrams"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thể hiện",
+   "base": "bc4efaffda7119d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show; to manifest itself; to reveal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lưỡi",
+   "base": "71ccb50041a60edf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tongue"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "cutting edge; blade"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "con dao hai lưỡi",
+     "en": "a double-edged knife / a thing that has both useful and harmful effects"
+    }
+   ]
+  },
+  {
+   "headword": "xứ",
+   "base": "8708ffc6a29756ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a land (country or region)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xứ người",
+     "en": "a foreign land; foreign soil"
+    },
+    {
+     "sense": 1,
+     "vi": "tứ xứ",
+     "en": "everywhere"
+    }
+   ]
+  },
+  {
+   "headword": "động",
+   "base": "0a5255b05e3a1422",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cave, cavern"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to (slightly) touch"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rough; turbulent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "biển động",
+     "en": "rough sea"
+    }
+   ]
+  },
+  {
+   "headword": "can đảm",
+   "base": "74a19f159138f9d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "courageous; brave"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "courage; bravery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diễn viên",
+   "base": "c7c1d00aa351340a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an actor (person who performs in a theatrical play or film)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "diễn viên điện ảnh",
+     "en": "a film actor"
+    },
+    {
+     "sense": 1,
+     "vi": "nam/nữ diễn viên",
+     "en": "a male/female actor"
+    }
+   ]
+  },
+  {
+   "headword": "tuyên bố",
+   "base": "d466f0a6cef5dd71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to announce; to declare"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "announcement; declaration"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tổng thống Mỹ [George W.] Bush hôm qua tuyên bố Saddam Hussein không có vũ khí huỷ diệt hàng loạt khi Mỹ tấn công đất nước vùng Vịnh này. Tuyên bố của ông cho rằng trách nhiệm thuộc về các cơ quan tình báo Mỹ.",
+     "en": "Yesterday [7 October 2004], U.S. President [George W.] Bush declared that Saddam Hussein did not have weapons of mass destruction when the U.S. attacked this Gulf country. His declaration placed responsibility on the U.S. intelligence agencies."
+    },
+    {
+     "sense": 2,
+     "vi": "Tổng thống Mỹ Bush hôm qua tuyên bố Saddam Hussein không có vũ khí huỷ diệt hàng loạt khi Mỹ tấn công đất nước vùng Vịnh này. Tuyên bố của ông cho rằng trách nhiệm thuộc về các cơ quan tình báo Mỹ.",
+     "en": "Yesterday, U.S. President Bush declared that Saddam Hussein did not have weapons of mass destruction when the U.S. attacked this Gulf country. His declaration placed responsibility on the U.S. intelligence agencies."
+    }
+   ]
+  },
+  {
+   "headword": "mù",
+   "base": "40e23e3893a33e22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "blind (unable to see)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "in-compounds",
+      "usually"
+     ],
+     "gloss": "blinding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tối mù",
+     "en": "blindly dark"
+    }
+   ]
+  },
+  {
+   "headword": "xã hội",
+   "base": "b0c87f1ce55ea77f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "society"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ chơi",
+   "base": "e25ca0148a100acb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a toy; plaything"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tan",
+   "base": "4da6cd213ce2d44e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to melt"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dissolve, dissipate"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to finish; to dismiss"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Chợ tan họp rồi.",
+     "en": "The market is closed."
+    }
+   ]
+  },
+  {
+   "headword": "tốt lành",
+   "base": "7280fbd0f3d6000b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "benevolent; favorable; beneficial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hít",
+   "base": "2add9c56ec91ae9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to breathe in; to inhale"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngắn",
+   "base": "9948c96f3198e8c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short or brief in terms of length or duration"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giường ngắn",
+     "en": "a short bed"
+    },
+    {
+     "sense": 1,
+     "vi": "thời gian ngắn",
+     "en": "a short period of time"
+    }
+   ]
+  },
+  {
+   "headword": "trôi",
+   "base": "a6032877910c6953",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drift, float along (to move slowly, especially pushed by currents of water, air, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pass; to elapse; to drift away (without human notice)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be floated"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "to go smoothly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "một ngày trôi qua",
+     "en": "a day passed"
+    }
+   ]
+  },
+  {
+   "headword": "công nghệ",
+   "base": "6201cd741d93fbae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "technology"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rudimentary middle school subject that covers multiple homemaking disciplines such as cooking, sewing, flower arranging, horticulture, electrical circuit fixing, etc., similar to home economics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dầu",
+   "base": "579ec3584309c047",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "oil"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Dipterocarpus"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hết rừng dầu lại tới rừng cao su. Màu xanh lá dầu chỉ có thể so sánh với màu cao su vừa thay lá.",
+     "en": "After the Dipterocarpus forest came a forest of rubber trees. The green of Dipterocarpus leaves can only be compared to the color of rubber trees that just changed their foliage."
+    }
+   ]
+  },
+  {
+   "headword": "quỳ",
+   "base": "a5204f5176cea5a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to kneel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội đồng",
+   "base": "9ca5f0086e3aa1c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "council; assembly; committee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hội đồng nhân dân",
+     "en": "a people's committee"
+    },
+    {
+     "sense": 1,
+     "vi": "hội đồng quản trị",
+     "en": "a board of directors"
+    },
+    {
+     "sense": 1,
+     "vi": "Hội đồng Anh",
+     "en": "the British Council"
+    },
+    {
+     "sense": 1,
+     "vi": "Hội đồng Bảo an Liên hợp quốc",
+     "en": "the United Nations Security Council"
+    }
+   ]
+  },
+  {
+   "headword": "bộ phận",
+   "base": "64975c9235a2ea5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "part; section; component; division"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gỗ",
+   "base": "e348d41dca470866",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wood, timber"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "2006, Nguyễn Nhật Ánh, Chuyện xứ Lang Biang part 1: Pho tượng của Baltalon, Kim Đồng, chapter 2",
+     "en": "The wooden house gradually appeared to the children, and it looked not unlike Mr Silver Beard's, with some things that made it look more rundown and shabbier."
+    }
+   ]
+  },
+  {
+   "headword": "cơ quan",
+   "base": "16b27d48bfb84949",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "mechanism; mechanics"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a government institution"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a white-collar workplace"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an organ"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Bữa nào bố cho con lên cơ quan chơi nhe.",
+     "en": "I'll bring you to work some time."
+    }
+   ]
+  },
+  {
+   "headword": "rắn",
+   "base": "80bbb9209194258a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "non-constricting snake, as opposed to a trăn (“constricting snake”)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard; firm; rigid"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "rắn lại",
+     "en": "to stiffen"
+    },
+    {
+     "sense": 2,
+     "vi": "rắn/cứng đầu",
+     "en": "stubborn"
+    },
+    {
+     "sense": 2,
+     "vi": "rắn chắc",
+     "en": "well-built and having strong support"
+    }
+   ]
+  },
+  {
+   "headword": "tiêm",
+   "base": "6e4f992cca0ec139",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "to inject (medicine), to give a shot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ cuộc",
+   "base": "df6280fa1726cf94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give up; to quit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trước vòng thi cuối cùng, hai thí sinh đã bỏ cuộc.",
+     "en": "Just before the final round, two participants had decided to call it quits."
+    }
+   ]
+  },
+  {
+   "headword": "dự án",
+   "base": "4752e30d3e356e10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a project (planned endeavor)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hộ",
+   "base": "57366713a0373476",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a household"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "in place of someone else; in someone else's stead; for someone else"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "mang thai hộ",
+     "en": "to be a surrogate mother"
+    }
+   ]
+  },
+  {
+   "headword": "xoay",
+   "base": "87e65a1f71d6ef1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn; to swivel"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to take pains"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "to manage to obtain something scarce"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Dialium cochinchinense"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xoay ốc vào chốt",
+     "en": "to lead a screw in a bolt"
+    },
+    {
+     "sense": 2,
+     "vi": "Nhà nó nghèo, phải xoay đủ mọi nghề tìm kế sinh nhai.",
+     "en": "Because the boy was born with poverty, he must take pains to make a slightest living with dozens of occupations."
+    },
+    {
+     "sense": 3,
+     "vi": "Người ta xếp hàng dài cho buổi hoà nhạc, tao xoay vé mãi mới được đấy.",
+     "en": "A huge number of attendants were lining up for the concert, but I managed to take hold of the tickets at last."
+    }
+   ]
+  }
+ ]
+}

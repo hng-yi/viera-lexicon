@@ -1,0 +1,1501 @@
+{
+ "batch": "0025",
+ "entries": [
+  {
+   "headword": "OK",
+   "base": "196ede9fcb9930ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "OK, okay (acknowledgement or acceptance)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "OK, okay (dismissal of a dialog box or confirmation of a prompt)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "OK; good; fine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ok",
+   "base": "196ede9fcb9930ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "OK, okay (acknowledgement or acceptance)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "OK, okay (dismissal of a dialog box or confirmation of a prompt)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "OK; good; fine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính",
+   "base": "1dfd10d96783e6e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glass that comes in thinnish, flattish sheets (as opposed to, for example, a thick block or a globular shape), used to make doors, windows, eyewear, lenses, etc.; compare thuỷ tinh (“glass as a substance in general”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyeglasses"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "synonym of gương (“mirror”)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to respect"
+    },
+    {
+     "position": 5,
+     "pos": "prefix",
+     "tags": [
+      "honorific",
+      "morpheme"
+     ],
+     "gloss": "respectfully; cordially"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "path, trait; diameter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kính làm bằng thuỷ tinh",
+     "en": "\"sheet glass\" is made of \"glass\""
+    },
+    {
+     "sense": 4,
+     "vi": "kính trên, nhường dưới",
+     "en": "to respect the elderly and consider the young"
+    },
+    {
+     "sense": 5,
+     "vi": "Kính chào quý khách.",
+     "en": "Greetings."
+    },
+    {
+     "sense": 5,
+     "vi": "Kính mời ngài đến dự tiệc cưới của con chúng tôi.",
+     "en": "You are cordially invited to our children's wedding."
+    },
+    {
+     "sense": 5,
+     "vi": "Kính chúc ông bà mạnh khoẻ, sống lâu.",
+     "en": "We wish you good health and a long life."
+    }
+   ]
+  },
+  {
+   "headword": "năng lượng",
+   "base": "0302658fbfdfd5ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "energy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Năng lượng không tự sinh ra, không tự mất đi.",
+     "en": "Energy can neither be created nor destroyed."
+    }
+   ]
+  },
+  {
+   "headword": "ước",
+   "base": "60800583a3c89a1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wish in one's mind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hầm",
+   "base": "0f8106b20d179b30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stew, to braise, to simmer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basement; cellar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tầng hầm",
+     "en": "underground level (of a house or building)"
+    }
+   ]
+  },
+  {
+   "headword": "lẽ ra",
+   "base": "d2b8e7f9680da064",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "supposed to; to do something proper in the past instead"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lẽ ra bạn nên hỏi tôi trước.",
+     "en": "You should've asked me in the first place."
+    }
+   ]
+  },
+  {
+   "headword": "gió",
+   "base": "0b9df8865dd36231",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wind (movement of air)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "harmful elements that are believed to cause fevers, especially if the patient is exposed to a lot of wind, commonly thought of as actual harmful winds that can penetrate the body and that can be guarded against with silver-coated necklaces, wristbands or ankle bands"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơn gió nào đưa anh đến đây?",
+     "en": "What wind blows you here?"
+    },
+    {
+     "sense": 1,
+     "vi": "Cuốn theo chiều gió",
+     "en": "Gone with the Wind"
+    },
+    {
+     "sense": 2,
+     "vi": "Yếu mà còn ra gió.",
+     "en": "You go out into the wind even though you're weak. / Don't expose yourself to the wind if you're so weak. / Don't try to do daring things if you really can't."
+    }
+   ]
+  },
+  {
+   "headword": "chính phủ",
+   "base": "620dc8d4590b49cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "government"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "state's executive branch, state's administrative body"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chính phủ Mĩ",
+     "en": "U.S. government"
+    },
+    {
+     "sense": 1,
+     "vi": "Chính phủ liên bang Hoa Kỳ",
+     "en": "U.S. federal government"
+    },
+    {
+     "sense": 1,
+     "vi": "Chính phủ [tiểu] bang Hoa Kỳ",
+     "en": "U.S. state government"
+    },
+    {
+     "sense": 1,
+     "vi": "chính phủ quốc gia",
+     "en": "national government"
+    },
+    {
+     "sense": 1,
+     "vi": "chính phủ trung ương",
+     "en": "central government"
+    },
+    {
+     "sense": 1,
+     "vi": "chính phủ địa phương",
+     "en": "local government"
+    }
+   ]
+  },
+  {
+   "headword": "bạn bè",
+   "base": "e9693615430c317b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "friends (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to make friends"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cần thiết",
+   "base": "d980cf63f0979326",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "necessary; essential, urgent need, urgent necessity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia",
+   "base": "e5da1455b38feb4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to divide"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to distribute; to share (something with others)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conjugate, to decline"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Salvia hispanica"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chia (cho)",
+     "en": "(to be) divided by"
+    },
+    {
+     "sense": 1,
+     "vi": "chia hết cho",
+     "en": "to be divisible by"
+    }
+   ]
+  },
+  {
+   "headword": "xinh đẹp",
+   "base": "a2ae98d47be1a739",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "beautiful; pretty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá nhân",
+   "base": "6182d2698f940f4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "individual, personal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "individual; person"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giáo sư",
+   "base": "1a4cbaeba88cfce6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a professor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cấp",
+   "base": "7e298d91043d9e3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rank; level; class"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grant; to issue"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to supply with"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of gấp (“urgent; pressing”)"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "acute"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "cấp nước",
+     "en": "to supply with water"
+    }
+   ]
+  },
+  {
+   "headword": "săn",
+   "base": "8ae95f07dca7e19e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hunt; to hunt down"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prey on"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to watch out (for discount)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "firm; solid; tense"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "swift"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thợ săn",
+     "en": "hunter"
+    }
+   ]
+  },
+  {
+   "headword": "khắp",
+   "base": "b14bbfcddc6d8de0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "all over; throughout"
+    },
+    {
+     "position": 2,
+     "pos": "num",
+     "tags": [],
+     "gloss": "seven"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Loài bướm này phân bố khắp châu Âu.",
+     "en": "The species of this butterfly is distributed throughout Europe."
+    }
+   ]
+  },
+  {
+   "headword": "nuôi",
+   "base": "595fc73e9886eed9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feed and raise, to rear"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "adoptive or adopted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nuôi ong",
+     "en": "to keep bees"
+    },
+    {
+     "sense": 2,
+     "vi": "con gái nuôi",
+     "en": "adopted daughter"
+    }
+   ]
+  },
+  {
+   "headword": "cú",
+   "base": "90200fe7ac77af2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an owl (bird)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "hoot"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to knuckle one's head"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "blow; strike"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "flash; hit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "đả một cú hiểm hóc",
+     "en": "to deliver a hard blow"
+    },
+    {
+     "sense": 5,
+     "vi": "nhận được một cú điện thoại",
+     "en": "to have a quick phone call"
+    }
+   ]
+  },
+  {
+   "headword": "luôn luôn",
+   "base": "6dcf07e282641b26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "always"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tìm hiểu",
+   "base": "c3765f1e16b717fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to try to understand; to examine; to investigate; to study"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get to know each other before engaging in a relationship and/or getting married"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết quả",
+   "base": "27b7b36ca02e5173",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "result"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "effect"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "nonstandard"
+     ],
+     "gloss": "synonym of kết trái"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trận đấu kết thúc với kết quả 1-1.",
+     "en": "The match ended with a score of 1-1."
+    },
+    {
+     "sense": 2,
+     "vi": "cặp phạm trù nguyên nhân và kết quả",
+     "en": "the categories of cause and effect"
+    }
+   ]
+  },
+  {
+   "headword": "coi chừng",
+   "base": "013a4686ed9a76ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to watch out; to look out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "COI CHỪNG CHÓ DỮ",
+     "en": "BEWARE OF THE DOG"
+    },
+    {
+     "sense": 1,
+     "vi": "Coi chừng!",
+     "en": "Watch out!"
+    }
+   ]
+  },
+  {
+   "headword": "mạnh mẽ",
+   "base": "f10d3878940223b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strong; powerful"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "strongly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mảnh",
+   "base": "5a4f59cdd9654694",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "piece; bit; fragment; esp. of a flat surface, e.g. a garden or piece of paper"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thin; frail"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay lập tức",
+   "base": "f62016be02054ead",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "immediately, posthaste"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bảo hắn làm gì hắn cũng làm ngay lập tức.",
+     "en": "He does everything as soon as I tell him to do it."
+    },
+    {
+     "sense": 1,
+     "vi": "Đọc xong thư anh, tôi trả lời ngay lập tức.",
+     "en": "Upon reading his letter, I replied immediately."
+    }
+   ]
+  },
+  {
+   "headword": "chìa",
+   "base": "c1e6a07780a0a431",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to extend; to protrude; to hold out (one's hand)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tận",
+   "base": "170d92ea77629eda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "first-hand, with your very own senses, or right there and then"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "all the way there and very far from here to the upmost; to the upmost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tận mắt/tai/tay/miệng",
+     "en": "with your own eyes/ears/hands/mouth"
+    },
+    {
+     "sense": 1,
+     "vi": "tận mắt chứng kiến",
+     "en": "to see with your own eyes"
+    },
+    {
+     "sense": 1,
+     "vi": "Tao phải đến tận nơi xem mới tin.",
+     "en": "I have to go there to see it for myself."
+    },
+    {
+     "sense": 2,
+     "vi": "đến tận Cà Mau",
+     "en": "to go all the way to Ca Mau"
+    },
+    {
+     "sense": 2,
+     "vi": "Mình phải chờ đến tận tháng 3.",
+     "en": "We gotta wait all the way until March."
+    }
+   ]
+  },
+  {
+   "headword": "sinh nhật",
+   "base": "c22b994caa9da6f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birthday"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birthday party"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết bị",
+   "base": "e98b6a88653dc159",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a piece of equipment such as a machine, an appliance, a piece of hardware or a device"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tên thiết bị",
+     "en": "Device name"
+    }
+   ]
+  },
+  {
+   "headword": "mai",
+   "base": "33772132fe3c0cab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "early morning"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the hair in front of a person's ears, sideburns"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Ochna integerrima, a tree species (sometimes shrub) of the family Ochnaceae, sometimes called apricot in English"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carapace (dorsal shell)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of shovel"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "matchmaker"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "1999, Lê Trung Vũ and Lê Hồng Lý, Lễ hội Việt Nam, Văn hoá Thông tin, page 357",
+     "en": "In times of old, the ceremony of selecting Imperial Examination laureates was organized in spring, to coincide with the blooming of the apricot trees."
+    }
+   ]
+  },
+  {
+   "headword": "đâm",
+   "base": "b9a2eb13dba04744",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stab; to thrust"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to crash into; to collide (against)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sprout; to shoot"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to turn into (usually something bad or worse); to become"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngực",
+   "base": "63c0a7fb95e765e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chest"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "euphemistic"
+     ],
+     "gloss": "breasts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bầu ngực",
+     "en": "a breast"
+    }
+   ]
+  },
+  {
+   "headword": "im lặng",
+   "base": "15a500416d4f2927",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be silent; to be quiet"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "Silence! Be quiet!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mèo",
+   "base": "53c48952b7362296",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "meow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngu ngốc",
+   "base": "57d21d22362f2ac5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dull, dull-headed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bơi",
+   "base": "3a05856d0ef0758f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swim (move through water)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to row a boat"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to struggle doing something beyond your capacity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi không biết bơi.",
+     "en": "I can't swim."
+    },
+    {
+     "sense": 2,
+     "vi": "Tôi đã chen vào giữa, quảy tòn ten một cái gùi bé mà má nuôi tôi đã bơi xuồng đi mượn của nhà đi ngoài xóm bìa rừng từ chiều hôm qua.",
+     "en": "I came in between, carrying a basket dangling from a shoulder pole, for which my adoptive mother rowed the boat to the hamlet at the border of the forest to borrow it yesterday afternoon."
+    },
+    {
+     "sense": 3,
+     "vi": "Nếu không nắm vững cơ bản ngay từ bây giờ thì sau này sẽ phải bơi đó.",
+     "en": "If you don't have firm grip on the basics from the get-go, you'll be flagging later."
+    }
+   ]
+  },
+  {
+   "headword": "thời điểm",
+   "base": "d936862eda83ffe6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "point in/of time; timing; date"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tha thứ",
+   "base": "d971640533297d23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forgive; to pardon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng hồ",
+   "base": "46c8795384f216d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a clock or watch"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a meter (device for measuring water, electricity, etc. consumption or kilometers that have been traveled)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đồng hồ báo thức",
+     "en": "an alarm clock"
+    },
+    {
+     "sense": 1,
+     "vi": "đồng hồ mặt trời",
+     "en": "a sundial"
+    },
+    {
+     "sense": 2,
+     "vi": "đồng hồ nước",
+     "en": "a water meter"
+    },
+    {
+     "sense": 2,
+     "vi": "đồng hồ cát",
+     "en": "an hourglass"
+    }
+   ]
+  },
+  {
+   "headword": "vô cùng",
+   "base": "d6a452647c6baa12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "endless, infinite"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "ultimately"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "infinity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dân",
+   "base": "902749829f1de747",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "the (common) people"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "people of a common language, ethnicity, region or belief"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "people specialized in something"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "của dân, do dân, vì dân",
+     "en": "of the people, by the people, for the people"
+    },
+    {
+     "sense": 1,
+     "vi": "quân dân một lòng",
+     "en": "military and the people all of one heart and mind"
+    },
+    {
+     "sense": 1,
+     "vi": "Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập, tự do của Tổ quốc, vì chủ nghĩa xã hội.",
+     "en": "Our military is loyal to the Party, filial to our people, ready to fight and sacrifice for the independence and liberty of our Homeland and for socialism."
+    },
+    {
+     "sense": 2,
+     "vi": "dân ta; dân Việt",
+     "en": "the Vietnamese people"
+    },
+    {
+     "sense": 2,
+     "vi": "dân Tàu",
+     "en": "the Chinese people"
+    },
+    {
+     "sense": 2,
+     "vi": "dân nông thôn",
+     "en": "country folks"
+    },
+    {
+     "sense": 2,
+     "vi": "dân thành thị",
+     "en": "city folks"
+    },
+    {
+     "sense": 2,
+     "vi": "dân Công giáo",
+     "en": "Catholic people"
+    },
+    {
+     "sense": 3,
+     "vi": "dân công nghệ",
+     "en": "technogeeks"
+    },
+    {
+     "sense": 3,
+     "vi": "Thoạt nhìn [Khởi], tôi biết ngay nó là dân ruộng. Người Khởi vạm vỡ, đen xạm, bắp chân bắp tay to chắc.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "kể cả",
+   "base": "609838fa8bce6a4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to include"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "even"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Kể cả là nó thì cũng bó tay.",
+     "en": "Even he can't accomplish that."
+    }
+   ]
+  },
+  {
+   "headword": "công chúa",
+   "base": "f67fc1abe12ede6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "princess, daughter of a monarch (king, emperor)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "princess, daughter of a shogun"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vẽ",
+   "base": "8681459a9bf4df01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw; to paint"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to contrive"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "dialectal"
+     ],
+     "gloss": "to debone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ấn tượng",
+   "base": "ed728bb01d87b3ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "impression"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impressive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tung",
+   "base": "b78ccb0192da64a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to toss; to throw"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịp",
+   "base": "0ac65c71463fae8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in time"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "as equal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bắt kịp tiến độ",
+     "en": "to catch up in progress"
+    },
+    {
+     "sense": 2,
+     "vi": "không ai sánh kịp",
+     "en": "no one can be regarded as equals"
+    }
+   ]
+  },
+  {
+   "headword": "tự hào",
+   "base": "a387edc3f7e30758",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "proud"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũi",
+   "base": "c6e7e9db5de0e44a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nose"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prow, bow"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tip"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cape"
+    },
+    {
+     "position": 5,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "injection with a syringe; shot"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "mũi Hảo Vọng",
+     "en": "the Cape of Good Hope"
+    },
+    {
+     "sense": 5,
+     "vi": "tiêm mũi thứ 2",
+     "en": "to get the 2nd shot"
+    }
+   ]
+  },
+  {
+   "headword": "cho dù",
+   "base": "635a4539f0cb83ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "even though; although; even if"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con người ở thành phố cho dù điều kiện sống hiện đại, sang trọng mà thiếu vắng đi mầu xanh của cây cảnh, tiếng hót của vài con chim nhỏ.",
+     "en": "Human beings in cities, although living conditions are modern and luxurious, lack the green of plants and the singing of small birds."
+    }
+   ]
+  },
+  {
+   "headword": "mãi mãi",
+   "base": "48c559bebca0b359",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "for a very long time; always and always; forever"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảnh báo",
+   "base": "2ecf519ad56bc41e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to warn; to alert"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "warning; alert"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

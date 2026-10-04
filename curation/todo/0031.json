@@ -1,0 +1,1391 @@
+{
+ "batch": "0031",
+ "entries": [
+  {
+   "headword": "ghé",
+   "base": "8a57d548b2b387d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drop in (on); to stop at; to call on"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cử",
+   "base": "cd25b91cd7f3c8ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appoint, delegate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to lift"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "zelkova"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứng kiến",
+   "base": "90b014529707037b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to witness; to see"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "to grace with one's attendance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chứng kiến sự đổi thay của đất nước",
+     "en": "to see the change of one's country"
+    }
+   ]
+  },
+  {
+   "headword": "vết thương",
+   "base": "734b15fcfdf08bd0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wound; site of injury; cut"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câm",
+   "base": "c3bc551ec3f20928",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mute (not having the power of speech)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "silent; mute"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "silent"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "offensive"
+     ],
+     "gloss": "to shut up; to keep one's mouth shut"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mặc dù trong tiếng Pháp ta có từ \"h aspiré\" (tức \"âm h bật hơi\"), chữ \"h\" của tiếng Pháp luôn luôn câm.",
+     "en": "Even though there's this thing called the \"aspirated h\" in French, the French letter \"h\" is always silent."
+    },
+    {
+     "sense": 3,
+     "vi": "kịch câm",
+     "en": "a silent play"
+    },
+    {
+     "sense": 4,
+     "vi": "câm như hến",
+     "en": "to shut your mouth as tight as a clam [shutting its shell]"
+    },
+    {
+     "sense": 4,
+     "vi": "Có câm mồm không thì bảo?",
+     "en": "Would you keep your trap shut!?"
+    }
+   ]
+  },
+  {
+   "headword": "hấp dẫn",
+   "base": "c4a7dfc17d38fd60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attract"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "attractive, captivating, seductive"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gravitation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình dục",
+   "base": "ab4f6e7f5e07870d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sex (act of sexual intercourse)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chứa",
+   "base": "4e4f137886be1b2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to contain; to hold"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to shelter; to hide; to conceal (especially illicit items)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gan",
+   "base": "d2517ec1d08f7f78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "liver"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "audacity; gall; balls"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hepatic"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "courageous, brave, tough"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Malus doumeri"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "to gan",
+     "en": "audacious"
+    },
+    {
+     "sense": 2,
+     "vi": "nhát gan/gan thỏ đế",
+     "en": "chicken"
+    }
+   ]
+  },
+  {
+   "headword": "lẫn",
+   "base": "c8d6ba3455b3e40d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to confuse; to mistake (one for another)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be confused; to be muddled; to be in one's dotage"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be mixed up (with)"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "each other; one another"
+    },
+    {
+     "position": 5,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "(both …) and …"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cút",
+   "base": "aa49e02481149629",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quail"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bottle-shaped container with an approximate volume of 1/4 or 1/8 litres, often used for holding liquor or used as a measuring vessel"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [
+      "informal",
+      "offensive"
+     ],
+     "gloss": "Beat it!; Take a hike!; Get lost!"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "informal",
+      "offensive"
+     ],
+     "gloss": "to beat it; to take a hike; to get lost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trứng cút lộn",
+     "en": "quail balut"
+    }
+   ]
+  },
+  {
+   "headword": "căn hộ",
+   "base": "c942cb38986ad505",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "apartment, flat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tội lỗi",
+   "base": "3fa009a41b76f983",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wrongful deed; a terrible mistake, a crime, a sin, etc."
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "cheap-looking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tội lỗi, tội lỗi.",
+     "en": "May Buddha/God have mercy upon your soul, for you have committed a sinful act."
+    },
+    {
+     "sense": 2,
+     "vi": "Sao mặc đồ (nhìn) tội lỗi quá vậy?",
+     "en": "Why are you wearing that cheap-ass outfit?"
+    }
+   ]
+  },
+  {
+   "headword": "chảy",
+   "base": "33ffa0c4479865e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flow; stream; trickle"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to melt"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leak"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stretch (clothes)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung thành",
+   "base": "0354e36183bfe57e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loyal; faithful; true; devoted"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "faithful (to the original); precise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tốc độ",
+   "base": "383d9e3b575ec458",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "speed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khắp nơi",
+   "base": "1bb76aa68556e8a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "everywhere; all over; all around; universally"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung sĩ",
+   "base": "8abec582162c5d6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sergeant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thừa nhận",
+   "base": "6624936bd0423914",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recognise (one's shortcomings, faults, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to admit; to acknowledge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh",
+   "base": "f0749f05fff1bd72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a branch of some tubers"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "light radiated from or reflected off something"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be reflective of light"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ánh mắt",
+     "en": "a gaze"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh sáng",
+     "en": "light"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh nắng",
+     "en": "sunlight"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh đèn",
+     "en": "light from a bulb or lamp"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh lửa",
+     "en": "light from a flame, especially that of a campfire"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh hoàng hôn/chiều tà",
+     "en": "sunlight at dusk"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh sao (đêm)",
+     "en": "starlight"
+    },
+    {
+     "sense": 2,
+     "vi": "ánh kim",
+     "en": "metallic shininess"
+    },
+    {
+     "sense": 3,
+     "vi": "(figurative) đôi mắt ánh lên niềm tin",
+     "en": "those eyes that shine faith"
+    }
+   ]
+  },
+  {
+   "headword": "quan sát",
+   "base": "794b55cd5ad739d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to observe"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "observation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "theo quan sát của tôi",
+     "en": "based on/according to my observation"
+    }
+   ]
+  },
+  {
+   "headword": "đơn vị",
+   "base": "578262de5805fde9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "unit (part of whole)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "unit (organisation, establishment, enterprise, place of employment, administrative unit, etc.), work unit, danwei"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "danh từ chỉ đơn vị",
+     "en": "classifier; counter; measure word"
+    }
+   ]
+  },
+  {
+   "headword": "hòa",
+   "base": "31fa48bce92d8914",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoà."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoà."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảm xúc",
+   "base": "41acd26e66b8b3e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be affected by emotion; to feel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "feeling; emotion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phóng",
+   "base": "854e417f2efb4cc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to throw; to launch; to let out"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rush along"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write after a model; to draw after a model; to copy; to enlarge; to blow up"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to interview; to visit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "suýt",
+   "base": "a7a37f86b05c80cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nearly, just about to be"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Trung Quốc",
+   "base": "df96874bdb90f586",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Chinese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tù nhân",
+   "base": "49b4ad6e67c142cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prisoner"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xem xét",
+   "base": "ee8e1f616cff5617",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to examine; to consider; to review"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu",
+   "base": "6ae0060c5e1abb14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "autumn; fall"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get (something) back; to retrieve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mệt",
+   "base": "c5fd159edc298674",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tired, fatigued, weary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bàn tay",
+   "base": "f21cc724c9201020",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hand"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "hand; participation; involvement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thi",
+   "base": "66a9ecdf1952dd5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "poetry"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compete"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take an examination"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kì thi",
+     "en": "competition"
+    },
+    {
+     "sense": 3,
+     "vi": "kì thi",
+     "en": "examination"
+    }
+   ]
+  },
+  {
+   "headword": "khai",
+   "base": "e68efaef1ba8c492",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to declare, to state, to testify"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to open"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to dredge up"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having the smell of urine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Amoniac có mùi khai đặc trưng.",
+     "en": "Ammonia has a characteristic urine-like smell."
+    }
+   ]
+  },
+  {
+   "headword": "thổi",
+   "base": "94d1d19656a63838",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to blow"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play a wind instrument"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to cook (rice, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến dịch",
+   "base": "0e47c3390cfbbf59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a campaign (series of operations undertaken to achieve a set goal)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chiến dịch Điện Biên Phủ",
+     "en": "the Campaign for Dien Bien Phu"
+    },
+    {
+     "sense": 1,
+     "vi": "chiến dịch phòng chống HIV/AIDS",
+     "en": "the campaign for preventing HIV/AIDS"
+    }
+   ]
+  },
+  {
+   "headword": "nhắm",
+   "base": "2327443cdf9f85d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to close (eyes)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive",
+      "transitive"
+     ],
+     "gloss": "to aim at something, especially with one eye closed"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "transitive"
+     ],
+     "gloss": "to aim to do something"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "usually"
+     ],
+     "gloss": "to attempt to reach an aim"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to eat at a leisure pace with alcohol"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mắt nhắm mắt mở",
+     "en": "very sleepy; with heavy eyelids"
+    },
+    {
+     "sense": 1,
+     "vi": "chết không nhắm mắt",
+     "en": "to die unsatisfied"
+    },
+    {
+     "sense": 5,
+     "vi": "Em ơi, còn gì để anh nhắm rượu với Quang không ?",
+     "en": "Honey, is there anything left for Quang and me to nibble on over some shots?"
+    }
+   ]
+  },
+  {
+   "headword": "bảng",
+   "base": "c873d1856e601fbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a board such as a blackboard or whiteboard"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a table (grid of data in rows and columns)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pound"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bảng tuần hoàn các nguyên tố hoá học",
+     "en": "the periodic table of chemical elements"
+    },
+    {
+     "sense": 2,
+     "vi": "Bảng Phong Thần / Phong Thần Bảng",
+     "en": "the List of Invested Gods"
+    },
+    {
+     "sense": 3,
+     "vi": "bảng Anh",
+     "en": "a British pound"
+    }
+   ]
+  },
+  {
+   "headword": "phức tạp",
+   "base": "726aba191e57407f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "complicated, complex, intricate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trượt",
+   "base": "5c579df9b78df7ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slip"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slide (along)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fail to hit"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fail (in an examination)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to skate (a skateboard, ice skating)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tha",
+   "base": "743963d4805f81be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forgive"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let go out of police custody or detention"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry with the mouth"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drag a nuisance around or to bring it to where it is not wanted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trời không dung, đất không tha",
+     "en": "the act in question is abhorrently egregious / the person in question has committed an unforgivable act"
+    },
+    {
+     "sense": 3,
+     "vi": "Cọp tha mồi.",
+     "en": "The tiger drags its prey."
+    },
+    {
+     "sense": 4,
+     "vi": "Sao cứ tha ba cái đồ nhôm nhựa về nhà nhỉ !?",
+     "en": "Why the hell do you keep bringing scrap back home!?"
+    }
+   ]
+  },
+  {
+   "headword": "giả vờ",
+   "base": "b9b4e8aba008cb9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feign; to pretend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chôn",
+   "base": "3434ad1199e14c9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bury; to inter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hân hạnh",
+   "base": "684533e1d413ab7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "honoured; glad; pleased"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết nối",
+   "base": "964ed0d693411502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to connect, to link"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ",
+   "base": "00753426af2e1b79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "hat; cap; helmet"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "circumflex"
+    },
+    {
+     "position": 3,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "to the power of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "2 mũ 3 bằng 8",
+     "en": "2 to the power of 3 is 8"
+    }
+   ]
+  },
+  {
+   "headword": "gãy",
+   "base": "530b54a3cc6166c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "broken; fractured"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mười",
+   "base": "77aeb13a4af4a66a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "ten"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "như thể",
+   "base": "f273a6e9b6622e9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "as if"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các tướng thấy đại hãn nhu nhược như thể sợ sệt Vương Hãn, vẫn muốn gả Hoa Tranh cho Đô Sử, đều tức giận buồn rầu.",
+     "en": "The generals found the khan weak, as if he were scared of Wáng Khan and still wanted to marry off Huázhēng to Dūshǐ, and they all felt angry and sad."
+    }
+   ]
+  },
+  {
+   "headword": "chấm dứt",
+   "base": "ffc2db6002da7e2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to end; to terminate; to put an end to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lôi",
+   "base": "d46941f7564ad424",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull; to drag"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to bring out; to bring up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xe tải",
+   "base": "023e6fe994bd1968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "truck/lorry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đệ",
+   "base": "a9bd3e6014eedd2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "ordinal number marker, used only to mark the generation of a person who shares their name, equivalent to the use of I, II, III, etc. in English. In actual practice, mostly used for royal designations and titles."
+    },
+    {
+     "position": 2,
+     "pos": "prefix",
+     "tags": [
+      "morpheme",
+      "rare"
+     ],
+     "gloss": "ordinal number marker in general"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "younger brother"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "henchman; minion"
+    },
+    {
+     "position": 5,
+     "pos": "pron",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "I; you (refers to the male junior among the speakers)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đệ Tam Quốc tế",
+     "en": "the Third International"
+    },
+    {
+     "sense": 2,
+     "vi": "Đệ Nhất Phu nhân",
+     "en": "the First Lady"
+    },
+    {
+     "sense": 4,
+     "vi": "Tao đéo phải đệ của mày!",
+     "en": "I'm not your fucking lackey!"
+    }
+   ]
+  },
+  {
+   "headword": "khoa học",
+   "base": "65358f4738722e49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "science"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "scientific"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "academic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà khoa học",
+     "en": "scientist"
+    },
+    {
+     "sense": 2,
+     "vi": "Một giả thuyết khoa học phải mang tính tiên đoán và được chính xác hoá trong quá trình nghiên cứu.",
+     "en": "A scientific hypothesis needs for speculation with a certain rectification during its research."
+    }
+   ]
+  }
+ ]
+}

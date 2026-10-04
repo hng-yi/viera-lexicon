@@ -1,0 +1,1511 @@
+{
+ "batch": "0027",
+ "entries": [
+  {
+   "headword": "quá khứ",
+   "base": "79a41bb3704cd6af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the past"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vui lòng",
+   "base": "83c754a7fbdfff4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "content; pleased; glad"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xin vui lòng dội nước bồn cầu sau khi dùng.",
+     "en": "Please flush the toilet after use."
+    }
+   ]
+  },
+  {
+   "headword": "hẹn hò",
+   "base": "b3c7f263646ba679",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to make an appointment"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a date; to date"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lừa",
+   "base": "08ea4cf97d65f2c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a donkey"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick out"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dupe; to trick"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lừa banh ~ lừa bóng",
+     "en": "to dribble a ball"
+    }
+   ]
+  },
+  {
+   "headword": "chuột",
+   "base": "240f94aefb9446a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "murid, rodent in the family Muridae"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "rat-like animal"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "biceps"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "starter"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mouse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bẫy chuột",
+     "en": "trap to catch rats or mice"
+    },
+    {
+     "sense": 5,
+     "vi": "chuột không dây",
+     "en": "wireless mouse"
+    }
+   ]
+  },
+  {
+   "headword": "chặn",
+   "base": "40a99c4c1b5185b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to block; to stop; to intercept"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hết sức",
+   "base": "8951076c07bcf907",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "with all one's might, with all one's strength"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very, extremely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nông nghiệp còn hết sức vất vả.",
+     "en": "Agriculture was still extremely laborious."
+    }
+   ]
+  },
+  {
+   "headword": "ra lệnh",
+   "base": "768dc578df52b7d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to issue a command; to order (esp. in a stately manner)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chủ tịch tỉnh ra lệnh sơ tán.",
+     "en": "The provincial president issued an evacuation order."
+    },
+    {
+     "sense": 1,
+     "vi": "Nó quát tháo nhặng xị như ông quan hách dịch nào đó ngày xưa ra lệnh cho dân.",
+     "en": "He loudly barked out orders as if he's a big shot from the days of yore giving orders to the lowly commoners."
+    }
+   ]
+  },
+  {
+   "headword": "bẫy",
+   "base": "759d4a1ba5cfde76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trap, snare, pitfall"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to entrap; to ensnare"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bẫy chuột",
+     "en": "mousetrap/rattrap"
+    },
+    {
+     "sense": 1,
+     "vi": "sập bẫy",
+     "en": "to fall into a trap"
+    }
+   ]
+  },
+  {
+   "headword": "linh hồn",
+   "base": "87619ed6123f0924",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soul, spirit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạ",
+   "base": "333bff5acc26b8eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "yes (answers a question)"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "An initial particle to express politeness and respect."
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "yes? (asks for more information with a request); say again?"
+    },
+    {
+     "position": 4,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "yes (confirms that the user is paying attention)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to say yes (using the word dạ)"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "belly, stomach"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mind, heart"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soul"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flannel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Dạ vâng.",
+     "en": "Yes, Sir / Yes, Madam."
+    },
+    {
+     "sense": 5,
+     "vi": "dạ một tiếng thiệt dài",
+     "en": "to utter a drawn-out yes"
+    },
+    {
+     "sense": 6,
+     "vi": "no dạ",
+     "en": "to have a full stomach"
+    },
+    {
+     "sense": 7,
+     "vi": "ghi vào trong dạ",
+     "en": "to take to heart"
+    },
+    {
+     "sense": 9,
+     "vi": "quần áo dạ",
+     "en": "flannel clothing"
+    },
+    {
+     "sense": 9,
+     "vi": "chăn dạ",
+     "en": "flannel blanket"
+    }
+   ]
+  },
+  {
+   "headword": "chất",
+   "base": "759318dfd624e001",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "substance; matter; material"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quality"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drugs, substance"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "suit"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "cool; awesome"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pile up; to heap; to stack"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "nghiện chất",
+     "en": "drug addiction"
+    },
+    {
+     "sense": 3,
+     "vi": "lạm dụng chất",
+     "en": "substance abuse"
+    },
+    {
+     "sense": 3,
+     "vi": "phụ thuộc chất",
+     "en": "substance dependence"
+    },
+    {
+     "sense": 5,
+     "vi": "Chất quá!",
+     "en": "That's so cool!"
+    }
+   ]
+  },
+  {
+   "headword": "bận",
+   "base": "bb4e5e8a074ff64f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "time; occurrence"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get occupied doing something"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to wear (clothes)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chúng tôi bận chuẩn bị thi.",
+     "en": "We are busy preparing for the final exams."
+    }
+   ]
+  },
+  {
+   "headword": "địa ngục",
+   "base": "6c12d8ccdd113709",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hell (abode for the condemned)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xuống địa ngục",
+     "en": "to go to hell"
+    },
+    {
+     "sense": 1,
+     "vi": "địa ngục trần gian",
+     "en": "hell on earth"
+    },
+    {
+     "sense": 1,
+     "vi": "bị đày xuống 18 tầng địa ngục",
+     "en": "to be exiled to the 18 levels in hell [and suffer all sorts of torment for eternity]"
+    },
+    {
+     "sense": 1,
+     "vi": "Khi người ta ở địa ngục, người ta ao ước lên thiên đường. Khi người ta lên được thiên đường rồi, người ta bỗng muốn về địa ngục. Bởi vì, thiên đường tồi tệ hơn địa ngục. Thiên đường nào cũng thế. Bất hạnh cho những dân tộc có những lãnh tụ đang âm mưu đưa dân tộc mình lên thiên đường. Rồi họ sẽ thấy hai người nước Thiên Đường không đủ tiền, dành ăn chung một tô hủ tíu ở nước Địa Ngục.",
+     "en": "When you're in hell, you wish to be in heaven. When you get to be in heaven, suddenly you want to go back to hell. Because heaven is worse than hell. Every heaven is the same. Misery to peoples whose leaders are conspiring to bring their people to heaven. They'll see two people in the land of Heaven who don't have enough money and who have to share a bowl of hủ tíu in the land of Hell."
+    },
+    {
+     "sense": 1,
+     "vi": "Đến thời kỳ nhà Đường (Thế kỷ thứ VII), Phật giáo du nhập và có ảnh hưởng rộng lớn ở Trung Quốc thì thuyết về địa ngục và Diêm La của Ấn Độ kết hợp và người ta mới an bài ở con số 10 tầng địa ngục do 10 vị Diêm Vương cai quản, như ngày nay.",
+     "en": "By the Tang dynasty (7th century), Buddhism was imported and spread its reach wide in China, which then led to the conflation of hell and the Indian यमराज (Yamarāja), and it was settled that there are ten levels of hell ruled by ten Yamas as we now know."
+    }
+   ]
+  },
+  {
+   "headword": "nổi tiếng",
+   "base": "fde2a75651e3efa0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "celebrated, illustrious, famous, well-known"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chất nghệ của nhạc sĩ nổi tiếng một thời rồi cũng phải chịu thua với thời gian mà thôi.",
+     "en": "The once well-known musician's essence of art would end up being consumed over the time."
+    }
+   ]
+  },
+  {
+   "headword": "cảm nhận",
+   "base": "ec13f87b1a34bb65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel; to sense; to detect"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thoughts; evaluation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đây là vài cảm nhận riêng về sản phẩm.",
+     "en": "These are my personal thoughts on the product."
+    }
+   ]
+  },
+  {
+   "headword": "rồng",
+   "base": "6b2024b599e53011",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dragon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tùy",
+   "base": "98e73bc01b2fbb6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tuỳ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xung quanh",
+   "base": "97e7a0dd4ac9ed50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "around; round; about; surrounding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vừa mới",
+   "base": "56bb3c2a0c4c1019",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "just; recently; newly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ca",
+   "base": "24425c70cb9cf04f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mug (cup)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mug (about 1/4 liter)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "song"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "dialectal",
+      "literary"
+     ],
+     "gloss": "to sing"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "ironic"
+     ],
+     "gloss": "to praise"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to scold"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "case"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shift (change of workers)"
+    },
+    {
+     "position": 9,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter K/k."
+    },
+    {
+     "position": 10,
+     "pos": "prep",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "at, in"
+    },
+    {
+     "position": 11,
+     "pos": "prep",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "place"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Đăng kí ca ở đâu hả em?",
+     "en": "Where can I sign up to sing, boy?"
+    },
+    {
+     "sense": 7,
+     "vi": "Ca này nặng đấy!",
+     "en": "This case is a serious one!"
+    },
+    {
+     "sense": 7,
+     "vi": "Đã có 5 ca tử vong.",
+     "en": "There have been five fatal cases."
+    },
+    {
+     "sense": 8,
+     "vi": "tan ca",
+     "en": "to finish one's shift"
+    }
+   ]
+  },
+  {
+   "headword": "đếm",
+   "base": "016ffad8f07defa6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to count (one by one); to number; to enumerate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tây",
+   "base": "e5dc9e4e492636da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "west"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "West (the Western world)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Western, especially Western European or French"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "personal, private"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "niềm tây",
+     "en": "innermost feelings"
+    }
+   ]
+  },
+  {
+   "headword": "hội",
+   "base": "2f09ce5af791ffc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a festival"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an assembly, union or confederation"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cycle of sixty years"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hội hè",
+     "en": "a summer festival"
+    },
+    {
+     "sense": 2,
+     "vi": "Hội Liên hiệp Phụ nữ Việt Nam",
+     "en": "Vietnam Women’s Union"
+    }
+   ]
+  },
+  {
+   "headword": "bờ",
+   "base": "c137882d1a00af6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shore, bank"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The name of the Latin script letter B/b."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bờ biển",
+     "en": "seashore"
+    }
+   ]
+  },
+  {
+   "headword": "thực tế",
+   "base": "1705705bbeff3a4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reality, real life"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "real, actual"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "realistic, practical"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in reality"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xương",
+   "base": "0e81a95a9f6fef42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "error-lua-timeout"
+     ],
+     "gloss": "bone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xương bánh chè",
+     "en": "patellar bone"
+    },
+    {
+     "sense": 1,
+     "vi": "hai xương cẳng chân",
+     "en": "the leg bones"
+    },
+    {
+     "sense": 1,
+     "vi": "bộ xương sọ",
+     "en": "the cranial bones"
+    }
+   ]
+  },
+  {
+   "headword": "so",
+   "base": "40014a9080bf440d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to compare"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to pair up"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to straighten one's shoulders, as if to compare one's height to another's"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "firstborn"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mangrove horseshoe crab (Carcinoscorpius rotundicauda)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "So với bạn thì nó cao hơn.",
+     "en": "Compared to his friend, he is taller."
+    },
+    {
+     "sense": 2,
+     "vi": "so đũa",
+     "en": "to pair up chopsticks"
+    },
+    {
+     "sense": 4,
+     "vi": "con so",
+     "en": "firstborn child"
+    },
+    {
+     "sense": 4,
+     "vi": "chửa con so",
+     "en": "to be pregnant for the first time"
+    },
+    {
+     "sense": 4,
+     "vi": "trứng gà so",
+     "en": "a chicken's first egg (usually a small egg)"
+    }
+   ]
+  },
+  {
+   "headword": "chữa",
+   "base": "1afe520a239fe83e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repair; to mend"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to correct; to rectify"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat; to cure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngón",
+   "base": "15a45aa1dfadae8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "digit (finger or toe)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "one's own little talent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngón tay",
+     "en": "a finger (including the thumbs)"
+    },
+    {
+     "sense": 2,
+     "vi": "Người làng ai cũng biết chút ngón võ để phòng thân.",
+     "en": "Villagers all know a bit of martial arts to protect themselves."
+    }
+   ]
+  },
+  {
+   "headword": "sắt",
+   "base": "e8c519dec7a94e7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "iron (chemical element)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "coalesced; solidified"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "strong, firm, tough"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "kỷ luật sắt",
+     "en": "iron discipline"
+    }
+   ]
+  },
+  {
+   "headword": "đụng",
+   "base": "2c1629cfab9ac859",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bump against; to collide (with); to come into collision"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to meet (unexpectedly); to encounter"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to marry (each other)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "synonym of động (“to touch (with, upon)”)"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to club together (to eat, buy something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cửa sổ",
+   "base": "3785b8cbe5090e0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "window"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sĩ quan",
+   "base": "9d5dde82bc30466f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a commissioned officer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất kì",
+   "base": "f0d09a1019efb3ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "any; whatever"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "random; indiscriminate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bất kì ai",
+     "en": "anyone"
+    }
+   ]
+  },
+  {
+   "headword": "nhạc",
+   "base": "f6251e907ebf14da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "music (as a hobby or object of enjoyment)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bell worn on the neck of a domestic animal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nhạc ngựa",
+     "en": "horse bell"
+    }
+   ]
+  },
+  {
+   "headword": "khủng bố",
+   "base": "c7d22b1857975e8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to terrorize, to cause terror"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẻ khủng bố",
+     "en": "a terrorist"
+    },
+    {
+     "sense": 1,
+     "vi": "vụ khủng bố",
+     "en": "terror, terrorist attack"
+    },
+    {
+     "sense": 1,
+     "vi": "‘Đây là một cuộc tấn công chưa từng có trong lịch sử khủng bố, xét về quy mô của nó. Đây là cuộc tấn công quy mô lớn nhất của một lực lượng nước ngoài trên đất Mỹ’, học giả Brian Michael Jenkins của tổ chức nghiên cứu RAND nói về vụ khủng bố ngày 11-9-2001.",
+     "en": "‘This was an attack unprecedented in the annals of terrorism in terms of its scale. It was the largest attack by any foreign entity on U.S. soil.’ quoth scholar Brian Michael Jenkins of the research institute RAND Corporation about the terrorist attacks on 11 September 2001."
+    },
+    {
+     "sense": 1,
+     "vi": "Tổng Thư ký Liên đoàn A-rập (AL) A.Mu-xa kêu gọi cuộc họp khẩn cấp của AL để thảo luận về ‘hành động khủng bố’ của I-xra-en chống lại tàu chở hàng viện trợ nhân đạo quốc tế đến dải Ga-da.",
+     "en": "Amr Moussa, Secretary-General of the Arab League (AL), has called for an AL's emergency meeting to discuss Israel's ‘terrorist act’ against ships carrying international humanitarian goods to Gaza Strip."
+    }
+   ]
+  },
+  {
+   "headword": "đâu đó",
+   "base": "28644c3dbba447ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "somewhere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mẹ con",
+   "base": "4b0cb5aac4c26839",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "mother and child"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tình cảm mẹ con",
+     "en": "mother-child affection"
+    }
+   ]
+  },
+  {
+   "headword": "vé",
+   "base": "c3cb328eec71e263",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ticket"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vé một lượt",
+     "en": "one-way ticket"
+    }
+   ]
+  },
+  {
+   "headword": "ngã",
+   "base": "771b8fc789174377",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to fall on the ground while standing on it in a tripping, toppling or collapsing motion"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to collapse onto the ground and remains there for a period of time"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an intersection"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh kia nghe thấy thế, vội vàng chui ra, chạy về. Chẳng may sân nhà có lắm rêu, trượt, ngã đánh « huỵch » một cái bằng giời giáng.",
+     "en": "The man heard her words, hastily crawled out [of his hiding] to run home. Unfortunately, as the mossy yard was too slippery, he fell with a \"thud\" as if he just got dropped from heaven."
+    },
+    {
+     "sense": 2,
+     "vi": "Coi chừng cây nó ngã!",
+     "en": "Watch out for the falling tree!"
+    },
+    {
+     "sense": 2,
+     "vi": "Ê, cây móc đồ ngã mất tiêu rồi kìa.",
+     "en": "Hey, your hanger stand has collapsed (and it's still on the ground)."
+    },
+    {
+     "sense": 3,
+     "vi": "ngã ba",
+     "en": "a three-way intersection; a fork"
+    },
+    {
+     "sense": 3,
+     "vi": "ngã tư",
+     "en": "a crossroads"
+    },
+    {
+     "sense": 3,
+     "vi": "ngã tư Bảy Hiền",
+     "en": "the Bảy Hiền crossroads"
+    },
+    {
+     "sense": 3,
+     "vi": "ngã năm Chuồng Chó",
+     "en": "the \"Dog Cage\" five-way intersection"
+    },
+    {
+     "sense": 3,
+     "vi": "ngã sáu Cộng Hoà",
+     "en": "the Cộng Hoà six-way intersection"
+    }
+   ]
+  },
+  {
+   "headword": "hình ảnh",
+   "base": "c42f4f929485a208",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "form and shadow"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "image; picture; photograph"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "image; public perception"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nữ hoàng",
+   "base": "6aee7057ca984961",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a queen regnant or an empress regnant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nữ hoàng Anh",
+     "en": "Queen of the United Kingdom"
+    }
+   ]
+  },
+  {
+   "headword": "dựa",
+   "base": "6501ed4cfe30f359",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lean on"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to base on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dựa lên/vào tường",
+     "en": "to lean against a wall"
+    }
+   ]
+  },
+  {
+   "headword": "quốc gia",
+   "base": "2adebcd6c306b664",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "usually"
+     ],
+     "gloss": "state, nation, country"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "national"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "nationalist, particularly in a non-communist context"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "of or relating to the former State of Vietnam and the Republic of Vietnam"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quốc gia có chủ quyền",
+     "en": "sovereign state"
+    },
+    {
+     "sense": 1,
+     "vi": "quốc gia xuất xứ",
+     "en": "country of origin"
+    },
+    {
+     "sense": 2,
+     "vi": "Đội tuyển bóng đá quốc gia Việt Nam",
+     "en": "Vietnam national football team"
+    },
+    {
+     "sense": 3,
+     "vi": "Chính những nước như nước Việt-nam nầy mới cần đến quốc gia chủ nghĩa lắm thôi.",
+     "en": "It is precisely countries like Vietnam that truly much need nationalism."
+    },
+    {
+     "sense": 3,
+     "vi": "Đại-sứ Mỹ ngồi ở quốc-hội Pháp thường ngỏ ý-kiến đó vì vậy chính-phủ Pháp phải mở cuộc điều đình với phái quốc-gia và các gia-đình chính-trị, trí-thức Việt-Nam",
+     "en": "The US ambassador at the French parliament often expressed that opinion; hence, the French government had to open negotiations with Vietnamese nationalist faction as well as political and intellectual circles."
+    },
+    {
+     "sense": 4,
+     "vi": "Cảnh sát Quốc gia Việt Nam Cộng hòa",
+     "en": "Republic of Vietnam National Police"
+    }
+   ]
+  },
+  {
+   "headword": "dần",
+   "base": "1f85bc1098632f6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tenderize (oftentimes meat) by constant pounding"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to beat up; to thrash (someone)"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "little by little; bit by bit; gradually"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bả",
+   "base": "cecaf7db21ce9dd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "she; her (woman of higher social status)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of poison used to kill some kinds of animal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lỗ",
+   "base": "f3160ece7f2f42e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hole made through a layer of material, by piercing, punching, poking, tearing, etc.; compare hố (“pit”, dug hole)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "loss"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having a loss"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

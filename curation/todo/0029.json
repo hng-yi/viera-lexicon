@@ -1,0 +1,1646 @@
+{
+ "batch": "0029",
+ "entries": [
+  {
+   "headword": "tiến hành",
+   "base": "21dc1f2306a3839c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry out; to proceed; to conduct"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các công trình khác vẫn đang tiến hành.",
+     "en": "The other projects are still in progress."
+    }
+   ]
+  },
+  {
+   "headword": "tờ",
+   "base": "4dbf1f8b827b0ed8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sheet"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates paper sheet-based items, such as newspapers (báo), magazines (tạp chí), political flyers (truyền đơn), etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngang",
+   "base": "2705acd8793b8b84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "horizontal"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to the side"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unreasonably stubborn"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "level; flat"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "across, as opposed to along"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to match; to be equal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nét ngang",
+     "en": "horizontal stroke"
+    },
+    {
+     "sense": 2,
+     "vi": "dàn hàng ngang",
+     "en": "to form a line in which people stand to the side of each other"
+    },
+    {
+     "sense": 3,
+     "vi": "ngang như cua",
+     "en": "very stubborn, like a crab who always moves sideways"
+    },
+    {
+     "sense": 4,
+     "vi": "thanh ngang",
+     "en": "the \"level\" tone as in the word ngang"
+    },
+    {
+     "sense": 5,
+     "vi": "đi ngang qua đường",
+     "en": "to cross the road"
+    },
+    {
+     "sense": 6,
+     "vi": "ngang sức ngang tài",
+     "en": "to be a formidable match in terms of strength and ability"
+    }
+   ]
+  },
+  {
+   "headword": "nghỉ ngơi",
+   "base": "c86cd404a52d909b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mất tích",
+   "base": "8bb6a84e5ccd7702",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go missing; to disappear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tìm người mất tích",
+     "en": "to search for a missing person"
+    }
+   ]
+  },
+  {
+   "headword": "khốn nạn",
+   "base": "91742e6de01cad73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "base; vile; villainous; despicable; contemptible"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "difficult; hard; tough"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "miserable; distressful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Cái thân tôi sao mà khốn nạn quá giời ơi!",
+     "en": "Good heavens, woe is [to] me! (literally, “Why am I so miserable, o heaven?”)"
+    },
+    {
+     "sense": 3,
+     "vi": "Những kẻ khốn nạn",
+     "en": "Les Misérables"
+    }
+   ]
+  },
+  {
+   "headword": "thức",
+   "base": "ea576dd7cca8ead4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "food; (also, chiefly in compounds) drink"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grammatical mood"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to awake, to stay awake"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wake (up)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thức quà",
+     "en": "food as a gift"
+    },
+    {
+     "sense": 1,
+     "vi": "thức ngon",
+     "en": "tasty food"
+    },
+    {
+     "sense": 1,
+     "vi": "Ở các nước và ở ta có nhiều cửa hàng ăn tự chọn. Bỏ ra một số tiền nhất định, ta muốn ăn uống thức gì, bao nhiêu, đều được cả.",
+     "en": null
+    },
+    {
+     "sense": 3,
+     "vi": "Tối qua thức khuya.",
+     "en": "I stayed up late last night."
+    }
+   ]
+  },
+  {
+   "headword": "dữ liệu",
+   "base": "435b8cb25d28a584",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "data; information"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ông già",
+   "base": "9b2380bfc755922c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "old man; elderly man"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "informal"
+     ],
+     "gloss": "old man; elderly man"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "informal"
+     ],
+     "gloss": "old man (father)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ông già và biển cả",
+     "en": "The Old Man and the Sea"
+    },
+    {
+     "sense": 2,
+     "vi": "Nhìn gì hả ông già?",
+     "en": "What are you lookin' at, 'old man?"
+    },
+    {
+     "sense": 3,
+     "vi": "Ông già mày dạo này thế nào?",
+     "en": "How is your old man, lately?"
+    }
+   ]
+  },
+  {
+   "headword": "hầu hết",
+   "base": "fdec32b617c9b287",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "nearly all; almost all; most"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đám cưới",
+   "base": "c22d753cf32c88a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "wedding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đàn bà",
+   "base": "6f7b516dae2ff281",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "woman (adult female human)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "married woman who had children"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai người đàn bà thêm một con vịt thì thành cái chợ.",
+     "en": "They say women are chatterboxes."
+    }
+   ]
+  },
+  {
+   "headword": "đéo",
+   "base": "695a7f9ec101c2a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive",
+      "colloquial",
+      "dated",
+      "vulgar"
+     ],
+     "gloss": "to have penetrative sex (with); to copulate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "transitive",
+      "vulgar"
+     ],
+     "gloss": "fuck (used to express great displeasure with, or contemptuous dismissal of, someone or something)"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "colloquial",
+      "vulgar"
+     ],
+     "gloss": "Negates the meaning of the modified verb: not, like fuck"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [
+      "colloquial",
+      "vulgar"
+     ],
+     "gloss": "not, like fuck (to no degree)"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "colloquial",
+      "vulgar"
+     ],
+     "gloss": "no, like fuck"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đéo con mẹ mày!",
+     "en": "Fuck you!"
+    },
+    {
+     "sense": 3,
+     "vi": "Tao đéo cần biết!",
+     "en": "Like fuck I care!"
+    },
+    {
+     "sense": 3,
+     "vi": "Tao tên Tuyền, đéo phải Tiền.",
+     "en": "My name is Tuyền, like fuck it’s Tiền (meaning money)."
+    },
+    {
+     "sense": 4,
+     "vi": "Đéo phải tao!",
+     "en": "Like fuck it's me!"
+    }
+   ]
+  },
+  {
+   "headword": "ủng hộ",
+   "base": "519510d9c0f9a6e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to support; to back"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "răng",
+   "base": "a64da4c39c723d63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tooth"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "why; how; what"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bộ răng",
+     "en": "denture"
+    },
+    {
+     "sense": 2,
+     "vi": "Răng mà mi mần được hay rứa?",
+     "en": "How are you able to do that?"
+    },
+    {
+     "sense": 2,
+     "vi": "Răng ni trời tún òm ri?",
+     "en": "Why's the sky dark today?"
+    },
+    {
+     "sense": 2,
+     "vi": "Mi định mần răng?",
+     "en": "What will you do?"
+    },
+    {
+     "sense": 2,
+     "vi": "Không có răng mô.",
+     "en": "No problem."
+    }
+   ]
+  },
+  {
+   "headword": "phải biết",
+   "base": "6c09762eede46569",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Used to emphasize a fact with an extent that the other speaker(s) can be hard to believe: indeed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phim hay phải biết",
+     "en": "The film was top-notch, indeed!"
+    }
+   ]
+  },
+  {
+   "headword": "sóng",
+   "base": "8afb79bb16641dc9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wave (moving disturbance in the level of a body of liquid)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wave (sudden, but temporary, uptick in something)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wave (moving disturbance in the energy level of a field)"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shake out even"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smooth, glossy, sleek"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dường như",
+   "base": "d2a84abc3b40fcc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appear; to seem; to look"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dường như anh muốn nói gì nữa, phỏng?",
+     "en": "It seems like you want to say something else, don't you?"
+    }
+   ]
+  },
+  {
+   "headword": "cửa hàng",
+   "base": "2e7d2616c2ba6d87",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shop, store"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ở các nước và ở ta có nhiều cửa hàng ăn tự chọn. Bỏ ra một số tiền nhất định, ta muốn ăn uống thức gì, bao nhiêu, đều được cả.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "đua",
+   "base": "91a962dcf9db2337",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compete; to vie"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chạy đua",
+     "en": "to race by running on foot"
+    },
+    {
+     "sense": 1,
+     "vi": "chạy đua vũ trang",
+     "en": "to engage in an arms race"
+    },
+    {
+     "sense": 1,
+     "vi": "đua xe",
+     "en": "to partake in a vehicle race"
+    },
+    {
+     "sense": 1,
+     "vi": "trường đua",
+     "en": "a racing circuit"
+    }
+   ]
+  },
+  {
+   "headword": "tranh",
+   "base": "71135c368f4500c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "painting, picture"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compete, to fight for"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "straw, thatch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "nhà tranh vách đất",
+     "en": "thatched house with walls made from clay"
+    }
+   ]
+  },
+  {
+   "headword": "bản đồ",
+   "base": "7b867bd9de426271",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "map"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vai",
+   "base": "2bc9a4eeb6288fff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shoulder"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "role; part"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vai chính",
+     "en": "main/lead role"
+    },
+    {
+     "sense": 2,
+     "vi": "vai phụ",
+     "en": "supporting role"
+    }
+   ]
+  },
+  {
+   "headword": "miếng",
+   "base": "4cee1d121ea3c9b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "piece, crumb"
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates pieces"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vàng miếng",
+     "en": "gold leaf"
+    }
+   ]
+  },
+  {
+   "headword": "cởi",
+   "base": "b537fbff95fc555e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take off"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to untie (a rope constraint)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to undo (a knot)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cởi quần",
+     "en": "to take off one's trousers"
+    },
+    {
+     "sense": 2,
+     "vi": "cởi trói",
+     "en": "to untie"
+    },
+    {
+     "sense": 3,
+     "vi": "cởi nút",
+     "en": "to undo a knot"
+    }
+   ]
+  },
+  {
+   "headword": "quyền lực",
+   "base": "dbd70b16c92498d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "power; authority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điếm",
+   "base": "0ad9ad063f32b36c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "being a cheater"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng đó điếm lắm!",
+     "en": "He's such a cheater!"
+    }
+   ]
+  },
+  {
+   "headword": "xóa",
+   "base": "d9201efead46fa68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of xoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặc dù",
+   "base": "b7fe9c89a1acd9b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "although; though"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ôm",
+   "base": "3310c0c5dc711b1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "an armful"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hug"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to embrace; to hug"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to harbor (grudges, hatred, dreams)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ohm"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "ôm hận",
+     "en": "to harbor a grudge/hatred"
+    },
+    {
+     "sense": 4,
+     "vi": "ôm mộng",
+     "en": "to harbor a dream/ambition"
+    }
+   ]
+  },
+  {
+   "headword": "làm ăn",
+   "base": "092cca54c332c705",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work (for one's living); to make a living; to do business"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giá trị",
+   "base": "c8eed74772456c25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "value, worth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "value"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô tội",
+   "base": "9e881273a067b012",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "innocent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thèm",
+   "base": "47a159709d450316",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to want to eat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to want, to crave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Không/Hổng thèm!",
+     "en": "I don't care for that! / I don't want that anyways!"
+    }
+   ]
+  },
+  {
+   "headword": "khủng khiếp",
+   "base": "a6cd116b31173267",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be terrible; to be dreadful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khó chịu",
+   "base": "22518f30557a945b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uncomfortable; uneasy; intolerable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mưa",
+   "base": "fa69940448be1eca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rain"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "(trời) mưa",
+     "en": "it rains / it's raining / it rained"
+    }
+   ]
+  },
+  {
+   "headword": "trống",
+   "base": "90166d960ec9215d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "empty; vacant"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "masculine"
+     ],
+     "gloss": "male"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "masculine"
+     ],
+     "gloss": "male"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drum"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "gà trống",
+     "en": "a rooster"
+    },
+    {
+     "sense": 3,
+     "vi": "cá heo trống/đực",
+     "en": "a male dolphin"
+    }
+   ]
+  },
+  {
+   "headword": "cỡ",
+   "base": "964d11e4c4780c62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "size; calibre"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "about; approximately"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cỡ nào?",
+     "en": "how much/to what extent?"
+    },
+    {
+     "sense": 1,
+     "vi": "cỡ lớn",
+     "en": "large size"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhanh cỡ nào?",
+     "en": "How fast?"
+    },
+    {
+     "sense": 2,
+     "vi": "Giờ thì đậy nắp rồi chờ cỡ năm phút là xong.",
+     "en": "Now we put the lid on and let it cook for about 5 minutes or so until it's done."
+    }
+   ]
+  },
+  {
+   "headword": "lượt",
+   "base": "ff1ebcc925ca4884",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one's time; one's turn"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "time; (one) turn"
+    },
+    {
+     "position": 3,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Used for times and turns, and likes and views (on social media)."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tới lượt tôi.",
+     "en": "It's my turn."
+    },
+    {
+     "sense": 2,
+     "vi": "vé một lượt",
+     "en": "one-way ticket"
+    },
+    {
+     "sense": 3,
+     "vi": "một lượt xem",
+     "en": "a view"
+    }
+   ]
+  },
+  {
+   "headword": "hợp tác",
+   "base": "c91b97ff738621e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to be cooperative"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cooperate; to collaborate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "sự hợp tác",
+     "en": "cooperation, collaboration"
+    }
+   ]
+  },
+  {
+   "headword": "cung cấp",
+   "base": "4f52490cf813ce30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to supply; to provide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kinh khủng",
+   "base": "d99bfbbf56166802",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "horrible; terrible; awful; outrageous; monstrous"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "horribly; terribly; awfully"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ngu kinh khủng",
+     "en": "outrageously stupid"
+    }
+   ]
+  },
+  {
+   "headword": "mụ",
+   "base": "c1c2d053bc6bebc1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "an old woman"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North",
+      "familiar"
+     ],
+     "gloss": "grandmother"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "she/her"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "worn out; tired; weary"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mụ cào ló trửa cươi.",
+     "en": "Grandma is raking the rice-seeds in the yard."
+    },
+    {
+     "sense": 4,
+     "vi": "Làm việc nhiều quá mụ cả người.",
+     "en": "Working too much makes one tired."
+    }
+   ]
+  },
+  {
+   "headword": "dũng cảm",
+   "base": "6b25b2b92c17603d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brave; courageous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lòng dũng cảm",
+     "en": "courage; bravery"
+    }
+   ]
+  },
+  {
+   "headword": "trứng",
+   "base": "0dafeed5e7c37795",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "egg (body housing an embryo; egg of domestic fowl as food item; ovum)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trứng luộc",
+     "en": "boiled egg"
+    },
+    {
+     "sense": 1,
+     "vi": "trứng gà",
+     "en": "chicken egg"
+    }
+   ]
+  },
+  {
+   "headword": "khác biệt",
+   "base": "a8c587bf68af8cb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "different"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chớ",
+   "base": "ec4d4aa17ad8e787",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "particle",
+     "tags": [
+      "literary",
+      "usually"
+     ],
+     "gloss": "do not"
+    },
+    {
+     "position": 2,
+     "pos": "num",
+     "tags": [],
+     "gloss": "four"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chớ có chỉ tay năm ngón vô mặt thiên hạ.",
+     "en": "Don't conceitedly point your finger at people."
+    }
+   ]
+  },
+  {
+   "headword": "khách hàng",
+   "base": "ca57cb1d2d01d316",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a customer or client"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dịch vụ chăm sóc khách hàng",
+     "en": "customer service"
+    }
+   ]
+  },
+  {
+   "headword": "cớm",
+   "base": "008cbceb8b27820c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "slang"
+     ],
+     "gloss": "a cop"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cha mẹ",
+   "base": "c301d871807db9f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parents"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "các bậc phụ huynh/cha mẹ",
+     "en": "parents"
+    }
+   ]
+  },
+  {
+   "headword": "sát nhân",
+   "base": "86e202e17efa7c1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a killer, a murderer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhất định",
+   "base": "859b4189b12c4b6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fixed, certain, given"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "determined (to do something)"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sure (to do something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "góc",
+   "base": "08414b93f9c18cd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a corner (space in the angle between converging lines or walls)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an angle"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a piece of something, having a corner-like shape"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "một góc bánh chưng",
+     "en": "a piece of bánh chưng"
+    }
+   ]
+  },
+  {
+   "headword": "khổng lồ",
+   "base": "85e8928271e64435",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "huge; gigantic; colossal; massive; enormous"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "giant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong khi mực khổng lồ là một quái vật xét về kích thước, nó có loài họ hàng thậm chí còn lớn và khó thấy hơn là mực khổng lồ Nam Cực.",
+     "en": "While the giant squid is a monster in terms of size, it has an even larger and more rarely seen relative, the colossal squid [literally, “Antarctic giant squid”]."
+    },
+    {
+     "sense": 2,
+     "vi": "Ngài có họ là Dương. Pháp danh là Không Lộ, nghĩa là Lối Đi Tánh Không. Khi một số dân làng phát âm khác đi, pháp danh này có nghĩa là “Khổng Lồ.”",
+     "en": "His family name was Duong. His dharma name was Khong Lo, meaning the Path of Emptiness. When pronounced with different accent by some villagers, his dharma name had the meaning of “The Giant.”"
+    }
+   ]
+  },
+  {
+   "headword": "nhà tù",
+   "base": "35505660ec0088c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prison"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jail"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "muội",
+   "base": "aaf03bdf76930f91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "soot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "younger sister"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "I; you (refers to the female junior among the speakers)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồ",
+   "base": "98c537dc421858bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lake"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glue"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arc"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mắc",
+   "base": "bdd8e5135805dc5e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hang; to hook"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to catch; to get caught (in); to be trapped (in); to fall into"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to contract (disease); to catch"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to contract (debt); to owe"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to be busy; to be occupied; to be engaged"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to want to (go to the bathroom, laugh, etc.); to have the desire to"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to cause (one to develop a feeling)"
+    },
+    {
+     "position": 8,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "expensive; dear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "mắc lưới",
+     "en": "to get caught in a net"
+    },
+    {
+     "sense": 3,
+     "vi": "mắc bệnh",
+     "en": "to get sick"
+    },
+    {
+     "sense": 5,
+     "vi": "Đi chơi hả? Để mai mốt gì đi, mắc việc rồi.",
+     "en": "Hanging out? Umm, maybe later, I'm kinda occupied with work right now."
+    },
+    {
+     "sense": 6,
+     "vi": "mắc ói",
+     "en": "wanting to puke"
+    },
+    {
+     "sense": 6,
+     "vi": "mắc cười",
+     "en": "funny or laughable"
+    }
+   ]
+  }
+ ]
+}

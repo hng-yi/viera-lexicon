@@ -1,0 +1,1492 @@
+{
+ "batch": "0175",
+ "entries": [
+  {
+   "headword": "buồn tủi",
+   "base": "423fff59931645af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sorrowful; sad"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghĩa quân",
+   "base": "71f5996914ffa206",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "rebel army"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nghĩa quân Tây Sơn",
+     "en": "Tay Son rebel army"
+    }
+   ]
+  },
+  {
+   "headword": "yên ả",
+   "base": "a932aab327538b66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "peaceful, quiet, vast"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lặng thinh",
+   "base": "0ea2bfb410594532",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep quiet; to keep one's mouth shut; to hold one's tongue; to not say a word"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư tay",
+   "base": "3b9471e234a9ff3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "handwritten letter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nóng ruột",
+   "base": "9e8014728b72b00a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "anxious; impatient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đâm ra",
+   "base": "4984402e216d1b4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to turn into (usually something bad or worse), to become"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] tươi rói bảo, trời đất ơi, thuốc chú mày quá chừng hay. Văn đâm ra lạ.",
+     "en": "[…] fresh as a daisy he said, \"Good heavens, your medicine is so good!\" Văn started to find it strange."
+    }
+   ]
+  },
+  {
+   "headword": "hạnh kiểm",
+   "base": "542fc382dd566b63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an assessment of someone's personal conduct as a citizen or member of an institution"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hạnh kiểm tốt",
+     "en": "good conduct; a clean criminal/student record"
+    }
+   ]
+  },
+  {
+   "headword": "tịch",
+   "base": "cc4163f6fb8c2506",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "to drop dead; to croak"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ma cô",
+   "base": "87d7c5caec2501fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pimp, pander"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "treacherous; evil"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ả này ma cô lắm, toàn dùng thủ đoạn để lừa lọc người ta thôi à.",
+     "en": "The gal is so treacherous; she's always fooling people with many a trick."
+    }
+   ]
+  },
+  {
+   "headword": "ngọt lịm",
+   "base": "f50fdd94e7ab5b16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very sweet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhập tịch",
+   "base": "42e6a9ad212cf0ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pass away and (assumed) to enter nirvana"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to become a naturalized citizen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bảnh bao",
+   "base": "5d404d79b9cfff37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spruce, smart, well-groomed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khởi phát",
+   "base": "e072093a052c8e30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to start; to begin; to arise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trù tính",
+   "base": "93d207d590aa763f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plan"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to draw up (concrete plans)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Sau khi đưa ra quyết định, tôi liền bắt đầu trù tính kế hoạch.",
+     "en": "Once my decision was taken, I started drawing up plans right away."
+    }
+   ]
+  },
+  {
+   "headword": "nhõng nhẽo",
+   "base": "059c69968e915096",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "whiny; crybabyish"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whine and pester"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nếu là hình-thức tập-sự, thời các con em được coi như nô-tì và nhất là dùng làm cô đầu rượu để nhõng nhẽo với quan viên.",
+     "en": "When it came to training, the girls of the time were seen as womanservants, especially being used as courtesans to pander to officials."
+    }
+   ]
+  },
+  {
+   "headword": "sở hữu trí tuệ",
+   "base": "fd5c10157c0f2f5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "concerning intellectual property"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quyền sở hữu trí tuệ",
+     "en": "intellectual property rights"
+    },
+    {
+     "sense": 1,
+     "vi": "Luật Sở hữu Trí tuệ",
+     "en": "the Intellectual Property Act"
+    }
+   ]
+  },
+  {
+   "headword": "râu quai nón",
+   "base": "2a6871b28386ecf9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a man's beard that connects with his sideburns, in a similar way in which an Asian conical hat strap hugs the wearer's face"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng đẳng",
+   "base": "0124d0f5cb92080f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "homologous"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "attributive"
+     ],
+     "gloss": "peer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dãy đồng đẳng",
+     "en": "homologous series"
+    },
+    {
+     "sense": 2,
+     "vi": "áp lực đồng đẳng",
+     "en": "peer pressure"
+    },
+    {
+     "sense": 2,
+     "vi": "đánh giá đồng đẳng",
+     "en": "peer evaluation"
+    },
+    {
+     "sense": 2,
+     "vi": "rà soát đồng đẳng",
+     "en": "peer review"
+    }
+   ]
+  },
+  {
+   "headword": "kì hạn",
+   "base": "b2e5dbab5730c2fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a deadline; a due date; a cutoff; a time limit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chập tối",
+   "base": "2faba4135db1af66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dusk; nightfall; twilight; sundown"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lọn",
+   "base": "8132d6acd9bdb102",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates a curl of string-like objects"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một lọn tóc",
+     "en": "a curl of hair"
+    },
+    {
+     "sense": 1,
+     "vi": "một lọn chỉ",
+     "en": "a bundle of thread"
+    }
+   ]
+  },
+  {
+   "headword": "đăng ten",
+   "base": "9f2f34f55da2376f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mì ăn liền",
+   "base": "6846ab9fe14c5923",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "instant noodles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bim bim",
+   "base": "38f4eca34297d0ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "crisps; potato chips"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nái",
+   "base": "0edbd311a4a31b62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to marry off"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "female and kept for breeding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lợn/heo nái",
+     "en": "a sow kept for breeding"
+    }
+   ]
+  },
+  {
+   "headword": "loay hoay",
+   "base": "af1cd3701f7c40c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to struggle to deal; to try everything; to fumble; to mess around"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "loay hoay mãi vẫn không mở được cửa",
+     "en": "to try forvever but still cannot open the door"
+    },
+    {
+     "sense": 1,
+     "vi": "loay hoay với cái xe hỏng",
+     "en": "to try everything to fix the broken car"
+    }
+   ]
+  },
+  {
+   "headword": "ghe",
+   "base": "cbd4a74eb3f2d133",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of boat"
+    },
+    {
+     "position": 2,
+     "pos": "det",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "many, much; a lot"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "clitoris"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "táp",
+   "base": "0eb37f418345e483",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to snap, to bite"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to hit, to beat"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bị lửa táp",
+     "en": "to be hit by a flame"
+    },
+    {
+     "sense": 2,
+     "vi": "Một làn khói đen theo gió bay tới táp vào mặt khiến nàng không mở mắt ra được,[…]",
+     "en": "A wisp of black smoke on the wind hit her face, leaving her unable to open her eyes; […]"
+    }
+   ]
+  },
+  {
+   "headword": "nhà băng",
+   "base": "8b91feed31f4a39e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "bank"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cướp nhà băng",
+     "en": "to rob a bank"
+    }
+   ]
+  },
+  {
+   "headword": "nguệch ngoạc",
+   "base": "cb83be8ad11a0701",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sloppy; amateurish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "muôn thú",
+   "base": "a5d8708dcb709a9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "eggcorn of muông thú"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thửa",
+   "base": "28a8792bd33070a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates plots of cultivated land such as gardens, fields, etc."
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "Used as an equivalent to 所, 其, 攸, or 厥: nominalizes verbs or adjectives"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "demonstrative",
+      "obsolete",
+      "particle"
+     ],
+     "gloss": "Used as an equivalent to 所, 其, 攸, or 厥: demonstrative particle"
+    },
+    {
+     "position": 4,
+     "pos": "particle",
+     "tags": [
+      "obsolete",
+      "pronoun",
+      "third-person"
+     ],
+     "gloss": "Used as an equivalent to 所, 其, 攸, or 厥: third person pronoun"
+    },
+    {
+     "position": 5,
+     "pos": "particle",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "Used as an equivalent to 所, 其, 攸, or 厥: a place, location"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to order"
+    },
+    {
+     "position": 7,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to measure"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lũ trẻ không chịu đựng nổi mùi phân bón nồng nặc bốc lên từ thửa ruộng cạnh trường.",
+     "en": "The children could not stand the strong smell of fertilizer emanating from the field next to the school."
+    },
+    {
+     "sense": 2,
+     "vi": "Nhữ tào sở lạc, ngô tâm tự tu.",
+     "en": "What pleasure you all take in, my heart is ashamed of itself."
+    },
+    {
+     "sense": 3,
+     "vi": "Trịnh kiến kỳ nhân.",
+     "en": "Trịnh saw that person."
+    },
+    {
+     "sense": 4,
+     "vi": "Bá quyết bách cốc.",
+     "en": "Planted all of your various grains."
+    },
+    {
+     "sense": 4,
+     "vi": "Bá quyết bách cốc.",
+     "en": "Planted all of your various grains."
+    },
+    {
+     "sense": 5,
+     "vi": "Quân tử hữu du vãng.",
+     "en": "The junzi has a place to go to."
+    },
+    {
+     "sense": 7,
+     "vi": "đôi giày này thửa",
+     "en": "this pair of shoes was made to order"
+    }
+   ]
+  },
+  {
+   "headword": "rổi",
+   "base": "cc6849356c099e6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fishing boat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mềm nhũn",
+   "base": "2b0972a1f77f365d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soft; floppy; limp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truyền cảm",
+   "base": "7e25bbc9723bb0e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "emotive; expressive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc công",
+   "base": "829b33b7b90fa38a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "special forces"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thủ pháp",
+   "base": "a423f291e294fc48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "technique, method, trick, especially a rhetorical or literary one"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ta thấy thủ pháp lật tay điểm huyệt của ông ta là khắc tinh của Cáp mô công.",
+     "en": "I think his backhand acupoint technique is a match for the Toad Skill."
+    }
+   ]
+  },
+  {
+   "headword": "lộ thiên",
+   "base": "07ce4a48099f2621",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in the open; open-air"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xâu xé",
+   "base": "da9217d0bea2f147",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to compete vigorously to gain some potential advantage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trung Quốc cuối thế kỉ 19 đã trở thành chiếc bánh ngọt hấp dẫn cho các nước thực dân hùa vào xâu xé.",
+     "en": "In the late 19th century, China became a tempting cake for colonial powers to carve up."
+    }
+   ]
+  },
+  {
+   "headword": "không phận",
+   "base": "5427363dac66ae98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "airspace (a specified portion of the atmosphere under the jurisdiction of a country)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tròn trịa",
+   "base": "377215090ed2efdc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "plump; round (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trình chiếu",
+   "base": "ab5d28e24704df55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to present; to screen; to project (especially for a slideshow)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn rỏi",
+   "base": "26d53705a80b2c8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard; tough; standing firm in the face of adversity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "móp",
+   "base": "33ade4ffe7794a74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sunken; flattened; dented"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lasia spinosa"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đã thấy nhiều cây cỏ lạ: chà là, sơn, móp, măng cụt, sầu riêng, vú sữa…",
+     "en": "He saw many strange plants: date, wax tree, Lasia spinosa, mangosteen, durian, star apple…"
+    }
+   ]
+  },
+  {
+   "headword": "mỏi mệt",
+   "base": "994f8ee2d56d0a67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of mệt mỏi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tráng kiện",
+   "base": "3ed366c5e1b9261e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full of vigor, strong"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh lại thấy mình sung sức, tráng kiện, sẵn sàng đón nhận hết thảy, ngay cả cái chết.",
+     "en": "He felt fit and full of vigor again, ready for anything, even for death."
+    }
+   ]
+  },
+  {
+   "headword": "rêu rao",
+   "base": "e446005b2c60a65a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell others (often false) statements for nefarious and/or insidious purposes; to speak ill of; to disparage; to spread libel and/or slander; to malign; to traduce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá đuối",
+   "base": "ab2177d1a488e963",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ray; batoid (fish of the superorder Batoidea)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chít",
+   "base": "b66929c9cac2af5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "great-great-great-grandchild"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wrap; to coil; to bind"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tighten; to narrow"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seal; to obstruct an opening"
+    },
+    {
+     "position": 5,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "squeak; eek; brux"
+    },
+    {
+     "position": 6,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Thysanolaena latifolia"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chít khăn",
+     "en": "to wear a scarf on one's head"
+    }
+   ]
+  },
+  {
+   "headword": "thu nạp",
+   "base": "67155432c1e583cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive; to admit; to accept"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "miền Trung",
+   "base": "630519ac08eae554",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "central region"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiếc",
+   "base": "e5e1a7423b54a218",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to scold, to chide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đớn đau",
+   "base": "423fff59931645af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sorrowful; sad"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến tướng",
+   "base": "c4e2602aea57ffd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a commander; general; warlord"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a team captain; team leader; MVP"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xa tít",
+   "base": "4213acf20aaa3b0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very far away; as far as the eye can see"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vằn thắn",
+   "base": "2778b3452841a4da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "wonton"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô khối",
+   "base": "9cd323b535b5dfaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "uncommon"
+     ],
+     "gloss": "innumerable; incalculable; numberless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầm ấm",
+   "base": "7375fa4baa0140b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "warm; cosy; sweet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên thanh",
+   "base": "5e56a598edc3deea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "showering or outpouring"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiếng pháo liên thanh dù chỉ nơi xóm làng dịp Tết cũng đã làm cho lũ trẻ phấn khích khôn nguôi.",
+     "en": "The shower of firecrackers, even just in the village during Tet, had filled the children with endless excitement."
+    }
+   ]
+  },
+  {
+   "headword": "huyết cầu",
+   "base": "b8ae77d37a2922b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blood cell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dồi",
+   "base": "1a495a7cdf61418a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "intestines (as (food))"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "blood sausage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "niên thiếu",
+   "base": "99de52291bf20b0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "related to youth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thời niên thiếu của Bao Thanh Thiên",
+     "en": "The Boyhood of Justice Bao"
+    }
+   ]
+  },
+  {
+   "headword": "bươn chải",
+   "base": "179cc4247c395a89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strive to earn a living; to run about"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mòn mỏi",
+   "base": "af17dc452e36b620",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wearing out gradually; declining gradually"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bàn thắng",
+   "base": "7f9977a89e22b9dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "points won; goals gained; an additional score"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khiếm thị",
+   "base": "7ef3d92dd65b1e49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "euphemistic",
+      "formal"
+     ],
+     "gloss": "synonym of mù (“blind”); visually impaired"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mắm muối",
+   "base": "0446f7502832a0c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fish sauce and salt"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "condiments"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "spice (attribute that makes something appealing, interesting, or engaging)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rông",
+   "base": "c47c848dc0e0730b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "be controlless, be out of control"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sò điệp",
+   "base": "75a2a91150056d4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mimachlamys nobilis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khôi ngô",
+   "base": "036afcb973c6b954",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "handsome; good-looking; attractive"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smart-looking; clever (in appearance)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xao xuyến",
+   "base": "610a925c1481ee73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "emotionally troubled, confused"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] bèn cúi đầu đưa mắt nhìn trộm Nhan Liệt, thấy y hoàn toàn không có vẻ khinh bạc, nhất thời trong lòng xao xuyến, cũng không biết nên buồn hay vui.",
+     "en": "[…] so she lowered her head and stealthily looked at Yán Liè; he did not at all seem disrespectful; at the same time she felt troubled and did not know whether she should be sad or happy."
+    }
+   ]
+  },
+  {
+   "headword": "bị gậy",
+   "base": "12496dfdaf6dd5a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "begger"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhạc viện",
+   "base": "4cec558e8f8c1788",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "music school; college of music; conservatoire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cát lún",
+   "base": "c2d407a6ec4f61fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quicksand"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mực nang",
+   "base": "46691b449ffab388",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cuttlefish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mực nang ăn động vật thân mềm nhỏ, cua, tôm, cá, bạch tuộc, giun và mực nang khác. Động vật ăn thịt mực nang bao gồm cá heo, cá mập, cá, hải cẩu, chim biển và mực nang khác.",
+     "en": "Cuttlefish feed on small molluscs, crabs, shrimps, fish, octopuses, worms, and other [species of] cuttlefish. Animals feeding on cuttlefish include dolphins, sharks, fish, seals, seabirds, and other [species of] cuttlefish."
+    }
+   ]
+  },
+  {
+   "headword": "chủ xị",
+   "base": "c65c7ce84a0d17e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a host; presenter; main entertainer"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a designated sponsor (especially one who funds partygoers)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ủ rũ",
+   "base": "22c6b2363dd19add",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sullen; gloomy; melancholy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trông cô nàng thật ủ rũ làm sao khi bị chàng từ chối",
+     "en": "Look how blue she must be when being turned down like that."
+    }
+   ]
+  },
+  {
+   "headword": "lầm lì",
+   "base": "63feeef46da81347",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "taciturn, withdrawn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mỗi ngày tía nuôi tôi lại một thêm lầm lì, ít nói.",
+     "en": "With each day that passed, my adoptive father became a bit more withdrawn and taciturn."
+    }
+   ]
+  },
+  {
+   "headword": "cung cầu",
+   "base": "d43972cc4574ece1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to supply and demand"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

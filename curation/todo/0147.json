@@ -1,0 +1,1285 @@
+{
+ "batch": "0147",
+ "entries": [
+  {
+   "headword": "già yếu",
+   "base": "919182905b98136a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old and weak; senile; senescent; decrepit and feeble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng dụng",
+   "base": "22a225e36169f1ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assign someone to an important position"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rớ",
+   "base": "7ba8c74df8f55294",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to touch, to catch"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lift net"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hành trang",
+   "base": "8b0d5cf324f31e6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of hành lí (“luggage/baggage”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "things, especially knowledge, skills, attitude, etc. that you need to succeed in the future"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bố mẹ mong muốn có thể cung cấp cho con đủ hành trang để con có thể vững bước vào đời.",
+     "en": "We wish to provide you with a well-rounded education so you can become a functioning adult."
+    }
+   ]
+  },
+  {
+   "headword": "nựng",
+   "base": "03c79880f0061817",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pamper; to spoil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu nệ",
+   "base": "68146a40914b32fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fussy; finicky; inflexible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thanh xuân",
+   "base": "a4234fb240cd05f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds",
+      "literary"
+     ],
+     "gloss": "youth; young days"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tuổi thanh xuân",
+     "en": "youth"
+    }
+   ]
+  },
+  {
+   "headword": "quần quật",
+   "base": "535026b8f4fe2dec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work like a horse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chân tình",
+   "base": "b4f2691553d87472",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "utter sincerity; true feelings; genuine sentiments"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very sincere; heartfelt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội hè",
+   "base": "6f626d4520a47485",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "festivals; celebrations (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cao đẹp",
+   "base": "07f3bf3129475b04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gorgeous; noble"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "có một lý tưởng sống cao đẹp",
+     "en": "having an elegant code of living"
+    }
+   ]
+  },
+  {
+   "headword": "chán ghét",
+   "base": "36c4ebd33c5948fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hate; to detest; to loathe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự giác",
+   "base": "1aacb295c71dff22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "self-disciplined; self-motivated; conscious (of); conscientious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ đạo",
+   "base": "3b8f808a1dbd9c2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "leading; decisive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khế",
+   "base": "f1774061a10914a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carambola, star fruit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phọt",
+   "base": "c743a6c6b172a9fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spurt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiêu",
+   "base": "f59dde01351b498f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "arrogant, proud, haughty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội lực",
+   "base": "582efbbcbaf0750e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "internal force; one's own efforts"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vốn liếng",
+   "base": "b7ac5b71a344d3d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "capital; wealth; savings"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vốn liếng chính trị",
+     "en": "political capital"
+    }
+   ]
+  },
+  {
+   "headword": "cột trụ",
+   "base": "d7ad0a77ffb54204",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "backbone, cornerstone, pillar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cột trụ nuôi sống gia đình",
+     "en": "breadwinner"
+    }
+   ]
+  },
+  {
+   "headword": "độc đoán",
+   "base": "8eea746338bb4ab5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "arbitrary; authoritarian; domineering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ướt nhẹp",
+   "base": "6d810f6e0b600d40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very wet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhão",
+   "base": "8cca25374d87b35e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "overly soft and sticky from having too much water; mushy; pasty; viscid; clammy; soggy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "flabby; flaccid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trêu chọc",
+   "base": "c07832e58ebcc812",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tease; to mock; to provoke"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếp ứng",
+   "base": "a6c76a8f259d61a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to support and serve as a backup"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tới tấp",
+   "base": "24e57c3b7f920212",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "continuously"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hỗn",
+   "base": "4a588bd9cfbf0eaf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "insolent; impudent; irreverent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng này hỗn nhỉ?",
+     "en": "What an insolent lout you are!"
+    }
+   ]
+  },
+  {
+   "headword": "nửa chừng",
+   "base": "c7bdb9a719f1db95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "half-done; unfinished; halfway (through)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm nửa chừng bỏ dở",
+     "en": "to leave a job unfinished"
+    },
+    {
+     "sense": 1,
+     "vi": "bỏ học nửa chừng",
+     "en": "to drop out halfway through one's course"
+    },
+    {
+     "sense": 1,
+     "vi": "Thang máy bị kẹt nửa chừng.",
+     "en": "The lift got stuck halfway up."
+    }
+   ]
+  },
+  {
+   "headword": "truyền đơn",
+   "base": "0569dc68db63b13e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a political flyer, especially used to spread ideology or propaganda"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quá độ",
+   "base": "5d10fd067c4767e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "excessive"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transition"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thời kì quá độ lên chủ nghĩa xã hội",
+     "en": "the transitional period to socialism"
+    }
+   ]
+  },
+  {
+   "headword": "thiểu số",
+   "base": "2fb5f49e6cd6c362",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "minority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hối",
+   "base": "b75e90e822416a02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to urge"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to repent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạ vâng",
+   "base": "5f1a34678704db87",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "A sentence-initial interjection used to give confirmation for others in a respectful, formal way."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ba má",
+   "base": "3a086d20ad7613f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "parents (mother and father)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thụ động",
+   "base": "7ff033dadc24b306",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "passive or reactive rather than active or proactive"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of bị động (“passive”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điêu",
+   "base": "9cfb7ae2e018bd9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "habitually dishonest; very inclined to lie"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "eagle"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a giant eagle in Jin Yong's wuxia novels and their live action adaptations"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người đâu mà điêu ngoa !",
+     "en": "You lie like you breathe, don't you?"
+    },
+    {
+     "sense": 1,
+     "vi": "Đừng có điêu ! Không đời nào mày làm nổi !",
+     "en": "Don't BS me! No way you could do it!"
+    },
+    {
+     "sense": 3,
+     "vi": "Anh hùng xạ điêu",
+     "en": "The Eagle-Shooting Heroes"
+    }
+   ]
+  },
+  {
+   "headword": "giáo xứ",
+   "base": "6c20806a794f4e3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parish (part of a diocese)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đái dầm",
+   "base": "9f9ed292046e3e9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wet the bed; to squirt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "con bạc",
+   "base": "15ec40051cd171e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gambler"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngáp",
+   "base": "cf12fc21bf817e39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to yawn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiểu hổ",
+   "base": "22c482e3c34c70c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "humorous",
+      "slang"
+     ],
+     "gloss": "cat meat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thượng thận",
+   "base": "5b9c467c99aa325b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "suprarenal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biên niên sử",
+   "base": "708aa6513f595110",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chronicle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phật lòng",
+   "base": "1f603a83d7050de3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be offended; to be vexed; to be displeased"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mờ ảo",
+   "base": "99e7881803e0f458",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dim; vague; unclear; blurred"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tái ngộ",
+   "base": "053cbdb157308d31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to meet again"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy chiếu",
+   "base": "8526326dd9ff55b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a projector; an optical device that projects a beam of light, especially one used to project an image (or moving images) onto a screen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá chép",
+   "base": "7332f5cc6248c4b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carp, specifically the common carp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải mã",
+   "base": "16dfb1dd0662640f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "seahorse"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "walrus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhảy dựng",
+   "base": "5c5e19d9065d44b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be startled, to start"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mo",
+   "base": "89fe235b65575f57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spathe of the areca tree"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quạt mo",
+     "en": "a fan made from areca spathes"
+    }
+   ]
+  },
+  {
+   "headword": "tra cứu",
+   "base": "9dfd037e15bb0c0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look into and find out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăng ten",
+   "base": "27955cde75df98cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "antenna (radio)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ lực",
+   "base": "ad83245b30aa7eb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "main force; mainstay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tàn độc",
+   "base": "b1a17896e352e333",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cruel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "non nớt",
+   "base": "2489a2cb413c9402",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "young; green"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inexperienced; naive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giác mạc",
+   "base": "5878a105389fdb58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cornea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngành nghề",
+   "base": "9a63bcb981bfb90c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "profession, field, career"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "răn dạy",
+   "base": "d1707ad1b4cdfda6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to admonish; to teach in a strict or draconian manner, esp. on manners and/or morality"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ròng rọc",
+   "base": "545baf291af19c99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pulley"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "búi",
+   "base": "eb8a25ae870b7681",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tuft"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a tuft"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khướt",
+   "base": "06241fc9a9ed2d63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "exhausted"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "far gone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Trương Thập Ngũ uống đến khi say khướt mới cáo từ, xiêu xiêu vẹo vẹo đi về hướng Lâm An,[…]",
+     "en": "Only when he was drunk as a wheelbarrow did Zhāng Shíwǔ take his leave, stumbling on his way in the direction of Lin'an, […]"
+    }
+   ]
+  },
+  {
+   "headword": "hạ bộ",
+   "base": "24c0c046c2f4a375",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "euphemistic",
+      "humorous"
+     ],
+     "gloss": "external male genitalia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uốn ván",
+   "base": "eb51ffc575ee6837",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tetanus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông dịch",
+   "base": "cf53f30fa389148f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to translate orally; to interpret"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tày trời",
+   "base": "fd6ad0468cf06092",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grave, serious and of great consequence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tội ác tày trời của bọn thực dân",
+     "en": "The grave crimes of the colonists"
+    }
+   ]
+  },
+  {
+   "headword": "thè",
+   "base": "564932dc0e9bcdd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stick tongue out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hôn thú",
+   "base": "5fd95b2f56a467e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "marriage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cho đến lúc đó, bà mới nhận ra sự cực đoan không thèm làm hôn thú với Joseph đã dẫn đến những hậu quả tồi tệ.",
+     "en": "Only then did she realize the horrible consequences of her stubborn refusal to take Joseph in marriage."
+    }
+   ]
+  },
+  {
+   "headword": "chuyên tâm",
+   "base": "5a92945fd5868245",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work single-mindedly at (something); to dedicate oneself to (doing something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồng tâm",
+   "base": "138477ff892e1b22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bullseye"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uể oải",
+   "base": "f65807cece9aa7fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tired, languid, lethargic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Rụt rè nó bốc một nắm bỏ vào miệng, uể oải nhai như bò nhai trấu.",
+     "en": "Timidly she took a handful, put it in her mouth, and languidly chewed like a cow on chaff."
+    }
+   ]
+  },
+  {
+   "headword": "buồn lòng",
+   "base": "91e960bb6eaa3c3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "heavy-hearted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cao kều",
+   "base": "356a0156f3215949",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "lanky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Theo sau cô bé là cậu Louis Hậu mười sáu tuổi, cao kều trong bộ âu phục màu trắng, kế đó là chị Elise mà cả nhà thường gọi là Hai Sành trong chiếc đầm màu xanh lơ.",
+     "en": "After the girl came uncle Louis Hậu, sixteen years, lanky, and wearing white European-style attire, after which came sister Elise, whom all the family had the habit of calling Hai Sành, in a blue dress."
+    }
+   ]
+  },
+  {
+   "headword": "hiệu năng",
+   "base": "bda2b48f93a6ef4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "efficiency (of energy production); performance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tối om",
+   "base": "a72fda580619db52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pitch-black"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giằng xé",
+   "base": "981885451da0505e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forcefully bite"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get unbearably hurt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Sự phản bội của chàng có chăng đã giằng xé nơi tấm thân bi luỵ này.",
+     "en": "My vulnerable heart'd been shed to pieces unless you ever seemed to become a man of your word."
+    }
+   ]
+  },
+  {
+   "headword": "cơ nghiệp",
+   "base": "3eb6576be1eba884",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fortune; wealth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "patrimony; heritage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thượng thư",
+   "base": "f9d1d31f192e9ff1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "position title: secretary; chief of staff"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khắc tinh",
+   "base": "06a195a7821d4912",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "match, worthy opponent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ta thấy thủ pháp lật tay điểm huyệt của ông ta là khắc tinh của Cáp mô công.",
+     "en": "I think his backhand acupoint technique is a match for the Toad Skill."
+    }
+   ]
+  },
+  {
+   "headword": "cao to",
+   "base": "22edef5da2c163bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tall and big"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

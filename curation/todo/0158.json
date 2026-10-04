@@ -1,0 +1,1444 @@
+{
+ "batch": "0158",
+ "entries": [
+  {
+   "headword": "chia xẻ",
+   "base": "202674d3dbef9ade",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to share; to distribute"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to split up; to divide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công đoạn",
+   "base": "90ea3bc2ed8532d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stage (of work); phase; step"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tung hứng",
+   "base": "23769caced6ab7c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "juggling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áy",
+   "base": "bfbeae9e72dc1266",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sear, withered"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặt đường",
+   "base": "f621427da012fca6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "road surface"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truất",
+   "base": "8db7e469f118a3cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dismiss; to fire; to dethrone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đầm lầy",
+   "base": "4f097878b8cc5e6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "swamp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn cỏ",
+   "base": "56a0953ef4c648c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to eat grass; to graze"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be herbivorous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con trâu ăn cỏ.",
+     "en": "The water buffalo's grazing."
+    }
+   ]
+  },
+  {
+   "headword": "đương nhiệm",
+   "base": "5d7a555727f53dc1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "incumbent (being the current holder of an office)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hậu đậu",
+   "base": "1cb07af4310e43f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "awkward; clumsy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phượt",
+   "base": "8d21a6c5d9584fdd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "to pass quickly; to rush past; to speed past"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "to travel by motorbike"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thay vì chọn các phương tiện như xe khách, máy bay, tàu lửa, nhiều sinh viên lựa chọn về quê bằng cách phượt bằng xe máy dù hành trình khá xa.",
+     "en": "Instead of travelling by coach, airplane or train, many students choose to go home (for the lunar new year) by riding on the motorbike, despite the relatively long distances."
+    }
+   ]
+  },
+  {
+   "headword": "nhũn",
+   "base": "cce379de6a4455a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very soft"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đột nhiên hai chân nhũn ra, chống kiếm xuống đất.",
+     "en": "Suddenly his legs gave way and he planted his sword in the ground to lean on."
+    }
+   ]
+  },
+  {
+   "headword": "canh tác",
+   "base": "c7fd8e607262f624",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cultivate; farm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xông pha",
+   "base": "39fcbdae76eca0eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to brave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lúc ấy chỉ đành xông pha gió tuyết qua thôn Hồng Mai cách đó năm dặm mua rượu,[…]",
+     "en": "He then had no choice but to brave wind and snow and go to Hóngméi Village five leagues away to buy rice wine, […]"
+    }
+   ]
+  },
+  {
+   "headword": "thương tật",
+   "base": "06acab451af5edf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "injury; wound"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ông xã",
+   "base": "ef871c7ac62c486c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "humorous",
+      "sometimes"
+     ],
+     "gloss": "An intimate form of address for one's husband."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lây truyền",
+   "base": "7ffa5b9bb67973b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transmit (disease); to spread"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quái xế",
+   "base": "5f860aff220b2748",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "sarcastic"
+     ],
+     "gloss": "a reckless driver"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trí lực",
+   "base": "f011541f9f5ce98c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intellect; mental ability; mindpower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cáo phó",
+   "base": "e72ce86efb0d098d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an obituary"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to announce a death"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khởi công",
+   "base": "c581a2888d519fb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break ground; to start building; to initiate construction (especially of a large engineering project)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngọ",
+   "base": "ade0eb7bd289ae1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "noon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiến thân",
+   "base": "2ca8cd46e63a1d2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to devote oneself to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sacrifice one's life to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đãi ngộ",
+   "base": "7eba043f93787f9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compensate, to remunerate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cưỡng dâm",
+   "base": "99d814558f3f7761",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rape"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thỉnh giáo",
+   "base": "bee087d8d25e13a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ask for advice; to consult"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bao hàm",
+   "base": "989e2eb2624a7207",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to include; to contain; to encompass"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to imply; to connote"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự bao hàm",
+     "en": "containment"
+    }
+   ]
+  },
+  {
+   "headword": "thành thục",
+   "base": "5cc3a355d36a1bdb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mature"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "proficient; well-trained (in a particular field)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thành thục về tính ở động vật",
+     "en": "sexual maturity in animals"
+    }
+   ]
+  },
+  {
+   "headword": "lửng",
+   "base": "3e538fd1683e8479",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "badger"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not absolute, definitive, conclusive or well-defined, especially in terms of length, height or completeness of ideas or thoughts; in-between; medium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "quần lửng",
+     "en": "capri pants"
+    },
+    {
+     "sense": 2,
+     "vi": "tầng lửng",
+     "en": "a full-fledged mezzanine"
+    },
+    {
+     "sense": 2,
+     "vi": "gác lửng",
+     "en": "a platform that serves as a mezzanine in a small flat"
+    },
+    {
+     "sense": 2,
+     "vi": "bỏ lửng",
+     "en": "to leave an idea, especially a literary ending, inconclusive or unfinished"
+    },
+    {
+     "sense": 2,
+     "vi": "lấp lửng",
+     "en": "to equivocate"
+    }
+   ]
+  },
+  {
+   "headword": "trót lọt",
+   "base": "19910594dbcd1196",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "without difficulty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một lần đột ấp trót lọt về, là một lần tải nặng đường sữa, mì cua, bánh tráng, thịt hộp, thuốc rê… có thể một bán đội xài lai rai cả tuần.",
+     "en": "Every time they returned from a smooth raid on a hamlet, they were loaded with sugar, milk, crab noodles, rice paper, potted meat, homemade tobacco, and so on, enough to provide a half-team for an entire week if they used it up slowly."
+    }
+   ]
+  },
+  {
+   "headword": "bổng lộc",
+   "base": "f2efa1dc94b37ce9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "perquisite; bonus; benefits"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại tiện",
+   "base": "fde5d7747dcf3db3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to defecate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "héc",
+   "base": "e69392b361b12957",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hertz (the derived unit of frequency)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hectare"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cọt kẹt",
+   "base": "4cad7960a2fae75e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grinding, creaky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu giữ",
+   "base": "337c7d684cef7ade",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seize; to confiscate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình nguyên",
+   "base": "6693c654036cd21e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "plain (flat country)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tá túc",
+   "base": "f66af129278f8c8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "polite"
+     ],
+     "gloss": "to stay overnight"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stay temporarily at someone's place"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xin tá túc một đêm",
+     "en": "to ask to be put up for one night"
+    },
+    {
+     "sense": 1,
+     "vi": "tá túc ở nhà một người bạn",
+     "en": "to sleep overnight at a friend's house"
+    }
+   ]
+  },
+  {
+   "headword": "kí tự",
+   "base": "b958990233a9d005",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "character (written or printed symbol)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "character (basic element making up a text file or string)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glyph (visual representation of a letter, character, or symbol)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bari",
+   "base": "d8360805a5b131c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cam thảo",
+   "base": "5729f3e9a845b0b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "licorice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "côi",
+   "base": "d8625c2c6a440aac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "orphaned, abandoned"
+    },
+    {
+     "position": 2,
+     "pos": "prep",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "on; above"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "để côi trốc",
+     "en": "to put (something) on one's head"
+    }
+   ]
+  },
+  {
+   "headword": "măng",
+   "base": "79d87f099a55c35f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo shoot"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very young; juvenile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thồi",
+   "base": "b4f735f83538cc6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "table (in an inn)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lại qua nửa giờ, thức ăn đã bày đầy hai thồi.",
+     "en": "Half an hour later again, two tables were covered with dishes."
+    }
+   ]
+  },
+  {
+   "headword": "giập",
+   "base": "6fc3edc81f1e3c7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be bruised"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cốt nhục",
+   "base": "2657c847001a03fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "one's own flesh and blood, a blood relative"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mờ mịt",
+   "base": "b27db9fedc5d4d0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "obscure; dim"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "gloomy; uncertain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rốt",
+   "base": "5078786497b246cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "last"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quân chủ",
+   "base": "8cde0952d52be348",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monarch"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "monarchic, monarchical, pertaining to monarchy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "2022, Mộc Miên (T/H), 3 vị quân vương trị vì lâu nhất trong lịch sử (Three Longest-Reigning Monarchs in History)\" Phụ Nữ Mới (New Women)",
+     "en": "Until now, she has been ruling the United Kingdom for 70 years and over 4 months, longer than any other monarch’s in that country's history."
+    }
+   ]
+  },
+  {
+   "headword": "lập công",
+   "base": "ac0642cddf13dafe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to socially contribute with something significant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây xanh",
+   "base": "360c3cd7d578d130",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "green plants, plants planted for a green environment in cities and the like"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lê thê",
+   "base": "ef90543d21d19082",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lengthy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bài nói dài lê thê",
+     "en": "a lengthy speech"
+    }
+   ]
+  },
+  {
+   "headword": "phương hại",
+   "base": "61bdbf6dfec0c819",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to harm; to damage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đánh rắm",
+   "base": "bcfff05893747c72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fart, to break wind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lưu hành",
+   "base": "f8ecec190092db93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to circulate; to flow through"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lưu hành loại tiền mới",
+     "en": "to circulate a new type of money"
+    }
+   ]
+  },
+  {
+   "headword": "dộng",
+   "base": "2182a5039f16100a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bang, to bump, to batter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phong lưu",
+   "base": "2ac9c54f7e9f8869",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "refined-mannered; elegant; smart"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "comfortably off; well-to-do"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "amorous; frivolous; licentious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quốc tang",
+   "base": "1ceeda26050d1386",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "state funeral; state obsequies; national mourning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "can ngăn",
+   "base": "d67d7da59c65a4b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dissuade; deter; discourage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạch",
+   "base": "694bd0318b38f73c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of a light cracking sound, typically from a small explosion"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "unsuccessful; failed"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "Internet",
+      "slang"
+     ],
+     "gloss": "to die"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Pháo nổ đánh tạch một cái.",
+     "en": "The firecrackers let out a crack."
+    },
+    {
+     "sense": 2,
+     "vi": "Thi học kì tạch rồi.",
+     "en": "I flunked my end-of-semester test."
+    }
+   ]
+  },
+  {
+   "headword": "an lạc",
+   "base": "35b52c7294629bde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "peaceful and content"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trấn thủ",
+   "base": "c7de335d0403c25a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to guard (a vulnerable region)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo Thiên Chúa",
+   "base": "1ed83c9ba04887f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Catholicism"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "Christianity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại cục",
+   "base": "246506cf2ca5b128",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "big picture"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai bên đồng ý tiếp tục với tinh thần lấy đại cục làm trọng, thông cảm và nhân nhượng lẫn nhau [...].",
+     "en": "The two parties have agreed in mind to put further gravity on the big picture, such as mutual comprehension and relinquishment."
+    }
+   ]
+  },
+  {
+   "headword": "ới",
+   "base": "7c0cda71156320bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "exclamation of complaint or warning"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "[…] từ giọng người ới lên một tiếng rồi bặt, dư âm còn thâm u trên các ngọn cây,[…]",
+     "en": "[…] from a voice giving a call and then going silent, its resound dark and lonely on the treetops, […]"
+    }
+   ]
+  },
+  {
+   "headword": "khởi nghĩa",
+   "base": "0ca4dd00bfb1edf1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "revolt; rebellion; uprising"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "toàn cục",
+   "base": "85d3d92915704b78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "overall situation; whole picture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rách rưới",
+   "base": "e2bcce970d069b9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ragged; tattered"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đốc",
+   "base": "20a51a9ed254ea93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "headmaster, chief, doctor"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "prod, urge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "luận tội",
+   "base": "1f4821e6966d6589",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to judge, to assess, to weigh the crime(s) of an individual"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to impeach (to bring a legal proceeding against a public official)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vậy ông tự luận tội vợ chồng ông coi đáng xử cỡ nào thì vừa ?",
+     "en": null
+    },
+    {
+     "sense": 2,
+     "vi": "việc luận tội",
+     "en": "impeachment"
+    },
+    {
+     "sense": 2,
+     "vi": "cuộc luận tội",
+     "en": "impeachment"
+    }
+   ]
+  },
+  {
+   "headword": "tâm chấn",
+   "base": "091ac2a5a4c4f95e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "epicentre"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lấp ló",
+   "base": "6efd806271c22204",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flicker; to glimmer; to scintillate; to appear and disappear intermittently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình phương",
+   "base": "55521e36b2357d8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "square"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "squared"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hiệu các bình phương của hai số bằng tích tổng và hiệu của hai số đó",
+     "en": "The difference of the squares of two numbers is the product of their sum and their difference."
+    },
+    {
+     "sense": 2,
+     "vi": "Two squared equals four",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "ngoặt",
+   "base": "ac9a1357097e6064",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn (something) suddenly in another direction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệ rạc",
+   "base": "7f7818b8dc277a68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slovenly; untidy; messy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bứt rứt",
+   "base": "00814a954988cf35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uneasy; restless; fidgety; bothered; troubled; worried"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Rất nhiều người gọi điện đến kể rằng khi đột ngột bỏ thuốc lá thì tăng huyết áp, ho đờm, cơ thể mệt mỏi, bứt rứt, phải hút trở lại.",
+     "en": "Many people call to say that when they suddenly give up smoking, they experience an increased blood pressure, a productive cough, feelings of lethargy, restlessness, and a desire to resume smoking."
+    }
+   ]
+  },
+  {
+   "headword": "chi đội",
+   "base": "8b4e9bd3cf59940f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the smallest body that makes up Đội and consists of a class of grade school or middle school student members"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a small detachment equivalent to a tiểu đoàn (“battalion”) or a trung đoàn (“regiment”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "manh",
+   "base": "0be258b2dc45038d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "Used to make the infringement of a game's rule known to some so-claimed player."
+    },
+    {
+     "position": 2,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "a thin cloth; a rag of; a piece of"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tattered; ragged; frail"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Manh!",
+     "en": "Dude, that's a foul."
+    }
+   ]
+  },
+  {
+   "headword": "khấm khá",
+   "base": "ca460b4ac4b96836",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "so-so, more than average"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bài tiết",
+   "base": "e59ba60bf18d1185",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "excretion (The process of removing or ejecting material that has no further utility)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to excrete"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sổ mũi",
+   "base": "d9a4aff1fc69db5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a runny nose; to catch the sniffles"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

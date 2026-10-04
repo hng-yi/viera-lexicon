@@ -1,0 +1,1540 @@
+{
+ "batch": "0165",
+ "entries": [
+  {
+   "headword": "chán ngán",
+   "base": "2502356a4669242a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "embittered; irritated; weary"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be sick and tired (of); fed up (with)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đông nghẹt",
+   "base": "cc9a2bf4dadba9ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be overcrowded; to be packed with"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoẻo",
+   "base": "acd01d0e6fdfee70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "to die, to kick the bucket"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] khóc cho một trái tim đã chết ngoẻo cù nèo.",
+     "en": "[…] grieving for a heart that had kicked the bucket and thank you very much."
+    }
+   ]
+  },
+  {
+   "headword": "tư chất",
+   "base": "ad0f8823a4ef03ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aptitude; intelligence; intellect"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "character; nature; temperament (especially of a person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hút hồn",
+   "base": "e8943004f4959dd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "mesmerizingly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đẹp hút hồn",
+     "en": "mesmerizingly beautiful"
+    }
+   ]
+  },
+  {
+   "headword": "li ti",
+   "base": "e04dfffef17d3b35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tiny; very small"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc cách",
+   "base": "79e8140ed99281dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "eligible for special treatment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xin đặc cách miễn học phí",
+     "en": "to request for special tuition exemption"
+    },
+    {
+     "sense": 1,
+     "vi": "Nó được đặc cách, không phải đóng học phí.",
+     "en": "She was exempted from tuition."
+    }
+   ]
+  },
+  {
+   "headword": "dan díu",
+   "base": "fa128f529b0bc2af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to have a love relationship; to be in love with each other"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have an affair with; to have an illicit love affair with"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư sinh",
+   "base": "e2e342245de95fa8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a male student who studied Chinese characters and scriptures and who was typically poor and frail"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "attractively pale and slender like the stereotypical image of a Sinology student of old"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "dáng/tướng thư sinh",
+     "en": "the gait of a slender guy"
+    },
+    {
+     "sense": 2,
+     "vi": "Lúc đầu tôi tham gia công việc đồng áng với gia đình. Bà con thấy tôi da trắng và thư sinh quá. Tôi trầm mình trong nước bùn và dưới ánh nắng thấy da mình rám nắng như màu bánh mật, tôi mừng. Nhưng mấy hôm sau, da tróc từng mảng. Trắng lại hoàn trắng.",
+     "en": "At first I took part in paddy work with my family. Our townsfolk said I was too pale and slender. After submerging in wet mud, my skin went tanned like honey in the sun and I was delighted. But days later, it peeled bit by bit. Pale had I been, pale was I back."
+    },
+    {
+     "sense": 2,
+     "vi": "Tài khoản Bùi Hồng Nhung nhận xét: “Ôi thầy da trắng, trông thư sinh quá”. Nguyễn Lan Linh đồng tình, nam giáo viên có gương mặt điển trai và phong cách trẻ trung như Hàn Quốc.",
+     "en": "User Bùi Hồng Nhung commented, “He’s so pale and proper slender.” Nguyễn Quang Linh agreed, said this teach had that handsome and stylish Korean vibe."
+    },
+    {
+     "sense": 2,
+     "vi": "Trần Lực tâm sự, anh đến với điện ảnh hoàn toàn là duyên nghiệp: “Năm ấy, tôi đi học về sân khấu ở Liên Xô mới về nước. Tôi đến đoàn làm phim cùng bạn bè, nhưng ở đó, người ta thấy tôi trắng trẻo quá, thư sinh quá, cứ mời đi đóng phim. Rồi sau đó, những lời mời cứ đến liên tục…”.",
+     "en": "Trần Lực recounted how completely accidental his film career was, “Back then, I’d just come back from theater school in the Soviet Union. I went to a film set with my friends, but the folks there told me I was pale and slender and kept asking me to act. And then offers just kept coming…”"
+    }
+   ]
+  },
+  {
+   "headword": "nông nô",
+   "base": "818b78c847fcf4c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a serf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bươm",
+   "base": "111efeb16febe00a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in tatters"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xé bươm",
+     "en": "to shred"
+    },
+    {
+     "sense": 1,
+     "vi": "rách bươm",
+     "en": "tattered"
+    },
+    {
+     "sense": 1,
+     "vi": "nát bươm",
+     "en": "smashed"
+    },
+    {
+     "sense": 1,
+     "vi": "[…] ngực áo rách bươm để hở ra một khoảng da thịt trắng nhấp nhoá.",
+     "en": "[…] and the chest of her shirt tattered, revealing a flash of white skin."
+    }
+   ]
+  },
+  {
+   "headword": "máy chữ",
+   "base": "a1cc238a80dd2f41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "typewriter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đa thê",
+   "base": "be3dbd76f69b0f4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "polygynous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "polygamous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phố xá",
+   "base": "2791760e68dab360",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "streets"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phố xá đông vui",
+     "en": "lively streets"
+    }
+   ]
+  },
+  {
+   "headword": "đọi",
+   "base": "78fa74b391b2dab2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "bowl (from which rice is typically eaten)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ăn không nên đọi, nói chẳng nên lời",
+     "en": "terribly incompetent"
+    }
+   ]
+  },
+  {
+   "headword": "bích chương",
+   "base": "6641a758cd4cfee8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a poster"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tây phương",
+   "base": "6685cff997684214",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Western; Occidental"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "văn minh Tây phương",
+     "en": "Western civilization"
+    },
+    {
+     "sense": 1,
+     "vi": "người Tây phương",
+     "en": "a Westerner"
+    },
+    {
+     "sense": 1,
+     "vi": "Tây phương hoá",
+     "en": "to westernize"
+    },
+    {
+     "sense": 1,
+     "vi": "Tây phương cực lạc",
+     "en": "Western Paradise"
+    }
+   ]
+  },
+  {
+   "headword": "chứng nhân",
+   "base": "8c0766bbc2b56570",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "witness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung nữ",
+   "base": "1028f2cc7bce451f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "imperial maid; palace maid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trò trống",
+   "base": "247180e5896f04c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "achievement, feat"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vả lại, mẹ thường bảo chúng tôi rằng: “[…] Con cái mà cứ nhong nhóng ăn bám vào bố mẹ thì chỉ sinh ra tính ỷ lại, xấu lắm, rồi ra đời không làm nên trò trống gì đâu.”",
+     "en": "Besides, my mother used to tell her children, “[…] Children who are a burden to their parents develop parasitic habits and will grow up into ne’er-do-wells.”"
+    }
+   ]
+  },
+  {
+   "headword": "thặng dư",
+   "base": "b3daf4e4b9134184",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Marxism",
+      "formal"
+     ],
+     "gloss": "surplus"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giá trị thặng dư",
+     "en": "surplus value"
+    }
+   ]
+  },
+  {
+   "headword": "thừ",
+   "base": "1bb63f31c50ae968",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "feeling faint with exhaustion; dumbed with sadness; nonplussed; stupefied"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gâu",
+   "base": "1c0c5136582666e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "bark; ruff; arf; woof; au au; bow-wow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quá cảnh",
+   "base": "12757d1085fc21d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transit; pass across; pass through"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "transit"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in transit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bên cạnh đó nếu bạn quá cảnh ở những địa điểm...",
+     "en": "Besides, if you are transiting at locations..."
+    },
+    {
+     "sense": 2,
+     "vi": "Thị thực quá cảnh",
+     "en": "Transit visa"
+    },
+    {
+     "sense": 3,
+     "vi": "Hàng bị chậm lại trong khi quá cảnh",
+     "en": "Goods delayed in transit"
+    }
+   ]
+  },
+  {
+   "headword": "mẫu mã",
+   "base": "8009859ab054b04e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "model, outward appearance of goods"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bạn mua hàng vì điều gì, sản phẩm chất lượng, mẫu mã đẹp, giá rẻ, hàng thiết kế, hàng độc hay chỉ vì free ship.",
+     "en": "What makes you buy goods? High quality, beautiful model, low price, designer goods, unique goods, or just no delivery fee?"
+    }
+   ]
+  },
+  {
+   "headword": "diễm phúc",
+   "base": "5824e13f26dc06cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "felicity; bliss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lao lực",
+   "base": "35490483f1440855",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make physical exertions"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cay nghiệt",
+   "base": "54bc9727761fbc9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "severe; harsh"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cruel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sung mãn",
+   "base": "1d2cffdcc9192114",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "abundant; plentiful; full"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uy nghi",
+   "base": "8bbf1b6290a71a82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "majestic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "háo sắc",
+   "base": "3fa5f251ad788bea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to be lecherous, to be lustful for women"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đệ tam",
+   "base": "a7c6bd7e36979b33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "third"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đệ tam Cộng hoà Pháp",
+     "en": "Third French Republic"
+    },
+    {
+     "sense": 1,
+     "vi": "Đệ tam Đế chế Đức",
+     "en": "Third Reich"
+    }
+   ]
+  },
+  {
+   "headword": "Sở Khanh",
+   "base": "575de09520dfd899",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cheating male lover; a man who cheats on women"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pertaining to the kind of treatment that is to cheat on a woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng cha đó chuyên bắt cá hai tay. Hắn đúng là thằng Sở Khanh.",
+     "en": "That guy is always two-timing. He's such a cheater."
+    }
+   ]
+  },
+  {
+   "headword": "tâm thất",
+   "base": "079e0ce985fb9a75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ventricle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tâm thất phải/trái",
+     "en": "the right/left ventricle"
+    }
+   ]
+  },
+  {
+   "headword": "kim hoàn",
+   "base": "e53aeacde306d921",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "silver and gold jewellery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phát giác",
+   "base": "33d740a314ab85f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discover (something illicit)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu chúng ta để y phát giác, chỉ sợ y muốn giết người bịt miệng, hai anh em chúng ta chắc chắn không phải là địch thủ.",
+     "en": "If we let him discover us, I'm afraid he'll want to kill us to silence us; the two of us certainly are no match to him."
+    }
+   ]
+  },
+  {
+   "headword": "điện áp",
+   "base": "f04ddadc0a08dbf3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electric pressure; voltage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiển hiện",
+   "base": "cc37cc49c8857462",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appear in clear vision; to appear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày ngày",
+   "base": "9acb5cd746f50469",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "every day"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mướp tây",
+   "base": "f907922294d94845",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "okra, Abelmoschus esculentus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất hợp tác",
+   "base": "3580c888a6d5c625",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "uncooperative"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to be uncooperative"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "noncooperation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hờ hững",
+   "base": "4e215ede251e8597",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lukewarm, unenthusiastic, uninterested"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tác hợp",
+   "base": "0cc71d8b06e0edf0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring (a couple) together; to make a match"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây ăn trái",
+   "base": "b0f819c5724a6075",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "South",
+      "Southern"
+     ],
+     "gloss": "fruit tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "râm ran",
+   "base": "ca408678c5f6f384",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rumbling; resounding; reverberating"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "all over (the body)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kí lô",
+   "base": "bcc4d67d40ff60ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "kilogram"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tinh anh",
+   "base": "1362f27aa9f57d63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one's purest essence"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sharp-eyed and quick-witted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cồ",
+   "base": "5639ef1684bc867a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dialectal",
+      "obsolete"
+     ],
+     "gloss": "big, large, great, tall"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "obsolete"
+     ],
+     "gloss": "clumsy, doltish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thắng cồ",
+     "en": "Tall Thắng"
+    },
+    {
+     "sense": 2,
+     "vi": "lóng ngóng như gà cồ",
+     "en": "fumbling like a clumsy chicken"
+    }
+   ]
+  },
+  {
+   "headword": "sơ lược",
+   "base": "7b47c4039a0a2cd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very general; very vague; shallow; skipping the details; not thorough"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phản cách mạng",
+   "base": "77cd3c39ace63fff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "counterrevolution"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tả tơi",
+   "base": "bd814dde07c2b9ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "badly torn or beaten"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chịu phải một trận đòn tả tơi",
+     "en": "to get beaten the hard way"
+    }
+   ]
+  },
+  {
+   "headword": "chính sự",
+   "base": "c015403f564e9b62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "matters of state, politics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giả dược",
+   "base": "7b80ade487b6a1a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "placebo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông gia",
+   "base": "03654cf26e0a8ca2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parents of husband and wife; co-parents-in-law"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội thành",
+   "base": "66cc8f76c6c5aaae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "within the borders of a thành phố trực thuộc trung ương or a thành phố trực thuộc tỉnh"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gọi nội thành",
+     "en": "to make an in-city call"
+    }
+   ]
+  },
+  {
+   "headword": "nhơ bẩn",
+   "base": "f5004ef7d5b0e9b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "dirty; unclean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhập môn",
+   "base": "ee3d39f936c83cbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "introductory"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to officially become a student of a school or master"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sách nhập môn",
+     "en": "introductory book"
+    },
+    {
+     "sense": 1,
+     "vi": "nhập môn kinh tế học",
+     "en": "introduction to economics; economics 101"
+    }
+   ]
+  },
+  {
+   "headword": "đối đáp",
+   "base": "329509a77923e047",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reply; to respond to; to answer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dào",
+   "base": "7f9738979423190e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to surge"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "nah, expressed as a denial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quẩn",
+   "base": "aef87a272c0b605f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go round; to centre around something"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be in the way"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "muddleheaded; fuddled; at a loss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khuyển",
+   "base": "e824abaf353189cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "rare"
+     ],
+     "gloss": "dog"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con khuyển nhà bác béo quá, có thể riềng mẻ được rồi.",
+     "en": "Your pupper has gotten so fat it's ready for a pot of galangal and fermented rice [to cook]."
+    }
+   ]
+  },
+  {
+   "headword": "biến loạn",
+   "base": "b73e680c629ea636",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "disturbance; turmoil; revolt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tăng động",
+   "base": "97e60a2251b49262",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hyperactive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bù trừ",
+   "base": "33ba1d581c4851a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "balance; offset"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "clearing; clearance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "địa chủ",
+   "base": "d6e777decde96ae9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "landlord of agricultural land or plantations"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyển ngữ",
+   "base": "4c0fe24be3cd97ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "medium of instruction"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "proscribed"
+     ],
+     "gloss": "to translate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bánh ngọt",
+   "base": "486f6797b749d705",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cake; a gateau"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hổ lốn",
+   "base": "0c518d2094afde5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "potpourri"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] tiếng Việt cổ là một thứ hẩu lốn được hình thành bởi: tiếng Môn-Khơme, Tày, Thái, Malayo-polinésien, Tạng-Miến (tr.151).",
+     "en": "[…] ancient Vietnamese is some kind of a potpourri made up from Mon–Khmer, Tay, Thai, Malayo–Polynesian, and Tibeto–Burman (p. 151)."
+    }
+   ]
+  },
+  {
+   "headword": "xìu",
+   "base": "4ed815e7b18bc353",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deflated"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "demotivated; down"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xìu bánh",
+     "en": "(of a wheel) to be deflated"
+    },
+    {
+     "sense": 2,
+     "vi": "Mặt đừng có xìu vậy chứ!",
+     "en": "Man, don't you be so down."
+    }
+   ]
+  },
+  {
+   "headword": "muôn thuở",
+   "base": "d6c94386399376fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "everlasting"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiếng thơm muôn thuở",
+     "en": "everlasting fame"
+    }
+   ]
+  },
+  {
+   "headword": "tình địch",
+   "base": "170736ebd8792510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a romantic rival; enemy lover; opponent in the affairs of love"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ảo mộng",
+   "base": "aba87f9a00d0563c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a magical dream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an unrealistic dream"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dung lượng",
+   "base": "fdfd6c2c999da61a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "capacity; space (of storage)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the storage capacity of a drive"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "file size"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tình yêu có thật hay không là tùy thuộc vào sức mạnh và dung lượng trái tim của mỗi người.",
+     "en": "Whether love is real or not depends on the strength and capacity of each person's heart."
+    }
+   ]
+  },
+  {
+   "headword": "ngổn ngang",
+   "base": "53e06b4920f78fde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disorderly; in disarray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quĩ",
+   "base": "3da5d3ad6dcc2c36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fund; treasury; bank"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gây quĩ",
+     "en": "to raise funds; fundraising"
+    },
+    {
+     "sense": 1,
+     "vi": "quĩ tiết kiệm",
+     "en": "savings bank"
+    }
+   ]
+  },
+  {
+   "headword": "nham",
+   "base": "3cb9f95097a2b225",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rock"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of salad made from shredded banana blossoms mixed with boiled pork skin and toasted sesame seeds"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "rough; ragged; uneven"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Khi chế biến nham, người đầu bếp sẽ tách vỏ trám, lấy cùi rồi thái nhỏ.",
+     "en": "When preparing nham, the chef will peel the black olives, remove the flesh, and finely chop it."
+    }
+   ]
+  },
+  {
+   "headword": "tuyệt sắc",
+   "base": "447e200f939d4887",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "of a perfect beauty; of nonpareil beauty; incredibly beautiful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính trường",
+   "base": "c57ccf809f7260af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political scene; political arena"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ná",
+   "base": "bc63ff1369d15dd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "synonym of nỏ (“crossbow”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "slingshot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gàu",
+   "base": "eef00cafb67e3fb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dandruff"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of bucket used to manually splash out water from a pond, or to get water up from a well"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trị gàu",
+     "en": "to treat dandruff"
+    }
+   ]
+  }
+ ]
+}

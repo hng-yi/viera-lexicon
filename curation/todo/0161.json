@@ -1,0 +1,1420 @@
+{
+ "batch": "0161",
+ "entries": [
+  {
+   "headword": "công chứng",
+   "base": "a0b8b88ac2759b3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to notarize; to certify (a document)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "notarized; certified"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hồ sơ yêu cầu bản sao hộ khẩu công chứng.",
+     "en": "Your profile must include a notarized copy of your hukou."
+    }
+   ]
+  },
+  {
+   "headword": "công ti",
+   "base": "dd0885a002dd25ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "company"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xì xào",
+   "base": "49a39d5d41e2ebdb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whisper, to buzz"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biệt tích",
+   "base": "7e8fc2b3bb48babc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "without leaving a trace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cải biến",
+   "base": "adcf131e5362712a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transform; to change"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xép",
+   "base": "c569b727f451f5de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "little haven"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "additional, extra"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính ủy",
+   "base": "eccc5ea60fc98ea8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of chính uỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lâm thời",
+   "base": "3fe582a5f5a793ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "provisional, temporary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếp giáp",
+   "base": "e1d41cd14cbe740c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be connected; to be adjacent to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai nhà tiếp giáp nhau.",
+     "en": "The two houses are next to each other."
+    }
+   ]
+  },
+  {
+   "headword": "bộ môn",
+   "base": "69d5c933974dbd48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subject; focus; specialization"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "genre"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "administrative unit at a university or college dedicated to one or more majors or subjects of study"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dân dụng",
+   "base": "b615d24d64cbe934",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "civilian; for civilian use; civil"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hàng không dân dụng",
+     "en": "civil aviation"
+    },
+    {
+     "sense": 1,
+     "vi": "kĩ sư dân dụng",
+     "en": "civil engineer"
+    }
+   ]
+  },
+  {
+   "headword": "ngụy tạo",
+   "base": "919ab5b66bed1b60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of nguỵ tạo."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truyền thanh",
+   "base": "a34e33adf6461b0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to broadcast"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "radio broadcasting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyết mạch",
+   "base": "247d52c256d16497",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crucial because it helps connect places and ensures fluid traffic between important areas, economy-wise or military-wise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng điệu",
+   "base": "1323688a0e904f80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "like-minded, in sync, on the same wavelength or on the same page"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "những tâm hồn đồng điệu",
+     "en": "like-minded souls"
+    }
+   ]
+  },
+  {
+   "headword": "cân não",
+   "base": "3cc13ead42d8d595",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a nerve"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the psyche; spirit"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "psychological; mental"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sớ",
+   "base": "ecb04cd42da23a59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "submission or appeal to the reigning monarch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại hồng thủy",
+   "base": "a3c3239e9470a28d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of đại hồng thuỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình ổn",
+   "base": "77fb05e9201971e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stabilize"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bình ổn giá",
+     "en": "price stabilization"
+    }
+   ]
+  },
+  {
+   "headword": "khác lạ",
+   "base": "a5b19f7ae47faa8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "extraordinary; unusual; uncommon; abnormal; different"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếm dụng",
+   "base": "e82864659df532a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to misappropriate; to embezzle; to take (wrongfully)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appropriate; to utilize; to take and use"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chiếm dụng văn hóa",
+     "en": "Cultural Appropriation; to appropriate culture"
+    }
+   ]
+  },
+  {
+   "headword": "thượng phong",
+   "base": "ac020b03429824bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "leading"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chiếm thế thượng phong",
+     "en": "having a leading position"
+    }
+   ]
+  },
+  {
+   "headword": "cầu viện",
+   "base": "c6faeb6cd5e495eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to request aid"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to seek reinforcements"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giảng đường",
+   "base": "f5907f34e4d471b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "auditorium, lecture hall"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bén mảng",
+   "base": "814b35aeee17c3fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to approach someone or somewhere, especially when you're not supposed to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tao mà thấy mày bén mảng đến gần con gái tao là cứ liệu hồn !",
+     "en": "If I see you anywhere near my little girl, you better watch your ass!"
+    }
+   ]
+  },
+  {
+   "headword": "hậu họa",
+   "base": "0dfc98c9297d7ad4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hậu hoạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bạo dạn",
+   "base": "463a3015edca93d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bold; daring"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lăng kính",
+   "base": "649ce15607042958",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a prism (block used to split or reflect light)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a lens; a perspective; a point of view"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Câu chuyện phản ánh hiện thực đời sống qua lăng kính hài hước.",
+     "en": "The story shows the reality of life through the lens of humor."
+    }
+   ]
+  },
+  {
+   "headword": "chiều chuộng",
+   "base": "826912067605f9da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pamper; to coddle; to please (out of love)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếng mẹ đẻ",
+   "base": "6875c63576abf431",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mother tongue; first language; native language; native tongue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu nhặt",
+   "base": "13f99bd98f3fbe47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to amass in small amounts; to accumulate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô bổ",
+   "base": "2560371d58cab67e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pointless, leading nowhere"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] hoặc để buộc thiền sinh phải ngưng ngay câu hỏi có tính lý thuyết vô bổ ấy.",
+     "en": "[…] or to force the student of meditation to immediately stop asking such pointless theoretical questions."
+    }
+   ]
+  },
+  {
+   "headword": "bát quái",
+   "base": "19556ef035385749",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bagua"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngơ",
+   "base": "1545d387fc883d4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ignore; overlook; let pass; connive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngơ cho kẻ lầm lỗi.",
+     "en": "Spare the wrongdoers."
+    }
+   ]
+  },
+  {
+   "headword": "lậm",
+   "base": "449a86641cb4052f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to indulge in, or to get fond of something/someone."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grow stuck."
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to become overactive."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tên đó lậm ả nào ở Huế rồi.",
+     "en": "That guy got fond of some gal in Hue."
+    },
+    {
+     "sense": 2,
+     "vi": "Không cẩn thận mà đinh lậm vô trong đó.",
+     "en": "Look out, or else the nail would be stuck inside."
+    },
+    {
+     "sense": 3,
+     "vi": "Hắn đợt này lậm lắm, học nhiều quá mà.",
+     "en": "The student became overactive lately, due to his unscientific learning."
+    }
+   ]
+  },
+  {
+   "headword": "mang máng",
+   "base": "f599f5b31c4ac2ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "vaguely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi nhớ mang máng...",
+     "en": "I vaguely remember that..."
+    }
+   ]
+  },
+  {
+   "headword": "giận hờn",
+   "base": "3f75a190005a3924",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold a grudge (against); to sulk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phác",
+   "base": "46a6d67e99ad3b98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sketch; to outline"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tằn tiện",
+   "base": "481544ae74e21d58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "frugal; thrifty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sống tằn tiện qua ngày",
+     "en": "to scrape by spending the minimum"
+    }
+   ]
+  },
+  {
+   "headword": "ỉn",
+   "base": "897e55297766280a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "humorous"
+     ],
+     "gloss": "pig"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dăm ba",
+   "base": "6afb4ac7a108fd02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a few, often at least three"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vội gì ? Cứ chờ dăm/năm ba hôm nữa.",
+     "en": "Why the rush? Just wait a couple more days."
+    }
+   ]
+  },
+  {
+   "headword": "chét",
+   "base": "d4ffce7d41f2eff4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a handful"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "a flea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ứng cứu",
+   "base": "0014c09a9e143e9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rescue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xuyến",
+   "base": "732f540fed70c432",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "bracelet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trường ca",
+   "base": "86ed40a4e2ad3d15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of sử thi (“epic poem”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sục sạo",
+   "base": "258dd640b15dcdc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to search, to scour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tuần báo",
+   "base": "2afc3308bf268864",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weekly newspaper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lật đật",
+   "base": "98f1d0dfa0504a2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "ideophonic"
+     ],
+     "gloss": "hurried; in a hurry"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tumbler"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cửi",
+   "base": "2a561c695067a9c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to weave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dệt cửi",
+     "en": "to weave"
+    }
+   ]
+  },
+  {
+   "headword": "nhớ nhung",
+   "base": "86a68bb654cfcfa5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to miss (feel the absence of someone or something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mười bảy",
+   "base": "463ab30a8ba44d78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "seventeen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trau dồi",
+   "base": "01cc694ae51fd76a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to improve, cultivate, polish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thừa thãi",
+   "base": "47cce5d561b5f545",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "excessive; redundant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chấu",
+   "base": "7ad5564cbc15c70c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pin"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khối bê tông 4 chấu",
+     "en": "four-pin concrete block"
+    }
+   ]
+  },
+  {
+   "headword": "linh miêu",
+   "base": "45cb373d04aa12a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lynx"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lườm",
+   "base": "974cfe893d0c8f40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to glare at"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thạch cao",
+   "base": "1bd4153f4b7a5bbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plaster; gypsum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buột miệng",
+   "base": "61af1d9bea6dd7f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to blurt out; blab; to speak without thinking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng Cò buột miệng hỏi: – Cho sôi nước, cá sấu chạy lên bờ phải không chú?",
+     "en": "Cò unthinkingly asked, \"If you let the water boil, the crocodiles will run up the shore, won't they Mister?\""
+    }
+   ]
+  },
+  {
+   "headword": "nhuyễn",
+   "base": "31f3a00b465f325d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "kneaded or mashed into a fine mass"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smoothly textured"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thau",
+   "base": "b8106329ab1dbf09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brass"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "portable, circular wash basin, often made from metallic materials"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhật trình",
+   "base": "2413502e1812c21e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "log; logbook, journal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "synonym of nhật báo (“daily newspaper”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tố tụng",
+   "base": "9ad8ced669ae34ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to litigate; to file a lawsuit; to take legal action"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hổ phách",
+   "base": "3d4c89231e3d1bec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rau câu",
+   "base": "e8836f3d33a8a15b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Gracilaria"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "jelly (dessert)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thô bỉ",
+   "base": "c2d9a023dd9e640a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crass; vulgar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cựa",
+   "base": "a84513f2f1d6d397",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spur (of roosters)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stir; to move"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to disentangle; to extricate oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sình",
+   "base": "0904ca7189a77c7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "mud"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muddy place or area"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bloat; to swell"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "chết sình",
+     "en": "(of a corpse) to be bloating"
+    },
+    {
+     "sense": 3,
+     "vi": "sình bụng",
+     "en": "having bloated stomach"
+    }
+   ]
+  },
+  {
+   "headword": "câm họng",
+   "base": "006be1d5d81be1a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to bite one's tongue"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thế mình yếu quá, đành phải câm họng thôi chứ sao.",
+     "en": "Too weak to resist, I can only bite my tongue."
+    }
+   ]
+  },
+  {
+   "headword": "sùng",
+   "base": "9e65a3ee6e5cd800",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go crazy, to become extremely upset or angry"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "some insect of any kind, which can be edible or harmful"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to revere, to venerate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "sùng đất",
+     "en": "chafer beetle larvas"
+    },
+    {
+     "sense": 2,
+     "vi": "sùng hà",
+     "en": "bugs harmful to sweet potatoes"
+    }
+   ]
+  },
+  {
+   "headword": "sự vật",
+   "base": "9e2055222dd50216",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tangible thing, especially a physical object"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dùng who khi nói về người, dùng which khi nói về sự vật, sự việc.",
+     "en": "Use \"who\" for people, and \"which\" for things."
+    }
+   ]
+  },
+  {
+   "headword": "lang bạt",
+   "base": "1e18ae3a2a0852ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to live a wandering life; to wander"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nước sôi",
+   "base": "007e51f6fb9748b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see nước, sôi."
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "Southern",
+      "idiomatic"
+     ],
+     "gloss": "out of my way, coming through, make way"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bến xe",
+   "base": "652d1e71436ade00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a parking lot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị giác",
+   "base": "f8e060d95f872b9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "taste (one of the sensations produced by the tongue)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gan lì",
+   "base": "9b4b6bec90b36e6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fearless, intrepid"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đôi mắt màu xám tro gan lì ấy chưa từng bao giờ quắc lên với đồng đội.",
+     "en": "Those ash-grey and intrepid eyes had never yet scowled at a teammate."
+    }
+   ]
+  },
+  {
+   "headword": "cay độc",
+   "base": "7a0d8b940e282739",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cruel; malicious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất định",
+   "base": "9b458caf71bca1ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unstable; uncertain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hài nhi",
+   "base": "f45a8c62d1db4b14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "formal"
+     ],
+     "gloss": "a baby, especially newborn at their nursing age"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xi nhê",
+   "base": "ae789e4fd36da8e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "effective; workable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cái thằng đó cứng đầu lắm. Có đánh mấy cũng không xi nhê.",
+     "en": "He's so stubborn he won't budge even if you beat the shit out of him."
+    }
+   ]
+  },
+  {
+   "headword": "chắt",
+   "base": "bcbd35bcdb0b9527",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a great-grandchild"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sitting game using sticks and balls (similar to jacks)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drain; to pour; to decant"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

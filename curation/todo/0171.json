@@ -1,0 +1,1414 @@
+{
+ "batch": "0171",
+ "entries": [
+  {
+   "headword": "mứt cam",
+   "base": "7e1db69909bf3c4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "marmalade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô ưu",
+   "base": "2f4266572098d190",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of vô tư lự"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạp vụ",
+   "base": "102b7f453d05f918",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "odd jobs; sundry duties"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a janitor; a caretaker"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai cuộc",
+   "base": "ea40c7951145fb7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opening (of a match); beginning; start"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sư nương",
+   "base": "e96dca118105ca47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "one's teacher's wife"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bày biện",
+   "base": "4515286d6407002f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show off; to flaunt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lẽo đẽo",
+   "base": "c3f0d8d7d9dba9fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "follow closely"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to follow (another's route)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó lẽo đẽo đi theo tôi",
+     "en": "He follows me."
+    }
+   ]
+  },
+  {
+   "headword": "vô cơ",
+   "base": "e391d4d9e69e609f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inorganic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khúc xạ",
+   "base": "2a80a2d23e5336bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be refracted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hợp nhất",
+   "base": "0fc9364330603124",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to unite; to unify"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dự toán",
+   "base": "d740859d7b237e6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to calculate in advance"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "estimate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lông nheo",
+   "base": "6c2845b4afa7fc8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyelash"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bán buôn",
+   "base": "a42fd4d42992bb00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sell wholesale"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quỷ vương",
+   "base": "7c0925d5e4d442ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "king of ghosts"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mai mốt",
+   "base": "d27b9462b3525f94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "in the near future"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uất ức",
+   "base": "d8ae918aec9622fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be indignant; to writhe in; to grieve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêu vi",
+   "base": "61ab110d9c6a2c18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "virus (infectious organism)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "virus (type of malware)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quán xá",
+   "base": "10b3741b5bed02f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small shop; small restaurant (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậm đặc",
+   "base": "cde30c5b87939655",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "with high concentration"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "a-xít đậm đặc",
+     "en": "strong acid"
+    }
+   ]
+  },
+  {
+   "headword": "lương hưu",
+   "base": "aed002abeeffec9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pension"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cực lạc",
+   "base": "e9888f4e55b1b515",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sukhāvatī (Western Pure Land of Amitabha Buddha)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "nirvana; paradise; bliss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đói meo",
+   "base": "ee5b4530ef50e4ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very hungry; starving"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ẹ",
+   "base": "16ecfa6cb508ce4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "étui"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern",
+      "childish"
+     ],
+     "gloss": "dirty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngang ngược",
+   "base": "9ddfc678f893d2c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perverse; defiant; unruly; obstinate; recalcitrant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắt mạch",
+   "base": "c3d049054bab091d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel the pulse, to check the pulse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Qua một lúc, cảm thấy như có y sinh bắt mạch cho nàng, lại có người đổ thuốc cho.",
+     "en": "After a while, she felt like a doctor felt her pulse, and someone poured her medicine."
+    }
+   ]
+  },
+  {
+   "headword": "hờn dỗi",
+   "base": "0adcbdd5b29121d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sulk; to own a grudge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu xanh",
+   "base": "eb669d416a137a4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mung bean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyên án",
+   "base": "96eb05d151ad15e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "special case for investigation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đèn cầy",
+   "base": "97413657a4cca361",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "candle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "di chỉ",
+   "base": "a10600e8e7aff350",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a ruin; historical site"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Di chỉ khảo cổ",
+     "en": "Archeological ruins"
+    }
+   ]
+  },
+  {
+   "headword": "mã độc",
+   "base": "f10e205fbe2735c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "malware"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sở trưởng",
+   "base": "a957f8ebbcff0d0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the head of a 所 (suǒ, “department; institute”) in China"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phòng hộ",
+   "base": "644bbf3a12ef3b15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to protect; to defend"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "for defensive or protective purpose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "rừng phòng hộ",
+     "en": "protection forest"
+    }
+   ]
+  },
+  {
+   "headword": "trám",
+   "base": "3541c448c6907885",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "plants of the genus Canarium"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tri âm",
+   "base": "adde88b4e53b1a95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bosom friend"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có một người bạn tri âm bên cạnh âu cũng là phước lớn.",
+     "en": "Having a bosom friend by one's side is indeed a big fortune."
+    }
+   ]
+  },
+  {
+   "headword": "phờ",
+   "base": "b5db57d579cb36c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "looking tired and exhausted; drained of one's spirits and energy; haggard; weary"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mệt phờ",
+     "en": "dead tired"
+    },
+    {
+     "sense": 1,
+     "vi": "phờ người ra",
+     "en": "be sitting still looking out of one's mind"
+    }
+   ]
+  },
+  {
+   "headword": "khất",
+   "base": "dd20a290cbd2d20a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to delay, especially when it comes to paycheck"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh ngôn",
+   "base": "ac359a42ac49ae9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "famous saying, apophthegm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phe cánh",
+   "base": "4c57fa99cd169c35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "faction; sect; camp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuột bạch",
+   "base": "0f6913ade68373a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a white mouse, especially a white laboratory mouse"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a guinea pig; a lab rat (living experimental subject)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính cẩn",
+   "base": "a5710218fbb1f41c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "respectfully; solemnly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "respectful; solemn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uy",
+   "base": "d7cb1abd473765c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "majestic demeanor"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "power; influence; authority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên khí",
+   "base": "7eccfa9e1af476f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "traditional"
+     ],
+     "gloss": "vital energy, life force"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trên tấm bia Tiến sĩ đầu tiên dựng tại Văn Miếu Quốc Tử Giám ghi lại lịch sử khoa thi năm 1442 có khắc ghi những dòng chữ:“...Hiền tài là nguyên khí của quốc gia, nguyên khí thịnh thì thế nước mạnh mà hưng thịnh, nguyên khí suy thì thế nước yếu mà thấp hèn. Vì thế các bậc đế vương thánh minh không đời nào không coi việc giáo dục nhân tài, kén chọn kẻ sĩ, vun trồng nguyên khí quốc gia làm công việc cần thiết...”. Người soạn ra những câu nổi tiếng đó là Tiến sĩ triều Lê, Thân Nhân Trung.",
+     "en": "On the first Doctorate stele erected at the Temple of Literature, recording the history of the 1442 examination, the following lines are engraved: \"… Talented men are the life force of a nation. Should its life force wax, the nation prospers; should its life force wane, it crumbles. It follows that bright, sensible monarchs and rulers and sages of all kinds alike, no one, under no circumstances, would trifle with the monumentally vital task of educating the talented, sifting out the learned, cultivating the nation's life force. …\" Those famous lines were authored by Thân Nhân Trung, a doctor from the Lê dynasty."
+    },
+    {
+     "sense": 1,
+     "vi": "Trong sách Hải thượng y tông tâm lĩnh (tập 1) cho biết, nguyên Khí [sic] cũng là năng lượng để em bé khởi phát được việc ăn uống, hít thở sau khi chào đời. Nguyên Khí [sic] đầy đủ thì em bé ăn uống hấp thu tốt, hít thở nhẹ nhàng, phát triển bình thường. Nguyên Khí [sic] yếu kém thì cả việc ăn uống hay hít thở đều không đủ để nuôi dưỡng cơ thể.",
+     "en": "In Hải Thượng's Medical Creed (volume 1), it is said that life force is the energy that helps your baby perform ingestion and respiration after they come out of the womb. If they maintain a healthy amount of life force, they can ingest well, respire well, develop naturally. If their life force is somehow inadequate, they cannot perform the most basic bodily functions such as ingestion and respiration to sustain their own life."
+    }
+   ]
+  },
+  {
+   "headword": "khởi binh",
+   "base": "18aafe633990b6c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to raise an army; to train and organize soldiers"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to dispatch an army; to send troops"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cao hứng",
+   "base": "464c20a513e6e92e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "elated; excited"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lê dương",
+   "base": "6a5a4c57791d2023",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a legion"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical",
+      "specifically"
+     ],
+     "gloss": "the French foreign legion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lê dương La Mã",
+     "en": "Roman Legion"
+    }
+   ]
+  },
+  {
+   "headword": "lầm lỗi",
+   "base": "15ba53aa768a36b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of lỗi lầm (“mistake; error”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a mistake; to commit an error"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai tử",
+   "base": "eb593a755b69302c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to declare somebody's death"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stop producing or supporting an item, thereby marking its death"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giấy khai tử.",
+     "en": "A paper declaring death."
+    },
+    {
+     "sense": 2,
+     "vi": "Hãng Apple đã khai tử mẫu điện thoại Iphone 8.",
+     "en": "Apple has put an end to their Iphone 8 models."
+    }
+   ]
+  },
+  {
+   "headword": "dúi",
+   "base": "b0ca612b9e7dff01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo rat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stuff that which is substantial into something firmly"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to press and push somebody hard"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "headlong, headfirst"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Y vừa nói vừa bước tới bước lui, chợt sơ ý đạp lên vũng rượu cạnh Khưu Xử Cơ, huỵch một tiếng, ngã dúi vào người Khưu Xử Cơ.",
+     "en": "Speaking and going to and fro at the same time, suddenly he inadvertently stepped in the puddle of rice wine besides Qiū Chǔjī and with a thwack he fell head first into Qiū Chǔjī."
+    }
+   ]
+  },
+  {
+   "headword": "ngộ nghĩnh",
+   "base": "9ac17f1530c4962f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "uncommon; aberrant; abnormal"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cute; funny-looking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tới nơi tới chốn",
+   "base": "91cc4db522430ee2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "all the way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhưng nếu nói cái tri thức của kẻ học hiện thời đã là thiết thực, đã là tới nơi tới chốn thì tôi không tin.",
+     "en": "But to say that the knowledge of current learners is practical and thorough, I do not believe so."
+    }
+   ]
+  },
+  {
+   "headword": "điện thoại viên",
+   "base": "7312f471d585be85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a telephone operator"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạp",
+   "base": "9df54d27e96aa68d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "low quality; shoddy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cá tạp",
+     "en": "trash fish"
+    },
+    {
+     "sense": 1,
+     "vi": "gỗ tạp",
+     "en": "third-rate wood"
+    }
+   ]
+  },
+  {
+   "headword": "kì quan",
+   "base": "29e279d1b3853f24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wonder; a place of magnificent scenery or outstanding architecture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "túng",
+   "base": "2d85a6ceb72676ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lacking (esp. money); short of cash; hard up; penniless; moneyless; broke"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perplexed; encountering difficulties; in a deadlock or impasse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thanh thiên bạch nhật",
+   "base": "262d483775a90776",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "broad daylight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng khốn làm trò đồi bại giữa thanh thiên bạch nhật.",
+     "en": "That degenerate did some degrading shit in broad daylight."
+    }
+   ]
+  },
+  {
+   "headword": "nguyên trạng",
+   "base": "b26a184222076d03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "original state"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bút tích",
+   "base": "b251711d22afd3df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "autograph manuscripts; handwritten notes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhón",
+   "base": "fe0b9517874a9e11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick up with one's fingertips, pinch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to pinch, swipe, nick"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stand on tiptoe, tiptoe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tử chiến",
+   "base": "02cbc59cc6391b05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight to the death"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fight to the death"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê ẩm",
+   "base": "b73db7a08f710da0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dully painful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không dám chợp mắt dẫu đầu óc ê ẩm, thân thể mỏi nhừ.",
+     "en": "He did not dare nod off, even though his head hurt in a dull way and his body was exhausted."
+    }
+   ]
+  },
+  {
+   "headword": "sa trường",
+   "base": "61d954a6de3b776d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a battlefield"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nây",
+   "base": "194e78a8dfa4db6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "belly meat"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pork belly"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chubby, chunky"
+    },
+    {
+     "position": 4,
+     "pos": "det",
+     "tags": [],
+     "gloss": "this"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sản phụ",
+   "base": "7b51469a82526f31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "either a pregnant woman or a woman who has just given birth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tấp nập",
+   "base": "6753099cc3f043d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in great number; in crowds"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hắt hủi",
+   "base": "5004ae764fc08f47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat badly; to neglect; to spurn; to reject"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mưa rào",
+   "base": "b96a9f166196c94f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heavy shower; downpour; cloudburst"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đối nội",
+   "base": "73ebca24809f6961",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deal with internal affairs; (attributive) domestic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồng bềnh",
+   "base": "b5448708102a20ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bob, to wave, to gently move up and down due to a movement of water or wind"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người ngồi mũi trẻ hơn, đôi vai rộng, có mái tóc bồng bềnh trước gió sớm và nước da hơi mét.",
+     "en": "The person sitting on the prow was younger, his shoulders broad, his hear waving in the early-morning wind, and his complexion slightly pale."
+    }
+   ]
+  },
+  {
+   "headword": "nuông",
+   "base": "0a96656715ae8fa4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to indulge; to pamper; to spoil; to coddle excessively (especially a child or a pet)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành danh",
+   "base": "dbfdbaa5c7e6d959",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to become a prestigious person"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không thành danh quyết không từ bỏ.",
+     "en": "If I weren't to be a noble man, I shall not turn my back."
+    }
+   ]
+  },
+  {
+   "headword": "bủn",
+   "base": "5b7167e2e6c81dbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "decayed; deteriorated; ruined"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crushed; crumbling; crumbly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hảo hán",
+   "base": "dc8cc53210518132",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brave man, courageous man, hero"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hảo hán ở đời đâu phải mỗi nam nhi. Phận nữ nhi tuy không thể đầu đội trời chân đạp đất, đi khắp bát hoang tứ hải, song cũng có những lúc ước muốn giá đây đổi phận làm trai được.",
+     "en": "Not all heroes of this world are men. The ladies, despite lacking formidable strength and being unable to travel far and wide, sometimes wish they could become men just for once."
+    }
+   ]
+  },
+  {
+   "headword": "từ giã",
+   "base": "7cf6fd190dcf04a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to bid farewell; to take one's leave from"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngọc từ giã Lan rồi lững thững đi xuống chân đồi.",
+     "en": "Ngoc said goodbye to Lan and then walked slowly down the hill."
+    }
+   ]
+  },
+  {
+   "headword": "tạm ứng",
+   "base": "557fcb640140bc4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to advance money provisionally"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mốc meo",
+   "base": "45035a643f511dd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "moldy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòng đời",
+   "base": "83b3819619967ccc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a life cycle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giới chức",
+   "base": "e15d00f62f97a4e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "authorities; officials"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giới chức quân sự",
+     "en": "military officials"
+    },
+    {
+     "sense": 1,
+     "vi": "giới chức Mĩ",
+     "en": "US officials"
+    }
+   ]
+  },
+  {
+   "headword": "suy dinh dưỡng",
+   "base": "a17741fb60687046",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "malnourished"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "băng tần",
+   "base": "2c883a1cb6cc7bf6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "frequency band"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

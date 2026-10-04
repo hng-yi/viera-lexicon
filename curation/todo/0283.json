@@ -1,0 +1,1286 @@
+{
+ "batch": "0283",
+ "entries": [
+  {
+   "headword": "nghịch đảo",
+   "base": "0aad79125fbf24ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inverse, reciprocal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "multiplicative"
+     ],
+     "gloss": "inverse, reciprocal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghịt",
+   "base": "cbb36e13a2f4676f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tightly packed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoe nguẩy",
+   "base": "10ea7149f679aa81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bend back and forth gently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoi ngóp",
+   "base": "f8c1c718e38d8870",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make great efforts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nhưng đêm qua, ông già Sáu Đèo lại trợt chân. / Ông còn ngồi loay quay ngoi ngóp dưới sân bèo thì vừa lúc Phi về, anh hỏi, trời đất, làm gì ngồi đây.",
+     "en": "[…] but last night, Mr Sáu Đèo slipped again. / He was still sitting there, struggling and floundering in the duckweed-covered yard when Phi returned and asked, \"Heaven and earth, why are you sitting here?\""
+    }
+   ]
+  },
+  {
+   "headword": "ngoài cuộc",
+   "base": "380d17c46a1917f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "outside"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người ngoài cuộc",
+     "en": "outsider"
+    }
+   ]
+  },
+  {
+   "headword": "ngoài cùng",
+   "base": "2c313df24ebc5bd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "outermost"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong hình có tôi (ngoài cùng bên trái) với chồng (thứ hai từ bên phải).",
+     "en": "In the picture one sees me (leftmost) and my husband (second from right)."
+    }
+   ]
+  },
+  {
+   "headword": "ngoài giá thú",
+   "base": "dc4ceab3f6c2283f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "illegitimate"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "illegitimately; out of wedlock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoài nội",
+   "base": "9c51d421178099cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "wilderness, grasslands"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "wild"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoáo ộp",
+   "base": "ab24c70bf4a9897c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bugaboo, bugbear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoé",
+   "base": "fe1108899a634b4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small frog"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoém",
+   "base": "8667923fbe3d5153",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "To wolf down, consume food quickly."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi đã ngoém bánh mì thịt nguội.",
+     "en": "I wolfed down a ham sandwich."
+    }
+   ]
+  },
+  {
+   "headword": "ngoại giao bẫy nợ",
+   "base": "2694350aecedb43d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "debt trap diplomacy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại giao cây tre",
+   "base": "1b566a08b017f188",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo diplomacy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại hối",
+   "base": "84c64463da2a85cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foreign exchange; foreign currency"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại khoá",
+   "base": "5b630f55624d3e53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "extracurricular"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại kỉ",
+   "base": "9be5652952942f3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "outer annals; peripheral records"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại sinh",
+   "base": "b7c5a10252678b44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "exogenous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại sử",
+   "base": "86a962d35e76cca4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "unofficial history"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại thất",
+   "base": "bf170d0ea27b8bed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exterior"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại tiếp",
+   "base": "627f5b35ad20f05b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "circumscribing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại truyện",
+   "base": "46d047934c8c3206",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a side story"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại vụ",
+   "base": "db32ad7040119178",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "foreign affairs"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sở ngoại vụ",
+     "en": "a department of foreign affairs"
+    }
+   ]
+  },
+  {
+   "headword": "ngoại độc tố",
+   "base": "60cb59f42853f525",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exotoxin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoại động từ",
+   "base": "33de76de9b75ec56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "transitive verb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoải",
+   "base": "1a41008adf0f70e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "that place outside; out there; outside"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "she or he (referring to one's ông ngoại or bà ngoại)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoảnh đi ngoảnh lại",
+   "base": "827755983e5daf6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Describes time passing in a flash."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoảy",
+   "base": "c824303dd1dd0687",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn away in anger"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoắt ngoéo",
+   "base": "1b0f289351ab967a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tortuous; twisting; winding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đường ngoắt ngoéo",
+     "en": "a winding road"
+    },
+    {
+     "sense": 1,
+     "vi": "tính ngoắt ngoéo",
+     "en": "a twisted disposition"
+    }
+   ]
+  },
+  {
+   "headword": "ngoặc vuông",
+   "base": "1f2c657bbf807693",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "square brackets"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoặc đơn",
+   "base": "b49103bb3e2a1f3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "round brackets; parentheses"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngu dân",
+   "base": "7444813b4f63c5ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep the people ignorant; to stultify the masses; to engage in obscurantism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngu trung",
+   "base": "24bccde25ffc86dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "loyalty to a senior or leader of little merit without any rational judgment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên cám",
+   "base": "0bdf22ba96d76e08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "whole-wheat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên hàm",
+   "base": "3a4945d49ba92f16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "antiderivative"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên niên",
+   "base": "0351e8a6703b3916",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "the first year of an imperial era"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gia Long nguyên niên",
+     "en": "Gia Long 1"
+    }
+   ]
+  },
+  {
+   "headword": "nguyên quán",
+   "base": "f3c28562b89c34f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "birthplace; hometown; native land"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên thuỷ",
+   "base": "c3ec497d094aa2d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "primordial"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "primitive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nguyên Thuỷ Thiên Tôn",
+     "en": "the Primordial Heavenly Lord"
+    },
+    {
+     "sense": 2,
+     "vi": "người nguyên thuỷ",
+     "en": "primitive humans"
+    },
+    {
+     "sense": 2,
+     "vi": "chế độ/chủ nghĩa cộng sản nguyên thuỷ",
+     "en": "primitive communism"
+    }
+   ]
+  },
+  {
+   "headword": "nguyên thủ quốc gia",
+   "base": "0024ab94e8ac78b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a head of state"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên tiêu",
+   "base": "a5ece870c64921e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "night of the fifteenth day of the first lunar month"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên tắc vàng",
+   "base": "5dba5742fb43106b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "golden rule"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên tố hoá học",
+   "base": "87e8176eb85f981f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chemical element"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên tổ",
+   "base": "ef5b0147813edef6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ancestor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên tội",
+   "base": "0c657ddb3cef6f4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "original sin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên tử lực",
+   "base": "08a9d8d8cfca0c40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "atomic power; atomic energy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên uỷ",
+   "base": "907a680ce0c467a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "origin, provenance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Theo TKTVTMS thì vào khoảng năm 1882-1883, tại thư viện Tụ Khuê có 8 bản sách ĐVSKTT, và nguyên uỷ của các bản sách đó như sau:[…]",
+     "en": "According to the [Tụ Khuê Thư viện Tổng mục sách], there were 8 copies of the [Đại Việt Sử ký Toàn thư] at the Tụ Khuê library around 1882–1883, and the provenance of these copies is as follows: […]"
+    }
+   ]
+  },
+  {
+   "headword": "nguyên âm đôi",
+   "base": "800165d84ab56551",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diphthong"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên âm đơn",
+   "base": "575f36b34717b628",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monophthong"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên đán",
+   "base": "dcd22b5f8c301cfa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "new year"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên ủy",
+   "base": "7e6b1e022530fdbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of nguyên uỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyệt cầm",
+   "base": "8019f8093da8598b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of đàn nguyệt (“moon lute”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguýt",
+   "base": "3345760c116e5d60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to glare at to show hostility"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguồn cơn",
+   "base": "29d0c6438242b6ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ins and outs, whole story; root cause"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiếng đồn một sở Cái-mơn, Nhà-thờ nhà-phước nguồn cơn phú cường.",
+     "en": "Word has it that in the parish of Cái-mơn, the church and the monastery there are the reasons for their wealth."
+    }
+   ]
+  },
+  {
+   "headword": "nguồn mở",
+   "base": "982d31eba242b021",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "open-source"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguỵ",
+   "base": "46ae207834eea051",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "historical"
+     ],
+     "gloss": "pertaining to the Republic of Vietnam's government, its agencies, and institutions, such as its army"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "historical"
+     ],
+     "gloss": "Vietnamese working in the Republic of Vietnam's government, its agencies, and institutions, such as its army"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sau khi tuyên bố đầu hàng không điều kiện, Dương Văn Minh, tổng thống ngụy quyền, Nguyễn Văn Huyền, phó tổng thống, Vũ Văn Mẫu, thủ tướng cùng hàng chục nhân vật cao cấp khác trong bộ máy ngụy quyền đã được đưa đến nhà khách dinh tổng thống ngụy trước đây.",
+     "en": "After declaring unconditional surrender, Duong Van Minh, the puppet government's president; Nguyễn Văn Huyền, vice president; Vu Van Mau, the prime minister, and dozens of other high-ranking figures in the puppet government were taken to the former puppet presidential palace guest house."
+    }
+   ]
+  },
+  {
+   "headword": "nguỵ biện",
+   "base": "f09f7b056a1dfe30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use sophistry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguỵ khoa học",
+   "base": "eca543bbdac11ee1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pseudoscience"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguỵ quyền",
+   "base": "42e222f6346d0ded",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "puppet government"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguỵ quân tử",
+   "base": "def15d902652d492",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hypocrite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguỵ trang",
+   "base": "35b0eadd9528b109",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disguise, to camouflage"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một số động vật nguỵ trang để tránh kẻ săn mồi.",
+     "en": "Some animals use camouflage to avoid predators."
+    }
+   ]
+  },
+  {
+   "headword": "nguỵ tạo",
+   "base": "332e455f95b12ca7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fake"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tạp chí khoa học nguỵ tạo",
+     "en": "predatory scientific journal"
+    }
+   ]
+  },
+  {
+   "headword": "nguỵ đời",
+   "base": "8b04925f322865eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Huế"
+     ],
+     "gloss": "very strange, odd, unusual or weird"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngàn cân treo sợi tóc",
+   "base": "64149be7d9dbb1aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "precarious, on thin ice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người dân tại chảo lửa Mosul, Iraq, luôn phải sống trong cảnh \"ngàn cân treo sợi tóc\", đương đầu với mưa bom, bão đạn, gần như mỗi ngày.",
+     "en": "Civilians in volatile Mosul, Iraq, continuously lead precarious lives, having to deal with bombs raining down and showers of bullets almost daily."
+    }
+   ]
+  },
+  {
+   "headword": "ngàn thu",
+   "base": "2dc796bd1a1f01b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a thousand autumns"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "eternal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "giấc ngủ ngàn thu",
+     "en": "an eternal slumber; death"
+    }
+   ]
+  },
+  {
+   "headword": "ngàn trùng",
+   "base": "a7899f3027d2a7b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "impossibly; insurmountably"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngàn vàng",
+   "base": "1a48b0130158737d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very valuable; invaluable; priceless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngào",
+   "base": "e3c2f7aaca0b06ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to coat in sugar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngào ngạt",
+   "base": "5b9cb46a5235867e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strong, overstimulating, and overflowed with fragrance."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cánh đồng ấy bây giờ ngào ngạt mùi oải hương.",
+     "en": "That field has nowadays been overflowed with the smell of lavenders."
+    },
+    {
+     "sense": 1,
+     "vi": "Tôi bỗng ngửi thấy mùi thơm ngào ngạt toát ra từ quán cà phê.",
+     "en": "I suddenly smelt a strong fragrance coming from the coffee shop."
+    }
+   ]
+  },
+  {
+   "headword": "ngày hôm nay",
+   "base": "5ba8952dd3ccbda7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "today"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "today (on the current day)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngày hôm nay quả là một ngày đẹp trời.",
+     "en": "Today is really a nice day."
+    },
+    {
+     "sense": 2,
+     "vi": "Xin trân trọng cám ơn sự hiện diện của toàn thể quý vị ngày hôm nay.",
+     "en": "We would like to extend our thanks to everyone in the audience who are here with us today."
+    }
+   ]
+  },
+  {
+   "headword": "ngày lễ",
+   "base": "542bdc093f2753ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "feast day"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày mốt",
+   "base": "91adfe93d5e70c73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern",
+      "emphatic",
+      "formal"
+     ],
+     "gloss": "overmorrow; the day after tomorrow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày nghỉ",
+   "base": "d6bebb2b5b75cd63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "day off"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày nảy ngày nay",
+   "base": "b402bcb59270acda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "nowadays; in this day and age"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày rày",
+   "base": "6fe1f0275bd40622",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "by this time, on this date (in another year)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngày rày năm ngoái tôi đang làm việc khác.",
+     "en": "By this time last year, I was doing a different job."
+    },
+    {
+     "sense": 1,
+     "vi": "Ngày rày sang năm tôi sẽ đi Huế.",
+     "en": "I will be going to Hue by this time next year."
+    }
+   ]
+  },
+  {
+   "headword": "ngày sinh tháng đẻ",
+   "base": "a49f97478719705e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "date of birth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày thường",
+   "base": "157ee4dbbc8a19a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weekday"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngày xửa ngày xưa",
+   "base": "cbcf1f49651401e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "once upon a time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngá ngởn",
+   "base": "7289382041e2e90e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "carelessly; without paying much attention or regard to one's surrounding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đi đứng ngá ngởn kiểu gì mà giờ té giập mặt rồi thấy chưa.",
+     "en": "How careless you got to be at walking that you got yourself injured so bad after just a fall."
+    }
+   ]
+  },
+  {
+   "headword": "ngái ngủ",
+   "base": "b5df1cbc3ed123b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sleepy after already waking up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngám",
+   "base": "497b94c28cf10765",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fit, to be just right"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngán ngẩm",
+   "base": "ec622546dac4ef63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bored (of); sick (of); having had enough (of)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

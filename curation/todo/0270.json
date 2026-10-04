@@ -1,0 +1,1286 @@
+{
+ "batch": "0270",
+ "entries": [
+  {
+   "headword": "kịch cỡm",
+   "base": "95bf7f401de5028a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ridiculous, zany, ludicrous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịch mục",
+   "base": "4473fa96a612ad99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "list of items on a program"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịch nói",
+   "base": "722ab42052f838e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "play; piece"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịch phát",
+   "base": "9c962178f8671ed1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to germinate unexpectedly and powerfully; to gain exacerbation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơn hen suyễn kịch phát vừa rồi coi chừng trí mạng đấy.",
+     "en": "Your recent asthma exacerbation might lead to fatal causes."
+    }
+   ]
+  },
+  {
+   "headword": "kịch tác gia",
+   "base": "bfac0559e5741a7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "playwright; dramatist; screenwriter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kịp lúc",
+   "base": "aa321aac7a06859f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in time, at the right moment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "la đà",
+   "base": "866455cfb73f3b28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to fall and sway side-to-side gently"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to totter (because of drunkenness)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "la-gu",
+   "base": "4bd4d82a70b757b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Vietnamized version of the French dish ragoût, usually contains chicken, potato, carrot, is more watery, and often served alongside plain baguettes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "la-phông",
+   "base": "17240acc62822c92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plafond, decorated ceiling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "la-va-bô",
+   "base": "1ead54f642d5e885",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Huế"
+     ],
+     "gloss": "washbasin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lai cảo",
+   "base": "e6cfc23ccb4b19b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "incoming manuscript (sent to a newspaper, a journal, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lai hoá",
+   "base": "5af88bfdaea25a1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hybridization"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lai hóa",
+   "base": "2e8f5ee0d7b156cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of lai hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lam lũ",
+   "base": "fe8d8d947682c6ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "badly torn"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "literary"
+     ],
+     "gloss": "laborious; difficult"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lan rộng",
+   "base": "20463a0ec111196b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to widely spread"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lan toả",
+   "base": "6e71a0a04f2d13f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be pervasive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lang ben",
+   "base": "d3c4ccd1a8d665a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(bệnh ~) tinea versicolor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lang bạt kì hồ",
+   "base": "1e18ae3a2a0852ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to live a wandering life; to wander"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lanh lảnh",
+   "base": "da37d7f496e91b49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "high-pitched and clear and often fast"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Bưng cháo ra đây, chú em? - tiếng con gián điệp gọi lên lanh lảnh, khiến tôi nổi gai ốc khắp người.",
+     "en": "\"Bring us the congee, will you?\" the spy's voice called shrilly, giving me goosebumps all over."
+    }
+   ]
+  },
+  {
+   "headword": "lantan",
+   "base": "a2c662e1d23901d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lanthanum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lao tố",
+   "base": "03b642888d37447d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tuberculin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lao xao",
+   "base": "b17224d13f0c5930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rustle"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "babble"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiếng lá lao xao.",
+     "en": "The rustle of leaves."
+    },
+    {
+     "sense": 2,
+     "vi": "Tiếng nước lao xao.",
+     "en": "The babble of water."
+    }
+   ]
+  },
+  {
+   "headword": "lao động phổ thông",
+   "base": "a8290bfba1588b44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "unskilled labor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lau chau",
+   "base": "85a78e9034d7738a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thoughtless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tính hay lau chau",
+     "en": "the trait of hustling"
+    }
+   ]
+  },
+  {
+   "headword": "lau lách",
+   "base": "a5774fe5a6ff2b52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reed (tall stiff perennial grass-like plants growing together in groups near water)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cả ngày đêm chỉ nghe gió xào xạc trên lau lách, nghe ràn rạt nước lớn lại ròng.",
+     "en": "Day and night the only sounds were the wind rustling in the reed and the water rising and ebbing."
+    }
+   ]
+  },
+  {
+   "headword": "lay phay",
+   "base": "036918013132763a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "scattered; fluctuated"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con tim người chợt rúng động trước cơn mưa lay phay của tiết thời trở thu.",
+     "en": "How moving the dripping rain was to the man when it's been fluttering at the time by the incoming fall!"
+    }
+   ]
+  },
+  {
+   "headword": "le le",
+   "base": "69ab8e760cc79e85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lesser whistling duck (Dendrocygna javanica)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ở Cà Mau, An Giang và một số tỉnh miền Tây Nam Bộ, nhiều người dân nuôi chim le le thu lợi nhuận khá cao. Le le vốn là giống chim trời hoang dã, sống trong môi trường tự nhiên, nhưng kể từ khi được con người chăn nuôi thì số lượng của chúng phát triển vượt bậc.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "lem nha lem nhem",
+   "base": "671f2cd17b95a250",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of lem nhem"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "leo cây",
+   "base": "6d9f6df7722c7007",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "slang"
+     ],
+     "gloss": "to be stood up; to be left waiting; to be jilted during a planned meeting"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hôm qua hắn cho tao leo cây.",
+     "en": "He stood me up yesterday."
+    }
+   ]
+  },
+  {
+   "headword": "leo lét",
+   "base": "c21d9d3102904164",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flicker; to burn unsteadily"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "li hương",
+   "base": "9fefb95c9a62fc8e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary",
+      "uncommon"
+     ],
+     "gloss": "to leave hometown"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "li khai",
+   "base": "c8afa32e889861e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave and establish an independent organization or polity from a part of an already existing organization/polity; to cause a schism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà nước li khai",
+     "en": "a separatist state"
+    }
+   ]
+  },
+  {
+   "headword": "lin-sơ",
+   "base": "d0a579ab8c433d75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lynching"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh diệu",
+   "base": "280ffcaf3281cd14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "incredibly effective"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh dương hoẵng",
+   "base": "f09186f826387078",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "duiker"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh hồn mồ côi",
+   "base": "8a2750f34ed365b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "forgotten soul; one who has no one left to intercede for them"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cầu cho các linh hồn mồ côi.",
+     "en": "Pray for the forgotten dead."
+    }
+   ]
+  },
+  {
+   "headword": "linh ngữ",
+   "base": "90cd2effec19b48c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "prison"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh ta linh tinh",
+   "base": "46c54a9bbc6b0186",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of linh tinh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh đinh",
+   "base": "870e9fa90d894541",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to wander, to drift, to be afloat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "linh địa",
+   "base": "92cddf11ca7169d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "holy place; shrine (holy or sacred place dedicated to a specific figure of respect)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xe lên đường từ 7h00 sáng vượt hơn 800 cây số cho đến 19h chiều mới tới Linh Địa Đức Mẹ Lộ Đức.",
+     "en": "The bus drove straight for more than 800 kilometers from 7:00 in the morning to 19:00 in the evening until it reached the Shrine of Our Lady of Lourdes."
+    }
+   ]
+  },
+  {
+   "headword": "liu điu",
+   "base": "dbb59dc910ca89f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of long-tailed lizard (Takydromus sp.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "livermori",
+   "base": "9c62433f3827fcbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "livermorium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "livestream",
+   "base": "9fefe572a8b94686",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "livestream"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to livestream"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên Triều",
+   "base": "0cfd14cffff838e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relating to North and South Korea; inter-Korea"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hội nghị thượng đỉnh liên Triều",
+     "en": "inter-Korean summit"
+    }
+   ]
+  },
+  {
+   "headword": "liên ba",
+   "base": "4dfa9d4997102cb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "triplet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "liên ba đơn",
+     "en": "minim triplet"
+    }
+   ]
+  },
+  {
+   "headword": "liên chi",
+   "base": "26ee85f16c060816",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "branch (of an organization)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "liên chi Đoàn Khoa",
+     "en": "Union branch of the Department"
+    }
+   ]
+  },
+  {
+   "headword": "liên cầu khuẩn",
+   "base": "c275455f230b1971",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "streptococcus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên khúc",
+   "base": "157a4da1b656eb1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "medley; potpourri of tunes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên kiều",
+   "base": "98083c3f1cb70edf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Forsythia suspensa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên kết cộng hóa trị",
+   "base": "b84955690881e116",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "covalent bond"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên luỵ",
+   "base": "9525422d7779aa19",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to involve in trouble, to implicate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khưu Xử Cơ ơi Khưu Xử Cơ, hai người bạn này là dòng dõi trung nghĩa, có lòng tốt mời ngươi uống rượu, ngươi lại làm họ bị liên lụy tan nhà nát cửa.",
+     "en": "Qiū Chǔjī! Qiū Chǔjī! These two friends were of loyal lineage and so goodhearted as to invite you to share rice wine; you had them involved in your troubles and caused the destruction of their possessions."
+    }
+   ]
+  },
+  {
+   "headword": "liên minh cá nhân",
+   "base": "a6d0cb23751930ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "personal union"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên tiểu bang",
+   "base": "552869962c5efea2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "US"
+     ],
+     "gloss": "interstate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xa lộ Liên tiểu bang 10",
+     "en": "Interstate Highway 10"
+    }
+   ]
+  },
+  {
+   "headword": "liên tỉnh",
+   "base": "baeabe96c0e29e18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "interprovincial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên từ",
+   "base": "a8ece9089b44293f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a conjunction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên đảng",
+   "base": "f1f516d0381621e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coalition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên đội trưởng",
+   "base": "6797385baedb6abf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the captain of a liên đội"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liêng biêng",
+   "base": "b4c7774d81aef555",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "woozy; light-headed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liêu thuộc",
+   "base": "4146cc0e8952e254",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "subordinate official (in feudal times)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liêu xiêu",
+   "base": "f8e1192a2ef8716d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "usually"
+     ],
+     "gloss": "unbalanced"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "vulnerable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Những căn nhà liêu xiêu kia liệu có trụ nổi gió giông không vẫn là câu hỏi mà chúng tôi còn đau đáu.",
+     "en": "It's those so-called stable shelters that've always been driving us to fathom whether the dwellers would survive a storm or not."
+    }
+   ]
+  },
+  {
+   "headword": "liếp",
+   "base": "393054b1caabe943",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "covering panel made of woven bamboo"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ridge (raised strip of soil for cultivation purpose)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liền kề",
+   "base": "fedc49369de34dc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "consecutive, successive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà liền kề",
+     "en": "rowhouse"
+    }
+   ]
+  },
+  {
+   "headword": "liền tay",
+   "base": "dd1c2989650b99e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "immediately; at once"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liểng xiểng",
+   "base": "42757256b1ccb5a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reeling, crushed, decimated, devastated, in shambles"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thua liểng xiểng",
+     "en": "to be routed"
+    }
+   ]
+  },
+  {
+   "headword": "liễu yếu đào tơ",
+   "base": "62d5f8e77fefd1dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "dated",
+      "idiomatic",
+      "literary"
+     ],
+     "gloss": "a young, gentle, and fragile woman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liệt cường",
+   "base": "8988a84a97823cde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "superpower, a nation with utmost powers compared to others"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đối đầu với một liệt cường như Mỹ thật không dễ ăn mà.",
+     "en": "It was impossible to beat a superpower like the US."
+    }
+   ]
+  },
+  {
+   "headword": "liệt giường liệt chiếu",
+   "base": "68daab8a0039d646",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "bedridden"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liệt kháng",
+   "base": "99f58ed751c4b873",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "acquired immune deficiency syndrome (AIDS)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liệu cơm gắp mắm",
+   "base": "8c5665c839069925",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be mindful of one's surroundings and circumstances to choose the right options"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liệu pháp hành vi nhận thức",
+   "base": "5acb97b14b7f585e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cognitive behavioral therapy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lo buồn",
+   "base": "82573a3f6433843a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to worry and be sad ; to be anxious and melancholy; to fret and fuss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lo bò trắng răng",
+   "base": "e60f2d887ec1ff09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to needlessly worry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lo phiền",
+   "base": "fd482922ba1bfb88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to worry and be sad ; to be anxious and melancholy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lo xa",
+   "base": "eec8890bdafdfca3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to foresee problems far in advance; to meet trouble halfway; to foreknow"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "farsighted; farseeing; provident"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loan báo",
+   "base": "06af8a4d55fbaa65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to announce; to make known"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loang lổ",
+   "base": "5fcae29f9cdc3b58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spreading out unevenly; blotchy; spotted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơn mưa làm cho tấm bảng quảng cáo hình nhân nhạt nhoà, loang lổ [...]",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "Đi giầy đen nhưng giầy mốc, loang lổ, bụi bậm, bùn đất, không được đánh xi bao giờ, thật kỳ quặc.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "loay quay",
+   "base": "ea46a88cd4247fd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to struggle and mess around and never be still"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nhưng đêm qua, ông già Sáu Đèo lại trợt chân. / Ông còn ngồi loay quay ngoi ngóp dưới sân bèo thì vừa lúc Phi về, anh hỏi, trời đất, làm gì ngồi đây.",
+     "en": "[…] but last night, Mr Sáu Đèo slipped again. / He was still sitting there, struggling and floundering in the duckweed-covered yard when Phi returned and asked, \"Heaven and earth, why are you sitting here?\""
+    }
+   ]
+  },
+  {
+   "headword": "loi choi",
+   "base": "11d2c813f0f8ec58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "prone to hopping constantly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhảy loi choi",
+     "en": "a long-lasting hopping"
+    }
+   ]
+  },
+  {
+   "headword": "lom lom",
+   "base": "b8cf5f7621ea91f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "intently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con Cộc mổ vô ống quyển ông, rồi nhóng cần cổ dòm ông lom lom, có phải ông chờ bà đó quay lại không?",
+     "en": "Cộc pecked at his shin and craned its neck to intently stare at him: \"Waiting for that woman to come back, aren't you?\""
+    }
+   ]
+  },
+  {
+   "headword": "long diên hương",
+   "base": "930d63036ac4c270",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ambergris"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

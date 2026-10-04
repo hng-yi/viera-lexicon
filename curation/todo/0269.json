@@ -1,0 +1,1355 @@
+{
+ "batch": "0269",
+ "entries": [
+  {
+   "headword": "kì nhông",
+   "base": "3f1eaa77b6ac63f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "iguana"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kì Nhông là ông Kì Đà, Kì Đà là cha Cắc Ké, Cắc Ké là mẹ Kì Nhông.",
+     "en": "Iguana is Monitor's grandpa, Monitor is Gecko's father, Gecko is Iguana's mother."
+    }
+   ]
+  },
+  {
+   "headword": "kì phùng địch thủ",
+   "base": "fd601950be2005f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a worthy opponent; equal match; adversary of equivalent skill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì sau",
+   "base": "33c4abb3fe280fea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anaphase"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì tài",
+   "base": "0966fbcc3617a19e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prodigy; genius"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bất kì người nào, ở tác phẩm Balzac, ngay cả các bà gác cổng, đều có kì tài.",
+     "en": "Whoever depicted in Balzac's works, even the guardswomen, is known with major talent."
+    }
+   ]
+  },
+  {
+   "headword": "kì tôm",
+   "base": "c8a4ac677b3c9be8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese water dragon (Physignathus cocincinus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì đảo",
+   "base": "620c4f31f787e5a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "to pray (to a higher being for something)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kình chống",
+   "base": "ea10c1b42b286cd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to oppose; to fight; to struggle"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ba phe kình chống nhau",
+     "en": "three factions fight each other"
+    }
+   ]
+  },
+  {
+   "headword": "kình nghê",
+   "base": "6464113a09643ba6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "obsolete"
+     ],
+     "gloss": "male whale(s) and female whale(s), bull whale(s) and cow whale(s)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kình ngư",
+   "base": "450dd0f39f015a6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "whale"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "top-notch swimmer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kí pháp khoa học",
+   "base": "1748434be41d941f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scientific notation; an alternative format of such a decimal number immediately followed by E and an integer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Số 0.00236 viết bằng kí pháp khoa học thì là 2.36×10⁻³ hoặc là 2.36E-3.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "kí sinh trùng học",
+   "base": "76591892901f7462",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parasitology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kí sự",
+   "base": "ea81a2a937ee29df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a written account of events in the people's social life with little to no commentary from the writer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kí thác",
+   "base": "0b322973c56c8d92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trust, to place one's hope on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] chỉ sợ lão phu võ công kém cỏi lại phụ lòng ký thác của Vương gia thì đúng không còn gì là thể diện, ha ha!",
+     "en": "[…] I'm only afraid my martial arts level is too low and I'll let down Your Majesty's trust, and then I'll lose face for real, haha!"
+    }
+   ]
+  },
+  {
+   "headword": "kí tên",
+   "base": "1dcebe92fc6a76c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sign (one's name)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kích bác",
+   "base": "b7f9e08b89540b08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to criticise severely; to run down; to disparage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kích ứng",
+   "base": "c4443ab38872ffda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cause irritation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to trigger a responding action by force; to precipitate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Qua tuổi hai nhăm, nàng bước vào tuổi các xung lực kích ứng tràn đầy, nảy nở [...].",
+     "en": "After passing the age of twenty-five, the lady had better brace herself through a surging myriad of repulsive clash."
+    }
+   ]
+  },
+  {
+   "headword": "kính chắn gió",
+   "base": "e08f1867bb4be106",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "windshield"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính coong",
+   "base": "5fbf229744b20cba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "ding dong"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính cáo",
+   "base": "f06506ccf0850665",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "respectfully (as a valediction for a written message)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "to respectfully announce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính gửi",
+   "base": "64e4a446a52f2bb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "used to respectfully indicate an addressee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kính gửi: Bà Nguyễn Thị B",
+     "en": "To: Ms Nguyễn Thị B"
+    }
+   ]
+  },
+  {
+   "headword": "kính lão đắc thọ",
+   "base": "95168c43779e20df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "if you respect the elderly, you'll extend your lifespan"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "it's always a good idea to respect the elderly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính mắt",
+   "base": "f20c9d1738f01251",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyeglasses, spectacles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính nhi viễn chi",
+   "base": "e4c1e3a3f464a763",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "figuratively",
+      "humorous",
+      "idiomatic",
+      "often"
+     ],
+     "gloss": "to respect yet keep one's distance; to respectfully distance oneself"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bản lĩnh ở người phụ nữ thông minh nhiều khi khiến đàn ông... sợ, chỉ biết kính nhi viễn chi mà chẳng dám đến gần.",
+     "en": "A smart woman's fortitude on many occasions make men... afraid, so much they only know to just respectfully keep their distance and dare not approach."
+    }
+   ]
+  },
+  {
+   "headword": "kính nhường",
+   "base": "410eac9d8e3a4a78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to respectfully yield to; to make concessions to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính quý",
+   "base": "451e4ca8c152788d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to respect, to hold in high esteem"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính vạn hoa",
+   "base": "44945e490c9edcbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kaleidoscope (tube of mirrors rotated to produce symmetrical designs)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính áp tròng",
+   "base": "df1de28b8a0e4ce6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a contact lens"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính đeo mắt",
+   "base": "f20c9d1738f01251",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyeglasses, spectacles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ký nhi viện",
+   "base": "810204e298874120",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "day nursery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kăng-gu-ru",
+   "base": "f4adf5b5f1a36d38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kangaroo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩ nghệ",
+   "base": "6f97dc4bc0e168a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "technology; skill"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "industry"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kĩ nghệ đồ đá Ngườm",
+     "en": "Ngườm stone tool industry"
+    },
+    {
+     "sense": 2,
+     "vi": "kĩ nghệ đồ đá Muxchiê",
+     "en": "Moustier stone tool industry"
+    }
+   ]
+  },
+  {
+   "headword": "kĩ thuật cơ khí",
+   "base": "1026bab51bb5f6ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mechanical engineering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩ thuật phần mềm",
+   "base": "2da0ec14b0b72fdd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "software engineering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩ thuật số",
+   "base": "bcbc6370dea7d278",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "digital technology"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "attributive"
+     ],
+     "gloss": "digital"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩ thuật điện",
+   "base": "a899100576237631",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electrical engineering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩ trị",
+   "base": "ed09f00cf1413138",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "technocracy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "technocratic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩ xảo",
+   "base": "3163c2626b49af04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "expertise; masterful technique; advanced skill"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "expert; technical; highly skillful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kĩu kịt",
+   "base": "f0e353bd238c5373",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "Describes the squeak made by carrying a loaded carrying pole."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiếng kĩu cà kĩu kịt đều đều",
+     "en": "the monotonous squeaking sound"
+    }
+   ]
+  },
+  {
+   "headword": "kơ nia",
+   "base": "8a73e1d8063efb20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Irvingia malayana"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẹo bông gòn",
+   "base": "264d717f9baacbea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cotton candy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẹo bơ cứng",
+   "base": "3bcdead396db34e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "toffee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẹo cu đơ",
+   "base": "234ea707ca3cf710",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of candy made from a mixture of peanuts, sliced ginger and glutinous rice malt syrup, served between two pieces of rice crackers."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẹo dừa",
+   "base": "3a798cc6587b3add",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coconut candy, usually the Vietnamese coconut candy commonly produced in Bến Tre province"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đừng nói nhiều, hãy chia kẹo dừa đi!",
+     "en": "Don't talk too much, just share the coconut candy!"
+    }
+   ]
+  },
+  {
+   "headword": "kẹo sô-cô-la",
+   "base": "b2a64ea39ab36b97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chocolate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẹo đồng",
+   "base": "a4ac92791014dea5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "a bullet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mày muốn bị quẳng xuống sông hay ăn kẹo đồng ?",
+     "en": "Ya wanna swim with the fishes or eat some lead?"
+    }
+   ]
+  },
+  {
+   "headword": "kẹp giấy",
+   "base": "dbf0d81bb0d5b469",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paper clip"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẹp giấy tam giác",
+     "en": "triangular paper clip"
+    }
+   ]
+  },
+  {
+   "headword": "kẹt xe",
+   "base": "ca2f27955c97e307",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "traffic jam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẻ chợ",
+   "base": "25cac64d3595c540",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see kẻ, chợ."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "capital"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "[…] vì nğ̀ 20. thǵ 6. nước ta là 24. thǵ 7. nước ng̀ năm 1796. thì chúng tôi đến Kẻ chợ nước Portugal, là 6. tháng vượt biển mà đi 6. nghìn dạm đàng, […]",
+     "en": "[…] because on the 20th day of sixth month in our calendar [the lunar calendar], that is, July 24th, 1796 in their calendar, we reached the capital of Portugal, which means we spent 6 months on the sea, a 6000 miles journey, […]"
+    }
+   ]
+  },
+  {
+   "headword": "kẻ cả",
+   "base": "7508c8e3fa2af8b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "an elder; senior"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a big shot; VIP; boss"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "figuratively"
+     ],
+     "gloss": "a condescending person; self-important person"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "derogatory"
+     ],
+     "gloss": "condescending; self-important"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "lên giọng kẻ cả",
+     "en": "to raise a condescending voice"
+    }
+   ]
+  },
+  {
+   "headword": "kẻ hầu người hạ",
+   "base": "a41e8b6306c0b225",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "servants"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẻ sĩ",
+   "base": "683c2925b2f82d1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "scholar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nghe tiếng ngài yêu người hiền, trọng kẻ sĩ, nên tôi cũng đến yết kiến.",
+     "en": "I came for an audience for I have heard of your reputable love and respect for the wise and learned."
+    },
+    {
+     "sense": 1,
+     "vi": "Trên tấm bia Tiến sĩ đầu tiên dựng tại Văn Miếu Quốc Tử Giám ghi lại lịch sử khoa thi năm 1442 có khắc ghi những dòng chữ:\"[…] Vì thế các bậc đế vương thánh minh không đời nào không coi việc giáo dục nhân tài, kén chọn kẻ sĩ, vun trồng nguyên khí quốc gia làm công việc cần thiết…\". Người soạn ra những câu nổi tiếng đó là Tiến sĩ triều Lê, Thân Nhân Trung.",
+     "en": "On the first Doctorate stele erected at the Temple of Literature, recording the history of the 1442 examination, the following lines are engraved:\" […] It follows that bright, sensible monarchs and rulers and sages of all kinds alike, no one, under no circumstances, would trifle with the monumentally vital task of educating the talented, sifting out the learned, cultivating the nation's life force…\". Those famous lines were authored by Thân Nhân Trung, a doctor from the Lê dynasty."
+    }
+   ]
+  },
+  {
+   "headword": "kẻ đắp chăn bông kẻ lạnh lùng",
+   "base": "e83fd25b8c21d29c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "some have it all while others have nothing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngôi \"chính thất\" Đảng đã để dành cho \"công nông\", trí thức chỉ là \"lẽ mọn\". Sự đau lòng của \"kẻ đắp chăn bông, kẻ lạnh lùng\" đã được luật sư Nguyễn Mạnh Tường diễn tả như sau :[…]",
+     "en": "The Party declared workers and peasants \"primary\" while intellectuals were considered \"secondary\". Lawyer Nguyễn Mạnh Tường described the sorrow of \"one has it all, the other has nothing\" as follows: […]"
+    },
+    {
+     "sense": 1,
+     "vi": "Việc giải quyết thêm chế độ cho thương binh ở Bình Thuận có hiện tượng \"Kẻ đắp chăn bông – Kẻ lạnh lùng\" hoặc \"Người ăn không hết – Người lần không ra\" trong khi thực hiện Nghị định Số 131/2021/NĐ-CP, ngày 30/12/2021 của Chính phủ.",
+     "en": "The provision of additional benefits for war invalids in Bình Thuận is marked by \"one getting all, another left in the cold\" or \"some get more than they can eat, others get nothing\" during the implementation of government decree nr. 131/2021/NĐ-CP, dated December 30, 2021."
+    }
+   ]
+  },
+  {
+   "headword": "kẻng tam giác",
+   "base": "d67b7aa2ca8ad811",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "triangle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẽ hở",
+   "base": "e7c17b4ca94392cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crack; crevice"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "loophole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẽo cà kẽo kẹt",
+   "base": "1d80e515a4316cb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of kẽo kẹt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẽo kẹt",
+   "base": "4cad7960a2fae75e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grinding, creaky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kế hoạch hoá gia đình",
+   "base": "236998aa50428fcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "family planning"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kế tự",
+   "base": "13d349c27e115b64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to follow one's ancestral line; to succeed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Còn việc làm của hai nhà ấy, đằng nhân-nghĩa, đằng bạo-ngược rõ-rệt khác nhau, mà các Vua kế-tự, bên hiền-tài, bên hư-hỏng cũng sai-biệt hẳn.",
+     "en": "There was quite a distinction between the two families' diplomacies, where the righteous contrasted with the cruel, and a solid variance between their succeeding rulers' personalities, where the talented opposed to the corrupt."
+    }
+   ]
+  },
+  {
+   "headword": "kế đến",
+   "base": "8b288e9221e1ae5e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "immediately after; after (that)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kếch",
+   "base": "8138ac43b333f2bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "huge; enormous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết bài",
+   "base": "90cce4a6d0829a13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a conclusion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết giới sư",
+   "base": "07f7a2e538e9acf3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barrier master, kekkaishi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết thúc có hậu",
+   "base": "af06a8fc9687713c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "happy ending"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết tràng",
+   "base": "844f59ff0011a60f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "colon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết tóc xe duyên",
+   "base": "936ba46e9dc16dd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to marry, to tie the knot"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh và em khi đã kết tóc se duyên thì hai cuộc đời xem như một.",
+     "en": "He and she, once married, will lead their lives like one."
+    }
+   ]
+  },
+  {
+   "headword": "kết từ",
+   "base": "4290666124565366",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "conjunction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết đoàn",
+   "base": "e7afd1944a2db561",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to unite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kềnh",
+   "base": "8a70f3d746ec6b84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "huge; gigantic"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "huge, compared to similar animals"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to lie flat; to sprawl"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tôm kềnh",
+     "en": "large prawn"
+    }
+   ]
+  },
+  {
+   "headword": "kềnh càng",
+   "base": "c2019475a1ce5f87",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "awkwardly bulky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người này cao lớn kềnh càng, cũng quần cụt đen.",
+     "en": "This person was cumbrously tall and also in black shorts."
+    }
+   ]
+  },
+  {
+   "headword": "kể lại",
+   "base": "104b41d9829e1476",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to narrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kể từ",
+   "base": "359dc00db53923b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "as from; since"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kỉ băng hà",
+   "base": "2384927c21297d49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an ice age"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kỉ hà",
+   "base": "56cf148f00e9be8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "geometric, as in rectangular, square, triangular, circular, etc."
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "straight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Khi vẽ nên dùng đường kỉ hà, kể cả khi vẽ đường cong.",
+     "en": "When you draw, you should use straight lines, even when you approximate curves."
+    }
+   ]
+  },
+  {
+   "headword": "kỉ niệm chương",
+   "base": "c9ffac7ed1017342",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "commemorative award, memorial badge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kỉ tử",
+   "base": "87c98b8c0317ce62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "goji berry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kị huý",
+   "base": "df004d33c80f370b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to observe a taboo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kị khí",
+   "base": "a70324c58ad62bf5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "anaerobic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sinh vật kỵ khí bắt buộc",
+     "en": "Obligate Anaerobes; Organisms (that are) anaerobic compulsorily"
+    }
+   ]
+  },
+  {
+   "headword": "kị mã",
+   "base": "0b669e1e73363eed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cavalryman; horseman; soldier on horseback"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kị nước",
+   "base": "b4186f73d6bdefdc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hydrophobic (lacking an affinity for water)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chất kị nước",
+     "en": "Hydrophobes; materials (that are) hydrophobic"
+    }
+   ]
+  },
+  {
+   "headword": "kị rơ",
+   "base": "e66bc55258a15d3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "incompatible; unsuitable (together); unfitting"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

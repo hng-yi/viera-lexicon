@@ -1,0 +1,1298 @@
+{
+ "batch": "0279",
+ "entries": [
+  {
+   "headword": "mô-đen",
+   "base": "9858d5b072948479",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a model (style)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a design"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fashionable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Mô-đen với chả mô đỏ!",
+     "en": "Fashionable my ass!"
+    }
+   ]
+  },
+  {
+   "headword": "môi sinh",
+   "base": "a1c56be5afbc31d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the environment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phong trào bảo vệ môi sinh",
+     "en": "movement to protect the environment"
+    }
+   ]
+  },
+  {
+   "headword": "môi trường sống",
+   "base": "079689f234e2c780",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inhabited environment"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "biophysical environment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "môn đăng hộ đối",
+   "base": "b71df3743164e44f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be well-matched in terms of socio-economic status (for purposes of marriage); to have similar family backgrounds"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mông muội",
+   "base": "8c88f72bf511e3e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of or related to primitive society"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "dated",
+      "formal"
+     ],
+     "gloss": "dull or naive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ba hình thức gia đình đó, theo F.Angghen tương ứng với ba thời đại lớn trong lịch sử là mông muội, dã man và văn minh.",
+     "en": "Those three family types correspond, according to F. Engels, to the three main stages of history: savagery, barbarism, and civilization."
+    },
+    {
+     "sense": 2,
+     "vi": "Thiếu thời phạm phải lầm lỗi, tôi còn tù bần mông muội, xin ông đây mang lòng độ lượng mà bỏ qua cho.",
+     "en": "Having erred in my destitution and ignorance in my youth, I humbly ask for your forgiveness."
+    }
+   ]
+  },
+  {
+   "headword": "mông mênh",
+   "base": "2e45ba72b938209e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "vast; immense; extensive; boundless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mù công nghệ",
+   "base": "55861548ca8c4049",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "technologically illiterate; tech-illiterate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mù soa",
+   "base": "7343bc89b0dba7cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "handkerchief"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Rút ở túi quần sau một cái mù soa, cởi một nút buộc như một cái tai lợn, Xuân Tóc Đỏ đập đồng hào ván xuống thềm gạch xi măng đánh keng một cái rất oanh liệt.",
+     "en": "After pulling a handkerchief from his back pocket and undoing the knot like a pig ear, Red-Haired Xuân smashed a twenty-cent coin down on the cement pavement, making a glorious sound."
+    }
+   ]
+  },
+  {
+   "headword": "mù u",
+   "base": "191ec85abd1266ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Calophyllum inophyllum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mù đêm",
+   "base": "1f9e7d9e15b54e00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "night blindness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùa hạ",
+   "base": "b510fdd9b1fdaa3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "summer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùa mưa",
+   "base": "153c37b1766a6918",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rainy season, monsoon"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mùa này mùa mưa.",
+     "en": "It's the rainy season now."
+    }
+   ]
+  },
+  {
+   "headword": "mùa nước nổi",
+   "base": "92ba913fb31adc7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the flooding season of the Mekong Delta"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùa thu",
+   "base": "5f274a6c1617c3bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "autumn, fall"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùi soa",
+   "base": "7343bc89b0dba7cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "handkerchief"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khăn mùi soa",
+     "en": "a handkerchief"
+    }
+   ]
+  },
+  {
+   "headword": "mùi tàu",
+   "base": "e0ac2d780d285a39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "culantro; chadon beni (Eryngium foetidum)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùi tây",
+   "base": "6f5ed5a8ccf076e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parsley"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "múa rìu qua mắt thợ",
+   "base": "31e8733f1b8d345b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show off your axe skills to an axe expert"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to show off your limited knowledge or ability in a field to someone who's an expert at that field"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "múa rối nước",
+   "base": "4d146e605b7b421e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mua roi nuoc, i.e. traditional Vietnamese water puppetry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "múa võ",
+   "base": "036154afbe7a6e8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to practice shadowboxing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "măng cụt",
+   "base": "1c421ebe7769ae73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mangosteen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "măng non",
+   "base": "b3e05ef8b8a8b767",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "young bamboo shoots"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the rising generation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "măng sét",
+   "base": "a3269124042b9642",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cuff"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "măng tô",
+   "base": "abcda173d159b9a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cloak"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "măng đá",
+   "base": "dddcf7512c98933f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stalagmite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "măng-đô-lin",
+   "base": "262d10dee2c1722d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mandolin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ học",
+   "base": "e1ada3d4a45d7c4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aesthetics (study or philosophy of beauty)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ lệ",
+   "base": "50ec66b5887c23ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "beautiful, lovely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ nghệ",
+   "base": "494ec86a2844d917",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "artisanal; from handicraft"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hàng mĩ nghệ",
+     "en": "a handicraft"
+    }
+   ]
+  },
+  {
+   "headword": "mĩ nhân",
+   "base": "455713627900df7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a beautiful woman; a beauty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ nhân kế",
+   "base": "67b65449e068a091",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "honey traps"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ nhân ngư",
+   "base": "1b628ca8879d2074",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "mermaid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ nữ",
+   "base": "9fcff7761e152dd7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "literary"
+     ],
+     "gloss": "a beautiful woman, a beauty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ thuật công nghiệp",
+   "base": "8724c270594b7876",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "industrial design"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "industrial fine arts"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ từ pháp",
+   "base": "124ff049232cdce7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "stylistics"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "rhetoric"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ bê-rê",
+   "base": "fb826c0a50fc9bc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beret"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ cánh chuồn",
+   "base": "465704cdf2c7ce44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a kind of hat worn by mandarins"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ cối",
+   "base": "a622c2b20c9aa8e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of pith helmet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ len",
+   "base": "d7639d172313fb06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "beanie"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ mạo",
+   "base": "32948f306aef6d25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "headwear (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũ nón",
+   "base": "44618960ce90bfc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "headwear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mũm mĩm",
+   "base": "c1da30f28e520b55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "often"
+     ],
+     "gloss": "chubby; plump"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mơ mơ màng màng",
+   "base": "53c23b8e1ee640b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fervently long for"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mơ tây",
+   "base": "4d102f5baf8da321",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "apricot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mơn mởn",
+   "base": "1ee623ebc1f392a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "green, verdurous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mơn trớn",
+   "base": "6172d07cc4c39edd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to caress (often sexually)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mưa bóng mây",
+   "base": "d31d6320eb6f38e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sunshower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mưa ngâu",
+   "base": "afcbcf467fdad6dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sudden and brief shower (in the seventh lunar month)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mưng mủ",
+   "base": "33b14170c89f7feb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suppurate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mưu sĩ",
+   "base": "cf99092842f34997",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strategist; tactician"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mướp đắng",
+   "base": "ec7556209787b0b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "bitter melon; bitter gourd"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mướt mát",
+   "base": "3fb76fefd1b480be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "glossy and uniform in a refreshing way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hai bên bờ sông […] trải một màu xanh mướt mát của rừng dừa nước,[…]",
+     "en": "On both sides of the river […] are stretches of the refreshing and glossy green of nipa palm forests, […]"
+    }
+   ]
+  },
+  {
+   "headword": "mười bốn",
+   "base": "d73f8dd742d87dc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "fourteen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mười chín",
+   "base": "22c57e2bbf195029",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "nineteen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mười mươi",
+   "base": "da1b9b484b65e967",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "one hundred"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "absolutely; totally"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chắc mười mươi",
+     "en": "absolutely certain"
+    }
+   ]
+  },
+  {
+   "headword": "mười phân vẹn mười",
+   "base": "6b0c732b2005b60a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "completely whole; perfect (usually of the beauty of a woman)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mường",
+   "base": "fc9a6b0653f6acaf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mountain village of ethnic minorities in Northern Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mượn cớ",
+   "base": "4ba1e65497506efb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to use something as a pretext"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mượn cớ nhà có việc để nghỉ học",
+     "en": "to use the pretext of a family business to be absent from school; to stay away from school on the pretext of a family business"
+    }
+   ]
+  },
+  {
+   "headword": "mượn gió bẻ măng",
+   "base": "19e132bfcd65a142",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to fish in troubled waters"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạ lị",
+   "base": "516af0b690d0bd96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to insult"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạch núi",
+   "base": "58f03afa599463f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "mountain range"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạch tích hợp",
+   "base": "41836e45f21898f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an integrated circuit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mại bản",
+   "base": "60e020638104a75b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intermediary, mediator, broker, comprador"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "rare"
+     ],
+     "gloss": "trader (of stock), stock trader"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "rare"
+     ],
+     "gloss": "financier, investor"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "derogatory"
+     ],
+     "gloss": "comprador (a native of a colonised country who acts as the agent of the coloniser)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đó là cái quầy hàng của một người mại bản Phúc Kiến trong một tiệm chuyên chở hàng hóa Trung Hoa trong đường Khổng Tử ở Chợ Lớn.",
+     "en": "That was a counter belonging to a Fujianese broker in a shop specialized in transporting Chinese merchandise on Khổng Tử street in Chợ Lớn."
+    },
+    {
+     "sense": 3,
+     "vi": "Sự việc rằng hai nhà mại bản – các ông Mnuchin và Ross – sẽ chiếm hai chức vụ quan trọng nhất về kinh tế trong tân chính phủ sẽ là một chỉ dấu mạnh mẽ là ông Trump dự định nhấn mạnh đến một chính sách thân thiện với Wall Street, như cắt giảm thuế nhất là thuế cho nhà giàu, và nới lỏng các luật lệ được đặt ra sau cuộc khủng hoảng tài chánh 2007 để giới hạn bớt sự quá độ của các ngân hàng.",
+     "en": "That two investors — Mnuchin and Ross — will occupy two major economic positions in the new administration is the most powerful signal yet that Trump plans to emphasize policies friendly to Wall Street, such as tax cuts – especially for the rich – and a relaxation of regulation – made after the 2007 financial crisis to curb the banks' excesses."
+    },
+    {
+     "sense": 4,
+     "vi": "Nhưng ngay trong nội bộ giai cấp tư sản mại bản cũng có mâu thuẫn giữa bọn mại bản kinh doanh với Pháp và với Mỹ, giữa bọn mại bản trong và ngoài chính quyền.",
+     "en": "Yet even within the comprador bourgeoisie there exist conflicts between compradors doing businesses with France and with the US, [and] compradors insides and outsides the government."
+    },
+    {
+     "sense": 4,
+     "vi": "Đằng sau chủ nghĩa nhân vị Mỹ này, người ta thấy hiện lên hệ tư tưởng Khổng giáo với đạo tam cương hà khắc. Đó là vũ khí tinh thần cần thiết của tập đoàn địa chủ mại bản ở miền Nam Việt Nam trong những năm 60 của thế kỷ XX”.",
+     "en": "Behind this American personalism, the harsh Confucian ideology with its three fundamental bonds was manifestly seen. That was the crucial psychological weapon of the comprador landlords' clique in the Southern Vietnam in the 60s of the 20th century."
+    }
+   ]
+  },
+  {
+   "headword": "mại vô",
+   "base": "d6535909b5b258a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "Southern",
+      "humorous"
+     ],
+     "gloss": "come and check out and buy my/our stuff, folks!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạn hoạ",
+   "base": "c5b507c5d693997e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manhua, manga"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạn họa",
+   "base": "930d562b1be49a4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of mạn hoạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạn ngược",
+   "base": "1df7d38cf59d126f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "upland; hinterland"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạn tính",
+   "base": "06d2a4bad1fff88b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chronic and mostly impossible to heal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạn đà la",
+   "base": "87f28b313b98380a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mandala"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạng lưới xã hội",
+   "base": "841695ded5fede68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "social network"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạng lệnh",
+   "base": "3d5dd4cb21c0cdda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order; command"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Để hưởng được phước hạnh của Chúa, họ phải vâng theo mạng lệnh Ngài.",
+     "en": "To receive God's blessings, they must obey His commands."
+    }
+   ]
+  },
+  {
+   "headword": "mạng mẽo",
+   "base": "9fde880927d6cd8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "the Internet; Internet connection"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mạng mẽo bữa nay như hạch. Cá mập cắn nữa à?",
+     "en": "The Internet speed is shite today. Are the sharks munching on the cables again?"
+    }
+   ]
+  },
+  {
+   "headword": "mạng thần kinh",
+   "base": "02b67c77f158e0b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neural network"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạng xã hội",
+   "base": "f5298472a82d3836",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "social network; social media"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạnh khoẻ",
+   "base": "16efb89ca40490e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strong; healthy; well"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạo từ",
+   "base": "09723ff65659174b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an article"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mạo từ xác định/hạn định",
+     "en": "a definite article"
+    },
+    {
+     "sense": 1,
+     "vi": "mạo từ bất định/không xác định/không hạn định",
+     "en": "an indefinite article"
+    }
+   ]
+  },
+  {
+   "headword": "mạt cưa mướp đắng",
+   "base": "ad9ed977c8adf60f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "deceiver, swindler, fraudster, scammer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cùng phường mạt cưa mướp đắng cả! – Ông giáo cười khẩy:… Dù Diều hâu hay Bồ câu, đều phải vì nước Mỹ, lợi thì vơ vào, bất lợi thì phải nhả ra thôi!",
+     "en": "\"They're all deceivers and fraudsters!\" Snickered the Professor: \"Whether hawks or doves, they must all act in the United States' interests; if they could profit, they'd hog everything; if they could not profit, they'd spit it all out!\""
+    }
+   ]
+  },
+  {
+   "headword": "mạt gà",
+   "base": "a5297fccac176fc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "red mite (Dermanyssus gallinae)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạt sát",
+   "base": "046d8fe0813016f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to obliterate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to insult, to abuse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mạt thế",
+   "base": "0d7baf05f1cc06c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "last phase (of an age); last reign (of a dynasty)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

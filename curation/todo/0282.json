@@ -1,0 +1,1313 @@
+{
+ "batch": "0282",
+ "entries": [
+  {
+   "headword": "nam châm điện",
+   "base": "3dc6d2deaac64f00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electromagnet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam chính",
+   "base": "40abba9ce75c6102",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "male protagonist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam giao",
+   "base": "ce9c86cf367d32ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "sacrifices to heaven offered by the emperor"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lễ Nam Giao",
+     "en": "ceremony of sacrifices to heaven"
+    },
+    {
+     "sense": 1,
+     "vi": "đàn Nam Giao",
+     "en": "Esplanade of Sacrifice to the Heaven and Earth"
+    }
+   ]
+  },
+  {
+   "headword": "nam hoá",
+   "base": "c0ea6add6374ff40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to virilize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam khoa",
+   "base": "731abd74c75d3b23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "andrology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam nhân ngư",
+   "base": "6e1d689141ef5786",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "merman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam nữ thụ thụ bất thân",
+   "base": "204f1b1e8048a551",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "appropriately, unless related by blood or marriage, men and women should avoid physical contact"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "appropriately, unless related by blood or marriage, men and women should avoid physical contact"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Câu nói “Nam nữ thụ thụ bất thân” giờ đây có lẽ hầu như chỉ tồn tại trong văn chương, sách vở. Tuy nhiên, đã có một thời, quan niệm này hầu như chi phối toàn bộ cách hành xử, lối sống của người xưa, từ ngoài xã hội cho đến trong gia đình.",
+     "en": "Nowadays, the saying, “[appropriately, unless related by blood or marriage,] men and women should avoid physical contact” perhaps only exists in literary compositions and books. Even so there was also a time when this view almost completely dictated [our] ancestors' rules of conduct, behavioral etiquette, and way of life, from outside among society to within the households."
+    },
+    {
+     "sense": 2,
+     "vi": "Ở thời buổi này mà còn bảo “nam nữ thụ thụ bất thân” thì còn xưa hơn Diễm. Vì con trai con gái tuổi teen bây giờ đã coi những tiếp xúc nam nữ là gì đó rất đương nhiên.",
+     "en": "In this day and age, to instruct “men and women to avoid physical contact” is even further bygone than Diễm [of Bygone Days]. For teenaged boys and girls nowadays have considered physical contacts between men and women to be something very natural."
+    }
+   ]
+  },
+  {
+   "headword": "nam thanh nữ tú",
+   "base": "4b2e975b5c9dfe9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "young, healthy, robust people"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam thực như hổ, nữ thực như miêu",
+   "base": "e966ebdb94aa6cb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "men eat like tigers, women eat like cats"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "men are supposed to take large bites and eat large portions, women are supposed to take small bites and eat small portions"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam trầm",
+   "base": "4fa920d64ca7c67e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bass, low in pitch"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giọng nam trầm của anh Ba thủy thủ cứ dập dềnh đưa tiếng hát bè cao cua tôi chồm chồm bay vút ra xa…",
+     "en": "Sailor Ba's bass voice went up and down, pushing my high-pitched singing higher and further."
+    }
+   ]
+  },
+  {
+   "headword": "nam tôn nữ ti",
+   "base": "42c7681d9f5f8c84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "valuing men above women, the belief that men are superior to women"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nanh nọc",
+   "base": "994a5135c74c47be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "evil, viperish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nanh sấu",
+   "base": "aeeccf40b0a6dbaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "jagged; staggered; uneven (especially of trees; like a quincunx)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nao lòng",
+   "base": "aa9a169aa8d61a96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be stirred; to be moved (emotionally etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nao nức",
+   "base": "b01ff54f26693a15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "eager; excited; agitated; stirring; bustling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nem chua",
+   "base": "331f161660c60311",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Vietnamese fermented pork roll"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nem cuốn",
+   "base": "44d29866a751d4bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "Vietnamese spring roll"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nem nướng",
+   "base": "e98edada01b2cb17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nem nướng (Vietnamese grilled pork sausage or grilled meatball)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nem rán",
+   "base": "80fe58c3152fcb07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "spring roll (shredded vegetables wrapped in a pancake)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "neođim",
+   "base": "2394132c15da8774",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neodymium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "neptuni",
+   "base": "67c35ebcadf9693f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "neptunium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "new wave",
+   "base": "8b7c6d47cf6d6131",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "US"
+     ],
+     "gloss": "eurodisco music"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngang bướng",
+   "base": "26d3b2c6d2288e37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "obstinate; stubborn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngang ngửa",
+   "base": "976ce4df7fef1070",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disorderly; topsy-turvy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "equal; equivalent; comparable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngang nhau",
+   "base": "1320fa46f8cd71e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "equal; even; to be identical (with); the same (as)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngao ngán",
+   "base": "c2b6fdcfcbb8097e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be bored"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay cạnh",
+   "base": "9b57c24debee99aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "right by; right beside"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay cả",
+   "base": "c86c5f0594680f33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "even; even if"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay ngáy",
+   "base": "d1771f7845628a93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nervously; uneasily"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay thật",
+   "base": "20872ef26508a06d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sincere; honest; humble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay thẳng",
+   "base": "1f1edfbc6c4397c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "honest; decent; having integrity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay tức thì",
+   "base": "3742a4aefe1ea3e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "immediately; instantly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngay và luôn",
+   "base": "5601cb90d61ac0a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "right now; straight away"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghe lời",
+   "base": "1b5ec14005199104",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to obey; to follow someone's advice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nghe lời cha mẹ",
+     "en": "to obey one's parents' words"
+    }
+   ]
+  },
+  {
+   "headword": "nghe phong thanh",
+   "base": "07b7dfaa11cb958d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have heard on the grapevine"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi nghe phong thanh hắn bị đuổi vì ăn hối lội.",
+     "en": "I heard he was fired for kickbacks."
+    }
+   ]
+  },
+  {
+   "headword": "nghe theo",
+   "base": "6afe9222dfd9691a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to follow; to listen and obey"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghi kị",
+   "base": "4b036eae1c2c476f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be suspicious (especially for jealous reasons)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "suspicious"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "suspiciously"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghi ngút",
+   "base": "81697d9c40ad098a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rise in curls"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghi tắc",
+   "base": "2ebaaf049dc0a5bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rule, principle, standard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hoặc là dùng lễ có đủ nghi-tắc mà không có kính, dùng nhạc có đủ chuông trống mà không có hòa, thì lễ và nhạc chỉ là hư-văn mà thôi, không có nghĩa-lý gì cả.",
+     "en": "Or if rituals are performed following all the rules but without reverence, or music is played with all bells and drums but without harmony, then both ritual and music are merely empty formalities without any true meaning."
+    }
+   ]
+  },
+  {
+   "headword": "nghiêm cẩn",
+   "base": "0c2bb38a04cfcc13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "serious and respectful, solemn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ròng rã hơn ba mươi năm, những người thợ xứ Quảng đã làm nên một kiệt tác nhà rường Nam Bộ, nghiêm cẩn, công phu chạm trổ từng chi tiết nhỏ, từ cây cột cái tới ngạch cửa, từ những cánh cửa tới mấy cái bậc tam cấp lối vào…",
+     "en": "Over more than thirty years, Quảng-region craftsmen created a masterpiece of a South Vietnamese rường house; they solemnly and carefully carved every small detail, from the main pillars to the thresholds, from the doors to the steps at the entrance…"
+    }
+   ]
+  },
+  {
+   "headword": "nghiêm đường",
+   "base": "f6c918192730614a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "formal"
+     ],
+     "gloss": "father"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiêng ngó",
+   "base": "3494de4b63355c77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to look every which way with inclined head"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mà có vẻ như Nhâm chẳng làm gì thì Hậu cũng nhớ, cũng hay nghiêng ngó người ta.",
+     "en": "But it seemed that even if Nhâm did nothing, Hậu thought about him and often stole glances at him."
+    }
+   ]
+  },
+  {
+   "headword": "nghiêng nước nghiêng thành",
+   "base": "ddb134f052fb5842",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "archaic",
+      "idiomatic"
+     ],
+     "gloss": "extremely beautiful and attractive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiêu khê",
+   "base": "aa9bd5aae908fa84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "troublesome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiễm nhiên",
+   "base": "2a144671d7efc205",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "without further ado, without trouble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiệp quật",
+   "base": "c9ed76785671a077",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "to get hit by karma"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiệt chướng",
+   "base": "8a3031bbc28f7160",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "evil creature"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "retribution for the sins of a previous life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghèo rớt mồng tơi",
+   "base": "da6a7907bc238d50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "humorous",
+      "idiomatic"
+     ],
+     "gloss": "so damn broke; so financially wanting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghé",
+   "base": "5ddf79718d61b35e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water buffalo calf; baby water buffalo"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to glance sidelong; to peek"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "nghé mắt nhòm qua khe cửa",
+     "en": "to peek through the crack in the door"
+    }
+   ]
+  },
+  {
+   "headword": "nghé ọ",
+   "base": "a682c7592b4517b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of children's toy made from a jackfruit's or banyan's leaf, resembling a baby buffalo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghênh xuân",
+   "base": "697fd9d8793b84dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to welcome the spring"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghênh đón",
+   "base": "d0468c190b42503a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to warmly welcome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghìn thu",
+   "base": "2dc796bd1a1f01b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a thousand autumns"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "eternal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nghìn thu gặp hội thăng bình.",
+     "en": "A thousand autumns meet in peace."
+    }
+   ]
+  },
+  {
+   "headword": "nghìn tỉ",
+   "base": "b281d5b0cd9f00e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "trillion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghìn tỉ phú",
+   "base": "c2bbe0a453aad250",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trillionaire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghìn xưa",
+   "base": "ffa9e208e80404d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "from time immemorial; long ago"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghĩ ra",
+   "base": "d8abf4b09cc2d487",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to imagine, to come up with"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghĩ tới",
+   "base": "33c54ad30b11e38f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to think about; to think of; to consider"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Điều đó cách đây 10 năm người ta chưa nghĩ tới.",
+     "en": "That was unthinkable ten years ago."
+    },
+    {
+     "sense": 1,
+     "vi": "Chúng tôi tìm được chiếc nhẫn ở một nơi mà chúng tôi không hề nghĩ tới.",
+     "en": "We found the ring in the most unlikely place (literally, “a place that we could never have thought of”)."
+    }
+   ]
+  },
+  {
+   "headword": "nghĩ đến",
+   "base": "33c54ad30b11e38f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to think about; to think of; to consider"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không phải nhiều người nghĩ đến cái lợi lâu dài.",
+     "en": "Not a lot of people think about long-term gain."
+    }
+   ]
+  },
+  {
+   "headword": "nghĩa dũng",
+   "base": "c7da505e47a7b48b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brave or courageous for the sake of justice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghĩa rộng",
+   "base": "066dd32425e21829",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "broad sense; wide meaning"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "theo nghĩa rộng nhất của từ",
+     "en": "in the broadest sense of the word"
+    }
+   ]
+  },
+  {
+   "headword": "nghĩa vụ luận",
+   "base": "06d5110b8100e3d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "code, (professional) ethics"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nghĩa vụ luận nghề kiến trúc sư",
+     "en": "architects' code of conduct"
+    }
+   ]
+  },
+  {
+   "headword": "nghẽn tắc",
+   "base": "450b946079bb07a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be blocked; to be obstructed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghếch ngác",
+   "base": "8e09eaf6d8fd7d58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "puzzled, bewildered (by something new)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghề của chàng",
+   "base": "b1fc75d3a8af1db6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "my/his middle name (figuratively a trait, activity, or action closely associated with or aptly describing a person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghề của nàng",
+   "base": "7818cd95903c33c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "humorous"
+     ],
+     "gloss": "my/her middle name (a trait, activity, or action closely associated with or aptly describing a person)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chuyện ! Nghề của nàng mà !",
+     "en": "'Course! This is what I do!"
+    },
+    {
+     "sense": 1,
+     "vi": "NSND Hồng Vân vừa trang điểm, vừa nói vui với phóng viên: \"Đánh mi mắt là nghề của nàng này đó. Sành điệu lắm!\".",
+     "en": "Hồng Vân made up while joking with our reporter: \"Mascara is her middle name. Quite a stylish one, she is!\""
+    }
+   ]
+  },
+  {
+   "headword": "nghề ngỗng",
+   "base": "83d9086d416c45c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory"
+     ],
+     "gloss": "occupation; job (i.e. some shady business)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghề tay trái",
+   "base": "1ff80b675db06deb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "side job"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghển",
+   "base": "846496ad760f05b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise one's chin up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hãy nghển mặt lên cho xứng là nam nhi.",
+     "en": "To have one's face up, that's how every man shall be a man."
+    }
+   ]
+  },
+  {
+   "headword": "nghệ sĩ nhân dân",
+   "base": "c740dd152c1b6cf0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "People's Artist (an honorary title in the Soviet Union, Union republics, in some other Eastern bloc states (and communist states in general), as well as in a number of post-Soviet states)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a senior honorary title bestowed on humanities specialists who have greatly contributed to Vietnam's entertainment arts over 20 years, with the prerequisite of having already been a nghệ sĩ ưu tú"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghệ sĩ ưu tú",
+   "base": "d8b6b7dfc68b7f02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a junior honorary title bestowed on humanities specialists who have greatly contributed to Vietnam's entertainment arts over 10 or 15 years"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghệ thuật vị nghệ thuật",
+   "base": "69d2d8e073cd7d36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "art for art's sake"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các nhà khảo cổ học đánh giá, pho tượng Phật Đồng Dương chính là mỹ thuật tiêu biểu cho kỹ thuật đúc đồng tinh xảo kết hợp với nghệ thuật tạo hình độc đáo mang tính bản địa, đã làm cho phong cách nghệ thuật của tượng đạt đến đỉnh cao của nghệ thuật, nếu các pho tượng Phật của một số nước mang phong cách nghệ thuật vị tôn giáo, thì Phật Chămpa mang trong mình hai thiên hướng nghệ thuật vị nghệ thuật, nghệ thuật vị nhân sinh, có những nét tương đồng với nghệ thuật Hellienique[sic] của Hy Lạp.",
+     "en": "Archaeologists have said of the Đồng Dương Buddha statue as the prime fine-art example of intricate copper metallurgy and unique figurative craftsmanship with a strong indigenous sense of identity, which pushes its artistic style to the acme of art; if other countries' Buddha statues are indicative of art for religion's sake, Champa statues represent art for art's and life's sake, with similarities to Hellenic art."
+    }
+   ]
+  },
+  {
+   "headword": "nghệ thuật vị nhân sinh",
+   "base": "8d63e64680ea2166",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "art for the sake of human life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghệ thuật ẩm thực",
+   "base": "e0223d80db8d166c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "culinary art"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghệt",
+   "base": "634dae3b389c278f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "staying still, having a dull look due to stress, worries, or surprises; daunted or flabbergasted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mặt nghệt như mất sổ gạo",
+     "en": "A face so dull as if (they) have lost their rice book."
+    }
+   ]
+  },
+  {
+   "headword": "nghỉ lễ",
+   "base": "211a67c5900ffaef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a holiday"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghị luận",
+   "base": "352aff2ff644e781",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "criticism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "văn nghị luận",
+     "en": "the criticism genre"
+    },
+    {
+     "sense": 1,
+     "vi": "bài nghị luận",
+     "en": "a criticism"
+    },
+    {
+     "sense": 1,
+     "vi": "nghị luận xã hội",
+     "en": "social criticism"
+    },
+    {
+     "sense": 1,
+     "vi": "nghị luận văn học",
+     "en": "literary criticism"
+    },
+    {
+     "sense": 1,
+     "vi": "Viết một bài nghị luận khoảng 100 từ về tệ nạn thuốc lá.",
+     "en": "Write a criticism of about 100 words on the smoking epidemic."
+    }
+   ]
+  },
+  {
+   "headword": "nghịch biến",
+   "base": "1e60640e75393e16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not proportional"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghịch nhĩ",
+   "base": "4a400d97184dc4f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "irritable (to one's ears)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ăn nói bố láo, nghe nghịch nhĩ lắm.",
+     "en": "It’s jarring to the ear when I have to hear such crude speech from you."
+    }
+   ]
+  },
+  {
+   "headword": "nghịch từ",
+   "base": "4461d4c560e76db1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diamagnetism"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

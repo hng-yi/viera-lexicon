@@ -1,0 +1,1317 @@
+{
+ "batch": "0300",
+ "entries": [
+  {
+   "headword": "răng sữa",
+   "base": "e7d1cdcb1605b509",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a milk tooth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "răng vĩnh viễn",
+   "base": "247bd00e6445499e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a permanent tooth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rũ rượi",
+   "base": "9a3aa5a2926917f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mingled and dishevelled"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "figuratively"
+     ],
+     "gloss": "fatigued"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "overwhelming"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rũ xuống",
+   "base": "67acb944a3ee3cbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hang down"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi leo quanh thân cau, dây trầu có nhiều rễ phụ bám vào thân cau nên không bị rũ xuống.",
+     "en": "As the betel vine climbs around the areca tree, its many aerial roots attach to the trunk, preventing it from drooping."
+    }
+   ]
+  },
+  {
+   "headword": "rũa",
+   "base": "3004c707ddce6e69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be rotten"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rơ-moóc",
+   "base": "08ecbc3a284d02cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trailer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rơi rớt",
+   "base": "8baac384ba794718",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remain, to cling on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "– Nam Tống triều chính hủ bại, kỵ sĩ như thế mà bỏ không dùng để cho phải rơi rớt nơi thảo dã, sao mình không chọn tài mà dùng?",
+     "en": "\"The Southern Song court is depraved, to not make use of such a horseman and leave him to eke out a living in the countryside; why don't I make use of his talent?\""
+    }
+   ]
+  },
+  {
+   "headword": "rơm rác",
+   "base": "dc5d443c3e46b228",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "attributive",
+      "often"
+     ],
+     "gloss": "trash"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chuyện rơm rác",
+     "en": "trifling matters"
+    },
+    {
+     "sense": 1,
+     "vi": "coi như rơm rác",
+     "en": "see as trash"
+    }
+   ]
+  },
+  {
+   "headword": "rơn",
+   "base": "88ac939388e4dcf0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "only used in sướng rơn and mừng rơn: very"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rơzơfođi",
+   "base": "f7c66780edd9f689",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rutherfordium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rưa rứa",
+   "base": "79b50cd9495b9adb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "similar, somewhat similar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rươi",
+   "base": "5580fc99452c6d7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ragworm, clam worm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rước lễ",
+   "base": "29f8b7f0b73aac34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive Holy Communion; to receive the Eucharist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rường",
+   "base": "8cd3171542a0e693",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small roof beam; straining beam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rường cột",
+   "base": "1b3f1af0be51c5a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "support; mainstay; pillar; keystone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượi",
+   "base": "cc98e16f7d6e2c86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "cool"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "rượi buồn",
+     "en": "very sad"
+    },
+    {
+     "sense": 2,
+     "vi": "Ông bảo chắc mà lòng buồn rượi, đâu phải đứa nhỏ trong bụng đào Hồng là của ông.",
+     "en": "He said he was sure, but he felt very sad; the baby in Hồng's womb was not his."
+    }
+   ]
+  },
+  {
+   "headword": "rượn",
+   "base": "1651d7a1ce20b39a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to overindulge"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "to be in oestrus, to be in heat, to rut"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rượn chơi lười học",
+     "en": "To overindulge in play and neglect one's learning"
+    },
+    {
+     "sense": 2,
+     "vi": "heo rượn đực",
+     "en": "a sow in heat."
+    },
+    {
+     "sense": 2,
+     "vi": "rượn như ngựa Thượng Tứ",
+     "en": "to be lewd, lustful, lascivious (literally, “to rut like an imperial mare”)"
+    }
+   ]
+  },
+  {
+   "headword": "rượt bắt",
+   "base": "4bedb4dfe6bd0e3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pursue; to chase"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the game of tag"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "chơi rượt bắt",
+     "en": "to play tag"
+    }
+   ]
+  },
+  {
+   "headword": "rượu cẩm",
+   "base": "01330aa5a0accfe2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of Vietnamese distilled liquor made from fermented black rice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu cốctay",
+   "base": "ea413b1ba09131dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cocktail"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu mùi",
+   "base": "41b275330dc35ea4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "liqueur"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu mời không uống, muốn uống rượu phạt",
+   "base": "213d708c276eec54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be forced to do something after initially turning down a request to do that thing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu nếp",
+   "base": "a35acb0c8efd7685",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glutinous rice wine, a pudding or drink from northern Vietnam made from fermented glutinous rice with the aid of yeast and steamed in a banana leaf."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu quốc lủi",
+   "base": "1702316df46143e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of rượu đế"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu đế",
+   "base": "0da611eacac07efb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "a distilled liquor from Vietnam, made of either glutinous or non-glutinous rice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rạc",
+   "base": "b9d687447bf4fb8e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wear thin, to be dead tired"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngồi xe mấy tiếng muốn rạc xác hết đứng nổi luôn rồi.",
+     "en": "Having sat in this car for hours, my body is so tired that I could not stand up anymore."
+    }
+   ]
+  },
+  {
+   "headword": "rạm",
+   "base": "003e8b910d59720b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of small crab"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rạn san hô",
+   "base": "03b6894b28376d0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a coral reef"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rạng đông",
+   "base": "410ccf1216013360",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "dawn; daybreak"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rạp chiếu bóng",
+   "base": "bbf52f58e5c26a35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cinema; movie theater"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rạp chiếu phim",
+   "base": "bbf52f58e5c26a35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cinema; movie theater"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rảnh rỗi sinh nông nổi",
+   "base": "9188285a772bbc09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "if people have nothing better to do, they'll do stupid or harmful things"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rấm",
+   "base": "cf3edd352b2fcaf6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover (fruit, seeds) to artificially accelerate their ripening or development; to force (fruit, seeds)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to damp down a fire (in the kitchen)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have (something) prepared secretly beforehand; to have (something, someone) all lined up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rấp",
+   "base": "7f859e372491c78f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to block up with thorny branches"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rất mực",
+   "base": "9a4d4caf2d7a716e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "exceptionally; highly; very much"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rầm rập",
+   "base": "3d2d7244b3899348",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "Used to describe heavy, fast, and continuous sounds of many people or vehicles moving together; tramping; thundering; rumbling; stampeding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quân đi rầm rập",
+     "en": "the troops march thunderously"
+    }
+   ]
+  },
+  {
+   "headword": "rẩy",
+   "base": "10aa369196f447ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sprinkle (water)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rậm rật",
+   "base": "22d12d91a922617d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel restless; to itch to move"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thấy rậm rật trong người",
+     "en": "to feel an urge to move deep inside"
+    }
+   ]
+  },
+  {
+   "headword": "rập rình",
+   "base": "a496ce1444b61927",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lurk, skulk"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to hesitate, waver, dither"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rhythmic, pulsing"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "bustling, lively, vibrant"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bobbing rhythmically"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rập rờn",
+   "base": "b764d23480dbbc18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to waver; to flutter; to undulate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rập đầu",
+   "base": "6f144eebed73740e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to kowtow"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a kowtow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn cạp nia",
+   "base": "cc9da4aebdc47106",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Bungarus candidus (Malayan krait)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn cạp nia biển",
+   "base": "3ed403e77f59abcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a yellow-lipped sea krait"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn cạp nong",
+   "base": "2d7e0e038d531069",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "banded krait"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn hổ mang",
+   "base": "34c01ec52ec75c73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cobra (venomous snake)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn mối",
+   "base": "d7189227842b6486",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "skink"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn nước",
+   "base": "099f7a39cce49633",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Colubridae"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a colubrid snake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn đuôi chuông",
+   "base": "fa5491f5f6aae637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rattlesnake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắn đầu",
+   "base": "251eee88934d9663",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stubborn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắp",
+   "base": "e6f69afcf52dab8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "in-compounds"
+     ],
+     "gloss": "to be about to, to be on the point of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rặc",
+   "base": "b11bee61a9921edd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "low; ebb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rặng núi",
+   "base": "58f03afa599463f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "mountain range"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rẻ rề",
+   "base": "0575acb8dcef2168",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "dirt cheap; at a bargain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rẻ thối",
+   "base": "e46e22875a7ea935",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "dirt-cheap"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rẻo",
+   "base": "3a31d0f908b53fd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scrap; remnant; piece; residue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rế",
+   "base": "4fa7543d38b3e1ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo pad for placing hot pots on top"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rếch",
+   "base": "9595ab88e0cdd786",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dirty, unclean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rều",
+   "base": "b8686623974fa1b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "flotsam, usually adrift plants' debris or firewood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rệ",
+   "base": "7f901088e41d438d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "edge, side"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rệ đường",
+   "base": "aad7a761f10cb68f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "roadside"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rệu rạo",
+   "base": "5db2c9e234dc267e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "weary; beaten"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tay chân rệu rạo",
+     "en": "weak and tired limbs"
+    }
+   ]
+  },
+  {
+   "headword": "rỉa rói",
+   "base": "bb8215b2291a1c08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to nibble, to nip, to peck (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rịn",
+   "base": "0175fbd63303da13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ooze"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trán rịn mồ hôi",
+     "en": "a sweaty forehead"
+    },
+    {
+     "sense": 1,
+     "vi": "Ở xóm mình, nhờ có mấy đám ruộng biền đó, dầu mùa nắng nước sông cũng rịn vô, ướt-át luôn luôn, bởi vậy nhái ở được mà sanh-sản ra nhiều.",
+     "en": "In our village, as some of the fields are next to wetland, even in the dry season, water from the river can penetrate to keep it [the fields] ever-flooded, creating a suitable habitat for frogs to procreate."
+    }
+   ]
+  },
+  {
+   "headword": "rịt",
+   "base": "60ee6e58bb086178",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very tightly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nắm rịt tay",
+     "en": "to hold someone's hand very tightly or aggressively"
+    }
+   ]
+  },
+  {
+   "headword": "rọc rọc",
+   "base": "545baf291af19c99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a pulley"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rọi bóng",
+   "base": "09d3b0945b158a68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "a movie; film; moving picture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rỏng",
+   "base": "de926754c5e39e3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "small natural waterway"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rốt lòng",
+   "base": "e79cc9fbe248c75d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lastborn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rồng Komodo",
+   "base": "4c4e2a07be43a9b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Komodo dragon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rồng bay phụng múa",
+   "base": "9fec1b7f488bc216",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "lively and vigorous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rồng rắn lên mây",
+   "base": "19866b5204c82141",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of children's game in which the loser (\"it\") of a choosing game (such as rock-paper-scissors) tries to \"tag\" the person at the tail end of a line formed by the winners who all try to block the loser, after the line has \"marched\" around and finished singing the children's song associated with this game (which starts with the phrase rồng rắn lên mây); if the loser succeeds in \"tagging\" that person, the latter will become the next loser (the next \"it\")"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rồng rồng",
+   "base": "a76c7b0071d1ec02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "baby snakehead"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rồng đến nhà tôm",
+   "base": "a93c8cea8eb30ce8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "someone of high status has paid a visit to someone of low status"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dịp gì mà rồng lại đến nhà tôm thế này?",
+     "en": "Why would a man of class like you come to this humble home today?"
+    }
+   ]
+  },
+  {
+   "headword": "rỗng như đít Bụt",
+   "base": "ee4e91bea67406b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "completely empty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộ",
+   "base": "4f116c075078c4b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "noisy"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "en masse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộc",
+   "base": "4d038e3879ce081a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small and shallow irrigation canal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field between two hills"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "skinny (because of sudden decrease in weight)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộn rịp",
+   "base": "5fdc72d20166836e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bustling; lively; crowded"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộng cẳng",
+   "base": "fa69f331c30ba7f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "unconstrained; unrestricted; no strings attached"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộng rinh",
+   "base": "f7b6e938d19d8330",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very spacious"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very loose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộng thênh thang",
+   "base": "dbe7c6ee6a7b92db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "vast; spacious"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

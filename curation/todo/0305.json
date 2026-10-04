@@ -1,0 +1,1209 @@
+{
+ "batch": "0305",
+ "entries": [
+  {
+   "headword": "số hóa",
+   "base": "0c78cf214ac93ac2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of số hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số học",
+   "base": "eed2102db8b55a8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arithmetic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số hữu tỉ",
+   "base": "fe83e6a27304a12a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rational number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số không",
+   "base": "c6aaa1030cc58ac6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "zero, nought"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số khối",
+   "base": "6241c8337c196cc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mass number (number of protons and neutrons in an atomic nucleus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số lẻ",
+   "base": "607276b169b4233c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "odd number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số nguyên",
+   "base": "401b660ad82c7497",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an integer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số nguyên tố",
+   "base": "ac1bc0ba48da8b94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a prime number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số nhiều",
+   "base": "d9fcffaf59c9eb9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the plural"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of đa số (“majority”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số phôn",
+   "base": "bb7a2d72866b34d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "telephone number (digits assigned to a telephone)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xin quý vị vui lòng kê khai tên họ, địa chỉ và số phôn của quý vị.",
+     "en": "Kindly state your name, address, and telephone number."
+    }
+   ]
+  },
+  {
+   "headword": "số phức",
+   "base": "c97c937de5415bb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a complex number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số pi",
+   "base": "c2be33d7d2380467",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số thập phân",
+   "base": "750fdd3f9bb24db4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "decimal number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số thực",
+   "base": "ca299269d203b9fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a real number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số trừ",
+   "base": "bcd7c6d137b0e608",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subtrahend"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số từ",
+   "base": "ce989e65bd9e6c80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "numeral"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số tự nhiên",
+   "base": "77769e509a46cde0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a natural number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số vô tỉ",
+   "base": "4b8c8219d0e9ca60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "irrational number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số điện thoại",
+   "base": "fc723793c37a4003",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "telephone number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số đo",
+   "base": "90b02f7671c2ecd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "measurement; reading"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "số đông",
+   "base": "92009b9df39d4d75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "majority"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tật thì trước sau có thể sửa được, nhưng dốt nát, vô trách nhiệm, khó sửa lắm! Nó thành căn bệnh trầm kha của số đông rồi!",
+     "en": "Vices can be put right sooner or later, but with ignorance and irresponsibility that's very tough to do! These already became chronic ailments for most of them!"
+    }
+   ]
+  },
+  {
+   "headword": "số đếm",
+   "base": "08b08bd5a60c5548",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cardinal number"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốc nhiễm khuẩn",
+   "base": "de0d00a0afff979e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "septic shock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốc nhiễm trùng",
+   "base": "de0d00a0afff979e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "septic shock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốc phản vệ",
+   "base": "b562733a6f27d616",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anaphylactic shock; anaphylaxis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sống mái",
+   "base": "7d79aa3364897035",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very high-stakes, and that could end very badly for all parties involved regardless of whoever triumphs in the end"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quyết một phen sống mái",
+     "en": "to fight to the death"
+    }
+   ]
+  },
+  {
+   "headword": "sống thử",
+   "base": "98b106321e8bccd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "to cohabit (live together as if married)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sống đời",
+   "base": "6c66b4b8d7af3866",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to live forever, to be everliving"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "air plant (Kalanchoe pinnata)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sống ảo",
+   "base": "0428c4a9c0fcf1e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "to live vainly in the virtual world (i.e. the Internet)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốp",
+   "base": "0323f96a0072fb31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shop; retailer"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Internet",
+      "neologism",
+      "slang"
+     ],
+     "gloss": "you, the seller"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốt phát ban",
+   "base": "f0cde86c6a75407a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "roseola, sixth disease, exanthema subitum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốt vàng",
+   "base": "c48efbd60c931765",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a gold rush; a period of feverish migration into an area where gold has been discovered"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yellow fever"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vi rút sốt vàng",
+     "en": "yellow fever virus"
+    }
+   ]
+  },
+  {
+   "headword": "sồn sồn",
+   "base": "854c4a64100f4de4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "rowdy and rushed, combined with upset"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "archaic",
+      "dialectal"
+     ],
+     "gloss": "middle-aged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sổ hồng",
+   "base": "9144eba7aa26d3ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "synonym of giấy chứng nhận quyền sử dụng đất (“a certificate of landownership”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sới",
+   "base": "672b5206c8fab7a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "open ground that serves as cockfighting or wrestling arena"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sớn sác",
+   "base": "fd728f651b70c7f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "slapdash; hasty and careless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sờ nặng",
+   "base": "23bed3ae9e9efcb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "The name of the Latin script letter S/s."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sờ sẫm",
+   "base": "c4bb706215f054de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel around with the hands"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sờn",
+   "base": "ed960378b0291eb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "threadbare; worn-out; frayed"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "discouraged; put off"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sở thuộc",
+   "base": "403e6b59dd0ae7ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "attributive"
+     ],
+     "gloss": "belonging to; subordinate"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "attributive"
+     ],
+     "gloss": "personal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sở đoản",
+   "base": "4ee8dd6f3ba954c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weak points; weaknesses; shortcomings"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sở đoảng",
+   "base": "3b4ba4854c05a0e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eggcorn of sở đoản"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sởn sơ",
+   "base": "a2172236e2f8c7d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lighthearted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sợi huyết",
+   "base": "3ee4ae57cd4d6ad3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fibrin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sụm",
+   "base": "ccf1462ea87bfad1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall; drop; collapse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sụn chêm",
+   "base": "1ba8d3d3b69f5c50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a meniscus (thin cartilage between joints, especially within the knee)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sụt lún",
+   "base": "a584c228965b4d8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to subside, to be depressed, to sink"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sụt sà sụt sịt",
+   "base": "1c90cb803854c2b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "‑a reduplication of sụt sịt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sủi dìn",
+   "base": "d58e650ffdbe490a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tangyuan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức bật",
+   "base": "ab919c42bfd7c42a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "resilience"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức khoẻ",
+   "base": "5866d4e5e1503e9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "health"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức khoẻ tinh thần",
+   "base": "d0c1f4ba09b4b8a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mental health"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức khoẻ tâm thần",
+   "base": "d0c1f4ba09b4b8a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mental health"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức khỏe tinh thần",
+   "base": "7959282b6675960a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of sức khoẻ tinh thần (“mental health”)."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức khỏe tâm thần",
+   "base": "73f08916637f939f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of sức khoẻ tâm thần (“mental health”)."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sức vóc",
+   "base": "7734468a60553e80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "physical strength, as manifested through one's physical frame and stature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sứt môi",
+   "base": "e510df0e7220bd7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having cleft lip, having harelip"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cleft lip, harelip"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sử kí",
+   "base": "92aa0ffca8c2fd27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "a history record"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đại Việt sử kí",
+     "en": "Record of the History of the Great Viet"
+    }
+   ]
+  },
+  {
+   "headword": "sử liệu",
+   "base": "2c8056b133636b9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "historical records; historical data; historical materials"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sử thần",
+   "base": "4b3a4f182ecafc49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "an imperial historian"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sử thần Ngô Sĩ Liên",
+     "en": "Ngô Sĩ Liên the imperial historian"
+    }
+   ]
+  },
+  {
+   "headword": "sử xanh",
+   "base": "932cd25f01594a13",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "green chronicles (account of historical events written on green bamboo slips); (figurative) old book; history book"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sửu nhi",
+   "base": "847716022f402866",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "synonym of trẻ trâu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sữa bột",
+   "base": "e8b059ebd469aa3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "milk powder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sự biến",
+   "base": "87abce31056050e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "incident; emergency"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ta luy",
+   "base": "290e7368abb619de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "embankment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ta thán",
+   "base": "7fb59bce23b3ce09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to upsettingly complain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gã đành ngoảnh mặt đi không một câu ta thán mặc cho miệng đời cứ giật về bủa vây.",
+     "en": "No pity of great multitude while reluctantly turning away was uttered from him regardless of certain intrusive mocking waves."
+    }
+   ]
+  },
+  {
+   "headword": "ta đây",
+   "base": "1fdc817ab1945135",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "I; me"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tai - mũi - họng",
+   "base": "bfa97efcfeb1bc6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ear, nose and throat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tai chua",
+   "base": "8c5d520ef07204e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Garcinia pedunculata"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Garcinia cowa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tai hoạ",
+   "base": "4aba96d0c91ee310",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disaster; calamity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tai qua nạn khỏi",
+   "base": "4f5965a296edec9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "to get out of danger; to get away unscathed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi con cháu ốm đau, các cụ già thường đến đền thờ cầu nguyện cho tai qua nạn khỏi.",
+     "en": "When the children and grandchildren are sick, the old folks often go to the temple to pray for a full recovery."
+    }
+   ]
+  },
+  {
+   "headword": "tai quái",
+   "base": "51d4bccb45e19b03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mischievous; prankish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trò đùa tai quái",
+     "en": "one's joke going too far"
+    }
+   ]
+  },
+  {
+   "headword": "tai to mặt lớn",
+   "base": "cbc73fc232333588",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "derogatory",
+      "idiomatic"
+     ],
+     "gloss": "having power or influence in society; powerful; influential"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tai vách mạch dừng",
+   "base": "5246a2d0fac7f299",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "walls have ears"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tai ách",
+   "base": "4aba96d0c91ee310",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disaster; calamity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tam bảo",
+   "base": "b055b002cfb22bce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Three Jewels; Triple Gem"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tam cúc",
+   "base": "6de430f26a8dac3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "A multi-trick card game popular in northern Vietnam, played mostly by women for entertainment and at ceremonies and festivals."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tam cương",
+   "base": "38c6160d485d579f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the three bonds: quân thần (君臣, “ruler and subject”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the three bonds: phụ tử (父子, “father and son”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the three bonds: phu phụ (夫婦, “husband and wife”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tam cương ngũ thường",
+   "base": "1e3bbfd88c6ebfc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the three fundamental bonds and five constant virtues"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tam giác cân",
+   "base": "36af21d48066d89d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "isosceles triangle"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

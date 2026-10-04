@@ -1,0 +1,1403 @@
+{
+ "batch": "0310",
+ "entries": [
+  {
+   "headword": "thèo lèo",
+   "base": "1f77b3eb7f5337e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bar-shaped sweet made from sugar, malt sugar, sesame seeds and peanuts"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a crunchy stick-shaped confectionary, can be sweet or slightly spicy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "théc",
+   "base": "2916a7fb3a476f59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "to sleep"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bùn théc quá, nằm méng!",
+     "en": "So sleepy, [gotta] lie down a bit!"
+    },
+    {
+     "sense": 1,
+     "vi": "\"Ru em em théc cho muồi/ để mạ đi chợ mua vôi ăn trầu…\" Rồi dừng rất lâu ở từ \"théc\". Bao đôi mắt tròn xoe ngơ ngác dưới kia ồ cả lên, ôi théc là ngủ hở cô?",
+     "en": "\"Sleep tight with my lullaby o' sweet darling/ let mom go to the market and buy some lime for betel eating\" Then [we] pause for a while at [the mentioning of] \"théc\". All the pupils busted in amazement: Teacher, does \"théc\" mean sleep?"
+    }
+   ]
+  },
+  {
+   "headword": "thêm mắm thêm muối",
+   "base": "2640ddc6df1dc889",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to add flair or pizzazz; to make more interesting or attractive; to embellish, embroider"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thêm mắm thêm muối vào bài viết cho văn vẻ",
+     "en": "to add literary flair to a written piece"
+    }
+   ]
+  },
+  {
+   "headword": "thì hiện tại",
+   "base": "c099199123a33c96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "present"
+     ],
+     "gloss": "present tense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thì là",
+   "base": "87adefa7d5b513a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thì là Ai Cập",
+   "base": "ec4a559b7ffb31c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cumin (Cuminum cyminum)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thì quá khứ",
+   "base": "38dc4c7cdf5adeb0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "past"
+     ],
+     "gloss": "past tense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thì tiết",
+   "base": "36973b1e5734dc3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "obsolete"
+     ],
+     "gloss": "season; time (of the year)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người ấy sẽ như cây trồng gần dòng nước, Sanh bông trái theo thì tiết, Lá nó cũng chẳng tàn héo; Mọi sự người làm đều sẽ thạnh vượng.",
+     "en": "That person is like a tree planted by streams of water, which yields its fruit in season and whose leaf does not wither -- whatever they do prospers."
+    }
+   ]
+  },
+  {
+   "headword": "thì tương lai",
+   "base": "e18b36dac04520e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "future tense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thìa canh",
+   "base": "b1865a6d72a421fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "tablespoon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thìa cà phê",
+   "base": "1cb777b0486170f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "teaspoon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thình",
+   "base": "4ae6875e8235864d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loud and as if a heavy object fell down on the ground; with a thud"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bang; a thud"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đóng cửa một cái thình",
+     "en": "shut a door with a bang"
+    }
+   ]
+  },
+  {
+   "headword": "thình thình",
+   "base": "5ff11d340eb3b3cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "pound"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "poundingly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "dậm chân thình thình",
+     "en": "to stomp poundingly"
+    },
+    {
+     "sense": 2,
+     "vi": "đập cửa thình thình",
+     "en": "to bang poundingly on the door"
+    }
+   ]
+  },
+  {
+   "headword": "thí bà nội",
+   "base": "e814f51e87a06c38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Southern",
+      "mildly",
+      "vulgar"
+     ],
+     "gloss": "synonym of thí mẹ (“very much”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thí mẹ",
+   "base": "81bb989f4b583ea2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Southern",
+      "mildly",
+      "vulgar"
+     ],
+     "gloss": "very much"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngu thí mẹ",
+     "en": "so fucking dumb; dumb as fuck"
+    },
+    {
+     "sense": 1,
+     "vi": "chán thí mẹ",
+     "en": "to be bored out of one's mind"
+    },
+    {
+     "sense": 1,
+     "vi": "sợ thí mẹ",
+     "en": "to be scared shitless"
+    }
+   ]
+  },
+  {
+   "headword": "thích chí",
+   "base": "8d1d0a555856bedd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "comfortable; satisfied; content"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thính phòng",
+   "base": "8ed88bd5f1eee502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small concert hall"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhạc thính phòng",
+     "en": "chamber music"
+    }
+   ]
+  },
+  {
+   "headword": "thò lò",
+   "base": "15bbc0271d90af4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spinning top"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "a six-sided spinning top used for gambling"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "runnily, runningly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Nước mũi chảy thò lò.",
+     "en": "Snot drips runnily from the nose."
+    }
+   ]
+  },
+  {
+   "headword": "thò lõ",
+   "base": "b679de6aa34bd569",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "aquiline"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "bulging and staring"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "conspicuous in an insolent way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nhìn nước bò lên ngập đám cỏ đằng trước, mấy con cá nhỏ đủng đỉnh lội tới lội lui, thò lõ nhướng con mắt coi lũ người ta chẳng ra gì.",
+     "en": "They watched the water creep up and swallow the grass in front; some small fish lazily swam back and forth, eyes wide open and staring at the useless humans."
+    }
+   ]
+  },
+  {
+   "headword": "thòi",
+   "base": "f11c28604bfe31f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stick out, protrude"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bị đâm thòi ruột",
+     "en": "to be stabbed with the intestines protruding"
+    }
+   ]
+  },
+  {
+   "headword": "thòi lòi",
+   "base": "7f51abaf693c1f7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mudskipper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thòm thèm",
+   "base": "cc46a0701dfab54c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unsatiated, yearning for more"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi mới gặp lại thằng bạn cũ, cái thằng mỗi khi cười làm tim tôi thút thít thòm thèm.",
+     "en": "I just saw an old friend again, this guy who leaves my heart sobbing with yearning every time he smiles."
+    }
+   ]
+  },
+  {
+   "headword": "thói tật",
+   "base": "72327295336e4911",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vice, bad habit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chẳng qua đó là cái thói tật không bỏ được của anh em bọn mình đấy thôi!",
+     "en": "That's just a bad habit of the boys at our side which we can't get rid of!"
+    }
+   ]
+  },
+  {
+   "headword": "thói tục",
+   "base": "40bad323e9528003",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "rare"
+     ],
+     "gloss": "a tradition; custom; convention"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thói đời",
+   "base": "85c340b1230d6366",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the ways of the world; the habits of people"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thót",
+   "base": "fff7fdb3412ec6d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a swift movement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một loạt súng con nổ rộ lên. Linh thót lên ngọn cây.",
+     "en": "A series of gunshots erupted. Linh swiftly went up to the treetops."
+    }
+   ]
+  },
+  {
+   "headword": "thô lậu",
+   "base": "10c875c8ac8da0fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "crude; uncouth; vulgar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một kẻ thô lậu",
+     "en": "an uncouth man"
+    }
+   ]
+  },
+  {
+   "headword": "thôi nôi",
+   "base": "10b439ff42c43ffa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a child's first birthday celebration"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thôi rồi, Lượm ơi",
+   "base": "2b2c02244f5a0498",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "oh no; oh dear; uh-oh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thôn dã",
+   "base": "93907c67e4067c51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "countryside"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] hoặc những người nghèo khổ ngu dại ở chỗ thôn-giã^([sic]), mờ mờ, mịt mịt, chẳng biết việc đời là việc chi chi,[…]",
+     "en": "[…] and the wretchedly poor and ignorant in the countryside, dim and obscure, who know nothing about the affairs of the world; […]"
+    }
+   ]
+  },
+  {
+   "headword": "thôn tính",
+   "base": "aa924734781bbe8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to annex; to seize; to take over to conquer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thôn ấp",
+   "base": "2895c937f4d66637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "hamlet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tất cả những nơi mắt tôi nhìn thấy, chân tôi bước qua đều đã mất đi sự bình yên phẳng lặng của nó, không khí chiến tranh đã tràn về tận các thôn ấp xa xôi nhất…",
+     "en": "All the places I saw and passed had lost their peacefulness and tranquility; the feeling of war had spread to the most remote hamlets."
+    }
+   ]
+  },
+  {
+   "headword": "thông rụng lá",
+   "base": "6a5f7433bfe227b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "larch (Larix)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông thiên",
+   "base": "5e8aaad25cc26b2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yellow oleander (Cascabela thevetia)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to communicate with heaven"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông thiên học",
+   "base": "4143d8a29d219848",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "theosophy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông thuộc",
+   "base": "dfa9fd2e16f62f5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to know by heart; to be versed in"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông thương",
+   "base": "e69bf7ffbfe13bcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to have trade relations"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông tuệ",
+   "base": "9b17dc80f0caa22d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brilliant; sharp-witted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông tỏ",
+   "base": "e95b67beb056f8c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to know very clearly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông xe",
+   "base": "8043d67421339c47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "free-flowing traffic; (of a road) being open to traffic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thõng",
+   "base": "688e72c5c2ed0ba3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete",
+      "possibly",
+      "rare"
+     ],
+     "gloss": "small slim jar or vase, traditionally used to store fish sauce"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to droop, to sag"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có con gái trong nhà như thõng mắm treo đầu giàng.",
+     "en": "Having daughters in the family is like having jars of fish sauce hanging at the bed's headboard."
+    }
+   ]
+  },
+  {
+   "headword": "thù đủ",
+   "base": "47cfbd7996bf1634",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Huế",
+      "especially"
+     ],
+     "gloss": "papaya"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phép nấu dầu Thù-đủ: dùng nhân (tức cái ruột ở trong cái hột) Thù-đủ 5 cân, dã nhỏ, đổ vào 1 đấu nước nấu có bọt nổi lên, vớt lấy bọt ấy, hết nổi bọt mới thôi.",
+     "en": "How to make papaya oil: procure 5 grams of papaya kernel (i.e. the innermost part of the seed), grind them to pieces, pour in 1 ladle of boiled water, scoop out bubbles floating at the top, finish only when bubbles stop rising."
+    },
+    {
+     "sense": 1,
+     "vi": "Trái đu đủ thì ai cũng biết nhưng ít ai biết người Huế gọi trái đó là trái chi? Xin thưa: người Huế gọi nó là Thù đủ.",
+     "en": "We all know what a đu đủ is, but only a handful of people know that Huế-ians call it by another name: Thù đủ."
+    }
+   ]
+  },
+  {
+   "headword": "thùa",
+   "base": "2c55b863c7478d7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to buttonhole; to work buttonholes"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "agave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thùm thụp",
+   "base": "22b82e1de6e70edf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thudding; pounding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thùng phá sảnh",
+   "base": "0f471b955d5b0cc4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "straight flush"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thùng rác",
+   "base": "643438d0b6215317",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "garbage can"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thùng rỗng kêu to",
+   "base": "c13df21a01536e5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "empty vessels make the most sound"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thú có túi",
+   "base": "844892d62929fb8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a marsupial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thú lông nhím",
+   "base": "e57fe2fb98b1c613",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "echidna"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thú mỏ vịt",
+   "base": "0c8609ac4cbb0122",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "platypus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thú nhồi bông",
+   "base": "1f275ac4a274b615",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stuffed animal; a plushie animal; a soft toy in the form of an animal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thú ăn kiến",
+   "base": "0c0842f0a95c9a49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an anteater"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thún",
+   "base": "ea735fe312ec1f4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of black algae"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rotten, stink"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Dòng rào ô nhiểm thiệt hôi thún!",
+     "en": "The polluted river is really stinky."
+    }
+   ]
+  },
+  {
+   "headword": "thút nút",
+   "base": "142415bdd032d823",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely attached or tied, with no way to untie back"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "buộc thút nút",
+     "en": "to make a dead tie."
+    }
+   ]
+  },
+  {
+   "headword": "thăng long",
+   "base": "4872434250479ad6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eggcorn of thanh long (“dragon fruit”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thăng thưởng",
+   "base": "750ff7e059165aea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get a job promotion; to be promoted (at work, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơ con cóc",
+   "base": "049425c69bb548f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jocular poetry; a jocular poem"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơ phú",
+   "base": "45516ab861ba0052",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of thi phú (“poems and essays”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơ thất ngôn tứ tuyệt",
+   "base": "6d5b7f769cb15bc4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Chinese-style quatrain with 7 syllables for each line, whereby, generally, the last syllables of all but the 3rd line rhyme; poems in Vietnamese also have to have all of their syllables follow some specific patterns of trắc and bằng tones"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thơ Đường",
+   "base": "569b7f1b2d6aaa57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Tang poetry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư hoạ",
+   "base": "3f4d807e27be37f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "painting and calligraphy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "– Tại hạ thu giữ được một số thư họa, muốn nhờ pháp nhãn của hai vị lão đệ giám định.",
+     "en": "\"I managed to lay hands on several paintings with calligraphy and would like to lend your experienced eyes for an appraisal.\""
+    }
+   ]
+  },
+  {
+   "headword": "thư hùng",
+   "base": "ca0aadab93e4cfb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "definitive; ultimate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trận thư hùng",
+     "en": "the ultimate showdown"
+    }
+   ]
+  },
+  {
+   "headword": "thư lại",
+   "base": "0532ef17f4564635",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a scribe"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tượng viên thư lại",
+     "en": "the sculpture of the The Seated Scribe"
+    }
+   ]
+  },
+  {
+   "headword": "thư pháp gia",
+   "base": "75479f1bb46a465e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calligraphist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư thể",
+   "base": "83fbd3c3bf2a6215",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calligraphic styles: triện thư (篆書, “seal script”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calligraphic styles: lệ thư (隸書, “clerical script”)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calligraphic styles: khải thư (楷書, “regular script”)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calligraphic styles: hành thư (行書, “semi-cursive script”)"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calligraphic styles: thảo thư (草書, “grass script”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thư tịch",
+   "base": "b6e36c76dcfecff5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "books and other written documents, especially ancient ones"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nhưng không thể thay thế được những ghi chép trong các thư tịch cổ của chúng ta,[…]",
+     "en": "[…] but this cannot replace what is writting in our ancient writings, […]"
+    }
+   ]
+  },
+  {
+   "headword": "thưng",
+   "base": "a624b806b24edbda",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of bushel for measuring grains"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the quantity which fills a full thưng, often said to be 1/10 of a đấu but can vary"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use planks or bamboo sheets to separate spaces within a house"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise; to lift"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương cho roi cho vọt, ghét cho ngọt cho bùi",
+   "base": "2da74fbda9a94076",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "love means whipping, hate means giving sweetness and gentleness"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "love means corporal punishment, hate means lenient treatment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương cảng",
+   "base": "e9ee255bff028aa6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "trading port; commercial seaport"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương hải tang điền",
+   "base": "66e5dc5b9a8ed785",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "an epic change"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương hồ",
+   "base": "812d1b73a662e8cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "people who live on a boat and wander around rivers and canals, usually making a living through trade"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] ba tôi mới dắt díu người ta bỏ nhà đi, sống kiếp thương hồ.",
+     "en": "[…] which is why my father left with her to live their lives on the canals."
+    }
+   ]
+  },
+  {
+   "headword": "thương người như thể thương thân",
+   "base": "9831a387c65b525f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "to love others as much as oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương pháp",
+   "base": "f8537263cde3d05a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spear fighting, the art of wielding the spear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dương huynh, ngươi dùng thương pháp dương gia thì ngọn đinh ba kia cũng hợp.",
+     "en": "Mr Yáng, you fight the spear in the style of the Yáng lineage, making the trident over there appropriate."
+    }
+   ]
+  },
+  {
+   "headword": "thương số",
+   "base": "f6022f47149d8a0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quotient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương đội",
+   "base": "6e5a43d7840a4588",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "caravan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thước đo góc",
+   "base": "8f71710bc6a66133",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a protractor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thườn thượt",
+   "base": "9c552057e3db9f96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lengthy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lazy; idle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thường hay",
+   "base": "bdc4b8a00a098b2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "often; usually"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thường kì",
+   "base": "f4a4b38793b7a3d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "regular; usual"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thường trú dân",
+   "base": "c84f0df92ac17de2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "permanent resident"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

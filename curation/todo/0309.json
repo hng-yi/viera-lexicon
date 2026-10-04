@@ -1,0 +1,1237 @@
+{
+ "batch": "0309",
+ "entries": [
+  {
+   "headword": "thuỷ sản",
+   "base": "e142b4784c2df458",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "fishing or aquacultural products"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ thần",
+   "base": "c9ade23256c9da40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water god"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ thổ",
+   "base": "1ac387deeca32171",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "climate; local environment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hợp thuỷ thổ nên khỏe ra.",
+     "en": "The climate suits them, so their health has improved."
+    }
+   ]
+  },
+  {
+   "headword": "thuỷ thủ",
+   "base": "af3398084f242416",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sailor"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thuỷ thủ Mặt trăng",
+     "en": "Sailor Moon"
+    }
+   ]
+  },
+  {
+   "headword": "thuỷ tinh",
+   "base": "5548c9160620b5a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glass as a substance; compare kính (“sheet glass”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crystal as an amorphous solid; compare tinh thể"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ tinh thể",
+   "base": "6cfd4276b32685b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lens"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bị đục thuỷ tinh thể",
+     "en": "to have a cataract"
+    }
+   ]
+  },
+  {
+   "headword": "thuỷ tiên",
+   "base": "fc54859f32c790d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "narcissus (any of several bulbous flowering plants of the genus Narcissus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ triều",
+   "base": "16c229593999e21e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ triều đỏ",
+   "base": "cc058ad407c671f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "red tide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ táng",
+   "base": "a684fc950847f321",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bury in an aquatic environment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ tạ",
+   "base": "b0efa18b5ec59d36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "waterside pavilion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ tặc",
+   "base": "44fe1a462690d0bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of hải tặc"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ tề",
+   "base": "93c53931751169fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the underwater domain of a water deity, especially the Dragon King"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ tộc",
+   "base": "62a364a3fa524180",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "aquatic animals"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ tức",
+   "base": "fee3e55dde1b4e15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hydra (any of several small freshwater polyps of the genus Hydra and related genera)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ văn",
+   "base": "3a66d3e634a57bd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hydrology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ văn học",
+   "base": "3a66d3e634a57bd3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hydrology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ vận",
+   "base": "1dfd2bca0427c683",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "waterborne transport"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ âm",
+   "base": "fa150f2ab1018e07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "initial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ điện",
+   "base": "13df9c13d8d2c5af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hydroelectricity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ đậu",
+   "base": "ce08a569e322c1cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chickenpox"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuỷ động lực học",
+   "base": "efddcd4355671bcc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hydrodynamics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thài lài",
+   "base": "e62d84e1b03c15da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dayflower (Commelina sp.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành hoàng",
+   "base": "0f577c454172c25a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thành hoàng (deity enshrined in villages' communal houses in Vietnam)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành hệ",
+   "base": "a5b1e51685a77ec9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "formation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thành hệ địa chất",
+     "en": "geological formation"
+    },
+    {
+     "sense": 1,
+     "vi": "thành hệ Hell Creek",
+     "en": "the Hell Creek Formation"
+    }
+   ]
+  },
+  {
+   "headword": "thành luỹ",
+   "base": "d91a1512b6d0b9bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "defence works"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "strong-hold, rampart"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành phố thuộc thành phố trực thuộc trung ương",
+   "base": "99a1dd738610ba1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a so-called \"municipal city\" or \"city within city\", a novel designation for former districts in a thành phố trực thuộc trung ương, whose size and significance grew large enough to be considered a đô thị, currently held only by Thủ Đức"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành phố thuộc tỉnh",
+   "base": "e7559e7bc10d439d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "provincial city, a type of second-tier administrative division in Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành phố trực thuộc trung ương",
+   "base": "7d2c42c2d2403206",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a city under direct management of the central government"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one of the highest administrative divisions in Vietnam, opposed to tỉnh (“province”), as well as thành phố trực thuộc tỉnh (“provincial capital”); itself is divided into quận (“district”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành quách",
+   "base": "257c19d09bc2383c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "castles, citadels (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành thử",
+   "base": "23e33e25011a841a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "this is the reason that, this is why, and so"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] thành-thử cái xấu, cái dở của mình, thì vị tất đã bỏ đi được,[…]",
+     "en": "[…] which is the reason why the ugly and the bad in us is not automatically done away with, […]"
+    }
+   ]
+  },
+  {
+   "headword": "thành tín",
+   "base": "6a7bd4fd01e3c272",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in good faith"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành uỷ",
+   "base": "d8c842d9352704e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "municipal communist party committee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành văn",
+   "base": "21c07e21827d0ae0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "written"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bằng chứng thành văn",
+     "en": "written evidence"
+    }
+   ]
+  },
+  {
+   "headword": "thành đoàn",
+   "base": "d67b65173a448fc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "city branch of the Communist Youth Union"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành ủy",
+   "base": "91d81844296d3be0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thành uỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thày lay",
+   "base": "19f7f2254e122d09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get involved with affairs that do not concern oneself"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con Thủy thày lay: \"Ảnh thương chế đó\".",
+     "en": "Little Thủy piped up: \"He likes you.\""
+    }
+   ]
+  },
+  {
+   "headword": "thác nước",
+   "base": "ceb386a7c91edb81",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "waterfall"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái cực quyền",
+   "base": "fd3032e157ae7021",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tai chi chuan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái dương quyển",
+   "base": "b6cd2bd05e3ccc80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heliosphere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái dụng",
+   "base": "1a40f44c6a874cca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick out something for use"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái hoà",
+   "base": "921ad54527e4fa51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "peaceful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái hoàng thái hậu",
+   "base": "983ecc44eea892fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grand empress dowager"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái trưởng công chúa",
+   "base": "9d5781b18276997c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "great grand-princess, paternal aunt of a monarch (king, emperor)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thám hoa",
+   "base": "585cc37d8767b5b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a person who achieves the third highest score in the imperial exam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thán khí",
+   "base": "bf009a9a7df9e41c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "carbon dioxide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thán từ",
+   "base": "1d9731fb28b37814",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an interjection"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng ba",
+   "base": "a732b0eae83cf4a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "March (third month of the Gregorian calendar)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng bảy",
+   "base": "13857e5702bb52d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "July (seventh month of the Gregorian calendar)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng chín",
+   "base": "69b9924b956dc590",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "September"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng chạp",
+   "base": "ecf75d9422ec1a50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the twelfth and last lunar month of a year"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "December"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng hai",
+   "base": "d0a11e4f0a704aea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "February (second month of the Gregorian calendar)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng mười một",
+   "base": "ba387e4c4b704acd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "November"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng một",
+   "base": "de1b69b5eb91ec98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "January (first month of the Gregorian calendar)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the eleventh month of the lunar year"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng sáu",
+   "base": "70d9a239892433a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "June"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng tư",
+   "base": "674394ab6e3bdffe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "April"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thánh cả",
+   "base": "bbb9f83dd135872c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the most chaste (a title for Saint Joseph)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thánh hiền",
+   "base": "dc85713f5b8bc384",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sage, person who later generations venerate for their exceptional virtue, wisdom, talent, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vậy nếu trong sách này chúng tôi thường trích-lục những lời nguyên-văn của thánh hiền đã ghi chép trong các Kinh Truyện cùng những điều của tiên-nho lưu-truyền ở trong các sách vở,[…]",
+     "en": "If, in this book, we therefore often quote the original words of the sages recorded in the Classics as well as what Confucian scholars of ancient times passed down in their writings, […]"
+    }
+   ]
+  },
+  {
+   "headword": "thánh thót",
+   "base": "a1b3193be8127681",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sounding like slowly dripping water"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "echoing and clear, with high-pitched and smooth fluctuation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Chất giọng thánh thót ấy của bả sinh ra là đã có rồi.",
+     "en": "The woman's vocal essence of echoing was born evident."
+    }
+   ]
+  },
+  {
+   "headword": "thánh thất",
+   "base": "fc364de55d1b295b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Caodaist temple/church"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thánh tượng",
+   "base": "f0ef4e5692b277a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "icon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháo thân",
+   "base": "b77807b3de670a00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seek to save one's life through flight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Viên tướng áo đen ấy cưỡi một con ngựa đen cuống cuồng chạy tháo thân.",
+     "en": "The black-shirted general climbed onto a black horse and ran in utmost panic to save his life."
+    }
+   ]
+  },
+  {
+   "headword": "tháp dinh dưỡng",
+   "base": "6086b584ffe5a123",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a food pyramid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháp dân số",
+   "base": "dd8f7f708de071c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a population pyramid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháp ngà",
+   "base": "6bf3dbde88042b47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ivory tower"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các nhà khoa học của viện tôi trở nên kiêu kỳ một cách lạ thường, họ tự xây cho mình những tháp ngà kiên cố và rút mình trong đó, dùng kính hiển vi để ngắm nghía cuộc sống, để bĩu môi chê trách người đời.",
+     "en": "The scientists of my institute became strangely arrogant, they built for themselves solid ivory towers and withdrew into them, using microscopes to observe life, to sneer and criticize the world."
+    }
+   ]
+  },
+  {
+   "headword": "thát lát",
+   "base": "578cdc0ae3328a14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "bronze featherback"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sau đợt thu hoạch cá lần này, ông Sang sẽ cho cải tạo lại ao để tiếp tục thả lại 30.000 con thát lát giống để thu hoạch vào dịp Tết.",
+     "en": "After this harvest, Mr. Sang will improve his ponds, wherein he will release a broodstock of 30,000 bronze featherbacks for the Lunar New Year's harvest."
+    }
+   ]
+  },
+  {
+   "headword": "thâm căn cố đế",
+   "base": "d87b69f9ae365fce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "embedded; deep-rooted; lodged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thâm kim",
+   "base": "a96ee476f591a90e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dotted with small spots of grime, such as when fabric gets moldy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] cằn nhằn anh sao để cổ áo thâm kim.",
+     "en": "[…] grumbling, \"Why do you let your collars go spotted with grime?\""
+    }
+   ]
+  },
+  {
+   "headword": "thâm sơn cùng cốc",
+   "base": "860bfb1a8f332e72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "remote; off the beaten track; isolated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thâm thuý",
+   "base": "6145155d53a4bee0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sophisticate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kiến thức có thâm thuý đến mấy mà huyễn hoặc thì cũng bằng không.",
+     "en": "The insight which appears profound to a great extent yet has later proven superficial is just rubbish!"
+    }
+   ]
+  },
+  {
+   "headword": "thâm u",
+   "base": "57f81bea573307f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "dark and lonely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] từ giọng người ới lên một tiếng rồi bặt, dư âm còn thâm u trên các ngọn cây,[…]",
+     "en": "[…] from a voice giving a call and then going silent, its resound dark and lonely on the treetops, […]"
+    }
+   ]
+  },
+  {
+   "headword": "thâm viễn",
+   "base": "cccdc15f2589f0cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "profound, far-reaching"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] còn tính và đạo Trời là phần vi-diệu, phi đối với người học-lực đã thâm viễn, thì Ngài không hay nói đến, cho nên không mấy người được nghe vậy.",
+     "en": "[…] while the nature and the way of Heaven are subtle and profound – [Confucius] would seldom speak of this with people whose learning was not profound, and so few people ever heard him speak about this."
+    }
+   ]
+  },
+  {
+   "headword": "thân binh",
+   "base": "86283073430eaefb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bodyguard (of important person)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nương tử đừng lo, chung quanh khách điếm này đã có thân binh của ta canh phòng nghiêm ngặt,[…]",
+     "en": "Don't worry; my bodyguards surround the inn and keep a close watch; […]"
+    }
+   ]
+  },
+  {
+   "headword": "thân bài",
+   "base": "32148d3bd2942926",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a body"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân chinh",
+   "base": "1031133562827870",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to lead an army personally (as a ruler)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to venture personally (rather than delegating to subordinates)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân mình",
+   "base": "951f3e4044a394e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "body; torso"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân sơ",
+   "base": "ad805584309da125",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "both intimate and distant"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quan hệ thân sơ",
+     "en": "relations both intimate and distant"
+    }
+   ]
+  },
+  {
+   "headword": "thân sơ thất sở",
+   "base": "4c922298ca9bef2f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having no social support network to speak of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhưng nó nghèo quá, thân sơ thất sở không một cục đất chọi chim, biết có lo cho bây sung sướng được không.",
+     "en": "But he's so poor, has no-one to help him, and doesn't even own a single scrap of land; can he make you happy?"
+    }
+   ]
+  },
+  {
+   "headword": "thân tộc",
+   "base": "523172c7e3597c99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kin; relative"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thân tộc của nhà vua",
+     "en": "king's relatives"
+    }
+   ]
+  },
+  {
+   "headword": "thâu đêm suốt sáng",
+   "base": "5f6df65732deeb29",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "through day and night"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

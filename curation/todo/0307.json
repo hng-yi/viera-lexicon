@@ -1,0 +1,1364 @@
+{
+ "batch": "0307",
+ "entries": [
+  {
+   "headword": "thinh",
+   "base": "57b827daee6203ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "silent, speechless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên biến vạn hoá",
+   "base": "28983e6da495228c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "everchanging"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhanh như chớp, ông giở ngón có báo trước cho biết mà chúng tôi chịu, không sao vớ được cái \"thiên biến vạn hoá\" của nhà quỉ thuật đại tài.",
+     "en": "For quite a nick of time, the gifted wizard had raised a suggestive hand towards us but we merely couldn't figure out a whit of how everchanging he was."
+    }
+   ]
+  },
+  {
+   "headword": "thiên biến vạn hóa",
+   "base": "669614c7884c8821",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thiên biến vạn hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên cư",
+   "base": "e2b9e142870c7080",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "to change one's lodgings; to move to a new place (of residence)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên cầu",
+   "base": "6045d8f5db021275",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "celestial sphere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên cực",
+   "base": "9921bce78ec9130b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "celestial pole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên di",
+   "base": "0ee417999a1fea3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to migrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên hoa",
+   "base": "e1066d123f2e782f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "smallpox"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên hoá",
+   "base": "3000bf8da55e7ba2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "to evolve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên hình vạn trạng",
+   "base": "ddee3f60ff8622f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "multiform; manifold; protean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên hướng tình dục",
+   "base": "55b460a735a2666e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sexual orientation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên hạ đệ nhất",
+   "base": "c6de8769a4ef228f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "peerless, unsurpassed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "– Dung nhi thì công phu nấu nướng là thiên hạ đệ nhất, chuyện đó thì ta dám nói.",
+     "en": "\"Róng's cooking skills are unsurpassed, this I dare say.\""
+    }
+   ]
+  },
+  {
+   "headword": "thiên la địa võng",
+   "base": "0355fd43ee1c92c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "inescapable net"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên lí",
+   "base": "74bf7efbc995a8a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Tonkin jasmine (Telosma cordata)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "great distance"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "obsolete"
+     ],
+     "gloss": "rules of nature; laws of nature; natural law"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bông thiên lí xào thịt bò",
+     "en": "stir-fried Tonkin jasmine flowers and beef"
+    },
+    {
+     "sense": 1,
+     "vi": "Ở nông thôn, nhiều nhà có giàn thiên lí.",
+     "en": "In the countryside, many households grow cowslip creepers on trellises."
+    },
+    {
+     "sense": 2,
+     "vi": "[…] địa hình vô cùng hiểm trở; đường thiên lí khoảng này là độc đạo, trên thì núi cao, dưới thì biển và đầm phá,[…]",
+     "en": "[…] the terrain is extremely rugged; this stretch of the long road is the only path, surrounded by high mountains on one side and sea, swamps, and lagoons on the other; […]"
+    }
+   ]
+  },
+  {
+   "headword": "thiên lương",
+   "base": "1ab342ded1ce3958",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "conscience"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên lệch",
+   "base": "84f56afccda30acb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "biased; partial"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên lộc",
+   "base": "da4728c5753942ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "blessings from heaven"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên mưu bách kế",
+   "base": "d704f1968cea3dee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "by hook or by crook; by every possible means"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên nhan",
+   "base": "41bf28fcd1ebace6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "the face of the emperor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên nữ",
+   "base": "e61167e37b1aae2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of thiên (“a devi”) (female deva)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "a female inhabitant of heaven"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(Đại (Thánh)) Biện Tài / Diệu Âm / Mĩ Âm Thiên (nữ)",
+     "en": "Saraswati the Devi"
+    },
+    {
+     "sense": 2,
+     "vi": "Truyền thuyết thiên nữ",
+     "en": "Ceres, Celestial Legend"
+    }
+   ]
+  },
+  {
+   "headword": "thiên phương bách kế",
+   "base": "d704f1968cea3dee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "by hook or by crook; by every possible means"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên quốc",
+   "base": "98048c29fb7c0d6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heavenly kingdom; Kingdom of Heaven; paradise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên thượng",
+   "base": "2cc4a5e3f7405cc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "heaven"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên thượng thiên hạ, bác ái công bình",
+   "base": "f3942d4fcb9f42b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Divine Covenant of the Cao Dai religion (rendered into English as 'God and Humanity [for] Love and Justice.')"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên thần hộ mệnh",
+   "base": "2c74d1e07ed1597d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a guardian angel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên thời, địa lợi, nhân hoà",
+   "base": "cf4034b371f1680e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "heavenly weather/timing, earthly advantage, people's harmony"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "figuratively"
+     ],
+     "gloss": "weather/timing, geography/location and people involved (three keys to a successful operation, such as a battle campaign or the construction of a city or palace)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên tiên",
+   "base": "71c17d67d155e4f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "goddess"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "beautiful young maiden"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên tuế",
+   "base": "56821ed84e7889f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "long live"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Cycas pectinata"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hoàng hậu thiên tuế! Thiên tuế! Thiên thiên tuế!",
+     "en": "Long live the empress consort!"
+    }
+   ]
+  },
+  {
+   "headword": "thiên tào",
+   "base": "f2ef86b296fdb275",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "synonym of thiên đình"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên tư",
+   "base": "caed66fcc1ea9f28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "talent, natural gift"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show bias, to practice favouritism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vậy nên ai là người có thiên-tư hơi khá một tí, muốn chiếm được chút địa-vị tôn-quí trong xã-hội, thì chỉ có nghề đi học.",
+     "en": "Therefore, anyone who has even a bit of talent and wishes to attain a respectable position in society has only one way: studying."
+    },
+    {
+     "sense": 2,
+     "vi": "Trong gia đình thì phải trên thuận, dưới hoà, không thiên tư, thiên ái.",
+     "en": "Within the family, elders must be free of discord and children must be in good agreement, without favoritism or preferences."
+    }
+   ]
+  },
+  {
+   "headword": "thiên tạo",
+   "base": "7259d9e96c53042b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "nature"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "natural"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên tải nhất thì",
+   "base": "7509bd8b5e3cfd38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "once in a blue moon; once in a thousand years"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên ái",
+   "base": "2679bca1d2ad2955",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "biased, having preferences"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong gia đình thì phải trên thuận, dưới hoà, không thiên tư, thiên ái.",
+     "en": "Within the family, elders must be free of discord and children must be in good agreement, without favoritism or preferences."
+    }
+   ]
+  },
+  {
+   "headword": "thiên điểu",
+   "base": "7d6947b61c57478b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Strelitzia; bird of paradise plant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên đô",
+   "base": "65a0146c567040b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "to relocate the capital (of a country)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thiên đô chiếu",
+     "en": "Edict on the Transfer of the Capital"
+    }
+   ]
+  },
+  {
+   "headword": "thiên để",
+   "base": "4630a85a9ce6b461",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nadir"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên đỉnh",
+   "base": "18b4fb8dccb3a9c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "zenith"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên định",
+   "base": "10f0e03649f14bff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "predestined; predetermined; fated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết giáp hạm",
+   "base": "b808d2ecd6633e76",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "battleship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết kế đồ hoạ",
+   "base": "0c487d945ef45c7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "graphic design"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết kế đồ họa",
+   "base": "3b123aec42da7632",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thiết kế đồ hoạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết quân luật",
+   "base": "32be33f5d8e2a53a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "martial law"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết trí",
+   "base": "0ecabe8371d94e06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to set up; to install; to arrange"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết tưởng",
+   "base": "32db125f8c967355",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in my humble opinion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] thiết tưởng đó cũng là lẽ tự nhiên chứ đâu có gì là thua thiệt!",
+     "en": "[…] I would dare to venture that this is also the way of things; there is no loss there!"
+    }
+   ]
+  },
+  {
+   "headword": "thiếu máu",
+   "base": "e61b4c83c610dcc1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "anaemic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiếu nam",
+   "base": "17844f1eb56eed1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "synonym of thiếu niên (“a lad”) (a boy or young man)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the youngest son"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Truyền thông đã tạo ra một hình ảnh về tuổi thiếu nam và thiếu nữ (như trong thời chiến họ tạo ra chân dung lính Mỹ, lại dùng ngôn ngữ lính tráng đã được biên tập đáng kể) và họ buộc trẻ em hoặc là chấp nhận hoặc là hung hăng cưỡng lại hình ảnh của chíng mình.",
+     "en": "The media has created an image of boyhood and girlhood (like the portrait of an American serviceman, with heavily edited militaristic language), and forced children to either accept or aggressively resist their own image."
+    },
+    {
+     "sense": 1,
+     "vi": "Đơn vị của Gia đình Phật tử là GIA ĐÌNH. Trên hết là Gia trưởng thay mặt cho sáu đoàn: Nam Phật tử, Nữ Phật tử (cho thanh niên nam nữ trên 18 tuổi). Thiếu nam, Thiếu nữ (cho các thiếu niên nam nữ từ 13 đến 17 tuổi). Nam Oanh vũ, Nữ Oanh vũ (từ 6 đến 12 tuổi) trong việc đối ngoại. Mỗi đoàn có một Đoàn trưởng và một Đoàn phó phụ trách cả 4 đội (mỗi đội từ 8 đến 12 em). Cả sáu đoàn đặt dưới sự điều khiển của Liên Đoàn trưởng.",
+     "en": "The unit of the Buddhist Family is the FAMILY. Leading each is the Head who handles external affairs for each of the six divisions: Male and Female Buddhists (male and female youths aged 18 and above), Male and Female Adolescents (adolescents aged 13 to 17), Male and Female Oanh vũ (6 to 12). Each division has one Captain and one Deputy who are responsible for its four squads (each squad consists of 8 to 12 children). All six divisions are under the control of a Commander."
+    },
+    {
+     "sense": 2,
+     "vi": "Từ bốn nghi này tiếp tục hình thành nên Bát quái Càn, Đoài, Ly, Chấn, Tốn, Khảm, Cấn, Khôn với bốn cặp đối xứng nhau, tức: Càn là cha, Khôn là mẹ; Chấn là trưởng nam, Tốn là trưởng nữ; Khảm là trung nam, Ly là trung nữ; Cấn là thiếu nam, Đoài là thiếu nữ.",
+     "en": "From these four modes, the Eight Trigrams, the Creative, the Joyous, the Clinging, the Arousing, the Gentle, the Abysmal, the Keeping Still and the Receptive, form four contrastive pairs: the Creative is the father, the Receptive is the mother; the Arousing is the eldest son, the Gentle is the eldest daughter; the Abysmal is the middle son, the Clinging is the middle daughter; the Keeping Still is the youngest son, the Joyous is the youngest daughter."
+    }
+   ]
+  },
+  {
+   "headword": "thiếu phụ",
+   "base": "fe40dc6e716e0c06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a young married woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cô ấy đã trở thành một thiếu phụ xinh đẹp.",
+     "en": "She has blossomed into a lovely young woman."
+    },
+    {
+     "sense": 1,
+     "vi": "Người thiếu phụ sững sờ khi thấy chồng về sau chiến tranh.",
+     "en": "The young woman was stunned to see her husband returning from the war."
+    }
+   ]
+  },
+  {
+   "headword": "thiếu trước hụt sau",
+   "base": "9813a689174d16a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "full of hardship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiếu uý",
+   "base": "7717cded36d79610",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "junior lieutenant; second lieutenant"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ensign"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiền na",
+   "base": "7ae5246f754b2947",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dhyana, jhana."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiều",
+   "base": "8f245055dc2e4b06",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "giant catfish, Netuma thalassina"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiều quang",
+   "base": "170b5fb71cbaba38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "light of freshness; springtime"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiện nguyện viên",
+   "base": "c09ed36f166e8561",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "volunteer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thon von",
+   "base": "60a313675c1bc442",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solitary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thong dong",
+   "base": "4cba3af7df9eba07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "leisurely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thong dong đi chợ cùng mẹ",
+     "en": "to leisurely go to the market with mother"
+    }
+   ]
+  },
+  {
+   "headword": "thong manh",
+   "base": "a9a2709e695241bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "blind or obscure, yet with no apparent symptoms"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoá mạ",
+   "base": "4a362676ed688f96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to insult; to revile"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có lẽ nhà tác-giả bị ảnh-hưởng thiên-vị của nhà linh-mục có ý đề cao đạo-đức và thoá mạ bất kỳ văn-chương nào có vẻ xâm-phạm phong-tục [...].",
+     "en": "The author was probably influenced by some priest's bias that intended to foster morality and degrade any kind of literature seemingly disregarding the custom …."
+    }
+   ]
+  },
+  {
+   "headword": "thoái hoá",
+   "base": "dab6c65f0fd7c4e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to degenerate, decline or regress"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thoái hoá đốt sống cổ",
+     "en": "cervical degenerative disease"
+    },
+    {
+     "sense": 1,
+     "vi": "thoái hoá phẩm chất đạo đức",
+     "en": "moral decline"
+    }
+   ]
+  },
+  {
+   "headword": "thoáng qua",
+   "base": "4784eed5c733dd97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fleeting"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cảm tình thoáng qua",
+     "en": "fleeting affection"
+    }
+   ]
+  },
+  {
+   "headword": "thoát hiểm",
+   "base": "d9c8d13a28899502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to escape danger"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoát nạn",
+   "base": "344953b9473a1b4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to escape (esp. in a fortunate or lucky manner) from (a bad situation etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoát y vũ",
+   "base": "07fe1e02c53c3ee0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stripping"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of vũ nữ thoát y"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoăn thoắt",
+   "base": "6ee5dddb36bdbbb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rapid, fast"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bàn tay cầm kéo của chị thoăn thoắt lách từng đường vẽ.",
+     "en": "Her hand with the scissors rapidly followed each of the drawn lines."
+    }
+   ]
+  },
+  {
+   "headword": "thoạ",
+   "base": "7ddd35f04cc45085",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "drawer (open-topped box that can be slid in and out of the cabinet that contains it)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoả",
+   "base": "d6ddb8e31a09a24f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "completely satisfied; to one's heart's content"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoả hiệp",
+   "base": "beeeec52cd811ed5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compromise (with); to reach a compromise; to reconcile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoả mãn",
+   "base": "47c03ef13cf05419",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to satisfy; to meet (a need)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoả thuê",
+   "base": "391c76287dce2cde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to one's heart's content, at will"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu không có những con người lạ quen đang đứng xúm quanh kia, chắc anh sẽ buông thả toàn thân để được gục đầu vào lòng em mà khóc cho thoả thuê rồi.",
+     "en": "If not for those familiar strangers crowding around them over there, he would probably let himself completely go and bury his head in her lap and cry his heart out."
+    }
+   ]
+  },
+  {
+   "headword": "thoả thuận",
+   "base": "9310a056fd31b314",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to agree (to something); to consent (to something); to come to an agreement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoả thích",
+   "base": "b4b9e5678979a8ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to one's heart's content; at will"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoả đáng",
+   "base": "c908a9b14382b669",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fitting; proper; appropriate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoảng",
+   "base": "4ccd7ebbd3fd79b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to sweep past; to be fleeting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu góp",
+   "base": "685e61daf8a819bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather; to convene"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu gọn",
+   "base": "2491656b73faff04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put in order"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to neatly and tidily arrange; to fix"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shorten; to curtail; to abbreviate; to abridge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu lu",
+   "base": "c6f430057f49eda5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "making oneself small"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thời của hắn chưa tới, đành phải ngồi thu lu chứng kiến mọi lẽ đời vậy.",
+     "en": "His time had not yet come, and so he had to make himself small and witness life passing by."
+    }
+   ]
+  },
+  {
+   "headword": "thu nhỏ",
+   "base": "05032ede19fcde58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to reduce in size; to miniaturize; to shrink"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "miniature"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "khu xóm của tôi như một Sài Gòn thu nhỏ",
+     "en": "my neighborhood is like a miniature Saigon"
+    }
+   ]
+  },
+  {
+   "headword": "thu phí",
+   "base": "0235de6c77be6cbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collect fees; to charge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu thuỷ",
+   "base": "12412de976cf3244",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the waters of autumn"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "limpid eyes of a beautiful woman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu thủy",
+   "base": "b3904ca52d157ad4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thu thuỷ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu tâm",
+   "base": "94afa5cb355136d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "systole"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

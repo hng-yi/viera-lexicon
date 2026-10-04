@@ -1,0 +1,1259 @@
+{
+ "batch": "0220",
+ "entries": [
+  {
+   "headword": "Gru-di-a",
+   "base": "aecbe3e60d9dfcf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Georgian (pertaining to the country, people or language of Georgia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Gô-loa",
+   "base": "c4f7bd0218cde528",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Gaulish"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Gallic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "gà trống Gô-loa",
+     "en": "the Gallic rooster"
+    },
+    {
+     "sense": 2,
+     "vi": "những chú gà trống Gô-loa",
+     "en": "\"the Gallic roosters;\" the French footballers"
+    }
+   ]
+  },
+  {
+   "headword": "Ha-mai-ca",
+   "base": "9bed08d5335fc1c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Jamaican"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hi Hoàng",
+   "base": "8a827bc6434221d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "of the times of mythological creators and civilization founders, including the gods Fuxi and the Yellow Emperor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hin-đi",
+   "base": "21c869f12005eb52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Hindi (language)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiếng Hin-đi",
+     "en": "Hindi (language)"
+    }
+   ]
+  },
+  {
+   "headword": "Hoa ngữ",
+   "base": "7d8e21f6e0b1873c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese language"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lễ tình nhân Valentine - những phim Hoa ngữ không thể không xem",
+     "en": "The must-watch Chinese-language films about Valentine's Day"
+    }
+   ]
+  },
+  {
+   "headword": "Hoà chế Hán ngữ",
+   "base": "b5ad196a867899c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Japanese-made Chinese-character-based words, wasei-kango"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hoạn thư",
+   "base": "9cb5b6c0344cf201",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal",
+      "literary"
+     ],
+     "gloss": "a woman who is madly jealous when it comes to love, which can lead her to be dangerous and to do harm to others"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hrê",
+   "base": "1a61ad0c915c9118",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "H're, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hy-La",
+   "base": "d54e6547eb4fa004",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Greco-Roman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hà Nhì",
+   "base": "f6fc2073fe7f3d2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Hani, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hàn lưu",
+   "base": "2b655d731304ae09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Korean Wave (spread of South Korean entertainment in other parts of the world)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": ".",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "Hán Nôm",
+   "base": "43362cca7d7ed59a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chữ Hán (literary Chinese characters) and chữ Nôm (characters for vernacular Vietnamese), as a whole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán Việt",
+   "base": "c1c16414d5012069",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "borrowed from Classical Chinese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán hoá",
+   "base": "71190ed7d78289e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sinicization"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán hóa",
+   "base": "8b5d8262b1ca7701",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of Hán hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán học",
+   "base": "66ebc9c517288c1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "education only with Chinese characters"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sinology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán ngữ",
+   "base": "924fd6467b41fab4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the \"Chinese language\"; Standard (Mandarin) Chinese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán nô",
+   "base": "511adea35bb83bbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "Chinese stooge; pro-China lackey"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán phục",
+   "base": "48ceb8e55b9e28a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hanfu (traditional Han Chinese clothing)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán tộc",
+   "base": "2bba7015378c6dd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Han Chinese (the largest ethnic group indigenous to China)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán tự",
+   "base": "672905418b2d2ac6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "Chinese character"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán văn",
+   "base": "30b69d522838c300",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Classical Chinese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hán-Tạng",
+   "base": "c80bc27ce06d5acc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Sino-Tibetan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hê-brơ",
+   "base": "79b2ed02c59f382a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Hebrew"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hạ Uy Di",
+   "base": "9f29fe771b5c2625",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Hawaiian"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mặc dù số người hút thuốc vẫn còn cao trong các cộng đồng AANHPI, nhưng nghiên cứu cho thấy rằng trên 60% người hút thuốc thuộc ba cộng đồng Mỹ gốc Á-Châu, người Bản địa Hạ Uy Di, và người dân đảo Thái Bình Dương vẫn bày tỏ sự quan tâm đến việc bỏ thuốc lá.",
+     "en": "Although the number of smokers is also high among the AANHPI community, researchers have found that more than 60% of smokers belonging to the Asian American, Native Hawaiian, and Pacific Islander communities have expressed interest in quitting."
+    }
+   ]
+  },
+  {
+   "headword": "Hồi quốc",
+   "base": "e8bf3347480d40d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sultanate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hồng học",
+   "base": "39c41140d5dfe0d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "redology (The study of the novel Dream of the Red Chamber)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Hội Tam Điểm",
+   "base": "23a763e59e6b396a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Freemasonry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "I-ta-li-a",
+   "base": "5e45ba07ceab186d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Italian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Kháng Cách",
+   "base": "8f5d04334eca74a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Protestantism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Khơ Mú",
+   "base": "85439f4379ca7913",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Khmu, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Khơ-me",
+   "base": "87b329759894f80a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "the Khmer ethnic group"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Khmer"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tiếng Khơ-me",
+     "en": "the Khmer language"
+    }
+   ]
+  },
+  {
+   "headword": "Khương",
+   "base": "137c138fdeba7d20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "related to Qiang"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Khổng giáo",
+   "base": "8195cd6786d9e988",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Confucianism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Kê-ni-a",
+   "base": "6bbe15f24bc2e97b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Kenyan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "La Chí",
+   "base": "99b80ce6df1e0e9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lachi, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "La Ha",
+   "base": "d60c3167c25ba979",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Laha, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "La Hủ",
+   "base": "2541359c15a6b675",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lahu (an ethnic group of Vietnam)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "La-tinh",
+   "base": "db1fb2bbc8d13262",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Latin"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Romance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiếng La-tinh",
+     "en": "the Latin language"
+    },
+    {
+     "sense": 1,
+     "vi": "Mĩ La-tinh",
+     "en": "Latin America"
+    }
+   ]
+  },
+  {
+   "headword": "Li-băng",
+   "base": "7b39a9bf48df36aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Lebanese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Li-tuy-a-ni",
+   "base": "ffe7a269c03eb182",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "Lithuania"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Liên Âu",
+   "base": "c3a34c46aff8e71d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Intereuropean"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Relating to the European Union"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Làng Gốm Bát Tràng",
+   "base": "0d1978dc993d90c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare",
+      "slang"
+     ],
+     "gloss": "the LGBT community"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh có ủng hộ Làng Gốm Bát Tràng không à? Anh có, em ạ!",
+     "en": "Do I support the Bát Tràng ceramic village / LGBT [community]? I do, little one!"
+    }
+   ]
+  },
+  {
+   "headword": "Lê Thị B",
+   "base": "d1ebc93c9816c3db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Jane Doe (unknown or anonymous female person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Lô Lô",
+   "base": "9eedd56df0519098",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Yi, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Lẩu Gà Bình Thuận",
+   "base": "0d1978dc993d90c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "often",
+      "slang"
+     ],
+     "gloss": "the LGBT community"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Lự",
+   "base": "1ae9789bc35721ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lu, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "M'Nông",
+   "base": "23420fc0e55ef4ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mnong, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Ma-rốc",
+   "base": "b4842e90e1259791",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Moroccan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Ma-đi-an",
+   "base": "4ac9e7fc6c58f3ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Midianite"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con cái Ít-ra-en bắt phụ nữ Ma-đi-an và con cái chúng làm tù nhân; họ đã lấy mọi thú vật, mọi súc vật và mọi của cải chúng làm chiến lợi phẩm.",
+     "en": "The Israelites captured Midianite women and children as prisoners; they took all their herds, flocks and property as spoils."
+    },
+    {
+     "sense": 1,
+     "vi": "Dân Y-sơ-ra-ên bắt đàn bà và con nít Ma-đi-an dẫn theo, cướp hết thảy súc vật, bầy chiên và của cải họ, [...]",
+     "en": "The Israelites captured Midianite women and children, plundered all their herds, flocks and property, …"
+    }
+   ]
+  },
+  {
+   "headword": "Men-sê-vích",
+   "base": "eb66ff6ea73ed76c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Menshevik"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu sự thực hàng ngày cho ta biết có nhiều người mang thẻ đảng viên cộng sản khá lâu năm mà tư tưởng và hành động vẫn chưa có gì là vô sản cả, thì sự thực lịch sử cũng đã chứng minh có nhiều đảng tự nhận là của giai cấp vô sản mà quả thực phản lại quyền lợi của giai cấp vô sản (như Đảng Xã hội ở các nươc tư bản, Đảng Men-sê-vích ở Nga…)[.]",
+     "en": "If we know every day for a fact that many have been carrying Party's membership cards for a rather long time but their thought and actions are not yet proletarian at all, then it's also a proven historical fact that many parties proclaimed themselves to be of the proletariat but in fact went against the proletariat's interests (like the Socialist parties in capitalist countries, the Menshevik party in Russia,…)[.]"
+    },
+    {
+     "sense": 1,
+     "vi": "Tại Đại hội II của Đảng Công nhân dân chủ - xã hội Nga (tháng 7-1903), Đảng đã chia thành hai phái là Bôn-sê-vích và Men-sê-vích. Những người Men-sê-vích cấu kết với phái “kinh tế” trong Đảng, trở thành một lực lượng có đường lối riêng, chống lại phái Bôn-sê-vích, đứng đầu là V.I. Lê-nin.",
+     "en": "At the 2nd Congress of the Russian Social Democratic Labour Party (July 1903), the Party was split into two factions: Bolshevik and Menshevik. The Mensheviks collaborated with the “Economist” faction in the Party, became a force with their own directions, and opposed the Bolshevik faction headed by V. I. Lenin."
+    }
+   ]
+  },
+  {
+   "headword": "Mác-xít",
+   "base": "15e621ca0d29a02c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Marxism"
+     ],
+     "gloss": "Marxist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mê-hi-cô",
+   "base": "6835774c4788020c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Mexican"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mô-na-cô",
+   "base": "d412a03484c10f6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Monégasque, Monacan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Môn-đa-vi",
+   "base": "1c0c1e04f4d30f86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Moldovan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Môn-đô-va",
+   "base": "1c0c1e04f4d30f86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Moldovan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mĩ hoá",
+   "base": "4afd790b1ea44d5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to Americanize"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Americanisation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mĩ kim",
+   "base": "d80bd07f09529209",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "synonym of đô-la Mĩ (“US dollar”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mặc gia",
+   "base": "e708f6e5fc43a106",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mohism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mặc giáo",
+   "base": "e708f6e5fc43a106",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mohism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhưng vì Khổng-giáo có phần cao-minh hơn và lại thích-hợp với tính-tình người Tàu, cho nên mới chiếm được cái địa-vị độc-tôn, mà Mặc-giáo thì phải tiêu-ma đi mất.",
+     "en": "But Confucianism is at times more conscious and also better suited to the Chinese temperament, which is why it gained supremacy where Mohism was reduced to nothing."
+    }
+   ]
+  },
+  {
+   "headword": "Mẹc-xe-đét",
+   "base": "2a369bbc5b28f03b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Mercedes (car manufactured by Mercedes-Benz)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "NDT",
+   "base": "64714a96a2c65ad0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "RMB (“renminbi”); initialism of nhân dân tệ"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nam Kì",
+   "base": "652a1c396de36b55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Cochinchina, a French colony from 1862 to 1949; initially known as Lower Cochinchina"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Southerner"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Cochinchinese"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "pertaining to Southern Vietnam"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cộng hòa Tự trị Nam Kì .",
+     "en": "Autonomous Republic of Cochinchina."
+    }
+   ]
+  },
+  {
+   "headword": "Nam mô A Di Đà Phật",
+   "base": "94e8cf1c368391e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Namo Amitābhāya, a common phrase of salutation used by Buddhists"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Con lạy Nam mô A Di Đà Phật.",
+     "en": "I pray, \"Namo Amitābhāya.\""
+    }
+   ]
+  },
+  {
+   "headword": "Nam Âu",
+   "base": "cf837196fc79eb5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Southern European"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nam Úc",
+   "base": "8a7928839bded00a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "South Australia (a state of Australia, located in the central southern part of the continent; a former British colony until 1901)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nga La Tư",
+   "base": "2de0c2360bf846a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "Russian (of, from or relating to Russia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nghệ ngữ",
+   "base": "cf85c70a078d78d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Vietnamese dialect spoken in Nghệ An and Hà Tĩnh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nguyễn Thị B",
+   "base": "d1ebc93c9816c3db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Jane Doe (unknown or anonymous female person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nguyễn Văn A",
+   "base": "94b07e2416bde148",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "John Doe (unknown or anonymous male person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nho học",
+   "base": "17cd3173aa5340c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of Khổng giáo (“Confucianism”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nhật Bản học",
+   "base": "4f27f8b6cc733f94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Japanology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nhật Lùn",
+   "base": "c266269ed58d729c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "derogatory",
+      "ethnic",
+      "slur",
+      "usually"
+     ],
+     "gloss": "Japanese"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cho xem cuốn truyện Nhật Lùn cái nào.",
+     "en": "Hey man, let me take a peek at that weebshit comic book."
+    }
+   ]
+  },
+  {
+   "headword": "Nhật Nhĩ Man",
+   "base": "31d542bc68910bfd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Germanic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Ni-giê-ri-a",
+   "base": "6bd27857442ad19a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Nigerian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nê-an-đéc-tan",
+   "base": "bc6505ed1d914c21",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Neanderthal (a specimen of the now extinct species Homo neanderthalensis)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "người Nê-an-đéc-tan",
+     "en": "Homo neanderthalensis"
+    }
+   ]
+  },
+  {
+   "headword": "Nô-en",
+   "base": "e57014db2e833dd8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Christmas"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nùng",
+   "base": "7836e4aa3764d21e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Nùng, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Nụy Khấu",
+   "base": "65ea8c47aba47ea6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wokou (Japanese pirates that raided Japan's neighbouring countries in the Late Middle Ages.)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "related to wokou"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

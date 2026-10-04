@@ -1,0 +1,1420 @@
+{
+ "batch": "0198",
+ "entries": [
+  {
+   "headword": "băng trôi",
+   "base": "54471000ddf4e2f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "drift ice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thê tử",
+   "base": "f55e71e538780dcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wife"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đến cuối cùng, giây phút trước khi nhắm mắt xuôi tay, Wang Eun vẫn cố gắng vươn tay về phía thê tử.",
+     "en": "In the end, moments before death, Wang Eun still tried to reach a hand out toward his wife."
+    }
+   ]
+  },
+  {
+   "headword": "đại trà",
+   "base": "e6718b24be612da0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "large-scale; widespread; pervasive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sản xuất đại trà",
+     "en": "mass production"
+    }
+   ]
+  },
+  {
+   "headword": "trong vắt",
+   "base": "3adfe5bbfadcaaf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crystal clear; limpid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phân minh",
+   "base": "448ceab075ba6cbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "that which is recognized, distinguished and/or dealt with in a clear, unambiguous, fair and impartial manner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công tư phân minh",
+     "en": "I/we draw a clear line between public and private affairs"
+    },
+    {
+     "sense": 1,
+     "vi": "thưởng phạt phân minh",
+     "en": "I/we only reward and punish fairly, without prejudice"
+    },
+    {
+     "sense": 1,
+     "vi": "tiền bạc phân minh, ái tình dứt khoát",
+     "en": "when it comes to money, everything must be fair and transparent, and when it comes to romance, everything must be unequivocal and resolute"
+    }
+   ]
+  },
+  {
+   "headword": "dame",
+   "base": "681d261f17344b8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "damage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bề bộn",
+   "base": "4747899c20ddf697",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "jumbled; messy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "busy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầu lông",
+   "base": "092f9bbe13bda50c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "badminton"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a shuttlecock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loạn thần",
+   "base": "706f66b24bdc0a4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "historical"
+     ],
+     "gloss": "a rebellious subject; a renegade government minister"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cây ăn quả",
+   "base": "b0f819c5724a6075",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "fruit tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vậy hả",
+   "base": "9e3b42d2f87ffbbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "really?"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liti",
+   "base": "8c5019f23b677918",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lithium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hổ quyền",
+   "base": "d3ff4262666a1020",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tiger style"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phẩm",
+   "base": "cddde2fd05cf512b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dye, colorant or coloring"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phẩm màu",
+     "en": "(food) coloring"
+    }
+   ]
+  },
+  {
+   "headword": "bòng bong",
+   "base": "9cae4ca5f334eb33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a climbing fern, of the species Lygodium flexuosum"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "any climbing ferns the genus Lygodium"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "split bamboo fibers; bamboo shavings"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a mess; jumble"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Nhật ký chú bé nhút nhát: Mớ bòng bong",
+     "en": "Diary of a Wimpy Kid: Hot Mess"
+    }
+   ]
+  },
+  {
+   "headword": "trúng kế",
+   "base": "d2ade8d25782a3c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fall into a trap"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "– Ném binh khí cung tên xuống, sẽ tha cho các ngươi khỏi chết. / Dương Thiết Tâm nói: / – Đại ca, đừng trúng kế của chúng.",
+     "en": "\"Throw down your weapons and we'll spare you.\" / Yáng Tiěxīn said, \"Brother, don't fall into their trap.\""
+    }
+   ]
+  },
+  {
+   "headword": "chết nhát",
+   "base": "903dcb89b7a825e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "bacterial wilt (an illness for vegetation, typically caused by Ralstonia solanacearum, formerly Pseudomonas)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "rare"
+     ],
+     "gloss": "awfully cowardly; terribly spineless; extremely gutless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh họa",
+   "base": "15f11a82e23b7e9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of danh hoạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tươi sống",
+   "base": "821b1d2d06f47142",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fresh"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chợ hải sản tươi sống",
+     "en": "fresh fish market"
+    }
+   ]
+  },
+  {
+   "headword": "đèn đuốc",
+   "base": "30cba319f7ce638b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "lamps"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cười khẩy",
+   "base": "a50528485092a461",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to laugh scornfully; to snigger; to smirk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhí nhố",
+   "base": "9dad9fd4b94c3f5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "higgledy-piggledy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung phong",
+   "base": "0db59a026fd8baac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "centre-forward"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kinh qua",
+   "base": "c766e8096d6ac08b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to experience; to go through"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Còn trẻ mà đã kinh qua những là kiến thức quả thực không phải trời phú mới lạ đấy.",
+     "en": "That he had gone through myriads of knowledge despite young age was apparently nothing but due to his endowment."
+    }
+   ]
+  },
+  {
+   "headword": "trơn tuột",
+   "base": "b056f0a4fb40ef26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slippery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nô đùa",
+   "base": "f58fbd7b59e5992d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to play joyfully and loudly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "y sinh",
+   "base": "8bc665f5ec407eb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "physician; medical doctor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bóc trần",
+   "base": "a87a0576409f93e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to unveil, to expose, to bring to light (e.g. a hidden evil)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Âm mưu bị bóc trần.",
+     "en": "The plot was exposed."
+    }
+   ]
+  },
+  {
+   "headword": "hơi cay",
+   "base": "be6655e7e045239d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tear gas"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cảnh sát đã dùng hơi cay chống lại người biểu tình.",
+     "en": "The police used tear gas against protesters."
+    }
+   ]
+  },
+  {
+   "headword": "lạnh tanh",
+   "base": "b217452be2c00bc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "devoid of all human feelings and emotions"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà lạnh tanh",
+     "en": "a house that feels abandoned"
+    },
+    {
+     "sense": 1,
+     "vi": "Rồi sực nhớ bếp ở nhà lạnh tanh, nó chạy về.",
+     "en": "Then she suddenly remembered the cooking fire at home was being left cold and she ran back."
+    }
+   ]
+  },
+  {
+   "headword": "viêm mạch",
+   "base": "fe5a3cdd1bde8a83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vasculitis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình trụ",
+   "base": "f0c5ddd2f02c9bd7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cylinder (a shape with a surface area)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúng bái",
+   "base": "7032cf67372d0537",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to worship ancestors and deities etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nho khô",
+   "base": "4fe3807c27bb0d92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "raisin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hút hít",
+   "base": "ffd7b63e137f151c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "to smoke"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "to snort; to inhale"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dao lam",
+   "base": "7c6cfbc6e3a1358f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "razor blade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "màng nhĩ",
+   "base": "9d71a0c5b744b789",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an eardrum"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thủng màng nhĩ",
+     "en": "with perforated eardrums"
+    }
+   ]
+  },
+  {
+   "headword": "thầy tu",
+   "base": "d2e5142874fd0588",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monk; priest; friar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lườn",
+   "base": "39472634aefb9d53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "keel (of a boat)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "breast (of a bird or chicken)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "filet (of fish)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rib"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm hưởng",
+   "base": "06bcaaa1f7c7a2df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "resonance"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "harmony; reverberation"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "influence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ mẫu",
+   "base": "ca5352b01421e9d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "father and mother; parents"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see phụ, mẫu."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tởn",
+   "base": "390f8c6e74bd8ef4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be so scared that one doesn't dare to do something bad again"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghị định thư",
+   "base": "0138671b4a16cf47",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "protocol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trung tuyến",
+   "base": "2a6df9dfc10da8dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a median"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tử vi",
+   "base": "a4e190e79645188d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a horoscope according to Taoist fortune-telling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ất giáp",
+   "base": "879752e81b8e2fcd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a thing; anything"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chả hiểu nó đang nói ất giáp cái giống gì.",
+     "en": "Yeah as if I understand jack all about what he's spouting."
+    }
+   ]
+  },
+  {
+   "headword": "bấy",
+   "base": "422aec871500bf75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "det",
+     "tags": [],
+     "gloss": "of that extent, of that amount"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crushed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đường sá",
+   "base": "68b7947888d760c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "roads; ways (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tía lia",
+   "base": "6f7f913546804a56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "very quickly and continuously"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình bình",
+   "base": "bdfac2cc8d772132",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "mediocre or banal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kênh đào",
+   "base": "b8a8a7da2fb45fd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "canal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ tướng",
+   "base": "6e02e8f95dc44b4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "the feudal commander-in-chief; chief commander of armed forces"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghi công",
+   "base": "84cb94b5642241f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cite, commend (for an achievement)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cite, acknowledge, attribute (scholarship or creative work)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ghi công ai vì dũng cảm",
+     "en": "to cite somebody for bravery"
+    },
+    {
+     "sense": 2,
+     "vi": "cung cấp lời ghi công",
+     "en": "to provide an attribution notice"
+    }
+   ]
+  },
+  {
+   "headword": "ăn liền",
+   "base": "7dfe6ce61718e01a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "instant; precooked or prepared for immediate consumption with minimal preparation"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "figuratively",
+      "often"
+     ],
+     "gloss": "instant; superficial; low-quality; focusing on immediate results or short-term profit rather than long-term value or depth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mì ăn liền",
+     "en": "instant noodles"
+    },
+    {
+     "sense": 2,
+     "vi": "văn hóa ăn liền",
+     "en": "instant culture"
+    },
+    {
+     "sense": 2,
+     "vi": "phim ăn liền",
+     "en": "low-budget, quickly-produced films (meant for instant profit)"
+    }
+   ]
+  },
+  {
+   "headword": "khổ nỗi",
+   "base": "4de010623f188b45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "unfortunately"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "regrettably"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Khổ nỗi giờ trong túi chả có xu nào.",
+     "en": "[I do want to help you, but] Regrettably, my pocket is currently empty."
+    }
+   ]
+  },
+  {
+   "headword": "ái ngại",
+   "base": "fea279bbccd79165",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel compassion for; to sympathize with"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be humbled"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ton hót",
+   "base": "908de076c1c40970",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "to flatter; to fawn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lưu loát",
+   "base": "99119b2b71e605b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fluent"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "fluently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghi án",
+   "base": "85c1aa4e5e20dbc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "doubtful legal case; disputed case; mysterious case"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mất dạy",
+   "base": "6e3687a27d0dfec0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "offensive"
+     ],
+     "gloss": "ill-bred or unmannerly, especially prone to cursing, having perverted thoughts or saying tasteless things"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nặng lòng",
+   "base": "2fd5850754a2e913",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "deeply attached (to)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyên sâu",
+   "base": "6919cac9372a0274",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "intensive; in-depth; thorough"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quốc thể",
+   "base": "010c21dd0caad865",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a country or nation's honor, dignity or standing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sỉ nhục quốc thể",
+     "en": "to dishonor or humiliate a country or nation"
+    }
+   ]
+  },
+  {
+   "headword": "thanh đạm",
+   "base": "7476c1ce3d98808a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "simple; frugal and not fussy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "simple and clean; pure and noble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cần tây",
+   "base": "52957a3c663f752f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "celery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá vược",
+   "base": "16c299b795bfd705",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a barramundi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặt dày",
+   "base": "55facb9591c09037",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shameless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đến lúc ấy bọn ta sẽ tới thật đấy, không cho ngươi mặt dày nói bậy nữa đâu.",
+     "en": "When the time's there, we'll come indeed and we'll no longer allow you to shamelessly speak balderdash."
+    }
+   ]
+  },
+  {
+   "headword": "cơ trí",
+   "base": "9d638018bf2fb877",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "quick-witted; shrewd"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "resourceful; clever"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đán",
+   "base": "6a1bb9c4aec3a029",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "morning"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "dawn"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "day"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buông thõng",
+   "base": "25726bfc5739ebea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dangle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cung cấm",
+   "base": "2eb261942c1960fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "forbidden city, forbidden palace (place where the monarch lives)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ông làm tiên phong dẹp yên cung cấm năm Mậu Thân 1788)^([sic])[…]",
+     "en": "He was in the vanguard of the pacification of the forbidden city in 1788 […]"
+    }
+   ]
+  },
+  {
+   "headword": "đứt quãng",
+   "base": "d4c4c764f02aa8d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fitful, with interruptions"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Anh cứ tin ở tôi. Không tìm được chúng nó… tôi không về đâu… - Hài nói khào khào, đứt quãng.",
+     "en": "\"Believe me. If I can't find them…, I won't come back…\" Hài said hoarsely, weakly, fitfully."
+    }
+   ]
+  },
+  {
+   "headword": "xì tố",
+   "base": "1ed4d6445a1d8cd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "poker (card game)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự phong",
+   "base": "05858d35cf086b38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give oneself a title, rank, or position etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thỏ thẻ",
+   "base": "35d3e8c5e38664f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soft and leisurely in a cute way"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to speak softly and tenderly; to whisper"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cường đại",
+   "base": "dde8a5c8011cbaad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "powerful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bụng dạ",
+   "base": "9bea85925f4c985e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "digestive system"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "feelings, personality"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì ảo",
+   "base": "65d31fc4b39b8ca4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fantastical"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Truyền thuyết thường chứa nhiều yếu tố tưởng tượng kì ảo.",
+     "en": "Legends tend to feature imaginary, even fantastical, elements."
+    }
+   ]
+  },
+  {
+   "headword": "khía",
+   "base": "90c0e07e6958562e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to notch; to cut a deep line in"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "notch; nick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xưng hiệu",
+   "base": "6193e82cef40d59a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "title (prefix or suffix added to a name)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

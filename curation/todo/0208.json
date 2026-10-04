@@ -1,0 +1,1277 @@
+{
+ "batch": "0208",
+ "entries": [
+  {
+   "headword": "lộng",
+   "base": "bd15dfd68dca2855",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coastal waters"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "blowing strongly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biên cảnh",
+   "base": "8819a1043f6db906",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "border; frontier"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngọng nghịu",
+   "base": "d7977035ce028bca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "speaking indistinctly; babbling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mếu máo",
+   "base": "42ffa86daddf1fee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to twist one's mouth as one cries or before one is about to cry"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhiều người không cầm nổi nước mắt trước hai đứa trẻ mặc áo xô, vừa mếu máo khóc gọi cha, vừa lủi thủi đi sau quan tài.",
+     "en": "Many people could not contain their tears at the two children wearing mismatched clothes, mouths twisted due to crying for their father while lonesomely walking behind the coffin."
+    }
+   ]
+  },
+  {
+   "headword": "đập tan",
+   "base": "18d28122bde04ed9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to break, to smash"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầu cống",
+   "base": "15b1d060f2bc503d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sewer drains; waste drainage tunnels and pipes"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "sewage and plumbing (as a work specialization)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "câu đối",
+   "base": "26e63108e2cf50f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a literary couplet of parallel sentences"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an antithetical couplet; spring couplet"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a festive ornament or banner used to display couplets"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mắm tôm",
+   "base": "d26c2b7d244099d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shrimp paste"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhạc khí",
+   "base": "9c5bebae4b200657",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "musical instrument"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dị bản",
+   "base": "419dd4641f2a39e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "variant (of a document)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lịch sử các lần in của ĐVSKTT và phả hệ của dị bản ĐVSKTT.",
+     "en": "History of [Đại Việt Sử ký Toàn thư] printings and genealogy of its variants."
+    }
+   ]
+  },
+  {
+   "headword": "phấn sáp",
+   "base": "859bad6efc1851cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cosmetics, makeup, beauty preparations"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make oneself up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ào ạt",
+   "base": "98341d5b083985a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impetuous; thunderous; stormy; violent; fierce"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiến quân ào ạt",
+     "en": "to stage an impetuous advance"
+    },
+    {
+     "sense": 1,
+     "vi": "gió thổi ào ạt",
+     "en": "the wind blows impetuously"
+    }
+   ]
+  },
+  {
+   "headword": "chạy chợ",
+   "base": "eb794665b6669f86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to peddle; to hawk; to huckster"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ỷ y",
+   "base": "d30ebcadd7e87ca7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "complacent; reassured"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cắn răng",
+   "base": "7697da4525324c3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to clench one's teeth; to bear; to endure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu mùa",
+   "base": "d78d2e5ebe2920a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small-pox"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biến tính",
+   "base": "4af714348a7758eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "denaturation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to denature"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "biến tính protein",
+     "en": "protein denaturation"
+    }
+   ]
+  },
+  {
+   "headword": "hữu tuyến",
+   "base": "7370504278317e4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wired"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất quá",
+   "base": "1c0ee6598013e4aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial",
+      "literary"
+     ],
+     "gloss": "if it has come to this; at this point"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ốc vít",
+   "base": "d1d5bbad28fde515",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a screw"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chết ngất",
+   "base": "b25128db5e21efca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to faint; to black out; to pass out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu hủ",
+   "base": "d2856922b8f400b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "tofu"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of tàu hủ (“douhua”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lời tựa",
+   "base": "3e90610bb454a6c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "preface; foreword; introductory remarks; preamble; prelude"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lão sư",
+   "base": "3fd2771f728bc10b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "elderly teacher or master"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nạ",
+   "base": "14ea76dc607a7917",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "mother"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tá tràng",
+   "base": "830c178f8e9ade1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "duodenum"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "viêm tá tràng",
+     "en": "duodenitis"
+    }
+   ]
+  },
+  {
+   "headword": "phân vùng",
+   "base": "41d337b73ee9b3f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mark off into (economic) zones; to partition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tê dại",
+   "base": "e635c813dc208b67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stiff to the point of becoming senseless or paralyzed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vậy là chỉ trong vòng chưa đầy một năm, hắn đã trên hai lần nếm mùi thất bại tê dại.",
+     "en": "And so in the span of not even a year he had tasted crippling defeat no less than twice."
+    }
+   ]
+  },
+  {
+   "headword": "chồm hỗm",
+   "base": "c472c2e6757c9eac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be in squatting state"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuốc tây",
+   "base": "d60ecba10671ca4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "modern medication"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhớ ăn no trước khi uống thuốc tây kẻo đau bao tử.",
+     "en": "Make sure to eat before you take those \"western\" meds, or else you'll get a stomachache."
+    }
+   ]
+  },
+  {
+   "headword": "mục sở thị",
+   "base": "44339db65e4f1d51",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "with one's own eyes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhũ hương",
+   "base": "6c268a8fe40eeedb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "frankincense, olibanum (resin of Boswellia)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mastic (resin of Pistacia lentiscus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thổ huyết",
+   "base": "b85a441fc453fe29",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vomit blood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Lão giáo",
+   "base": "11a4abaa6fd59461",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Taoism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xói",
+   "base": "d30a83ec53fe7cb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to erode"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hit straight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trở về",
+   "base": "48839e99eafaaa95",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to come back, to go back, to return"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đã trở về",
+     "en": "to be back"
+    }
+   ]
+  },
+  {
+   "headword": "cù lũ",
+   "base": "c1cb3a247d560dd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "full house"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "túc tắc",
+   "base": "e7074b9169bf1050",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to be in an unhurried yet regular manner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cứ túc tắc mà làm ăn thôi là cũng đủ sống rồi.",
+     "en": "Just take it easy, and life is just simple, as it were."
+    }
+   ]
+  },
+  {
+   "headword": "báo hiếu",
+   "base": "0796e43ece672b4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to express filial piety"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mất ăn mất ngủ",
+   "base": "53804c57621fd268",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "overthinking, worrying, and stressing out to the point of not eating or sleeping well"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sưa",
+   "base": "bd2264fa0428c6e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "timber trees of the genus Dalbergia (D. tonkinensis and D. boniana)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "du di",
+   "base": "d1169713488dad57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to let a mistake or mishap slide"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phạm lỗi bao nhiêu lần rồi, du di gì nữa trời?",
+     "en": "Nope, I can't let this one slide. Do you know how many times has he done goofed?"
+    }
+   ]
+  },
+  {
+   "headword": "cơm hộp",
+   "base": "4066daa9b6828b92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boxed meal; packed food; lunch box; takeaway"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tắc kè",
+   "base": "c2beb307aa1013c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gecko"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ vị",
+   "base": "e4b978914d51c188",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "delicacy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kì đà",
+   "base": "257510168b317b91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monitor lizard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không phải cá sấu, mà cũng không phải là kỳ đà. Kỳ đà thì mõm nhọn chứ!",
+     "en": "It isn't a crocodile, but it isn't a monitor either. Monitors have a sharp snout!"
+    }
+   ]
+  },
+  {
+   "headword": "mol",
+   "base": "5fc935f78395e72d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân sĩ",
+   "base": "9cb8751cca59cb2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a learned person; a literatus"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "especially",
+      "historical"
+     ],
+     "gloss": "one of from the upper strata of society, wealthy yet cares only for literature"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn vã",
+   "base": "e06ce80c94edfef7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to eat non-rice and non-vegetable-soup food (especially meat or fish) without rice during a rice meal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ăn cả cơm chứ đừng ăn vã!",
+     "en": "Don't forget your rice!"
+    }
+   ]
+  },
+  {
+   "headword": "liến thoắng",
+   "base": "ad6cef7d02014799",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "talkative, chatty, talking a lot and quickly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cô lại càng kinh ngạc hợn khi anh ta không có vẻ hài hước, liến thoắng mà trở nên chân thành, thân thiện.",
+     "en": "She was even more stupefied that he did not seem funny and chatty, but that he had turned earnest and friendly."
+    }
+   ]
+  },
+  {
+   "headword": "tản mát",
+   "base": "a5892192bb87d1bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be scattered about"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vối",
+   "base": "742b6bb12e97ce03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Syzygium nervosum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ bạc",
+   "base": "65da8ad7c98fac86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to betray (often in love relationships)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áp chót",
+   "base": "876066c41c15f804",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "next to last; penultimate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lạt",
+   "base": "955e2c53fae11a04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bamboo string or strip"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "tasteless or bland"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Síp",
+   "base": "647e57e527c399e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Cypriot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo tặc",
+   "base": "2e6410330ae7593f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bandit; thief; robber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vật kính",
+   "base": "d29de054ed7b3a74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an objective lens"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mủi",
+   "base": "bea41817f7cec88a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be softhearted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tóm lược",
+   "base": "8bbbc7ee442fe6ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to summarize, sum up, recapitulate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông tấn xã",
+   "base": "c75938ee30ca291c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "news agency"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hậu tố",
+   "base": "b33b3c79ed045b31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "suffix"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nịnh thần",
+   "base": "e7f3be570aa2f063",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "derogatory"
+     ],
+     "gloss": "a feudal courtier that would humor the monarch only to further his own agenda"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "a sycophant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thoát ý",
+   "base": "03a27c34f9816b10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "adaptive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dịch thoát ý",
+     "en": "to translate by adaptation"
+    }
+   ]
+  },
+  {
+   "headword": "chầy",
+   "base": "e3dd1bb3c3539ad9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "late; tardy; delayed"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "long; extensive; prolonged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Trung Âu",
+   "base": "675af8f537c9b2a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Central European"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bút máy",
+   "base": "3f7c8216d64d3a61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fountain pen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lưu học sinh",
+   "base": "6bc9bfa555b766eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "international student"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gấu túi",
+   "base": "a90ec046c7d2431c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a koala"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gà trống",
+   "base": "660ae0654adf1bb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rooster; male gallinaceous bird"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tòng",
+   "base": "76678661c0d7f505",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "\"junior\" ranking for phẩm (“courtier rank”), e.g. chánh nhất phẩm (“senior rank 1”), tòng nhất phẩm (“junior rank 1”), chánh nhị phẩm (“senior rank 2”), tòng nhị phẩm (“junior rank 2”), etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xáng",
+   "base": "86569cd477d623cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dredger, barge equipped with machines for dredging and digging canals"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhà nhà",
+   "base": "9d7a818fec26514f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "each and every household"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhà nhà đều có thể xách một bịch cá to về sau ngày hội náo động ấy.",
+     "en": "That flurry feast supplied each and every man involved to likely bring a big sack of fish home."
+    }
+   ]
+  },
+  {
+   "headword": "bất đẳng thức",
+   "base": "6dd504c81b0061fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an inequality"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồ cá",
+   "base": "b0ab45ba0e584cc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fish tank; an aquarium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thay nước hồ cá",
+     "en": "to put fresh water in the fish tank"
+    }
+   ]
+  },
+  {
+   "headword": "thể thống",
+   "base": "ac11108ca9541477",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "order; discipline"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đúng là chả có thể thống gì.",
+     "en": "What an undisciplined bunch."
+    }
+   ]
+  },
+  {
+   "headword": "bí ngòi",
+   "base": "9ee3931bb0bcfc77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "zucchini"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ công anh",
+   "base": "d58a7da97e95b0cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dandelion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bách chiến bách thắng",
+   "base": "3034ce90bb315498",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "\"Fight a hundred battles, win all those hundred\"; to win every fight; to be ever-victorious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Điều đáng nói, vị tướng này dường như là truyền nhân của Hưng Đạo Đại Vương Trần Quốc Tuấn. Đây là vị tướng có nhiều nét tương đồng với Trần Quốc Tuấn, cả về tài năng chỉ huy quân sự, lẫn lòng trung thành với vua, với đất nước. Họ đều là những người bách chiến, bách thắng.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "tali",
+   "base": "39f64b20a00aa377",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thallium"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

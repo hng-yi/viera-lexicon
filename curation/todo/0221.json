@@ -1,0 +1,1219 @@
+{
+ "batch": "0221",
+ "entries": [
+  {
+   "headword": "Pa-ki-xtan",
+   "base": "e945e30fd1a939b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Pakistani"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Pa-le-xtin",
+   "base": "fa69ea345315d54b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Palestinian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Pha-ren-hét",
+   "base": "e1a203f7d88561b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Fahrenheit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Phi Luật Tân",
+   "base": "029a931400df3f3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Philippine"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Filipino"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong khi đó một bản tin khác hôm Thứ Hai Đài RFA cũng cho biết thông tin về việc Liên Âu ra tuyên bố phản đối TQ tấn công tàu Phi Luật Tân tại Trường Sa như sau.",
+     "en": "Meanwhile, in other news from Tuesday, RFA also reported that the European Union has declared its opposition to China's attack on a Philippine ship in the Spratly Islands as follows."
+    },
+    {
+     "sense": 2,
+     "vi": "Vào tháng 2 năm 1993, đọc từ trang Rao Vặt của Báo Người Việt Tây Bắc: Một gia đình người Phi Luật Tân muốn sang chợ Foulee…",
+     "en": "In February 1993, he read it in the classifieds section of Northwest Vietnamese News: a Filipino family wanted to go to Fou Lee Market."
+    }
+   ]
+  },
+  {
+   "headword": "Phi-li-tinh",
+   "base": "49bbaa9efeb6f5d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Philistine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Pháp ngữ",
+   "base": "6137f47ceed966a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "French language"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cộng đồng Pháp ngữ",
+     "en": "the Francophonie"
+    }
+   ]
+  },
+  {
+   "headword": "Pháp thuộc",
+   "base": "25021df793175fcd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "when Vietnam was colonized by France"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thời Pháp thuộc",
+     "en": "when we were colonized by the French"
+    }
+   ]
+  },
+  {
+   "headword": "Pháp-Hoa",
+   "base": "e4cc6d01a512db48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "Franco-Chinese"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Pháp Hoa tự điển",
+     "en": "a Franco-Chinese dictionary"
+    },
+    {
+     "sense": 1,
+     "vi": "Có một lần tôi muốn dịch chữ langage, định dịch là “ngôn ngữ”, mà sợ nó trùng với ngôn ngữ là langue theo sự quen dùng của ta, tôi bèn tra Pháp-Hoa tự điển thử xem. Thì ra họ dịch là “ngôn ngữ”. Tôi nhận thấy họ có lý lắm: Có dùng “ngữ ngôn” mà dịch langue thì mới té chữ “ngôn ngữ” ra để mà dịch langage.",
+     "en": "One time I wanted to translate the word langage, at first I went with ngôn ngữ, but I was afraid it would be confused with langue like how we were used to using it, so I looked it up in a Franco-Chinese dictionary. Turned out they did translate it as ngôn ngữ. I think they had a point: if langue translates to ngữ ngôn, it makes sense for langage to translates to ngôn ngữ."
+    }
+   ]
+  },
+  {
+   "headword": "Phù Lá",
+   "base": "732e1e76f7851e18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Phù Lá, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Phật Đà",
+   "base": "5467f1501ffee68e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Buddha, The Enlightened One."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Poóc-tô Ri-cô",
+   "base": "5964f1401fb6bbfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Puerto Rican"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Pu Péo",
+   "base": "54d66c74c8b0411b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Qabiao, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Pà Thẻn",
+   "base": "afa9a370bdffd0c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Pa Then, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Pô-dê-i-đông",
+   "base": "849a633c0560e466",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Greek"
+     ],
+     "gloss": "Poseidon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Quốc âm",
+   "base": "1b591580bdcd7d5e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "chữ Nôm"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thời bấy giờ văn quốc-âm cũng thịnh lắm. Một đôi khi nhà vua cũng dùng chữ nôm mà làm văn-tế.",
+     "en": "At the time, literature written in Vietnamese was very popular. Sometimes even the Emperors also wrote eulogies in Nôm characters."
+    }
+   ]
+  },
+  {
+   "headword": "Ra Glai",
+   "base": "9da2cf1ce1c90c53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Raglai, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Ru-ma-ni",
+   "base": "ebf5c4b3bc25b5a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "relational"
+     ],
+     "gloss": "of Romania, Romanian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Rơ Măm",
+   "base": "a5c97880b4c0bf40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Rơ Măm, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Sán Chay",
+   "base": "cdce14ac4c6f345f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "San Chay, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Sán Dìu",
+   "base": "b0ddd75f442ea229",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "San Diu, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Sừng châu Phi",
+   "base": "6906eaac32f41184",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Horn of Africa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thiên Can",
+   "base": "08c38c8da403a5d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a heavenly stem"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thuỵ Sĩ",
+   "base": "1c10a215281d0b3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Swiss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thuỵ Điển",
+   "base": "aed43316c4c194b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Swedish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thánh truyền",
+   "base": "1b3b3fdcb08b51f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sacred tradition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thế Tôn",
+   "base": "987157b1fbfc00a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "a Lord"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Pháp Loa Thế Tôn",
+     "en": "Lord Pháp Loa"
+    }
+   ]
+  },
+  {
+   "headword": "Tiểu Á",
+   "base": "b7ae55a1445c1c56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Asia Minor; Anatolia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Trung Quốc hoá",
+   "base": "71190ed7d78289e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sinicization"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Trung Quốc hóa",
+   "base": "27876fda6c25416b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of Trung Quốc hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Trần Thị B",
+   "base": "d1ebc93c9816c3db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Jane Doe (unknown or anonymous female person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tuy-ni-di",
+   "base": "28610ac3e9b8983e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Tunisian (native or inhabitant of Tunisia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tà Ôi",
+   "base": "1ba7f0eeacca1d19",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Ta Oi, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tào Tháo rượt",
+   "base": "1e2ba260ee470a9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "(idiomatic) to rush to the toilet because of diarrhoea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tàu Chợ Lớn",
+   "base": "64bc06151067bdaf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "Of or pertaining to ethnic Chinese people in Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tác ta",
+   "base": "c2cf4050fc345087",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Tatar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Táo quân",
+   "base": "40d79b4871f28c3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Kitchen God"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tân Gia Ba",
+   "base": "f8626d9476b7adb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Singaporean"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cao Tiến đã nhận lời một ông trùm người Nhật để đối phó với vua cờ bạc Tân Gia Ba Trần Kim Thành, sau đó ông trùm người Nhật đã nhờ Long Ngũ (Hướng Hoa Cường) bảo vệ cho Cao Tiến.",
+     "en": "Ko Chun listens to a Japanese tycoon and confronts Singaporean gambling master Chan Kam-sing, after which the Japanese tycoon asks Dragon (Charles Heung) to accompany Ko Chun for protection."
+    }
+   ]
+  },
+  {
+   "headword": "Tây ba lô",
+   "base": "45918bd2af4eb226",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Western backpacker (in Vietnam)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tây du kí",
+   "base": "63424ecc72687b1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a game in which two players take turn clapping and high fiving while shouting the syllables in the phrase Tây du kí"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tây hoá",
+   "base": "f4f464ac2e45f122",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to westernize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tây lông",
+   "base": "1fb1178a96b7e940",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "ethnic",
+      "slur"
+     ],
+     "gloss": "a westoid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tây lịch kỉ nguyên",
+   "base": "7146c9dfcbb45149",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Common Era or its epoch (approximately the birth of Christ)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kế đến đời Đông-Hán vào quãng thế-kỷ thứ nhất sau Tây-lịch kỷ-nguyên, Nho-giáo mới thật là cực-thịnh.",
+     "en": "Next, during the Eastern Han dynasty around the first century after Christ, Confucianism truly reached its peak."
+    }
+   ]
+  },
+  {
+   "headword": "Tây Á",
+   "base": "8c57927aabd3f9b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "West Asian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tích Lan",
+   "base": "71fdf7ddf1e31ea9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "archaic",
+      "historical"
+     ],
+     "gloss": "Ceylonese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tô Cách Lan",
+   "base": "e1f50c19be3600c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Scottish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lần này Hughes tin rằng ông bầu người Tô Cách Lan đã đích thân liên quan đến quyết định bán Ronaldo.",
+     "en": "This time, Hughes believes the Scottish manager was personally involved in choosing to sell Ronaldo."
+    }
+   ]
+  },
+  {
+   "headword": "Tết Công-gô",
+   "base": "5827189d65f142f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "a never-coming time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chờ nó làm bài hết bài tập? Có mà chờ đến Tết Công-gô!",
+     "en": "Waiting for him to finish his homework? You'd have better luck waiting for Congolese New Year!"
+    }
+   ]
+  },
+  {
+   "headword": "Tết Dương lịch",
+   "base": "baaccd68ad1e01e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "New Year's Day; New Year's; New Year"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tết Ma-rốc",
+   "base": "5827189d65f142f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "a never-coming time"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tết Thanh minh",
+   "base": "891db12cba00d36f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Tomb Sweeping Day (annual Chinese festival observed on the first day of Qingming)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tết Trung thu",
+   "base": "7f623793da872ebd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mid-Autumn Festival"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tết Tây",
+   "base": "d22d2af6dc7dc8ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "New Year's Day (the first day of the Gregorian calendar)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "U Cà",
+   "base": "ed77be146e7a3316",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "Ukraine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "U Minh",
+   "base": "193ccd7e998bff19",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a forest in An Giang Province and Cà Mau Province, Vietnam"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a commune of Cà Mau Province, Vietnam"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(historical) a district and its capital township, Cà Mau Province, Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Vinahouse",
+   "base": "641f9619f049171f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Vietnamese house"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Việt Nam hoá",
+   "base": "e09a32e8544900cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to Vietnamize, to assimilate with Vietnamese culture"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to Vietnamize, to reduce US involvement in the Vietnam War by replacing American troops with Vietnamese troops"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cái \"Việt Nam hoá\" của nó tuy thâm độc thật, kìm kẹp gắt gao thật, nhưng bà con đâu đã đến nỗi nào.",
+     "en": "Although their \"Vietnamization\" is really wicked, really harshly oppressive, the people don't yet have it that bad."
+    }
+   ]
+  },
+  {
+   "headword": "Việt Nam hóa",
+   "base": "65483655edca2a0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of Việt Nam hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Việt Nam học",
+   "base": "dcef7fd740245439",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Vietnamese studies"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Việt Võ Đạo",
+   "base": "73f52c53ba0b48bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "synonym of Vovinam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Việt bính",
+   "base": "ae578eafa2699abc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Jyutping (one of the many Cantonese romanization systems)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Việt gian",
+   "base": "4b45feebc0df5b2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "Vietnamese traitor; Vietnamese collaborating with the enemy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không cần phải bàn tán nhiều, chúng ta đã thấy từ khi Mặt-trận Việt-Minh ra đời, cái danh hiệu «Việt-gian» đã được gán cho tất cả những nhà ái-quốc không đồng chính kiến với họ. Muốn giết ai muốn hại ai, họ dùng ngay danh từ «Việt-gian» để gán cho người ấy.",
+     "en": "It requires little discussion that, since the founding of the Viet Minh Front, the designation ‘Vietnamese traitor’ has been applied to all patriots who did not align with their views. Whenever they wanted to kill or harm someone, they would immediately use the term ‘Vietnamese traitor’ to label that person."
+    },
+    {
+     "sense": 1,
+     "vi": "Chỉ trong vòng không đầy hai tháng, mà đã có hai tên Việt gian gián điệp lợi hại và một thằng Pháp bỏ mạng vì tên tẩm thuốc độc.",
+     "en": "In less than two months, two important Vietnamese traitors and spies and one French guy had lost their lives to poisoned arrows."
+    }
+   ]
+  },
+  {
+   "headword": "Việt ngữ học",
+   "base": "18cf1111fac99593",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Vietnamese language studies"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Việt phục",
+   "base": "6a9bdec2ee955f89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism",
+      "uncommon"
+     ],
+     "gloss": "Vietnamese \"traditional clothings\""
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Vovinam",
+   "base": "72ebc97e08ff84e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "Vovinam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Vua Tin Vịt",
+   "base": "265f0cc5d1e96cba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "humorous",
+      "slang"
+     ],
+     "gloss": "the VTV"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Vụ Nổ Lớn",
+   "base": "af05395a2e2f5d6b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Big Bang"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Xi-ri",
+   "base": "3137d8c0fc05728a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Syrian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Xin-ga-po",
+   "base": "f8626d9476b7adb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Singaporean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Xinh Mun",
+   "base": "62c5dcbca8bae268",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Xinh Mun, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Xtiêng",
+   "base": "e3a3705413bad386",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Stieng, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Xơ Đăng",
+   "base": "264ff2a027499a55",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Xo Dang, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a còng",
+   "base": "0393cb35a8a29332",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "at sign (@)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a giao",
+   "base": "8973db66ce295538",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "donkey-hide gelatin; ejiao (substance used in traditional Chinese medicine as a blood tonic)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a ha",
+   "base": "d1f28f58b1182b53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "An expression of joy, approval, or delight."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "A ha, thắng rồi!",
+     "en": "Hooray, I won!"
+    }
+   ]
+  },
+  {
+   "headword": "a la xô",
+   "base": "b9ed44cc4224ef5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to burst into a mutual fight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a men",
+   "base": "1da2a5711015d797",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "amen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a móc",
+   "base": "0393cb35a8a29332",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "at sign (@)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a phiến",
+   "base": "d26adb0576ec48cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "opium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a tòng",
+   "base": "c2e2a316a8442bc0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abet; to act as an accomplice; to accompany criminals"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-crô-lê-in",
+   "base": "386df765288bc1b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "acrolein"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-lê-hấp",
+   "base": "0369327fe1b6ebec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "alley-oop!"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

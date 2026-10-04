@@ -1,0 +1,1399 @@
+{
+ "batch": "0236",
+ "entries": [
+  {
+   "headword": "chính cương",
+   "base": "426d7a5117e42f5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political platform"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính cống",
+   "base": "840939c20db1759d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "authentic; genuine; real"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính danh",
+   "base": "c25d15b9beea8fc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a correct name"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the rectification of names (ensuring that statuses correspond to clearly designated functions)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rectify names"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính giới",
+   "base": "4e90c037212ab2a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political circle; political class; political elite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính giữa",
+   "base": "5bf63415ccd20e74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the dead center; the exact center"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính gốc",
+   "base": "6f7a45b3f8d4770c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "original"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "native-born"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính hãng",
+   "base": "e36f5da3fe0c4f88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "either name-brand, or authentic/genuine; neither off-brand nor counterfeit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính lưu",
+   "base": "b01ecb7251fcfe75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mainstream; used or accepted broadly as the norm"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the mainstream; the orthodoxy; that which is common"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính mình",
+   "base": "4820d42b82f79ed5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "emphatic",
+      "literary"
+     ],
+     "gloss": "oneself"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tôi còn chẳng biết chính mình.",
+     "en": "I know not even myself."
+    }
+   ]
+  },
+  {
+   "headword": "chính phái",
+   "base": "90b91ced8f97d9c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a good or just sect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính phạm",
+   "base": "9a51605a4581b645",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "the main culprit; primary criminal; ringleader"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính phủ lưu vong",
+   "base": "e7c41b5603dfd767",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "government-in-exile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính quốc",
+   "base": "f6b6031f7878f16b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "metropolis, colonizing country"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cô bé xinh xắn như thiên thần, vận chiếc đầm trắng, được đặt mua từ cửa hàng Samaritaine Safayette tận chính quốc Pháp.",
+     "en": "The girl was pretty like an angel, wearing a white dress ordered at the Samaritaine Safayette shop all the way back in metropolitan France."
+    }
+   ]
+  },
+  {
+   "headword": "chính ra",
+   "base": "28a8bc108c25cbb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "actually; in fact; really"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính sử",
+   "base": "cef1109e25829d12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "official historical texts; official history"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính thất",
+   "base": "983b4495ddffb39c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "legal wife; first wife (as opposed to a concubine)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính thể",
+   "base": "631dd4d7dc3ab337",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a political system; polity; governmental regime"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hình thức chính thể",
+     "en": "Forms (of) Political System"
+    }
+   ]
+  },
+  {
+   "headword": "chính trị học",
+   "base": "f784b286ab705220",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political science"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính trị phạm",
+   "base": "39053e641b540210",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "political prisoner"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính uỷ",
+   "base": "2a017da6b20cba5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political commissar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính văn",
+   "base": "6ef397b4f403d7cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "body text; body matter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong đoạn mở đầu phần chính văn của sách, tác giả đã nhấn mạnh tầm quan trọng của X.",
+     "en": "In the opening paragraph of the body text of the book, the author emphasized the importance of X."
+    }
+   ]
+  },
+  {
+   "headword": "chính đề",
+   "base": "42def4b1b61b52d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thesis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chíu chít",
+   "base": "1a2bc874d3025434",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cheep, peep"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "densely clustered (on the tree)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chò chỉ",
+   "base": "3b451ac33af02b00",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Parashorea chinensis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chòi canh",
+   "base": "1ffc3355f3293115",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a watchtower"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a guard booth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chòi mòi",
+   "base": "9a220dc7ec6319d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Antidesma ghaesembilla"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chòm xóm",
+   "base": "ebf9e5e4535cb940",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small hamlet and neighborhood"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "neighbors (especially within one's rural hamlet)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó biển",
+   "base": "c81fe17824fdb7e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "true seal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó chê mèo lắm lông",
+   "base": "5f8c68e35d881ba5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "the dog calling the cat furry"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "the pot calling the kettle black"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó chê mèo mửa",
+   "base": "f246a68a8bf5ac59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "very bad; horrid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó chăn cừu Đức",
+   "base": "fd591549d1040eb9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "German Shepherd (breed of dog)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó chết",
+   "base": "fa4568e6fab47ca2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "damn; shit; crap (a curse word)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "a bastard; bitch; fool; jerk"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disappointing; lame; worthless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó cỏ",
+   "base": "e69abf8667726099",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a common Vietnamese dog (often of a breed with short, tawny fur)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó cứ sủa còn đoàn người cứ đi",
+   "base": "ded3a1bc36bdf364",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "the dogs bark, but the caravan goes on"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó hoang châu Phi",
+   "base": "64e79ba342e608fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "African hunting dog (Lycaon pictus)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chó hoang châu Phi chỉ còn khoảng 5000 cá thể trên toàn châu Phi, là loài động vật quý hiếm mà nhiều người đánh giá không đúng về chúng.",
+     "en": "African hunting dogs now number only about 5,000 animals across Africa, a rare species that many people misjudge."
+    },
+    {
+     "sense": 1,
+     "vi": "Dù chỉ có kích thước tương đương với một con chó nhà nhưng chó hoang châu Phi được xếp vào nhóm những kẻ đi săn thiện nghệ và nguy hiểm bậc nhất trong thiên nhiên hoang dã.",
+     "en": "Even though they are only the size of a domestic dog, African hunting dogs are ranked among the most skilled and dangerous hunters in the wild."
+    },
+    {
+     "sense": 1,
+     "vi": "Chó hoang châu Phi (Lycaon pictus) thường bị lép vế so với các động vật ăn thịt khác ở châu Phi. Chúng có chiều cao 75 cm tính đến vai và nặng 25 kg.",
+     "en": "African hunting dogs (Lycaon pictus) are often overshadowed by other carnivores in Africa. They stand 75 cm tall at the shoulder and weigh 25 kg."
+    }
+   ]
+  },
+  {
+   "headword": "chó lài",
+   "base": "71d5adaa62a7f231",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an Indochinese dingo (one of the \"national dogs\" of Vietnam)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó má",
+   "base": "7a4a5f6bbc1cce14",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dog (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "vulgar"
+     ],
+     "gloss": "Used in abuses."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thằng chó má",
+     "en": "son of a bitch (literally, “cur”) (When addressing or mentioning a male person)"
+    },
+    {
+     "sense": 2,
+     "vi": "con chó má",
+     "en": "bitch (When addressing or mentioning a female person)"
+    }
+   ]
+  },
+  {
+   "headword": "chó ngáp phải ruồi",
+   "base": "675424e33984da1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "a dog who gets a fly in its mouth when it's yawning"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "nothing but a fluke"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nó đậu à? Chắc là chó ngáp phải ruồi thôi!",
+     "en": "He passed? Must've been a fluke!"
+    }
+   ]
+  },
+  {
+   "headword": "chó phốc sóc",
+   "base": "40d3c78b4a46ed24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Pomeranian (a breed of dog)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó rừng lông vàng",
+   "base": "1f6b441af0c6a7e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "golden jackal (Canis aureus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó sói",
+   "base": "34e3ccf25d473a6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wolf (animal)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó sói lửa",
+   "base": "d4df6ccfe6c05537",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dhole (Cuon alpinus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó sói đất",
+   "base": "3671e1757b3fe4b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aardwolf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó vàng",
+   "base": "b0df4b62d77d0faf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literally"
+     ],
+     "gloss": "golden dog"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "slang"
+     ],
+     "gloss": "(beige-uniformed) traffic policeman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó xù",
+   "base": "97ce91106ebea86d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bichon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó đẻ",
+   "base": "77037930cffb76d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "vulgar"
+     ],
+     "gloss": "objectionable, despicable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đồ chó đẻ!",
+     "en": "You son of a bitch! (To a male addressee) / You bitch (literally, “You daughter of a bitch”)! (To a female addressee)"
+    },
+    {
+     "sense": 1,
+     "vi": "Loại chó đẻ",
+     "en": "Sons of bitches! / Bitches! (literally, “The dog-born kind”)"
+    }
+   ]
+  },
+  {
+   "headword": "chó đểu",
+   "base": "d6e410818d523a5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a boor; brute; vulgarian"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a jerk; bastard"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "damnit; fuckin; friggin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chó đốm",
+   "base": "58f1ac7f0ad20f6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Dalmatian (breed of dog)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chói loá",
+   "base": "a1db2d9e52d040c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dazzling; bright"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chôm chôm",
+   "base": "de5bca1e65c04248",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rambutan"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sponge"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "HIV"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of long-legged cricket"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Khi chơi gái phải cẩn thận kẻo dính chôm chôm.",
+     "en": "When chasing skirt, be careful not to get HIV."
+    }
+   ]
+  },
+  {
+   "headword": "chôm chỉa",
+   "base": "e0b225bf9a380ba3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pilfer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chôn nhau cắt rốn",
+   "base": "4d59af1d39454457",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "where one was born; (the place) of one's birth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chôn sống",
+   "base": "23bb82fc78680690",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bury alive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chõng",
+   "base": "24004db18b89bbb4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a kind of furniture pallet (often low, of bamboo, and resembling a table, bed, or bench)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chù vù",
+   "base": "38432327e2e14a72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "swellingly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùa chiền",
+   "base": "05913eff1d4cd965",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a temple; pagoda; monastery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùm bao",
+   "base": "c2e08753e75bbaf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wild maracuja (Passiflora foetida)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùm lé",
+   "base": "9eddb8026085eb4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Azima sarmentosa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùm ruột",
+   "base": "ed97370ade1ee1b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Malay gooseberry (Phyllanthus acidus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùn bước",
+   "base": "82d857a70977dca1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to back off, to retreat, to recoil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chùng chình",
+   "base": "81f4ecac10288ba8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to loiter, to linger; to delay; to dally"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sương chùng chình qua ngõ",
+     "en": "The fog drifts through the alley"
+    }
+   ]
+  },
+  {
+   "headword": "chú dẫn",
+   "base": "12dd1c263bc6829c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "see chú and dẫn"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a citation; reference annotation or quotation"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "to cite; to explain (textually)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chú giải",
+   "base": "cbd63da3d9b97969",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gloss; to annotate explanatorily; to make a clarifying textual comment"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gloss; explanatory annotation"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a commentary; exegesis"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a legend; key"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bảng chú giải",
+     "en": "glossary (explanatory annotation table)"
+    }
+   ]
+  },
+  {
+   "headword": "chú lùn",
+   "base": "3ff25e2abdb41e25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a short humanoid creature, usually a dwarf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chú mày",
+   "base": "54d4c58a9436f75b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "you, boy (addressing a younger or socially inferior male)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chú mục",
+   "base": "b4a2cbdcd1567c12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to focus (on); to concentrate (on)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "to stare (at); to gaze (at)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chú tiểu",
+   "base": "eeaeff95be2020a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a child monk; very young novice monk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chú đại bi",
+   "base": "ea173e5b55d344a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Nīlakaṇṭha Dhāraṇī, the Great Compassion Mantra"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúa Xuân",
+   "base": "c8ec383c60d73039",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the personification and deification of spring/youth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúa hề",
+   "base": "08b7c060d83d01aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Internet",
+      "neologism"
+     ],
+     "gloss": "a clown (a person who is hilarious, capable of causing laughter, always creating jokes; or use sarcasm on people who think they are funny.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các ông các bà chúa hề ơi, sao lại buồn cười thế!",
+     "en": "Hey you clowns, why is it so funny!"
+    }
+   ]
+  },
+  {
+   "headword": "chúa sơn lâm",
+   "base": "42c804afe1bb5252",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "king of the jungle (the title for the tiger)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúc dữ",
+   "base": "48ba6ffabcec3b60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to curse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúc may mắn",
+   "base": "c5e6765b5f4f92e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Wish you well."
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Good luck."
+    },
+    {
+     "position": 3,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "God bless you."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúc mừng năm mới",
+   "base": "45945d4bd8716307",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Happy Lunar New Year!"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Happy New Year!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúc mừng sinh nhật",
+   "base": "cefdfbdc60a9dd4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "happy birthday!"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chúc ngủ ngon",
+   "base": "62b9d697b6bab6fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon",
+      "usually"
+     ],
+     "gloss": "to wish someone a good night sleep"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "uncommon",
+      "usually"
+     ],
+     "gloss": "good night"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúc mẹ ngủ ngon đi con.",
+     "en": "Say good night to your mother."
+    },
+    {
+     "sense": 2,
+     "vi": "chúc (anh/chị/em/bố/mẹ/con/bé/cả nhà) ngủ ngon",
+     "en": "good night(, my big bro/big sis/little sibling/dad/mom/child/baby/family)"
+    }
+   ]
+  },
+  {
+   "headword": "chút nào",
+   "base": "2e4213ce17dd8927",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at all, in the slightest, not a bit, not even a little"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh ấy không thích món ăn đó chút nào.",
+     "en": "He does not like that (food) dish at all."
+    }
+   ]
+  },
+  {
+   "headword": "chút éc",
+   "base": "a31e4f9cb5bd2f6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very few"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very small, tiny"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chăm bẵm",
+   "base": "a587354d6800c3f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put great care into, to nurture"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thú nuôi được chăm bẵm như thể trẻ con vậy.",
+     "en": "The pets was taken care of as if they were children."
+    }
+   ]
+  },
+  {
+   "headword": "chăn rau",
+   "base": "f2e4a55c72bc66ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "derogatory",
+      "neologism",
+      "slang"
+     ],
+     "gloss": "to seduce and hook up with a young woman; to play the field"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

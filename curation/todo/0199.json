@@ -1,0 +1,1334 @@
+{
+ "batch": "0199",
+ "entries": [
+  {
+   "headword": "vện",
+   "base": "6b15afd9148c2f26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brindled"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sổ đỏ",
+   "base": "777223aaff68dd5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "synonym of sổ hộ khẩu (“a book that lists the hukou of all members of a family”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thi đua",
+   "base": "82fe2523cba4ae6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "socialist emulation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to emulate"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compete; to vie"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Do thi đua tăng gia sản xuất và tiết kiệm mà Liên Xô đang xây dựng chủ nghĩa cộng sản. Do thi đua tăng gia sản xuất và tiết kiệm mà các nước dân chủ nhân dân Đông Âu xây dựng chủ nghĩa xã hội, Trung Quốc xây dựng chủ nghĩa dân chủ mới.",
+     "en": "Thanks to emulation leading to increased production and savings is the Soviet Union building communism. Thanks to emulation leading to increased production and savings are the people's democracies in Eastern Europe building socialism and is China building a new democracy."
+    }
+   ]
+  },
+  {
+   "headword": "trái phá",
+   "base": "7a772aae3cf8a6a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "a bomb"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngày 24 tháng 6 cảnh-sát thành Christiania (kinh-đô Na-uy) khám thấy trong nhiều nhà riêng cùng nhà ga không biết bao nhiêu là trái-phá và thuốc-đạn của người Đức.",
+     "en": "In June 24th, the police force of Christiania (capital of Norway) found out a huge amount of German bombs and gunpowder in many houses and stations."
+    }
+   ]
+  },
+  {
+   "headword": "ngụ cư",
+   "base": "e3ec8b5c39f6c4ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "common",
+      "uncommon"
+     ],
+     "gloss": "to reside (esp. in a different place than one's native hometown; to live; to dwell in a new land"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xóm ngụ cư",
+     "en": "a settlement of new immigrants"
+    }
+   ]
+  },
+  {
+   "headword": "giao hoán",
+   "base": "937ae09486d16e6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "commutative"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các số hạng trong phép cộng và các thừa số trong phép nhân có tính giao hoán.",
+     "en": "Summands in additions and factors in multiplications are commutative."
+    }
+   ]
+  },
+  {
+   "headword": "rep",
+   "base": "d19045b4591cebef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "to reply someone on social media"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộc trực",
+   "base": "616fc893f4bdebff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "frank, outspoken, blunt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lài vẫn như bao năm trước, với tính bộc trực, lòng thương người của chị bán xôi đã không cho phép một thanh niên bỏ đi khi gây ra tai nạn, mà nạn nhân là hai đứa nhỏ.",
+     "en": "Lài was still like so many years ago, with the frank and compassionate nature of a girl selling steamed sticky rice who would not let a youth leave after causing an accident with two little kids as victims."
+    }
+   ]
+  },
+  {
+   "headword": "thơm lừng",
+   "base": "6e41724f76bce137",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fragrant; having a very nice aroma; pleasant-smelling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ cầm",
+   "base": "bd315187d7b51a12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "guqin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá nhồng",
+   "base": "5518ce7b99e36cec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barracuda"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thậm thụt",
+   "base": "bbc7a945aaa58436",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in a roving and sneaky manner"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thậm thụt ăn ở với nhau",
+     "en": "to live with one another about behind closed doors"
+    }
+   ]
+  },
+  {
+   "headword": "thui thủi",
+   "base": "0eadaecc175aaa24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "alone; isolated; solitary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng thau",
+   "base": "8705fa4d5c8f36d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brass"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sốt xuất huyết",
+   "base": "d87a8dd9ce2315e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "(viral) haemorrhagic fever"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dengue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiễu sự",
+   "base": "f5ea73b9d73bbcba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "troublemaking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nấm hương",
+   "base": "207cce88c41e4b68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shiitake"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xoàng xĩnh",
+   "base": "795179c21a030bad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very mediocre; very run-of-the-mill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dung môi",
+   "base": "7f6dc434aea9d856",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a solvent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mục lục",
+   "base": "19987bdcb5f3aa7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "table of contents"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghỉ hưu",
+   "base": "694a0f37a97b5f34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to retire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông chốt",
+   "base": "d4e3861019c0eafc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bypass a checkpoint"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phi lê",
+   "base": "ec251174e68f217b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fish fillet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ca đoàn",
+   "base": "95f6f5fe298d3e8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a chorus; a choir"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sấn",
+   "base": "d560abb36edb8349",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rush headlong"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Qua khoảng nửa giờ, bên ngoài chợt có tiếng người huyên náo, hơn mười tên nha dịch cầm thương sắt đơn đao sấn vào hậu viện rung lục lạc leng keng quát tháo ầm ĩ:[…]",
+     "en": "After about half an hour there was suddenly some tumult outside; a dozen bailiffs wielding spears and backswords rushed into the rear courtyard with a lot of noise and shouting, […]"
+    }
+   ]
+  },
+  {
+   "headword": "tiếng ngáy",
+   "base": "900ec2d08a7bf1b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "snore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hành văn",
+   "base": "1d83d86df3b0ff82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to write; to compose"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nặc",
+   "base": "5e492d14fd6cab44",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reeking of; smelling strongly of; pervaded with"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người hắn nặc mùi rượu.",
+     "en": "He reeks of alcohol."
+    }
+   ]
+  },
+  {
+   "headword": "cô ta",
+   "base": "e52861c41c8f2284",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "she"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biền",
+   "base": "847c007ede433d1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "floodplain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ruồi nhặng",
+   "base": "642ea0fbac28f93d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bluebottle fly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vũ đoàn",
+   "base": "39e3bd185e02cd2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dance troupe; dance company; dance group"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vi ba",
+   "base": "41a253c0a3c76a4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "microwave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại xá",
+   "base": "969a03eb775ab843",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "general amnesty"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plenary indulgence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ơn đại xá",
+     "en": "plenary indulgence"
+    }
+   ]
+  },
+  {
+   "headword": "rệu rã",
+   "base": "086395185b70f555",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shattered"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tinh thần rệu rã",
+     "en": "one's shattered mood"
+    }
+   ]
+  },
+  {
+   "headword": "nắc nẻ",
+   "base": "7c3d02f69513cd6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of large moth"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "kind of chrysanthemum"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Impatiens balsamina"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cải biên",
+   "base": "c251bcb1b019cf40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to arrange (as in a piece of music)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bát nháo",
+   "base": "876afbd44b6bfe2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "disorderly; chaotic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "amoni",
+   "base": "fd2637b1633f3b91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ammonium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu thư",
+   "base": "e811b748b858f958",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "an imperial edict; royal order"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chiếu thư đánh Chiêm",
+     "en": "The Imperial Edict to attack Champa"
+    }
+   ]
+  },
+  {
+   "headword": "têm",
+   "base": "03794b03c1f871e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prepare betel leaves for consumption by folding with slaked lime"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự nhục",
+   "base": "2359a84f7968bfa5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "antinationalist self-deprecating"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiếm hiệp",
+   "base": "59886fc9f75f6eac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "knight-errant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quang vinh",
+   "base": "76f150bdaab0f0af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "glorious"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gán ghép",
+   "base": "717961489427e75d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to attribute forcedly, pin something on"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to pair off, ship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nặng lời",
+   "base": "987c51e8ab774568",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to use strong words; to use strong language; to say crude or coarse things to somebody; to speak harshly to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mứa",
+   "base": "9c5086ef96626315",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "excessive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thảm cảnh",
+   "base": "551b1c69ecfa1ce6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tragedy; tragic scene or sight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thê lương",
+   "base": "03da568273380899",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "isolated, lonesome"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiếng ếch nhái, ễnh ương rên rỉ thê lương, gây cho những đứa trẻ trạc tuổi Vạn nỗi sợ vu vơ, không dám một mình bước ra ngoài đường.",
+     "en": "The lonesome groaning sound of amphibians and bullfrogs would cause kids Vạn's age to feel an undefined fear, to be afraid to go out onto the street alone."
+    }
+   ]
+  },
+  {
+   "headword": "công danh",
+   "base": "f9f112246fd9c91b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "position and fame"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nẻ",
+   "base": "ade732d4067a2519",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "cracked, fissured"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gièm",
+   "base": "60192925b49e8316",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disparage (esp. when the slandered person is absent); to vilify; to insult behind one's back"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mát tay",
+   "base": "7279217875a856b8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "invariably successful, so skilled one succeeds at everything one undertakes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phi kim",
+   "base": "d7e4f7bb7c93e264",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a nonmetal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xịch",
+   "base": "66e15df0af9fb685",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "with a screech; sudden, abrupt"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to move suddenly, stir suddenly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ô tô đỗ xịch trước cửa.",
+     "en": "The car screeched to a halt in front of the door."
+    }
+   ]
+  },
+  {
+   "headword": "thần thái",
+   "base": "878660906d315789",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "look or expression (of a person); mien"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quan trọng là thần thái.",
+     "en": "What is important (when you do something) is your appearance / expressions on your face. (slang)"
+    }
+   ]
+  },
+  {
+   "headword": "châu thổ",
+   "base": "e8798f87e8a94d65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a river delta"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chăn chiếu",
+   "base": "9998f06d751fe37d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blanket and bedsheet"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blanket and sleeping mat"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "conjugal (of bedroom relations)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẩm thấu",
+   "base": "e6bc91d9083f6fd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to osmose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự thẩm thấu",
+     "en": "osmosis"
+    }
+   ]
+  },
+  {
+   "headword": "nới lỏng",
+   "base": "d1ec74e08fa45a71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to loosen"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nới lỏng công tác hành chính",
+     "en": "to loosen administrative management"
+    }
+   ]
+  },
+  {
+   "headword": "gạn",
+   "base": "31ab366168c3deb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to filter out unwanted matters"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to question insistently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "gạn nước vôi trong",
+     "en": "to filter out undissolved matter to make limewater"
+    },
+    {
+     "sense": 1,
+     "vi": "gạn vàng",
+     "en": "to rinse off unwanted materials to extract gold"
+    }
+   ]
+  },
+  {
+   "headword": "đã đành",
+   "base": "bf1c7243f0d16f46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "indicates that the statement is a given that cannot be avoided, but that there is more: it is what it is, but what is more"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bà con ở đây cười cợt, dè bỉu đã đành, tệ như mấy anh chàng thợ xây nhà thủy tạ ốm tong teo, đen nhẻm, vậy mà không thèm chọc ghẹo một lời.",
+     "en": "It was not just the locals who mocked and sneered at them; even the scrawnily skinny, dark-skinned workpeople who built the pavilion could not be bothered to flirt so much as one word."
+    },
+    {
+     "sense": 1,
+     "vi": "Thành phố bị ô nhiễm vì khói, bụi, rác, nước bẩn, tiếng ồn đã đành, tình hình môi trường ở các vùng nông thôn cũng không sáng sủa hơn.",
+     "en": "That cities are polluted with smoke, dust, garbage, dirty water, and noise is just the way things are; but the environmental situation in rural areas is not better."
+    }
+   ]
+  },
+  {
+   "headword": "lãng đãng",
+   "base": "2ff2bdeb87975760",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "moving lazily and not entire visible"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Một chút sương mù lãng đãng vương trên mái nhà bưu điện.",
+     "en": "Some mist lazily clung to the roof of the post office building."
+    }
+   ]
+  },
+  {
+   "headword": "bặt thiệp",
+   "base": "dad9709fcb84366c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "charismatic with one's interpersonal social skills; courteous; well-mannered; engaging; urbane; sociable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bè lũ",
+   "base": "3b6d964fd551c9c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "a gang; a bunch of delinquents"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "man dại",
+   "base": "7ae08d884b307dc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wild; crazy; savage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu phụng",
+   "base": "d0da4eee24b73be6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "peanut, groundnut, earthnut"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dằm",
+   "base": "bec874b927735657",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "splinter (which causes injury); chip; sliver"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "place (for sitting, lying down, placing something, etc.); seat"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "mark; sign; trace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "li tán",
+   "base": "72fa0bd5ebf1e656",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get separated or dispersed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lửng mật",
+   "base": "21f2a1610a42290c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "honey badger"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gợi nhớ",
+   "base": "a165f0c9c2ca666f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reminisce; to spring to mind"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "một ánh nhìn gợi nhớ",
+     "en": "a reminiscent look"
+    }
+   ]
+  },
+  {
+   "headword": "dưỡng trí viện",
+   "base": "6db5f1d69aeb6405",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "psychiatric hospital"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chạnh",
+   "base": "00fa28b89f63e03a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to distressingly feel; gravely feel"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be upset; distressed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mĩ mãn",
+   "base": "f480db1e55c2fccd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fully satisfactory; perfect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rơi rụng",
+   "base": "36bdc91e9b4af33b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be lost gradually"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghèo hèn",
+   "base": "1506f044c2a49544",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "poor and of a low position in society; humble; impoverished"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ỉu xìu",
+   "base": "3a0dc878a611372d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soggy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "sad; in low spirit; demotivated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cào bằng",
+   "base": "5c08d24ab8df14fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to see something/somebody as uniform and of no diverse grades or classes"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ở đâu ra cái thói cào bằng ăn không của người khác vậy?",
+     "en": "Where on earth brings about the habit of seeing others as yourself and stealing stuff?"
+    }
+   ]
+  },
+  {
+   "headword": "học vẹt",
+   "base": "106c28813aad47ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to learn by rote without actually understanding much"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quang năng",
+   "base": "8777d564c8e16e89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "light energy"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "solar energy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tấm quang năng",
+     "en": "Solar Energy Panels"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1392 @@
+{
+ "batch": "0205",
+ "entries": [
+  {
+   "headword": "đối lưu",
+   "base": "2ac0fce1b79c8cf2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "convection"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kháu khỉnh",
+   "base": "5b2e6f8f429a5c8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cute; adorable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoa giấy",
+   "base": "8072fe8ee876d404",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bougainvillea"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "confetti"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "2021, Ngọc Phuợng, \"Con đường hoa giấy nổi tiếng ở Sài Gòn thu hút bạn trẻ check-in (The Famous Bougainvillea Street in Saigon is attracting youths to check-in)\", Tuổi Trẻ Cười (Youth Humor) Online",
+     "en": "Bougainvilleas bloom bright red, pink, yellow, white, etc. [Bougainvilleas] often bloom year-round yet will bloom much more plentifully during the sunny season, especially in February and March."
+    }
+   ]
+  },
+  {
+   "headword": "tạp kĩ",
+   "base": "2e02dbe4223838a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a form of perfomance that combines a variety of different performing arts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chương trình tạp kĩ",
+     "en": "a variety show"
+    }
+   ]
+  },
+  {
+   "headword": "kilômet",
+   "base": "082e9c9124fc68ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kilometre, kilometer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rập",
+   "base": "287d08e4a437e0d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to copy closely"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of hoop-net trap"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to help, to assist, to support"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mén",
+   "base": "51eb4dd0d1a03579",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "newborn, small, juvenile"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chí mén",
+     "en": "a nit"
+    },
+    {
+     "sense": 1,
+     "vi": "trẻ mén",
+     "en": "a baby"
+    }
+   ]
+  },
+  {
+   "headword": "lược đồ",
+   "base": "8e9ae376cbd44d98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "outline; diagram; sketch; schema"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lũy thừa",
+   "base": "b8274c332b78c615",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "exponentiation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to the power of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rau lang",
+   "base": "6f51e61662fe4165",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sweet potato leaves or greens"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thị xã",
+   "base": "838a9caa3c27d522",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "district-level town (Vietnamese administrative unit)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kim ngân",
+   "base": "0fbea6eab3f88580",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "honeysuckle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sầu bi",
+   "base": "377e0bf44c31d98b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sad; melancholy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đức Mẹ sầu bi",
+     "en": "Our Lady Of Sorrow"
+    }
+   ]
+  },
+  {
+   "headword": "ám quẻ",
+   "base": "b0f31d8a158d7da3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to obstruct or disturb fortune-telling"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to disturb or obstruct ongoing work"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bài vở",
+   "base": "3a7f7e12c5d85927",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "class materials"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "newspaper copy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo chích",
+   "base": "95e2a69a45ff37be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "thief"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "“Siêu trộm hào hoa”, “Hoàng tử đạo chích”, “Robin Hood của giới tội phạm”, đó là những mỹ danh được dành tặng cho một trong những nhân vật tiếng tăm nhất của dòng văn học trinh thám phiêu lưu nước Pháp: Arsène Lupin.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "truyền tin",
+   "base": "6bc73b3d273f3ed7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transmit the news etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hua",
+   "base": "f0c370e5f9871851",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maggot found in fermented sauce"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đôi khi bát úp không kín, ruồi dấm lọt vào đẻ trứng nở ra con hua tương trắng như đầu tăm, [...]",
+     "en": "Sometimes the bowls are not covered properly, allowing fruit flies to get through and lay eggs that spawn sauce maggots that are as white as the pointy end of a toothpick, …"
+    }
+   ]
+  },
+  {
+   "headword": "hết nước",
+   "base": "c36d1582d491e9a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be at the end of one's tether; to be helpless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiền đức",
+   "base": "bbccc77118ede903",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "virtuous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làu",
+   "base": "98410f7aa4630aef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "completely proficient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gọ",
+   "base": "58ef83dddb8ec9c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earthenware pot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biến thân",
+   "base": "93069981d3af101f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "transformation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transform, to shapeshift"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lộp độp",
+   "base": "4536b3d0f94c0bad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of lộp bộp (“thudding; plopping”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cam rụng lộp độp",
+     "en": "oranges fall with thuds"
+    }
+   ]
+  },
+  {
+   "headword": "nhát gừng",
+   "base": "e4dbf46327ae1703",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "stressing each syllable and in a harsh or forceful tone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải li",
+   "base": "ff8fee9559054847",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beaver"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lầy lội",
+   "base": "63a3980a8c3841d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "muddy; miry"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "playful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cắt đứt",
+   "base": "c9df02e7a1da8ecf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sever; to break off"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bớp",
+   "base": "e12d30ca847a953c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slap lightly, to box lightly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đánh võng",
+   "base": "0b6da0420ebbbb90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swing a hammock"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to weave"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cấm lạng lách, đánh võng.",
+     "en": "Weaving is banned."
+    }
+   ]
+  },
+  {
+   "headword": "vô nghiệm",
+   "base": "a650f1912dfef5f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having no solution"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phương trình vô nghiệm.",
+     "en": "The equation has no solution."
+    }
+   ]
+  },
+  {
+   "headword": "đúc kết",
+   "base": "9f29f4db7cf3b31b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to summarise; to sum up; to conclude"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an nhiên",
+   "base": "7d1b1b4e67ee0884",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "peaceful and leisurely; at ease and accepting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "miểng",
+   "base": "d4efbf3aa2e8e36e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "synonym of nước miếng (“drool; spit”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nói chuyện gì mà văng miểng tùm lum!",
+     "en": "You can't just talk without showering on people, can you?"
+    }
+   ]
+  },
+  {
+   "headword": "khảo cứu",
+   "base": "a95d4fa9d27cacd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to research and investigate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo quán",
+   "base": "dacf47025188eb2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Daoist temple"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phẫn uất",
+   "base": "86347b72b1c5ccf5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "furious; resentful; indignant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giải nhiệt",
+   "base": "0ac48ba20488f14a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to relieve \"hot\" qi in your body in order to reduce acne, inflammation, etc."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trà giải nhiệt",
+     "en": "hot-qi-relieving herbal tea"
+    }
+   ]
+  },
+  {
+   "headword": "gần xa",
+   "base": "349fa90a210c9d66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "far and near, everywhere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúm gia cầm",
+   "base": "175932ba2f4d1076",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "avian influenza; bird flu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoẵng",
+   "base": "4916b0f442d1a6e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muntjac"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sơ ri",
+   "base": "90b11b41c8d8da3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Barbados cherry (Malpighia emarginata)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẹt",
+   "base": "9479186b09bf166a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "offensive"
+     ],
+     "gloss": "having short, small stature; dwarfish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lem luốc",
+   "base": "d0076b6edd72082c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "smudged, smeared, grimy, grubby"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cận điểm",
+   "base": "17a3c89f0b7eec2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a perigee; periapsis; near apsis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a near point; punctum proximum; minimum focal point"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mây mưa",
+   "base": "6537ddcaf8a9a4af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cloud and rain"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "sexual intercourse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sao lùn",
+   "base": "a08f6c71783eaa5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dwarf star"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rứt",
+   "base": "0fb27696223aaf24",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pull, to tear (flesh, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lao đao",
+   "base": "64cb30d066c34dea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "unsteady; unstable"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard; full of hardships"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đi qua một năm thiên tai khi ấy mà để lại người người số kiếp lao đao.",
+     "en": "Many a person was struggling in life due to the past year of that awful disaster."
+    }
+   ]
+  },
+  {
+   "headword": "bù đầu",
+   "base": "ab0c62e4f6889071",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "overwhelmingly; over head and ears; hopelessly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hard-pressed; busy; occupied"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ruổi",
+   "base": "03c8dfc12c44b7c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "to run around or run away (often with vehicle) quickly"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to pursue, go after"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quan chấp chính",
+   "base": "c0fc54ca956c01a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Roman consul"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[...] chẳng hạn đối với khái niệm consul trong tiếng Pháp, ở ta nhiều người muốn phân biệt rõ: thời cổ La Mã gọi là quan chấp chính, thời cận đại thì gọi là tổng tài, [...]",
+     "en": "… take the word consul in French for example, in our country people want to differentiate clearly: calling it quan chấp chính in ancient Roman context, calling it tổng tài in early modern context, …"
+    }
+   ]
+  },
+  {
+   "headword": "xào xạc",
+   "base": "a0f276d913d09875",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rustling"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lay đưa chỏm cây xanh xào xạc",
+     "en": "to shake the top of a plant [and make it] rustle"
+    }
+   ]
+  },
+  {
+   "headword": "quyết toán",
+   "base": "1544c7da51d37b99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collate all financial data, in order to settle outstanding debts, report taxes or dispense paychecks"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dưng",
+   "base": "2f57fa91898e00d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slack; idle; unoccupied"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gặng",
+   "base": "789c37a5e4d97ef9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ply with questions; to question closely (until an answer is given)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi bị gặng hỏi, chồng tôi thú thật không hiểu vì sao, ngay lần gặp đầu tiên anh đã thích cô bé rồi.",
+     "en": "When plied with questions, my husband confessed that he was attracted to her the moment he saw her, in a way that was hard to explain."
+    }
+   ]
+  },
+  {
+   "headword": "địa chính",
+   "base": "2fe7669c523f3282",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cadastre (comprehensive recording of the real estate or real property's metes-and-bounds of a country)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land registration"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "land registry office"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ tình",
+   "base": "964fbf7228010591",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to betray (someone's love); to be unfaithful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thúng",
+   "base": "0c085b35f9d82b17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a semiglobular bamboo-woven basket, for storing grains or maize."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "the quantity which fills up a thúng, varies without an exact standard unit."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tùy duyên",
+   "base": "28ccd9211b8a77e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tuỳ duyên."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vi thể",
+   "base": "3f8b5ab14e03360e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "microbody"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nườm nượp",
+   "base": "4678d8b90e91340d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "in great numbers, one after the other"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhìn hàng ngàn người từ khắp các tỉnh nườm nượp kéo vào phòng thi, ai cũng đẹp trai, đẹp gái, Linh thực sự lo ngại.",
+     "en": "Seeing the thousands of people from all provinces pressing into the examination room in great numbers, everyone handsome or pretty, Linh was really worried."
+    }
+   ]
+  },
+  {
+   "headword": "khai quốc",
+   "base": "2a04f1dcb7bae9a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to found a state, country or kingdom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mẹ tròn con vuông",
+   "base": "935db444588edcdd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "round mother, squared baby"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "you/she (have/has) had a successful delivery, and both you/she and your/her baby are now in good condition"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏng đảnh",
+   "base": "5a8ddc9c4e3337fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "often"
+     ],
+     "gloss": "haughty, scornful; acting high-maintenance, pretentious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vừa hát mấy câu cải lương Nam Kỳ, hắn vừa đỏng đảnh tiến đến chỗ ông thầy số.",
+     "en": "Singing several lines of Southern cải lương, he approached the fortune-teller haughtily."
+    }
+   ]
+  },
+  {
+   "headword": "nga ngố",
+   "base": "1a1600f0837a0ee9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "clumsy and silly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "humorous",
+      "slang"
+     ],
+     "gloss": "of Russia, Russian"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "slang"
+     ],
+     "gloss": "Russia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhẫy",
+   "base": "43de936637738aad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "glistening"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh bước qua những rễ cây nhẫy sình, xuống một cái lán vuông nhỏ xíu bằng chiếc tủ đứng.",
+     "en": "He walked past the tree roots that were glistening with mud down to a teeny little square shanty made out of upright cupboards."
+    }
+   ]
+  },
+  {
+   "headword": "điểu học",
+   "base": "12473d50dda6ff0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ornithology"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lúc đó cũng như bây giờ, chứng tự kỷ có những tật kì lạ khó hiểu nên cha mẹ chới với chỉ biết tin vào lời 'chuyên gia', việc tác giả Niko Tinbergen là khoa học gia về điểu học đoạt giải Nobel làm cho thuyết ôm con của ông đáng tin.",
+     "en": "Then as now, autism had strange and difficult to understand symptoms, so parents were confused and could only believe the words of 'experts'. The fact that author Niko Tinbergen was a Nobel Prize-winning ornithologist made his 'hugging child theory' credible."
+    }
+   ]
+  },
+  {
+   "headword": "nhân hòa",
+   "base": "9745b21646a2ef9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of nhân hoà."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cao vọng",
+   "base": "978823b7521ea675",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "lofty ambition; high hope"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm tường",
+   "base": "6ade3b04d5ba528d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inside a wall"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "placed in a hole on a wall"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "tủ âm tường",
+     "en": "a wall closet"
+    }
+   ]
+  },
+  {
+   "headword": "choắt",
+   "base": "57e01adfe76cdf38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stunted; dwarfed; shrunken; shriveled"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "petite; tiny"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "1941, Tô Hoài, Dế Mèn Phiêu Lưu Ký (Adventures of a Cricket), Ch. 1",
+     "en": "Neighboring mine was the cave belonging to Scrawny Cricket. Scrawny Cricket was a mocking and condescending nickname I called him."
+    }
+   ]
+  },
+  {
+   "headword": "trầm hương",
+   "base": "ad066db4cdf9c0c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "agarwood"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "various Aquilaria trees such as Aquilaria malaccensis and Aquilaria crassna, sources of agarwood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thần học",
+   "base": "ef5068e2be54fe96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "theology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thảo mai",
+   "base": "c2e86ea08c5e221f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "slang"
+     ],
+     "gloss": "smarmy or affected with the sole intention to gain approval"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bẹp dúm",
+   "base": "0f0e48a59795582c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crushed; collapsed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cán sự",
+   "base": "bab47960f5228ef7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specialized official; committee member; (education) class monitor"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "technician; lower specialist; junior administrator"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ban cán sự lớp",
+     "en": "class committee (literally, “group of class monitors”)"
+    }
+   ]
+  },
+  {
+   "headword": "tổng hòa",
+   "base": "9ed935b6d471aab3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tổng hoà."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "miễn thuế",
+   "base": "065ffb76b8917a89",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "duty-free; tax exempt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "...việc phân chia tài sản này thuộc diện được miễn thuế...",
+     "en": "...the division of this property is tax-exempt..."
+    }
+   ]
+  },
+  {
+   "headword": "trác tuyệt",
+   "base": "b057ff790a5c1a57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "outstanding; magnificent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "những áng văn trác tuyệt",
+     "en": "literary masterpieces"
+    }
+   ]
+  }
+ ]
+}

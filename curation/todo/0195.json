@@ -1,0 +1,1452 @@
+{
+ "batch": "0195",
+ "entries": [
+  {
+   "headword": "gia chủ",
+   "base": "e8152febd66ccfcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "head of a family"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêu vi khuẩn",
+   "base": "04bec42a3e3bf7ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "virus (infectious organism)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quốc hiệu",
+   "base": "03477ea25380f037",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the name of a country (such as the historical name Đại Việt for Vietnam)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the official name of a country (such as Cộng hoà Xã hội chủ nghĩa Việt Nam (“Socialist Republic of Vietnam”))"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Khi viết đơn thì phải bắt đầu bằng quốc hiệu và tiêu ngữ.",
+     "en": "Every application or request form must start with the official name and motto of the country."
+    }
+   ]
+  },
+  {
+   "headword": "chong",
+   "base": "f2b35b1b53d338a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep alight; to make stay lit"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to keep open; to stare"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to focus (on)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mỗi tối lũ trẻ cũng phải chong đèn dầu lên mà học bài.",
+     "en": "Every night, a bunch of children also had to keep their oil lamps lit up to study their lessons."
+    }
+   ]
+  },
+  {
+   "headword": "hoàng thái tử",
+   "base": "105dc8b4e2195bba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crown prince"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghịch cảnh",
+   "base": "8261d1d5020ac3ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "adversity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "buồng tắm",
+   "base": "b7a4e3b31cbbfc43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bathroom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rôm rả",
+   "base": "b29b514527388795",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "usually"
+     ],
+     "gloss": "lively; boisterous; exciting; plentiful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vượt qua",
+   "base": "5e275fab614e7607",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cross"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to overcome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khô khốc",
+   "base": "a0f8d7eadbf978e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very dry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chấp chưởng",
+   "base": "058b551934c9cd96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to rule; to govern; to control"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tung Của",
+   "base": "15d77720225363ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "China"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "choán",
+   "base": "8fa906a67779f357",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take up; to occupy"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to usurp; to encroach (upon)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tại hiện trường, chiếc xe tải nằm lật nghiêng, cháy rụi hoàn toàn, choán một làn đường trên Quốc lộ 1A.",
+     "en": "At the scene, the truck was lying overturned, completely burned, occupying a lane on Highway 1A."
+    }
+   ]
+  },
+  {
+   "headword": "rằn",
+   "base": "26b119fe31100428",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "striped"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lẩm nhẩm",
+   "base": "9dfbb33734469e2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mumble; to mutter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngồi trong giảng đường đại học, lẩm nhẩm bài Tôi Đi Học của Thanh Tịnh, tôi đã khóc.",
+     "en": "Sitting in the university lecture hall, muttering (the words of) I Go to School by Thanh Tinh, I cried."
+    }
+   ]
+  },
+  {
+   "headword": "cào cào",
+   "base": "034a7dc767c50aef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pointy-headed grasshopper or locust"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a locust (a grasshopper of the family Acrididae)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọng đái",
+   "base": "f2c8ba4deb315609",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "urinary bladder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "luôn thể",
+   "base": "8df14ab114d01d8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "at the same time (for convenience); immediately after"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Em sẽ ghé khách sạn đón chị ra phi trường luôn thể.",
+     "en": "I will stop at the hotel and pick you up to go to the airport at the same time."
+    }
+   ]
+  },
+  {
+   "headword": "mắc ma",
+   "base": "fa5dedca5991641b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magma"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cáo thị",
+   "base": "341891c6bd10f389",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a report; notice"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to announce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồng lai",
+   "base": "c648586073c6a581",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese"
+     ],
+     "gloss": "paradise; heaven; Penglai"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ nghĩa phát xít",
+   "base": "137f7c21d0fbecbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fascism"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chủ nghĩa phát xít là kẻ thù của nhân loại.",
+     "en": "Fascism is the enemy of humanity."
+    }
+   ]
+  },
+  {
+   "headword": "phúc hậu",
+   "base": "7574377b104b3c03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "good-natured, kindly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hậu quả của chứng bệnh hậu sản làm gương mặt vốn bầu bĩnh, phúc hậu của chị xanh xao, chân, tay sưng vù.",
+     "en": "As a result of her postpartum illness, her once chubby and kindly face had gone pale and her feet and hands had grown swollen."
+    }
+   ]
+  },
+  {
+   "headword": "lực sĩ",
+   "base": "e66143d240770f08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a strongman"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a weightlifter"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "an athlete"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhảy cầu",
+   "base": "0b28e02f5b1b0f94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diving"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "suicide by jumping off a bridge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "spam",
+   "base": "b9341a4f26dbace6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Internet"
+     ],
+     "gloss": "spam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hụp",
+   "base": "610dea893b0de5bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dive deep"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make one's head lower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạ mình",
+   "base": "efd019669d68377c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cave in"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó quyết không chịu hạ mình.",
+     "en": "He shall not ever give in."
+    }
+   ]
+  },
+  {
+   "headword": "phong phanh",
+   "base": "e94bfbe9e4f4e1ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thin and inadequate to keep warm"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "synonym of phong thanh (“vague; dim”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gấu trắng",
+   "base": "ae9d0b44b510dab3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "white bear, polar bear (Ursus maritimus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dày cộm",
+   "base": "c2a8e286f46d587e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "very thick"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cuốn sách dày cộm",
+     "en": "a very thick book"
+    }
+   ]
+  },
+  {
+   "headword": "ngậy",
+   "base": "f5b5a4feed1295b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fat, tasty or fragrant in a fatty way"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh cầm như vồ lấy ly nước màu nâu đen nóng hổi, thơm ngậy đưa lên miệng làm một hơi gọn nửa.",
+     "en": "He took the cup with the brown-black, hot, fragrant, and fatty liquid as if clinging to it, brought it to his mouth and drank half of it in one go."
+    }
+   ]
+  },
+  {
+   "headword": "ngậm nước",
+   "base": "e87f510fd64f2cc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hold water in one's mouth"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hydrated"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "waterlogged"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "silica ngậm nước",
+     "en": "hydrated silica"
+    }
+   ]
+  },
+  {
+   "headword": "xơ múi",
+   "base": "a0baff7b034b2235",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ill-gotten gains; dirty money; dishonest profit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the fruit rind and the fruit meat"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plunder; to profit excessively and dishonestly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "răng khôn",
+   "base": "625ec65ccbf10aa0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wisdom tooth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải sâm",
+   "base": "290bd3040090d431",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sea cucumber"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thần phong",
+   "base": "b475db54d8986547",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kamikaze"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rẫy",
+   "base": "41f65cbd1c4cd190",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mountain field (obtained by deforestation, tree burning and replanting)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abandon; to repudiate; to renounce (one's wife)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "synonym of giãy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọng vọng",
+   "base": "09fd125bc878c9d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to respect; to esteem; to honour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại nghịch",
+   "base": "04f5a57a3bb426d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "high treason"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nia",
+   "base": "21ca7c98cf65735e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small winnowing basket"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vục",
+   "base": "783f02fbbaf6ee8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plunge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh tụt xuống, chạy ra bờ sông vục mặt xuống nước.",
+     "en": "he went down, ran out to the riverbank, and plunged his face into the water."
+    }
+   ]
+  },
+  {
+   "headword": "xấc",
+   "base": "1a0c385132516f3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "arrogant; insolent; showing no respect to others"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uỵch",
+   "base": "38b20346392102f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "having the sound of a heavy object falling into the ground"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lấn cấn",
+   "base": "9a9f1ddeaa12d446",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lingering in one's mind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chu tất",
+   "base": "6a9489af5155f2c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "meticulously; carefully and completely"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "meticulous; careful and complete"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ê chề",
+   "base": "306b5c201807a133",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "weary of unending humiliation and hardship"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ashamed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Phong trần chịu đã ê chề",
+     "en": "Hardship left her embittered"
+    },
+    {
+     "sense": 1,
+     "vi": "Nhục nhã, ê chề, kệ, rồi nó cũng quen đi,[…]",
+     "en": "Disgrace, humiliation, stuff it, she got used to it; […]"
+    },
+    {
+     "sense": 2,
+     "vi": "ê chề cái mặt",
+     "en": "shamefaced"
+    }
+   ]
+  },
+  {
+   "headword": "đứng hình",
+   "base": "148dabd05d28bc63",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "subjected to an unwanted freeze frame"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively",
+      "humorous"
+     ],
+     "gloss": "stunned; stopped dead in one's tracks"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Máy em bị đứng hình rồi.",
+     "en": "My computer just froze."
+    }
+   ]
+  },
+  {
+   "headword": "trí năng",
+   "base": "52885c1c97e872ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intellect; intelligence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bần cùng",
+   "base": "a4bd6d1397c6b812",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "extremely poor, impoverished"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thủ thành",
+   "base": "586f34bf711df4e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep goal; to act as the goalkeeper"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "goalkeeper"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tower defense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "crôkê",
+   "base": "feca62de4ffdb732",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "croquet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xơ xác",
+   "base": "5b3f23507af7a40c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "denuded; withered; bare; abject"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cái nghèo xơ xác đã ứ đọng vào tâm trí một thời.",
+     "en": "The abject poverty has anchored dead within the man's mind."
+    }
+   ]
+  },
+  {
+   "headword": "phim hài",
+   "base": "3512dc12d24bd9e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "comedy film"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhếch",
+   "base": "1fe42d1d77b62763",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slightly move"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhếch mép",
+     "en": "to smirk; to give a smirk (lit. to move the corner [of the mouth])"
+    }
+   ]
+  },
+  {
+   "headword": "tiểu ban",
+   "base": "fd66083aa3d7f840",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subcommittee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nò",
+   "base": "550b7cd634e5c108",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "kind of fish trap"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nước cất",
+   "base": "77817e5a341d3dd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "distilled water"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ lòng",
+   "base": "404ec690cdd7c0cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to let down, to disappoint"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúng ta đều phụ lòng cậu ấy.",
+     "en": "We've all let him down."
+    }
+   ]
+  },
+  {
+   "headword": "hữu hạn",
+   "base": "55268d3597d2d471",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "finite"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "limited"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "trách nhiệm hữu hạn",
+     "en": "limited liability"
+    }
+   ]
+  },
+  {
+   "headword": "cổ thực vật học",
+   "base": "9fc3e6072fafeb0c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paleobotany"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nước tương",
+   "base": "3b00fa8220c1b0fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "soy sauce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tê buốt",
+   "base": "fcf612b215026c0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "numbingly sharp; piercingly numbing; nippy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phồn thịnh",
+   "base": "a0d6f25091a521e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "prosperous; thriving; flourishing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ác chiến",
+   "base": "e32eee42767a8305",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight violently, to fight fiercely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bá vương",
+   "base": "b350230fbd4d8c80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "despot; overlord"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vành móng ngựa",
+   "base": "2050d35149be5834",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a horseshoe curved edge"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fence curved like a horseshoe, used as a bar in front of which the defendant stands in a court of law"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyết khối",
+   "base": "3bc5a6d5f42fa586",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thrombosis"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "thrombus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cào cấu",
+   "base": "be80e39ec7c6b2b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scratch and claw"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] càng không nhịn nổi, liền nhảy xổ tới liều mạng cào cấu y.",
+     "en": "[…] he could stand it no longer and he rushed him at a jump, risking his life to claw at him."
+    }
+   ]
+  },
+  {
+   "headword": "điếng",
+   "base": "45d91dbd3ee626e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sting; to cause numbness"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to traumatize; to stun; to shock; to stupefy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Xuất tinh ra máu, chuyện điếng hồn của đàn ông.",
+     "en": "Ejaculating blood, a story to traumatize the mind of man."
+    }
+   ]
+  },
+  {
+   "headword": "chân ướt chân ráo",
+   "base": "1426218c8bb1401c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "naively; amateurly; artlessly; inexperiencedly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "simple and naive; amateurish; inexperienced; wet behind the ears"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiêm minh",
+   "base": "60cd9800f03b0fd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "strict but just"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kỉ luật nghiêm minh",
+     "en": "a strict and rightly implemented set of rules"
+    },
+    {
+     "sense": 1,
+     "vi": "Người có hành vi tham nhũng phải bị xử lý nghiêm minh theo quy định của pháp luật.",
+     "en": "Those who committed corruption need to be prosecuted strictly with justice according to the law."
+    }
+   ]
+  },
+  {
+   "headword": "chọc tiết",
+   "base": "ceff9b2bc0b13bc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bleed; to stick (livestock)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to slaughter; to butcher (livestock)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to exploit; to ravage (resources)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máu mặt",
+   "base": "8c2dec952d16f835",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "disapproving",
+      "usually"
+     ],
+     "gloss": "appear wealthy and influential, not on a par with others"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nicotin",
+   "base": "200618167a0f1414",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nicotine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêng",
+   "base": "c5212b4052d48bd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "diligent; industrious; hard-working"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "diligently; industriously; laboriously"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt bát",
+   "base": "623e90abe44c9b66",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "vivacious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ông này đi chân đất, mặc áo cũ, không hoạt bát gì cả. Có thể là các thầy ở chùa không nhận ra đó là Bụt.",
+     "en": "He went barefoot, wore old clothes, was not vivacious at all. Maybe the monks in the pagoda did not realize he was the Buddha."
+    }
+   ]
+  },
+  {
+   "headword": "nào ngờ",
+   "base": "485cf8958f98aa73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "but contrary to expectations; unexpectedly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ti chức",
+   "base": "425c3d45b1e982a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Chinese",
+      "humble"
+     ],
+     "gloss": "I"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bọn ty chức không biết đại nhân quang lâm, không kịp ra đón từ xa, xin đại nhân tha tội.",
+     "en": "We didn't know Your Highness was about to grace us with your presence and didn't therefore go out to greet you; I beg Your Highness's forgiveness."
+    }
+   ]
+  },
+  {
+   "headword": "cầm chừng",
+   "base": "5063fb51733b6ada",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "moderate; perfunctory"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "moderately; perfunctorily"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

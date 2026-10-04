@@ -1,0 +1,1319 @@
+{
+ "batch": "0212",
+ "entries": [
+  {
+   "headword": "thiên thần sa ngã",
+   "base": "afed32ea70f9565e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fallen angel"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yến sào",
+   "base": "1ab51f380030e4ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an edible bird's nest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lẩu",
+   "base": "ef17602bb445716c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hot pot"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lẩu Thái",
+     "en": "Thai suki"
+    }
+   ]
+  },
+  {
+   "headword": "lịch pháp",
+   "base": "d1dd4738f60a55d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "calendar, calendar system"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm lụng",
+   "base": "b84bc3ac0cccce8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to work; to toil (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đen sì",
+   "base": "16100632087897a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very black with an almost grayish tint"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ú ớ",
+   "base": "656338e51fe4cb7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mumble unintelligibly; to babble"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hem and haw"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chíu",
+   "base": "570403347aa7d704",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to whizz, zing, whistle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dung thứ",
+   "base": "e78c4cb38a7d9356",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forgive; to condone; to pardon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ban mai",
+   "base": "9cbea8cd340ee350",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "early in the morning; dawn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mù màu",
+   "base": "8cf6db0e9912e072",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "colorblind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ỉm",
+   "base": "46e09d8ead27c3c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hush up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bục giảng",
+   "base": "4b997f95f656a6f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lectern"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phét lác",
+   "base": "24238313b368bc23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tell tall tales to brag or to joke"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Cậu chỉ được cái phét lác! Chuyện ấy tớ nghe từ tám hoánh rồi, trẻ con nó cũng thuộc chứ quê cậu hồi nào? Mốc xì!",
+     "en": "\"You're only good at telling tall tales! I've been hearing that one since forever, even the kids know it by heart by now; when did it happen back at your home? Bull!\""
+    }
+   ]
+  },
+  {
+   "headword": "tiền tiêu",
+   "base": "a08ead7a9a1b5e03",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "outpost located closer to the enemy, vanguard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lại đi thêm một ngày, còn cách chỗ Vương Hãn không xa, chợt hai tên quân tiền tiêu của Thiết Mộc Chân phi mau về, báo phía trước có bộ lạc Nãi Man chặn đường, khoảng ba vạn người.",
+     "en": "One more day passed; they were not far from Wáng Khan anymore when suddenly two soldiers of Temüjin's vanguard army hurried back to report that the Naimans were blocking the road ahead with about thirty thousand people."
+    }
+   ]
+  },
+  {
+   "headword": "bồi đắp",
+   "base": "ac021deaba9c7c53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deposit"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to strengthen, to consolidate (a feeling, emotion, knowledge, skill, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bồi đắp niềm tin",
+     "en": "to strengthen trust"
+    }
+   ]
+  },
+  {
+   "headword": "cá nước",
+   "base": "3a04df5956237fae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fish and water"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "a close relationship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tình cá nước giữa quân và dân.",
+     "en": "The close relationship between the army and the people."
+    }
+   ]
+  },
+  {
+   "headword": "tính sổ",
+   "base": "8df06d443a3fa266",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to avenge; to seek revenge; to pay back a feud"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đành rằng",
+   "base": "711858e68326572c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "admittedly; granted; I concede the fact that"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đành rằng số ca nhiễm ở Hà Nội đã xuống rất thấp, nhưng không có nghĩa là con virus SARS-CoV-2 đã biến mất.",
+     "en": "Admittedly, the number of infections in Hanoi has dropped very low, but that doesn't mean that the SARS-CoV-2 virus has disappeared."
+    }
+   ]
+  },
+  {
+   "headword": "tổng lãnh sự",
+   "base": "85c63db78f2b2bbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a consul-general"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hăm he",
+   "base": "ad83a245717a2908",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "threatening"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "planned to do something indecent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ánh xạ",
+   "base": "a8c812f5f508b248",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mapping"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to map"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dựng chuyện",
+   "base": "dd00f0089f9eb478",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to create a story for a film"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "to make up something untrue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngoẹo",
+   "base": "c559d7ad536374be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn (head, etc.) to one side"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "to turn; to make a turn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm binh",
+   "base": "5b82f7023f2aa556",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "incompetent; unreliable"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "goddamn; godforsaken"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thằng âm binh này.",
+     "en": "Jeez, you incompetent dumbass."
+    },
+    {
+     "sense": 2,
+     "vi": "Người ta đi qua thôi mà có con chó âm binh nào sủa điếc hết cả tai.",
+     "en": "I was just passing by but some godforsaken dog just kept barking at me, now my ears are still ringing."
+    }
+   ]
+  },
+  {
+   "headword": "Hắc Hải",
+   "base": "c9bbefa335999a9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "Black Sea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cách li",
+   "base": "f76e2e09b35fec2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "to isolate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "especially"
+     ],
+     "gloss": "to quarantine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gà mờ",
+   "base": "3c0491712eb10c0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dim"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dull-witted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mắt gà mờ",
+     "en": "dim-sighted"
+    },
+    {
+     "sense": 2,
+     "vi": "anh chàng gà mờ",
+     "en": "a dull-witted fellow"
+    }
+   ]
+  },
+  {
+   "headword": "soái ca",
+   "base": "4b30de4bb34bcb09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "handsome guy; ideal man"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đỏm",
+   "base": "f60679c1911cde23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "neatly dressed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "người đẹp",
+   "base": "199e4dd1ebeedcbc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a good-looking person"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a beautiful woman; a beauty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "từ điển bách khoa",
+   "base": "65a0d9930029cf7b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "encyclopedic dictionary; encyclopedia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim nhại",
+   "base": "f875428ce46d614b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mockingbird"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sâu cay",
+   "base": "c9c4373f89aa2dea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "painful; bitter; profound"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thất bại sâu cay",
+     "en": "bitter failure"
+    },
+    {
+     "sense": 1,
+     "vi": "Thất bại trên tình trường của anh ta đã để lại bài học sâu cay không dứt chính bởi lòng son sắt đã phai mờ.",
+     "en": "The failure on the boy's love affairs had left a bitter lesson about his then faded commitment."
+    }
+   ]
+  },
+  {
+   "headword": "bám sát",
+   "base": "3458bec2952579b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to follow closely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo Lão",
+   "base": "11a4abaa6fd59461",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Taoism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cử tạ",
+   "base": "a1b66dd012bff890",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "weightlifting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghị sự",
+   "base": "027c2d8f5a05a836",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "agenda item"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "business (matters that come before a body for deliberation or action)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chương trình nghị sự",
+     "en": "agenda"
+    }
+   ]
+  },
+  {
+   "headword": "tiếng Anh",
+   "base": "7ed9e70127d6c474",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "English language"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "English (in the English language)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ở Việt Nam, tiếng Anh trong trường chỉ chú trọng ngữ pháp, thành thử học sinh Việt Nam không nói nổi một câu tiếng Anh nên hồn.",
+     "en": "Vietnamese schools only focus on English grammar, so it's no wonder Vietnamese students can't utter a decent English sentence for the life of them."
+    },
+    {
+     "sense": 1,
+     "vi": "Người Nhật chúng tôi hễ người Anh tới, chúng tôi học tiếng Anh, người Nga, người Pháp, người Đức đến, chúng tôi học tiếng Nga, tiếng Pháp, tiếng Đức.",
+     "en": "When it comes to the Japanese, when the English arrive, they learn English; when the Russians, French, Germans arrive, they learn Russian, French, German."
+    }
+   ]
+  },
+  {
+   "headword": "tối cổ",
+   "base": "3322364f492cf09b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ancient; antique"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ý vị",
+   "base": "543165cadce34e4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "deep, profound meaning"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "deeply, profoundly meaningful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mụ mị",
+   "base": "60f7defd934f4c17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "worn out to the point of being dazed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đóng rất mạnh như sợ rằng nhỡ nó bật ra, anh sẽ mụ mị lao theo mà không kìm được lòng mình.",
+     "en": "He slammed it hard, as if afraid that, if it sprang open again, he would rush after them in a daze, unable to restrain himself."
+    }
+   ]
+  },
+  {
+   "headword": "đặc tài",
+   "base": "531ead8459d41f36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "one's gifted nature"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đất có tuần, nhân có vận. Xoay lại tuần vận, phải có đặc tài.",
+     "en": "Earth is in order and man is on the move, so whoever gets hold of these two must be more than gifted."
+    }
+   ]
+  },
+  {
+   "headword": "óng mượt",
+   "base": "db391656ed8754cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "glossy; silky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dốt đặc",
+   "base": "de45717ed553debe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very stupid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ươn",
+   "base": "bee6e0d91c7c4c1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spoiled (meat, fish, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cá ươn",
+     "en": "spoiled fish"
+    }
+   ]
+  },
+  {
+   "headword": "tam giác vuông",
+   "base": "d597a5527008f451",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "right triangle/right-angled triangle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô hình trung",
+   "base": "0518a4e55e0b0d08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "virtually; imperceptibly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cờ vây",
+   "base": "6687ea12e445b0f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "go (board game)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàm nghĩa",
+   "base": "403469a2999f7b33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to denote; to indicate; to mean"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meaning; idea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vốc",
+   "base": "c7a0cd03e2086cd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a handful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cáo từ",
+   "base": "93056f9b0e03f911",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to take leave, to say goodbye"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trương Thập Ngũ uống đến khi say khướt mới cáo từ, xiêu xiêu vẹo vẹo đi về hướng Lâm An,[…]",
+     "en": "Only when he was drunk as a wheelbarrow did Zhāng Shíwǔ take his leave, stumbling on his way in the direction of Lin'an, […]"
+    }
+   ]
+  },
+  {
+   "headword": "quạt máy",
+   "base": "a3e5f29b3a4b6787",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electric fan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hưu bổng",
+   "base": "aed002abeeffec9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pension"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiền chiện",
+   "base": "8578346d9151d9af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bird of the passerine family Cisticolidae"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tranh biện",
+   "base": "9100fbf06ff85a3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to debate; to contest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đại thần là những người có quan hệ đến sự yên nguy của đất nước, họ cốt làm nên việc cho thiên hạ, chứ đâu cần tranh biện mồm mép để hại đến thân mình và làm cho việc nước không còn chỗ ký thác.",
+     "en": "Grand officials are the figures who prove obliged to their nation's safety, so their only goal is to become a public servant instead of hurting themselves in some oral debate and driving national affairs nowhere to entrust."
+    }
+   ]
+  },
+  {
+   "headword": "cứu chúa",
+   "base": "8fbce97319df1b5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a savior"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lém lỉnh",
+   "base": "dc5b23282fc6c3c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "endearing",
+      "literary"
+     ],
+     "gloss": "sharp and smart but playful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mộ chí",
+   "base": "4216d7e6fbe74292",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gravestone; headstone; tombstone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Cơ Đốc nhân",
+   "base": "80b26313419d41ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Christian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gió lùa",
+   "base": "a85f214d932a37e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a draft"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gia cảnh",
+   "base": "2aee71a1ff7ee3d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "family financial situation; family monetary circumstances"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "héo hắt",
+   "base": "641147a22afef6c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fade away; to disappear; to die away"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vectơ",
+   "base": "705c627b43b95d5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a vector"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "còm nhom",
+   "base": "1930ac5f6fdc2d0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very thin and weak; lacking vitality or vigour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi dùng",
+   "base": "670b51b8f7c8f29d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spend; to pay out; to disburse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyết chiến",
+   "base": "eae602538900b0e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bloody battle; fierce fight; violent confrontation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu lăng",
+   "base": "3b2078c6c2d421c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lentil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dày cộp",
+   "base": "c00764cd4b25e51c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "excessively thick (to the point of being cumbersome)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quyển sách dày cộp",
+     "en": "hefty book"
+    }
+   ]
+  },
+  {
+   "headword": "lộng quyền",
+   "base": "3c1bf4c2c663927c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to abuse one's power; to manipulate power for personal ends"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đăng cai",
+   "base": "1d0430b961294bea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to host (an event)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quân hành",
+   "base": "44d26d8cfb7871be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to march; to operate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bể phốt",
+   "base": "2a597fad02c938e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of bể tự hoại (“a septic tank”)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Về nghĩa đen, theo từ điển tiếng Việt thì “phốt” có nghĩa là “hố phân” hoặc còn được gọi là “bể phốt” (hầm cầu, hầm tự hoại, chứa chất thải hữu cơ). Bể phốt cũng là từ vay mượn tiếng Pháp, nhưng chữ gốc của nó là \"fosse\" (cái hố) trong “fosse septique”.",
+     "en": "Phốt literally means “excrement pit” and is also called bể phốt (a septic tank that stores organic waste). Bể phốt is also a French loanword, but the etymon is fosse (a pit) as in fosse septique."
+    },
+    {
+     "sense": 1,
+     "vi": "- Trai đẹp thì đi thông bể phốt cũng có người thích, như cháu tao chẳng hạn.",
+     "en": "\"If you're a hot guy it ain't matter even if you were a septic tank cleaner, like my nephew for example.\""
+    }
+   ]
+  },
+  {
+   "headword": "miu",
+   "base": "a6b7c1d85e8d6d1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "a pussy-cat (affectionate term for a cat)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kính chúc",
+   "base": "c752d96c0fe7e76d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to sincerely wish; to fervently wish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đặc hiệu",
+   "base": "a33515e840609197",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having special efficacy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dưỡng chất",
+   "base": "f050861a4550d9cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nutrient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đất nung",
+   "base": "b1fcc222856a610f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "terracotta (unglazed earthenware)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đồ đất nung",
+     "en": "Terracotta Things"
+    }
+   ]
+  },
+  {
+   "headword": "cheo leo",
+   "base": "4622048dac4283d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dangerously steep; precariously lofty; frighteningly high"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tráo trở",
+   "base": "4c8db46f5f5a2b41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "treacherous; deceitful"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

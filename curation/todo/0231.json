@@ -1,0 +1,1329 @@
+{
+ "batch": "0231",
+ "entries": [
+  {
+   "headword": "bỏ về",
+   "base": "b632517f1faef5d8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave (a party etc.); to quit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giận gì mà lại đùng đùng bỏ về thế?",
+     "en": "What are you so angry about that you just up and left (like that)?"
+    }
+   ]
+  },
+  {
+   "headword": "bỏm bẻm",
+   "base": "0a0677a6926fcd1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "leisurely; casually (chewing)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "...bà ngoại thì tóc phải bạc, lưng phải còng, nhai trầu bỏm bẻm.",
+     "en": "...(if a) grandmother, then her hair must be gray, her back must be bent; chewing betel leisurely."
+    }
+   ]
+  },
+  {
+   "headword": "bỏng ngô",
+   "base": "f6261fb84213585a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "popcorn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bố nó",
+   "base": "645bd857f1803d2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "you, our child(ren)'s dad"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "he/him, your child(ren)'s dad"
+    },
+    {
+     "position": 3,
+     "pos": "particle",
+     "tags": [
+      "Northern",
+      "sentence-final",
+      "vulgar"
+     ],
+     "gloss": "conveys annoyance or regret"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Sao không làm bố nó đi !",
+     "en": "Oh for heaven's sake, just do it already!"
+    },
+    {
+     "sense": 3,
+     "vi": "Thằng ôn dịch đó làm hỏng bố nó rồi !",
+     "en": "That son of a gun broke the damn thing!"
+    }
+   ]
+  },
+  {
+   "headword": "bố phòng",
+   "base": "638c237cd7efcf4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to organise the defence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nguyễn Huệ cho tướng Xiêm xem trận địa bố phòng, vũ khí, vv[.]",
+     "en": "Nguyễn Huệ allowed the Siamese generals to see his defensive battle formation, weapons, etc."
+    }
+   ]
+  },
+  {
+   "headword": "bố đường",
+   "base": "7af5447d5fb8c185",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism",
+      "slang"
+     ],
+     "gloss": "sugar daddy (older man who spends money for a relationship with a younger partner)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốc cháy",
+   "base": "9e6579613d5709bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be ablaze"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốc hoả",
+   "base": "1d7e2d2b21d4ef8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go up in flames; to catch fire; to ignite"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to see red; to hit the roof; to go ballistic"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have hot flushes"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hot flushes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốc đầu",
+   "base": "ec8ab98f523fae75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wheelie"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do a wheelie"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốn bề",
+   "base": "b4aaec89807053dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "everywhere"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sáng hôm sau tuyết rơi càng lớn, bông bạc đầy trời, ngọc rắng khắp đất bốn bề mênh mông trắng xóa.",
+     "en": "The next morning the snow was falling ever thicker, white flakes filled the sky, the earth seemed covered in fine jade, everywhere a boundless uniform white."
+    }
+   ]
+  },
+  {
+   "headword": "bốn bể",
+   "base": "f94ea97cfe30ab92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the seas around China"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "obsolete",
+      "possibly"
+     ],
+     "gloss": "the four oceans, the Pacific, the Indian, the Atlantic and the Arctic"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the whole world"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốn mắt",
+   "base": "6e3e8c884502dfad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "figuratively"
+     ],
+     "gloss": "bespectacled; four-eyed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bốt đờ sô",
+   "base": "ab72b7539f26e7b7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "jump boot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ các",
+   "base": "598846845548f488",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Eurasian magpie"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ hòn",
+   "base": "4b85efb898ea243f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese soapberry (Sapindus mukorossi)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "western soapberry (Sapindus saponaria)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have no worries"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thương nhau củ ấu cũng tròn, ghét nhau thì quả bồ hòn cũng vuông.",
+     "en": "If we care for one another, even water caltrops are round; if we hate each other, even the soapberry fruit is square."
+    }
+   ]
+  },
+  {
+   "headword": "bồ kết",
+   "base": "1dd5ebd67bead44c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "locust tree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ nhí",
+   "base": "6cd045b291c95ddd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory",
+      "often",
+      "slang"
+     ],
+     "gloss": "young mistress (of an elderly person)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ đào cầu khuẩn",
+   "base": "ea6001469e158e3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "staphylococcus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồ đề tâm",
+   "base": "979cf9b55e8b83ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bodhicitta"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồi bút",
+   "base": "54adc3b8415eae60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "writer or publicist who collaborated with the enemy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồi bếp",
+   "base": "90ef14368a043af4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "an in house cook; kitchen servant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồi tự",
+   "base": "eecac052233bfa25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "to help offer sacrifices; to assist in a sacrificial ritual"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các quan bồi tự, trợ tế trong lễ tế đàn Nam Giao ở Huế",
+     "en": "The mandarins help offer sacrifices in the Nam Giao ceremony platform in Hue"
+    }
+   ]
+  },
+  {
+   "headword": "bồm bộp",
+   "base": "6d46a449fcea69e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "Used to describe a dull, muffled, repetitive sound, typically produced when a hard object strikes something soft, hollow, or not solid: thudding; pounding; thumping"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vỗ bồm bộp vào vai",
+     "en": "to slap thump-thump on the shoulder"
+    }
+   ]
+  },
+  {
+   "headword": "bồn binh",
+   "base": "bb5917cb4926d7c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "roundabout; traffic circle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồn địa",
+   "base": "4d9456d6479ed21b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basin"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồng chanh",
+   "base": "45c5d9903e7a05d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "common kingfisher"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồng cốt",
+   "base": "db98dbc2d3309303",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tuck in one's shirt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ chính",
+   "base": "fc841cddc967b49d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compensate, to calibrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ dụng",
+   "base": "d422f8fe4695503d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to appoint; nominate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ khuyết",
+   "base": "3a9d3b6b33f4f80a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to complement"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compensate"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to substitute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ nghĩa",
+   "base": "342a0c9e5dca31f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to modify (a verb, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ ngữ",
+   "base": "584cd26c38873267",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "complement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ thể",
+   "base": "584cd26c38873267",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "complement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ tử",
+   "base": "8ed0195e8a15310a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "mandarin square (a large embroidered badge, with animal or bird insignia, sewn onto the surcoat of certain officials in Imperial China, Korea, Vietnam, and the Ryukyu Kingdom)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổ đề",
+   "base": "34a9920fb4f7e0f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lemma"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổi hổi",
+   "base": "a579674d0a1c2bb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "synonym of bồi hồi, but with a stronger feel."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổn cũ soạn lại",
+   "base": "c72c4af86eb3c752",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "the same tired old trick; the same trite trope"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bổng",
+   "base": "7b46bb3126cee39a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in mid-air"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỗ bã",
+   "base": "72cfff58c675e3f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abundant but insipid"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "coarse, uncouth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Cô ta tính tình cởi mở, thậm chí còn hơi bỗ bã, khi làm việc thì khá cẩu thả.",
+     "en": "She was open-hearted verging on rude, and quite careless in her work."
+    }
+   ]
+  },
+  {
+   "headword": "bộ Anh",
+   "base": "e6a96d6c39103e7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foot (unit of measure equal to twelve inches)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thành phố có vị trí thấp hơn mặt nước biển, có nơi như ở Crescent City, thấp hơn cả 10 bộ Anh (foot).",
+     "en": "The city has locations below sea level, places like Crescent City, which is as low as 10 feet under."
+    }
+   ]
+  },
+  {
+   "headword": "bộ ba",
+   "base": "ef616dbaed443788",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trio"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ bài",
+   "base": "8c986cdddf5ad33a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pack of cards; a deck of cards"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ bài Tây",
+   "base": "057067942a872705",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the standard 52-card deck of French-suited playing cards"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ bảy",
+   "base": "e463e6742dd36165",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "septet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ chế hoà khí",
+   "base": "71bdfa00b5aa6120",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carburetor, carburettor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ gõ",
+   "base": "ad4faf41b03518ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "percussion instrument"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "input method (program that facilitates the input of foreign scripts)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhạc cụ khá đa dạng, gồm bộ dây, bộ hơi và bộ gõ.",
+     "en": "The instrument is quite versatile, consisting of a string instrument, wind instrument, and percussion instrument."
+    }
+   ]
+  },
+  {
+   "headword": "bộ luật dân sự",
+   "base": "2fde23dc00dffd3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "civil code"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ nhớ truy cập ngẫu nhiên",
+   "base": "f59b34c94a0b7b79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "random access memory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ nhớ đệm",
+   "base": "f723bd0ec4d6c1a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "buffer (portion of memory set aside to store data)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cache (fast temporary storage)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ nhớ ảo",
+   "base": "f69b5f772a5ae140",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "virtual memory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ năm",
+   "base": "2d4f2517a4816ac8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quintet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ sáu",
+   "base": "f55f647ac70f8806",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sextet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ sậu",
+   "base": "cc758a5058d9c1f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "gang; bunch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ thủ",
+   "base": "e934a6ea00a5ffd5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Chinese character radical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ tám",
+   "base": "987f0e5a94e7d22f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "octet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ vuông",
+   "base": "bf1294149495dd8d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "square foot"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Các tòa nhà không có hạn chế số người cho phép vào trên hồ sơ có thể cho phép 10 người (bao gồm nhân viên) mỗi 1,000 bộ vuông tại khu vực trong nhà có thể vào",
+     "en": "Buildings for which no permitted occupancy limitation is on record may allow 10 persons (including staff) per 1,000 square feet of accessible space"
+    },
+    {
+     "sense": 1,
+     "vi": "Điều này cho phép các thành viên trong ban nhân sự của EPA tìm và đánh dấu bằng điện tử vị trí của vụn vãi đổ nát nhỏ cỡ một bộ vuông trong thời gian thu hồi mảnh vỡ của phi thuyền con thoi Columbia.",
+     "en": "This allowed EPA staff members to find and electronically tag the location of debris as small as one square foot during recovery of the Columbia shuttle wreckage."
+    },
+    {
+     "sense": 1,
+     "vi": "Thủ Tục Thuế Vụ 2013-13 cho phép người đóng thuế đủ tiêu chuẩn chuẩn sử dụng giá biểu đã định là $5 mỗi bộ vuông cho phần nhà dùng để kinh doanh (lên đến tối đa 300 bộ vuông) để tính khấu trừ sử dụng nhà cho mục đích kinh doanh.",
+     "en": "Revenue Procedure 2013-13 allows qualifying taxpayers to use a prescribed rate of $5 per square foot of the portion of the home used for business (up to a maximum of 300 square feet) to compute the business use of home deduction."
+    }
+   ]
+  },
+  {
+   "headword": "bộ xương",
+   "base": "43c10b60970b657b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a skeleton"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lão hành khất đúng là một bộ xương biết đi.",
+     "en": "The old beggar is a walking skeleton."
+    }
+   ]
+  },
+  {
+   "headword": "bộ xử lí",
+   "base": "d05c5de8cadb60c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a processor or processing unit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ xử lí trung tâm",
+   "base": "5877f4a6238e1cc1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a central processing unit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ đôi",
+   "base": "dfb68e238e183c34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "duo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bội chi",
+   "base": "067adb50daa38bdd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "deficit; overspending"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bội nghịch",
+   "base": "c313e3a6f5751815",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "insolent; rebellious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bội phần",
+   "base": "b4fd2be511bb247f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "numerous; abundant"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "extremely; abundantly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bội số chung nhỏ nhất",
+   "base": "bde404f349d32218",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "the least common multiple"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộp",
+   "base": "3e68cdb84c7ef1c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "Used to describe a deep, dull, compact sound, such as that of a heavy object falling or hitting something solid; with a thud, plop, smack, etc."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Cinnamomum polyadelphum (tropical tree native to Indochina)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quả mít rơi bộp xuống đất.",
+     "en": "The jackfruit fell to the ground with a thud."
+    }
+   ]
+  },
+  {
+   "headword": "bộp chộp",
+   "base": "2f320f5d8be22f6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impetuous; rash; impatient"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "impetuously; rashly; impatiently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột bán",
+   "base": "03e6cb1149008891",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tapioca pearl"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột báng",
+   "base": "7bd8a7ef20e9bb53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of flour made from cassava, used in cooking to create texture for food"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột chiên",
+   "base": "9a48865111826c0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bột chiên (Vietnamese fried rice cakes)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột giặt",
+   "base": "27bb11d96f61f637",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "washing powder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột khởi",
+   "base": "ed5a02c2488025d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to rise up vigorously; to flare up forcefully; to spring up energetically"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột ngọt",
+   "base": "3d7f329217326231",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "monosodium glutamate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột năng",
+   "base": "aee07c8349535fa7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tapioca starch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột phát",
+   "base": "e30092c4d734b38e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to erupt; burst out; shoot up; flare up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bột ớt",
+   "base": "d517531a755d2817",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chili powder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bới lông tìm vết",
+   "base": "6f997d25e23df778",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to search fur for flaws"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to pick a hole in someone's coat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bớn",
+   "base": "ad8afca810bdf057",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trash; rubbish"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wimpy and clumsy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bớt miệng",
+   "base": "485b46a7bfbbe856",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shut up; hush; stop speaking"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bờ bến",
+   "base": "e6a8975c3c687020",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a bank; a shore; a coast"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "không bờ bến",
+     "en": "limitless"
+    }
+   ]
+  },
+  {
+   "headword": "bờ kè",
+   "base": "cd0ab1eaeda6f900",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a reveted embankment located by a stream or body of water, especially one where people can rest and hang out"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

@@ -1,0 +1,1338 @@
+{
+ "batch": "0213",
+ "entries": [
+  {
+   "headword": "lưa thưa",
+   "base": "dd32e6f27bc3428a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "few and far between; sparse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sơn dương",
+   "base": "89b9a96e788fedc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a serow"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "some other goat-like ungulates that live in mountains, such as the chamois or the ibex"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt ngôn",
+   "base": "86102e8c80eabeb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "talkative"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên chức",
+   "base": "91b7bda322f21619",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "duty endowed by the Heavens"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "- Mệt... nhưng mà vui, vui vì mình lãnh cái thiên chức tối cao, là soi đường dẫn bước cho dư luận, binh vực và bào chữa cho công lý.",
+     "en": "\"It's tiring... but very fulfilling, because I get to bear the utmost responsibility, that is, to help guide public opinion, and to stand for and stand by justice.\""
+    }
+   ]
+  },
+  {
+   "headword": "thềm lục địa",
+   "base": "c4071d80554a4cf7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "continental shelf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gió mùa",
+   "base": "b7a843a6a2727885",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "monsoon"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khí hậu nhiệt đới gió mùa",
+     "en": "tropical monsoon climate"
+    },
+    {
+     "sense": 1,
+     "vi": "Trong các bể ở về phương nóng nực, có gió thổi sáu tháng hướng này, sáu tháng hướng khác luân chuyển cùng nhau gọi là gió mùa (moussons).",
+     "en": "In the ocean in the tropics, there is a kind of winds that blow in one direction for six months, then the other direction for six months, called monsoons."
+    }
+   ]
+  },
+  {
+   "headword": "nhài",
+   "base": "15faff51004f4369",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "jasmine"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "paper fan pin (fastening slats, originally jasmine-shaped)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "historical"
+     ],
+     "gloss": "maid; maidservant; abigail"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "triệt",
+   "base": "719664a5c53c1a77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suppress; to remove; to exterminate; to withdraw (troops)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "băng rôn",
+   "base": "8803eb42b3c32e65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "banner"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lí sự",
+   "base": "158bd02d3381078c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "sophistry"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to arrange or manage matters"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "to be sophistic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lí sự cùn",
+     "en": "bullcrap arguments"
+    }
+   ]
+  },
+  {
+   "headword": "điêu ngoa",
+   "base": "60987dd36fddbfa6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lie as a habit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cố công",
+   "base": "6eda0fc274d26f5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to strive"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cố công nghiên cứu",
+     "en": "to strive for extensive study"
+    }
+   ]
+  },
+  {
+   "headword": "nhạc điện tử",
+   "base": "5f3a296fea70c7d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "EDM (electronic dance music)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá chạch",
+   "base": "fee6ba0a64790d8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "loach"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầm tay",
+   "base": "fca0ce746a8916aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hand-held"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "túi xách cầm tay",
+     "en": "a small purse"
+    },
+    {
+     "sense": 1,
+     "vi": "thiết bị cầm tay",
+     "en": "handheld devices"
+    }
+   ]
+  },
+  {
+   "headword": "khinh nhờn",
+   "base": "c548af81282120ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disrespectful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "võ phục",
+   "base": "629e484440d3a79f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "martial art uniform"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nặng trịch",
+   "base": "3a5f505bbf57c3b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very heavy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dung dưỡng",
+   "base": "936ed73c710cb175",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to condone, to excuse and permit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] sự chấp nhận kia không phải là thái độ dung dưỡng cho thói hư tật xấu.",
+     "en": "[…] that acceptance is not a condoning attitude towards bad habits."
+    }
+   ]
+  },
+  {
+   "headword": "danh thủ",
+   "base": "af118e856d8a4e84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expert; master; a famous person (such as an artist or sportsman)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khoa học xã hội",
+   "base": "c1ec35c34f204c71",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "social science"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ở không",
+   "base": "96a6877c71cc088e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to idle; to do nothing (in life)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to be single; unmarried"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khựng",
+   "base": "c4ae99b768ac3f30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stop suddenly; to stop dead in one's tracks"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hưng cảm",
+   "base": "9b91303f761deb87",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mania"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỏn vẹn",
+   "base": "0d7e72d4ad50f4aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "in all; only; merely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cảm thán",
+   "base": "72deb11275e710d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sigh with emotion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bội thu",
+   "base": "25577d8ccbcd2339",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to outnumber that from the last harvest"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gain a rate of intake more than expected"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ông chủ",
+   "base": "e9845167021ed53f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "head, boss"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gấm vóc",
+   "base": "7ae4db43fb099362",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "expensive textiles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rợp",
+   "base": "29fd5d66ecd655ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to overshadow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "báo quyền",
+   "base": "2d19ba028e4a7c64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "leopard style"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ra rả",
+   "base": "ffbe8028516e9226",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "endlessly, incessantly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ve sầu kêu ra rả suốt hè.",
+     "en": "The cicadas sing incessantly all summer."
+    }
+   ]
+  },
+  {
+   "headword": "ngũ sắc",
+   "base": "374bc0e4f5b58d50",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "The five standard colors black, red, blue-green (青), white and yellow in traditional Chinese art and culture which correspond to the five elements of water, fire, wood, metal and earth."
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lantana"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bạ",
+   "base": "ec48cd697a5e9c60",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do randomly or indiscriminately"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "any (one, thing, where, etc.)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "register; roll; record"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bạ đâu nằm đó",
+     "en": "lying down wherever"
+    }
+   ]
+  },
+  {
+   "headword": "mô tê",
+   "base": "2baab6c707b998a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "anything at all"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nói chung là hai thằng cha này chả biết mô tê gì, cứ ngơ ngơ như người từ hành tinh khác đến nhưng… có khi vậy lại hay!",
+     "en": "In short, those two guys don't know shit; they are ignorant like aliens from another planet, but… sometimes that's what makes it cool!"
+    }
+   ]
+  },
+  {
+   "headword": "nhược tiểu",
+   "base": "d802c311bbe293c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "puny; weak and small"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "uất",
+   "base": "0229de43c13f2c70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be indignant (and yet have to contain one's anger)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xiêu lòng",
+   "base": "5d87f138375685ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be won over; to be convinced; to yield to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dư âm",
+   "base": "453316de5ae26054",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "resound, lingering sound"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reverberation (of impactful event)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "dư âm của chiến tranh",
+     "en": "the reverberations of the war"
+    }
+   ]
+  },
+  {
+   "headword": "địa y",
+   "base": "7d662655fbeafbb8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lichen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phè",
+   "base": "f1617fd8206fa19b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "excessively"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máu nóng",
+   "base": "b11bf65f5f97603c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "warm-blooded"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sòng bạc",
+   "base": "26c2c699f8277327",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "casino"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vi lượng",
+   "base": "d8ec988476d4a112",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "very small amount; extremely small quantity; trace; smidgen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồ án",
+   "base": "c08be5d582025d62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "design, plan, project"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thực hư",
+   "base": "c8c338f8f0e86c04",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "whether an incident is true or false"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thực hư thế nào chưa biết.",
+     "en": "Whether this's really happened or not is yet to be known."
+    }
+   ]
+  },
+  {
+   "headword": "tĩnh vật",
+   "base": "b01e36bed8e460e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a still life subject"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tranh tĩnh vật",
+     "en": "still life; a still life piece"
+    },
+    {
+     "sense": 1,
+     "vi": "Trung tâm có lớp tĩnh vật và lớp chân dung.",
+     "en": "We offer still life and portraiture classes."
+    }
+   ]
+  },
+  {
+   "headword": "chứng thư",
+   "base": "a7b799515e47f6d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certificate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giáo khu",
+   "base": "388ab3a0c0fbe777",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "diocese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặc khải",
+   "base": "b65a10ab81ac2a2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reveal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dớp",
+   "base": "5fbd1397a7a1646c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bad luck due to repeated failures beforehand"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bạc má",
+   "base": "adf324f2d035d3a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lu bu",
+   "base": "50f7c219b6e2e7b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "busy with work"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quạu quọ",
+   "base": "8fd0693d47fb174d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "frowning; scowling"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mặt mày quạu quọ",
+     "en": "with a very displeased expression"
+    }
+   ]
+  },
+  {
+   "headword": "tải lên",
+   "base": "c14f1c6574ffac22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to upload"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thứ nguyên",
+   "base": "a8b72e7f9a459087",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dimensional"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phân tích thứ nguyên",
+     "en": "dimensional analysis"
+    }
+   ]
+  },
+  {
+   "headword": "khuyên lơn",
+   "base": "92afdea106464aa6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to softly but insistently give advice"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] hoặc ta phải khuyên lơn hay nài nỉ thì người kia mới chịu nói ra hết những niềm đau chôn giấu.",
+     "en": "[…] or we need to be soft but insistent or plead before this person would fully disclose their hidden pain to us."
+    }
+   ]
+  },
+  {
+   "headword": "hùng cường",
+   "base": "12544cb9770cc88c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "powerful; mighty; strong"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên ba",
+   "base": "995af600e8b021ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "sky wave"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đơn ca",
+   "base": "660725012c7938b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sing solo"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đơn ca có đệm pi-a-no",
+     "en": "to sing a solo with piano accompaniment"
+    }
+   ]
+  },
+  {
+   "headword": "thơm ngát",
+   "base": "a2b5a3173e13808c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fragrant; sweet-scented"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bức bối",
+   "base": "5744c7559e4239b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hot; sultry (generally speaking)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "indisposed; not feeling quite well"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "râu dê",
+   "base": "932471aa71835169",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beard of a goat"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "goatee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bản ngã",
+   "base": "966040100e8f81c4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "self, one's nature"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Duy chỉ vượt qua được bản ngã của mình thôi cũng đã là một bứt phá.",
+     "en": "To break free from one’s own ego alone is already a true breakthrough."
+    }
+   ]
+  },
+  {
+   "headword": "năm mới",
+   "base": "68c85c2b9ee1092f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "New Year (either the first few days of the calendrical New Year or Lunar New Year)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiêng nể",
+   "base": "8ca1cca5cf553af6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to respect; to show regard and consideration for"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sữa tắm",
+   "base": "cc4748407492a81f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shower gel; body wash"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dẫn thân",
+   "base": "dd8995989b640423",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to bring oneself to; to throw oneself into (e.g. a difficult, dangerous place)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rề",
+   "base": "e9d00a1c4257b1bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slow (in one's action)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gôm",
+   "base": "8bdc1219f3faf71d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eraser"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạc quyền",
+   "base": "47c162edf6d0c112",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crane style"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lụt lội",
+   "base": "8d9c7192c223f6f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an inundation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to inundate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mưa to mấy hôm liền, đường sá lụt lội.",
+     "en": "The roads were inundated after many days' heavy raining."
+    }
+   ]
+  },
+  {
+   "headword": "công nông",
+   "base": "dc5c76ee919a0cd9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "blue-collar workers and peasants"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lớn lên",
+   "base": "9d386b6c06b364ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grow up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Em lớn lên ở Hà Nội.",
+     "en": "I grew up in Hanoi."
+    }
+   ]
+  },
+  {
+   "headword": "oằn oại",
+   "base": "3e626e70a1ca3161",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to writhe in pain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] cô dựa lưng vào tường, những vuông vải phơi trên đầu cồn cào, oằn oại, tơi tả gió.",
+     "en": "[…] she leaned back against the wall; squares of cloth overhead churned, writhed, and frayed in the wind."
+    }
+   ]
+  },
+  {
+   "headword": "công nghệ thông tin",
+   "base": "693ace4a54db4be2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "information technology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiểu não",
+   "base": "bc66ee5773429eef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grieved; melancholic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Với một giọng điệu thiểu não, ông nói với tôi rằng ông \"không tin tưởng nơi đời sống nữa\".",
+     "en": "From his melancholic tone, the man said, \"I don't believe in life any more.\""
+    }
+   ]
+  },
+  {
+   "headword": "dọi",
+   "base": "bb42bc6c18710070",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "plumb bob"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collide; to smash against each other"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to beat; to strike"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to thatch (a leaky roof)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chất trắng",
+   "base": "f03f56a456fa5eab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "white matter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xuân thu",
+   "base": "ae850c137f1d4f9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the entire year"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "age"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

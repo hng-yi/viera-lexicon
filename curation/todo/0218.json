@@ -1,0 +1,1391 @@
+{
+ "batch": "0218",
+ "entries": [
+  {
+   "headword": "lem nhem",
+   "base": "ccd89a001542581b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smudged, stained, soiled, blotchy"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "sloppy, careless, untidy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơi",
+   "base": "c68d44b64d64359b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to build higher; to build a superstructure (over)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "betel and areca-nut tray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dùi mài",
+   "base": "d3aff2430fb7ca20",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "studying hard and diligently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sá",
+   "base": "e3c21da42e8d2c3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "road"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "to mind, to care"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ca ri",
+   "base": "eb393419c95451dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "curry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạ thế",
+   "base": "c682210214984611",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "low voltage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ phẩm",
+   "base": "49b5d137cc0b247e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "byproduct"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đơn sơ",
+   "base": "b81c0be41552ddf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "simple"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "te tua",
+   "base": "8c7cdc5501217dd0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "raggy, ragged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phân li",
+   "base": "66974120e65f06d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to diverge; to vary"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dissociate; to disengage"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to disunite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trau chuốt",
+   "base": "93a88bac596bdc4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to embellish; to polish"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "embellished; polished"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "câu văn trau chuốt",
+     "en": "polished statements"
+    }
+   ]
+  },
+  {
+   "headword": "vô tư lự",
+   "base": "8d1647a7cbe2058b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "carefree; happy-go-lucky; laid back"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạ nguồn",
+   "base": "0a3e029f65712fb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lower reaches"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhướng",
+   "base": "b10f76843de7afb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to open (eyes) wide"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise eyebrows"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhìn nước bò lên ngập đám cỏ đằng trước, mấy con cá nhỏ đủng đỉnh lội tới lội lui, thò lõ nhướng con mắt coi lũ người ta chẳng ra gì.",
+     "en": "They watched the water creep up and swallow the grass in front; some small fish lazily swam back and forth, eyes wide open and staring at the useless humans."
+    }
+   ]
+  },
+  {
+   "headword": "cải xoong",
+   "base": "4379fcf219b1f65e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cress, watercress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bao cao su",
+   "base": "1f9838f58c0d60cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a condom"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pít tông",
+   "base": "22f033ec8db83a53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "piston"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lũ quét",
+   "base": "732b681da9b7137b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flash flood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải quỳ",
+   "base": "013f3647657e20ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sea anemone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rừng mưa",
+   "base": "cdc815c6a3b65e18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rainforest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính đại",
+   "base": "b54c36813b47d1b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "straightforward; upright; honest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tủ kính",
+   "base": "cef6a72d43055849",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cabinet with a glass display, often used for showing goods"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vỡ lẽ",
+   "base": "cf3b02c2ddc61ab2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to realize (what's previously unknown)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bóng đái",
+   "base": "45a0f3c7cccbbbe9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of bọng đái"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất tất",
+   "base": "c772c09fc93fba8e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "archaic",
+      "rare"
+     ],
+     "gloss": "not necessarily"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "rare"
+     ],
+     "gloss": "to not be necessary to"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bất tất phải nhẫn nhục, chi bằng vùng lên một phen lại hay.",
+     "en": "What is the purpose of being in total submission when it's way more effectual to snatch the chance to let us off the hook?"
+    }
+   ]
+  },
+  {
+   "headword": "nón bảo hiểm",
+   "base": "d91b90e79d25b352",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "helmet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tập san",
+   "base": "1b620d34ef87bed1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "journal, specialized magazine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thợ nề",
+   "base": "dea79073c44eea54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bricklayer; a mason"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sai biệt",
+   "base": "dc4f6db3223eb214",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "difference; distinction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xếp bằng",
+   "base": "2ce004bf2b1f7026",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "cross-legged, tailorwise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nhất thời không sao hiểu được, ngồi xếp bằng xuống tấm nệm lông chiên dưới đất.",
+     "en": "[…] for the moment he had no way of understanding it; he sat down cross-legged onto the sheepskin cushion on the ground."
+    }
+   ]
+  },
+  {
+   "headword": "phiếm định",
+   "base": "b41592b0593e6902",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "neutral; indifferent (especially of an equilibrium)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "muỗm",
+   "base": "a5cf0ecfaa5f981c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "katydid, bush-cricket"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mangifera foetida, a species of flowering plants in the Mangifera (mango genus)."
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spoon"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cánh đồng cả tuổi thơ cô in hằn biết bao kỷ niệm, từ những ngày mùa gặt theo chân mẹ ra đồng bắt những con muỗm béo ngậy nướng ăn, chờ những đống lúa tuốt xong là nhảy lên đống rơm mới thơm nức lăn lộn cùng lũ trẻ.",
+     "en": "The fields of her whole childhood were deeply imprinted with, who knows, how many memories: from those days in harvest times when she followed her mother's footsteps out into those fields to catch, roast, and eat plump, fatty bush-crickets; when she waited for the exact moment when the freshly-threshed rice-stalks had just been turned into heaps of fragrant straws for her to jump on and roll in along with other children."
+    }
+   ]
+  },
+  {
+   "headword": "cấp phát",
+   "base": "ba481fb2c158bd9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to allocate; issue; distribute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tái sản xuất",
+   "base": "839302081129321b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to produce again and continue to expand and develop; to reproduce"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "reproduction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lửng lơ",
+   "base": "518e321467e4c5df",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ambiguous, noncommittal; unresolved, in limbo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "soạn giả",
+   "base": "a1eb2683d1142426",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "author, writer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "san sát",
+   "base": "6593e91b701c771c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very close to; adjacent; adjoining; together as if there is no gap"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "jabbering on and on (in an annoying manner)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lim dim",
+   "base": "00604403bf6cb960",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "half-closed because of sleepiness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nên chăng",
+   "base": "36bcd3db274adf32",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "Used to start a question and state one's decent proposal: what about"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nên chăng ta cần có một giải pháp mới?",
+     "en": "How about giving ourselves an unconventional solution?"
+    }
+   ]
+  },
+  {
+   "headword": "ngón út",
+   "base": "ace89b01843edc96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a little finger or a little toe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khăng khít",
+   "base": "6191f57f98263439",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "close; intimate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tình bạn khăng khít",
+     "en": "a close friendship"
+    }
+   ]
+  },
+  {
+   "headword": "sáng ngời",
+   "base": "09db0d4b30ed5d62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bright and light; shining with splendor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều hợp",
+   "base": "e36aaaede521f188",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to integrate, to blend"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to adapt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Và đó cũng chính là thái độ của một người hiểu biết, nắm vững nguyên tắc điều hợp của vạn sự vạn vật trong trời đất này: có cái này nên mới có cái kia, cái kia tàn hoại thì cái này cũng không còn nguyên vẹn.",
+     "en": "And such is also the attitude of one who understands and graps the principle of integration of all things in this world: this needs to exist for that to exist; if that is destroyed, this is no longer whole."
+    },
+    {
+     "sense": 2,
+     "vi": "bộ điều hợp",
+     "en": "adapter"
+    }
+   ]
+  },
+  {
+   "headword": "bang bang",
+   "base": "84fbaac09a9c01b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "without caring about one's environment or surrounding"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trưa trời trưa trật làm gì đi bang bang ngoài đường vậy ông nội?",
+     "en": "It's high noon, what are you doing going around looking like you don't have a care for this world?"
+    }
+   ]
+  },
+  {
+   "headword": "nhễ nhại",
+   "base": "70dc3e53fd9597b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wet all-over (due to sweat)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "binh nhất",
+   "base": "7be8b99cee4d0118",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a private first class"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đốn mạt",
+   "base": "943760a58ac5f446",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "extremely corrupt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm trò đốn mạt",
+     "en": "to play the role of a bad guy"
+    }
+   ]
+  },
+  {
+   "headword": "đỏ gay",
+   "base": "ca58ef74c8d49387",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "red-faced due to alcohol, hot weather or anger"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xí muội",
+   "base": "c1a15cf7db8462dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "salted Chinese plum; smoked plum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ tử cung",
+   "base": "62d68225a5111e12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cervix (of the uterus)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiệm kì",
+   "base": "1f0e7174391c9412",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "term (of office), tenure/period (of office), tour (of duty)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trân quý",
+   "base": "4986ccdf7ca1dc84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treasure; to hold dear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lững lờ",
+   "base": "3eaf94b734845005",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slow and leisurely"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "apathetic and passive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cho thuê",
+   "base": "1cd842f0bea4363e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dông bão",
+   "base": "eec3a927c34d46d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a thunderstorm"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lúc trời dông bão, tôi ra sức ghì mấy cuốn vở sát vào người kẻo gió thổi bay mất.",
+     "en": "When it was stormy, I tried my best to hold the notebooks close to my body lest the wind blow them away."
+    }
+   ]
+  },
+  {
+   "headword": "xái",
+   "base": "d0806153f099ca0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dregs of used tobacco or opium"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xái thuốc lào",
+     "en": "thuốc lào dregs"
+    }
+   ]
+  },
+  {
+   "headword": "thanh tao",
+   "base": "c8a268cf825dc275",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "refined; mannered; noble; elevated; exalted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "võ bị",
+   "base": "4f404702ecc56ee5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "military"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bên cạnh các hàng học sinh trường Nazareth là các cậu trai học sinh trường \"Enfant De Troupe\"- Trường võ bị của chính phủ Pháp lập ra để đào tạo những thanh thiếu niên lai Pháp bị bỏ rơi hoặc mất cha mẹ, người thân từ 16 đến 20 tuổi.",
+     "en": "Besides the rows of students from the Nazareth school were the male students of the \"Enfant De Troupe\" school — a military school the French government had founded to train French youths of mixed blood who had been abandoned or who had lost their parents and relatives, from 16 to 20 years old."
+    }
+   ]
+  },
+  {
+   "headword": "mẹ kiếp",
+   "base": "5077437b436ab477",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "vulgar"
+     ],
+     "gloss": "damn it"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghệ",
+   "base": "5c806c0bca9aecbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "occupation, employment, trade, profession"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "skillful or smooth, rizzful"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "turmeric"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thằng này nghệ quá nhể.",
+     "en": "This guy's rizz is through the roof."
+    }
+   ]
+  },
+  {
+   "headword": "mẫn cán",
+   "base": "18f483c593720b5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "diligent, zealous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cha nuôi cô là một trùm thuế Đông Dương mẫn cán, đã vơ vét tài nguyên, tiền bạc Đông Dương đưa về \"Mẫu quốc\".",
+     "en": "Her stepfather was a diligent head of the taxmen of Indochina who had scooped out all the resources and wealth of Indochina to carry it off to the \"Motherland\"."
+    }
+   ]
+  },
+  {
+   "headword": "li bì",
+   "base": "be84bf7f1ac81919",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "persistently"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "broadly",
+      "informal"
+     ],
+     "gloss": "all the time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lúc nhỏ hắn cứ ốm li bì, lớn lên lại to khoẻ thế chứ.",
+     "en": "In contrast to how persistently he got sick as a kid, the guy looks quite beefy now as he grows up."
+    },
+    {
+     "sense": 2,
+     "vi": "say rượu li bì",
+     "en": "to get drunken all the time"
+    }
+   ]
+  },
+  {
+   "headword": "taekwondo",
+   "base": "2de9eb7c7c3af242",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "taekwondo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điện động",
+   "base": "19ce4f74f2f9698a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "electromotive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộng",
+   "base": "e380fe9086ec6746",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hollow (of trees, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có tổ chim trong bộng cây.",
+     "en": "There's a nest inside a tree hollow."
+    },
+    {
+     "sense": 2,
+     "vi": "bộng ong, bộng rắn.",
+     "en": "Bee nest, snake nest"
+    }
+   ]
+  },
+  {
+   "headword": "đánh giặc",
+   "base": "063bd376a34792e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight the enemy (in war etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tụi em sẽ cưỡi voi đánh giặc.",
+     "en": "We will ride elephants to fight the enemy."
+    }
+   ]
+  },
+  {
+   "headword": "danh gia vọng tộc",
+   "base": "e8d427f2dcd589d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "highly respected and well-known family"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Gia đình bà ở Phnom Penh thuộc hàng danh gia vọng tộc, sao để đứa con gái giật chồng tôi!",
+     "en": "Your family are highly respected and well-known in Phnom Penh; why do you let your daughter steal away my husband?"
+    }
+   ]
+  },
+  {
+   "headword": "dạo đầu",
+   "base": "9eb43938e8fc37de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "introductory (such as a prelude or prologue)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of or related to foreplay"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khúc dạo đầu trên thiên đường",
+     "en": "Prologue in Heaven"
+    },
+    {
+     "sense": 1,
+     "vi": "Có thể nói, với Prelude a L'apres-midi d'un faune^([sic]) (Khúc dạo đầu Giấc ngủ trưa của thần đồng áng, 1894), Debussy đã gieo mầm cho trường phái Ấn tượng.",
+     "en": "With his Prélude à l'après-midi d'un faune (Prelude to the Afternoon of a Faun, 1894), Debussy arguably planted the seed for the impressionist movement."
+    },
+    {
+     "sense": 1,
+     "vi": "Một thời gian sau đó, Chopin đã viết trọn 24 bản Prelude (khúc dạo đầu) tặng hai vợ chồng Pleyel.",
+     "en": "A while later, Chopin wrote a full 24 preludes (introductory pieces) dedicated to the Pleyels."
+    },
+    {
+     "sense": 2,
+     "vi": "khúc dạo đầu",
+     "en": "foreplay session"
+    },
+    {
+     "sense": 2,
+     "vi": "Chúng tôi đã làm xong phần dạo đầu, nhưng thứ đó của anh ta vẫn mềm oặt,[…]",
+     "en": "We had finished foreplay, but his member was still flaccid; […]"
+    }
+   ]
+  },
+  {
+   "headword": "thắt nút",
+   "base": "8f07e8388b8270ce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inciting incident"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hất cẳng",
+   "base": "d7132e6629a06571",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "to supplant; to oust"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhật hất cẳng Pháp khỏi Đông Dương.",
+     "en": "The Japanese ousted the French from Indochina."
+    }
+   ]
+  },
+  {
+   "headword": "tuyến lệ",
+   "base": "8350abaae19e2812",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a lacrimal gland; a tear gland"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tận lực",
+   "base": "52a2ce97ed6ebaf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to do one's utmost; to strive with all one's might"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhông",
+   "base": "2b550820309baa35",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "agama"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bông đùa",
+   "base": "4184714467584827",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to joke; to jest; to tease"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bông đùa cũng nên giữ chừng mực mới phải.",
+     "en": "Keep your jokes in moderation."
+    }
+   ]
+  },
+  {
+   "headword": "nhà sách",
+   "base": "ffe0156bd19b1f97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bookshop; bookstore"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dè sẻn",
+   "base": "16b38c748b84cd09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to economise; to spend sparingly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thầy chùa",
+   "base": "ed6af8dd5b7e7273",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "a monk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đổ bể",
+   "base": "bb3846c6fef70c15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fail"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kết hoạch đổ bể rồi",
+     "en": "The plan failed."
+    }
+   ]
+  },
+  {
+   "headword": "bộ chính trị",
+   "base": "76258765fcb3bc6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "politburo"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lạp",
+   "base": "11f670b909785383",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "larb; meat salad (a national specialty of Laos)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese-style dried preserved meat"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "lạp heo",
+     "en": "Chinese-style dried preserved pork"
+    },
+    {
+     "sense": 2,
+     "vi": "lạp gà ~ gà lạp",
+     "en": "Chinese-style dried preserved chicken"
+    },
+    {
+     "sense": 2,
+     "vi": "lạp vịt ~ vịt lạp",
+     "en": "Chinese-style dried preserved duck"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1331 @@
+{
+ "batch": "0230",
+ "entries": [
+  {
+   "headword": "bắt đền",
+   "base": "82b7ffcb6cb9c67d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to demand compensation; to claim damages"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng cớ",
+   "base": "6ac44d8c1e6834ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "evidence; proof"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đưa ra những bằng cớ không thể chối cãi",
+     "en": "to produce irrefutable evidence"
+    }
+   ]
+  },
+  {
+   "headword": "bằng cứ",
+   "base": "f2a8cd1d85f49e7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rely on the strength of; to base on"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bằng cứ vào tài liệu, có thể khẳng định được điều đó.",
+     "en": "Relying on the strength of the documents, we are able to affirm that (clause, etc.)."
+    }
+   ]
+  },
+  {
+   "headword": "bằng khen",
+   "base": "70f65738018454f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certificate of merit; certificate awarded by authorities to acknowledge some achievement by a person or an organization"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng lái",
+   "base": "d724a67bd7c8aa98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "driver's license"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng lái xe",
+   "base": "1d00fdb06983cf62",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "driver’s license"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng lăng",
+   "base": "99f8b50c8c53588c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crape myrtle (Lagerstroemia speciosa)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng mặt không bằng lòng",
+   "base": "c640313b6968c959",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "reluctantly agree"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng mọi giá",
+   "base": "3306d52f2c7dc2fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "at all costs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bằng niềm tin",
+   "base": "aa80c5366c6c2057",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see bằng, niềm, tin."
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "disapproving",
+      "slang"
+     ],
+     "gloss": "without the necessary skills, knowledge, resources, etc. and therefore likely to fail"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trị bệnh bằng niềm tin",
+     "en": "faith healing"
+    },
+    {
+     "sense": 2,
+     "vi": "Bạn không biết bấm nút nào thì có mà chơi bằng niềm tin à?",
+     "en": "You don’t know which button to press, so you just go at it blindly or what?"
+    },
+    {
+     "sense": 2,
+     "vi": "Không nên mua hàng bằng niềm tin.",
+     "en": "You should not buy stuff without doing proper research."
+    },
+    {
+     "sense": 2,
+     "vi": "Em muốn tôi tin em bằng niềm tin ah",
+     "en": "You want me to trust you blindly?"
+    }
+   ]
+  },
+  {
+   "headword": "bằng trắc",
+   "base": "f414c9bcfb1e2567",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "level and oblique tones (technical term for classical Chinese rhythmic poetry)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tonal patterns in classical Chinese poetry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bặt vô âm tín",
+   "base": "5046493a384af384",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "missing; whereabouts unknown; complete radio silent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó đi bụi mấy năm trời bặt vô âm tín, vậy mà tuần trước tự nhiên ló mặt về nhà như không.",
+     "en": "He ran away, not a whit of contact nor news for a few years, yet just last week, I saw him at home acting as if nothing happened at all."
+    }
+   ]
+  },
+  {
+   "headword": "bẹ sườn",
+   "base": "25e38a7047b1db94",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ribs on one side of the rib cage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bẹo",
+   "base": "043181bdf5bc5c7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Southern",
+      "colloquial",
+      "usually"
+     ],
+     "gloss": "to pinch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bẹt",
+   "base": "c001fb0fce6d0ffa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "flat; flattened"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cá trê đầu bẹt",
+     "en": "flat-head catfish"
+    }
+   ]
+  },
+  {
+   "headword": "bẻ đôi",
+   "base": "543a1d85dd5fdde9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break in half"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "(figurative) Một chữ bẻ đôi còn chả biết!",
+     "en": "You illiterate swine!"
+    }
+   ]
+  },
+  {
+   "headword": "bẽ bàng",
+   "base": "04fd8428a16d10ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ashamed; confused"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bế giảng",
+   "base": "f0716d15fe157aad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to end a schoolyear, semester or course"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bế quan toả cảng",
+   "base": "ad1bac96f3b1ebdd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to cut off a country from the outside world"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bế quan tỏa cảng",
+   "base": "54e8ccf497aa03bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "Traditional tone placement spelling of bế quan toả cảng."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bếp ga",
+   "base": "b60b51abc485fd23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a gas stove"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bếp từ",
+   "base": "6501c1d89f6a76b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "induction stove or hob"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bề bề",
+   "base": "5d48c52e748a37ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "mantis shrimp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bề dài",
+   "base": "894c97b42f5b29a2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "length (distance from end to end)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bề ngang",
+   "base": "679b488c4ded6548",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "width"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bề trên",
+   "base": "2142b438ec77b89f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "the superior"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "God"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bền chí",
+   "base": "0c7a7009d62a5e01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perseverant; persistent; determined patiently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chúc các anh chị nhiều sức khoẻ, vững vàng và bền chí!",
+     "en": "We wish you all to be very healthy, resilient, and perseverant."
+    }
+   ]
+  },
+  {
+   "headword": "bền gan",
+   "base": "0ea0e9d700751bad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tenacious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bể bơi",
+   "base": "156c50d03317c6a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a swimming pool"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bể dâu",
+   "base": "0ddb26b01c0b8629",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "poetic",
+      "rare"
+     ],
+     "gloss": "all the vicissitudes of human life"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bể khổ",
+   "base": "99629921043dced1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sea of suffering; ocean of misery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bễ",
+   "base": "6241db5ce20d68f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bellows"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thụt bễ",
+     "en": "to work the bellows"
+    },
+    {
+     "sense": 1,
+     "vi": "kéo bễ thổi lò",
+     "en": "to work the bellows and blow on the fire"
+    }
+   ]
+  },
+  {
+   "headword": "bệ phóng",
+   "base": "91680bbab2ba15da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "launch pad"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệch",
+   "base": "b3c6c0e9be76ac5e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chalky; sickly white"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh chứng",
+   "base": "fd351f06ccdb6cc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a condition; disorder"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an indication; sign of disease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh công chúa",
+   "base": "b23910c18986817b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "princess sickness (condition of narcissism and materialism in women)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh dại",
+   "base": "59c8a464eead207e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rabies"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh ghẻ",
+   "base": "6a938734dfa7a42c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scabies"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh học",
+   "base": "f3f40567b10bcd79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pathology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh lí học",
+   "base": "f3f40567b10bcd79",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pathology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh nhi",
+   "base": "d47bbbcbb8ea1fdf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "child patient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh sốt rét",
+   "base": "5d1ad6398a3c3977",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "malaria"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh tay chân miệng",
+   "base": "fab435d49be7a8c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hand, foot and mouth disease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh than",
+   "base": "62def00bbedbb924",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anthrax"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh tim mạch",
+   "base": "68e322cb681efa27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cardiovascular disease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh trầm kha",
+   "base": "51f95277ce2aab5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bad and chronic behavior, habit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tệ quan liêu là một căn bệnh trầm kha.",
+     "en": "Bureaucracy is a bad and chronic behavior."
+    },
+    {
+     "sense": 1,
+     "vi": "Tật thì trước sau có thể sửa được, nhưng dốt nát, vô trách nhiệm, khó sửa lắm! Nó thành căn bệnh trầm kha của số đông rồi!",
+     "en": "Vices can be put right sooner or later, but with ignorance and irresponsibility that's very tough to do! These already became chronic ailments for most of them!"
+    }
+   ]
+  },
+  {
+   "headword": "bệnh tòng khẩu nhập, hoạ tòng khẩu xuất",
+   "base": "23a3c1fbd80fd738",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Illness comes in via the mouth because of food and trouble goes out via the mouth because of words; carefulness required in diet and speech"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh viện dã chiến",
+   "base": "e2c38db27be7d88a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "field hospital"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệu bạo",
+   "base": "09c736f146af7e3e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to twist the mouth when about to cry"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lúc đó, nó đã khọm rọm, bệu bạo như răng người già.",
+     "en": "At the time, [the house] was stooped and misshapen like an old person's teeth."
+    }
+   ]
+  },
+  {
+   "headword": "bỉ bai",
+   "base": "23f048795e9fefe3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to belittle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỉ sắc tư phong",
+   "base": "c6d0deaf59464525",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "is rich in this is poor in that; (figurative) one cannot have it both ways"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Anh ấy rất giỏi ngoại ngữ nhưng lại yếu môn toán, lạ gì bỉ sắc tư phong.",
+     "en": "He is very good at foreign languages but bad at math, it's not strange that one cannot have it both ways."
+    }
+   ]
+  },
+  {
+   "headword": "bỉ vỏ",
+   "base": "4f5f91aaf8bdab8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "slang"
+     ],
+     "gloss": "girl thief"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỉm sữa",
+   "base": "f1dffb15f4210683",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of or related to little babies"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mẹ bỉm sữa",
+     "en": "a mother who has a little baby"
+    }
+   ]
+  },
+  {
+   "headword": "bỉnh bút",
+   "base": "299af52ba051e17d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to take pen to paper; to write"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "writer; editor; journalist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bị Tào Tháo đuổi",
+   "base": "66424f0337eb7a98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be chased by Cao Cao"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively",
+      "humorous"
+     ],
+     "gloss": "to rush to the toilet due to diarrhea; to literally run because of the runs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bị chú",
+   "base": "a1ccf7bf266c9562",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "see bị and chú"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "annotation; remark"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bị cảm",
+   "base": "e53df2cbc17101f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to catch a cold, to be ill"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bị hại",
+   "base": "25c990d4c255f674",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being harmed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bị thịt",
+   "base": "4a0148f51efcb993",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "fat but stupid and/or useless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mày đúng là cái đồ bị thịt! Chẳng được tích sự gì cả !",
+     "en": "You do nothing but eat your ass up! You're literally of no use whatever!"
+    },
+    {
+     "sense": 1,
+     "vi": "Triệu Khuếch dùng loại bị thịt như thế làm quan mà không mất nước thì thật không còn đạo lý gì nữa.",
+     "en": "With Zhào Kuò employing the likes of doltish fatsos as officials, it is a downright affront that they had not lost their land."
+    }
+   ]
+  },
+  {
+   "headword": "bịn rịn",
+   "base": "b0e3c8ef17ae6096",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be loath to part with"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bịt miệng",
+   "base": "9c197163879825d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to silence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu chúng ta để y phát giác, chỉ sợ y muốn giết người bịt miệng, hai anh em chúng ta chắc chắn không phải là địch thủ.",
+     "en": "If we let him discover us, I'm afraid he'll want to kill us to silence us; the two of us certainly are no match to him."
+    }
+   ]
+  },
+  {
+   "headword": "bịt mắt bắt dê",
+   "base": "9b9dfe8fef296a4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blind man's buff (blindfolded variant of tag)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bịt tai trộm chuông",
+   "base": "fb53a784c227bbfe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to fool oneself, to bury one's head in the sand"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọ chét mèo",
+   "base": "31bbc38fadd0a715",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cat flea (of the species Ctenocephalides felis)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọ chó",
+   "base": "d038cd421c947720",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a parasitic bug that feeds on dogs (such as a flea or tick)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a flowering plant of the genus Buddleja"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọ cánh cứng",
+   "base": "bc880b170adfd184",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a beetle (of the insect order Coleoptera)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọ dừa",
+   "base": "2f2c257a1a031ad8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a coconut leaf beetle (of the species Brontispa longissima)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọ xít",
+   "base": "8815d0478c280a0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stinkbug"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bọt biển",
+   "base": "ad613617150707f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sponge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ bớt",
+   "base": "08dc2f171307dfb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reduce; decrease"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ chạy",
+   "base": "4dafbede22a173ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to run away, to flee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ mẹ",
+   "base": "1a703eaf78780a2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Used other than figuratively or idiomatically: see bỏ, mẹ."
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "offensive"
+     ],
+     "gloss": "go south"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "offensive"
+     ],
+     "gloss": "Used as an intensifier or when agitated"
+    },
+    {
+     "position": 4,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "Used when agitated"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhìn người mẹ, cơm rau bỏ lạnh, suốt ngày bên con, mắt nhìn thầy lúc nào cũng cầu khẩn van lơn, đi ra đi vào không yên. Lúc lại cầm tay con trai mà nói: Con đừng bỏ mẹ ! Con đừng bỏ mẹ !",
+     "en": "Looking at the mother, her meals went cold, she was constantly with her son, her eyes were trained on the father, looking imploringly, pacing back and forth. Sometimes she grasped her son’s hand, “Don’t leave me! Don’t leave me!”"
+    },
+    {
+     "sense": 2,
+     "vi": "Cẩn thận không thì bỏ mẹ đó !",
+     "en": "Be careful or it'll go south!"
+    },
+    {
+     "sense": 2,
+     "vi": "Từ “bỏ mẹ” ấy hoàn toàn khác ngữ cảnh một người vỗ đùi cái đét: “Thế à? Bỏ mẹ rồi”, tức sự việc đã hỏng bét, gặp nguy khốn.",
+     "en": "The bỏ mẹ is not at all like one in the context of someone slapping their knee and going, “Thế à? Bỏ mẹ rồi,” (“Is that so? What a shit show”) which means the situation has gone south."
+    },
+    {
+     "sense": 3,
+     "vi": "ngu bỏ mẹ",
+     "en": "so fucking stupid"
+    },
+    {
+     "sense": 3,
+     "vi": "Không câm mồm tao đánh bỏ mẹ mày bây giờ !",
+     "en": "Shut your mouth or I'll beat the living shit out of you!"
+    },
+    {
+     "sense": 3,
+     "vi": "- Cái số ông anh vất vả bỏ mẹ - Anh ta nói - Cả đời được mỗi một dịp đi nghỉ an dưỡng lại sốt. Tôi gọi bác sĩ nhé.",
+     "en": "“Talk about shitty luck,” he said, “One good vacation your entire life and you got sick on it. Should I call a doctor?”"
+    },
+    {
+     "sense": 3,
+     "vi": "Vậy mà ai rủ đi chơi cũng ô kê, rồi về than: “Chúng nó uống thì chúng nó say, còn mình ngồi không mệt bỏ mẹ!” Nhưng ông không từ chối một cuộc chơi nào. Cũng ham vui… bỏ mẹ!",
+     "en": "Yet every time somebody asked him out, he said yes, only to whine after the fact, “They drank themselves senseless, I did nothing and it fucking sucked.” But he never said no. He was always… pretty much a player!"
+    },
+    {
+     "sense": 4,
+     "vi": "Bỏ mẹ ! Hụt năm lần rồi !",
+     "en": "Fuck! I missed five times in a row!"
+    }
+   ]
+  },
+  {
+   "headword": "bỏ mứa",
+   "base": "a68f7a789ea06e36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to leave over (food)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ ngang",
+   "base": "e98d71c8ee5eca3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abort"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ ngoài tai",
+   "base": "cb061f881bda856c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "idiomatic"
+     ],
+     "gloss": "to turn a deaf ear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ nhỏ",
+   "base": "d15954c0a08057bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to short pass; shoot for a small distance"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to score a quick goal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ quên",
+   "base": "e70ce31121ff2e38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to forget; leave behind"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ trốn",
+   "base": "0dd97fefbb80d776",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to run away; to escape; to flee"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ tù",
+   "base": "42b63e7ad79021d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to imprison; incarcerate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏ việc",
+   "base": "cfd31c7d11de7227",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to quit a job"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sau nhiều năm suy nghĩ về chuyện bỏ việc ổn định, cuối cùng chị Hương đã đưa ra quyết định thay đổi cả cuộc đời mình.",
+     "en": "After many years of thinking about quitting her stable job, Ms. Huong finally made the decision to change her whole life."
+    }
+   ]
+  }
+ ]
+}

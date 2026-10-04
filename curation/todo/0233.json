@@ -1,0 +1,1269 @@
+{
+ "batch": "0233",
+ "entries": [
+  {
+   "headword": "cađimi",
+   "base": "edf212875f3d8d2a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cadmium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cha ghẻ",
+   "base": "d6d0814275d6a428",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stepfather"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cha mẹ sinh con, trời sinh tính",
+   "base": "b91ef0f84a8b2cc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [],
+     "gloss": "parents may be the ones who birth their children, but it's heaven who gives them their personality"
+    },
+    {
+     "position": 2,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "personality/character isn't biologically inherited from parents"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cha nào con nấy",
+   "base": "53b0435b31033c4a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "like father, like son"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cha truyền con nối",
+   "base": "256464136a471bb7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "patrilineally hereditary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chan hoà",
+   "base": "e467e39b88b90652",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "harmoniously; amicably; peacefully"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "filled; full"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sống chan hoà với thiên nhiên",
+     "en": "to live harmoniously with nature"
+    },
+    {
+     "sense": 2,
+     "vi": "Mẹ con chị Dậu ro ró ngồi nép bên cột, người nọ nhìn cái mặt chan hòa nước mắt của người kia.",
+     "en": "Dậu and her daughter sat next to the pillar, looking at each other's face, filled with tears."
+    }
+   ]
+  },
+  {
+   "headword": "chang bang",
+   "base": "0d9adebf99d1f534",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "big, protruding, bulging"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhìn vào cánh tay gầy gò đen xạm, lại tẩn mẩn ngó xuống khoanh ngực lép kẹp, cái bụng chang bang vì sa lách, Linh khẽ cười…",
+     "en": "Looking at his skinny, tanned, weathered hands, and then spending some time watching his hollow chest and his belly bulging from salads, Linh laughed softly."
+    }
+   ]
+  },
+  {
+   "headword": "chang chang",
+   "base": "2f249e37be0173ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "blazingly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trưa trời trưa trật, trời nắng chang chang.",
+     "en": "In the middle of noon, the sun is blazing hot."
+    }
+   ]
+  },
+  {
+   "headword": "chanh chua",
+   "base": "07499222a939ad9e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "scornfully; sarcastically; offensively"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "scornful; sarcastic; sharp-tongued"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chanh chách",
+   "base": "8ed12c79f32bbe48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "common house gecko"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chanh dây",
+   "base": "8ee0709e09382296",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "passion fruit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chanh muối",
+   "base": "ca06167f89d9e6b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a salted, pickled lime or lemon"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the beverage made of this ingredient; salty lemonade, salty limeade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chanh tây",
+   "base": "1f05387552108a3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lemon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chat sex",
+   "base": "744ebf188c26192e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sext"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chay tịnh",
+   "base": "b0e74b8794ee343a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "abstinence; self-restraint; moral purity"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abstinent; chaste; morally pure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "check-in",
+   "base": "132b0dcfb48eaff3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "to check in at a hotel, airport, etc."
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to visit a place and take selfies"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quầy làm thủ tục check-in",
+     "en": "check-in counter"
+    },
+    {
+     "sense": 1,
+     "vi": "Cách check-in vé máy bay online",
+     "en": "How to check in for a flight ticket"
+    },
+    {
+     "sense": 2,
+     "vi": "25 địa điểm check-in Sài Gòn hot nhất 2025",
+     "en": "Top 25 places to visit in Saigon in 2025"
+    }
+   ]
+  },
+  {
+   "headword": "chem chép",
+   "base": "58a26e35e17e868c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certain bivalve molluscs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cheo",
+   "base": "a3f68911ffde7553",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chevrotain; mouse deer (of the family Tragulidae)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "dowry paid to the bride's village or local community"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cheo cheo",
+   "base": "c5527fc96f00e48b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chevrotain; mouse deer (of the family Tragulidae)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi bằng",
+   "base": "857a7741adf8f471",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "to say nothing of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người anh bàn với vợ rằng: dẫu em mình có bụng bất nhơn, sau cũng là tay chơn mình, nó đi đi thì mình quạnh quẽ, chi bằng trả giấy mà châu cấp cho nó.",
+     "en": "The older brother said to his wife: \"Even if our younger sister is ungrateful, she’s still our flesh and blood. If she leaves, we’ll be left in loneliness. We might as well return the documents and provide her with some support.\""
+    }
+   ]
+  },
+  {
+   "headword": "chi bộ",
+   "base": "9cd18799d1b13755",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a branch; chapter; cell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi chiết",
+   "base": "f775acafd8d22659",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Huế"
+     ],
+     "gloss": "emotionally troubled; confused"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Huế"
+     ],
+     "gloss": "guiltiness; tormented"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi chít",
+   "base": "30781180b9a7fe25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tangled; serried; crisscrossed; packed tightly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dense; thick; compact"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi cấp",
+   "base": "3233084c94beff58",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to provide; to distribute; to allocate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi họ",
+   "base": "cad9a5139890be1b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clan; tribe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi lưu",
+   "base": "80e6e6d2739afa74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tributary; affluent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sông Yên là một chi lưu của sông Cầu Đỏ, nằm về phía hữu ngạn, nhưng đồng thời cũng là phân lưu từ sông Vu Gia ở Quảng Nam.",
+     "en": "The Yên river is a tributary of the Cầu Đỏ joining from the right bank, and it is also a distributary of the Vu Gia in Quảng Nam."
+    }
+   ]
+  },
+  {
+   "headword": "chi sau",
+   "base": "e1cf04e821bb8131",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hind limb; a back limb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi thu",
+   "base": "7f49ddf9d90d5e82",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "expenditures and income"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "cashflow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi trước",
+   "base": "be3777663a76d12b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a forelimb; a front limb"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi đội trưởng",
+   "base": "381b404bce9c6223",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the captain of a chi đội"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia li",
+   "base": "7ec31c8847bc1d3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to separate; to part; to disunite (especially tragically; of family)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tragic; miserable; bleak (especially due to separation)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia lửa",
+   "base": "0e0434e681568199",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of field maneuver used to divert enemy hostile pressure to another area"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to help out in order to relieve the pressure on others"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Đánh Mỹ ngay trên bầu trời thành phố, Hà Nội đã chia lửa với miền Nam",
+     "en": "Fighting the Americans in the city's sky, Hanoi has helped relieving the pressure on the Southern front."
+    }
+   ]
+  },
+  {
+   "headword": "chia phôi",
+   "base": "c1c711c2fbfcb07f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to separate; to part; to disunite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia sớt",
+   "base": "48b19a1dc7e5265c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to share"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] phải có thái độ muốn hiến tặng và chia sớt để nâng đỡ cuộc đời của nhau.",
+     "en": "[…] it requires a willingness to give and share to support each other's lives."
+    }
+   ]
+  },
+  {
+   "headword": "chia uyên rẽ thuý",
+   "base": "1d2678cc10b6cd9b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to separate two lovers"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia vui",
+   "base": "b69a666b46363b56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to share in a happy occasion; to celebrate together"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia để trị",
+   "base": "ae0763077bc151da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "divide and conquer"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "divide and conquer algorithm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chia động từ",
+   "base": "6c4470ff74670982",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conjugate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim chuột",
+   "base": "ed5971b8ce1e01bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mousebird (a bird of the order Coliiformes)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to flirt (licentiously); to make out; to show romantic public display of affection"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim chích",
+   "base": "38b0ac6eec020735",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an acrocephalid warbler, a songbird of the family Acrocephalidae."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim cánh cụt",
+   "base": "5f501d87331b8b09",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a penguin (flightless sea bird)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim có tổ, người có tông",
+   "base": "5ba464b60ea8cf46",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "proverb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "one should never forget about one's ancestry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim công",
+   "base": "0a8e588bb18ab783",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peacock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim cắt",
+   "base": "ba78fdb6cd9ab05d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a falcon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim di",
+   "base": "bca3749d2cf2be23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "munia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim ngói",
+   "base": "95de1758ca1b4111",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a turtle dove (various species of the genus Streptopelia)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim ong",
+   "base": "4fa451337d8be225",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of chim ruồi (“hummingbird”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim sâu",
+   "base": "00dc062432afb31d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flowerpecker"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim trảu",
+   "base": "e1a15f7061fc424e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bee-eater"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chim điên",
+   "base": "5dc4932cc8a22a84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "booby (bird)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêm bao",
+   "base": "76dc3d1a66d895ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to dream"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "dream"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêm tinh học",
+   "base": "0dbcdee53baf89f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "astrology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêm tinh thuật",
+   "base": "0dbcdee53baf89f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "astrology"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiên ghẻ",
+   "base": "714a4d0ed5f777fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a group's member who adversely influences on other members and besmirches a group's reputation; a bad apple"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiên ngập dầu",
+   "base": "69bf1b69d6f6472d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deep-fry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêu hiền",
+   "base": "681d65aa0240604f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recruit talents; to use other people's talents"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêu hồi",
+   "base": "0e2c41c20fbe72ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "Chieu Hoi (initiative by the South Vietnamese to encourage defection by the Viet Cong during the Vietnam War)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêu liêu",
+   "base": "2988c1f18873d3e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "various plants of the genus Terminalia (esp. T. nigrovenulosa or T. chebula)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêu thị",
+   "base": "51f69eb09990701e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "promotion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phối thức chiêu thị",
+     "en": "promotion mix"
+    }
+   ]
+  },
+  {
+   "headword": "chiếm cứ",
+   "base": "f3b873fcc1257609",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to occupy; to take and hold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến cụ",
+   "base": "59e8ac1146448734",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a weapon; arm; combat implement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến cục",
+   "base": "cd5510963e49acbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "war situation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vậy phòng tuyến Tam Điệp-Biện Sơn, nếu giả như có thực đi chăng nữa, thì sẽ nhằm vào mục đích gì trong chiến cục đông xuân 1788-1789?",
+     "en": "So, if the Tam Điệp–Biện Sơn defense line really existed, what was its purpose in the military situation of the 1788–1789 winter and spring?"
+    }
+   ]
+  },
+  {
+   "headword": "chiến luỹ",
+   "base": "bc37c186777b37d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a barricade; bulwark; fortified obstacle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến tranh thương mại",
+   "base": "a0b14e8f3ae25aec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trade war"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tiếp ngay sau đó là cuộc chiến tranh thương mại của các nước châu Âu mà chiến trường là cả trái đất.",
+     "en": "Immediately following that came a trade war among European nations, one whose battlefield spanned the entire globe."
+    }
+   ]
+  },
+  {
+   "headword": "chiến tranh tiền tệ",
+   "base": "3a4777343e85d308",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a currency war"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiến đấu cơ",
+   "base": "e58f9ee0ce6163f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a fighter plane"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếp",
+   "base": "85f3d3d7938fbc4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "chirp; peep"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiết cành",
+   "base": "cf85706646218379",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "layering; plant propagation by rooting cuttings"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiết quang",
+   "base": "f181313e31d64a40",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "refractive; refringent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu bí",
+   "base": "a4e8cbb27b00e16d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "checkmate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu bóng",
+   "base": "09d3b0945b158a68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "a movie; film; moving picture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu chỉ",
+   "base": "b49b299742976c70",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "an imperial edict; emperor's decree; royal instruction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu hết",
+   "base": "5262a7744aeda56c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "checkmate"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "checkmate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu khán",
+   "base": "c9d7e608fe93c4a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "visa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu mở",
+   "base": "13cecaf501795c6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "discovered check"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu nghỉ",
+   "base": "845659e98ea6c668",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stairwell landing; stairway platform"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu nhận",
+   "base": "c9d7e608fe93c4a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "visa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu rút",
+   "base": "13cecaf501795c6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "discovered check"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu theo",
+   "base": "109a7878bc1b84fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prep",
+     "tags": [],
+     "gloss": "according to; based on; in light of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiếu thắt cổ",
+   "base": "96719aea35e59b92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smothered mate"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

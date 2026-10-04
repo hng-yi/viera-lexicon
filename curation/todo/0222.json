@@ -1,0 +1,1310 @@
+{
+ "batch": "0222",
+ "entries": [
+  {
+   "headword": "a-lô",
+   "base": "ae0fedfea5753cad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "hello (when answering the telephone)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "testing 1-2-3 (to test intercoms and microphones)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to call someone on a telephone"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "to vomit"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "one's mouth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Peter. Phước yêu… Alô? Alô, anh còn đó không?",
+     "en": "Peter. Phước dear… Hello? Hello, you're still there?"
+    },
+    {
+     "sense": 5,
+     "vi": "Láo nháo tao đấm cho vỡ a-lô giờ!",
+     "en": "Keep yapping and I'mma punch your snout in!"
+    }
+   ]
+  },
+  {
+   "headword": "a-ma-tơ",
+   "base": "1b3aa2c577ba939c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "amateur"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-ti-sô",
+   "base": "a482bda183c852b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "artichoke"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-xít",
+   "base": "ee4a020e767aa930",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an acid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-zốt",
+   "base": "5f01087d79097bf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "nitrogen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-đrê-na-lin",
+   "base": "955a8806021530be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "adrenaline"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "a-đê-nôm",
+   "base": "3567db09308f9e93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "adenoma"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "acc",
+   "base": "d5d68f69f7729463",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Internet",
+      "slang"
+     ],
+     "gloss": "an account"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "actini",
+   "base": "543e76af6509c5a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "actinium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "agon",
+   "base": "22fd25f119eb5131",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "argon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ai bảo",
+   "base": "267584316d34c29e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Used to explain and blame someone for a bad thing that happened to them."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Không có quà thì đừng có kêu. Ai bảo khi hỏi thì không trả lời?",
+     "en": "Don't complain when you don't receive a present. It was all because you didn't answer when asked."
+    }
+   ]
+  },
+  {
+   "headword": "ai dè",
+   "base": "269dbe26db5dda0c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "what do you know?"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "who would have thought it?"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ai khảo mà xưng",
+   "base": "001ec5cb513b3ded",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic",
+      "literary"
+     ],
+     "gloss": "to disclose something (especially secrets) unprompted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "\"Nghĩ đà bưng kín miệng bình, Nào ai có khảo mà mình lại xưng?\" (TKiều)",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "ai mượn",
+   "base": "fe04bb3fab47ebb1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Used to blame someone for doing something that should not have been done."
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ai mượn mày bán con chó của tao?",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "ai điếu",
+   "base": "9a85b3e7daf22a3d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a eulogy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ai đó",
+   "base": "e8ee5b642e79f6d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có ai đó ở trước cửa.",
+     "en": "There's someone at the door."
+    }
+   ]
+  },
+  {
+   "headword": "ai đời",
+   "base": "ebdfeab639a5fe48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Used to emphasize something considered contrary to the natural order or common sense: by no means"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ai đời đàn ông lại đánh phụ nữ?",
+     "en": "Men aren't meant to have a fight with women, are they?"
+    }
+   ]
+  },
+  {
+   "headword": "am thanh cảnh vắng",
+   "base": "9a0e0c6e12eaf8e6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic",
+      "literary",
+      "uncommon"
+     ],
+     "gloss": "the tranquil and desolate scenery in Buddhist temples"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ambi-",
+   "base": "abdc89a88ddaf54b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "ambi-"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "amerixi",
+   "base": "0f1576c8bb2e565b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "americium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ampe kế",
+   "base": "4178614379fd4446",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ammeter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "amply",
+   "base": "303e0301726940a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amplifier"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nghe nhạc số có rất [nhiều] kiểu[,]cái chính làm thế nào file đi ra ít bị hao nhất [tới] amply[,]thì sẽ [được] chất lượng cao [nhất]",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "Đồng thời, việc kết nối amply với đầu đĩa là việc cần thiết để giúp dàn âm thanh tạo ra chất lượng âm hay và trọn vẹn hơn. Nhờ đó, những trải nghiệm với bộ dàn âm thanh của bạn trở nên thú vị và ý nghĩa hơn.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "an bần lạc đạo",
+   "base": "2d2b8374d38db4e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be contented with living in poverty and take delight in abiding by moral principles"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an cư lạc nghiệp",
+   "base": "1011541c1a0998f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to live in peace and work happily"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sở hữu một căn nhà riêng, an cư lạc nghiệp là giấc mơ của tất cả con người.",
+     "en": "Owning one's own home and settling down to live and work in contentment is everyone's dream."
+    }
+   ]
+  },
+  {
+   "headword": "an dưỡng đường",
+   "base": "6895b24966da3ed5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a place where people recover and rest after illness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an giấc nghìn thu",
+   "base": "a5f06ee073ffa1ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic",
+      "uncommon"
+     ],
+     "gloss": "synonym of yên giấc nghìn thu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an giấc ngàn thu",
+   "base": "a5f06ee073ffa1ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "synonym of yên giấc nghìn thu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an khang thịnh vượng",
+   "base": "54971951d3da0c36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "Wish you security, good health and prosperity. (a common wish for Tết)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an ninh trật tự",
+   "base": "29385cefdfc2139f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "law and order"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an phận thủ thường",
+   "base": "88b13381915b0b67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "to be contend with current situation; to resign oneself to mediocrity; to stop striving for greatness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an sinh xã hội",
+   "base": "45e64244fa6fd0ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "social security; welfare"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an thai",
+   "base": "df6302598f51dd5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to keep the pregnancy stable and ensure normal development"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an toàn khu",
+   "base": "e5a35b9bdc205c5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a well-protected resistance base area; a safe zone"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an toàn là trên hết",
+   "base": "e8b8b4f62470bcd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "safety first"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an toạ",
+   "base": "57a2a876fcc129a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal",
+      "polite"
+     ],
+     "gloss": "to sit down, to have a seat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an trú",
+   "base": "d2c383c6fa8501cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to live in peace; to live peacefully and carefree"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "an trú trong hiện tại",
+     "en": "to live without worrying about the present"
+    }
+   ]
+  },
+  {
+   "headword": "an tức hương",
+   "base": "c696a1e0a0c71e6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a traditional Chinese medicine made from the sap of a sacred fig (Ficus religiosa)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an vui",
+   "base": "82950330f3a079d1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "peaceful and happy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] có thể làm cho những người sống bên cạnh an vui và hạnh phúc mà không phải tốn kém tiền bạc hay công sức,[…]",
+     "en": "[…] that can make the people close to us feel peaceful, joyful, and happy without spending any money or effort, […]"
+    }
+   ]
+  },
+  {
+   "headword": "an vị",
+   "base": "754b808f3d9cf7c7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "synonym of yên vị"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an định",
+   "base": "77fb05e9201971e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to stabilize"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong những thời kỳ thiên hạ đại loạn như hiện nay thế nào cũng xuất hiện người ra tay để sắp xếp lại thiên hạ. […] chính vì có kẻ muốn gây loạn thiên hạ nên sẽ đến một ngày xuất hiện kẻ trị thiên hạ để thế cuộc an định trở lại.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "an-ca-lô-ít",
+   "base": "2cb020d7eb6739a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alkaloid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an-pha-bê",
+   "base": "4116657ab11275ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an alphabet; a set of all letters used to write a given language, arranged in a specific order"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ancol",
+   "base": "68fbedd7273aa50a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alcohol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ang áng",
+   "base": "a1233c4b3a90a547",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to very roughly estimate; to recklessly approximate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh chột làm vua xứ mù",
+   "base": "9330d4e94b053245",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a mediocre person without any special qualities who stands out only because they are surrounded by people worse than them; in the land of the blind, the one-eyed man is king"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh em cây khế",
+   "base": "b5df3da8d2a3d025",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "idiomatic"
+     ],
+     "gloss": "someone who badmouths or even goes out of their way to harm their siblings or friends who has a brotherly bond with them"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh em cọc chèo",
+   "base": "550d98a76bb74682",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "idiomatic"
+     ],
+     "gloss": "men whose wives are biological sisters in the same family"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh em thúc bá",
+   "base": "86163b26264afb7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "cousins from the paternal side (uncle's and father's side)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hoa",
+   "base": "6240909f23b4c2c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of tinh hoa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hào",
+   "base": "7376f4b6aecc9a34",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "hero"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng bàn phím",
+   "base": "ed62b218a2e236ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Internet",
+      "derogatory"
+     ],
+     "gloss": "keyboard warrior"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng chủ nghĩa",
+   "base": "995ddb84315d83f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "heroic in nature, but adventurous and risky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng cá nhân",
+   "base": "cb11cb3bcec6b860",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "heroic in nature, but aimed at glorifying the individual, disregarding the collective, and separating from the community"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng hào kiệt",
+   "base": "2b96c042c3c4fb25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a person with talent, courage, and outstanding acts, a hero"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng hảo hán",
+   "base": "10450adfa1efd4a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "brave, courageous people"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "idiomatic",
+      "slang"
+     ],
+     "gloss": "thugs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng khó qua ải mĩ nhân",
+   "base": "1a3b5a8b02ed43b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "even the strongest warrior can be seduced by a beautiful woman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng không có đất dụng võ",
+   "base": "24a7aacc49547cbd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a skilled person with no opportunity to use their talents"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng mạt lộ",
+   "base": "e80d671fe413c64b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a talented person with big ambitions, stuck in a hopeless situation and unable to escape"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng nghĩa hiệp",
+   "base": "937da27d02e8ac8e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic"
+     ],
+     "gloss": "a selfless person, willing to risk their life to help others"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng nhất khoảnh",
+   "base": "f839ceafbbc46764",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "idiomatic",
+      "uncommon"
+     ],
+     "gloss": "a person who sees themselves as the most talented and powerful in their field or area, untouchable by anyone"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "idiomatic",
+      "uncommon"
+     ],
+     "gloss": "a person with heroic qualities, but whose impact is limited to a small area or scope; a big fish in a small pond"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng rơm",
+   "base": "7afc7e719efafa27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "a coward who says grand things or acts brave and heroic but can not actually do anything"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh hùng tương ngộ",
+   "base": "a33793e63222a3ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [
+      "idiomatic",
+      "rare"
+     ],
+     "gloss": "heroes or talented people encountering each other"
+    },
+    {
+     "position": 2,
+     "pos": "phrase",
+     "tags": [
+      "derogatory",
+      "idiomatic",
+      "rare"
+     ],
+     "gloss": "thugs encountering each other"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh linh",
+   "base": "9473f43e1dbe31f0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "honorific"
+     ],
+     "gloss": "a noble and sacred soul"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "sacred"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "vùng đất anh linh",
+     "en": "sacred land"
+    }
+   ]
+  },
+  {
+   "headword": "anh minh",
+   "base": "33af61677d708ab7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "wise and talented"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh nuôi",
+   "base": "5f6e2e371ff29153",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "endearing"
+     ],
+     "gloss": "army cook"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh quân",
+   "base": "1308ad295f4d1d8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "honorific",
+      "literary"
+     ],
+     "gloss": "wise and talented king"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh rể",
+   "base": "d4280832b9423685",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brother-in-law (husband of elder sister)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh thư",
+   "base": "44ec7351468b3629",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a heroine; a lady hero"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh tuấn",
+   "base": "283efe4884b758dc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "possessing handsome features and exceptional intelligence"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh tài",
+   "base": "bf831d46a6afe3bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an outstandingly talented person"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh túc xác",
+   "base": "68ff5b11f9ac42a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dried rind of poppy fruits after removing seeds and sap"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh vũ",
+   "base": "a570cac180abe8fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "parrot"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of catfish"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of shellfish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh yêu em",
+   "base": "7f160d6833a1e791",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "I love you (man to woman)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh ách",
+   "base": "53295d1fc4ccbc9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "uncomfortably, irritably"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tức anh ách",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "anh ấy",
+   "base": "6570749f2af59abf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "he (man of equal or slightly greater social status)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ankan",
+   "base": "a73c6185827aa5f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an alkane"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ankanol",
+   "base": "339cfea5c218a7cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an alkanol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ankađien",
+   "base": "fa0ec8a4696ae434",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alkadiene"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anken",
+   "base": "563ba744f92702c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an alkene"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ankin",
+   "base": "10d906f0d776373e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an alkyne"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

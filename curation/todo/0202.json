@@ -1,0 +1,1306 @@
+{
+ "batch": "0202",
+ "entries": [
+  {
+   "headword": "cày cấy",
+   "base": "b648e9fdf600c48a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to farm; to cultivate; to do farm work"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tác vụ",
+   "base": "a978d933c4ddc99f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "operation, task"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "task"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thụp",
+   "base": "46987af12332ea6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prostrate oneself; to kiss the ground; to suddenly drop down and sit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thụp xuống",
+     "en": "to crouch"
+    }
+   ]
+  },
+  {
+   "headword": "đăng kiểm",
+   "base": "c47de06820c35f1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to inspect and register"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thanh lí",
+   "base": "782339834d7e2161",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to liquidate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to end/terminate in due course (a contract or agreement); compare huỷ (“to cancel”) and chấm dứt (“to terminate, in due course or not”)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "to get rid of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Ba cái đồ nhôm nhựa giữ làm gì ? Thanh lí đi.",
+     "en": "Why would you keep all this junk? Get rid of it, quick."
+    }
+   ]
+  },
+  {
+   "headword": "phản pháo",
+   "base": "af2ca8b5a89c5771",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to counter-fire; to enact counter-battery fire"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to counter; to refute using evidence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "phản pháo lại cáo buộc",
+     "en": "to use evidence to deny the accusation"
+    }
+   ]
+  },
+  {
+   "headword": "vọp",
+   "base": "0c5f2a25f2863fa0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Geloina coaxans"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hí hửng",
+   "base": "e8ef0f76e97319d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "overjoyed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Em bé được đồ chơi hí hửng.",
+     "en": "The little boy received a toy and was overjoyed."
+    }
+   ]
+  },
+  {
+   "headword": "đại bộ phận",
+   "base": "92009b9df39d4d75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "majority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chình ình",
+   "base": "8d412149f6ab3a84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "in plain sight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cạo gió",
+   "base": "6627f715de16ea5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scratch the back with the edge of a metal object (typically a spoon, a ladle or a coin) until it becomes red all over, optionally using dầu gió, as a way to \"release\" gió (sense 2) in the fevered body"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiến giải",
+   "base": "6da02479c661e67b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "rare"
+     ],
+     "gloss": "opinion; view"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoán vị",
+   "base": "220434ee080f66f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a permutation"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "the number of permutations needed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khái",
+   "base": "8f9fd48452843013",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "tiger (The mammal Panthera tigris)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Tết Nguyên Tiêu",
+   "base": "5ea187a4faaf1548",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Lantern Festival (festival marking the end of the Vietnamese Lunar New Year period)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rao vặt",
+   "base": "9ea1ba136d1dc748",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "classified advertisement"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "classifieds (section containing classified advertisements)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tủi",
+   "base": "265bb80d169c44a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deplore; to lament; to grieve; to self-pity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "võ hiệp",
+   "base": "0a44ce82b8815bf8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wuxia (a genre of East Asian fiction concerning the adventures of martial artists, typically set in Ancient China)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ăn thề",
+   "base": "2ce10a6d999cab15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "to take a solemn oath (often involving a ritual to seal a pact)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to swear allegiance or loyalty to a cause or a group"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ba người họ đã kết nghĩa và ăn thề dưới gốc đào.",
+     "en": "The three of them became sworn brothers and took a solemn oath under the peach tree."
+    }
+   ]
+  },
+  {
+   "headword": "asen",
+   "base": "684aef263fc3fc10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "arsenic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hổi",
+   "base": "5546393648460600",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "steaming (hot)"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "that time; then"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lăng trụ",
+   "base": "b78cdcfb9e758fc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dạn dĩ",
+   "base": "63b102b2aaa150a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hardy; tough and self-confident; aggressive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hợp tác xã",
+   "base": "27a4c95c7dff4549",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cooperative (type of company)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khẽ khàng",
+   "base": "626f82fb8657ea98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very gentle, very soft"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thẻ xanh",
+   "base": "15c6ae5de0ff2e1a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "green card"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "một sớm một chiều",
+   "base": "596f26d5883bf2d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "overnight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chuyện phức tạp như vậy không thể giải quyết trong một sớm một chiều được.",
+     "en": "Such a complex problem cannot simply be resolved overnight."
+    }
+   ]
+  },
+  {
+   "headword": "trị số",
+   "base": "f9a4ce8eacf8918f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "value; quantity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "minh ước",
+   "base": "544ae614241b3214",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "a pact; a covenant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhập nhằng",
+   "base": "ba7e54d5bb0881aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ambiguous; equivocal; unclear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghịch tử",
+   "base": "e16b6f06f4c5b688",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "unfilial child"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Thôi thì có một đứa nghịch tử giời cho mình thì cũng phải chịu thôi chứ sao.",
+     "en": "We can do nothing but put it up with our only child, even if he has not a whit of filial piety in him."
+    }
+   ]
+  },
+  {
+   "headword": "bút hiệu",
+   "base": "aa7685533259b76d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a pseudonym; pen name; alias"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lác đác",
+   "base": "3742134facf7f288",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "scattered; dispersed; spattered"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bá bệnh",
+   "base": "9b8567c2a5f58677",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "long jack (a shrub of the species Eurycoma longifolia in the family Simaroubaceae)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quặn thắt",
+   "base": "a85430e033f85852",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be clenched or cramped with pain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong một giây, tôi cảm thấy mắt tôi chợt tối đi. Trái tim tôi quặn thắt và rơi xuống một chỗ nào đó, rất xa, có thể là tận những đầu ngón chân.",
+     "en": "For a second, I felt my vision dimmed suddenly. My heart clenched and plunged into somewhere, which is very far away, probably to the tips of my toes."
+    }
+   ]
+  },
+  {
+   "headword": "điển cố",
+   "base": "757848dfdcfbd6cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tale of old happenings, often the basis of sayings or moral lessons"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biến tướng",
+   "base": "35ad3d4d3b7e5010",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in disguise, having changed its appearance but not its nature"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "disguise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Ta sẽ không còn quờ quạng nắm bắt những biến tướng tạm thời nữa.",
+     "en": "We will no longer grope and grasp at temporary disguises."
+    }
+   ]
+  },
+  {
+   "headword": "phóng điện",
+   "base": "1b9b10ada0f6a853",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to discharge electricity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rung rinh",
+   "base": "590f733bfc24cf33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shake; to stir; to vibrate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lon ton",
+   "base": "47bf624842fe9109",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "trotting; briskly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thằng bé chạy lon ton",
+     "en": "the boy runs briskly"
+    }
+   ]
+  },
+  {
+   "headword": "dướng",
+   "base": "59d9408a2cb9e997",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paper mulberry (Broussonetia papyrifera)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gió bấc",
+   "base": "d05d0e9a2c84f6d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "northern wind during the winter months in Northern Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phúc đức",
+   "base": "8b3e095eaa467eca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blessing"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nếu tất cả mọi người đều được như cậu thì phúc đức cho ngành cao su khốn khổ này quá!",
+     "en": "If everyone were like you, it'd be a blessing for this all too wretched rubber business!"
+    }
+   ]
+  },
+  {
+   "headword": "nhẫn thuật",
+   "base": "974d4315a4c64dec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ninjutsu"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chính trị viên",
+   "base": "a5e2a5dd901ee7bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "political commissar (officer responsible for ideological education and organization)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đã có lần Linh tranh luận to tiếng với chính trị viên Cầu về điều này như vậy.",
+     "en": "There had been times Linh had loudly argued this way with Political Commissar Cầu."
+    }
+   ]
+  },
+  {
+   "headword": "thoái chí",
+   "base": "fddfb468f3cb9fd2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "discouraged; disheartened; demoralized"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tãi",
+   "base": "daf80bd62f50d063",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to extend, to spread out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bệnh sử",
+   "base": "ab3487fe6e40fc02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "medical history (of a patient)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phèn",
+   "base": "1b54b274b75b8510",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alum"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "shabby, tacky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nhìn quần áo mày mặc trông phèn thật sự!",
+     "en": "You look really shabby with those clothes on!"
+    }
+   ]
+  },
+  {
+   "headword": "tôm he",
+   "base": "836d22efe6a2885c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of penaeid prawn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phè phỡn",
+   "base": "e4b0bbb9aebb6c28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have fun without regard for consequences"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] tại sao tôi phải lo nhiều thứ còn anh suốt ngày cứ phè phỡn;[…]",
+     "en": "[…] why should I take care of so many things while you just have fun all day long? […]"
+    }
+   ]
+  },
+  {
+   "headword": "co ro",
+   "base": "3cb090387ece7c7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shiver"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Rét co ro",
+     "en": "To be so cold that makes one shivers, to be freezing"
+    }
+   ]
+  },
+  {
+   "headword": "rơ",
+   "base": "98e014143417ede8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to rub to wipe clean or to apply a substance"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having too much play; loose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rơ lưỡi",
+     "en": "to rub the tongue"
+    },
+    {
+     "sense": 1,
+     "vi": "thuốc rơ miệng",
+     "en": "a medicine used by applying directly to the mouth"
+    }
+   ]
+  },
+  {
+   "headword": "rau má",
+   "base": "48ee6e498839b883",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Asiatic pennywort (Centella asiatica)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "rau má đậu xanh",
+     "en": "Asiatic pennywort juice with mung bean paste"
+    }
+   ]
+  },
+  {
+   "headword": "tiền thân",
+   "base": "92b3410ac4b94013",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a former organization; a precursor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "màn bạc",
+   "base": "9ce76446c92a5579",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "silver screen"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chửi mắng",
+   "base": "ec50bc9d8867c9c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to verbally abuse; to scold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mừng rỡ",
+   "base": "a7ca17ec47da15e8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rejoice greatly; to exult; to be (visibly) happy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an giấc",
+   "base": "6eae8b1c89b9900e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "synonym of yên giấc"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đam mỹ",
+   "base": "bdfb3699aa749dcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "boys' love (BL)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ruốc",
+   "base": "fda0d7cdf0e5ba2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of small shrimp in the genus Acetes"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "shrimp paste"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "rousong; meat floss"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Octopus dollfusi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội đô",
+   "base": "fb3a3b765219754a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "inner city (of big city)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá cờ",
+   "base": "61621d75d0b74b99",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paradisefish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đa tình",
+   "base": "4dff9e3a4293c371",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having many lovers, easily falling in love, unfaithful"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] thỉnh thoảng lại tí tách nhỏ xuống đầu, xuống cỏ gợi lên những cái hôn ẩm ướt của giống cái đa dâm, đa tình sau cuộc truy hoan chóng vánh và tức tưởi.",
+     "en": "[…] now and then dripping down on his head and in the grass, recalling the wet kisses of the promiscuous and unfaithful female sex after a quick and whimpering bout of debauchery."
+    }
+   ]
+  },
+  {
+   "headword": "chí công",
+   "base": "4f370219c00034f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "extremely fair; greatly equitable; highly just"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngạch",
+   "base": "99c627923a4d13c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "threshold, doorstep"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] từ cây cột cái tới ngạch cửa, từ những cánh cửa tới mấy cái bậc tam cấp lối vào…",
+     "en": "[…] from the main pillars to the thresholds under the doors, from the doors to the steps at the entrance…"
+    }
+   ]
+  },
+  {
+   "headword": "hồng trần",
+   "base": "663ede4896515a10",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "bustling places"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "world of mortals; human society; worldly affairs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chăm bón",
+   "base": "5aa70df37f2be16b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cultivate; to tend; to help grow (especially plants)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gạo cội",
+   "base": "3421e7dd757e26c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "skilled and highly experienced"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hùng hục",
+   "base": "97f4e39851608ede",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fully devoted to one's work"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhủi",
+   "base": "4476db72531cb737",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to push forward by using head"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tưới tiêu",
+   "base": "40e164a0bc220aa9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to irrigate and drain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đăng báo",
+   "base": "d29fab68a3732375",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to publish or announce (an advertisement, etc.) in the newspapers"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phái bộ",
+   "base": "c6ab58852be408ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mission"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "từ trần",
+   "base": "cb8503075e552764",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "euphemistic",
+      "honorific"
+     ],
+     "gloss": "to pass away"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hát bè",
+   "base": "c0c6483567163ca9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to back up the lead singer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiệu đính",
+   "base": "c56b75a09b5932cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to revise; to rectify"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ hôn",
+   "base": "74769c5321384597",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wedding host; marriage ceremony officiant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làu bàu",
+   "base": "fe41350d41e7fa31",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grumble"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hàm ếch",
+   "base": "755c946d9e892883",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "palate"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vaulted opening"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Một số khu vực sóng đánh trơ rễ nhiều cây to và tạo thành hàm ếch khoét sâu dưới chân đường , tiềm ẩn nguy cơ sạt lở.",
+     "en": "In several areas, the waves pound into the roots of many big trees and create vaults boring deep under the road, with a potential risk of landslides."
+    }
+   ]
+  }
+ ]
+}

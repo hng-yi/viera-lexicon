@@ -1,0 +1,1404 @@
+{
+ "batch": "0082",
+ "entries": [
+  {
+   "headword": "quốc trưởng",
+   "base": "1ce86b0abe79bce1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "head of state"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rối",
+   "base": "67e1d551a96805ea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tangled; ravelled; entangled"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "jumbled; confused; disorderly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lảng vảng",
+   "base": "a7095db7dea88834",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roam around; to hang about (sneakily)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tán thành",
+   "base": "7c324ff3312765e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to agree to; to approve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "áp đảo",
+   "base": "06b990452a88d57f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to overwhelm; to overpower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chịch",
+   "base": "5ae89c0daf8e34b9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive",
+      "euphemistic",
+      "slang"
+     ],
+     "gloss": "to fuck"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình tượng",
+   "base": "b93a44759ee54cfd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "icon; image; symbol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ria",
+   "base": "aea67dfcabd38bff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mustache"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thuật toán",
+   "base": "f03f7d4db9b61928",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "algorithm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cong",
+   "base": "c7da4c3a85dd81c2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "curved, be bent"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial",
+      "slang"
+     ],
+     "gloss": "homosexual"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a stroke that is a curved line, usually concave left"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "earthenware jug"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiến trúc sư",
+   "base": "f4b9c0fd5d4a447b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an architect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tràn đầy",
+   "base": "a3a2dc4e16a6e503",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full to overflowing; brimful"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be full of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "manh động",
+   "base": "145681f1b9f84deb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "reckless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuốc",
+   "base": "ff907417c22d7953",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pour out (wine) for guests"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to take pains to obtain (something precious)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bring upon oneself; to seek (something bad) oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đuốc",
+   "base": "0dd09ffe21b64fc5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "torch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vét",
+   "base": "1a9c930a9ee5e183",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to dredge, to cleanse the bottom"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "suit jacket; blazer"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "suit"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tuxedo"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a type of bug parasiting dogs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bác bỏ",
+   "base": "1b20647a5787531b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reject; to refute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngỗng",
+   "base": "f3dcd95df04c7cc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "goose"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kind of spouted vessel"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Lão ta ngồi tu một ngỗng rượu",
+     "en": "He sat there and drank a whole ngỗng of rice acohol"
+    }
+   ]
+  },
+  {
+   "headword": "tiết",
+   "base": "6971c9847c84ecf7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a period"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a period"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leak; to secrete; to emit"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blood of slaughtered animal"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "bile; irritation"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiết trời mát dịu",
+     "en": "a cool day"
+    },
+    {
+     "sense": 2,
+     "vi": "tiết 1",
+     "en": "first period"
+    },
+    {
+     "sense": 2,
+     "vi": "Một tiết kéo dài 45 phút.",
+     "en": "Each period lasts for 45 minutes."
+    },
+    {
+     "sense": 2,
+     "vi": "Hôm nay học 4 tiết.",
+     "en": "We'll stay at school for 4 periods today."
+    }
+   ]
+  },
+  {
+   "headword": "vũ nữ",
+   "base": "9e3ad354cddb8c92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dancing girl; taxi dancer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vung",
+   "base": "d2aaab145df62b01",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "lid, cover"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to brandish, flourish (to make bold, sweeping movements with)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to raise up (something) with one's hands and toss it at the ground"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to squander"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "freewheelingly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đậy vung nồi lại",
+     "en": "to put the lid back on the pot"
+    }
+   ]
+  },
+  {
+   "headword": "mong ước",
+   "base": "5da3652dae173773",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to earnestly hope for; to wish for"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hope; a wish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kén",
+   "base": "3fcaf6dae9810da4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a cocoon"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to select (carefully, according to certain criteria); to choose; to pick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phô mai",
+   "base": "8fff44e56c83386a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cheese"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rộng rãi",
+   "base": "7093ab73adc2a1c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wide; widespread"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điều ước",
+   "base": "270cc77769f1a85f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "synonym of hiệp ước (“treaty”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a wish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thần đèn ban cho A-la-đanh 3 điều ước.",
+     "en": "The genie of the lamp granted Aladdin 3 wishes."
+    }
+   ]
+  },
+  {
+   "headword": "trong sáng",
+   "base": "a4189a65f150fcc7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pure, bright"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "not stained"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "easy to understand, clear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giàn",
+   "base": "a8d21c52b4f82ac8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "trellis (made of bamboo, for climbing plants); arbour; pergola"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shelf; what-not"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scaffolding; staging; falsework"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành quả",
+   "base": "5c2ece06c89f9cca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fruits; achievements"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phán đoán",
+   "base": "46e393d1913dfa72",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to judge; to decide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tỉ mỉ",
+   "base": "c9c9ccb55a1c4845",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "minute; meticulous; careful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tâm linh",
+   "base": "1898591f62cb048a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spirit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "ability to predict the future"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spiritual"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phát tán",
+   "base": "a8a9d336f37a689b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disseminate; to distribute"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to induce sweating; to act as a sudatory substance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiền của",
+   "base": "88b541408e1b4bbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "money and possessions; money and assets"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "toán học",
+   "base": "8945085d3f2b94a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mathematics (field of study)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngón tay",
+   "base": "13e5752d488dace7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "finger (extremity of the hand)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "môn phái",
+   "base": "19450b2163e76ca5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "school; sect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mùa hè",
+   "base": "b510fdd9b1fdaa3c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "summer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúm",
+   "base": "e3472c2d9e57ead0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "influenza; flu"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crabs of the genus Calappa"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bừa",
+   "base": "5decaf40bef23445",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rake; harrow"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rake; to harrow"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "helter-skelter; topsy-turvy"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "rash; random; reckless"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "Cứ để bừa ở đâu đi.",
+     "en": "You should just put it wherever."
+    }
+   ]
+  },
+  {
+   "headword": "bít",
+   "base": "0c352649706b7dd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover, to seal, to stop up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "copy",
+   "base": "f7633f50ce147ea4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to copy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phê chuẩn",
+   "base": "4a19a5e23437ab3a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to approve; to ratify"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hang ổ",
+   "base": "1345ccc2edc99265",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hideout"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Mễ",
+   "base": "6835774c4788020c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Mexican"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đũa",
+   "base": "68dcce759d98ca15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chopstick (single eating utensil)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "wand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cặp/đôi đũa lệch",
+     "en": "(figurative, humorous) a pair with a significant height difference"
+    }
+   ]
+  },
+  {
+   "headword": "công phu",
+   "base": "334e970ec8247728",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "conscientious; thorough; painstaking"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "conscientiously; thoroughly; painstakingly"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "skill gained through training and diligent work"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "kung fu"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nó làm bài thuyết trình công phu lắm.",
+     "en": "He gave a very conscientious presentation."
+    },
+    {
+     "sense": 1,
+     "vi": "Nghề chơi cũng lắm công phu / Làng chơi ta phải biết cho đủ điều",
+     "en": "The pleasure business requires us to be painstaking / In the world of pleasure we need to know a lot"
+    },
+    {
+     "sense": 2,
+     "vi": "[…] dẫu mất bao nhiêu công phu cũng không ngại, miễn là được thỏa tấm lòng lạc-đạo thì thôi,[…]. Ước-ao rằng cái công-phu này không đến nỗi bỏ uổng vậy.",
+     "en": "[…] and how much painstaking [effort] this costs does not bother us, as long we find pleasure in our exposition, […]. We only hope that this painstaking [work] will not be for nothing."
+    },
+    {
+     "sense": 3,
+     "vi": "– Dung nhi thì công phu nấu nướng là thiên hạ đệ nhất, chuyện đó thì ta dám nói.",
+     "en": "\"Róng's cooking skills are unsurpassed, this I dare say.\""
+    },
+    {
+     "sense": 4,
+     "vi": "Trong các giải còn lại, không có gì bất ngờ khi tuyệt tác hoạt hình 3D Wall-E của Hãng Pixar đoạt giải phim hoạt hình xuất sắc nhất khi vượt qua Bolt (Tia chớp) và Kungfu panda (Công phu gấu trúc).",
+     "en": "The remaining big awards do not surprise, as Pixar's masterpiece of 3D animation takes the award for best animation, besting Bolt (Bolt) and Kungfu Panda (Panda Kung fu^([sic]))."
+    }
+   ]
+  },
+  {
+   "headword": "lỗi thời",
+   "base": "f8e8a4307f47a5a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "out-of-date; outdated; obsolete; obsolescent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ thể",
+   "base": "4e8df3646bf19603",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the main part; the part making up most of something"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "subjective"
+     ],
+     "gloss": "subject"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Juche (the state ideology of North Korea)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mê hoặc",
+   "base": "82212737413a968c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to charm; to enchant; to bewitch"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mesmerizing, entrancing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ nhớ",
+   "base": "37b2fbe6694e5759",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "memory (unit); storage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiểu đoàn",
+   "base": "a95a4e6c32eb1cc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a battalion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ động",
+   "base": "b9908a614d92772c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "active or proactive"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngạo mạn",
+   "base": "d4d6f66a723bf96b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "being overly arrogant while not showing respect to others, especially the elderly"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đã không ra gì lại còn ngạo mạn thì chả có ai ưa đâu.",
+     "en": "[As you are] overly arrogant and unhelpful, nobody will like you."
+    }
+   ]
+  },
+  {
+   "headword": "la bàn",
+   "base": "bf928fdd61815f6e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a compass (instrument to determine cardinal directions)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chao",
+   "base": "05e3fd9640614fc6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "fermented bean curd"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to glide (in the air)"
+    },
+    {
+     "position": 3,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "oh my"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Thụy Điển",
+   "base": "d92dfa4e8afeff27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of Thuỵ Điển."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trú",
+   "base": "bb882ca44f225162",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take shelter"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trú mưa",
+     "en": "to take shelter from a rain"
+    }
+   ]
+  },
+  {
+   "headword": "tuyệt mật",
+   "base": "5c3a09690103448d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "top-secret"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi nhánh",
+   "base": "a0b033fdbf66c370",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tributary (of a river)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "branch (of an organisation, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêu phàm",
+   "base": "695867d576346de3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "out of the ordinary; extraordinary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vấn",
+   "base": "bfb5aa4cd6f16973",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to roll"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tie up"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sáu Hóa không ăn, ngượng ngập quay đi vấn thuốc.",
+     "en": "Six Hoá did not eat; he awkwardly turned around and rolled a cigarette."
+    }
+   ]
+  },
+  {
+   "headword": "hiểm họa",
+   "base": "c20867693ffd0dc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hiểm hoạ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạp hóa",
+   "base": "92d293caf6451199",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tạp hoá."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phá bỏ",
+   "base": "2300df91769f4e5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to destroy; to demolish"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giải lao",
+   "base": "864217fdbe12f545",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a rest; a break; a breather; a period of time given to relieve fatigue and tiredness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cử chỉ",
+   "base": "dd59214dd629bc64",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manner; conduct; behaviour"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gesture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vệt",
+   "base": "de5ea37c9abed52b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "long trace; streak"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vệt nắng xiên chéo xuống là từ hướng Đất Mũi, chụp lúc 7h sáng 26-12.",
+     "en": "The sun shining obliquely (through the clouds), from the direction of Đất Mũi; picture taken at 7 am on 26/12."
+    }
+   ]
+  },
+  {
+   "headword": "đáp án",
+   "base": "43918987aba87e5d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the correct answer or solution to a homework or test question or problem"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đáp án câu 3 ở trang nào ?",
+     "en": "Which page is the answer to problem 3 on?"
+    },
+    {
+     "sense": 1,
+     "vi": "Sách này có đáp án không ?",
+     "en": "Is there a key to this book?"
+    }
+   ]
+  },
+  {
+   "headword": "nguyên mẫu",
+   "base": "584102aac6f9a885",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "infinitive"
+     ],
+     "gloss": "infinitive"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prototype"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tất cả các dạng nguyên mẫu tiếng Đức đều tận cùng là ‑en; một vài động từ khác thì tận cùng là ‑n. Các từ điển liệt kê các động từ ờ dạng nguyên mẫu:[…]",
+     "en": "All infinitive forms in German end in ‑en; some other verbs end in ‑n. Dictionaries list verbs in the infinitive form: […]"
+    }
+   ]
+  },
+  {
+   "headword": "hiệp định",
+   "base": "fd07a473f5397a8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "agreement; convention"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xém",
+   "base": "a7a37f86b05c80cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "nearly, just about to be"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xém nữa là chết!",
+     "en": "I was just about to die!"
+    }
+   ]
+  },
+  {
+   "headword": "dinh thự",
+   "base": "1a478907fcb927c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mansion (large house or building)"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

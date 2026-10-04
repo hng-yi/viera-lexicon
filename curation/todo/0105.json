@@ -1,0 +1,1552 @@
+{
+ "batch": "0105",
+ "entries": [
+  {
+   "headword": "sùng đạo",
+   "base": "02a5873da23b70b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "to be very religious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "toàn cảnh",
+   "base": "1476e2bca131220d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "overall picture; overview; panorama"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yên ắng",
+   "base": "3866e985baadcce8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "quiet"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "không gian yên ắng",
+     "en": "a quiet space"
+    }
+   ]
+  },
+  {
+   "headword": "đầu thai",
+   "base": "de50052c6941100f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reincarnate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lên án",
+   "base": "5ed743032f1ffcba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to condemn (to scold sharply)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Quan chức lên án vụ ném bom.",
+     "en": "Officials condemned the bombing."
+    },
+    {
+     "sense": 1,
+     "vi": "Nếu đồng chí không lên án chủ nghĩa thực dân, nếu đồng chí không bênh vực các dân tộc thuộc địa thì đồng chí làm cái cách mạng gì?",
+     "en": "If you do not condemn colonialism, if you do not side with the colonial people, what kind of revolution are you waging?"
+    }
+   ]
+  },
+  {
+   "headword": "vảy",
+   "base": "45b84445f5ff6ca5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scales"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "làm vảy/đánh vảy",
+     "en": "to descale (a fish)"
+    }
+   ]
+  },
+  {
+   "headword": "tuýp",
+   "base": "5f21978a5c903193",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a tube"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pipe"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tuýp kem đánh răng",
+     "en": "a tube of toothpaste"
+    }
+   ]
+  },
+  {
+   "headword": "chuyển giới",
+   "base": "2a55a786e81d3d85",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a sex change"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "transgender"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mời gọi",
+   "base": "0569d0cc4185db61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to solicit; to invite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sọc",
+   "base": "26b119fe31100428",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "striped"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiện vật",
+   "base": "94cffd3cb003c232",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "artifact; exhibit"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "physical evidence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bảo tàng trưng bày nhiều hiện vật.",
+     "en": "Many artifacts are in display at the museum."
+    }
+   ]
+  },
+  {
+   "headword": "ước lượng",
+   "base": "46f810fed7783aab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to estimate; to measure"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngỏ",
+   "base": "d6f85da64a2f5374",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to open"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to openly express"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "open; left open; unlocked"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Mình có ngỏ ý tặng gấu bông thì bị bạn dỗi.",
+     "en": "I said to her I would give her a teddy, but she wasn't happy with it."
+    }
+   ]
+  },
+  {
+   "headword": "rắm",
+   "base": "d6cba1640e15e004",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern",
+      "rare"
+     ],
+     "gloss": "fart"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhà xuất bản",
+   "base": "283ed81820bc4bb3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "publisher; publishing house"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tùy tiện",
+   "base": "b1b4393ba6cff348",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tuỳ tiện."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rảnh rỗi",
+   "base": "e8117815d16d5dbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "free; unoccupied (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xay",
+   "base": "13cedd9f771fb0cc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grind; to crush; to pulverize"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hậu cần",
+   "base": "bd0853db4d35efe3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "logistics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô lễ",
+   "base": "8be977fc4bf5f91e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impolite or even insolent, especially with elder persons"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mới rồi ăn nói vô lễ, thật lỗ mãng quá.",
+     "en": "I just spoke insolently, so hot-headed of me."
+    }
+   ]
+  },
+  {
+   "headword": "cuốc",
+   "base": "8cfb6b625e8c47f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "white-breasted waterhen"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hoe"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hoe"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "errand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "cuốc bộ",
+     "en": "to walk"
+    }
+   ]
+  },
+  {
+   "headword": "tương đồng",
+   "base": "2be7059e66d515f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "similar (in certain aspects); resembling each other"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xù",
+   "base": "57ae674fab815000",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "raised"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to raise hair"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stiff (to fail to pay money one owes)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Con mèo sợ hãi, xù lông.",
+     "en": "The cat was afraid and raised its fur."
+    },
+    {
+     "sense": 4,
+     "vi": "xù tiền",
+     "en": "to refuse to pay"
+    },
+    {
+     "sense": 4,
+     "vi": "xù nợ",
+     "en": "to refuse to pay up a debt"
+    }
+   ]
+  },
+  {
+   "headword": "hớ",
+   "base": "ac6e417839b061b5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "careless, negligent leading to blunders (in words, business…)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mong khán giả hiểu cho Thúy vì khi lên trao giải Thúy cũng có phần hồi hộp nên đã bị nói hớ[.]",
+     "en": "I hope the audience can understand; when I went up to present the award, I was also a bit nervous and I made a slip of the tongue."
+    }
+   ]
+  },
+  {
+   "headword": "tiền lệ",
+   "base": "4717c0bb2d6fef07",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "precedent; antecedent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "già nua",
+   "base": "9d7674e62b249f16",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "old; aged; elderly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyên bản",
+   "base": "990866f971ce30e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "original"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hưu trí",
+   "base": "ea78c7cc67ab1820",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "pertaining to a pension plan or policy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chế độ hưu trí",
+     "en": "a pension policy"
+    }
+   ]
+  },
+  {
+   "headword": "tản bộ",
+   "base": "55b6d1d69fc34072",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leisurely take a walk"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gây tê",
+   "base": "dba4f56d98177318",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to apply local anesthesia"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ống khói",
+   "base": "507dbbe75b5c7a43",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chimney"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngồi hút thuốc như ống khói tàu, lần đầu tiên ông thấy mình bất lực, vô dụng và bối rối trước đứa con gái đáng thương.",
+     "en": "Sitting down and smoking like a train chimney, for the first time he felt helpless, useless and out of place at his daughter's plight."
+    }
+   ]
+  },
+  {
+   "headword": "lạnh giá",
+   "base": "85e0f0ac36719ee0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "freezing cold"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bao Tích Nhược nhắm mắt không đáp, Dương Thiết Tâm thấy nàng sắc mặt trắng bệch, tay chân lạnh giá, trong lòng vô cùng hoảng sợ.",
+     "en": "Bāo Xīruò had her eyes closed and did not respond; Yáng Tiěxīn saw her face was pale and her limbs cold as ice, and panic overwhelmed him."
+    }
+   ]
+  },
+  {
+   "headword": "âm thầm",
+   "base": "52c2cac88b883387",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "silent; quiet"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "silently; quietly; secretly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghị lực",
+   "base": "dbed4e8d57942571",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "willpower"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quê nhà",
+   "base": "1eaf550c3edb79f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "endearing"
+     ],
+     "gloss": "one's dear hometown; one's dear homeland"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xốp",
+   "base": "3f7fec12becc439d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "porous"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "polystyrene"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "hạt xốp",
+     "en": "polystyrene pellets"
+    }
+   ]
+  },
+  {
+   "headword": "trắc ẩn",
+   "base": "24c7fc5234323f1f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to feel compassion; to feel pity"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đà điểu",
+   "base": "e2827e2d0455fa2b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ostrich"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any large, long-legged ratite"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đà điểu Phi/Mĩ/Úc",
+     "en": "a(n) ostrich/rhea/emu"
+    }
+   ]
+  },
+  {
+   "headword": "chống đỡ",
+   "base": "ec6fa58bb25b9b93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prop up; to hold up; to support"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to endure; to sustain; to resist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dóc",
+   "base": "8c411f31bfc0117b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to lie"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phẳng",
+   "base": "6d722718e59883f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "flat; level; even"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "núi ngầm chóp phẳng",
+     "en": "guyot (flat-tipped seamount)"
+    }
+   ]
+  },
+  {
+   "headword": "sồi",
+   "base": "828c886ead177301",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "oak"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pongee"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cửa gỗ sồi",
+     "en": "oak door"
+    },
+    {
+     "sense": 2,
+     "vi": "áo sồi",
+     "en": "pongee shirt"
+    }
+   ]
+  },
+  {
+   "headword": "bình tâm",
+   "base": "3b0f203f39fc8794",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to leave something/someone composed; to put at ease"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bình tâm tĩnh trí",
+     "en": "to put one's heart and mind at ease"
+    },
+    {
+     "sense": 1,
+     "vi": "bình tâm nghĩ lại",
+     "en": "to compose one's thoughts"
+    }
+   ]
+  },
+  {
+   "headword": "lác",
+   "base": "714f766b51fc9cba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sedge (Cyperaceae)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "squinting"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thủ thuật",
+   "base": "ca43661eb2f53d17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tip; trick"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội thoại",
+   "base": "9a788ed47eb2c28e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to talk, to converse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự hội thoại",
+     "en": "dialog"
+    }
+   ]
+  },
+  {
+   "headword": "cường độ",
+   "base": "829957310ba2cebf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "intensity; strength"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thành thạo",
+   "base": "689f4e2db9558581",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "skilled; expert; fluent"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "skillfully; expertly; fluently"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tan rã",
+   "base": "8e39cd2e3a1c633e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break up; to disintegrate; to fall apart"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Liên Xô tan rã",
+     "en": "the Soviet Union dissolved"
+    },
+    {
+     "sense": 1,
+     "vi": "bè nhóm tan rã",
+     "en": "group ceases to exist"
+    }
+   ]
+  },
+  {
+   "headword": "đường lối",
+   "base": "2d934f81992ca11d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "road; way; path"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "direction; path (in politics, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự ái",
+   "base": "dba39d325e70d275",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to get offended"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "narcissistic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nói động tới là tự ái.",
+     "en": "gets offended whenever touched by words"
+    },
+    {
+     "sense": 2,
+     "vi": "[…] hay chấp vặt, không can đảm tự phê bình, không ưa những lời phê bình ngay thẳng – thì gọi là tự ái.",
+     "en": "The illness of being narcissistic"
+    }
+   ]
+  },
+  {
+   "headword": "duyên",
+   "base": "2419ae724e925495",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spiritual thread that binds people, animals, and things that are fated to come together"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "specifically"
+     ],
+     "gloss": "fate to meet a romantic partner"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tact, charm, grace"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "duyên âm",
+     "en": "link with someone in the underworld"
+    },
+    {
+     "sense": 1,
+     "vi": "Có duyên thì sẽ có ngày gặp lại.",
+     "en": "If fate wills it, we will meet again."
+    },
+    {
+     "sense": 1,
+     "vi": "[…] tôi được bổ nhiệm là tổng lĩnh Ban Kinh tài của lãnh địa Shizuoka. Tôi thấy đúng là mình hay có duyên với những chỗ như Ban Kinh tài như thế này.",
+     "en": null
+    },
+    {
+     "sense": 1,
+     "vi": "Hoặc có người rất sợ rắn, nhưng có người lại rất thích chơi với rắn, là do người này với những con rắn đó có duyên với nhau.",
+     "en": "And there are people who are very afraid of snakes and people who love to play with them; that is because these people and those snakes have a connection with each other."
+    },
+    {
+     "sense": 1,
+     "vi": "Đến với “nghề tay trái” như một cái duyên, chị Lê Thị Thương […] đã gắn bó với công việc làm bánh thạch nghệ thuật được hơn 7 năm nay.",
+     "en": "Discovering her secondary profession as if it had been a stroke of fate, Ms Lê Thị Thương […] has been making artistic jelly cakes for more than 7 years."
+    },
+    {
+     "sense": 2,
+     "vi": "duyên vợ chồng",
+     "en": "the fate that brings husband and wife together"
+    },
+    {
+     "sense": 2,
+     "vi": "Đã không duyên trước chăng mà, / Thì chi chút ước gọi là duyên sau.",
+     "en": "In a previous life, she was fated to be alone. / We may hope her fate for her next life is to meet someone."
+    },
+    {
+     "sense": 3,
+     "vi": "nói năng có duyên",
+     "en": "charmingly eloquent"
+    },
+    {
+     "sense": 3,
+     "vi": "Hoàn cảnh này mà vẫn không quên giữ duyên.",
+     "en": "With this situation and still she remembered to maintain her grace."
+    }
+   ]
+  },
+  {
+   "headword": "chiết",
+   "base": "daa22e2d09a8d869",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to extract"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to transplant"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to graft"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to remove; deduct"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to stain teeth black"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh giá",
+   "base": "d8826a97275c0275",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prestige"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "prestigious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hãy bỏ cộng điểm ưu tiên ở các trường đại học danh giá, hạng đầu.",
+     "en": "Let's quit adding prioritized points at the prestigious, top universities."
+    }
+   ]
+  },
+  {
+   "headword": "đổi mới",
+   "base": "e81b9ce2421e0b5c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to renovate; to modernise"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đổi mới công nghệ",
+     "en": "to modernise technology"
+    }
+   ]
+  },
+  {
+   "headword": "học thuyết",
+   "base": "52d4ab8b412cd922",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "theory; doctrine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ám hiệu",
+   "base": "3f1c0b7250a85dc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "secret signal; coded signal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguyện vọng",
+   "base": "7d202692479daa86",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hope; aspiration"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ca khúc",
+   "base": "20becd7381f3247b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "song"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tình nguyện viên",
+   "base": "c09ed36f166e8561",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "volunteer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xưa nay",
+   "base": "f70b27cb73af0189",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "since always"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xưa nay chiến tranh nổ ra cũng chỉ vì miếng ăn.",
+     "en": "It has also always been because of food that war breaks out."
+    }
+   ]
+  },
+  {
+   "headword": "khạc",
+   "base": "3d8af6ccb0e163e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cough up; to hock"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spit"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khạc đờm",
+     "en": "to cough up sputum; to hock"
+    },
+    {
+     "sense": 2,
+     "vi": "khạc nhổ; khạc nước bọt",
+     "en": "to spit saliva"
+    },
+    {
+     "sense": 2,
+     "vi": "khạc lửa",
+     "en": "to shoot"
+    },
+    {
+     "sense": 2,
+     "vi": "[…] kỳ nầy lên Đất Đỏ nó [khẩu đại liên] sẽ khạc lửa rần rần cho coi !",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "bênh",
+   "base": "85fc6e9e39b58a98",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to prize up; to lever up"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tilt (because of imbalance)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take sides with; to defend; to protect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kho bạc",
+   "base": "2c3a239925bd3248",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "treasury"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Kho bạc Nhà nước Việt Nam",
+     "en": "Vietnam State Treasury"
+    }
+   ]
+  },
+  {
+   "headword": "khơi mào",
+   "base": "efec10a534caee15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to start a conversation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to initiate; to cause (a movement, a reaction, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "khơi mào làn sóng phản đối",
+     "en": "to cause a wave of protest"
+    }
+   ]
+  },
+  {
+   "headword": "hung khí",
+   "base": "ec5497b57acc9bd8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a deadly weapon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyển biến",
+   "base": "daed1363e5ce70f6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to change; to evolve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ nhiệm",
+   "base": "1805d8c23f3c6daf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "chief"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to be the homeroom teacher for a class"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Năm nay tôi chủ nhiệm lớp ba.",
+     "en": "I'll be the homeroom teacher for a third-grade class this year."
+    }
+   ]
+  },
+  {
+   "headword": "nặng nhọc",
+   "base": "0ba769731cb498f1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "laborious, toilsome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chăm chú",
+   "base": "cf7e6b6398c4b93e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "attentively; watchfully; intently"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "attentive; concentrated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chằng",
+   "base": "86ca279462f13231",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fasten; to bind; to tie securely"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to use someone else's money or belongings; to pinch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rào cản",
+   "base": "b6b12329de74d24c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "barrier; hurdle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiết giáp",
+   "base": "a5409f28b11cfd7f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "armored"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "xe tăng thiết giáp",
+     "en": "an armored tank"
+    }
+   ]
+  },
+  {
+   "headword": "tàu điện",
+   "base": "49f8bb5ff89054b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an electric train"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tàu điện ngầm",
+     "en": "a subway train"
+    }
+   ]
+  },
+  {
+   "headword": "trở mặt",
+   "base": "41a7dcc80564a4da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to betray"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bí kíp",
+   "base": "ed93917b693ebbcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "secret art; important secret; trick; tip"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chiêu mộ",
+   "base": "ae20fe7cfa00b683",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to recruit; to hire; to enlist (someone)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phê duyệt",
+   "base": "4b5091a1f0a3af92",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to approve (a project, a grant, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phán",
+   "base": "6dd75af8de886dc3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to rule (to decide judicially)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to declare with an air of authority"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thông số",
+   "base": "5e08d156efa117f4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parameter; measurements; specifications"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

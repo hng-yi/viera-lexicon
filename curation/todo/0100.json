@@ -1,0 +1,1400 @@
+{
+ "batch": "0100",
+ "entries": [
+  {
+   "headword": "hí",
+   "base": "0bddf04d6a85fb23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "neigh"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to neigh"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiện ngập",
+   "base": "03d53c53d693d54b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "addicted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mà cảm xúc thì chỉ có nghiện ngập chứ có bao giờ đủ!",
+     "en": "But emotions are all but addictive; they are never enough!"
+    }
+   ]
+  },
+  {
+   "headword": "hỏa táng",
+   "base": "a2c51fb66dbdcf6f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of hoả táng."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gầm gừ",
+   "base": "11f2a5c2aa2c29fb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to growl"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ít nhiều",
+   "base": "ada569f1569dec15",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "more or less"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng tử",
+   "base": "6ea7581e18a9b363",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eye pupil"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ đông",
+   "base": "cdb03bd470ca5f56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a shareholder/stockholder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hồng y",
+   "base": "c851ad483d59c334",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cardinal (official of the Catholic Church)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiễm khuẩn",
+   "base": "d8dc4e3f3e583426",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be infected by bacteria"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đèo",
+   "base": "6198a5e1343fb99d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mountain pass"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry (on one's back)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to carry (on one's vehicle); to transport"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội trường",
+   "base": "66ffec1774cebd4e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a hall, venue or conference room"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rặng",
+   "base": "f7797f692ac32ee2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "row (of standing objects)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "liên can",
+   "base": "b8366502d249641a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be involved; associated"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be implicated; complicit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ru",
+   "base": "f3ca24c3ca2c82f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sing (a baby) to sleep"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [
+      "dated",
+      "literary"
+     ],
+     "gloss": "final particle used for negation or to form rhetorical questions"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hát ru",
+     "en": "to sing a lullaby"
+    }
+   ]
+  },
+  {
+   "headword": "yêu đương",
+   "base": "a4d9922833c1a2a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "love (between boys and girls)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to love"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đánh đấm",
+   "base": "81cfd7c4ec69ec80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dàn dựng",
+   "base": "2026649d23fa2382",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to construct"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "to fake a scene; to stage; to set up a fake scene"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "dàn dựng cảnh trong một vở kịch",
+     "en": "to construct a scene for a play"
+    },
+    {
+     "sense": 1,
+     "vi": "dàn dựng sân khấu",
+     "en": "to build a stage"
+    },
+    {
+     "sense": 2,
+     "vi": "dàn dựng như thể tai nạn",
+     "en": "to set it up as if it was merely an accident"
+    }
+   ]
+  },
+  {
+   "headword": "nhiệt huyết",
+   "base": "1e2cefb2b4a767d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vigor, vitality, energy or enthusiasm"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhiệt huyết tuổi thanh xuân",
+     "en": "the vigor of youth"
+    }
+   ]
+  },
+  {
+   "headword": "xía",
+   "base": "278bb579482bba1c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to interfere"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nguy hại",
+   "base": "0b3bc3e75df3b52d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "harmful; deleterious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô cớ",
+   "base": "3c69584e322e666d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "groundless; baseless; unfounded"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unjustified; unprovoked; gratuitous"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bắt người vô cớ",
+     "en": "unjustified detention"
+    }
+   ]
+  },
+  {
+   "headword": "thánh đường",
+   "base": "b95c0eb30dbadcf7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Judaism"
+     ],
+     "gloss": "a house of worship"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thánh đường Công giáo/Hồi giáo/Do Thái giáo",
+     "en": "a Catholic church/Islamic mosque/Jewish synagogue"
+    },
+    {
+     "sense": 1,
+     "vi": "Thánh đường Cologne",
+     "en": "the Cologne Cathedral"
+    }
+   ]
+  },
+  {
+   "headword": "thiên địa",
+   "base": "41b7013023951afa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heaven and earth"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thần bí",
+   "base": "0bdd2eac5b125f9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mysterious; mystical"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đông nam",
+   "base": "d6fcabed96e3695c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "southeastern"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phía đông nam",
+     "en": "southeastern direction"
+    },
+    {
+     "sense": 1,
+     "vi": "hướng đông nam",
+     "en": "southeastern direction"
+    }
+   ]
+  },
+  {
+   "headword": "thiểu năng",
+   "base": "bbe7df8366abc2b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "intellectually disable, suffered from mental retardation"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "derogatory",
+      "offensive"
+     ],
+     "gloss": "retarded"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thằng này thiểu năng thật đấy!",
+     "en": "This guy is so retarded!"
+    },
+    {
+     "sense": 2,
+     "vi": "Đồ thiểu năng! Bài dễ thế không làm được à, hả?",
+     "en": "Goddamn what a retarded. These assignments are piss easy yet you still can't do them for yourself, huh?"
+    }
+   ]
+  },
+  {
+   "headword": "hữu cơ",
+   "base": "6a511ceb3f65c0ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "organic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phát động",
+   "base": "cd079ca2abed70fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mobilize people to take part in a movement"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to start or campaign for a movement"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "phát động quần chúng",
+     "en": "to mobilize public support"
+    },
+    {
+     "sense": 2,
+     "vi": "phát động phòng chống HIV/AIDS",
+     "en": "to campaign for HIV/AIDS prevention"
+    },
+    {
+     "sense": 2,
+     "vi": "phát động phong trào thi đua người tốt, việc tốt",
+     "en": "to launch a competition about good people doing good things"
+    }
+   ]
+  },
+  {
+   "headword": "thông cáo",
+   "base": "6e52dded24a8da11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "announcement; communique; report"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kị sĩ",
+   "base": "1ba65bc86d99f352",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a horseman; cavalryman"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a knight"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tứ kĩ sĩ Khải Huyền",
+     "en": "The Four Horsemen of the Apocalypse"
+    },
+    {
+     "sense": 2,
+     "vi": "Kị sĩ Bàn Tròn",
+     "en": "Knights of the Round Table"
+    }
+   ]
+  },
+  {
+   "headword": "hội đồng quản trị",
+   "base": "d36a0c1f1f84c815",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a board of directors"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hớp",
+   "base": "2dc63c807b90a55d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sip"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gasp (air)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoang đường",
+   "base": "80f94995e761a147",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ridiculous, sounding made-up, almost certainly delusional or fictitious; bogus, false, nonsensical, preposterous, etc."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khiếu",
+   "base": "f914a376c247a310",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "talent; knack; gift"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khiếu hội hoạ",
+     "en": "a knack for fine arts"
+    }
+   ]
+  },
+  {
+   "headword": "nữ trang",
+   "base": "913730204b71b70d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "women's jewellery"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kìm nén",
+   "base": "aca01c968eaeda74",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to repress emotions, thoughts, needs, desires, etc. of oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngáy",
+   "base": "f6a4ab17f435ed8a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to snore"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trẻ con mà ngáy như vậy thì khác thường quá.",
+     "en": "It is unusual, that these children snore like that."
+    }
+   ]
+  },
+  {
+   "headword": "chỉ bảo",
+   "base": "a08c0e596285c523",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to advise; to instruct; to coach"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tinh hoàn",
+   "base": "b2604cfbffa7964e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal",
+      "polite"
+     ],
+     "gloss": "testicle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thìa",
+   "base": "a7b22b9263acadd6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "spoon (scooped utensil for eating or serving)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chung thân",
+   "base": "046603ef0a8c0f3b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "for all of one's life"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tù chung thân",
+     "en": "life sentence"
+    }
+   ]
+  },
+  {
+   "headword": "dễ dãi",
+   "base": "9bef0f8e99f32185",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "soft; easy; not strict or tough"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếp tay",
+   "base": "3619ec65e3206c83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abet; to help criminals commit crimes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chân tay",
+   "base": "eccc05d813be8016",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "foot and hand; limbs"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kiếm ăn",
+   "base": "991bfb6b397938de",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a living"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vả lại, mẹ thường bảo chúng tôi rằng: “Phải như thế, để các con biết kiếm ăn một mình cho quen đi. […]”",
+     "en": "Besides, my mother used to tell her children, “It's good for you to learn to fly with your own wings. […]”"
+    }
+   ]
+  },
+  {
+   "headword": "rổ",
+   "base": "21ace7dc1796c691",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basket"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hoop"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cá thể",
+   "base": "25e115215573fb67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "individual"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ai nấy",
+   "base": "c8f2fa16ee9db50d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "each and all; everybody"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trớn",
+   "base": "33dc2d179c9361e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "momentum"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lùi mấy bước lấy trớn",
+     "en": "to take a few steps back to gather some momentum"
+    }
+   ]
+  },
+  {
+   "headword": "danh mục",
+   "base": "0e1adc2a8a3b3901",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a list (of names)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sao la nằm trong danh mục Sách đỏ Việt Nam.",
+     "en": "Saola is listed in Vietnam's Red Data Book."
+    }
+   ]
+  },
+  {
+   "headword": "quốc tịch",
+   "base": "95f8f7140b6d138f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "nationality, citizenship"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xanh xao",
+   "base": "3cf16b640206a3d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having a pale and sickly color; pallid; wan"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lắc lư",
+   "base": "d2cf1761b0bf335f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to shake, to sway"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vọng",
+   "base": "cd01e29fd1a765cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to echo, to resound"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to expect, to await"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to long for"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "thánh lễ vọng",
+     "en": "vigil mass"
+    },
+    {
+     "sense": 2,
+     "vi": "đêm vọng lễ",
+     "en": "eve of a feast day"
+    },
+    {
+     "sense": 2,
+     "vi": "Lần đầu tiên tôi gặp cô ta là vào đêm vọng lễ Giáng Sinh năm 2007,[…]",
+     "en": "The first time I met her was Christmas Eve 2007; […]"
+    },
+    {
+     "sense": 3,
+     "vi": "vọng về",
+     "en": "to long to return"
+    }
+   ]
+  },
+  {
+   "headword": "công trường",
+   "base": "12b2ae5d7b5cef1d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a construction site"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "used in the names of some squares in Ho Chi Minh City"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công trường đang thi công",
+     "en": "this site is under construction"
+    },
+    {
+     "sense": 2,
+     "vi": "Công trường Công xã Paris",
+     "en": "Công xã Paris Square"
+    }
+   ]
+  },
+  {
+   "headword": "võ lâm",
+   "base": "dc04bd6248da6580",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "all martial arts circles and sects in China"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "minh chủ võ lâm",
+     "en": "the ultimate martial arts leader"
+    }
+   ]
+  },
+  {
+   "headword": "lời lẽ",
+   "base": "cf3bcf9b323db596",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "words; wordings; expressions"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phồng",
+   "base": "feab77f1a439a7b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enlarge"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to puff (one's cheeks)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "blister"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khôn khéo",
+   "base": "8cfc12d13ecbf5e0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "clever; witty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đánh hơi",
+   "base": "0a8424e70853986f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to smell, to sniff (as of a dog)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kẽ",
+   "base": "e8a9e35b5981abf4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "crevice, crack, seam"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẽ nứt",
+     "en": "a crack"
+    }
+   ]
+  },
+  {
+   "headword": "binh đoàn",
+   "base": "7bf1df725052f6d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "legion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô thần",
+   "base": "881c2aaf63cfd16b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "godless; atheistic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chủ nghĩa vô thần",
+     "en": "atheism"
+    }
+   ]
+  },
+  {
+   "headword": "luận án",
+   "base": "8a6ef51291a269c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "dissertation; thesis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hạ gục",
+   "base": "b55f2ed44b1ae799",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to knock out, to knock down"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhảy dù",
+   "base": "eda7bda575617427",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to parachute, to drop by parachute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quê mùa",
+   "base": "008e8dd5b4cb5f5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "antiquated; old-fashioned"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âu yếm",
+   "base": "de8b98b1ed1d282f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "affectionate; fond; tender"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to caress; to fondle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nông nghiệp",
+   "base": "aed2c64e23346904",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "agriculture"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thâm tâm",
+   "base": "8b453318b58d9c4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "innermost secret thoughts"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trong thâm tâm",
+     "en": "deep down"
+    }
+   ]
+  },
+  {
+   "headword": "tẻ nhạt",
+   "base": "c24557d592069518",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "boring, lame, dull"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhị ca",
+   "base": "7155286fe1a95873",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "man who is the second oldest of a group"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đang nổi giận thì người kia nhăn nhở nhìn y cười một tiếng, chành môi lè lưỡi, làm ra vẻ nhát ma rồi quay lại vẫy tay với mọi người, té ra y là Nhị ca của họ.",
+     "en": "As he got angry, the other person looked at him with a boorish grin and gave a laugh; he opened his lips wide and stuck out his tongue, made a scary face and turned around waving to everyone; apparently he was their second brother."
+    }
+   ]
+  },
+  {
+   "headword": "bất thình lình",
+   "base": "36d8245ea3a62ec7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "suddenly; all of a sudden (more emphatic than thình lình)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khuyến mãi",
+   "base": "8f59f638589a72a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to encourage customers to buy products (by using rewards, gifts, etc.)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hậu môn",
+   "base": "b9e901bccea70e11",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "anus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bồn chồn",
+   "base": "1138f96c87b5369f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "jittery; uneasy; restless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoang vu",
+   "base": "15beade4fbb2f54c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wild; unaffected by human's activities"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công chuyện",
+   "base": "f09385c677a6e6e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "important business"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bố đi công chuyện một lát.",
+     "en": "Imma take care of some business. I'll be back in a jiff."
+    }
+   ]
+  },
+  {
+   "headword": "thú thật",
+   "base": "961a7f60dce86d12",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to confess; to own"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "frankly; honestly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xó",
+   "base": "a0f0ad8eebb964ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "corner, nook"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

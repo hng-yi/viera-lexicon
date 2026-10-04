@@ -1,0 +1,1559 @@
+{
+ "batch": "0078",
+ "entries": [
+  {
+   "headword": "cai",
+   "base": "95c1cfd680c315af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "corporal"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "overseer; foreman; supervisor"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to break (a habit); to grow out of (a habit); to give up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "anh chị em",
+   "base": "4d6febf552490eba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "siblings; brothers and sisters; boys and girls"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng cỏ",
+   "base": "d0f6e91480cbb609",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grassland, meadow"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giới nghiêm",
+   "base": "29a9ea23afd9c372",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to declare martial law"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to impose a curfew"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lệnh giới nghiêm",
+     "en": "a declaration of martial law"
+    },
+    {
+     "sense": 2,
+     "vi": "lệnh giới nghiêm",
+     "en": "a curfew"
+    }
+   ]
+  },
+  {
+   "headword": "nhẹ nhõm",
+   "base": "8fa13998a0c014da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "elegant-shaped; elegantly slender"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relieved; light"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thái quá",
+   "base": "07380f54119a65fe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "excessively; immoderately"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tạt",
+   "base": "7dcca35826ad769c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to drop by, or pop in"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to splash into, to pour water (or other liquids) onto someone"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to slap (someone) strongly"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "to turn, to turn aside, to swerve"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đợt này bận quá, chẳng có lúc nào tao tạt qua nhà mày chơi được.",
+     "en": "Recently, I was too busy to drop by your house for chit-chat."
+    },
+    {
+     "sense": 2,
+     "vi": "Tạt cho nó gáo nước lạnh là nó tỉnh à.",
+     "en": "Splash cold water onto him, and you see he'll get up."
+    }
+   ]
+  },
+  {
+   "headword": "nhảy nhót",
+   "base": "26f9172fec5fe8ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to jump up; to jump or dance happily; to jump for joy; to caper about"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quyền hạn",
+   "base": "1b0a09274aba18f8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "authority; powers; jurisdiction"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "choáng",
+   "base": "ad1c0051e5b76db0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dazzled; overwhelmed; stunned; shocked"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shock"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "săn bắn",
+   "base": "8ceabe6ff466bc2f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to hunt"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tươi sáng",
+   "base": "0f7dd87b98b6fffb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bright; vibrant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dột",
+   "base": "bdf7341fbf8f6ca2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "leaky in the rain"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "with a leaky roof in the rain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cháo",
+   "base": "1259ef8a30fb9fd4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rice congee; rice porridge"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơm gì nhão như cháo thế này!",
+     "en": "What kind of loose watery rice is this!? This isn't rice, it's congee!"
+    },
+    {
+     "sense": 1,
+     "vi": "Làm việc thiếu quyết đoán thì rốt cuộc cũng chẳng nên cơm cháo gì.",
+     "en": "Indecisiveness will not produce any acceptable result."
+    }
+   ]
+  },
+  {
+   "headword": "dương vật",
+   "base": "b1f847ab474d24bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "penis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đẫm",
+   "base": "f811984cef5b8c2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "watery; wet"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to soak"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mắt đẫm nước",
+     "en": "watery eyes"
+    },
+    {
+     "sense": 1,
+     "vi": "đẫm mồ hôi",
+     "en": "profuse sweat"
+    },
+    {
+     "sense": 1,
+     "vi": "đẫm máu",
+     "en": "covered in blood"
+    },
+    {
+     "sense": 1,
+     "vi": "Mưa tuyết giội ướt đẫm trán, lông mày, má cô.",
+     "en": "Sleet that leaves cheeks and eyebrows heavy with moisture."
+    },
+    {
+     "sense": 2,
+     "vi": "Trăng lại đẫm mình xuống nước",
+     "en": "The moon again soaks itself in the water."
+    }
+   ]
+  },
+  {
+   "headword": "thể xác",
+   "base": "dc5dc59381e50bd1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the physique; the human body; the physical part of a person"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nấy",
+   "base": "a3387cb0960bd513",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [],
+     "gloss": "that (person or thing)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ tích",
+   "base": "a58ddc9ab61f9ef8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "folktales"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "of folktales"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "căn cước",
+   "base": "3ce86f9d6b560515",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an identity card"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "triệu phú",
+   "base": "fcee70198d70d14b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a millionaire"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nam cực",
+   "base": "b19b7af3fb9e58f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "south pole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngon miệng",
+   "base": "320eaed5ebb224c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "appetising, delicious"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "with great appetite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xỏ",
+   "base": "2e17cc2ee3cc846f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reeve, to thread"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phẩm chất",
+   "base": "b2570ede84605fb6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "quality; virtue"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân đạo",
+   "base": "df296b1efd7b4711",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "humanity"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "humane; humanitarian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiệt tình",
+   "base": "2bf7ddd367f789ca",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "honestly; seriously; for Pete's sake"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Giỡn thì giỡn vừa vừa thôi chứ giỡn gì ghê vậy. Thiệt tình luôn á.",
+     "en": "Play harmless jokes, don't play such a cruel joke. Jesus Christ, what's wrong with you?"
+    }
+   ]
+  },
+  {
+   "headword": "tàng hình",
+   "base": "fb99ecb401547a9a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "invisible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hận",
+   "base": "6507000a91c8339f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "hatred, resentment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đậu phộng",
+   "base": "d0da4eee24b73be6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "peanut, groundnut, earthnut"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dấu ấn",
+   "base": "b9d8b7ccf63e1f08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "mark; hallmark; impression"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Sách gì mà chả để lại dấu ấn gì hết.",
+     "en": "That book left me with zero impression."
+    }
+   ]
+  },
+  {
+   "headword": "tam giác",
+   "base": "d67b7aa2ca8ad811",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "triangle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chót",
+   "base": "07d8611cc5dae915",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "last; final; closing"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an end; tip; extremity"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hạn chót",
+     "en": "final deadline"
+    }
+   ]
+  },
+  {
+   "headword": "thế chấp",
+   "base": "0096b75070bb0732",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collateralize; to put up as collateral/security"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thế chấp nhà",
+     "en": "to use your house as collateral"
+    }
+   ]
+  },
+  {
+   "headword": "dừa",
+   "base": "da9d796ce01b8a33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a coconut"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "water primrose, especially Ludwigia adscendens"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to pass the buck"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bè ngổ đi trước, bè dừa đi sau",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "rèn luyện",
+   "base": "1fb5374d060dd6d6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to exercise; to train; to practise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dượng",
+   "base": "42a19ca528d75dfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stepfather; stepdad"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paternal uncle-in-law, father's sister's husband"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maternal uncle-in-law, mother's sister's husband"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "diễn thuyết",
+   "base": "5a7c55801867fe59",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make a speech; to talk in front of an audience"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quái đản",
+   "base": "8ecab5796a46f924",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "odd; bizarre"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "câu chuyện quái đản",
+     "en": "a freaky story"
+    },
+    {
+     "sense": 1,
+     "vi": "công việc quái đản",
+     "en": "a very odd job"
+    }
+   ]
+  },
+  {
+   "headword": "trí óc",
+   "base": "bd75eec8f35193d9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "brains; mind; intellect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "loanh quanh",
+   "base": "cf16eea65445623d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to walk around in a small region or area"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to beat around the bush"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thế rồi loanh quanh không có chứng cứ.",
+     "en": "Then he beats around the bush and has no evidence."
+    }
+   ]
+  },
+  {
+   "headword": "đầu thú",
+   "base": "52afc32088a97293",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give oneself up (to the police); to surrender oneself"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngày 31-7, Bộ Công an cho biết Trịnh Xuân Thanh đã đến Trực ban hình sự Cơ quan An ninh điều tra - Bộ Công an đầu thú.",
+     "en": "On July 31, the Ministry of Public Security announced that Trinh Xuan Thanh had given himself up to the Criminal Duty Unit of the Security Investigation Agency, a branch of the Ministry of Public Security."
+    }
+   ]
+  },
+  {
+   "headword": "lòng vòng",
+   "base": "c7b99f9e477fc62a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "long-winded"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mazelike"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lượm",
+   "base": "bb133ab75a1c58f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pick up, to take up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ô nhiễm",
+   "base": "f16d07fed824585e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pollution"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "polluted"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ô nhiễm tiếng ồn",
+     "en": "noise pollution"
+    }
+   ]
+  },
+  {
+   "headword": "bìa",
+   "base": "4c99d842abc80ecf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "book cover"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cardboard"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "frame; border; edge"
+    },
+    {
+     "position": 4,
+     "pos": "classifier",
+     "tags": [],
+     "gloss": "Indicates a rectangular piece of tofu curd"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xăm",
+   "base": "01eb140e371d3441",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to tattoo"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "oracle; fortune stick (in temples)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hình xăm",
+     "en": "a tattoo"
+    },
+    {
+     "sense": 2,
+     "vi": "xin xăm",
+     "en": "to requests answers from a sacred oracle lot"
+    }
+   ]
+  },
+  {
+   "headword": "tụy",
+   "base": "4a9f2a081ca54b18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of tuỵ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khéo léo",
+   "base": "c19e2311fa8a20e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "skillful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ôn",
+   "base": "527a5ff30572c2e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to revisit (a memory)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to review, to revise"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "derogatory"
+     ],
+     "gloss": "shit; thingy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Do đó, nhiều người chờ đợi Tết không chỉ để trở về với gia đình mà còn là cơ hội để gặp gỡ bạn bè, ôn lại kỷ niệm xưa.",
+     "en": "This is why many people look forward to Lunar New Year, not only to return to their families but also for a chance to meet friends and revisit old memories."
+    },
+    {
+     "sense": 2,
+     "vi": "ôn thi",
+     "en": "to revise for an exam"
+    },
+    {
+     "sense": 3,
+     "vi": "[...] là cái ôn gì?",
+     "en": "What the hell is …?"
+    }
+   ]
+  },
+  {
+   "headword": "phạm nhân",
+   "base": "48261e63246f2d67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a convict (person convicted of a crime)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đánh lừa",
+   "base": "e4e9a7de6a4383f5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cheat; to dupe; to deceive; to trick others to fall for one's schemes"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giáo phái",
+   "base": "8f34dd3c2000ed75",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "religious sect"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "cult"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lớn tuổi",
+   "base": "3a7a9680a63f40c0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal",
+      "polite"
+     ],
+     "gloss": "old, aged"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo luật",
+   "base": "5c4b3fdfda94ea28",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "law; act"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đạo luật này ưu đãi đám nhà giàu.",
+     "en": "This law benefits the rich."
+    }
+   ]
+  },
+  {
+   "headword": "khung cảnh",
+   "base": "77aca8a1107e00d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "framework; setting; context"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điềm",
+   "base": "8eed800bd34cb86d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an omen"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "điềm lành/tốt",
+     "en": "a good omen"
+    },
+    {
+     "sense": 1,
+     "vi": "điềm dữ/xấu",
+     "en": "a bad omen"
+    }
+   ]
+  },
+  {
+   "headword": "chậu",
+   "base": "410c7005b36126e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basin (for water); pot; vessel"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "neologism",
+      "slang"
+     ],
+     "gloss": "lover; sweetheart; boyfriend or girlfriend"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chậu hoa",
+     "en": "flower pot"
+    },
+    {
+     "sense": 2,
+     "vi": "Các hot boy 'chưa có chậu' ở U23 Việt Nam",
+     "en": "The single “hot boys” in the Vietnam Under-23 Team"
+    }
+   ]
+  },
+  {
+   "headword": "neo",
+   "base": "36006a0b08bfe01b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "anchor"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to anchor"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "few"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thả neo",
+     "en": "to drop anchor"
+    },
+    {
+     "sense": 3,
+     "vi": "- Tôi nói là nói người khác kia! Chứ ông... nhà neo, lắm việc, tôi có trách gì ông đâu... Kìa các ông ấy đã ra cả kìa!",
+     "en": "\"It's other people that I talked about! As for you, your family is small and you're always busy, how could I put any blame on you... Oh look, they have come!\""
+    }
+   ]
+  },
+  {
+   "headword": "đan",
+   "base": "751633ab6dd301fc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to weave (a basket, etc.)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to weave (fabric)"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to plait (hair)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đan hai bàn tay",
+     "en": "to interlock one's fingers"
+    }
+   ]
+  },
+  {
+   "headword": "ảo ảnh",
+   "base": "0a02139de568daf7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a mirage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngai vàng",
+   "base": "23c1529ba08a0419",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "throne"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ngự trên ngai vàng",
+     "en": "to be seated on the throne"
+    }
+   ]
+  },
+  {
+   "headword": "phản quốc",
+   "base": "e96d6e2d9b1f9191",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to betray one's country, to commit treason"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trẫm",
+   "base": "dccbf35356cf2c5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "archaic"
+     ],
+     "gloss": "I; me (similar to the royal we)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "to drown oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tẹo",
+   "base": "1b4cf5baa119f01c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "little bit, tiny bit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhận xét",
+   "base": "59762d8fa087f759",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to observe; to comment; to remark; to judge"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "remark; observation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỗng nhiên",
+   "base": "5722d9d93ad4705b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "suddenly; unexpectedly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngụy",
+   "base": "fa4f38ce6b1a16fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of nguỵ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tấp",
+   "base": "7bfe0d25c56f9678",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to get assembled after a long traverse"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cover something in stacks"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to stop by"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Peter tấp vào tiệm để mua bánh mì.",
+     "en": "Peter stopped by the shop to buy bánh mì."
+    }
+   ]
+  },
+  {
+   "headword": "giáng",
+   "base": "86b3fbd89f895656",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "a flat"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to inflict"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "giáng một đòn chí tử",
+     "en": "to deal a fatal blow"
+    }
+   ]
+  },
+  {
+   "headword": "nhậu",
+   "base": "d8d9106203dd53a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to have a carousal or drinking party, often with hors d'oeuvres"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xác minh",
+   "base": "6d41cbbcc3be1081",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to verify; to confirm; to determine; to establish"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "verification"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Xác minh 2 bước",
+     "en": "Two-step verification"
+    }
+   ]
+  },
+  {
+   "headword": "nhánh",
+   "base": "6ebd3fff57100ce3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "shoot (of a plant)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "branch (of a plant)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "branch (of an organisation, etc.)"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shining black; inky black"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dòng chảy",
+   "base": "7a803fd2e1515c36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "flow; current; stream"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Xô viết",
+   "base": "14ddbf19bc1863dd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "soviet (a workers' council)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ngày 20 và 21 tháng 4 năm 1917, dưới sự lãnh đạo của Đảng Bônsêvich, hàng chục vạn người Nga xuống đường biểu tình hòa bình với các khẩu hiệu: ‘Tất cả chính quyền về tay Xô Viết’^([sic])!, ‘Hòa bình, ruộng đất, bánh mỳ’!",
+     "en": "On 20 and 21 April 1917, under the Bolshevik Party's leadership, hundreds of thousands of Russians came down to the streets to peacefully protest with the slogans: ‘All Power to the Soviets!’ and ‘Peace, Land, and Bread!’"
+    },
+    {
+     "sense": 1,
+     "vi": "Trong các Xô viết, quần chúng nhân dân tự tổ chức, quản lý mọi mặt của đời sống xã hội và đó chính là những Xô viết đầu tiên trong lịch sử cách mạng Việt Nam – Xô viết Nghệ - Tĩnh.",
+     "en": "In the soviets, the people self-organized and managed all aspects of social life; and those were the first soviets in Vietnamese revolutionary history – the Nghệ-Tĩnh soviets."
+    }
+   ]
+  },
+  {
+   "headword": "thách đấu",
+   "base": "a4c4a3aa72fd8c57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to challenge to a fight/duel or competition"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thư thách đấu",
+     "en": "letter of challenge"
+    }
+   ]
+  },
+  {
+   "headword": "thái hậu",
+   "base": "ebc5d26c12d613eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "queen dowager, queen mother, empress dowager"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Stratagems of the Warring States; Vietnamese translation Nguyễn Hiến Lê & Giản Chi; English translation by Paul R. Goldin",
+     "en": "Queen Dowager Xuan of Qin loved Wei Choufu. When the Queen Dowager fell ill and was about to die, she issued an order, saying: “When I am buried, Master Wei must accompany me in death.”"
+    }
+   ]
+  },
+  {
+   "headword": "đổ nát",
+   "base": "cec1dc81949944d7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in ruins, devastated"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

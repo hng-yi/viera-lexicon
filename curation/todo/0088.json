@@ -1,0 +1,1602 @@
+{
+ "batch": "0088",
+ "entries": [
+  {
+   "headword": "chính nghĩa",
+   "base": "0b3d70a954ff8a93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "justice; righteousness"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "just; righteous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "man rợ",
+   "base": "2b00bb8fccdc665b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "barbaric; uncivilized; primitive"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cruel; brutal; inhumane"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phát ốm",
+   "base": "dabb28a24d3d8078",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Northern",
+      "usually"
+     ],
+     "gloss": "sick of; tired of"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Còn Lou Conein thì từ trước tới này, theo lời ông nói “phát ốm với mấy chính khách Việt Nam rồi”, ông cho rằng Lansdale chỉ là con người đơn thương độc mã lo tổ chức tuyển cử mà thôi.",
+     "en": "As for Lou Conein, he had long been—in his own words—‘sick of Vietnamese politicians,’ believing Lansdale was nothing more than a lone figure taking care of organizing the elections single-handedly."
+    },
+    {
+     "sense": 1,
+     "vi": "- Vì cũng như cậu, nó không để tôi được yên! Tôi chỉ răn đe nó thôi. Loại như nó, thật ra cũng nguy hiểm. Chẳng kém gì con bé đã chết! Nó khiến tôi phát ốm với cái trò phải tìm ra sự thật. Ai cân những sự thật vô nghĩa ấy?",
+     "en": "- Because, just like you, she wouldn’t leave me alone! I only meant to teach her a lesson. People like her are dangerous—no less than the girl who died! She’s been sickening me with this game of forcing me to dig up the truth. Who needs such pointless truths anyway?"
+    },
+    {
+     "sense": 1,
+     "vi": "“Sao tất cả những điều chị nói đều tiêu cực quá vậy?” Claire bẻ lại. Bởi vì cô đã tuyệt vọng vì cô đơn, đã phát ốm với vai trò cô em gái có một chị mất tích, một chị nghiện ngập, người cha tự tử, và lại còn là một cô gái đẹp quá mức cần thiết.",
+     "en": "“Why is everything you say so negative?” Claire shot back. Because she was desperate from loneliness, sick of playing the role of a sister to a missing sibling, an addict sister, a suicidal father, and a girl cursed with being far too beautiful for her own good."
+    }
+   ]
+  },
+  {
+   "headword": "mốt",
+   "base": "ee50e14421981706",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fashion; trend"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "day after tomorrow"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "future"
+     ],
+     "gloss": "future"
+    },
+    {
+     "position": 4,
+     "pos": "num",
+     "tags": [
+      "idiomatic",
+      "in-compounds"
+     ],
+     "gloss": "one; -one"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hợp mốt",
+     "en": "à la mode; fashionable"
+    },
+    {
+     "sense": 1,
+     "vi": "lỗi mốt",
+     "en": "out-of-fashion"
+    },
+    {
+     "sense": 3,
+     "vi": "Giờ mày không học thì mốt thi rớt đó nha",
+     "en": "Unless you study now, you will fail the exam in the future"
+    },
+    {
+     "sense": 4,
+     "vi": "Mốt hai mốt hai mốt hai mốt!",
+     "en": "One two one two one two one!"
+    },
+    {
+     "sense": 4,
+     "vi": "hai (mươi) mốt / hăm mốt",
+     "en": "twenty-one"
+    },
+    {
+     "sense": 4,
+     "vi": "một trăm mốt",
+     "en": "one hundred and ten (thousand dongs)"
+    },
+    {
+     "sense": 4,
+     "vi": "một triệu mốt",
+     "en": "one million one hundred thousand (dongs)"
+    }
+   ]
+  },
+  {
+   "headword": "lây lan",
+   "base": "25ae68a4b6c74c80",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "to spread"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chíp",
+   "base": "85f3d3d7938fbc4b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "chirp; peep"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai báo",
+   "base": "3d5ad5d52fe80665",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give an account of; to inform; to testify"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to declare"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đảo lộn",
+   "base": "751bc216d16dd68a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to turn over; to reverse; to upset"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giờ phút",
+   "base": "7bc9d9215e9abe1e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "hours and minutes"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively",
+      "literary"
+     ],
+     "gloss": "a moment"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "giờ phút trọng đại",
+     "en": "a momentous occasion"
+    }
+   ]
+  },
+  {
+   "headword": "trật",
+   "base": "cd4bf1acc5b0eaae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "missed"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "incorrect; inaccurate"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be dislocated"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "to fling away"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "trật khớp xương",
+     "en": "be out of joint"
+    },
+    {
+     "sense": 4,
+     "vi": "Ông trật khăn quẳng lên bàn, rồi nằm thẳng rẵng trên tràng kỷ.",
+     "en": "The old man flung his scarf away onto the table and lay still on the sofa."
+    }
+   ]
+  },
+  {
+   "headword": "sen",
+   "base": "2ceb858b54a3a924",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lotus"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "maidservant"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "humorous",
+      "slang"
+     ],
+     "gloss": "owner of cat or dog; hooman"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "siêu năng lực",
+   "base": "743901f32b068520",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "extrasensory perception"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "superpower"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "supernatural power"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiện nghi",
+   "base": "654812e4f1aa085c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "facilities; amenities"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "convenient; suitable"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hình sự",
+   "base": "56b438de45389ef8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "criminal"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "humorous"
+     ],
+     "gloss": "dead serious"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Làm lộ đề thi quốc gia có thể bị xử lý trách nhiệm hình sự.",
+     "en": "Getting national exams exposed could lead anyone to have a criminal execution."
+    }
+   ]
+  },
+  {
+   "headword": "trực giác",
+   "base": "bb72a31c54eb2196",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "intuition"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trực giác là giác quan thứ sáu.",
+     "en": "Intuition is the sixth sense."
+    }
+   ]
+  },
+  {
+   "headword": "biệt kích",
+   "base": "8a770d28731a0fc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a commando; special forces operative; elite soldier"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "special forces; special operations"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ambush; to surprise attack; to bushwhack"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi tàu chiến Mỹ và Oman tiếp cận, những biệt kích Iran lên một số tàu và rời đi.",
+     "en": "When the American and Omani battleships approached, the Iranian commandos boarded a number of ships and left."
+    }
+   ]
+  },
+  {
+   "headword": "huyền bí",
+   "base": "b79616a2c8137192",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mysterious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "san hô",
+   "base": "5463668184e0fa30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coral (colony)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "coral (substance)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyên ngành",
+   "base": "95173bcd3905e318",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specialty; specific discipline"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "specialized"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khan",
+   "base": "ccc68fff2b4fa2ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dried up; dry"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rare; scarce"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "anhydrous"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hoarse; husky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "canxi sunfat khan",
+     "en": "anhydrous calcium sulfate"
+    }
+   ]
+  },
+  {
+   "headword": "quấy",
+   "base": "00877d039858e313",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to stir"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "morally wrong"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ viết",
+   "base": "7a4d589e4a28c58a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "writing; script; written language"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chữ viết tay",
+     "en": "Handwriting"
+    },
+    {
+     "sense": 1,
+     "vi": "Hệ chữ viết",
+     "en": "Writing System"
+    }
+   ]
+  },
+  {
+   "headword": "gian",
+   "base": "4021bace5e8fb97c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "compartment, room"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "evil, wicked"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dishonest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "của gian",
+     "en": "riches obtained from morally dubious means"
+    }
+   ]
+  },
+  {
+   "headword": "giám mục",
+   "base": "4fdc9f86ac7ed0ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bishop"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đức giám mục",
+     "en": "the bishop"
+    }
+   ]
+  },
+  {
+   "headword": "nhẹ tay",
+   "base": "3ca13ec70b7c5c05",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to have a light touch"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to handle with care, to handle with kid gloves"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặc cả",
+   "base": "a8e5f6f4c344db77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to haggle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biến mất",
+   "base": "cb13e67e8eeca564",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disappear"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vượt trội",
+   "base": "ff9f5bb0ed59b69e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to surpass; to (far) exceed; to outperform"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "surpassing; remarkable; outperforming; outstanding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trống trải",
+   "base": "2712665c4586784a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "empty; deserted; desolate"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unhappy; cheerless; forlorn"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trùng khớp",
+   "base": "81d7f9575436539f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to match, to correspond"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Họ tên không trùng khớp với họ tên trên thẻ căn cước.",
+     "en": "The name does not match the name on the ID card."
+    },
+    {
+     "sense": 1,
+     "vi": "\"Điểm trùng khớp ớ đây chắc hẳn chính là việc lúc lâm chung cha anh ta đã không an bài sẵn con đường sau này cho anh ta rồi.\"",
+     "en": "\"The concurrence here is certainly the fact that, before passing away, his father had not set out his future for him.\""
+    }
+   ]
+  },
+  {
+   "headword": "sân chơi",
+   "base": "7012500dda067e41",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "playground; recreational area"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "playing field"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thóc",
+   "base": "05b4d1f94566d21c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paddy; unhusked rice"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "độc tài",
+   "base": "df9e90476fa7fea2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dictatorial"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "authoritarian"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a dictator"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhà độc tài",
+     "en": "dictator"
+    },
+    {
+     "sense": 2,
+     "vi": "Chính tính cách này tạo không gian và nền tảng cho các nhà nước độc tài phát triển.",
+     "en": "It is precisely this personality that creates the space and foundation for authoritarian states to develop."
+    }
+   ]
+  },
+  {
+   "headword": "sử",
+   "base": "135df1f40e4853e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "history"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "theo sử cũ",
+     "en": "according to old records"
+    }
+   ]
+  },
+  {
+   "headword": "chống trả",
+   "base": "711560952c0c857c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to fight back; to retaliate (against); to resist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổ hợp",
+   "base": "4b1f4504d790895a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a combination (act of combining)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a combination"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "informal"
+     ],
+     "gloss": "the number of combinations needed"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Số học sinh cần chọn là số tổ hợp chập 3 của 7.",
+     "en": "The number of students needed is the number of 3-combinations from 7 elements."
+    },
+    {
+     "sense": 3,
+     "vi": "Số học sinh cần chọn là tổ hợp chập 3 của 7.",
+     "en": "The number of students needed is the number of 3-combinations from 7 elements."
+    }
+   ]
+  },
+  {
+   "headword": "xoay xở",
+   "base": "a8604492359f49d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to manage (to do something); to fend for oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truy tố",
+   "base": "a72766dfee3b571b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sue; to prosecute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cải tiến",
+   "base": "ef1acd3e35017db8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to upgrade; innovate; improve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trọc",
+   "base": "6d70e12f44356e38",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bald (from shaving)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "barren"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đồi trọc",
+     "en": "barren hills"
+    }
+   ]
+  },
+  {
+   "headword": "đường mòn",
+   "base": "57bd1ccc4e64deb6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a path/footpath/trail/track"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đường mòn Hồ Chí Minh",
+     "en": "the Ho Chi Minh Trail"
+    }
+   ]
+  },
+  {
+   "headword": "bàn chải",
+   "base": "3e8e549fe84dde2d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a handheld brush for cleaning"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bàn chải (đánh răng)",
+     "en": "a toothbrush"
+    }
+   ]
+  },
+  {
+   "headword": "nhể",
+   "base": "7e109e95e7c0eec8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern",
+      "uncommon"
+     ],
+     "gloss": "to winkle out using a pick; to tweeze, extract"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nhể gai",
+     "en": "to tweeze out a thorn"
+    },
+    {
+     "sense": 1,
+     "vi": "nhể ốc",
+     "en": "to extract a screw"
+    }
+   ]
+  },
+  {
+   "headword": "khéo",
+   "base": "2e8fda09f5f3a239",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "skillful"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "strange; odd; ridiculous; laughable; difficult to understand"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khéo miệng",
+     "en": "having a way with words"
+    }
+   ]
+  },
+  {
+   "headword": "đặc",
+   "base": "3944ea1343323c8e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "solid"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thick, stiff"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "condensed"
+    },
+    {
+     "position": 4,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "purely"
+    },
+    {
+     "position": 5,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "completely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "nói đặc giọng Bắc",
+     "en": "to speak with a thick Northern accent"
+    },
+    {
+     "sense": 5,
+     "vi": "con xinh trai giống đặc bố",
+     "en": "a child so good-looking as his dad"
+    }
+   ]
+  },
+  {
+   "headword": "chân thật",
+   "base": "668cdea72d579223",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "honest; truthful; candid; frank"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "học phí",
+   "base": "8d4bc2b90159b3e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tuition fees"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sủa",
+   "base": "921b22fb2d5ca3a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to bark; to woof; to arf"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "to say; to tell"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Hắn sủa cái gì thế?",
+     "en": "What the fuck is he babbling about?"
+    }
+   ]
+  },
+  {
+   "headword": "ti",
+   "base": "1ce7124cbba31bcf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "department, division of a ministry"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "máy phát điện",
+   "base": "832945bf36fc2e96",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "generator (machine that converts mechanical energy into electrical energy)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhiễm độc",
+   "base": "0bd4401c113a048b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be contaminated (by a poison); to be poisoned"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng phạm",
+   "base": "6a03cb1c71248658",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "accomplice; joint offender"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cơ quan điều tra đang xác định các đối tượng đồng phạm trong vụ án.",
+     "en": "The investigative agency is identifying the accomplices in the case."
+    }
+   ]
+  },
+  {
+   "headword": "kiểm chứng",
+   "base": "2d554a9793216254",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to verify; to validate; to confirm the truth of"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chung quanh",
+   "base": "ef0b153bd4768568",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of xung quanh (“around; surrounding”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đế quốc",
+   "base": "b56591cd048fdd25",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an empire"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "historical",
+      "in-compounds"
+     ],
+     "gloss": "imperialists"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "bọn đế quốc",
+     "en": "imperialist dogs"
+    },
+    {
+     "sense": 2,
+     "vi": "đế quốc Mĩ",
+     "en": "American imperialists"
+    }
+   ]
+  },
+  {
+   "headword": "bậy bạ",
+   "base": "f33de815ff02e424",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mischievous"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to speak impolitely of another"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nói bậy nói bạ",
+     "en": "to speak objectionably"
+    }
+   ]
+  },
+  {
+   "headword": "bật lửa",
+   "base": "912a73e6f69c3358",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Northern"
+     ],
+     "gloss": "lighter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghiệp dư",
+   "base": "b1119263d9b972b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "amateur; non-professional"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xiên",
+   "base": "bf2f81959633b00b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fork"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "skewer"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to skewer, to impale"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "slanted, oblique"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "crooked, dishonest"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "cái xiên thịt",
+     "en": "a meat skewer"
+    },
+    {
+     "sense": 2,
+     "vi": "cầm xiên xiên cá",
+     "en": "to skewer a fish with a skewer"
+    },
+    {
+     "sense": 3,
+     "vi": "xiên thịt nướng chả",
+     "en": "to skewer meat and grill kabobs"
+    },
+    {
+     "sense": 4,
+     "vi": "chữ in xiên",
+     "en": "oblique characters"
+    },
+    {
+     "sense": 4,
+     "vi": "đường xiên",
+     "en": "slanted road; slanted line"
+    },
+    {
+     "sense": 4,
+     "vi": "Nắng chiếu xiên vào nhà.",
+     "en": "Sunlight enters the house at an angle."
+    },
+    {
+     "sense": 5,
+     "vi": "kẻ xiên",
+     "en": "a crook"
+    }
+   ]
+  },
+  {
+   "headword": "doanh nghiệp",
+   "base": "81348fb02eed9aae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a firm; enterprise; business"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội chứng",
+   "base": "f02559acad06f69c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a syndrome"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "hội chứng suy giảm miễn dịch mắc phải",
+     "en": "acquired immunodeficiency syndrome"
+    }
+   ]
+  },
+  {
+   "headword": "đấu vật",
+   "base": "26518f192354b386",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to wrestle"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wrestling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiêu khiển",
+   "base": "a93bb2bc2512f468",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to relax; to amuse oneself; to entertain oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụng sự",
+   "base": "c55a9eac85a04c36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to serve wholeheartedly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phẫn nộ",
+   "base": "2b5fe38070786387",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be indignant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ thân",
+   "base": "f6c918192730614a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "father"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhăn",
+   "base": "fa96ea245d5ec486",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "be wrinkled"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to frown"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grimace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thợ may",
+   "base": "61b4ad94ddebc401",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a person who makes clothes for a living, such as a dressmaker, tailor or seamster/seamstress"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngộ",
+   "base": "16789c1764282590",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "queer; quaint"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "sillily cute"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "dated",
+      "rare"
+     ],
+     "gloss": "to meet; to encounter"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "mad; rabid"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "hot-tempered"
+    },
+    {
+     "position": 6,
+     "pos": "pron",
+     "tags": [
+      "Southern",
+      "especially",
+      "humorous"
+     ],
+     "gloss": "I; me"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "enlightenment"
+    },
+    {
+     "position": 8,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to finally realize"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "kể cũng ngộ",
+     "en": "it's kinda funny that"
+    },
+    {
+     "sense": 6,
+     "vi": "Ngộ sẽ páo chù!",
+     "en": "I will have my revenge!"
+    },
+    {
+     "sense": 8,
+     "vi": "Rồi tôi cũng ngộ ra rằng...",
+     "en": "In the end, I did come to the realization that..."
+    }
+   ]
+  }
+ ]
+}

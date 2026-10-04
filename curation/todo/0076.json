@@ -1,0 +1,1480 @@
+{
+ "batch": "0076",
+ "entries": [
+  {
+   "headword": "phát âm",
+   "base": "4da46671dd83c9cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pronounce"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cách phát âm",
+     "en": "pronunciation"
+    }
+   ]
+  },
+  {
+   "headword": "bóng chày",
+   "base": "3838f1c46572e5b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "baseball"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tràn ngập",
+   "base": "54ccdc5b06b16318",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flood; to inundate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to be filled (with); to be overwhelmed (with); to permeate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chân dung",
+   "base": "ff8668e8f92c74a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "portrait"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm",
+   "base": "24ea6fedecc15539",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sound"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yin"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having \"yin\" characteristics, as in \"dark\", \"lunar\" or \"feminine\""
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "negative"
+     ],
+     "gloss": "negative"
+    },
+    {
+     "position": 5,
+     "pos": "prefix",
+     "tags": [
+      "morpheme"
+     ],
+     "gloss": "minus; negative"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "ngày âm",
+     "en": "a lunar day"
+    },
+    {
+     "sense": 4,
+     "vi": "điện âm",
+     "en": "negative charges"
+    },
+    {
+     "sense": 5,
+     "vi": "-10° (âm 10 độ)",
+     "en": "-10° (minus/negative 10 degrees [Celsius])"
+    }
+   ]
+  },
+  {
+   "headword": "bảo tồn",
+   "base": "bfc35763d021f6cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to preserve; to conserve"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bảo tồn bản sắc dân tộc",
+     "en": "to preserve unique identity of an ethnicity"
+    },
+    {
+     "sense": 1,
+     "vi": "bảo tồn thiên nhiên",
+     "en": "to preserve/conserve nature"
+    }
+   ]
+  },
+  {
+   "headword": "mắng",
+   "base": "375ac14d6c123cb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to listen, to hear"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to scold, to chide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cộng sản",
+   "base": "d65e82b811aa665e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "communist"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "informal"
+     ],
+     "gloss": "communists; commies"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bà con",
+   "base": "eb35d076b34d1244",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "relatives"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "collective",
+      "familiar"
+     ],
+     "gloss": "one's rural townspeople"
+    },
+    {
+     "position": 3,
+     "pos": "pron",
+     "tags": [
+      "familiar"
+     ],
+     "gloss": "y'all, my rural townspeople"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Trước hết tôi xin cám ơn bà con đã có mặt đầy đủ tại buổi họp thôn hôm nay.",
+     "en": "First, I would like to thank everyone for attending this town meeting."
+    }
+   ]
+  },
+  {
+   "headword": "văn bản",
+   "base": "a309b563eed8c305",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "written text; passage; document"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xuất",
+   "base": "1789857f78b34a33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to advance (money)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cồn",
+   "base": "d9774b62a9080874",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sand dune"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "sandy islet; cay"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mountain"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "North"
+     ],
+     "gloss": "graveyard; cemetery"
+    },
+    {
+     "position": 5,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to surge; to billow"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "synonym of cồn cào (“to be disturbed; to be uneasy”)"
+    },
+    {
+     "position": 7,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alcohol; ethanol (when used as a fuel, disinfectant or solvent)"
+    },
+    {
+     "position": 8,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "paste; gum"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trái phiếu",
+   "base": "a8e414ab272f4a7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a bond"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trái phiếu chuyển đổi",
+     "en": "convertible bonds"
+    }
+   ]
+  },
+  {
+   "headword": "ẩn nấp",
+   "base": "454dc17f52b7ec49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to take cover; to find shelter; to hide safely"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nói láo",
+   "base": "171231900008ee90",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lie; to tell a lie"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to talk nonsense"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bù đắp",
+   "base": "68e1c051ca29668c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make up for (something); to compensate for (something)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to help (someone) settle down"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "to repay"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thiên thạch",
+   "base": "bb51a38816d54f65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meteorite"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rượu vang",
+   "base": "75a16feead47470d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "grape wine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quân phục",
+   "base": "d52489c9ed2256d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "military uniform"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tự xưng",
+   "base": "055a8597d6bbd121",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call oneself; to proclaim oneself as; to give oneself the title of (esp. a false title)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to give oneself a position"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân cách",
+   "base": "b996c88e3320c5b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "human dignity"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "personality"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mất nhân cách",
+     "en": "having no dignity"
+    },
+    {
+     "sense": 2,
+     "vi": "rối loạn đa nhân cách",
+     "en": "multiple personality disorder"
+    }
+   ]
+  },
+  {
+   "headword": "tắc",
+   "base": "43d2f32ae0e1aa0f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "calamansi"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be blocked; to be obstructed"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to click (one's tongue)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tắc muối ớt",
+     "en": "spicy salted calamansi"
+    },
+    {
+     "sense": 1,
+     "vi": "trà tắc",
+     "en": "calamansi tea"
+    },
+    {
+     "sense": 2,
+     "vi": "tắc ruột",
+     "en": "intestinal obstruction"
+    },
+    {
+     "sense": 2,
+     "vi": "thuyên tắc phổi",
+     "en": "pulmonary embolism"
+    },
+    {
+     "sense": 2,
+     "vi": "tắc đường",
+     "en": "traffic jam"
+    }
+   ]
+  },
+  {
+   "headword": "quan chức",
+   "base": "f56d6746e61492e5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an official"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cố định",
+   "base": "d8477a8a1e06fb54",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "fixed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make fixed or stable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Nẹp có công dụng cố định phần xương bị gãy vào một khuôn khổ cho phép.",
+     "en": "Splint is for making broken bones attached to its permitted frame."
+    }
+   ]
+  },
+  {
+   "headword": "cam đoan",
+   "base": "2836f510699db89a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to assure; to guarantee; to pledge"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thứ tự",
+   "base": "cb86a9c861e716f7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "order; sequence"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "số thứ tự",
+     "en": "ordinal number"
+    }
+   ]
+  },
+  {
+   "headword": "ảo",
+   "base": "811dc8eece6d854a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "imaginary"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "virtual"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "virtual"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "visually cool"
+    },
+    {
+     "position": 5,
+     "pos": "adj",
+     "tags": [
+      "slang"
+     ],
+     "gloss": "unreal, unbelievable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "đơn vị ảo",
+     "en": "an imaginary unit"
+    },
+    {
+     "sense": 2,
+     "vi": "ảnh ảo",
+     "en": "a virtual image"
+    },
+    {
+     "sense": 2,
+     "vi": "ảo ảnh",
+     "en": "a mirage"
+    },
+    {
+     "sense": 3,
+     "vi": "thế giới ảo",
+     "en": "a virtual world"
+    },
+    {
+     "sense": 3,
+     "vi": "sống ảo",
+     "en": "to live in a virtual world"
+    },
+    {
+     "sense": 4,
+     "vi": "Hình xăm đó nhìn ảo thật!",
+     "en": "That is one cool tattoo!"
+    }
+   ]
+  },
+  {
+   "headword": "phản kháng",
+   "base": "5dacbd34089ae74d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to put up resistance; to resist"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "men",
+   "base": "99896ba7ea8cc951",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "yeast"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "enzyme"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alcohol (in terms of its euphorigenic or intoxicating effects)"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "enamel"
+    },
+    {
+     "position": 5,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glaze"
+    },
+    {
+     "position": 6,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to approach, to go along"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "niêm phong",
+   "base": "e1c630b7a72dce08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seal up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sạc",
+   "base": "21f87ee2afff0311",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to charge or recharge with electricity"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to scold"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sạc pin/điện thoại",
+     "en": "to charge a battery/phone"
+    },
+    {
+     "sense": 1,
+     "vi": "cục sạc",
+     "en": "a charger or AC adapter"
+    },
+    {
+     "sense": 1,
+     "vi": "Cho tao mượn cục sạc nha.",
+     "en": "Can I use your adapter?"
+    }
+   ]
+  },
+  {
+   "headword": "khen ngợi",
+   "base": "f1b837e13f2fb762",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to praise, to laud"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhiều nhà phê bình khen ngợi bộ phim.",
+     "en": "Many critics praised the film."
+    }
+   ]
+  },
+  {
+   "headword": "phắn",
+   "base": "f460b90f5341c324",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "colloquial",
+      "offensive"
+     ],
+     "gloss": "get lost!"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial",
+      "offensive"
+     ],
+     "gloss": "to leave one alone or go away"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Tao đã bảo mày đi chơi cơ mà? Phắn đi chỗ khác!",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "chạy đua",
+   "base": "00de88026c070d7e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to race, vie, compete"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bỏng",
+   "base": "6879511bc70a8d73",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "burnt; scalded"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "burn"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "puffed grain"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "bỏng ngô",
+     "en": "popcorn"
+    }
+   ]
+  },
+  {
+   "headword": "lằn",
+   "base": "3eee8c7edd6cf0eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "lizard"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fold, wrinkle"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "welt, wheal"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "nổi lằn",
+     "en": "to welt up"
+    },
+    {
+     "sense": 3,
+     "vi": "đánh nổi lằn",
+     "en": "to welt"
+    }
+   ]
+  },
+  {
+   "headword": "hương vị",
+   "base": "450e10e8bf72d2af",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "aromatic flavour"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vả lại",
+   "base": "1eeb1b63cdfb8741",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "conj",
+     "tags": [],
+     "gloss": "besides; moreover; furthermore"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Vả lại, mẹ thường bảo chúng tôi rằng: “Phải như thế, để các con biết kiếm ăn một mình cho quen đi. […]”",
+     "en": "Besides, my mother used to tell her children, “It's good for you to learn to fly with your own wings. […]”"
+    }
+   ]
+  },
+  {
+   "headword": "ki",
+   "base": "b478580dad32d4a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pin"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "colloquial",
+      "euphemistic"
+     ],
+     "gloss": "dog (animal)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "common Vietnamese name for dogs"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a dustpan"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ngu như ki",
+     "en": "stupid like a dog"
+    }
+   ]
+  },
+  {
+   "headword": "bóng rổ",
+   "base": "bac6986277f6a846",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "basketball"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bức xạ",
+   "base": "b2893f7deffbec2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "radiation, irradiation or irradiance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bức xạ mặt trời",
+     "en": "solar irradiance"
+    }
+   ]
+  },
+  {
+   "headword": "dáng",
+   "base": "7bb4f40a8c7cec17",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an appearance; figure; semblance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "li dị",
+   "base": "eb00a6eed6ec02a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to divorce"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tương đối",
+   "base": "23dff38faeeb3b4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "relative, somewhat"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "relatively"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cổ phần",
+   "base": "f3d85ab5b2e271c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "equity (ownership, especially in terms of net monetary value of some business)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "công ti cổ phần",
+     "en": "joint-stock company"
+    }
+   ]
+  },
+  {
+   "headword": "thăng bằng",
+   "base": "25e53a20ca8d8385",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "balance; equilibrium; equipoise"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to balance"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "giữ thăng bằng trên dây",
+     "en": "to maintain balance on a rope"
+    }
+   ]
+  },
+  {
+   "headword": "đốm",
+   "base": "85b6decdb5c006b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spot"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "spotted"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất khả thi",
+   "base": "bd7b85f9a1f74a6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "impracticable; unrealizable; infeasible; impossible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "suôn sẻ",
+   "base": "65e607607bcf71c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smooth (without problem or difficulty)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chỉ mong sao mọi thứ cứ suôn sẻ mà sống thôi.",
+     "en": "Hoping my life will go on without any trouble."
+    }
+   ]
+  },
+  {
+   "headword": "từ biệt",
+   "base": "99d2d0b05591a04f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "to part; to farewell"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thời cơ",
+   "base": "d33e345c0c887c88",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "opportunity (for doing something); chance"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rìa",
+   "base": "0129bc83a5bd39d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the outer edge; border; fringe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vận mệnh",
+   "base": "77607f011de936c6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "fate"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vận mệnh dân tộc",
+     "en": "the fate of our nation"
+    }
+   ]
+  },
+  {
+   "headword": "ngó",
+   "base": "fe4bd5a5dd27e616",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "to take a peek; to have a quick look"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "to see, to look at"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "newly sprang bud (of lotus or water-taro)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiếp diễn",
+   "base": "5f8165f208af8c7a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go on; to continue"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "continuous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xì trum",
+   "base": "cc5b43f08ec4e80b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smurf"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tĩnh mạch",
+   "base": "2e0a6391eefb54e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a vein (blood vessel transporting blood towards the heart)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thập tự",
+   "base": "dea561eb30eac47c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of chữ thập (“the Chinese character 十 (shí)”)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of chữ thập (“a cross”) (geometrical figure)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chữ cái",
+   "base": "367e45995bbd25cd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a letter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chuyển đổi",
+   "base": "534cc039e6adc9ef",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to change; to shift; to convert; to exchange"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ướp",
+   "base": "a4aa4c6103e97342",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to salt meat or fish with salt or nước mắm, or to further spice them up with other spices or condiments"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to embalm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bộ lạc",
+   "base": "14fb48ef84d6134e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tribe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trị",
+   "base": "82822f9c9ad96ab7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat medically; to cure"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suppress; to quell; to counter"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to punish; to chastise"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to rule, to govern"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 4,
+     "vi": "thuật trị nước",
+     "en": "the art of governing a country"
+    }
+   ]
+  },
+  {
+   "headword": "vô vọng",
+   "base": "b0484a605717698c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hopeless; desperate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "long",
+   "base": "4d1fa7a175a0242c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "loose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "răng long",
+     "en": "loose tooth"
+    }
+   ]
+  },
+  {
+   "headword": "cắt cổ",
+   "base": "718b61a9f55833a9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "usurious; exorbitant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đột quỵ",
+   "base": "6e21f8cc6b1edac9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "stroke"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nguy cơ này sẽ cao với những người gặp các vấn đề sau: Từng tắc nghẽn động mạch, huyết áp cao, mức cholesterol cao, từng bị đau tim hay đột quỵ, đau ngực, tiểu đường.",
+     "en": "The risk is high for people with the following problems: previous history of arterial blockage, hypertension, hypercholesterolaemia, past history of heart attack or stroke, chest pain, and diabetes."
+    }
+   ]
+  }
+ ]
+}

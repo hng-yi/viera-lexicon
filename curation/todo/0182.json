@@ -1,0 +1,1376 @@
+{
+ "batch": "0182",
+ "entries": [
+  {
+   "headword": "răng hàm",
+   "base": "78c5f97f6985afbe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a molar (back tooth)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bao lơn",
+   "base": "30c66f13a1e91335",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "balcony"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhai lại",
+   "base": "374f3c411e05c90f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to chew again"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ruminate"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "to bring up old topics again for unwanted discussion"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "động vật/loài nhai lại",
+     "en": "a ruminant"
+    },
+    {
+     "sense": 3,
+     "vi": "Chuyện cũ cứ nhai đi nhai lại hoài !",
+     "en": "Enough with all this stuff already!"
+    }
+   ]
+  },
+  {
+   "headword": "trạng nguyên",
+   "base": "debf4e0f16beb4b2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a zhuangyuan (person who achieves the highest score in the imperial exam)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cau mày",
+   "base": "dccb69a71161c6d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to frown; scowl"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to furrow one's eyebrows"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xống",
+   "base": "18f042e907afb1ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "skirt"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chị em nông dân, lao động mặc xống, một thứ váy ngắn vừa che kín bằng đầu gối may bằng vải nhuộm thâm nhúng bùn, hoặc nhuộm nâu.",
+     "en": "Female farmers and workers wear xống, a kind of skirt that provides coverage down to the knees, often made of mud-coloured or brown dyed fabric."
+    }
+   ]
+  },
+  {
+   "headword": "nhạt thếch",
+   "base": "3193080b413ec054",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "very bland, extremely tasteless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lếch thếch",
+   "base": "7a13b55c8257a5c1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "shabby, disheveled; pitiful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chụm",
+   "base": "1394a3e6b3444b36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather; to assemble"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "to put into the fire"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Bỏ thêm củi vô chụm cho nước mau sôi coi.",
+     "en": "Let's put more wood into the fire so that the water boils more quickly."
+    }
+   ]
+  },
+  {
+   "headword": "tráng sĩ",
+   "base": "ae582840c825bcd7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "heroic person; warrior"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sông băng",
+   "base": "abb578999910a6e3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glacier"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vị hôn thê",
+   "base": "1013866c7a63504f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "a fiancée"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phẳng lì",
+   "base": "48f04f7be79e8235",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "completely flat"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bụng phẳng lì",
+     "en": "flat abs"
+    },
+    {
+     "sense": 1,
+     "vi": "Khúc tiêu này mô phỏng biển cả mênh mông, vạn dặm phẳng lì,[…]",
+     "en": "This flute melody imitated the wide seas, smooth for thousands of miles, […]"
+    }
+   ]
+  },
+  {
+   "headword": "rau thơm",
+   "base": "f02ef8489d2ab3c8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mint (often used in cooking)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "herb (used in cooking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giẫm đạp",
+   "base": "0a00d09347d23566",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to step (on), to trample (on)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vụ giẫm đạp",
+     "en": "stampede"
+    }
+   ]
+  },
+  {
+   "headword": "vứt bỏ",
+   "base": "4e06159175a0c786",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to throw away; to discard"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vứt bỏ thành kiến",
+     "en": "to abandon one's prejudice"
+    }
+   ]
+  },
+  {
+   "headword": "bộ hạ",
+   "base": "1161bc169d61bc4d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "subordinate; inferior"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phụ gia",
+   "base": "72d8ca04d11a7a61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "additive; condiment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thấm thía",
+   "base": "296e08ec7c22bdaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "piercing; penetrating; poignant; sincere; pervasive"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "synonym of thấm tháp (“sufficient”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đìa",
+   "base": "92bf8df5e86ff5a4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a pond (in the field)"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "numerous; over head and ears (in debt)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nướu",
+   "base": "1ad905b395781b5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gum (the flesh around the teeth)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lôgic",
+   "base": "d15d03ed6bf4b0a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "logic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "truyền đạo",
+   "base": "7df8f2d168a3118b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to preach; to tell someone to spread one's religion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phả hệ",
+   "base": "10537cddf6dfa7e7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pedigree, genealogy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lịch sử các lần in của ĐVSKTT và phả hệ của dị bản ĐVSKTT.",
+     "en": "History of [Đại Việt Sử ký Toàn thư] printings and genealogy of its variants."
+    }
+   ]
+  },
+  {
+   "headword": "bàu",
+   "base": "140415ce9ce8f98c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "pond, pool"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tinh thành",
+   "base": "455940efe6504d61",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary",
+      "uncommon"
+     ],
+     "gloss": "respectful heart"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dặt",
+   "base": "1f76a3a68cd9b633",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [
+      "in-compounds",
+      "uncommon"
+     ],
+     "gloss": "one"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gently press down and insert into"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "dặt thuốc lào",
+     "en": "to put tobacco (into a pipe)"
+    }
+   ]
+  },
+  {
+   "headword": "quy tụ",
+   "base": "0e18c490c26eb020",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to collect or gather in one place"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khóm",
+   "base": "4917746e4cdc4db3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bush, clump (of trees)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the “Queen” cultivar of the pineapple"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "broadly",
+      "proscribed"
+     ],
+     "gloss": "pineapple"
+    },
+    {
+     "position": 4,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a neighborhood"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thấu cảm",
+   "base": "b8046b688ec736d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to empathize and understand at a deep level"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bao bì",
+   "base": "290da2a72c693f68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "packaging"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bao bì đẹp mắt",
+     "en": "eye-catching packaging"
+    }
+   ]
+  },
+  {
+   "headword": "thụ tạo",
+   "base": "bf2a7091c854de36",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "everything or anything created with the might of God"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thu dung",
+   "base": "7d97c328d0fe53d2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to receive, to welcome, to entertain"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "núi rừng",
+   "base": "36e74cf44efefd83",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "mountains and forests"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trảng",
+   "base": "ec77e3e0ccc86c57",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "glade (a grassy open or cleared space in a forest)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm thân",
+   "base": "5fbfeac50cc9c170",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to make friends"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rặt",
+   "base": "3867b5061138b072",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "only; nothing but; purely; entirely"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Người chỉ còn rặt những xương.",
+     "en": "The person was reduced to nothing but bones (i.e. extremely skinny)."
+    }
+   ]
+  },
+  {
+   "headword": "mọi vật",
+   "base": "c50d7c7d19d029c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "all things tangible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "răn đe",
+   "base": "fd4c4f9009be1c65",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to deter"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huơ",
+   "base": "f6690d4bab1b2fa1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to brandish, to swing around"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cạn chén",
+   "base": "9f462118a4ea34aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to down a cup of an alcoholic drink"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "let's down our (alcoholic) drinks"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rắp tâm",
+   "base": "86f65cc23c8146c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "conspire"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Có người rắp tâm liều chết ở đó, nên uống rượu thật say, đến chỗ trũng nằm xuống, y đúng theo hướng, nhất định đợi giờ tạ thế.",
+     "en": "There was a man who conspired to commit suicide there, that is, to get extremely drunk and lie in marsh-like ground, and with determination in the plan, awaiting for his death."
+    }
+   ]
+  },
+  {
+   "headword": "quang hợp",
+   "base": "439581907f8998c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "photosynthesis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hít thở",
+   "base": "145b6cc55dcdcd26",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to breathe (generally speaking)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xảo ngôn",
+   "base": "a831f9fb980380ba",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "smooth talk; cunning speech; clever but deceptive talk (such as flattery)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ảm",
+   "base": "59c5920bb5128607",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "(of an odor) to cling to, to get into (clothing etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mùi thuốc lá đã ảm vào quần áo.",
+     "en": "The stench of cigarette smoke has clung to the clothes."
+    },
+    {
+     "sense": 1,
+     "vi": "Món thứ tư thì mời quý khách thưởng thức bằng mắt trước: thịt nai ướp các loại gia vị đặc biệt, phải ướp đủ hai tiếng đồng hồ, nướng xèo xèo trên hỏa lò than đước rừng U Minh, nướng ở bàn bên cạnh, không làm nóng và khói không ảm vào tóc tai quần áo quý khách!",
+     "en": "The fourth dish we invite you, our guests, to feast with your eyes first: venison marinated with special spices, marinated for two whole hours, sizzling on a charcoal fire in the U Minh forest, grilled at the table to the side to avoid making you hot and to keep the smoke from getting into your clothes!"
+    },
+    {
+     "sense": 1,
+     "vi": "Bên xứ Mỹ nhà cao cửa rộng, máy lạnh máy nóng thổi ì ì mà nấu ba cái mắm thối cho nó ảm vào quần áo, vào thảm, vào màn cửa thì chịu sao cho nổi…",
+     "en": "In America the houses are spacious, with air conditioning and heating humming and whirring, but to cook three different kinds of stinking fish sauce that gets into your clothes, the carpet, the curtains – how can you stand it…"
+    }
+   ]
+  },
+  {
+   "headword": "đại trượng phu",
+   "base": "dadf03001ddb10b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "archaic"
+     ],
+     "gloss": "a virtuous, ambitious, admirable man"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nam tử hán đại trượng phu",
+     "en": "a great man"
+    },
+    {
+     "sense": 1,
+     "vi": "nam nhi đại trượng phu, đầu đội trời, chân đạp đất",
+     "en": "a great man who carries the sky with his feet firm on the ground"
+    }
+   ]
+  },
+  {
+   "headword": "bưng bít",
+   "base": "fdbe433052f6fdc0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to conceal; cover; seal"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to suppress; muzzle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đinh vít",
+   "base": "a9419cba7948f285",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of vít (“screw”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "làm cỏ",
+   "base": "4aa79465b796fcbb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to weed"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to massacre, to ransack, to exterminate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thăng hoa",
+   "base": "06836e3907fae04d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to triumph; to prevail"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to sublimate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đá quý",
+   "base": "c09fc1a9aae48fa6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "gemstone, precious stone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vàng bạc đá quý",
+     "en": "goldware, silverware and gemstones"
+    }
+   ]
+  },
+  {
+   "headword": "biến thiên",
+   "base": "df66fe5b83f2b07a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vary; to change in value"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "variation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hoạt cảnh",
+   "base": "44ccc967723c789a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "theatrical vignette of educational character, often about a historical event, the origins of some institution, and the like"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhấp nhô",
+   "base": "8cba3733085d74f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "bobbling up and down"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "beo",
+   "base": "4fde3f8b5765aa30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "leopard, jaguar or cheetah"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "scraggy, scrawny"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nông phu",
+   "base": "daef55dd541d0578",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "peasant, farmer"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phi thân",
+   "base": "a654cb4697bbf9f9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "incredibly fast, as if flying"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chỉ thấy y chống mạnh chiếc nạng bên tay trái xuống đất một cái, thịch một tiếng lập tức phi thân vọt tới núp sau thân cây, quả thật công phu khinh công cực kỳ cao minh.",
+     "en": "They only saw him beat the crutch in his left hand down on the ground with a thump and with great speed he jumped behind a tree trunk; his light-body skill was indeed of the highest level."
+    }
+   ]
+  },
+  {
+   "headword": "tiêu pha",
+   "base": "3d50c79c8e2e0c23",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to spend; to expend; to consume"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bình phẩm",
+   "base": "e4076ba345d3ec0d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to criticize; to judge; to evaluate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đàm",
+   "base": "b4d5b6735f99125a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of đờm (“phlegm; sputum”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to talk; to discuss; to negotiate"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bội tín",
+   "base": "75d49c22af5909e4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to abuse of someone's trust, to commit a breach of faith, to cheat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nề nếp",
+   "base": "6ef0f09b33fbd6be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of nền nếp"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "synonym of nền nếp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bức xúc",
+   "base": "abcc9080b0138431",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "urgent; pressing"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương nghiệp",
+   "base": "32a88897f5ad6d78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "commerce; business; trade"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cỗ xe",
+   "base": "20df2654a5238c53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "carriage; wagon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "công ơn",
+   "base": "613db4b9bb249007",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "service; good turn; merit; desert"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đó chắc chắn là nhờ công ơn của ba và mẹ.",
+     "en": "I certainly owe gratitude to my parents."
+    }
+   ]
+  },
+  {
+   "headword": "ríu rít",
+   "base": "3022ec8cce56a672",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chirping, twittering"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chattering, chirping"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mật thư",
+   "base": "6884fcac137429b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "communiqué; paper of utmost confidentiality"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nháo nhào",
+   "base": "414051e7bc82c7e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "mixed up or chaotic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ống hút",
+   "base": "51d13fb4aca071c9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a drinking straw"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tang tóc",
+   "base": "6b5374ad45da6d8b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "mourning; mournful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bugi",
+   "base": "34ae34c85890f9e2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spark plug"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hớ hênh",
+   "base": "147bfd0c62d24cfc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "immodest, indiscreet"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "careless, unthinking"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "ăn mặc hớ hênh",
+     "en": "to dress immodestly"
+    },
+    {
+     "sense": 1,
+     "vi": "ngồi hớ hênh",
+     "en": "to sit in an exposing way"
+    },
+    {
+     "sense": 2,
+     "vi": "Một lời nói hớ hênh là có thể đã được đưa lên \"cõi mạng\" với những thêm pha khó lường.",
+     "en": "One careless remark is sometimes spread all over social media with unpredictable embellishments."
+    }
+   ]
+  },
+  {
+   "headword": "ngữ nghĩa",
+   "base": "c1f7fa1fb3047cad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "meaning (of a word, sentence); semantics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mã tấu",
+   "base": "c65391e8a6114c37",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "machete"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Xung quanh anh, lố nhố những tên lính Pháp, lính Việt mang súng, dùi cui, mã tấu.",
+     "en": "Around him milled French and Vietnamese soldiers carrying guns, clubs, and machetes."
+    }
+   ]
+  },
+  {
+   "headword": "đường chim bay",
+   "base": "487e7d6704a2e070",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "beeline; distance along the straight line between two geographical points on the map"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tu dưỡng",
+   "base": "d3a49d8c51f18ac4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to self-improve"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngân nga",
+   "base": "f377c0f444bf7822",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vibrate for an extended amount of time"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to vibrate to produce a sound for an extended amount of time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "ngân nga một bài hát",
+     "en": "to sing a song"
+    }
+   ]
+  },
+  {
+   "headword": "roi vọt",
+   "base": "fcdd427ba95ad58d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "cane, rod (used for beating); whipping, flogging"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

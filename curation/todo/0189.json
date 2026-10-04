@@ -1,0 +1,1412 @@
+{
+ "batch": "0189",
+ "entries": [
+  {
+   "headword": "sản khoa",
+   "base": "0cd41d2111981601",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "obstetrics"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dằng dặc",
+   "base": "9797aed5c7169ff8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "extremely long, seemly endless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phép toán",
+   "base": "ca7ac4f76c277ad9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "operation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chi li",
+   "base": "8007b638ea590a27",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "meticulous; particular; precise"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [
+      "broadly"
+     ],
+     "gloss": "parsimonious; stingy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngọc nữ",
+   "base": "4116828f01dc1060",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "bleeding glory-bower"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "uncommon"
+     ],
+     "gloss": "a beautiful girl or woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Phụ nữ mê hoặc người nhất không phải là ngọc nữ thuần khiết, cũng không phải người phụ nữ trưởng thành xinh đẹp, mà là quá trình từ ngọc nữ trở thành người phụ nữ trưởng thành trong tay anh.",
+     "en": "The most alluring women are neither pure maidens nor beautiful mature women, but the transition from maiden to mature in your arms."
+    }
+   ]
+  },
+  {
+   "headword": "bình quyền",
+   "base": "50fdf9773ebf9553",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "legally equal; equal in rights"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nước ối",
+   "base": "299a0c2aaa199a56",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amniotic fluid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "quyệt",
+   "base": "7d2b484247b414bc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "cunning, deceitful"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trà đá",
+   "base": "9a866771052091d5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "iced tea"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chủ nghĩa duy tâm",
+   "base": "8bd37164dddcfea6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "idealism"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Đông Á",
+   "base": "a647ce61f0f057a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "East Asian"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tòi",
+   "base": "706ddecec90380a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to stick out; to emerge"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be revealed, come to light; to leak out; to be forced out"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "từ dưới nước tòi đầu lên",
+     "en": "to poke one's head out from underwater"
+    },
+    {
+     "sense": 2,
+     "vi": "Nói mãi nó mới tòi ra mấy đồng.",
+     "en": "Only after much coaxing did he finally pull out a few coins."
+    }
+   ]
+  },
+  {
+   "headword": "nhong nhong",
+   "base": "53f1b605893348bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "a tinkling sound of a horse-harness bell"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to go or walk like a horse"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhong nhong ngựa ông đã về",
+     "en": "The man's horse has returned"
+    }
+   ]
+  },
+  {
+   "headword": "công ước",
+   "base": "bdafc479a7bf886c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "convention; agreement"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lơi",
+   "base": "eca7a4d4f504adde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "lax, loose"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nguyên âm lơi",
+     "en": "lax vowel"
+    }
+   ]
+  },
+  {
+   "headword": "tác",
+   "base": "d15ff7fe1a0c9afe",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "age"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bạn tác",
+     "en": "friend(s) of or around the same age"
+    },
+    {
+     "sense": 1,
+     "vi": "Bạn tác dể duôi đà phải chịu",
+     "en": "My friends [around] my age scorn me, I've already had to accept that."
+    }
+   ]
+  },
+  {
+   "headword": "ba trợn",
+   "base": "e6439f8aa659bdf2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "rude; unruly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dishonest; insolent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồi trụy",
+   "base": "6833e1c58935d557",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of đồi truỵ."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bà ba",
+   "base": "9c9a1954ab63b399",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "áo bà ba (a traditional southern Vietnamese garment)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân nghĩa",
+   "base": "627b42bfdbdb5c84",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "benevolence and righteousness"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phế nang",
+   "base": "aee891dc430b254d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alveolar sac"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "alveolus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cờ tướng",
+   "base": "4e480f92f4d3ccfb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Chinese chess; xiangqi"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Korean chess; janggi"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Japanese chess; shogi"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xẩm",
+   "base": "8dbc089c8306d64b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dazzled; bleary-eyed"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "xẩm, a kind of folk music and/or performance art of Northern Vietnam"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "Chinese woman"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "chú chệt/chệch thím xẩm",
+     "en": "Chinese men and women"
+    }
+   ]
+  },
+  {
+   "headword": "nhọc",
+   "base": "a0c94f973d18c178",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tired, tiresome"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tháng năm",
+   "base": "182d9661f6cb28b3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "May"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ca nô",
+   "base": "28c750d9c001de5f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "speedboat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trầm tĩnh",
+   "base": "50f2d71fc8b74d77",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "quiet; calm; serene; placid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thết đãi",
+   "base": "393811185d160df6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat, to feast, to offer copious food and drinks"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Khi đem trà ra thết đãi bạn bè, nếu lỡ bị chê bai khiến ta buồn bã và thất vọng,[…]",
+     "en": "If our friends criticise us when we treat them to the tea and this saddens and disappoints us, […]"
+    }
+   ]
+  },
+  {
+   "headword": "ngây dại",
+   "base": "5f8a9dafb435ff6a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "naive"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inexperienced, unsophisticated"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "foolish, stupid, silly"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "inane (of face, smile)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "điện cực",
+   "base": "11b898fe5384276e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "electrode"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ủn ỉn",
+   "base": "a8bf329c728a51ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "oink oink"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "an hưởng",
+   "base": "054f9e9cff802261",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to live peacefully; to spend time peacefully"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to enjoy peacefully"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mơn man",
+   "base": "bcbbaf1d699793a5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to caress, to touch gently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nắng lên qua hàng cây, gió mơn man đùa, lả lơi đàn bướm.",
+     "en": "The sun shines through the trees, the wind playfully caresses, the butterflies drift."
+    },
+    {
+     "sense": 1,
+     "vi": "Gió cao nguyên mơn man trên đồi cỏ, đôi khi gió ve vuốt hơi mạnh tay làm lũ cỏ xanh cao ngang nửa thân người xô rạp xuống, rồi lại bật thẳng lên tha thướt, mềm dẻo […]",
+     "en": "The highland breeze caressed the hills, occasionally growing stronger and causing the waist-high green grasses to bow down before gracefully springing back up, […]"
+    }
+   ]
+  },
+  {
+   "headword": "hảo ngọt",
+   "base": "2f94b32c9db723d3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "sweet-toothed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Si La",
+   "base": "2e419510e8df3b69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Si La, an ethnic group of Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chững",
+   "base": "ec10975744003c42",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to briefly halt; to miss a beat (to momentarily falter)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lặp lại",
+   "base": "9c5b9e915d1b710d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "repeat; redo; reiterate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "restore; remake"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Để lập lại trật tự...",
+     "en": "In order to restore order..."
+    }
+   ]
+  },
+  {
+   "headword": "mí",
+   "base": "e6d41b3f4c0e6fc9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eyelid"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nạo vét",
+   "base": "03181bb05600ed78",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to dredge (a channel for navigation)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tiêu bản",
+   "base": "eab87eb33e348ab8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specimen, biospecimen"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "specimen, sample"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cố hương",
+   "base": "2a0f027591cb6390",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "hometown; birthplace"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xuất đầu lộ diện",
+   "base": "e57bb83d74538de3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to show up; to present"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Bởi nền chính trị tốt đẹp của Nhà nước không có hiền tài ắt không thể xây dựng được, mà kẻ sĩ hào kiệt thì lại phải do khoa cử mới xuất đầu lộ diện.",
+     "en": "The State's fine political foundation wouldn't stand firm but for the involvement of elite individuals and renowned scholars wouldn't present but for the selection of public servants."
+    }
+   ]
+  },
+  {
+   "headword": "giáng trần",
+   "base": "f644fd58c3582bb2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be born, as if descending from the Heaven"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tiên nga giáng trần",
+     "en": "a heaven-like beauty"
+    }
+   ]
+  },
+  {
+   "headword": "ngấn",
+   "base": "0808a270b52d65a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "welt, wheal"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kute",
+   "base": "f4aa944c945bf676",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Internet",
+      "humorous"
+     ],
+     "gloss": "cute"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hời hợt",
+   "base": "485e3b68fa73afc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "perfunctory"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chừ",
+   "base": "93a7796a76cec934",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Central"
+     ],
+     "gloss": "now"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "coi bói",
+   "base": "898138710496fdea",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to consult a fortune-teller; to have one's fortune told"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầm quân",
+   "base": "c8e8dd206371fe02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to command troops"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đen kịt",
+   "base": "86d2468603e478b6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "jet-black"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tép riu",
+   "base": "b6cba564531ed6db",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Caridina flavilineata, a species of small shrimp"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "colloquial"
+     ],
+     "gloss": "an unimportant thing; a trivial thing"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "broadly",
+      "colloquial",
+      "derogatory"
+     ],
+     "gloss": "a weakling; a nobody"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 3,
+     "vi": "Thằng đó chỉ là tép riu.",
+     "en": "He's naught but a weakling."
+    }
+   ]
+  },
+  {
+   "headword": "nhan nhản",
+   "base": "290a110d0f8f5ebc",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abundant and all over"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhan nhản trên khắp các báo đài, người ta luôn đặc biệt quan tâm đến cách \"yêu\" như thế nào để cho đôi bên được thỏa mãn.",
+     "en": "All over the media, people always have a special interest in how to \"love\" so as to satisfy both partners."
+    }
+   ]
+  },
+  {
+   "headword": "đào vong",
+   "base": "63b0cd7cbc789878",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to flee; to go in exile"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngất ngây",
+   "base": "81b32efd927c6a6d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "ecstatic; thrilled; enraptured"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tột",
+   "base": "0e10320dee1e3334",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "to the highest degree; extremely; utterly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chua ngoa",
+   "base": "44deac5954077410",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "usually"
+     ],
+     "gloss": "sharp-tongued; caustic; talkative and talking in hyperbole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phương ngữ",
+   "base": "77432dbe91d36a97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "topolect; dialect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nội khoa",
+   "base": "a992f84526faea93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "internal medicine"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tài phiệt",
+   "base": "c818eec6d15b7e8f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "derogatory",
+      "often"
+     ],
+     "gloss": "A person who uses their wealth to wield power in a capitalist country; a plutocrat"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "zaibatsu (a large business conglomerate founded under the Empire of Japan, generally controlled by a single family or individual)"
+    },
+    {
+     "position": 3,
+     "pos": "noun",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "chaebol (a large, family-controlled, South Korean business conglomerate)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tài phiệt Nga",
+     "en": "Russian oligarchs"
+    },
+    {
+     "sense": 1,
+     "vi": "Đầu những năm 1990, nước Nga tư nhân hóa ồ ạt hệ thống DNNN của mình và hậu quả là huyết mạch nền kinh tế quốc dân hiện nay rơi vào tay một số nhà tài phiệt - những người có khuynh hướng cản trở việc thực thi pháp luật. [...]",
+     "en": "In the early 1990s, Russia significantly privatized its SOEs and as a result, critical sectors [lit. \"lifeblood\"] of the national economy now fall into the hands of a few oligarchs - those who are inclined to obstruct law enforcement. …"
+    }
+   ]
+  },
+  {
+   "headword": "chia buồn",
+   "base": "1609aa789e5113cf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to offer condolences to someone"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "intransitive"
+     ],
+     "gloss": "to console someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lời chia buồn",
+     "en": "condolences"
+    },
+    {
+     "sense": 1,
+     "vi": "ngỏ lời chia buồn với ai",
+     "en": "to present one's condolences to somebody"
+    }
+   ]
+  },
+  {
+   "headword": "tự cung tự cấp",
+   "base": "3074c2f6998051ab",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be self-sufficient"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "múp",
+   "base": "c8e1214076559e08",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "buxom; fat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bút kí",
+   "base": "a5c30112353cdb53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "memoir"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "moa",
+   "base": "1fdc817ab1945135",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "humorous",
+      "obsolete",
+      "sometimes"
+     ],
+     "gloss": "I; me"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "danh từ",
+   "base": "81eb77c12f9bc6ec",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a noun (grammatical category)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "term"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "danh từ chỉ đơn vị",
+     "en": "classifier, counter, measure word"
+    },
+    {
+     "sense": 2,
+     "vi": "danh từ kỹ thuật",
+     "en": "technical term"
+    }
+   ]
+  },
+  {
+   "headword": "chênh",
+   "base": "813b3dad9bad0f69",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "tilted; slanting"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "unequal; of different levels"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dao nhíp",
+   "base": "79896b19d2174dc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "penknife"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tơ tưởng",
+   "base": "456e35ba13af225b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to constantly think of (something one desires); to long for; to daydream; to muse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ròng ròng",
+   "base": "4a54a02ca8a234a6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to flow uninterruptedly (of river, streams)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to pour out"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tầm tã",
+   "base": "47e3ec9436260342",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "phrase",
+     "tags": [],
+     "gloss": "pouring"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cô nương",
+   "base": "73e27f13efad8447",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Chinese",
+      "polite"
+     ],
+     "gloss": "a young girl or woman"
+    },
+    {
+     "position": 2,
+     "pos": "pron",
+     "tags": [
+      "polite"
+     ],
+     "gloss": "you, young lady"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gió giật",
+   "base": "6ddc084cafcd85be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "windgust; gust"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắp thịt",
+   "base": "d2fc444916c88845",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muscles, esp. with a well-defined bulge in the middle and thin toned sections at the ends"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "yểu điệu",
+   "base": "bf1ddf61f048e9b0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "graceful, lithe"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bấu víu",
+   "base": "e2327f430bd11c6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to catch hold of; to cling on"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to rely on (in times of distress); to turn to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cúng tế",
+   "base": "e7bd33e4cece9357",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to worship and offer sacrifices to"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a sacrifice ritual"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngõ hẻm",
+   "base": "5f15f86b9fcff90b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "small alley; bystreet"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rốp rẻng",
+   "base": "8b4d631eaa313bbf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "quickly; promptly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tra hỏi",
+   "base": "f8617d41daf68d18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to interrogate; to question"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xướng",
+   "base": "1691764da3c5cc5b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to call out (names)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to initiate; to be first to advance"
+    },
+    {
+     "position": 3,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to read aloud clearly"
+    },
+    {
+     "position": 4,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to sing"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

@@ -1,0 +1,1372 @@
+{
+ "batch": "0177",
+ "entries": [
+  {
+   "headword": "nghị trường",
+   "base": "9ff591d3d027c6b1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "parliament"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đồng dạng",
+   "base": "356c8f27a816d6e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "similar"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "á hậu",
+   "base": "23c1a82177c20446",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "neologism"
+     ],
+     "gloss": "a runner-up"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "este",
+   "base": "3ea37da3144c2d7c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an ester"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "niêm",
+   "base": "566089d811dbaeb5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds",
+      "rare"
+     ],
+     "gloss": "to seal up"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dated"
+     ],
+     "gloss": "postage stamp"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xáo",
+   "base": "0cfdff7b79c20758",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mix up (mix or blend thoroughly and completely)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòi vĩnh",
+   "base": "d3dad9a3ade696d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "ambitransitive"
+     ],
+     "gloss": "to importune someone"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Lục Tiểu Phụng phát giác ra một điều làm cho chàng cao hứng. Chàng thích Tiết Băng nhõng nhẽo. Chàng muốn thị vòi vĩnh, vòi vĩnh như một đứa con nít bướng bỉnh.",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "vẹn",
+   "base": "04ac7e8bf6b92383",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to keep (one's promise); to be true to"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be complete; to be intact; to be whole"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phòng mạch",
+   "base": "0204edb4927aec45",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "synonym of phòng khám (“clinic”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bắp chân",
+   "base": "b9b8c86d00989af2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a calf (lower segment of the leg which contains the gastrocnemius)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thon thả",
+   "base": "ee4eb42cd5e78205",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "thin; slender"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thước kẻ",
+   "base": "987110e3e500e1da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "ruler (measuring device)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghềnh",
+   "base": "9e71f67e8cf01384",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rapid (a rough section of a river, stream or sea which is difficult to navigate due to the swift and turbulent motion of the water.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "lên thác xuống ghềnh",
+     "en": "up hill and down dale (literally, “up the waterfalls and down the rapids”)"
+    },
+    {
+     "sense": 1,
+     "vi": "Thác nước và ghềnh sông (gọi tắt là thác ghềnh) là những dạng tài nguyên thiên nhiên rất có ý nghĩa đối với phát triển kinh tế - xã hội và liên quan đến các lĩnh vực khoa học - kỹ thuật như Địa chất, Địa mạo, Địa lý, Thủy văn, Thủy điện, Thủy lợi, Thủy sản, Tài nguyên và Môi trường, Du lịch,…",
+     "en": "Waterfalls and river rapids are the forms of natural resources which play significant role for socio-economic development and they are related to the scientific and technical fields such as Geology, Geomorphology, Geography, Hydrology, Hydro Power, Water resources, Fisheries, Natural resources and Environment and Tourism, etc."
+    }
+   ]
+  },
+  {
+   "headword": "nơtron",
+   "base": "c47284309a5efde6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "particle"
+     ],
+     "gloss": "a neutron"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thánh lễ",
+   "base": "13035afeb7202d30",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Mass"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hội thánh",
+   "base": "d6674a811198aead",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a church (a particular denomination of Christianity)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hội thánh Tin Lành Việt Nam",
+     "en": "the Evangelical Church of Vietnam"
+    },
+    {
+     "sense": 1,
+     "vi": "Thời gian gần đây hoạt động của “Hội thánh của Đức Chúa Trời Mẹ\" (tên chính thức và đầy đủ là Hội thánh của Đức Chúa Trời Hiệp hội Truyền giáo Tin lành Thế giới, tên tiếng Anh là World mission society Church of God, do Ahn Sahng Hong sáng lập năm 1964 tại Hàn Quốc, hiện do bà Jang Gil Ja - “Đức Chúa Trời Mẹ” điều hành) tiếp tục diễn ra ở nhiều địa phương trong cả nước, gây bức xúc và phẫn nộ trong quần chúng nhân dân, vi phạm các quy định của pháp luật về tín ngưỡng, tôn giáo, trái thuần phong mỹ tục.",
+     "en": "Recently, the activities of the \"Church of God the Mother\" (whose official full name is the World Mission Society Church of God, established by Ahn Sahng-hong in 1964 Korea, now headed by Zahng Gil-jah aka \"God the Mother\") continue to be carried out in many localities, causing outrage among the masses, violating laws on belief and religion and offending customary sensibilities."
+    },
+    {
+     "sense": 1,
+     "vi": "Xin quí tôi con Chúa gần xa nhớ đến Hội Thánh Buôn Ky trong sự cầu thay, để có đủ tài chính xây dựng hoàn thành ngôi nhà thờ đúng thời gian hoạch định.",
+     "en": "May the children of the Lord from all walks of life come to the Buôn Ky Church in prayer, so they have enough budget to finish the church house according to plan."
+    }
+   ]
+  },
+  {
+   "headword": "điện từ",
+   "base": "dc077605b0fa413b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "electromagnetic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gian nguy",
+   "base": "6da15dbaef78473d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "difficult and dangerous; tough and perilous; going through trials and tribulations"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nốt ruồi",
+   "base": "3ed2a0423245d8f3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "mole, melanocytic nevus"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cương lĩnh",
+   "base": "d113cea57269ea3f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "manifesto"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Trong cương lĩnh tranh cử mang tên “Thay đổi”, Công đảng cam kết chính phủ mới sẽ tập trung vào 12 chính sách quan trọng, gồm […]",
+     "en": null
+    }
+   ]
+  },
+  {
+   "headword": "dứ",
+   "base": "8ced912efc9dffde",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lift, to hold up (as enticement or as threat)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "[…] nhảy xuống đò, nó ngoái lại nói để con làm ca sĩ nổi tiếng cho ba coi, thấy ông dứ cây lên trời.",
+     "en": "[…] he jumped down onto the ferry, turned back, and said, \"I'll be a famous singer and then you'll see, Dad,\" and he saw the old man threateningly waving the stick toward the sky."
+    }
+   ]
+  },
+  {
+   "headword": "rọc",
+   "base": "64b91cae79c47b4f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to cut paper by folding it and slicing it by the fold"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xảo",
+   "base": "e59fefda95cd6609",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "in-compounds",
+      "neologism"
+     ],
+     "gloss": "cunning; crafty"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhẹ dạ",
+   "base": "076a77dd6569a69c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "naive, gullible"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thâm hiểm",
+   "base": "aed72dba97665795",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "treacherous; vicious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ứng tuyển",
+   "base": "29919a7e716ba89b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to apply (for a job, etc.)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "vị trí ứng tuyển",
+     "en": "job vacancy"
+    }
+   ]
+  },
+  {
+   "headword": "chuyển dạ",
+   "base": "088927530c367432",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to go into labor, to have the first pains signaling the start of childbirth"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chị không khỏi mủi lòng khi không có chồng bên cạnh trong giờ phút chuyển dạ.",
+     "en": "She could not avoid feeling sad at not having her husband at her side at the moment childbirth was about to start."
+    }
+   ]
+  },
+  {
+   "headword": "triều cường",
+   "base": "dab4e1ab258be65a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "spring tide"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nở nang",
+   "base": "b3b89d993b582ca6",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "full; well-endowed, well-developed; brawny; husky"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phảng phất",
+   "base": "2bee5f7451e8f8ac",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to be vague; to be indistinct"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to seem to be; to bear a slight resemblance to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tranh đua",
+   "base": "0348c55f6ae0f329",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to compete"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tranh đua gay gắt",
+     "en": "to compete vigorously"
+    }
+   ]
+  },
+  {
+   "headword": "hiền hậu",
+   "base": "749b19603fb2972a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gentle and righteous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngỗ nghịch",
+   "base": "c85d65329cdd07d0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disobedient; naughty (of children); undisciplined; mischievous; refractory"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "sự ngỗ nghịch",
+     "en": "a prank"
+    },
+    {
+     "sense": 1,
+     "vi": "Năm ngoái Đức là cậu học sinh ngỗ nghịch, nhưng năm nay cậu ta tỏ ra rất đứng đắn.",
+     "en": "Last year Duc was a naughty student, but this year he proved to be very proper."
+    }
+   ]
+  },
+  {
+   "headword": "đoản mệnh",
+   "base": "9753ba4d70651a91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "short-lived"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chác",
+   "base": "efdd08c584a93fcb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "obsolete"
+     ],
+     "gloss": "to buy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rỉ sét",
+   "base": "6fd3b1a767e50311",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "rust"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "giàn giáo",
+   "base": "fb1428ba689dfbf3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "scaffolding"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cói",
+   "base": "a48e8e5c3877a3fa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certain species in the family Cyperaceae, chiefly within the genus Cyperus"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "chiếu cói",
+     "en": "mats woven from these species"
+    }
+   ]
+  },
+  {
+   "headword": "đậu hũ",
+   "base": "d6a725f758c2efc2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "eggcorn of đậu hủ (“tofu”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cộc lốc",
+   "base": "251fc045652d1483",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "curt; terse; brief"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "curtly and impertinently"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Thằng này là con nhà ai mà dám ăn nói cộc lốc, láo lếu như vậy hả?",
+     "en": "Whose son dares to speak to me in such a curt and disrespectful manner?"
+    }
+   ]
+  },
+  {
+   "headword": "hồi kí",
+   "base": "a5c30112353cdb53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "memoir"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rầu",
+   "base": "e912c465d9e07429",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "gloomy; melancholy; grieved"
+    },
+    {
+     "position": 2,
+     "pos": "particle",
+     "tags": [],
+     "gloss": "Bình Định and Phú Yên form of rồi"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Biết rầu!",
+     "en": "I know!"
+    }
+   ]
+  },
+  {
+   "headword": "hóp",
+   "base": "a1c53b21788f926c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "hollow; sunken"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "certain bamboo species, especially Bambusa textilis"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nộm",
+   "base": "8c76c287ba5d2b9c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Northern"
+     ],
+     "gloss": "salad-like Vietnamese dish"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "rare"
+     ],
+     "gloss": "synonym of hình nộm (“dummy”)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vo vo",
+   "base": "e3988da4092bf140",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to buzz"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bạc đãi",
+   "base": "e487d3a7fb294057",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to mistreat"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vãng lai",
+   "base": "fe25ab997432a39a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "attributive"
+     ],
+     "gloss": "to come and go"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "khách vãng lai",
+     "en": "nonlocal customers"
+    },
+    {
+     "sense": 1,
+     "vi": "không người vãng lai",
+     "en": "abandoned/unvisited"
+    }
+   ]
+  },
+  {
+   "headword": "cẳng tay",
+   "base": "97a5e066c2ceb872",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "forearm"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nghêu",
+   "base": "157196efe7b1071d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "clam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xúc giác",
+   "base": "1da05781102f1d9f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the sense of touch"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "huyên náo",
+   "base": "647a6220020b058b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "noisy and chaotic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hợp thức",
+   "base": "5432b2814093a022",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "in accordance with regulations; valid; legal; proper"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "stoichiometric"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "chu choa",
+   "base": "2e7771ba01f353aa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [
+      "Central",
+      "humorous"
+     ],
+     "gloss": "an interjection of surprise and amazement; Oh my God!; Oh my!"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chu choa mạ ơi!",
+     "en": "Oh my God!"
+    }
+   ]
+  },
+  {
+   "headword": "vựa",
+   "base": "77441b22d545378f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "warehouse, storehouse, storage"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lấm lem",
+   "base": "c06e6861cb751ddf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "smudged, dirty"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Văn sĩ này vẻ mặt như cười mà không phải cười, trợn mắt méo miệng, dáng vẻ phờ phạc, toàn thân lấm lem dầu mỡ, áo quần xốc xếch, mặt đầy cáu ghét, xem ra ít nhất cũng hơn mười ngày chưa rửa mặt, cầm một cái quạt giấy rách lem luốc, vừa đi vừa phe phẩy.",
+     "en": "The scholar looked like he was smiling without smiling, eyes wide open, mouth askew, looking exhausted, his entire body smudged with grease, his clothes untidy, his face filthy, seeming like he had been at least ten days without washing his face, holding a torn and dirty paper fan he flapped while walking."
+    }
+   ]
+  },
+  {
+   "headword": "tái cử",
+   "base": "8b1f9921de4bc23a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "transitive"
+     ],
+     "gloss": "to reelect"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm điệu",
+   "base": "9c29f0f474e270fd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tune; melody"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cải xoăn",
+   "base": "d80f4a8a94586ca4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "kale"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tổng bí thư",
+   "base": "d2454a841f31d043",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a General Secretary"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "luống",
+   "base": "743b688bafc235c5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "raised strip of soil for cultivation"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to be in vain; to be wasted (in a pitiful manner)"
+    },
+    {
+     "position": 3,
+     "pos": "adv",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "constantly and repetitively"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trển",
+   "base": "80fdd37c290e3b33",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "that place"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ở trên trển.",
+     "en": "(satirical) In Heaven."
+    }
+   ]
+  },
+  {
+   "headword": "huỵch toẹt",
+   "base": "21f45f0a6fc157bd",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "bluntly; plainly; without reservation"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đoan trang",
+   "base": "2d2f740d19e2ff9d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "formal",
+      "literary"
+     ],
+     "gloss": "dignified and decorous"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dược liệu",
+   "base": "46c19a1382af6681",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "raw material used to produce medicines"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "min",
+   "base": "f58c5ee58971b3ff",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "pron",
+     "tags": [
+      "archaic",
+      "literary"
+     ],
+     "gloss": "I; me"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "dialectal"
+     ],
+     "gloss": "gaur"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "răng cửa",
+   "base": "a401cabe90a9ae52",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an incisor"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "Phật tử",
+   "base": "7bfb73410719ae68",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a Buddhist"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "tăng ni Phật tử",
+     "en": "the Buddhist clergy and laypeople"
+    },
+    {
+     "sense": 1,
+     "vi": "Phật tử cả nước",
+     "en": "lay Buddhists from everywhere in our country"
+    },
+    {
+     "sense": 1,
+     "vi": "Trước hết, Phật tử đến chùa để làm gì? Tại sao ngày càng đông đúc thế? Phật tử là ai? Nói ngắn gọn, Phật tử là con của Phật, người đã phát tâm quy y Tam bảo, là tín đồ của Phật giáo. Vậy, có phải Phật tử nào cũng như nhau? Phật tử đến chùa để làm gì? Phật tử nếu phân loại thì có mấy nhóm?",
+     "en": "For one thing, why do lay Buddhists come to temples? Why in droves? Who are lay Buddhists? In a nutshell, lay Buddhists are the children of the Buddha, those who take refuge, the believers of Buddhism. Does that mean all lay Buddhists are the same? Why do they come to temples? What are the types?"
+    }
+   ]
+  },
+  {
+   "headword": "nhây",
+   "base": "12b1deb5b26eb015",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "(talking, doing something) in a long, drawn-out manner; lengthy"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khai tâm",
+   "base": "05a0f8bf80f8f221",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to begin teaching the alphabet (to children)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "to initiate; to enlighten"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ban thưởng",
+   "base": "3ae282f4e09df13d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to reward; to grant a reward to"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gớm ghiếc",
+   "base": "e56d0fe667f0b6e9",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "disgusting; repulsive; abhorrent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vòm họng",
+   "base": "85408a2eb8df050a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "upper jaw"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cạch",
+   "base": "a27b987aecc81916",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to avoid (someone or something because they have or it has given you a bad experience)"
+    },
+    {
+     "position": 2,
+     "pos": "intj",
+     "tags": [
+      "onomatopoeic"
+     ],
+     "gloss": "the sound of something metal hitting something wooden"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cạch mặt",
+     "en": "to never see or do business with ever again"
+    },
+    {
+     "sense": 1,
+     "vi": "cạch đến già",
+     "en": "to avoid forever"
+    }
+   ]
+  },
+  {
+   "headword": "thấu suốt",
+   "base": "b613f8e36ed423a8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to grasp something extensively"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vô thanh",
+   "base": "3bbd14feaf7e2f48",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "voiceless"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đề huề",
+   "base": "2af566d1e2dbd031",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "abundant and/or harmonious"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "nice and/or respectable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Ai mà con cháu đuề huề được như bác thì phải phúc lắm đấy!",
+     "en": "Anybody, whose children can all get along like yours, is nothing but blessed!"
+    },
+    {
+     "sense": 2,
+     "vi": "Người xưa mà nhà cửa đuề huề như này cũng hiếm.",
+     "en": "It is uncommon for the old generation to own a nice house like this."
+    }
+   ]
+  },
+  {
+   "headword": "linh kiện",
+   "base": "9147c416e8e28c53",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "component; the detachable or replaceable"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đống linh kiện điện tử này ở Việt Nam từng là của quý đấy.",
+     "en": "The pile of these electronic detachables was once a treasure in Vietnam."
+    }
+   ]
+  },
+  {
+   "headword": "ganh ghét",
+   "base": "e975792357f88bd8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to envy and despise those of higher perceived status than oneself"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sai vặt",
+   "base": "4fc4bff1712e2e67",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to order to do odd jobs, to order around"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "odd job; incidental, unspecialized tasks"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "bị sai vặt",
+     "en": "to be ordered around"
+    },
+    {
+     "sense": 2,
+     "vi": "Mỏi chân, ông xin làm sai vặt trong đoàn ca múa nhạc,[…]",
+     "en": "Tired of roaming around, he asked to do odd jobs for the song-and-dance troupe, […]"
+    }
+   ]
+  },
+  {
+   "headword": "lời hứa",
+   "base": "d85f807032d19bc8",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "promise, word"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

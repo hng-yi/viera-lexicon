@@ -1,0 +1,1353 @@
+{
+ "batch": "0187",
+ "entries": [
+  {
+   "headword": "hửng",
+   "base": "8002f430172b1912",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to brighten, to turn clear"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tối mặt tối mũi, lúc này trời mới hơi hửng lên được một tí, anh đã được đáp đền, được xả hơi chút gì đâu mà đã phải đi!",
+     "en": "All had been darkness, and then the sky had just started brightening a little bit, and without compensation or even a bit of respite he had to leave again!"
+    }
+   ]
+  },
+  {
+   "headword": "ăn ảnh",
+   "base": "5806ccd68f2589eb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "photogenic"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rốt ráo",
+   "base": "ba17a9abfbe80b49",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "quick-witted and thorough"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Cứ lừ lừ ra mà không rốt ráo như bạn mình thì không thua thiệt cũng lạ",
+     "en": "There's nothing unusual to fall short of the class's expectations when you fail to drag other friends' interest just like that."
+    }
+   ]
+  },
+  {
+   "headword": "xuất nhập khẩu",
+   "base": "9b182cb897863929",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to export and import"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tỉnh thành",
+   "base": "331c31515896bd22",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "provinces and cities, i.e., the top-level administrative subdivisions of Vietnam"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "developed, sophisticated"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ghẻ lạnh",
+   "base": "9fc2507a5d75c9f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to treat coldly, cold-shoulder, be indifferent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "âm vực",
+   "base": "a71fa004b3d12f93",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "vocal range"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thùng thình",
+   "base": "5555c661a0d5fa7d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "too wide; baggy"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "quần có ống rộng thùng thình",
+     "en": "baggy pants"
+    }
+   ]
+  },
+  {
+   "headword": "huyên thiên",
+   "base": "6a26160c18e7bca7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "loudly, deafeningly, making a lot of noise without being very coherent"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Y chửi mắng huyên thiên, càng đánh càng mau. Hoàng Dược Sư thấy không thể nói lý với y,[…]",
+     "en": "He scolded roaringly, fighting faster and faster. Huáng Yàoshī felt there could be no reasoning with him, […]"
+    }
+   ]
+  },
+  {
+   "headword": "ngũ hành",
+   "base": "90b56ce0b433bff1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "wuxing; Five Phases"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kình",
+   "base": "b28dad340e3b1d0b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to scold; to chide"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "uncommon"
+     ],
+     "gloss": "to oppose each other"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "muôn năm",
+   "base": "ed60f6e60c93a381",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "long live; forever; all hail"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đảng Cộng sản Việt Nam muôn năm!",
+     "en": "All hail the Communist Party of Vietnam!"
+    }
+   ]
+  },
+  {
+   "headword": "dương lịch",
+   "base": "ad24946bf215067c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "the Gregorian calendar"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "any solar calendar"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tết dương lịch",
+     "en": "New Year"
+    }
+   ]
+  },
+  {
+   "headword": "khuyến",
+   "base": "ada9e28f71d2d885",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "in-compounds"
+     ],
+     "gloss": "to encourage; to advise"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "magie",
+   "base": "e0f46585381b19ed",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "magnesium"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lắng đọng",
+   "base": "5bb614cb3af832da",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to settle and deposit"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "to be imprinted into one's mind"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "Con cứ làm đi làm lại thì kiến thức nó tự khắc lắng đọng lại thôi.",
+     "en": "Do it again and again, and the knowledge will end up imprinted on your mind."
+    }
+   ]
+  },
+  {
+   "headword": "cơ vân",
+   "base": "677a88e0a24ad502",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "skeletal muscle"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hải dương",
+   "base": "99e882ec7da20cee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "sea, ocean"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "bất hiếu",
+   "base": "a40438d0f567a805",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "derogatory"
+     ],
+     "gloss": "unfilial (disrespectful of the duties and attitudes of a son or daughter toward their parents)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "khò",
+   "base": "ad80e74f680bf984",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "intj",
+     "tags": [],
+     "gloss": "zzz"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to burn; to char using a powerful heat source"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 2,
+     "vi": "đèn khò",
+     "en": "a blowtorch"
+    }
+   ]
+  },
+  {
+   "headword": "thấp thoáng",
+   "base": "6746a90ed1d61f2c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "appearing from time to time; flickering"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phọt cứt",
+   "base": "2ae076ad79e7b9a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literally",
+      "vulgar"
+     ],
+     "gloss": "spurting out shit"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cầm cập",
+   "base": "be350fb9a0266815",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "chatteringly; clamorously"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "turbulently"
+    },
+    {
+     "position": 3,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "chattering; clamorous"
+    },
+    {
+     "position": 4,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "turbulent"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ngũ giác",
+   "base": "969d99278c5ceb8c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "pentagon"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đại ngu",
+   "base": "d3c00666afdaacaa",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "exceedingly foolish"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "– Cũng tại tao! – Nguyên làu bàu. – Tao đã hỏi một câu đúng là đại ngu!",
+     "en": "\"It's also my fault,\" Nguyên grumbled. \"One of the questions I asked was actually super stupid!\""
+    }
+   ]
+  },
+  {
+   "headword": "ác bá",
+   "base": "0d15cd890668ac6c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "local despot; evil tyrant"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tính trạng",
+   "base": "cb2a61221e82e904",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "phenotypic trait"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "phối ngẫu",
+   "base": "ca9d4e24608b9a0a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "spouse"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mắt xanh",
+   "base": "85024d0b2ed6c7cb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "figuratively"
+     ],
+     "gloss": "appreciation; attraction or interest"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hao hụt",
+   "base": "9da5dfc262cf4399",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to lose; to suffer losses"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dữ thần",
+   "base": "199cd9173aa8803b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "incredibly; unbelievably"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Đã hè đâu mà nóng dữ thần.",
+     "en": "It's stupidly hot although it's not summer yet."
+    }
+   ]
+  },
+  {
+   "headword": "ích",
+   "base": "5d8dc8718f372753",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "benefit, use"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "pháp nhân",
+   "base": "db606289f7278f2e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "legal entity; juridical person; legal person (an organization that has legal rights and obligations, distinct from its individual members)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Công ty trách nhiệm hữu hạn là một pháp nhân.",
+     "en": "A limited liability company is a legal entity."
+    }
+   ]
+  },
+  {
+   "headword": "trắng trẻo",
+   "base": "c0eec43c7bf1c05b",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "having a fair complexion"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "động lượng",
+   "base": "5847f4cee0423a91",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "momentum, the product of mass and velocity of a body"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Theo định lý về biến thiêng động lượng của hệ, ta có thể nhận được những hệ quả quan trọng dưới đây : […].",
+     "en": "With the principle of variation of momentum of a system, we can obtain the important results below: […]."
+    }
+   ]
+  },
+  {
+   "headword": "gẫm",
+   "base": "b0819227dd7ae5a0",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to ponder"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "dần dà",
+   "base": "0e2f1ee48115dad3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "gradually"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "biên độ",
+   "base": "5543f90543a9bec3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "amplitude"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lăm",
+   "base": "941c2f6d2d56ef4c",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "num",
+     "tags": [],
+     "gloss": "Post-mười/mươi allomorphic form of năm (“five”)"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [
+      "rare",
+      "transitive"
+     ],
+     "gloss": "to intend to do something"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mười lăm",
+     "en": "fifteen"
+    },
+    {
+     "sense": 1,
+     "vi": "hai (mươi) lăm",
+     "en": "twenty-five"
+    }
+   ]
+  },
+  {
+   "headword": "mị dân",
+   "base": "b1fde2b8d0860a39",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "demagogic"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Chính trị gia đó thường xuyên sử dụng lời nói mị dân để thu hút sự ủng hộ của cử tri.",
+     "en": "That politician often uses populist rhetoric to attract the support of voters."
+    }
+   ]
+  },
+  {
+   "headword": "gang tấc",
+   "base": "8ea76dd6c238f89d",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "the nick of time"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "thoát chết trong gang tấc",
+     "en": "to get saved in the nick of time"
+    }
+   ]
+  },
+  {
+   "headword": "ma men",
+   "base": "22eb45022aaae653",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "drunkard"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cót két",
+   "base": "4cad7960a2fae75e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "grinding, creaky"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kêu cót két",
+     "en": "to make a grinding sound"
+    },
+    {
+     "sense": 1,
+     "vi": "Tường bong tróc, thang máy kêu cót két, giá chung cư tại Hà Nội vẫn... 'phi mã'",
+     "en": "Flaking walls and creaky elevators, apartment prices in Hanoi still through the roof"
+    }
+   ]
+  },
+  {
+   "headword": "lọng",
+   "base": "67c357d38abef5ee",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "historical"
+     ],
+     "gloss": "a kind of parasol"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nùi",
+   "base": "a196a7fcae0f60b4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "tuft"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hiếu học",
+   "base": "085fffad7c82e4c3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [
+      "literary"
+     ],
+     "gloss": "studious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thủy chiến",
+   "base": "2f788d3f9dbdd1d4",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "Traditional tone placement spelling of thuỷ chiến."
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "sang năm",
+   "base": "e9c20d2c01797dce",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "next year"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trắng dã",
+   "base": "3f8c8bc3ba9520f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "wide open such that too much white is visible (of eyes)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Tên lính lê dương trân trối nhìn thái độ quyết liệt của Jeannettee bằng đôi mắt trắng dã.",
+     "en": "The legionnaire stared at Jeannette's aggressive stance with his eyes wide open."
+    }
+   ]
+  },
+  {
+   "headword": "chuyên biệt",
+   "base": "6b88a181719e6ff5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dedicated; specialized; tailored"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thương nhớ",
+   "base": "0e0dee20874cf85e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to miss (someone); to long for; to mourn over"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mòng biển",
+   "base": "7a3165c970b17136",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "seagull"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xà bần",
+   "base": "3affdfdaca8ca369",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Central",
+      "Southern"
+     ],
+     "gloss": "debris, rubble (of a structure after demolition)"
+    },
+    {
+     "position": 2,
+     "pos": "noun",
+     "tags": [
+      "Southern"
+     ],
+     "gloss": "kind of potpourri dish prepared from leftover food"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Nhưng trước nhà vẫn còn ngổn ngang những xà bần, gạch ngói cũ và con đường chưa mở rộng nên còn những vũng nước lầy lội vì mưa ngày hôm qua.",
+     "en": "But in front of the house, there are still scattered rubble, old bricks and tiles, and the road has not yet been widened, so there are still muddy puddles from yesterday's rain."
+    }
+   ]
+  },
+  {
+   "headword": "chơ vơ",
+   "base": "3272f27b75949aa3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "forlorn; desolate; forsaken; alone and hopeless"
+    },
+    {
+     "position": 2,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "forlornly; desolately; forsakenly"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mặc nhiên",
+   "base": "557d3eab5277eaf5",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "implicitly; tacitly"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "indifferent; unconcerned"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "thân hữu",
+   "base": "15b075c906a9098f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "formal"
+     ],
+     "gloss": "relatives and friends"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "tính từ",
+   "base": "3f56b03f12b2eb97",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "an adjective (word that modifies a noun or describes a noun's referent)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "vương tử",
+   "base": "f5e21f051e0d202a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "prince"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "mủn",
+   "base": "a393e4a588c8ac02",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "decayed; deteriorated; ruined"
+    },
+    {
+     "position": 2,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "crumbled; crumbling"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "hả dạ",
+   "base": "1d6f632c99cf3265",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "to get contented"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Dân nghèo được một phen hả dạ, bởi kẻ bị trừng trị là một “thằng Tây” khét tiếng tàn ác.",
+     "en": "Poor people got the time to please, as the one who got punished was an infamous and cruel \"Westerner\"."
+    }
+   ]
+  },
+  {
+   "headword": "chọc phá",
+   "base": "185fec1eaa24491f",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to harass; to annoy; to bother"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "đạo mạo",
+   "base": "2757508a9a5814a3",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "dignified and solemn"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "mang phong thái đạo mạo",
+     "en": "having a dignified aura"
+    }
+   ]
+  },
+  {
+   "headword": "Đông y",
+   "base": "07edcfc1cf67bf18",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "traditional East Asian medicine, especially that of China, Korea or Vietnam"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nẳm",
+   "base": "271c5ffa1f1a36a7",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "Southern",
+      "colloquial"
+     ],
+     "gloss": "that year"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "xúm",
+   "base": "0f315f303c6744be",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to gather; to form a group"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Mọi người xúm lại quanh nó.",
+     "en": "People gathered around him."
+    }
+   ]
+  },
+  {
+   "headword": "cun cút",
+   "base": "1cee17c1f12b45bf",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "buttonquail; hemipode"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "rọ mõm",
+   "base": "ce9b48b259dc2479",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "muzzle (a device used to prevent animal from biting or eating, which is worn on its snout)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "trạng",
+   "base": "8a18c45582a9717e",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "colloquial"
+     ],
+     "gloss": "master; expert"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "trạng rượu",
+     "en": "great drinker"
+    }
+   ]
+  },
+  {
+   "headword": "bứng",
+   "base": "62b38d3620008568",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to uproot"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "ra sao",
+   "base": "1b1277b3c4fdf5ae",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adv",
+     "tags": [],
+     "gloss": "how; what"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "Hệ thống thanh tra thương mại từ trung ương đến tỉnh, thành phố và quận, huyện, thị xã ra sao?",
+     "en": "How is the commercial inspection system from the central government to the province, city, and district?"
+    }
+   ]
+  },
+  {
+   "headword": "lé",
+   "base": "4b515bce0f00c927",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "cross-eyed"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "gièm pha",
+   "base": "8dfbb1216eccb5f2",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to disparage; to denigrate; to backbite"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "kẻ gièm pha",
+     "en": "a backbiter; a scandalmonger"
+    },
+    {
+     "sense": 1,
+     "vi": "Vì nghe những lời gièm pha, tình yêu của đôi trai gái không còn thắm thiết như xưa nữa.",
+     "en": "Because of (hearing) insults and slander, the love of the couple is no longer as strong as it used to be."
+    }
+   ]
+  },
+  {
+   "headword": "hướng đạo sinh",
+   "base": "462fa70c570d7b5a",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "a scout (member of the scout movement)"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "nhân khẩu",
+   "base": "6b9e4b662b93a072",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "number of people in a family or place; population"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lộ liễu",
+   "base": "1a07667d5e842cdb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "brazen; conspicuous; evident; manifest; blatant; obvious"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "lút",
+   "base": "75d7a8f669bb94a1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "adj",
+     "tags": [],
+     "gloss": "submerged"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "nước lút đến cổ",
+     "en": "neckdeep in water"
+    }
+   ]
+  },
+  {
+   "headword": "nhà vườn",
+   "base": "aa47c6fc3b8d31ad",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [
+      "collective"
+     ],
+     "gloss": "orchard farmers"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "cơ sở vật chất",
+   "base": "abc68dcb822137bb",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "facilities (equipment and infrastructure)"
+    }
+   ],
+   "examples": [
+    {
+     "sense": 1,
+     "vi": "cơ sở vật chất bệnh viện",
+     "en": "the facilities of a hospital"
+    },
+    {
+     "sense": 1,
+     "vi": "cơ sở vật chất xuống cấp",
+     "en": "deteriorated facilities"
+    }
+   ]
+  },
+  {
+   "headword": "nội y",
+   "base": "b0228cd9dad870e1",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "noun",
+     "tags": [],
+     "gloss": "undergarment"
+    }
+   ],
+   "examples": []
+  },
+  {
+   "headword": "kết tủa",
+   "base": "24e44ef53eac2256",
+   "senses": [
+    {
+     "position": 1,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to precipitate"
+    },
+    {
+     "position": 2,
+     "pos": "verb",
+     "tags": [],
+     "gloss": "to precipitate"
+    }
+   ],
+   "examples": []
+  }
+ ]
+}

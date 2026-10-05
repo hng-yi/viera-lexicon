@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "quân lực",
+  "tới bến",
+  "ngỡ",
+  "vận may",
+  "gốm",
+  "tham",
+  "khuôn",
+  "liên",
+  "lắp ráp",
+  "tối tân",
+  "nghĩa địa",
+  "nách",
+  "đổi thay",
+  "hấp tấp",
+  "khoái cảm",
+  "ẻm",
+  "nhấp nháy",
+  "oắt",
+  "khích lệ",
+  "phân công",
+  "độc giả",
+  "khuấy",
+  "tờ rơi",
+  "thê thảm",
+  "thực thể",
+  "công đoàn",
+  "ngăn cách",
+  "thanh trừng",
+  "hòa thượng",
+  "hướng dẫn viên",
+  "bệnh tâm thần",
+  "khởi xướng",
+  "quả nhiên",
+  "kịch tính",
+  "thành trì",
+  "hạt dẻ",
+  "dai",
+  "gỉ",
+  "rít",
+  "vuột"
+ ],
+ "flags": [
+  {
+   "headword": "tới bến",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Bữa nay means today, not specifically tonight.",
+   "fix": "Today let's drink to the max!"
+  },
+  {
+   "headword": "tới bến",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Literal tới bến means reaching a dock, without implying the end of a journey or a final wharf.",
+   "fix": "to the dock; until reaching the dock"
+  },
+  {
+   "headword": "oắt",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Oắt describes someone as very small or puny, with contempt, rather than mischievous ([dictionary](https://vi.wiktionary.org/wiki/oắt)).",
+   "fix": "small; puny (of a person, contemptuously)"
+  },
+  {
+   "headword": "oắt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses oắt to describe mischievous behavior rather than small size ([dictionary](https://vi.wiktionary.org/wiki/oắt)).",
+   "fix": "Thằng oắt gánh thế nào nổi hai thùng nước. = How could that little runt carry two buckets of water?"
+  },
+  {
+   "headword": "oắt",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Oắt expresses contempt for the person described and needs a derogatory warning ([dictionary](https://vi.wiktionary.org/wiki/oắt)).",
+   "fix": "Add derogatory."
+  },
+  {
+   "headword": "hạt dẻ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Slang hạt dẻ means inexpensive and does not mean worthless or poor-quality ([dictionary](https://en.wiktionary.org/wiki/hạt_dẻ)).",
+   "fix": "inexpensive; low-priced"
+  },
+  {
+   "headword": "hạt dẻ",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Cheap junk adds a claim of poor quality that hạt dẻ does not express ([dictionary](https://en.wiktionary.org/wiki/hạt_dẻ)).",
+   "fix": "Don't buy inexpensive things like that."
+  }
+ ]
+}

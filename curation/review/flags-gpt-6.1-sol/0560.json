@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "su hào",
+  "su su",
+  "sunfit",
+  "sung công",
+  "suy biến",
+  "suy bụng ta ra bụng người",
+  "suy hao",
+  "suy lí",
+  "suy vi",
+  "suýt nữa",
+  "suất lĩnh",
+  "suất thập",
+  "suất đội",
+  "suối vàng",
+  "suốt ngày",
+  "suốt đời",
+  "sàm ngôn",
+  "sàn nhà",
+  "sàn sàn",
+  "sành sõi",
+  "sá sùng",
+  "sách dẫn",
+  "sách gối đầu giường",
+  "sách điện tử",
+  "sám chi",
+  "sán lá",
+  "sán xơ mít",
+  "sáng bạch",
+  "sáng choang",
+  "sáng giá",
+  "sáng loáng",
+  "sáng láng",
+  "sáng lạng",
+  "sáng nắng chiều mưa",
+  "sáng sớm",
+  "sáng trưng",
+  "sánh vai",
+  "sáo nhỏ",
+  "sát gái",
+  "sát khuẩn"
+ ],
+ "flags": [
+  {
+   "headword": "sung công",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is formal administrative language, so leaving it untagged suggests it is suitable for ordinary casual speech.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "suy biến",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss presents general deterioration, whereas this verb refers to degradation during transformation, especially of energy ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-suy%20bi%E1%BA%BFn)).",
+   "fix": "to degrade during transformation (especially of energy)"
+  },
+  {
+   "headword": "suy biến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The environmental example uses suy biến as an ordinary word for environmental deterioration, which is unnatural here.",
+   "fix": "Năng lượng suy biến trong quá trình chuyển hóa. = Energy degrades during transformation."
+  },
+  {
+   "headword": "suy lí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs to formal, academic discussion of reasoning rather than ordinary casual speech ([dictionary](https://loigiaihay.com/tu-dien-tv/suy-ly-ezQwLX6rqViSZ.html)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "suất thập",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the rank instead of showing it in use.",
+   "fix": "Viên suất thập dẫn lính đi tuần. = The squad leader led the soldiers on patrol."
+  },
+  {
+   "headword": "suất đội",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the rank instead of showing it in use.",
+   "fix": "Viên suất đội ra lệnh cho lính rút lui. = The officer ordered the soldiers to retreat."
+  },
+  {
+   "headword": "sát khuẩn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common verb meaning used in expressions such as sát khuẩn tay is missing.",
+   "fix": "verb | to disinfect; to kill germs. Ex: Nhớ sát khuẩn tay trước khi vào phòng. = Remember to disinfect your hands before entering the room."
+  }
+ ]
+}

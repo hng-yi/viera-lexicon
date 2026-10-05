@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "cật vấn",
+  "hạt tiêu",
+  "ních",
+  "giải phẫu học",
+  "ách tắc",
+  "sao chổi",
+  "thăng hạng",
+  "trẩu",
+  "lồng lộng",
+  "phóng tinh",
+  "mây tích",
+  "man di",
+  "tua rua",
+  "tắt điện",
+  "bồi bổ",
+  "uy danh",
+  "bỡ ngỡ",
+  "căm giận",
+  "chín chắn",
+  "giuộc",
+  "quyến luyến",
+  "sống sượng",
+  "cứu quốc",
+  "tất bật",
+  "chiến địa",
+  "đông đặc",
+  "mùn cưa",
+  "tự quản",
+  "vạy",
+  "chắt chiu",
+  "chột",
+  "hụt hẫng",
+  "vịn",
+  "tàn tệ",
+  "kì thực",
+  "du nhập",
+  "quan viên",
+  "vô năng",
+  "hửi",
+  "văng tục"
+ ],
+ "flags": [
+  {
+   "headword": "trẩu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The slang adjective means immature or childishly attention-seeking, rather than simply tacky or unattractive ([dictionary entry](https://vi.wiktionary.org/wiki/tr%E1%BA%A9u)).",
+   "fix": "immature; childish; attention-seeking"
+  },
+  {
+   "headword": "trẩu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone trẩu disparages their maturity and behaviour, so learners need a derogatory warning ([usage explanation](https://vietnamnet.vn/dinh-nghia-tre-trau-tinh-tinh-hay-tuoi-tac-ig7784.html)).",
+   "fix": "[slang, informal, derogatory]"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "ôm rơm rặm bụng",
+  "ôm ấp",
+  "ôn cố tri tân",
+  "ôn hoà",
+  "ôn tồn",
+  "ôn, lương, cung, kiệm, nhượng",
+  "ông Táo",
+  "ông bà anh chị em",
+  "ông can",
+  "ông cụ non",
+  "ông già Nô-en",
+  "ông kẹ",
+  "ông ngoại",
+  "ông nói gà, bà nói vịt",
+  "ông nội",
+  "ông trẻ",
+  "ông vải",
+  "ông ăn chả, bà ăn nem",
+  "ông đồ",
+  "ông ấy",
+  "ôzôn",
+  "õng à õng ẹo",
+  "ùn",
+  "ùn ùn",
+  "ú tim",
+  "úa tàn",
+  "úm ba la xì bùa",
+  "ún",
+  "út nam",
+  "út nữ",
+  "úy lạo",
+  "ý dân",
+  "ý dĩ",
+  "ý kiến ý cò",
+  "ý nhị",
+  "ý thức giai cấp",
+  "ý tại ngôn ngoại",
+  "Ăng-lê",
+  "Ăng-lê hoá",
+  "ăn Tết"
+ ],
+ "flags": [
+  {
+   "headword": "ôn, lương, cung, kiệm, nhượng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example lists and explains the virtues instead of showing the expression in use.",
+   "fix": "Ông luôn lấy ôn, lương, cung, kiệm, nhượng làm chuẩn mực ứng xử. = He always takes these five virtues as his standard of conduct."
+  },
+  {
+   "headword": "ông trẻ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the kinship term instead of using it in an ordinary situation.",
+   "fix": "Hôm qua ông trẻ đến thăm gia đình em. = Yesterday my great-uncle came to visit my family."
+  },
+  {
+   "headword": "ú tim",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Southern tag misleadingly restricts a term also used elsewhere in Vietnam, including [Northern childhood accounts](https://thuviensohoa.vn/img/pdf/14715-le-van-yeu-va-song-thuviensach.vn.pdf).",
+   "fix": "Remove Southern."
+  },
+  {
+   "headword": "ún",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese sentence does not specify that the boy is the youngest child.",
+   "fix": "Your little boy has just turned five."
+  }
+ ]
+}

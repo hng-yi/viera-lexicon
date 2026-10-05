@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "chúa thượng",
+  "mùa đông",
+  "đầu sỏ",
+  "diễn hành",
+  "chức vị",
+  "qué",
+  "tính năng",
+  "thuế má",
+  "hải âu",
+  "nghị viên",
+  "hải lưu",
+  "bảo hành",
+  "lẫy lừng",
+  "đểu cáng",
+  "công trạng",
+  "nẹp",
+  "địa đàng",
+  "bạo",
+  "gian dâm",
+  "hiểm nghèo",
+  "điện lực",
+  "giận dỗi",
+  "địa đạo",
+  "buông xuôi",
+  "bất chính",
+  "thẩm định",
+  "liệng",
+  "ghì",
+  "cá ngựa",
+  "dưỡng",
+  "thảm đỏ",
+  "thanh long",
+  "rừng già",
+  "cứng cựa",
+  "biên kịch",
+  "lay chuyển",
+  "dịch tả",
+  "chật vật",
+  "sôi sục",
+  "thân thương"
+ ],
+ "flags": [
+  {
+   "headword": "chúa thượng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chúa thượng can address a king, so explicitly excluding the reigning king is false ([dictionary](https://api.vnjp.org/kanji/%E3%82%B7%E3%83%A7%E3%82%A6)).",
+   "fix": "Your Majesty; Your Highness (historical honorific addressing a king or ruling lord)"
+  },
+  {
+   "headword": "chúa thượng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is an honorific for a human sovereign, whereas 'the Most High' denotes God ([dictionary](https://api.vnjp.org/kanji/%E3%82%B7%E3%83%A7%E3%82%A6)).",
+   "fix": "the sovereign; His Majesty (historical honorific)"
+  },
+  {
+   "headword": "đểu cáng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The insulting use in 'bọn đểu cáng' remains current and should not be marked dated ([dictionary](https://loigiaihay.com/tu-dien-tv/deu-cang-eQrjtNTEcrEby.html)).",
+   "fix": "Remove dated; retain derogatory."
+  }
+ ]
+}

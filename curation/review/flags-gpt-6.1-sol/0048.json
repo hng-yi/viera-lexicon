@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "nhân tiện",
+  "mất trí",
+  "mong muốn",
+  "ngăn cản",
+  "thuế",
+  "móc",
+  "tình báo",
+  "đẻ",
+  "đúng đắn",
+  "công",
+  "nhân vật",
+  "lãng mạn",
+  "đếch",
+  "yên lặng",
+  "cân nhắc",
+  "lợi",
+  "ngọt ngào",
+  "loại bỏ",
+  "mệnh lệnh",
+  "thừa",
+  "định mệnh",
+  "đồ đạc",
+  "truyện",
+  "cầu thang",
+  "chủ tịch",
+  "ghép",
+  "theo đuổi",
+  "xúc phạm",
+  "ngày nay",
+  "chào đón",
+  "hối hận",
+  "gánh",
+  "lang thang",
+  "chắn",
+  "vận chuyển",
+  "đại dương",
+  "áp lực",
+  "người yêu",
+  "thực",
+  "tiết lộ"
+ ],
+ "flags": [
+  {
+   "headword": "đẻ",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word rather than using it to mean 'mother'.",
+   "fix": "Đẻ ơi, con đói! = Mother, I'm hungry!"
+  },
+  {
+   "headword": "công",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Công meaning 'public' is normal in everyday expressions such as trường công and is not restricted to formal usage.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "công",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning 'pay for work', used in expressions such as trả công and tiền công.",
+   "fix": "noun | pay; wages for work. Example: Họ trả công cho tôi theo ngày. = They pay me by the day."
+  },
+  {
+   "headword": "theo đuổi",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of pursuing someone romantically.",
+   "fix": "verb | to pursue romantically; to court. Example: Anh ấy đang theo đuổi cô ấy. = He is courting her."
+  }
+ ]
+}

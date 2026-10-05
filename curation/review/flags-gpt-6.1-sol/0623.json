@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "xương hàm dưới",
+  "xương hàm trên",
+  "xương hộp",
+  "xương lá mía",
+  "xương lệ",
+  "xương móc",
+  "xương nguyệt",
+  "xương quai xanh",
+  "xương quay",
+  "xương rắn",
+  "xương rồng",
+  "xương sàng",
+  "xương sên",
+  "xương thang",
+  "xương thuyền",
+  "xương thái dương",
+  "xương tháp",
+  "xương thê",
+  "xương trán",
+  "xương trụ",
+  "xương xương",
+  "xương đe",
+  "xương đòn",
+  "xương đậu",
+  "xương đỉnh",
+  "xướng ca",
+  "xướng ca vô loài",
+  "xướng danh",
+  "xường xám",
+  "xạ khuẩn",
+  "xạ thủ bắn tỉa",
+  "xạ tuyến",
+  "xảo diệu",
+  "xảo thuật",
+  "xấu bụng",
+  "xấu hoắc",
+  "xầm xì",
+  "xập xoè",
+  "xập xình",
+  "xập xí xập ngầu"
+ ],
+ "flags": [
+  {
+   "headword": "xương lá mía",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the bone's anatomical role instead of showing the word in use.",
+   "fix": "Bác sĩ phát hiện xương lá mía bị lệch. = The doctor found that the vomer was displaced."
+  },
+  {
+   "headword": "xương lệ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bone instead of showing the word in use.",
+   "fix": "Bác sĩ phát hiện một vết nứt ở xương lệ. = The doctor found a crack in the lacrimal bone."
+  },
+  {
+   "headword": "xương móc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example classifies the bone instead of showing the word in use.",
+   "fix": "Anh ấy bị gãy xương móc khi chơi bóng chày. = He broke his hamate bone while playing baseball."
+  },
+  {
+   "headword": "xương nguyệt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bone instead of showing the word in use.",
+   "fix": "Phim X-quang cho thấy xương nguyệt bị trật. = The X-ray showed that the lunate bone was dislocated."
+  },
+  {
+   "headword": "xương tháp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bone instead of showing the word in use.",
+   "fix": "Cú ngã khiến cô ấy bị gãy xương tháp. = The fall caused her to fracture her triquetral bone."
+  },
+  {
+   "headword": "xương thê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example classifies the bone instead of showing the word in use.",
+   "fix": "Bác sĩ kiểm tra xương thê trên phim X-quang. = The doctor examined the trapezoid bone on the X-ray."
+  },
+  {
+   "headword": "xương đậu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bone by its shape instead of showing the word in use.",
+   "fix": "Cô ấy thấy đau ở vùng xương đậu sau cú ngã. = She felt pain around the pisiform bone after the fall."
+  },
+  {
+   "headword": "xập xí xập ngầu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The expression concerns muddling things or manipulating unclear accounts, rather than breaking rules generally, as explained in this [idiom reference](https://www.huongduongtxd.com/thanhngu-2.pdf).",
+   "fix": "muddled; unclear or deliberately confused, especially in accounting or calculations"
+  }
+ ]
+}

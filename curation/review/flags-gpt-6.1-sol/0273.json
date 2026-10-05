@@ -1,0 +1,112 @@
+{
+ "headwords": [
+  "miện",
+  "u buồn",
+  "ngoạm",
+  "cao ráo",
+  "ngưng trệ",
+  "đề án",
+  "thoạt",
+  "quy y",
+  "lòng dạ",
+  "mập ú",
+  "săm",
+  "mất mặt",
+  "nịnh đầm",
+  "lông lá",
+  "in ấn",
+  "bại hoại",
+  "én",
+  "ngòi bút",
+  "thừa cơ",
+  "kêu cứu",
+  "phay",
+  "thượng đẳng",
+  "hoàn vũ",
+  "dây lưng",
+  "chuyên trách",
+  "lưu lượng",
+  "mô thức",
+  "trung nguyên",
+  "danh xưng",
+  "đất trời",
+  "Đông Dương",
+  "sỗ sàng",
+  "nghĩ sao",
+  "mét khối",
+  "vất vưởng",
+  "lực lưỡng",
+  "modem",
+  "hòa nhã",
+  "cốm",
+  "khang trang"
+ ],
+ "flags": [
+  {
+   "headword": "miện",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The standalone word denotes a king's ceremonial headdress, rather than any decorative crown ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-mi%E1%BB%87n)).",
+   "fix": "a king's ceremonial headdress"
+  },
+  {
+   "headword": "miện",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The bride's accessory does not illustrate the royal ceremonial meaning of miện.",
+   "fix": "Nhà vua đội miện khi tế lễ. = The king wore his ceremonial headdress when performing the rites."
+  },
+  {
+   "headword": "cao ráo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cao ráo describes a person's tall stature and does not mean good-looking or neat.",
+   "fix": "tall (of a person)"
+  },
+  {
+   "headword": "săm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The obsolete room sense refers to a hotel room, not a generic small chamber ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-s%C4%83m)).",
+   "fix": "hotel room"
+  },
+  {
+   "headword": "săm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example presents săm as an ordinary literary word for a private chamber rather than its obsolete hotel-room sense.",
+   "fix": "Anh ấy thuê một săm trong khách sạn. = He rented a room in the hotel."
+  },
+  {
+   "headword": "phay",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phay does not mean chopping or splitting a log; its cutting sense is machining with a milling cutter ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-phay)).",
+   "fix": "to mill (machine a surface or groove with a rotating cutter)"
+  },
+  {
+   "headword": "phay",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A native speaker would not use phay for splitting firewood in this sentence.",
+   "fix": "Người thợ phay một rãnh trên chi tiết kim loại. = The worker milled a groove in the metal component."
+  },
+  {
+   "headword": "mô thức",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Mô thức belongs to formal or academic usage and needs a register warning for learners.",
+   "fix": [
+    "formal"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "lưỡi hái",
+  "lưỡng bại câu thương",
+  "lưỡng chiếu",
+  "lưỡng dụng",
+  "lưỡng thê",
+  "lưỡng viện",
+  "lược dịch",
+  "lược sử",
+  "lượng chất",
+  "lượng sượng",
+  "lượng thứ",
+  "lượng từ",
+  "lượng tử hoá",
+  "lượng tử hóa",
+  "lượt về",
+  "lượt đi",
+  "lạ gì",
+  "lạc loài",
+  "lạc thành",
+  "lạc tiên",
+  "lạc trôi",
+  "lạc tướng",
+  "lạc đàn",
+  "lạch bà lạch bạch",
+  "lại hồn",
+  "lại nữa",
+  "lạm dụng tình dục",
+  "lạm phát phi mã",
+  "lạp thể",
+  "lạt mềm buộc chặt",
+  "lạt nhách",
+  "lạt-ma",
+  "lấm láp",
+  "lấm tấm",
+  "lấn chiếm",
+  "lấn lướt",
+  "lấn sân",
+  "lất phất",
+  "lấy dạ tiểu nhân đo lòng quân tử",
+  "lấy lòng"
+ ],
+ "flags": [
+  {
+   "headword": "lạm phát phi mã",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss conflates runaway inflation with hyperinflation, which is called 'siêu lạm phát' ([VPBank](https://www.vpbank.com.vn/bi-kip-va-chia-se/corporate-story-and-tips/corporate-sat-category/lam-phat-la-gi)).",
+   "fix": "runaway inflation"
+  },
+  {
+   "headword": "lạm phát phi mã",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example says runaway inflation, whereas 'hyperinflation' denotes the distinct category 'siêu lạm phát' ([VPBank](https://www.vpbank.com.vn/bi-kip-va-chia-se/corporate-story-and-tips/corporate-sat-category/lam-phat-la-gi)).",
+   "fix": "That country once went through a period of runaway inflation."
+  }
+ ]
+}

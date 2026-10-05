@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "bất cập vật",
+  "bất cốc",
+  "bất giác",
+  "bất hoà",
+  "bất hợp lí",
+  "bất hợp lệ",
+  "bất li thân",
+  "bất mục",
+  "bất nghi",
+  "bất nhã",
+  "bất nhược",
+  "bất nhẫn",
+  "bất phân thắng bại",
+  "bất phương trình",
+  "bất tín nhiệm",
+  "bất túc",
+  "bất tỉnh nhân sự",
+  "bất vụ lợi",
+  "bất đắc chí",
+  "bất đồ",
+  "bấu chí",
+  "bầm giập",
+  "bần cùng sinh đạo tặc",
+  "bần thần",
+  "bần tăng",
+  "bần đạo",
+  "bầu bĩnh",
+  "bầu cua cá cọp",
+  "bầu hồ lô",
+  "bầu ngưng",
+  "bầu rượu",
+  "bầu sao",
+  "bầu ơi thương lấy bí cùng, tuy rằng khác giống nhưng chung một giàn",
+  "bầy hầy",
+  "bầy quân",
+  "bầy tui",
+  "bẩm chất",
+  "bẩm tính",
+  "bẫy kẹp",
+  "bẫy mìn"
+ ],
+ "flags": [
+  {
+   "headword": "bất cập vật",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an intransitive verb instead of showing the term in use.",
+   "fix": "Trong câu này, “ngủ” là động từ bất cập vật. = In this sentence, “ngủ” is an intransitive verb."
+  },
+  {
+   "headword": "bất li thân",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means inseparable from one's person, not simply essential or crucial, as illustrated in this [dictionary](https://dokumen.pub/vietnamese-english-dictionary.html).",
+   "fix": "Remove sense 2 and its example."
+  }
+ ]
+}

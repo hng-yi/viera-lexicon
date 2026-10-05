@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "chiết",
+  "danh giá",
+  "đổi mới",
+  "học thuyết",
+  "ám hiệu",
+  "nguyện vọng",
+  "ca khúc",
+  "tình nguyện viên",
+  "xưa nay",
+  "khạc",
+  "bênh",
+  "kho bạc",
+  "khơi mào",
+  "hung khí",
+  "chuyển biến",
+  "chủ nhiệm",
+  "nặng nhọc",
+  "chăm chú",
+  "chằng",
+  "rào cản",
+  "thiết giáp",
+  "tàu điện",
+  "trở mặt",
+  "bí kíp",
+  "chiêu mộ",
+  "phê duyệt",
+  "phán",
+  "thông số",
+  "phong phú",
+  "vô cảm",
+  "đầu ra",
+  "đầu lòng",
+  "bõ",
+  "tinh vân",
+  "trĩ",
+  "trệt",
+  "hệ trọng",
+  "rực",
+  "tác nhân",
+  "chánh"
+ ],
+ "flags": [
+  {
+   "headword": "chiết",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chiết means propagating by layering, whereas grafting is a different procedure ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-chi%E1%BA%BFt)).",
+   "fix": "to propagate a plant by layering a branch (air-layering)"
+  },
+  {
+   "headword": "chiết",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means preserving the colour of teeth already dyed black, rather than initially staining them black ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-chi%E1%BA%BFt)).",
+   "fix": "to treat black-dyed teeth to preserve their colour; example: Ngày xưa, nhiều phụ nữ chiết răng để giữ màu đen bền lâu. = In the old days, many women treated their black-dyed teeth to preserve the colour."
+  }
+ ]
+}

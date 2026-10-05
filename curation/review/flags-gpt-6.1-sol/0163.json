@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "dẫn độ",
+  "nhân quyền",
+  "nhàm",
+  "hóa trị",
+  "kiên trì",
+  "e sợ",
+  "găm",
+  "vừa phải",
+  "nhờ vả",
+  "hình mẫu",
+  "lấn át",
+  "Mông Cổ",
+  "bổ",
+  "ban hành",
+  "phần tử",
+  "băm",
+  "tiềm ẩn",
+  "bất mãn",
+  "cũi",
+  "trần trụi",
+  "lặng",
+  "cà ri",
+  "bánh rán",
+  "linh dương",
+  "ớn",
+  "xúc tu",
+  "bới",
+  "cũ rích",
+  "tài giỏi",
+  "náo nhiệt",
+  "tếu",
+  "bán cầu",
+  "hỏi han",
+  "giáo",
+  "bấy lâu",
+  "nhẫn tâm",
+  "hồng cầu",
+  "thiên vị",
+  "học sĩ",
+  "gian khổ"
+ ],
+ "flags": [
+  {
+   "headword": "cũi",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The cupboard sense is regional, especially in Central Vietnamese, rather than merely uncommon nationwide ([regional usage](https://en.wiktionary.org/wiki/cụi)).",
+   "fix": "tags: [uncommon, Central]"
+  },
+  {
+   "headword": "bánh rán",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The gloss incorrectly limits bánh rán to sweet mung-bean filling, although savoury versions are also familiar everyday foods ([example](https://vnexpress.net/banh-ran-nhan-man-cho-bua-sang-3248242.html)).",
+   "fix": "fried glutinous rice cake with a sweet or savoury filling"
+  },
+  {
+   "headword": "bới",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Using bới for scooping rice is mainly Central and Southern usage and needs regional labels ([Central usage](https://www.art2all.net/chantran/chantran_tho/tranngocbao/tudienphuongnguhue/tudienphuongnguhue_B.htm)).",
+   "fix": "tags: [Central, Southern]"
+  }
+ ]
+}

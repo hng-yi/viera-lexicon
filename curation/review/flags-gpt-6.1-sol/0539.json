@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "nội san",
+  "nội sinh",
+  "nội thuỷ",
+  "nội thị",
+  "nội tiếp",
+  "nội tiểu bang",
+  "nội tâm mạc",
+  "nội tỉnh",
+  "nội ô",
+  "nội độc tố",
+  "nội động từ",
+  "nộp mạng",
+  "nớ",
+  "nới giá",
+  "nới rộng",
+  "nở mặt",
+  "nợ máu",
+  "nợ như chúa Chổm",
+  "nụ cười",
+  "nức tiếng",
+  "nứt nanh",
+  "nứt đố đổ vách",
+  "nừng",
+  "nửa nạc nửa mỡ",
+  "nữ cai trị",
+  "nữ chính",
+  "nữ công gia chánh",
+  "nữ quyền",
+  "nữ tù trưởng",
+  "nực cười",
+  "nựng nịu",
+  "o mèo",
+  "oa tàng",
+  "oai danh",
+  "oan gia",
+  "oan gia ngõ hẹp",
+  "oan khiên",
+  "oan nghiệt",
+  "oan trái",
+  "oanh tạc cơ"
+ ],
+ "flags": [
+  {
+   "headword": "nội động từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Bài tập yêu cầu học sinh tìm các nội động từ trong đoạn văn. = The exercise asks students to find the intransitive verbs in the passage."
+  },
+  {
+   "headword": "nữ cai trị",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Nữ cai trị” is not a natural Vietnamese noun meaning “female ruler,” because “cai trị” is a verb.",
+   "fix": "Remove this entry; the intended noun phrase is “nhà cai trị nữ.”"
+  },
+  {
+   "headword": "oan gia",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "“Oan gia” meaning an enemy or adversary remains current, so the dated tag misleads learners.",
+   "fix": "Remove the dated tag."
+  }
+ ]
+}

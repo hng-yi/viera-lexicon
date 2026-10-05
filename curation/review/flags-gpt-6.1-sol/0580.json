@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "thệ sư",
+  "thệ ước",
+  "thỉnh nguyện",
+  "thị phạm",
+  "thị sai",
+  "thị thực nhập cảnh",
+  "thịch",
+  "thịnh suy",
+  "thịnh vượng chung",
+  "thịt chó",
+  "thịt kho tàu",
+  "thịt lợn muối",
+  "thịt lợn muối xông khói",
+  "thịt thà",
+  "thọ mệnh",
+  "thọa",
+  "thọc gậy bánh xe",
+  "thỏ rừng",
+  "thỏa thuê",
+  "thối não",
+  "thống kê dân số",
+  "thống kê học",
+  "thốt nốt",
+  "thồn",
+  "thổ canh",
+  "thổ cư",
+  "thổ cẩm",
+  "thổ hào",
+  "thổ lâu",
+  "thổ mộc",
+  "thổ nghi",
+  "thổ nhưỡng",
+  "thổ nhưỡng học",
+  "thổ phục linh",
+  "thổ quan",
+  "thổ sản",
+  "thổ thần",
+  "thổ trước",
+  "thổ trạch",
+  "thổ âm"
+ ],
+ "flags": [
+  {
+   "headword": "thịnh suy",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The word belongs to formal or literary usage, so leaving it untagged suggests it is ordinary conversational language ([usage example](https://vnu.edu.vn/toan-cau-hoa-va-chuyen-thinh-suy-cua-mon-van-hoc-post1941.html)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "thổ âm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal or literary term for a regional accent, and the missing warning could lead learners to use it as everyday conversational vocabulary.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "miễn nhiệm",
+  "truyền tụng",
+  "tiểu xảo",
+  "nom",
+  "giảng giải",
+  "chung chạ",
+  "hải ngoại",
+  "nuông chiều",
+  "mưu trí",
+  "bánh tráng",
+  "thuyền bè",
+  "phai nhạt",
+  "băng ca",
+  "vỗ về",
+  "thi nhân",
+  "khung thành",
+  "chính quy",
+  "bão táp",
+  "dẫn chứng",
+  "buộc lòng",
+  "nuối",
+  "áo tắm",
+  "dưỡng sức",
+  "hiểm ác",
+  "suy tưởng",
+  "ẩm thực",
+  "quý tử",
+  "thanh thế",
+  "huỳnh",
+  "chắp",
+  "hiếm muộn",
+  "ngoắc",
+  "sinh thành",
+  "đích danh",
+  "vật cản",
+  "y như rằng",
+  "nguyên sinh",
+  "viêm khớp",
+  "lóng",
+  "sùng kính"
+ ],
+ "flags": [
+  {
+   "headword": "nom",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The visual sense of nom is more common as a standalone word than the caregiving sense.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "suy tưởng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Suy tưởng belongs to literary or reflective writing and would sound unusually elevated in casual conversation.",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "quý tử",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Quý tử means a son pampered by his family, without the specific attachment to his mother implied by 'mama's boy' ([dictionary](https://vi.wiktionary.org/wiki/qu%C3%BD_t%E1%BB%AD)).",
+   "fix": "pampered son"
+  },
+  {
+   "headword": "quý tử",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese describes a pampered son who cannot do anything for himself, without mentioning dependence on his mother.",
+   "fix": "He is a pampered son and can't do anything for himself."
+  },
+  {
+   "headword": "quý tử",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This disparaging sense commonly expresses contempt or mockery, which the colloquial tag does not convey ([dictionary](https://vi.wiktionary.org/wiki/qu%C3%BD_t%E1%BB%AD)).",
+   "fix": "Use tags [colloquial, derogatory]."
+  },
+  {
+   "headword": "ngoắc",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter ngoắc meaning 'beckon' today than meaning 'hang on a hook'.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

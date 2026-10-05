@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "siêng năng",
+  "bẹp",
+  "phu",
+  "vành",
+  "chiều hướng",
+  "xới",
+  "bắp cải",
+  "cuỗm",
+  "miễn cưỡng",
+  "thành kiến",
+  "nỡ",
+  "mải",
+  "chấp hành",
+  "lãi suất",
+  "hậu hĩnh",
+  "giọng điệu",
+  "lạc đề",
+  "chỉnh tề",
+  "giao lưu",
+  "hẳn nhiên",
+  "sửng sốt",
+  "dứt điểm",
+  "đại hội",
+  "thiếu tướng",
+  "hà",
+  "quân hàm",
+  "vàng hoe",
+  "đô hộ",
+  "quân tử",
+  "cường điệu",
+  "đúng mực",
+  "đại gia đình",
+  "tín ngưỡng",
+  "đồng hương",
+  "đa dạng",
+  "đột xuất",
+  "tiểu đường",
+  "đông đảo",
+  "tốp",
+  "cước"
+ ],
+ "flags": [
+  {
+   "headword": "cường điệu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common verb meaning “to exaggerate” is missing, as recorded in [Wiktionary](https://vi.wiktionary.org/wiki/cường_điệu).",
+   "fix": "verb | to exaggerate; to overstate — Đừng cường điệu vấn đề. = Don't exaggerate the problem."
+  },
+  {
+   "headword": "cước",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning “nylon thread or fishing line” is missing, as recorded in [Rung's dictionary](https://v2.rung.vn/dict/vn_vn/Cước).",
+   "fix": "noun | nylon thread; nylon fishing line — Tôi mua một cuộn cước để câu cá. = I bought a spool of nylon fishing line."
+  },
+  {
+   "headword": "cước",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cước denotes chilblains, rather than frostbite, matching the swollen, red, itchy condition described in [Rung's dictionary](https://v2.rung.vn/dict/vn_vn/Cước).",
+   "fix": "chilblains"
+  },
+  {
+   "headword": "cước",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This use describes fingers affected by chilblains, rather than frostbite, consistent with [Rung's definition](https://v2.rung.vn/dict/vn_vn/Cước).",
+   "fix": "affected by chilblains"
+  }
+ ]
+}

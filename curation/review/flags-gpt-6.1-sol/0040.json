@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "chín",
+  "chuyên nghiệp",
+  "nấu",
+  "nát",
+  "ngược",
+  "khoản",
+  "ngửi",
+  "vẻ",
+  "giàu",
+  "phiên",
+  "tức giận",
+  "cộng sự",
+  "bí ẩn",
+  "đít",
+  "phạm",
+  "lương",
+  "má",
+  "địa điểm",
+  "dọn dẹp",
+  "mặt đất",
+  "phòng thí nghiệm",
+  "đồn",
+  "trực thăng",
+  "tháo",
+  "bang",
+  "vẩn",
+  "âm thanh",
+  "sở hữu",
+  "tự sát",
+  "bạc",
+  "cãi",
+  "đại diện",
+  "vinh dự",
+  "nhanh chóng",
+  "tư",
+  "thắc mắc",
+  "cử động",
+  "dạng",
+  "tình huống",
+  "dựng"
+ ],
+ "flags": [
+  {
+   "headword": "chín",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chín describes ripe fruit, not flowers in full bloom ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%C3%ADn)).",
+   "fix": "ripe"
+  },
+  {
+   "headword": "bí ẩn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bí ẩn means mysterious or enigmatic, whereas secret in the sense of deliberately concealed is bí mật ([dictionary](https://vi.wiktionary.org/wiki/b%C3%AD_%E1%BA%A9n)).",
+   "fix": "mysterious; enigmatic"
+  },
+  {
+   "headword": "tháo",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of removing something worn, such as glasses, a ring or a bandage, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%C3%A1o)).",
+   "fix": "verb | to take off; to remove (something worn)\nex: Anh ấy tháo kính ra. = He took off his glasses."
+  },
+  {
+   "headword": "bạc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday meaning of faded or having lost its original colour is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%A1c)).",
+   "fix": "adj | faded; having lost its original colour\nex: Áo này đã bạc màu rồi. = This shirt has faded."
+  },
+  {
+   "headword": "tư",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Tư in numerals such as hai mươi tư is used across regions, so Northern is misleading ([dictionary](https://vi.wiktionary.org/wiki/t%C6%B0)).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "tư",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tư meaning private occurs in ordinary speech about personal matters and private ownership and is not restricted to formal language ([dictionary](https://vi.wiktionary.org/wiki/t%C6%B0)).",
+   "fix": "Remove formal."
+  }
+ ]
+}

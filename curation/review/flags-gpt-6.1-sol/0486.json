@@ -1,0 +1,142 @@
+{
+ "headwords": [
+  "khác bọt",
+  "khác máu tanh lòng",
+  "khác nhau",
+  "khác phái",
+  "khách khí",
+  "khách khứa",
+  "khách sáo",
+  "khách sạn ngàn sao",
+  "khách thập phương",
+  "khách thể",
+  "khách điếm",
+  "khái luận",
+  "khái lược",
+  "khái quát hoá",
+  "khái quát hóa",
+  "khám bệnh",
+  "khán quan",
+  "khán thính giả",
+  "kháng độc tố",
+  "khát nước",
+  "khâu nhục",
+  "khéo ăn thì no, khéo co thì ấm",
+  "khép mình",
+  "khép nép",
+  "khí cacbonic",
+  "khí cụ",
+  "khí hiếm",
+  "khí hậu học",
+  "khí khái",
+  "khí khổng",
+  "khí lí tưởng",
+  "khí nhạc",
+  "khí tê",
+  "khí áp kế",
+  "khích bác",
+  "khít khìn khịt",
+  "khò khà khò khè",
+  "khò khò",
+  "khó ở",
+  "khóc lóc nghiến răng"
+ ],
+ "flags": [
+  {
+   "headword": "khái luận",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Khái luận” names an introductory overview or discussion, rather than the action of outlining ([dictionary](https://vdict.com/kh%C3%A1i%20lu%E1%BA%ADn%2C3%2C0%2C0.html)).",
+   "fix": "noun | introductory overview; general discussion of a subject"
+  },
+  {
+   "headword": "khái luận",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses “khái luận” as a verb.",
+   "fix": "Giáo sư viết một bài khái luận về văn học. = The professor wrote an introductory overview of literature."
+  },
+  {
+   "headword": "khái luận",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This academic word needs a formal register warning ([dictionary](https://vdict.com/kh%C3%A1i%20lu%E1%BA%ADn%2C3%2C0%2C0.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "khái lược",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Khái lược” belongs to formal written usage rather than ordinary casual speech ([dictionary](https://loigiaihay.com/tu-dien-tv/khai-luoc-eSlt6myzfpHK3.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "khát nước",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bird instead of showing the name in use.",
+   "fix": "Tôi thấy một con khát nước đậu trên cành cây. = I saw a chestnut-winged cuckoo perched on a branch."
+  },
+  {
+   "headword": "khát nước",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The meaning about children suffering for their parents' actions belongs to the whole proverb, not independently to “khát nước”.",
+   "fix": "Remove this separate sense and place the proverb under “Đời cha ăn mặn, đời con khát nước”."
+  },
+  {
+   "headword": "khát nước",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The established figurative sense concerns continuing to gamble after losing, rather than generally pushing one's luck ([dictionary](https://lehboi.github.io/download/VNTD-KTTD/TDKTTD_KH.pdf)).",
+   "fix": "to keep gambling after losses in an attempt to win them back"
+  },
+  {
+   "headword": "khát nước",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example about an annoyed boss does not illustrate the gambling sense.",
+   "fix": "Anh ta đánh bạc khát nước, càng thua càng đánh. = He kept gambling to recover his losses, betting more the more he lost."
+  },
+  {
+   "headword": "khát nước",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss presents a political insult targeting overseas Vietnamese as an ordinary description of homesickness ([usage](https://baotreonline.com/tre_assets/uploads/2025/11/1480-dallas.pdf)).",
+   "fix": "a political taunt directed at overseas Vietnamese associated with the former South Vietnam, punning on being thirsty and having lost one's country"
+  },
+  {
+   "headword": "khát nước",
+   "sense": 5,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This use can disparage overseas Vietnamese and requires an explicit derogatory warning ([dictionary](https://en.wiktionary.org/wiki/kh%C3%A1t_n%C6%B0%E1%BB%9Bc)).",
+   "fix": "Add derogatory."
+  },
+  {
+   "headword": "khí lí tưởng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what an ideal gas is instead of using the term in a situation.",
+   "fix": "Trong bài tập này, ta coi không khí là khí lí tưởng. = In this exercise, we treat air as an ideal gas."
+  },
+  {
+   "headword": "khí áp kế",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a barometer by its function instead of showing the word in use.",
+   "fix": "Anh ấy kiểm tra khí áp kế trước khi ra khơi. = He checked the barometer before heading out to sea."
+  }
+ ]
+}

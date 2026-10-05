@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "dông bão",
+  "xái",
+  "thanh tao",
+  "võ bị",
+  "mẹ kiếp",
+  "nghệ",
+  "mẫn cán",
+  "li bì",
+  "taekwondo",
+  "điện động",
+  "bộng",
+  "đánh giặc",
+  "danh gia vọng tộc",
+  "dạo đầu",
+  "thắt nút",
+  "hất cẳng",
+  "tuyến lệ",
+  "tận lực",
+  "nhông",
+  "bông đùa",
+  "nhà sách",
+  "dè sẻn",
+  "thầy chùa",
+  "đổ bể",
+  "bộ chính trị",
+  "lạp",
+  "thính lực",
+  "khảnh",
+  "khẳn",
+  "bội số",
+  "lộ giới",
+  "chạy chọt",
+  "hoàng tuyền",
+  "truyền khẩu",
+  "bánh cuốn",
+  "quốc phụ",
+  "nột",
+  "lưu niên",
+  "dày dặn",
+  "quần chíp"
+ ],
+ "flags": [
+  {
+   "headword": "mẫn cán",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal word for diligence and competence, so the untagged entry encourages an overly formal choice in casual speech.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "li bì",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In descriptions of sleeping or illness, li bì denotes prolonged deep sleep or stupor, not merely continuity ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/li_b%C3%AC)).",
+   "fix": "deeply asleep or stuporous for a prolonged period; continuously for a long time (of illness or drinking)"
+  },
+  {
+   "headword": "li bì",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The first example describes persistent illness, whereas 'on and off' introduces intermittent illness.",
+   "fix": "As a child he was constantly ill, but look how big and strong he grew up to be."
+  },
+  {
+   "headword": "danh gia vọng tộc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal, literary expression for a distinguished family, rather than a neutral everyday description.",
+   "fix": "Add the tags formal and literary."
+  },
+  {
+   "headword": "tận lực",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression belongs to formal language, which the entry leaves unmarked.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "truyền khẩu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal term for oral transmission, which the entry leaves unmarked.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "cứng đầu",
+  "tài trợ",
+  "miễn dịch",
+  "cà vạt",
+  "ruồi",
+  "tiếng động",
+  "lung tung",
+  "trang điểm",
+  "thích nghi",
+  "ngây thơ",
+  "lĩnh vực",
+  "lắp",
+  "gồm",
+  "hiến",
+  "thẻ tín dụng",
+  "nhà văn",
+  "tộc",
+  "hữu dụng",
+  "cao cấp",
+  "thương mại",
+  "tàn bạo",
+  "ban nhạc",
+  "ra vẻ",
+  "ranh giới",
+  "giang hồ",
+  "loạn",
+  "đoạt",
+  "nhồi",
+  "lập tức",
+  "lỏng",
+  "búa",
+  "quậy",
+  "lỗ hổng",
+  "bực mình",
+  "tông",
+  "lỗi lầm",
+  "hiệu",
+  "khai thác",
+  "đầu gối",
+  "binh lính"
+ ],
+ "flags": [
+  {
+   "headword": "ra vẻ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Ra vẻ' means to put on airs, not to stand on ceremony.",
+   "fix": "to put on airs"
+  },
+  {
+   "headword": "ra vẻ",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The example tells friends not to put on airs with each other, rather than not to stand on ceremony.",
+   "fix": "We're close friends; don't put on airs with each other."
+  },
+  {
+   "headword": "nhồi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In ball sports, 'nhồi bóng' means to dribble by repeatedly bouncing the ball, not to juggle it.",
+   "fix": "to dribble (a ball by repeatedly bouncing it)"
+  },
+  {
+   "headword": "nhồi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Juggling a ball with one's feet is 'tâng bóng', whereas 'nhồi bóng' refers to bouncing it against the ground.",
+   "fix": "Cậu bé nhồi bóng rổ rất giỏi. = The boy is very good at dribbling a basketball."
+  }
+ ]
+}

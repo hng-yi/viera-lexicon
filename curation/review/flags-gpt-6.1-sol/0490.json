@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "khứ hồi",
+  "khứng",
+  "khừ khừ",
+  "ki bo",
+  "ki-lô-gam",
+  "ki-lô-mét",
+  "ki-mô-nô",
+  "ki-ốt",
+  "kilôgam",
+  "kilôoat",
+  "kim bản vị",
+  "kim chi",
+  "kim chỉ nam",
+  "kim cổ",
+  "kim loại hiếm",
+  "kim loại học",
+  "kim loại kiềm",
+  "kim loại kiềm thổ",
+  "kim loại màu",
+  "kim loại nguyên sinh",
+  "kim loại quý",
+  "kim loại sạch",
+  "kim loại thô",
+  "kim loại tái sinh",
+  "kim loại đen",
+  "kim ngạch",
+  "kim nhũ",
+  "kim phượng",
+  "kim quất",
+  "kim sinh học",
+  "kim thanh",
+  "kim thạch học",
+  "kim tiêm dưới da",
+  "kim tiền",
+  "kim tương học",
+  "kim âu",
+  "kim ô",
+  "kinh Pháp Hoa",
+  "kinh dị hợm",
+  "kinh giới"
+ ],
+ "flags": [
+  {
+   "headword": "kilôoat",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example confuses power in kilowatts with energy consumed over an hour.",
+   "fix": "Máy lạnh này có công suất khoảng một kilôoat. = This air conditioner has a power rating of about one kilowatt."
+  },
+  {
+   "headword": "kim loại học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the subject instead of showing the word in use.",
+   "fix": "Tôi đang học môn kim loại học. = I am taking a course in metallography."
+  },
+  {
+   "headword": "kim sinh học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines metallogeny instead of showing the word in use.",
+   "fix": "Anh ấy đang đọc một cuốn sách về kim sinh học. = He is reading a book about metallogeny."
+  },
+  {
+   "headword": "kim tương học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines metallography instead of showing the word in use.",
+   "fix": "Cô ấy chuyên nghiên cứu kim tương học. = She specializes in metallography."
+  },
+  {
+   "headword": "kim ô",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Gác đầu non places the sun at the mountaintop rather than behind the hills.",
+   "fix": "The sun is resting on the distant mountaintop."
+  },
+  {
+   "headword": "kinh dị hợm",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression disparages something as grotesquely weird, so learners need a derogatory warning.",
+   "fix": "[colloquial, uncommon, derogatory]"
+  }
+ ]
+}

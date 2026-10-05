@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "kính trọng",
+  "gi",
+  "ổ",
+  "phá hủy",
+  "ngục",
+  "so sánh",
+  "từ thiện",
+  "linh mục",
+  "lưu",
+  "ham",
+  "thành lập",
+  "đào tạo",
+  "khiên",
+  "vang",
+  "gối",
+  "song",
+  "dặn",
+  "nghĩa vụ",
+  "chiến lược",
+  "tọa độ",
+  "cấy",
+  "chẩn đoán",
+  "nhà ga",
+  "tỉa",
+  "cung điện",
+  "lai",
+  "cầu thủ",
+  "cược",
+  "rách",
+  "đổi ý",
+  "xử lí",
+  "lợi nhuận",
+  "tròn",
+  "hối tiếc",
+  "tàn sát",
+  "pháp sư",
+  "xe tăng",
+  "khốn khổ",
+  "sứ mệnh",
+  "giải trí"
+ ],
+ "flags": [
+  {
+   "headword": "từ thiện",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday meaning 'charity; charitable work', as in làm từ thiện, is missing.",
+   "fix": "noun | charity; charitable work"
+  },
+  {
+   "headword": "song",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The ordinary meaning 'bar', used for window or prison bars, is missing ([dictionary](https://tudientv.com/?t=song)).",
+   "fix": "noun | bar (of a window, gate or prison cell)"
+  },
+  {
+   "headword": "cấy",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This meaning belongs to North Central Vietnamese, which falls under Central rather than Northern ([Wiktionary](https://en.wiktionary.org/wiki/c%E1%BA%A5y)).",
+   "fix": "tags: rare, Central"
+  },
+  {
+   "headword": "lai",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Lai meaning 'give someone a lift' is a Central regional usage and needs that label ([dictionary](https://tudientv.com/?t=lai)).",
+   "fix": "tags: Central"
+  },
+  {
+   "headword": "giải trí",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning 'entertainment; recreation' is missing ([dictionary](https://glosbe.com/vi/en/gi%E1%BA%A3i%20tr%C3%AD)).",
+   "fix": "noun | entertainment; recreation"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "sốt xuất huyết",
+  "nhiễu sự",
+  "nấm hương",
+  "xoàng xĩnh",
+  "dung môi",
+  "mục lục",
+  "nghỉ hưu",
+  "thông chốt",
+  "phi lê",
+  "ca đoàn",
+  "sấn",
+  "tiếng ngáy",
+  "hành văn",
+  "nặc",
+  "cô ta",
+  "biền",
+  "ruồi nhặng",
+  "vũ đoàn",
+  "vi ba",
+  "đại xá",
+  "rệu rã",
+  "nắc nẻ",
+  "cải biên",
+  "bát nháo",
+  "amoni",
+  "chiếu thư",
+  "têm",
+  "tự nhục",
+  "kiếm hiệp",
+  "quang vinh",
+  "gán ghép",
+  "nặng lời",
+  "mứa",
+  "thảm cảnh",
+  "thê lương",
+  "công danh",
+  "nẻ",
+  "gièm",
+  "mát tay",
+  "phi kim"
+ ],
+ "flags": [
+  {
+   "headword": "nắc nẻ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning describing hearty laughter, as in cười nắc nẻ, is missing ([dictionary](https://loigiaihay.com/nac-ne-la-tu-lay-hay-tu-ghep-a175450.html)).",
+   "fix": "Add as the first meaning: adj | hearty; loud and continuous (of laughter); ex: Em bé cười nắc nẻ. = The baby laughs heartily."
+  },
+  {
+   "headword": "thê lương",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word has a literary register that should be labelled ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%C3%AA%20l%C6%B0%C6%A1ng)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "công danh",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese describes prioritising career success before marriage, whereas the translation asserts that he has already married.",
+   "fix": "He wants to establish his career first before getting married."
+  }
+ ]
+}

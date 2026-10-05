@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "dần dần",
+  "chia cắt",
+  "đế",
+  "tiếp nhận",
+  "trốn thoát",
+  "giảm giá",
+  "xinh xắn",
+  "hắc ám",
+  "Thổ",
+  "thổ",
+  "quản lí",
+  "từ ngữ",
+  "trầm cảm",
+  "chính trị gia",
+  "hiếp dâm",
+  "khả thi",
+  "thân xác",
+  "thập niên",
+  "áo choàng",
+  "du khách",
+  "ngu xuẩn",
+  "đà",
+  "nữ sinh",
+  "bổ nhiệm",
+  "thiên văn",
+  "suy đoán",
+  "lãnh",
+  "hiến tế",
+  "sang trọng",
+  "siêu âm",
+  "lây nhiễm",
+  "nhà cửa",
+  "mua bán",
+  "kề",
+  "nóng lòng",
+  "ẩn dụ",
+  "thú vui",
+  "quân nhân",
+  "vì sao",
+  "binh sĩ"
+ ],
+ "flags": [
+  {
+   "headword": "đế",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning 'base' of an object is missing ([dictionary](https://vi.wiktionary.org/wiki/đế)).",
+   "fix": "noun | base; supporting bottom part of an object"
+  },
+  {
+   "headword": "ngu xuẩn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory description that can insult someone when applied to them.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "lãnh",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The receive or collect sense is mainly Southern usage and needs a regional label ([dictionary](https://en.wiktionary.org/wiki/lãnh)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "siêu âm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "An ultrasound machine is 'máy siêu âm', whereas 'siêu âm' here names the scan.",
+   "fix": "ultrasound scan"
+  }
+ ]
+}

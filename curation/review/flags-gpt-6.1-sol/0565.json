@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "số tự nhiên",
+  "số vô tỉ",
+  "số điện thoại",
+  "số đo",
+  "số đông",
+  "số đếm",
+  "sốc nhiễm khuẩn",
+  "sốc nhiễm trùng",
+  "sốc phản vệ",
+  "sống mái",
+  "sống thử",
+  "sống đời",
+  "sống ảo",
+  "sốp",
+  "sốt phát ban",
+  "sốt vàng",
+  "sồn sồn",
+  "sổ hồng",
+  "sới",
+  "sớn sác",
+  "sờ nặng",
+  "sờ sẫm",
+  "sờn",
+  "sở thuộc",
+  "sở đoản",
+  "sở đoảng",
+  "sởn sơ",
+  "sợi huyết",
+  "sụm",
+  "sụn chêm",
+  "sụt lún",
+  "sụt sà sụt sịt",
+  "sủi dìn",
+  "sức bật",
+  "sức khoẻ",
+  "sức khoẻ tinh thần",
+  "sức khoẻ tâm thần",
+  "sức khỏe tinh thần",
+  "sức khỏe tâm thần",
+  "sức vóc"
+ ],
+ "flags": [
+  {
+   "headword": "sồn sồn",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The agitated, noisy sense is an ordinary colloquial use, not a rare one ([dictionary](https://vi.wiktionary.org/wiki/s%E1%BB%93n_s%E1%BB%93n)).",
+   "fix": "Remove rare; retain colloquial."
+  },
+  {
+   "headword": "sờ nặng",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is a familiar spelling name used to distinguish S from X, so rare is misleading ([dictionary](https://vi.wiktionary.org/wiki/s%E1%BB%9D_n%E1%BA%B7ng)).",
+   "fix": "Remove rare; retain informal."
+  },
+  {
+   "headword": "sủi dìn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name is used mainly in northern Vietnam, especially Hải Phòng, and needs a regional label ([Hải Phòng tourism guide](https://cdn.haiphong.gov.vn/gov-hpg/PortalFolders/ImageUploads/SDL/7993/Tiem%20nang%20du%20lich/Checklist%20HP.pdf)).",
+   "fix": "Add Northern."
+  }
+ ]
+}

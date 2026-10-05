@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "ngỏ",
+  "rắm",
+  "nhà xuất bản",
+  "tùy tiện",
+  "rảnh rỗi",
+  "xay",
+  "hậu cần",
+  "vô lễ",
+  "cuốc",
+  "tương đồng",
+  "xù",
+  "hớ",
+  "tiền lệ",
+  "già nua",
+  "nguyên bản",
+  "hưu trí",
+  "tản bộ",
+  "gây tê",
+  "ống khói",
+  "lạnh giá",
+  "âm thầm",
+  "nghị lực",
+  "quê nhà",
+  "xốp",
+  "trắc ẩn",
+  "đà điểu",
+  "chống đỡ",
+  "dóc",
+  "phẳng",
+  "sồi",
+  "bình tâm",
+  "lác",
+  "thủ thuật",
+  "hội thoại",
+  "cường độ",
+  "thành thạo",
+  "tan rã",
+  "đường lối",
+  "tự ái",
+  "duyên"
+ ],
+ "flags": [
+  {
+   "headword": "hưu trí",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning describing someone who has retired from work.",
+   "fix": "adj | retired"
+  },
+  {
+   "headword": "trắc ẩn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Trắc ẩn denotes compassion or pity, rather than the action of feeling compassion, as the phrase lòng trắc ẩn in the example shows.",
+   "fix": "noun [formal] | compassion; pity"
+  },
+  {
+   "headword": "dóc",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Dóc in nói dóc is used mainly in Southern Vietnamese and lacks a regional tag.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "lác",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Lác meaning sedge is primarily Southern usage and lacks a regional tag.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "tự ái",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Being tự ái means being touchy about one's pride, not being narcissistic.",
+   "fix": "touchy; easily offended"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "y tá",
+  "tâm trí",
+  "đầy đủ",
+  "mỏ",
+  "bệ hạ",
+  "ám ảnh",
+  "đầu tư",
+  "thủy",
+  "đại nhân",
+  "cơ mà",
+  "quan điểm",
+  "hung thủ",
+  "bếp",
+  "liên tục",
+  "kẹo",
+  "trời ơi",
+  "vệ sinh",
+  "sinh viên",
+  "giờ đây",
+  "nụ",
+  "biểu diễn",
+  "nghiện",
+  "cánh tay",
+  "bầu trời",
+  "thông điệp",
+  "lợi dụng",
+  "tức là",
+  "bắt giữ",
+  "tò mò",
+  "dãy",
+  "con cái",
+  "giàu có",
+  "thí nghiệm",
+  "ác mộng",
+  "đối thủ",
+  "tuyến",
+  "xé",
+  "lãnh chúa",
+  "yếu đuối",
+  "vốn"
+ ],
+ "flags": [
+  {
+   "headword": "ám ảnh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning 'obsession' is missing, although the second example already uses it.",
+   "fix": "Add noun | obsession; haunting thought, and move 'Điều đó đã trở thành một nỗi ám ảnh. = It became an obsession.' to that meaning."
+  },
+  {
+   "headword": "cơ mà",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common sentence-final use reminding someone of a fact or contradicting them is missing ([dictionary](https://dictionary.zim.vn/viet-anh/co-ma-tieng-anh-la-gi)).",
+   "fix": "Add particle [colloquial] | but; though (reminding or contradicting someone); ex: Anh đã hứa rồi cơ mà! = But you already promised!"
+  },
+  {
+   "headword": "vệ sinh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday euphemistic meaning in 'đi vệ sinh' is missing ([dictionary](https://vi.wiktionary.org/wiki/v%E1%BB%87_sinh)).",
+   "fix": "Add verb [euphemistic] | to relieve oneself; to use the toilet (in đi vệ sinh); ex: Tôi cần đi vệ sinh. = I need to use the toilet."
+  }
+ ]
+}

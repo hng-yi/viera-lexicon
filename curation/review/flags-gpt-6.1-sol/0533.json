@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "niệu khoa",
+  "niệu quản",
+  "no bụng đói con mắt",
+  "no đủ",
+  "no ấm",
+  "nobeli",
+  "nom dòm",
+  "non choẹt",
+  "non nước",
+  "non sông",
+  "noãn hoàng",
+  "noãn thai sinh",
+  "nua",
+  "nuôi ong tay áo",
+  "nuôi sống",
+  "nàng thơ",
+  "nàng tiên",
+  "nàng tiên cá",
+  "nào giờ",
+  "này kia khác nọ",
+  "này nọ",
+  "ná thở",
+  "nát rượu",
+  "nâng bi",
+  "nâng cao",
+  "não cá vàng",
+  "não mô cầu",
+  "não ngắn",
+  "não nuột",
+  "não nùng",
+  "não to",
+  "não trạng",
+  "ném tạ",
+  "ném đá giấu tay",
+  "nét mặt",
+  "nét ngài",
+  "nêm nếm",
+  "nên hồn",
+  "nên người",
+  "nên thân"
+ ],
+ "flags": [
+  {
+   "headword": "nobeli",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines nobelium instead of showing the word in use.",
+   "fix": "Các nhà khoa học chỉ tạo được một lượng rất nhỏ nobeli. = Scientists have produced only a very small amount of nobelium."
+  },
+  {
+   "headword": "nào giờ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression for 'ever/up to now' is mainly Southern Vietnamese.",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "ná thở",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern Vietnamese, as recorded in the [Dictionary of Southern Vietnamese Words](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "nâng bi",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression has vulgar sexual imagery, which the slang and derogatory tags do not warn learners about.",
+   "fix": "[slang, derogatory, vulgar]"
+  },
+  {
+   "headword": "não to",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The slang expression means smart or clever, but does not mean elegant.",
+   "fix": "smart; clever"
+  },
+  {
+   "headword": "nên người",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "'Grow up to be somebody' suggests becoming successful or important rather than becoming a decent person.",
+   "fix": "The parents work hard so that their child will grow up to be a decent person."
+  }
+ ]
+}

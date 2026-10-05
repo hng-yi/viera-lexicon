@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "nước có ga",
+  "nước cường toan",
+  "nước cống",
+  "nước cốt dừa",
+  "nước cứng",
+  "nước dùng",
+  "nước dừa",
+  "nước giải",
+  "nước giải khát",
+  "nước gạo",
+  "nước hàng",
+  "nước kiệu",
+  "nước kết tinh",
+  "nước lèo",
+  "nước lên",
+  "nước lạnh",
+  "nước muối",
+  "nước mía",
+  "nước mũi",
+  "nước mắt cá sấu",
+  "nước mẹ",
+  "nước ngọt có ga",
+  "nước non",
+  "nước nặng",
+  "nước phèn",
+  "nước ròng",
+  "nước rửa tay",
+  "nước suối",
+  "nước sông không phạm nước giếng",
+  "nước thơm",
+  "nước tro",
+  "nước trắng",
+  "nước tăng lực",
+  "nước uống",
+  "nước xuýt",
+  "nước xáo",
+  "nước xốt",
+  "nước xốt cà chua",
+  "nước ép",
+  "nước đái"
+ ],
+ "flags": [
+  {
+   "headword": "nước kiệu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A trot and an amble are distinct horse gaits, and nước kiệu means a trot.",
+   "fix": "trot (a horse's gait)"
+  },
+  {
+   "headword": "nước phèn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nước phèn refers to water contaminated with acidic iron or aluminium compounds, not specifically water with a high alum content.",
+   "fix": "acidic water containing iron or aluminium compounds"
+  },
+  {
+   "headword": "nước đái",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Nước đái is a crude term for urine, and the existing tags do not warn the learner adequately.",
+   "fix": "[colloquial, informal, vulgar]"
+  }
+ ]
+}

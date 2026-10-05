@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "phong trần",
+  "kinh thiên động địa",
+  "diêm dúa",
+  "tương tàn",
+  "hình dong",
+  "xây cất",
+  "khẹc",
+  "thanh âm",
+  "đắng nghét",
+  "bệ vệ",
+  "giạy",
+  "bánh lễ",
+  "vợi",
+  "giao điểm",
+  "bò viên",
+  "đường đột",
+  "gian tà",
+  "đắng lòng",
+  "giê",
+  "hoại",
+  "rơm rớm",
+  "tiền tố",
+  "ô mai",
+  "thưởng ngoạn",
+  "để lại",
+  "thori",
+  "bất hại",
+  "thần minh",
+  "đáng thương",
+  "lép vế",
+  "xửng",
+  "ngoại viện",
+  "ngoằn ngoèo",
+  "bồn cầu",
+  "ngón trỏ",
+  "xương chày",
+  "coban",
+  "cô gái",
+  "ác đức",
+  "bùng binh"
+ ],
+ "flags": [
+  {
+   "headword": "phong trần",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Rám nắng means tanned by the sun, whereas sunburnt suggests skin damaged by sunlight.",
+   "fix": "He has a rugged, suntanned look."
+  },
+  {
+   "headword": "thanh âm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thanh âm means sound without requiring it to be pleasing to the ear, as confirmed by the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-thanh%20%C3%A2m).",
+   "fix": "sound"
+  },
+  {
+   "headword": "đường đột",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Đường đột is used naturally in everyday conversation, so the formal tag misleadingly restricts its use.",
+   "fix": "Remove formal."
+  },
+  {
+   "headword": "giê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it in context.",
+   "fix": "Biển số xe có chữ giê ở cuối. = The vehicle's license plate has a G at the end."
+  },
+  {
+   "headword": "bất hại",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines bất hại instead of showing its use.",
+   "fix": "Ông thực hành bất hại bằng cách tránh sát sinh. = He practices ahimsa by avoiding killing living beings."
+  },
+  {
+   "headword": "thần minh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thần minh is literary vocabulary that learners would not normally use for gods in casual conversation.",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "xửng",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The weather sense is Central Vietnamese usage and needs a regional label, as illustrated by [usage in Huế](https://blogdulichdanang.com/xung-va-mua-hue-cai-thu-vui-cua-nguoi-xu-hue-moi-mua-mua).",
+   "fix": "Add Central."
+  }
+ ]
+}

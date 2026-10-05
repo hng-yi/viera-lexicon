@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "mãng",
+  "bận bịu",
+  "biên",
+  "lễ độ",
+  "dáng vẻ",
+  "quèn",
+  "kiểm định",
+  "dựng đứng",
+  "công lí",
+  "trung hòa",
+  "phản vệ",
+  "khát vọng",
+  "chướng ngại",
+  "độc thoại",
+  "ngông cuồng",
+  "ống nghiệm",
+  "oải hương",
+  "thủ",
+  "chủ quyền",
+  "tắc nghẽn",
+  "sư muội",
+  "sên",
+  "khuyết tật",
+  "mất cắp",
+  "lạng",
+  "đấu thủ",
+  "cánh tả",
+  "tay trắng",
+  "máy lạnh",
+  "Đại hãn",
+  "metro",
+  "khoai lang",
+  "đanh",
+  "bao dung",
+  "giao thương",
+  "credit",
+  "phản động",
+  "quái lạ",
+  "cáu kỉnh",
+  "bàng"
+ ],
+ "flags": [
+  {
+   "headword": "quèn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone quèn can belittle them, so this sense needs a derogatory warning.",
+   "fix": "Add tag: derogatory."
+  },
+  {
+   "headword": "phản vệ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phản vệ is an allergic reaction, not a defensive response to an inherently harmful substance ([Ministry of Health definition](https://vbpl.vn/boxaydung/Pages/vbpq-toanvan.aspx?ItemID=128248&Keyword=)).",
+   "fix": "anaphylaxis (a severe, potentially life-threatening allergic reaction)"
+  },
+  {
+   "headword": "chướng ngại",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss falsely excludes physical obstacles, which chướng ngại can also denote ([dictionary definition](https://vi.wiktionary.org/wiki/chướng_ngại)).",
+   "fix": "obstacle; hindrance (physical or abstract)"
+  },
+  {
+   "headword": "cánh tả",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners today are much more likely to encounter cánh tả in politics than as the side of a sports pitch.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "đanh",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đanh is a regional word for a nail, not an archaic word for an anchor ([dictionary definition](https://vi.wiktionary.org/wiki/đanh)).",
+   "fix": "Remove the anchor sense and its example."
+  },
+  {
+   "headword": "giao thương",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Giao thương belongs to formal discussion of commerce rather than ordinary casual talk about doing business.",
+   "fix": "Add tag: formal."
+  }
+ ]
+}

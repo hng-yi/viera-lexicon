@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "địa vực",
+  "địa đầu",
+  "địa đồ",
+  "địch hoạ",
+  "địch hậu",
+  "địch họa",
+  "địch tình",
+  "địch vận",
+  "định danh",
+  "định kì",
+  "định ngữ",
+  "định rõ",
+  "địt mẹ",
+  "địu",
+  "đọ mắt",
+  "đọt",
+  "đọt mọt",
+  "đỏ au",
+  "đỏ choé",
+  "đỏ chói",
+  "đỏ chót",
+  "đỏ con mắt",
+  "đỏ cạch",
+  "đỏ hoe",
+  "đỏ hoét",
+  "đỏ hung",
+  "đỏ hỏn",
+  "đỏ ké",
+  "đỏ mặt tía tai",
+  "đỏ nọc",
+  "đỏ đen",
+  "đỏ đèn",
+  "đỏ đắn",
+  "đỏ đọc",
+  "đỏm dáng",
+  "đỏng đa đỏng đảnh",
+  "đốc chiến",
+  "đốc-tờ",
+  "đối nhân xử thế",
+  "đối sánh"
+ ],
+ "flags": [
+  {
+   "headword": "định danh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common identification sense, encountered in accounts and identity verification, is missing ([reference](https://vi.wiktionary.org/wiki/định_danh)).",
+   "fix": "verb | to identify; to establish or verify the identity of"
+  },
+  {
+   "headword": "đỏ đen",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The data structure is called cây đỏ đen; đỏ đen alone does not mean a red-black tree.",
+   "fix": "Remove sense 3 and place it under cây đỏ đen."
+  },
+  {
+   "headword": "đốc-tờ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what people called doctors instead of using đốc-tờ to refer to a doctor.",
+   "fix": "Ông đốc-tờ đến khám cho bà tôi. = The doctor came to examine my grandmother."
+  },
+  {
+   "headword": "đốc-tờ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Doctor-sir is an invented English expression that misrepresents ông đốc-tờ.",
+   "fix": "In the past, people called doctors “ông đốc-tờ”."
+  },
+  {
+   "headword": "đối sánh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Đối sánh is formal academic vocabulary, but uncommon does not communicate that register ([reference](https://loigiaihay.com/tu-dien-tv/so-sanh-egUIfSiaMvaCW.html)).",
+   "fix": "[uncommon, formal]"
+  }
+ ]
+}

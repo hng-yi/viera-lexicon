@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "khạc nhổ",
+  "sự vụ",
+  "sặc sỡ",
+  "nhĩ",
+  "xoắn ốc",
+  "gay go",
+  "giá thú",
+  "giống nòi",
+  "chậc",
+  "Ngái",
+  "ngái",
+  "nhàn rỗi",
+  "ốm nhom",
+  "thời vụ",
+  "ăn roi",
+  "liêm chính",
+  "sầu muộn",
+  "rỉa",
+  "ái tình",
+  "trỏng",
+  "vượt bậc",
+  "điện toán",
+  "nghiêm trang",
+  "quơ",
+  "cữ",
+  "phục thù",
+  "thiện cảm",
+  "tứ quý",
+  "trắc nghiệm",
+  "nữa là",
+  "kiêng khem",
+  "tương trợ",
+  "tề tựu",
+  "muông thú",
+  "chính yếu",
+  "năn",
+  "ống nghe",
+  "thị",
+  "hầu tước",
+  "xanh lè"
+ ],
+ "flags": [
+  {
+   "headword": "ngái",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The dialectal word for 'far' is characteristic of Central Vietnamese, so the Northern tag misidentifies its regional use ([source](https://ngonngu.net/loptu_phamvisudung/347)).",
+   "fix": "Remove Northern; retain Central."
+  },
+  {
+   "headword": "ngái",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This meaning remains in everyday Central dialect speech and is not archaic.",
+   "fix": "Remove archaic."
+  },
+  {
+   "headword": "cữ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of a scheduled feeding or dose, as in 'cữ bú' ([example](https://www.vinmec.com/vie/bai-viet/be-thuong-phai-bu-trong-bao-lau-vi)).",
+   "fix": "noun | a scheduled feeding or dose; ex: Bé bú sáu cữ mỗi ngày. = The baby has six feeds a day."
+  },
+  {
+   "headword": "tứ quý",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The Catholic grouping includes Easter and Pentecost, while Assumption was added to form 'ngũ quý' ([source](https://vass.gov.vn/noidung/tintuc/Lists/DaoTaoSauDaiHoc/Attachments/617/Ton%20giao%20tin%20nguong%20o%20khu%20vuc%20tay%20nam%20bo%20hien%20nay.pdf)).",
+   "fix": "four major Catholic feasts: Christmas, Easter, Ascension and Pentecost"
+  }
+ ]
+}

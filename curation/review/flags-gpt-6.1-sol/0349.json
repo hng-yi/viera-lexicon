@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "trăng non",
+  "biếng nhác",
+  "ngạo nghễ",
+  "ham muốn",
+  "hin",
+  "xót xa",
+  "án ngữ",
+  "sứ đồ",
+  "vô mưu",
+  "hạng nhất",
+  "mĩ thuật",
+  "bánh Thánh",
+  "nhà sàn",
+  "đập phá",
+  "mặt phẳng",
+  "vô loại",
+  "nghĩa huynh",
+  "đầu tắt mặt tối",
+  "cộng sản chủ nghĩa",
+  "họp hành",
+  "Nam Á",
+  "tín hữu",
+  "phức cảm",
+  "xì dầu",
+  "khiếp nhược",
+  "vâng lời",
+  "tựu trường",
+  "đáo",
+  "hèn mạt",
+  "bỡn cợt",
+  "quạc",
+  "nhanh nhảu",
+  "đoảng",
+  "crush",
+  "bù xù",
+  "chụt",
+  "cấm kị",
+  "nguyên âm",
+  "tập tạ",
+  "ai oán"
+ ],
+ "flags": [
+  {
+   "headword": "vô loại",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory description of a person, but the tags do not warn the learner.",
+   "fix": "[literary, uncommon, derogatory]"
+  },
+  {
+   "headword": "cộng sản chủ nghĩa",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses the expression itself instead of using it to mean communism.",
+   "fix": "Ông tin vào cộng sản chủ nghĩa. = He believed in communism."
+  },
+  {
+   "headword": "Nam Á",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common geographical noun meaning South Asia, which is also the use shown in the first example.",
+   "fix": "noun | South Asia"
+  },
+  {
+   "headword": "hèn mạt",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory term condemning someone's character or conduct, but it lacks a warning tag.",
+   "fix": "[derogatory]"
+  }
+ ]
+}

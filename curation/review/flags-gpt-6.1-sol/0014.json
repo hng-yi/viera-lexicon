@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "dẫn",
+  "hạ",
+  "bí mật",
+  "lòng",
+  "vị trí",
+  "tính",
+  "điểm",
+  "dám",
+  "chống",
+  "dạy",
+  "nói dối",
+  "biển",
+  "mạnh",
+  "đằng",
+  "bàn",
+  "trận",
+  "chuyến",
+  "ghét",
+  "dễ",
+  "liên quan",
+  "nhờ",
+  "máy bay",
+  "da",
+  "nhiệm vụ",
+  "câu chuyện",
+  "triệu",
+  "kéo",
+  "thông tin",
+  "diễn",
+  "ngốc",
+  "quân",
+  "rõ ràng",
+  "đạn",
+  "băng",
+  "cá",
+  "bình thường",
+  "cầm",
+  "đất",
+  "ngựa",
+  "bản thân"
+ ],
+ "flags": [
+  {
+   "headword": "dám",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Dám does not mean ‘to weep’ or ‘to cry’; this is an invented sense ([dictionary](https://vi.wiktionary.org/wiki/d%C3%A1m)).",
+   "fix": "Delete sense 3 and its example."
+  },
+  {
+   "headword": "bàn",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Bàn meaning a game of chess is dated or dialectal, so presenting it without a warning misleads learners about ordinary usage ([dictionary](https://vi.wiktionary.org/wiki/b%C3%A0n)).",
+   "fix": "Add the tag dated."
+  },
+  {
+   "headword": "bàn",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bàn counts goals, not general points scored in sports ([dictionary](https://vi.wiktionary.org/wiki/b%C3%A0n)).",
+   "fix": "classifier for goals scored"
+  },
+  {
+   "headword": "kéo",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning ‘to last or continue’ is missing and cannot be understood from ‘to pull’ ([dictionary](https://vi.wiktionary.org/wiki/k%C3%A9o)).",
+   "fix": "verb | to last; to continue — Buổi họp kéo đến chiều. = The meeting lasted until the afternoon."
+  },
+  {
+   "headword": "cầm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning ‘to pawn’ is missing ([dictionary](https://vi.wiktionary.org/wiki/c%E1%BA%A7m)).",
+   "fix": "verb | to pawn (leave an item as security for a loan) — Anh ấy cầm chiếc xe máy để vay tiền. = He pawned his motorbike to borrow money."
+  }
+ ]
+}

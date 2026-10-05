@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "Úc",
+  "thảm sát",
+  "coi thường",
+  "bắp",
+  "tinh tế",
+  "chỉ điểm",
+  "sưng",
+  "nói chung",
+  "thảy",
+  "cưa",
+  "xã",
+  "tổ quốc",
+  "quyên góp",
+  "vươn",
+  "sư huynh",
+  "tối thiểu",
+  "thừng",
+  "hạm",
+  "cốp",
+  "gươm",
+  "buôn lậu",
+  "phục kích",
+  "động lực",
+  "phù hiệu",
+  "bắt nạt",
+  "siết",
+  "quấy rầy",
+  "lừa gạt",
+  "quân đoàn",
+  "lên tiếng",
+  "gây rối",
+  "bế",
+  "bất lực",
+  "nguội",
+  "đại đội",
+  "yêu quý",
+  "trần truồng",
+  "dàn xếp",
+  "xách",
+  "mỡ"
+ ],
+ "flags": [
+  {
+   "headword": "siết",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The fast-flowing-water sense belongs to xiết, not siết, as recorded in [VDict](https://vdict.com/xi%E1%BA%BFt,3,0,0.html).",
+   "fix": "Move this sense to xiết and change the example to: Nước sông chảy xiết lắm, đừng xuống tắm."
+  },
+  {
+   "headword": "dàn xếp",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Dàn xếp means arranging or settling something satisfactorily, not simply exchanging views ([reference](https://nghengu.vn/tieng-nghe-cua-toi/dan-xep-hay-gian-xep-1750.html)).",
+   "fix": "Remove sense 3 and retain the settlement meaning under senses 1–2."
+  }
+ ]
+}

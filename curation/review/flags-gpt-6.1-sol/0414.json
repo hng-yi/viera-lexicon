@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bẫy nợ",
+  "bậc trung",
+  "bậc tự do",
+  "bập bùng",
+  "bật hơi",
+  "bật tôm",
+  "bật đèn xanh",
+  "bậu",
+  "bắn tin",
+  "bắn tùm lum",
+  "bắn tỉa",
+  "bắn vào quá khứ",
+  "bắng nhắng",
+  "bắp chuối",
+  "bắp chuối mỏ dài",
+  "bắp non",
+  "bắt chiếc",
+  "bắt chước như khỉ",
+  "bắt chợt",
+  "bắt con",
+  "bắt cá hai tay",
+  "bắt cô trói cột",
+  "bắt gió",
+  "bắt kịp",
+  "bắt lỗi",
+  "bắt tốt qua đường",
+  "bắt đền",
+  "bằng cớ",
+  "bằng cứ",
+  "bằng khen",
+  "bằng lái",
+  "bằng lái xe",
+  "bằng lăng",
+  "bằng mặt không bằng lòng",
+  "bằng mọi giá",
+  "bằng niềm tin",
+  "bằng trắc",
+  "bặt vô âm tín",
+  "bẹ sườn",
+  "bẹo"
+ ],
+ "flags": [
+  {
+   "headword": "bậu",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The windowsill sense is current everyday usage, whereas the pronoun is now chiefly encountered in traditional verse and older speech ([VDict](https://vdict.com/b%E1%BA%ADu%2C3%2C0%2C0.html)).",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "bắn tỉa",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bắn tỉa names the shooting activity, while tay bắn tỉa in the example names the sniper.",
+   "fix": "sniping; sniper fire"
+  },
+  {
+   "headword": "bắt chợt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses bắt chợt as though it were bất chợt ('suddenly'), whereas the verb means catching someone unexpectedly doing something concealed ([ZIM Dictionary](https://dictionary.zim.vn/viet-anh/bat-chot-tieng-anh-la-gi-1)).",
+   "fix": "Tôi bắt chợt nó đang ăn vụng trong bếp. = I caught him sneaking food in the kitchen."
+  },
+  {
+   "headword": "bắt tốt qua đường",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the chess rule instead of showing the term in use.",
+   "fix": "Nước bắt tốt qua đường của Trắng khiến Đen mất một con tốt. = White's en passant capture cost Black a pawn."
+  }
+ ]
+}

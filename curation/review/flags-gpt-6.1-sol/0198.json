@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "động kinh",
+  "dại dột",
+  "che khuất",
+  "phả",
+  "mộc",
+  "hoa hậu",
+  "lủng lẳng",
+  "nịnh bợ",
+  "phép tắc",
+  "cá độ",
+  "khởi nghiệp",
+  "vang dội",
+  "máu mủ",
+  "chối bỏ",
+  "điều lệ",
+  "lệ",
+  "chài",
+  "kiểm duyệt",
+  "điện năng",
+  "cáy",
+  "công hiệu",
+  "sanh",
+  "hội ngộ",
+  "xá tội",
+  "giũ",
+  "hướng đạo",
+  "thô sơ",
+  "thu gom",
+  "râu ria",
+  "xẹp",
+  "thầm",
+  "yếu kém",
+  "sòng phẳng",
+  "ngoại bang",
+  "quyết đoán",
+  "sớm muộn",
+  "phú",
+  "truyền tải",
+  "đo lường",
+  "kiểm lâm"
+ ],
+ "flags": [
+  {
+   "headword": "động kinh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the usual noun meaning, epilepsy, which learners need to understand expressions such as bị động kinh.",
+   "fix": "noun | epilepsy; ex: Cậu bé bị động kinh từ nhỏ. = The boy has had epilepsy since he was little."
+  },
+  {
+   "headword": "mộc",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Mộc meaning an official stamp is mainly Southern usage.",
+   "fix": "tags: [Southern]"
+  },
+  {
+   "headword": "lệ",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The rule or custom meaning is ordinary usage, including đã thành lệ and theo lệ thường, rather than literary ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%E1%BB%87)).",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "lệ",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter lệ meaning rule or custom in everyday Vietnamese than the literary meaning tears.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

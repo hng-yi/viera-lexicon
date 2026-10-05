@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "trước khi",
+  "trước sau như một",
+  "trước tác",
+  "trường bay",
+  "trường bán công",
+  "trường cao học",
+  "trường cao đẳng",
+  "trường dòng",
+  "trường kiếm",
+  "trường mâu",
+  "trường mĩ thuật",
+  "trường mầm non",
+  "trường mẫu giáo",
+  "trường nghề",
+  "trường quốc tế",
+  "trường sinh bất lão",
+  "trường trung học",
+  "trường trung học cơ sở",
+  "trường trung học phổ thông",
+  "trường vốn",
+  "trường đại học",
+  "trường độ",
+  "trưởng công chúa",
+  "trưởng giả",
+  "trưởng họ",
+  "trưởng nam",
+  "trưởng nữ",
+  "trưởng thượng",
+  "trượt băng",
+  "trượt nước",
+  "trượt pa-tanh",
+  "trượt vỏ chuối",
+  "trại tập trung",
+  "trại âm",
+  "trạm xe buýt",
+  "trạng huống",
+  "trạng ngữ",
+  "trạng sư",
+  "trạng từ",
+  "trạng từ chỉ mức độ"
+ ],
+ "flags": [
+  {
+   "headword": "trượt nước",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this example, trượt nước names the activity of sliding down a water slide, rather than the slide itself.",
+   "fix": "sliding down a water slide"
+  },
+  {
+   "headword": "trưởng công chúa",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Trưởng công chúa bước vào cung điện. = The grand princess entered the palace."
+  },
+  {
+   "headword": "trưởng giả",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The sense illustrated here disparages someone for ostentatious wealth and needs a derogatory warning ([usage discussion](https://www.nguyentruongto.info/index.php/bao-chi/vn/19832-thoi-tru-ng-gi)).",
+   "fix": "[derogatory]"
+  },
+  {
+   "headword": "trạng huống",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Trạng huống belongs to formal or literary writing, so uncommon alone does not warn against casual use.",
+   "fix": "[uncommon, literary]"
+  }
+ ]
+}

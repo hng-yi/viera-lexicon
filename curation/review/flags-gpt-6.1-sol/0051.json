@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "lau",
+  "chứng cứ",
+  "dọc",
+  "thương lượng",
+  "ngôn ngữ",
+  "khói",
+  "phi thường",
+  "video",
+  "vệ tinh",
+  "giải thoát",
+  "kênh",
+  "giận dữ",
+  "buôn",
+  "khôn ngoan",
+  "tin đồn",
+  "nọ",
+  "biểu tượng",
+  "phương",
+  "gạt",
+  "rốt cuộc",
+  "kích hoạt",
+  "bao gồm",
+  "phù hộ",
+  "vinh quang",
+  "tuyệt vọng",
+  "sẵn lòng",
+  "quy tắc",
+  "kém",
+  "thảo luận",
+  "ngày càng",
+  "to lớn",
+  "trách",
+  "sự việc",
+  "cân",
+  "lời nói",
+  "nguyền",
+  "lặp",
+  "cất",
+  "đấu tranh",
+  "cộng"
+ ],
+ "flags": [
+  {
+   "headword": "gạt",
+   "sense": 9,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This debt sense means handing over property to repay a debt, rather than offering collateral for a new loan ([dictionary](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-18)).",
+   "fix": "to hand over property in repayment of a debt; ex: Anh ta gạt chiếc xe máy để trả nợ. = He handed over his motorbike to repay the debt."
+  },
+  {
+   "headword": "cất",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday Southern meaning 'to build', commonly heard in 'cất nhà' ([reference](https://www.vjol.info/cat-co-nghia-la-gi)).",
+   "fix": "verb [Southern] | to build (a house); ex: Gia đình tôi đang cất nhà mới. = My family is building a new house."
+  }
+ ]
+}

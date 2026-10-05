@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "rung cảm",
+  "dặn dò",
+  "bải",
+  "nhân duyên",
+  "thứ trưởng",
+  "ế ẩm",
+  "khẩu khí",
+  "độc hành",
+  "mẩy",
+  "bê bết",
+  "sùi",
+  "số là",
+  "nương tử",
+  "thượng thừa",
+  "bis",
+  "ngắc",
+  "chăm chút",
+  "dồn dập",
+  "y viện",
+  "ra đi",
+  "thủ khoa",
+  "ló",
+  "đói nghèo",
+  "lầm than",
+  "kỉ vật",
+  "bạt mạng",
+  "mứt cam",
+  "vô ưu",
+  "tạp vụ",
+  "khai cuộc",
+  "sư nương",
+  "bày biện",
+  "lẽo đẽo",
+  "vô cơ",
+  "khúc xạ",
+  "hợp nhất",
+  "dự toán",
+  "lông nheo",
+  "bán buôn",
+  "quỷ vương"
+ ],
+ "flags": [
+  {
+   "headword": "bải",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bải means to thrust or stick forward, especially the lower lip, rather than to lengthen a rope ([dictionary](https://v2.rung.vn/dict/vn_fr/B%E1%BA%A3i)).",
+   "fix": "to stick out; to thrust forward (especially the lower lip)"
+  },
+  {
+   "headword": "bải",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The rope example uses bải as a verb for stretching, which is not its meaning.",
+   "fix": "Nó bải môi ra. = He stuck out his lower lip."
+  },
+  {
+   "headword": "bán buôn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This gloss describes buôn bán, whereas bán buôn means selling wholesale ([dictionary](https://vi.wiktionary.org/wiki/b%C3%A1n_bu%C3%B4n)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

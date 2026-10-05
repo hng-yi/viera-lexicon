@@ -1,0 +1,32 @@
+{"b": "0001", "h": "có", "op": "gloss", "i": 10, "v": "credit; assets (in bookkeeping, opposite nợ, debit)"}
+{"b": "0004", "h": "go", "op": "gloss", "i": 1, "v": "heddle (the part of a loom that lifts the warp threads)"}
+{"b": "0004", "h": "go", "op": "ex", "i": 1, "v": ["Bà thay bộ go mới cho khung cửi.", "Grandma fitted new heddles to the loom."]}
+{"b": "0004", "h": "chúa", "op": "tags", "i": 6, "v": ["colloquial", "rare"]}
+{"b": "0004", "h": "chúa", "op": "tags", "i": 7, "v": ["colloquial", "rare"]}
+{"b": "0006", "h": "xem", "op": "add", "i": 3, "key": "and-see", "pos": "particle", "gloss": "(after a verb) and see; let's see (thử xem, try it and see)", "ex": ["Con nếm thử xem canh có mặn không.", "Taste the soup and see if it's too salty."]}
+{"b": "0007", "h": "hai", "op": "tags", "i": 3, "v": ["rare"]}
+{"b": "0007", "h": "hả", "op": "tags", "i": 5, "v": ["Central", "Southern", "rare"]}
+{"b": "0007", "h": "bỏ", "op": "tags", "i": 7, "v": ["colloquial", "rare"]}
+{"b": "0008", "h": "đường", "op": "tags", "i": 6, "v": ["colloquial", "dated"]}
+{"b": "0013", "h": "tưởng", "op": "pos", "i": 2, "v": "noun"}
+{"b": "0014", "h": "trở", "op": "gloss", "i": 4, "v": "mourning (for a dead relative: có trở, to be in mourning)"}
+{"b": "0014", "h": "trở", "op": "tags", "i": 4, "v": ["dated"]}
+{"b": "0014", "h": "trở", "op": "ex", "i": 4, "v": ["Nhà ấy đang có trở nên năm nay không ăn Tết.", "That family is in mourning, so they aren't celebrating Tết this year."]}
+{"b": "0014", "h": "chuyển", "op": "ex", "i": 11, "v": ["Nghe tin ấy, tôi thấy có cái gì chuyển mạnh qua tim.", "When I heard the news, something surged through my heart."]}
+{"b": "0014", "h": "khu", "op": "tags", "i": 3, "v": ["Central", "Southern", "informal"]}
+{"b": "0015", "h": "chả", "op": "tags", "i": 4, "v": ["Southern", "informal", "rare"]}
+{"b": "0016", "h": "ngựa", "op": "ex", "i": 4, "v": ["Con nhỏ đó ngựa lắm, gặp trai là liếc.", "That girl is a real flirt; she eyes every guy she meets."]}
+{"b":"0018","h":"bom","op":"gloss","i":2,"v":"apple (from French pomme)"}
+{"b":"0018","h":"bom","op":"tags","i":2,"v":["Southern","dated"]}
+{"b":"0018","h":"bom","op":"ex","i":2,"v":["Bà gọt trái bom cho cháu ăn.","Grandma peeled an apple for her grandchild."]}
+{"b":"0019","h":"căn","op":"ex","i":3,"v":["Căn của 4 bằng 2.","The square root of 4 is 2."]}
+{"b":"0020","h":"ờ","op":"tags","i":3,"v":["colloquial","rare"]}
+{"b":"0023","h":"thăm","op":"tags","i":4,"v":[]}
+{"b":"0023","h":"dì","op":"tags","i":2,"v":[]}
+{"b":"0029","h":"đéo","op":"tags","i":4,"v":["vulgar"]}
+{"b":"0029","h":"mụ","op":"tags","i":3,"v":["Central","informal"]}
+{"b":"0029","h":"mụ","op":"ex","i":3,"v":["Mụ ơi, con về rồi đây!","Grandma, I'm home!"]}
+{"b":"0029","h":"chớ","op":"drop","i":3,"reason":"unattested in Vietnamese; likely a Wiktionary error"}
+{"b":"0032","h":"Thần Kinh","op":"gloss","i":1,"v":"the imperial capital (Huế, under the Nguyễn dynasty)"}
+{"b":"0032","h":"Thần Kinh","op":"tags","i":1,"v":["historical","literary"]}
+{"b":"0032","h":"Thần Kinh","op":"ex","i":1,"v":["Thời nhà Nguyễn, Huế được gọi là Thần Kinh.","Under the Nguyễn dynasty, Huế was called the imperial capital."]}

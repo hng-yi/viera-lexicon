@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "dấn thân",
+  "mai táng",
+  "lồng ngực",
+  "ngộ độc",
+  "đồng bằng",
+  "công lao",
+  "thoải",
+  "giảm thiểu",
+  "nội trú",
+  "chú tâm",
+  "trồng trọt",
+  "cocktail",
+  "bất an",
+  "rạn",
+  "dị biệt",
+  "hăng hái",
+  "bảo mẫu",
+  "ưng",
+  "bá",
+  "ngấm",
+  "ác nhân",
+  "tinh nhuệ",
+  "tỏi",
+  "ngoan cố",
+  "song song",
+  "khiếm nhã",
+  "hiên",
+  "lông mày",
+  "đối lập",
+  "thuyền viên",
+  "xa xỉ",
+  "giải ngũ",
+  "tình thương",
+  "ủng",
+  "nghỉ mát",
+  "ý niệm",
+  "cảm phiền",
+  "hũ",
+  "phòng chống",
+  "cơ sở dữ liệu"
+ ],
+ "flags": [
+  {
+   "headword": "bá",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This kinship use is regional Northern Vietnamese and needs a Northern tag ([linguistic study](https://vjol.info.vn/index.php/NNDS/article/download/15667/14080/)).",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "bá",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bá does not mean to crash into or hit ([dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C3%A1)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "ác nhân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ác nhân is literary language for an evildoer, so leaving it untagged suggests ordinary casual usage.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "ủng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "For fruit, ủng means spoiled or rotten, rather than merely overripe or mushy ([dictionary entry](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-61)).",
+   "fix": "rotten; spoiled (of fruit)"
+  },
+  {
+   "headword": "hũ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hũ can denote a small jar and does not require a large vessel held with two hands ([dictionary entry](https://vdict.com/h%C5%A9,3,0,0.html)).",
+   "fix": "jar; storage pot"
+  }
+ ]
+}

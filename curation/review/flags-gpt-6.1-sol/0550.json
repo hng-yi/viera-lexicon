@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "quành",
+  "quày quả",
+  "quá chén",
+  "quá khứ phân từ",
+  "quá lời",
+  "quá mức",
+  "quá quắt",
+  "quá tam ba bận",
+  "quá trớn",
+  "quá trời",
+  "quá tắc vật đạn cải",
+  "quán cà phê",
+  "quán cóc",
+  "quán net",
+  "quán rượu",
+  "quán tính",
+  "quán từ",
+  "quán ăn",
+  "quáng gà",
+  "quân bất hí ngôn",
+  "quân chủ chuyên chế",
+  "quân chủ lập hiến",
+  "quân chủng",
+  "quân hạm",
+  "quân phiệt",
+  "quân ta bắn quân mình",
+  "quân ta đánh thắng quân mình",
+  "quân tử bất khí",
+  "quân tử nhất ngôn",
+  "quân tử trả thù, mười năm chưa muộn",
+  "quân vô hí ngôn",
+  "quê cũ",
+  "quên bẵng",
+  "quý hoá",
+  "quý nam",
+  "quý nữ",
+  "quý địa",
+  "quýnh quáng",
+  "quýt làm cam chịu",
+  "quýu"
+ ],
+ "flags": [
+  {
+   "headword": "quá tắc vật đạn cải",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the saying instead of applying it to a situation.",
+   "fix": "Con đã biết mình sai rồi; quá tắc vật đạn cải, hãy sửa lỗi đi. = You know you were wrong; don't be afraid to correct your mistake."
+  },
+  {
+   "headword": "quân tử bất khí",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example quotes and explains the saying instead of using it in context.",
+   "fix": "Quân tử bất khí, anh nên học thêm để mở rộng hiểu biết. = A cultivated person is not limited to one skill; you should study further to broaden your knowledge."
+  },
+  {
+   "headword": "quân tử bất khí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This classical Confucian saying needs a literary warning to indicate its register ([source](https://www.dkn.tv/van-hoa/ban-ve-luan-ngu-25-quan-tu-bat-khi.html?amp=1)).",
+   "fix": "[idiomatic, literary]"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nghĩ ra",
+  "nghĩ tới",
+  "nghĩ đến",
+  "nghĩa dũng",
+  "nghĩa rộng",
+  "nghĩa vụ luận",
+  "nghẽn tắc",
+  "nghếch ngác",
+  "nghề của chàng",
+  "nghề của nàng",
+  "nghề ngỗng",
+  "nghề tay trái",
+  "nghển",
+  "nghệ sĩ nhân dân",
+  "nghệ sĩ ưu tú",
+  "nghệ thuật vị nghệ thuật",
+  "nghệ thuật vị nhân sinh",
+  "nghệ thuật ẩm thực",
+  "nghệt",
+  "nghỉ lễ",
+  "nghị luận",
+  "nghịch biến",
+  "nghịch nhĩ",
+  "nghịch từ",
+  "nghịch đảo",
+  "nghịt",
+  "ngoe nguẩy",
+  "ngoi ngóp",
+  "ngoài cuộc",
+  "ngoài cùng",
+  "ngoài giá thú",
+  "ngoài nội",
+  "ngoáo ộp",
+  "ngoé",
+  "ngoém",
+  "ngoại giao bẫy nợ",
+  "ngoại giao cây tre",
+  "ngoại hối",
+  "ngoại khoá",
+  "ngoại kỉ"
+ ],
+ "flags": [
+  {
+   "headword": "nghĩa dũng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary word, so leaving it untagged misleadingly presents it as suitable for ordinary casual speech.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "nghịch nhĩ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary expression rather than an ordinary conversational way to say something is unpleasant to hear.",
+   "fix": "Add the tag literary."
+  }
+ ]
+}

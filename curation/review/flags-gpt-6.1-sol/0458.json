@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "dế trũi",
+  "dềnh dàng",
+  "dễ bảo",
+  "dễ dầu",
+  "dễ gần",
+  "dễ như trở bàn tay",
+  "dễ như ăn bánh",
+  "dễ như ăn cháo",
+  "dễ như ăn kẹo",
+  "dễ sợ",
+  "dễ thường",
+  "dệt gấm thêu hoa",
+  "dị cấu trúc",
+  "dị giới",
+  "dị hoá",
+  "dị nguyên",
+  "dị thế giới",
+  "dị thể",
+  "dịch bệnh học",
+  "dịch chuyển tức thời",
+  "dịch học",
+  "dịch máy",
+  "dịch tễ học",
+  "dịch vị",
+  "dịu hiền",
+  "dịu ngọt",
+  "dọc mùng",
+  "dỏ",
+  "dốt đặc cán mai",
+  "dồng dộc",
+  "dộc",
+  "dột nát",
+  "dở dở ương ương",
+  "dợm",
+  "dợn sóng",
+  "dụ khị",
+  "dục năng",
+  "dục tốc bất đạt",
+  "dụi",
+  "dụng binh"
+ ],
+ "flags": [
+  {
+   "headword": "dềnh dàng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese addresses the learner as 'you' and says they are already late, whereas the translation says 'we' will be late.",
+   "fix": "Why are you taking so long? You're already late for school!"
+  },
+  {
+   "headword": "dở dở ương ương",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Applied to a person, this disparages their mental state or temperament and needs a derogatory warning ([definition](https://loigiaihay.com/do-do-uong-uong-la-gi-y-nghia-thanh-ngu-do-do-uong-uong-a178887.html)).",
+   "fix": "Add the tag derogatory."
+  }
+ ]
+}

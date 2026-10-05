@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "hội họa",
+  "trần thế",
+  "chiêu trò",
+  "trì trệ",
+  "bêu",
+  "ngoặc",
+  "hình thể",
+  "thọt",
+  "lúa mạch",
+  "lợi tức",
+  "quằn quại",
+  "vấp ngã",
+  "đui",
+  "chiến hào",
+  "máy hát",
+  "trọng thưởng",
+  "âm phủ",
+  "sặc",
+  "vô vàn",
+  "long vương",
+  "cương cứng",
+  "bướng bỉnh",
+  "độc tôn",
+  "ghìm",
+  "củ cải",
+  "xì ke",
+  "bán lẻ",
+  "gầy dựng",
+  "chuột chũi",
+  "cảnh ngộ",
+  "hùng biện",
+  "tan trường",
+  "chọc ghẹo",
+  "lú",
+  "bỉm",
+  "ang",
+  "cọ xát",
+  "tình ca",
+  "thính giác",
+  "chàm"
+ ],
+ "flags": [
+  {
+   "headword": "đui",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone đui can be offensive, which the colloquial tag alone does not warn about ([Wiktionary](https://en.wiktionary.org/wiki/đui)).",
+   "fix": "Tags: colloquial, offensive."
+  },
+  {
+   "headword": "độc tôn",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "In the second example, không thể means 'cannot', whereas 'should' introduces an obligation absent from the Vietnamese.",
+   "fix": "There can be no cultural supremacy."
+  },
+  {
+   "headword": "xì ke",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common derogatory use referring to a person addicted to drugs ([VDict](https://vdict.com/x%C3%AC-%20ke%2C3%2C0%2C0.html)).",
+   "fix": "Add noun [colloquial, derogatory]: drug addict."
+  },
+  {
+   "headword": "cọ xát",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of gaining experience through practical challenges or competition is missing ([Wiktionary](https://vi.wiktionary.org/wiki/cọ_xát)).",
+   "fix": "Add verb: to gain practical experience through challenges or competition; example: Các cầu thủ trẻ cần cọ xát với những đội mạnh. = The young players need to gain experience by playing against strong teams."
+  }
+ ]
+}

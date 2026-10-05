@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "trù tính",
+  "nhõng nhẽo",
+  "sở hữu trí tuệ",
+  "râu quai nón",
+  "đồng đẳng",
+  "kì hạn",
+  "chập tối",
+  "lọn",
+  "đăng ten",
+  "mì ăn liền",
+  "bim bim",
+  "nái",
+  "loay hoay",
+  "ghe",
+  "táp",
+  "nhà băng",
+  "nguệch ngoạc",
+  "muôn thú",
+  "thửa",
+  "rổi",
+  "mềm nhũn",
+  "truyền cảm",
+  "đặc công",
+  "thủ pháp",
+  "lộ thiên",
+  "xâu xé",
+  "không phận",
+  "tròn trịa",
+  "trình chiếu",
+  "rắn rỏi",
+  "móp",
+  "mỏi mệt",
+  "tráng kiện",
+  "rêu rao",
+  "cá đuối",
+  "chít",
+  "thu nạp",
+  "miền Trung",
+  "nhiếc",
+  "đớn đau"
+ ],
+ "flags": [
+  {
+   "headword": "bim bim",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Bim bim refers to packaged crunchy snacks generally, so restricting it to potato chips gives the wrong category ([reference](https://daophucsen.vn/cac-loai-bim-bim-snack/)).",
+   "fix": "packaged crunchy savoury snacks"
+  },
+  {
+   "headword": "ghe",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines ghe instead of showing the word in use.",
+   "fix": "Cô ấy thấy đau ở ghe. = She felt pain in her clitoris."
+  },
+  {
+   "headword": "nhà băng",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Nhà băng remains in current everyday use, so dated misleadingly suggests it is outdated ([reference](https://baomoi.com/tai-sao-goi-ngan-hang-la-nha-bang-c53317903.epi)).",
+   "fix": "Remove dated."
+  },
+  {
+   "headword": "móp",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what móp is instead of showing the word in use.",
+   "fix": "Bà hái đọt móp về làm dưa. = She picked móp shoots to pickle."
+  }
+ ]
+}

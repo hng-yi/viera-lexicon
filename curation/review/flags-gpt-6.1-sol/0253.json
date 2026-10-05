@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "cứu chuộc",
+  "ốp",
+  "thổ phỉ",
+  "khôn hồn",
+  "xe bò",
+  "vu cáo",
+  "chồm",
+  "dầu hỏa",
+  "dư dả",
+  "vó",
+  "thi vị",
+  "hiệu phó",
+  "tham ô",
+  "học vấn",
+  "phủ đầu",
+  "gia phả",
+  "hừng đông",
+  "nhiệt thành",
+  "hội trưởng",
+  "siêu mẫu",
+  "hứng khởi",
+  "vạt",
+  "thô kệch",
+  "gáo",
+  "sin",
+  "nhầy",
+  "ngu độn",
+  "cháo lưỡi",
+  "nô tài",
+  "oai phong",
+  "ngẫu hứng",
+  "Nhật hoàng",
+  "trù phú",
+  "hải dương học",
+  "quỵt",
+  "bóng gió",
+  "chúng sinh",
+  "khói lửa",
+  "trét",
+  "thuyền buồm"
+ ],
+ "flags": [
+  {
+   "headword": "tham ô",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tham ô means embezzling entrusted assets, whereas 'to be corrupt' includes other misconduct ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-tham%20%C3%B4)).",
+   "fix": "to embezzle"
+  },
+  {
+   "headword": "tham ô",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Corruption' and 'graft' are broader than the specific misappropriation denoted by tham ô ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-tham%20%C3%B4)).",
+   "fix": "embezzlement"
+  },
+  {
+   "headword": "vạt",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Vạt can refer to a garment's back panel as well as its front panel ([dictionary](https://vi.wiktionary.org/wiki/v%E1%BA%A1t)).",
+   "fix": "panel or flap of a garment (e.g. of an áo dài)"
+  },
+  {
+   "headword": "gáo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "A gáo is a dipper and need not be made from coconut shell ([dictionary](https://vi.wiktionary.org/wiki/g%C3%A1o)).",
+   "fix": "dipper; long-handled scoop for liquids"
+  },
+  {
+   "headword": "ngẫu hứng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Chơi đàn does not specify that the instrument is a piano.",
+   "fix": "He improvises on an instrument without sheet music."
+  },
+  {
+   "headword": "ngẫu hứng",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the title means instead of using it as a title.",
+   "fix": "Ông đặt tên bài thơ mới là “Ngẫu hứng”. = He titled his new poem “Spontaneous Inspiration”."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "vuốt râu hùm",
+  "vàm",
+  "vàng chanh",
+  "vàng da",
+  "vàng mã",
+  "vàng mơ",
+  "vàng ruộm",
+  "vàng tây",
+  "vành khuyên",
+  "vào sinh ra tử",
+  "vá vỏ",
+  "vách núi",
+  "vách đá",
+  "vái giời",
+  "ván ngựa",
+  "ván trượt",
+  "ván ép",
+  "váng sữa",
+  "váng vất",
+  "vân vân mây mây",
+  "vân vân và mây mây",
+  "vân vê",
+  "vâng dạ",
+  "vãi cả lồn",
+  "véc ni",
+  "vét-tông",
+  "vê đúp",
+  "vêbe",
+  "vên vên",
+  "vêu",
+  "vì chưng",
+  "ví bằng",
+  "ví tiền",
+  "vía van",
+  "vích",
+  "víu",
+  "vò võ",
+  "vò vẽ",
+  "vò đầu bứt tai",
+  "vòi hoa sen"
+ ],
+ "flags": [
+  {
+   "headword": "vàng chanh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The colour is lemon yellow, as given in the [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english-vietnamese/lemon), rather than lime yellow.",
+   "fix": "lemon yellow (colour)"
+  },
+  {
+   "headword": "vàng chanh",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Vàng chanh describes a lemon-yellow shirt, rather than a lime-yellow one.",
+   "fix": "She wore a bright lemon-yellow shirt."
+  },
+  {
+   "headword": "vá vỏ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Vá vỏ is predominantly Southern usage and needs a regional label.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "vái giời",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The crab name is regional to coastal Northern Vietnam, as documented in [Wiktionary](https://en.wiktionary.org/wiki/v%C3%A1i_gi%E1%BB%9Di).",
+   "fix": "[rare, Northern]"
+  },
+  {
+   "headword": "vê đúp",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Vê đúp remains a current name for W, including in [Vietnamese language research](https://ssh.vnuhcmjournal.com.vn/index.php/ssh/article/download/461/852/), so dated is misleading.",
+   "fix": "Remove dated."
+  }
+ ]
+}

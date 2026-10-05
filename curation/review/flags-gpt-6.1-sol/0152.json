@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "lớn mạnh",
+  "chủ đích",
+  "nhị",
+  "bảo kê",
+  "lẳng lơ",
+  "chữ kí",
+  "thành thực",
+  "gu",
+  "thê",
+  "tan tành",
+  "thù lao",
+  "gặm nhấm",
+  "găng",
+  "gánh vác",
+  "hạ lưu",
+  "thống khổ",
+  "kiếng",
+  "tự thú",
+  "hiền lành",
+  "xi",
+  "nhu nhược",
+  "khó lòng",
+  "đa phần",
+  "xỉu",
+  "miền Bắc",
+  "ái chà",
+  "điện báo",
+  "nóng hổi",
+  "chòm",
+  "cơ chế",
+  "tôm hùm",
+  "truyền giáo",
+  "tranh chấp",
+  "vọt",
+  "thời chiến",
+  "hiếm hoi",
+  "thư từ",
+  "mùng",
+  "giây lát",
+  "Phần Lan"
+ ],
+ "flags": [
+  {
+   "headword": "hạ lưu",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This class label expresses contempt rather than a neutral social category, as indicated in the [dictionary definition](https://tudientv.com/?t=h%E1%BA%A1+l%C6%B0u).",
+   "fix": "tags: [dated, derogatory]"
+  },
+  {
+   "headword": "hạ lưu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the current insulting meaning used in expressions such as 'đồ hạ lưu'.",
+   "fix": "adj [derogatory] | base; vile; morally contemptible"
+  },
+  {
+   "headword": "xi",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar childcare verb meaning to encourage a baby to urinate by making a prolonged 'xi' sound, recorded in the [dictionary](https://tudientv.com/?t=xi).",
+   "fix": "verb | to make a prolonged 'xi' sound to encourage a baby to pee or poop"
+  },
+  {
+   "headword": "mùng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Mùng also precedes dates in solar months, so restricting it to lunar months teaches a false limitation.",
+   "fix": "word placed before the numbers naming the first ten days of a month, especially a lunar month"
+  }
+ ]
+}

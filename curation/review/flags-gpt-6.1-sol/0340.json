@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "plutoni",
+  "chấp pháp",
+  "khoằm",
+  "tợ",
+  "pháp chế",
+  "trà sữa",
+  "ghế xếp",
+  "kì cọ",
+  "crom",
+  "nhát cáy",
+  "chà bá",
+  "bạc phơ",
+  "mân",
+  "rong chơi",
+  "can gián",
+  "phi tần",
+  "cải lương",
+  "mọi người",
+  "công thần",
+  "neo đậu",
+  "di ngôn",
+  "sắc lẻm",
+  "tài lực",
+  "phác đồ",
+  "cố tật",
+  "lung",
+  "cầu tiêu",
+  "parabol",
+  "vàng khè",
+  "tướng mạo",
+  "bất bạo động",
+  "phoi",
+  "ngoại bào",
+  "thượng du",
+  "kệch",
+  "vặt vãnh",
+  "phắt",
+  "lẵng",
+  "nghệ tây",
+  "chán chê"
+ ],
+ "flags": [
+  {
+   "headword": "plutoni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what plutonium is instead of showing it used in context.",
+   "fix": "Các nhà khoa học đang nghiên cứu plutoni. = The scientists are studying plutonium."
+  },
+  {
+   "headword": "pháp chế",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Pháp chế in công tác pháp chế means legal affairs, which extend beyond making laws ([Ministry of Justice syllabus](https://vannham.langson.gov.vn/upload/105828/20250908/TB_chieu_sinh_Lop_phap_che_f8a1c.pdf)).",
+   "fix": "legal affairs; legal work"
+  },
+  {
+   "headword": "pháp chế",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Legislative work incorrectly narrows công tác pháp chế to lawmaking ([Ministry of Justice syllabus](https://vannham.langson.gov.vn/upload/105828/20250908/TB_chieu_sinh_Lop_phap_che_f8a1c.pdf)).",
+   "fix": "Legal work needs to keep up with real life."
+  },
+  {
+   "headword": "lung",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lung expresses a large amount or degree, rather than physical force as suggested by forcefully ([Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-lung)).",
+   "fix": "a lot; to a great extent"
+  },
+  {
+   "headword": "lung",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Đạp lung is not a natural use of this degree word, whose attested use includes suy nghĩ lung lắm ([Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-lung)).",
+   "fix": "Tôi suy nghĩ lung lắm. = I thought about it a great deal."
+  },
+  {
+   "headword": "cầu tiêu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cầu tiêu is mainly Southern usage and needs a regional label ([Vietnamese dialect study](https://vanhoahoc.edu.vn/nghien-cuu/van-hoa-viet-nam/van-hoa-nam-bo/1383-ly-tung-hieu-tieng-viet-nam-bo-lich-su-hinh-thanh-va-cac-dac-trung-ngu-am.html)).",
+   "fix": "[Southern, informal]"
+  },
+  {
+   "headword": "cầu tiêu",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The latrine sense shares the word's mainly Southern distribution ([Vietnamese dialect study](https://vanhoahoc.edu.vn/nghien-cuu/van-hoa-viet-nam/van-hoa-nam-bo/1383-ly-tung-hieu-tieng-viet-nam-bo-lich-su-hinh-thanh-va-cac-dac-trung-ngu-am.html)).",
+   "fix": "[Southern]"
+  }
+ ]
+}

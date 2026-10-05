@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "xịch",
+  "thần thái",
+  "châu thổ",
+  "chăn chiếu",
+  "thẩm thấu",
+  "nới lỏng",
+  "gạn",
+  "đã đành",
+  "lãng đãng",
+  "bặt thiệp",
+  "bè lũ",
+  "man dại",
+  "đậu phụng",
+  "dằm",
+  "li tán",
+  "lửng mật",
+  "gợi nhớ",
+  "dưỡng trí viện",
+  "chạnh",
+  "mĩ mãn",
+  "rơi rụng",
+  "nghèo hèn",
+  "ỉu xìu",
+  "cào bằng",
+  "học vẹt",
+  "quang năng",
+  "bàng quan",
+  "ban chấp hành",
+  "tú bà",
+  "nấu bếp",
+  "ong ong",
+  "đầu khấc",
+  "mậu thầu",
+  "kinh tế học",
+  "hộp thoại",
+  "bánh kem",
+  "thực từ",
+  "sinh quyển",
+  "xương bướm",
+  "làng nước"
+ ],
+ "flags": [
+  {
+   "headword": "xịch",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This verb means to shift a little, without implying sudden movement ([dictionary](https://tudientv.com/?t=x%E1%BB%8Bch)).",
+   "fix": "to shift or move a little"
+  },
+  {
+   "headword": "lãng đãng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This description of drifting mist or clouds is literary and needs a register warning ([dictionary](https://loigiaihay.com/tu-dien-tv/lang-dang-eWVXFyAlEN4j4.html)).",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "dằm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The verb meaning to steep or soak is dầm, whereas dằm denotes a splinter or a place to sit or lie ([dầm](https://tudientv.com/?t=d%E1%BA%A7m), [dằm](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-d%E1%BA%B1m)).",
+   "fix": "Remove this sense from dằm and place it under dầm."
+  },
+  {
+   "headword": "đầu khấc",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This term for the glans is commonly vulgar, so colloquial alone does not adequately warn the learner ([dictionary record](https://kaikki.org/viwiktionary/All%20languages%20combined/pos-noun/%C4%91%E1%BA%A5u--%C4%91%E1%BA%B1ng%20ng%C3%A0.html)).",
+   "fix": "Add vulgar."
+  }
+ ]
+}

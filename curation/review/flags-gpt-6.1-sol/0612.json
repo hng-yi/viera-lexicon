@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "vòi nhụy",
+  "vòi rồng",
+  "vòi voi",
+  "vòi vọi",
+  "vòi xịt",
+  "vòm miệng",
+  "vòm muối",
+  "vòng ba",
+  "vòng tránh thai",
+  "vòng vo Tam Quốc",
+  "vòng đu quay",
+  "vô chính phủ",
+  "vô chính phủ chủ nghĩa",
+  "vô công rồi nghề",
+  "vô cùng tận",
+  "vô căn",
+  "vô căn cứ",
+  "vô cương",
+  "vô danh tiểu tốt",
+  "vô dạng",
+  "vô giáo dục",
+  "vô hướng",
+  "vô hạnh",
+  "vô hậu",
+  "vô kế",
+  "vô lương tâm",
+  "vô lượng",
+  "vô lượng vô biên",
+  "vô lại",
+  "vô minh",
+  "vô nghi",
+  "vô nguyên tắc",
+  "vô ngôn",
+  "vô ngần",
+  "vô pháp vô thiên",
+  "vô phương cứu chữa",
+  "vô phước",
+  "vô quốc tịch",
+  "vô sản lưu manh",
+  "vô sản toàn thế giới, đoàn kết lại"
+ ],
+ "flags": [
+  {
+   "headword": "vô chính phủ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Đất nước rơi vào tình trạng vô chính phủ sau cuộc đảo chính. = The country descended into anarchy after the coup."
+  },
+  {
+   "headword": "vô chính phủ chủ nghĩa",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The normal Vietnamese term for anarchism is “chủ nghĩa vô chính phủ,” as used in this [discussion by Vietnamese anarchists](https://en.theanarchistlibrary.org/library/meo-mun-the-commoner-translating-vo-tri).",
+   "fix": "Use headword “chủ nghĩa vô chính phủ,” gloss “anarchism,” and example “Cuốn sách này giới thiệu về chủ nghĩa vô chính phủ. = This book is an introduction to anarchism.”"
+  },
+  {
+   "headword": "vô công rồi nghề",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression disparages someone as idle rather than neutrally describing unemployment, as the [Lạc Việt dictionary](https://tratu.coviet.vn/hoc-tieng-phap/tu-dien/lac-viet/ALL/v%C3%B4%2Bc%C3%B4ng%2Br%E1%BB%93i%2Bngh%E1%BB%81.html) explicitly notes.",
+   "fix": "Add tag: derogatory."
+  },
+  {
+   "headword": "vô danh tiểu tốt",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone this belittles them as insignificant, a contemptuous use also identified by [ZIM Dictionary](https://dictionary.zim.vn/viet-anh/vo-danh-tieu-tot-tieng-anh-la-gi).",
+   "fix": "Add tag: derogatory."
+  },
+  {
+   "headword": "vô lại",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is an insulting description of someone as morally despicable, as reflected in the [dictionary entry](https://loigiaihay.com/tu-dien-tv/vo-lai-exLJu7zFyYI6E.html).",
+   "fix": "Add tag: derogatory."
+  }
+ ]
+}

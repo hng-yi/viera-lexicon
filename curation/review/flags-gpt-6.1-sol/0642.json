@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đậu phụ",
+  "đậu rồng",
+  "đậu thận",
+  "đậu trắng",
+  "đậu ve",
+  "đậu xanh rau má",
+  "đậu xương rồng",
+  "đậu xị",
+  "đậu đen",
+  "đậu đũa",
+  "đắc đạo",
+  "đắp chiếu",
+  "đằng này",
+  "đằng đằng",
+  "đằng ấy",
+  "đẳng chu",
+  "đẳng lập",
+  "đẳng thức",
+  "đẳng trương",
+  "đẵn",
+  "đặc dụng",
+  "đặc hữu",
+  "đặc khu hành chính",
+  "đặc khu kinh tế",
+  "đặc trách",
+  "đặc tả",
+  "đặc điểm nổi bật",
+  "đặt nặng",
+  "đặt ra",
+  "đặt tên",
+  "đặt vòng",
+  "đẻ hoang",
+  "đẻ non",
+  "đẻn",
+  "đế nghiệp",
+  "đế quốc Mĩ",
+  "đế quốc chủ nghĩa",
+  "đến mức",
+  "đến tuổi",
+  "đến tận răng"
+ ],
+ "flags": [
+  {
+   "headword": "đẳng lập",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a coordinate compound instead of showing the term in use.",
+   "fix": "Cô giáo yêu cầu chúng tôi tìm năm từ ghép đẳng lập. = The teacher asked us to find five coordinate compounds."
+  },
+  {
+   "headword": "đặc trách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal administrative term, so the untagged entry misleadingly presents it as ordinary casual vocabulary.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "đến tận răng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Preparing for an interview 'đến tận răng' is unnatural because the expression normally describes being fully equipped or supplied.",
+   "fix": "Binh lính được trang bị vũ khí đến tận răng. = The soldiers were armed to the teeth."
+  }
+ ]
+}

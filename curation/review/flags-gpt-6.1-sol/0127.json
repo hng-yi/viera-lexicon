@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tiền bối",
+  "y chang",
+  "dũng khí",
+  "dự báo",
+  "tưng",
+  "não bộ",
+  "sinh thiết",
+  "bó tay",
+  "chịu thua",
+  "đút",
+  "đình công",
+  "bạc hà",
+  "cải trang",
+  "chéo",
+  "kẹo cao su",
+  "tật",
+  "họp mặt",
+  "chùi",
+  "cạn kiệt",
+  "cài đặt",
+  "tối mật",
+  "mong manh",
+  "tị",
+  "đụng chạm",
+  "núm",
+  "bẽ mặt",
+  "ghim",
+  "nã",
+  "thiếu gia",
+  "toàn năng",
+  "làm nhục",
+  "thầy giáo",
+  "chi viện",
+  "sứ giả",
+  "phản",
+  "vui sướng",
+  "tước đoạt",
+  "nguyện",
+  "đậy",
+  "điện tín"
+ ],
+ "flags": [
+  {
+   "headword": "tị",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tị means to feel jealous or resentful of another person's advantages, rather than to compare or liken ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%E1%BB%8B)).",
+   "fix": "to be jealous; to resent someone getting more than oneself"
+  },
+  {
+   "headword": "đậy",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đậy does not mean to replace someone; its uncommon related use means paying on someone else's behalf ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91%E1%BA%ADy)).",
+   "fix": "Remove sense 2 and its example."
+  }
+ ]
+}

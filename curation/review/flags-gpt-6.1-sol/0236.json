@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nguyên soái",
+  "hành tung",
+  "chấp chính",
+  "chứng từ",
+  "biển thủ",
+  "mải mê",
+  "xoàng",
+  "thị hiếu",
+  "tin yêu",
+  "quàng",
+  "la hán",
+  "hùng hậu",
+  "khuyên nhủ",
+  "bấn loạn",
+  "Tây Âu",
+  "hoa màu",
+  "chạy trốn",
+  "tri",
+  "thiền định",
+  "đọng",
+  "lãng tử",
+  "kiếm thuật",
+  "sốt ruột",
+  "nửa đời",
+  "ngốn",
+  "cặn kẽ",
+  "sữa đậu nành",
+  "hối lỗi",
+  "chèn ép",
+  "biển hiệu",
+  "sờ sờ",
+  "loạn xạ",
+  "ăn theo",
+  "ướt sũng",
+  "lép",
+  "kim tuyến",
+  "ghiền",
+  "nòi giống",
+  "sơ đẳng",
+  "thị thực"
+ ],
+ "flags": [
+  {
+   "headword": "nguyên soái",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Vị nguyên soái đang chỉ huy quân đội. = The marshal is commanding the army."
+  },
+  {
+   "headword": "nửa đời",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nửa đời means half a lifetime, not middle age or midlife.",
+   "fix": "half a lifetime; half one's life"
+  }
+ ]
+}

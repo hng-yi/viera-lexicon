@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "hói",
+  "bảo trợ",
+  "độc nhất",
+  "sút",
+  "thống kê",
+  "viện bảo tàng",
+  "thời kì",
+  "cướp bóc",
+  "cảm tạ",
+  "thừa hưởng",
+  "động viên",
+  "hèn hạ",
+  "hiện hữu",
+  "sâm",
+  "cất giữ",
+  "tựa",
+  "lệch",
+  "thần tiên",
+  "chua",
+  "rèm",
+  "cằn nhằn",
+  "đúc",
+  "bí quyết",
+  "hoang mang",
+  "trơn",
+  "khép",
+  "đạn dược",
+  "học tập",
+  "đột phá",
+  "động tác",
+  "nhạt",
+  "trong lành",
+  "album",
+  "đồng nghĩa",
+  "tù trưởng",
+  "gót",
+  "ngoan ngoãn",
+  "hâm",
+  "dìm",
+  "lụa"
+ ],
+ "flags": [
+  {
+   "headword": "hói",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The creek sense belongs to North Central Vietnamese, not Northern Vietnamese ([Wiktionary](https://en.wiktionary.org/wiki/h%C3%B3i)).",
+   "fix": "Tags: [Central]."
+  },
+  {
+   "headword": "hèn hạ",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone's background hèn hạ expresses contempt for their social status rather than neutral humble origins ([dictionary](https://loigiaihay.com/tu-dien-tv/hen-ha-eRAQCKR8OcEBe.html)).",
+   "fix": "Tags: [literary, derogatory]."
+  },
+  {
+   "headword": "tựa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning 'title' of a book, song or other work is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%E1%BB%B1a)).",
+   "fix": "Add noun sense: title (of a book, song or other work)."
+  },
+  {
+   "headword": "thần tiên",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjective meaning 'magical; fairy-tale-like' is missing ([Wiktionary](https://vi.wiktionary.org/wiki/th%E1%BA%A7n_ti%C3%AAn)).",
+   "fix": "Add adjective sense: magical; fairy-tale-like."
+  },
+  {
+   "headword": "hâm",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone hâm can mock their intelligence or mental state, so colloquial alone does not supply the needed warning ([dictionary](https://vdict.com/h%C3%A2m,3,0,0.html)).",
+   "fix": "Tags: [colloquial, derogatory]."
+  }
+ ]
+}

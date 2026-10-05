@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "diễn hoạt",
+  "diễn nghĩa",
+  "diễn ngôn",
+  "diễn ra",
+  "diễn tấu",
+  "diễn viên hài",
+  "diễn viên lồng tiếng",
+  "diễn âm",
+  "diễn đơn",
+  "diễu",
+  "diệc",
+  "diện tích toàn phần",
+  "diện tích xung quanh",
+  "diệp lục tố",
+  "diệt khuẩn",
+  "do thám",
+  "doa",
+  "doanh",
+  "doanh nghiệp liên doanh",
+  "doanh nghiệp nhà nước",
+  "dong riềng",
+  "doành",
+  "doạ",
+  "doạ dẫm",
+  "dress code",
+  "du lịch bụi",
+  "du thuyết",
+  "dung dị",
+  "dung hoà",
+  "duy tân",
+  "duyên cớ",
+  "duyên do",
+  "duối",
+  "dài lưng tốn vải",
+  "dàn bài",
+  "dành dành",
+  "dàu",
+  "dác",
+  "dái mít",
+  "dáng bộ"
+ ],
+ "flags": [
+  {
+   "headword": "duy tân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb belongs to formal historical and political writing rather than everyday conversation ([usage reference](https://dictionary.zim.vn/viet-anh/duy-tan-tieng-anh-la-gi)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "duy tân",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun likewise belongs to formal historical and political contexts ([usage reference](https://dictionary.zim.vn/viet-anh/duy-tan-tieng-anh-la-gi)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "dài lưng tốn vải",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression disparages someone as lazy and burdensome, so informal alone does not warn learners that it is insulting ([usage example](https://vanvn.vn/an-uc-nhuc-tinh-va-sex-trong-tho-nguyen-binh/)).",
+   "fix": "Tags: idiomatic, informal, derogatory."
+  },
+  {
+   "headword": "dái mít",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "It denotes a male flower cluster, not a young fruit ([botanical reference](https://rttc.hcmuaf.edu.vn/rttc-8154-1/vn/cay-mit.html)).",
+   "fix": "male jackfruit flower cluster (the small non-fruiting spike on a jackfruit tree)"
+  }
+ ]
+}

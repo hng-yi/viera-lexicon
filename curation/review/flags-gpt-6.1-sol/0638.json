@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "đĩa cứng",
+  "đĩa hát",
+  "đĩa mềm",
+  "đĩa quang",
+  "đĩa đơn",
+  "đũa cả",
+  "đơm đặt",
+  "đơn bạc",
+  "đơn chiếc",
+  "đơn cử",
+  "đơn giản hoá",
+  "đơn nhất",
+  "đơn sai",
+  "đơn thuốc",
+  "đơn thương độc mã",
+  "đơn thức",
+  "đơn tiết",
+  "đơn âm",
+  "đơn đao",
+  "đơteri",
+  "đưa ma",
+  "đưa ra",
+  "đưa đám",
+  "đương chức",
+  "đương quy",
+  "đương thì",
+  "đười ươi",
+  "đường bệ",
+  "đường cao",
+  "đường chéo",
+  "đường cát",
+  "đường cônic",
+  "đường cùng",
+  "đường dòng",
+  "đường hô hấp",
+  "đường hô hấp dưới",
+  "đường hô hấp trên",
+  "đường lang quyền",
+  "đường mạch nha",
+  "đường phân"
+ ],
+ "flags": [
+  {
+   "headword": "đơn cử",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb belongs to formal speech and writing, so leaving it untagged misleads learners about casual usage ([dictionary](https://loigiaihay.com/tu-dien-tv/don-cu-epX8cyrd7lXrC.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "đưa ra",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common literal meaning of taking or bringing someone or something out.",
+   "fix": "to take or bring out; ex: Anh ấy đưa ghế ra sân. = He brought the chair out into the yard."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "gia sư",
+  "độc nhất vô nhị",
+  "cuống",
+  "ý nguyện",
+  "dây dưa",
+  "thóp",
+  "cứng nhắc",
+  "êm ái",
+  "tự sướng",
+  "võng mạc",
+  "quán quân",
+  "đảo chính",
+  "bất trắc",
+  "nhẫn nại",
+  "mái chèo",
+  "tao nhã",
+  "ni",
+  "vết tích",
+  "chọn lọc",
+  "ái",
+  "sảng khoái",
+  "thé",
+  "chất liệu",
+  "chân không",
+  "bạch huyết",
+  "lảng tránh",
+  "nán",
+  "khoan nhượng",
+  "vui nhộn",
+  "bá đạo",
+  "bịp bợm",
+  "toại nguyện",
+  "náo động",
+  "cửa hiệu",
+  "biệt",
+  "leo trèo",
+  "tinh xảo",
+  "ấu",
+  "không kích",
+  "bịch"
+ ],
+ "flags": [
+  {
+   "headword": "ái",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Tôi ái cô ấy lắm luôn” unnaturally treats ái as a freely usable Vietnamese verb, whereas this humorous usage occurs in “ngộ ái nị” ([usage note](https://en.wiktionary.org/wiki/%C3%A1i#Vietnamese)).",
+   "fix": "Ngộ ái nị! = I love you!"
+  },
+  {
+   "headword": "ái",
+   "sense": 4,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Ái used to label someone gay can be derogatory, so slang alone does not adequately warn the learner ([usage guidance](https://www.tudientienglong.com/word/ai)).",
+   "fix": "Add the tag derogatory."
+  }
+ ]
+}

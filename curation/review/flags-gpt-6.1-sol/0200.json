@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "xốt",
+  "tươi cười",
+  "hòa khí",
+  "phẩm giá",
+  "nghi binh",
+  "chim sẻ",
+  "hộp thư",
+  "rà",
+  "mạo danh",
+  "húc",
+  "tế",
+  "tổng giám mục",
+  "suy ra",
+  "ngân khố",
+  "kham",
+  "báo giới",
+  "ăn tiệc",
+  "lơ đãng",
+  "keo kiệt",
+  "pha lê",
+  "thâm",
+  "cha nội",
+  "nhà thương",
+  "trừu tượng",
+  "sinh tố",
+  "lắc đầu",
+  "chí",
+  "hắng",
+  "mướt",
+  "bằm",
+  "xơ cứng",
+  "vã",
+  "chằn",
+  "ngũ",
+  "vũ điệu",
+  "bãi biển",
+  "hình tròn",
+  "chủ tế",
+  "gấp rút",
+  "nhất thời"
+ ],
+ "flags": [
+  {
+   "headword": "báo giới",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Báo giới is formal vocabulary, so leaving it untagged suggests it is ordinary casual speech.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "cha nội",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This form of address is mainly Southern Vietnamese.",
+   "fix": "Use tags informal, Southern."
+  },
+  {
+   "headword": "bằm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bằm meaning 'mince' is a Central and Southern regional form, as recorded in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf).",
+   "fix": "Add the tags Central, Southern."
+  },
+  {
+   "headword": "vã",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The walking sense occurs in đi vã, not as a standalone verb in tôi vã ra chợ, as illustrated in the [dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%C3%A3).",
+   "fix": "Tôi phải đi vã hàng chục cây số để tới chợ. = I had to walk dozens of kilometres to reach the market."
+  },
+  {
+   "headword": "ngũ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the size of a ngũ instead of showing the word used in a situation.",
+   "fix": "Ngũ lính ấy được giao canh cổng thành. = That squad of five soldiers was assigned to guard the citadel gate."
+  }
+ ]
+}

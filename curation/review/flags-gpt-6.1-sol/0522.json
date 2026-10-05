@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nguỵ quyền",
+  "nguỵ quân tử",
+  "nguỵ trang",
+  "nguỵ tạo",
+  "nguỵ đời",
+  "ngàn cân treo sợi tóc",
+  "ngàn thu",
+  "ngàn trùng",
+  "ngàn vàng",
+  "ngào",
+  "ngào ngạt",
+  "ngày hôm nay",
+  "ngày lễ",
+  "ngày mốt",
+  "ngày nghỉ",
+  "ngày nảy ngày nay",
+  "ngày rày",
+  "ngày sinh tháng đẻ",
+  "ngày thường",
+  "ngày xửa ngày xưa",
+  "ngá ngởn",
+  "ngái ngủ",
+  "ngám",
+  "ngán ngẩm",
+  "ngáo đá",
+  "ngáp ngắn ngáp dài",
+  "ngâm nga",
+  "ngâm ngợi",
+  "ngâm vịnh",
+  "ngân bản vị",
+  "ngân khoản",
+  "ngâu",
+  "ngây thơ như con cầy tơ",
+  "ngã ngũ",
+  "ngã ngửa",
+  "ngã ngựa",
+  "ngã nước",
+  "ngã xuống",
+  "ngã đường",
+  "ngãi"
+ ],
+ "flags": [
+  {
+   "headword": "nguỵ quân tử",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory label expressing contempt for someone who pretends to be virtuous, as illustrated in [Vietnamese usage](https://www.vanchuongviet.org/index.php?action=detail&comp=tacpham&id=8787).",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "ngã ngửa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common literal meaning of falling backward onto one's back.",
+   "fix": "Add: verb | to fall backward onto one's back; example: Anh ấy trượt chân và ngã ngửa. = He slipped and fell onto his back."
+  }
+ ]
+}

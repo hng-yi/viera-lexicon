@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "lít nhít",
+  "líu",
+  "líu ríu",
+  "lò bánh mì",
+  "lò cao",
+  "lò cò",
+  "lò gạch",
+  "lò luyện thi",
+  "lò sát sinh",
+  "lò than",
+  "lò vi ba",
+  "lò vôi",
+  "lòi tói",
+  "lòn hòn",
+  "lòng bàn tay",
+  "lòng khòng",
+  "lòng lang dạ sói",
+  "lòng lang dạ thú",
+  "lòng thà lòng thòng",
+  "lòng thòng",
+  "lòng trắng",
+  "lòng đào",
+  "lòng đất",
+  "lòng đỏ",
+  "lót tích",
+  "lô hội",
+  "lô nhô",
+  "lô tô",
+  "lô xô",
+  "lô đề",
+  "lôgarit",
+  "lôm côm",
+  "lôm nhôm",
+  "lông ba lông bông",
+  "lông mao",
+  "lõm bõm",
+  "lõng bõng",
+  "lù mù",
+  "lùa gà",
+  "lùi lũi"
+ ],
+ "flags": [
+  {
+   "headword": "lót tích",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means “mất dạy” (ill-mannered or insolent), rather than praising someone's wit ([Wiktionary](https://vi.wiktionary.org/wiki/lót_tích)).",
+   "fix": "ill-mannered; insolent"
+  },
+  {
+   "headword": "lót tích",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression can insult someone as “mất dạy,” but its tags provide no insult warning ([Wiktionary](https://vi.wiktionary.org/wiki/lót_tích)).",
+   "fix": "[slang, Internet, humorous, derogatory]"
+  },
+  {
+   "headword": "lót tích",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example expresses extreme rudeness, with a vulgar intensifier, rather than cleverness ([Wiktionary](https://vi.wiktionary.org/wiki/lót_tích)).",
+   "fix": "That's fucking rude."
+  },
+  {
+   "headword": "lô xô",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word describes successive pointed shapes rising to uneven heights, rather than things being tangled ([Rung dictionary](https://v2.rung.vn/dict/vn_vn/Lô_xô)).",
+   "fix": "rising in successive peaks at uneven heights"
+  },
+  {
+   "headword": "lô xô",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The wires example uses the word to mean tangled, which is not its meaning ([Rung dictionary](https://v2.rung.vn/dict/vn_vn/Lô_xô)).",
+   "fix": "Những ngọn núi đá lô xô phía xa. = Rocky peaks rise at uneven heights in the distance."
+  }
+ ]
+}

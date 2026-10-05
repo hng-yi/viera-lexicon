@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "bó buộc",
+  "bài tây",
+  "sơ sẩy",
+  "sửng",
+  "học lỏm",
+  "giàu mạnh",
+  "đồi mồi",
+  "cẩm",
+  "đượm",
+  "bao tiêu",
+  "lông bông",
+  "an khang",
+  "Phật tính",
+  "hướng tâm",
+  "châm chích",
+  "đậu tương",
+  "èo uột",
+  "da diết",
+  "xù xì",
+  "móng chân",
+  "thai sản",
+  "hao",
+  "danh hài",
+  "thanh thoát",
+  "đảo quốc",
+  "sồ",
+  "chốc chốc",
+  "trừu",
+  "tạ lỗi",
+  "tin mừng",
+  "vần thơ",
+  "viêm não",
+  "bền chặt",
+  "trầm mặc",
+  "sướng rơn",
+  "thiên địch",
+  "tri huyện",
+  "mạt kiếp",
+  "nhà thương điên",
+  "thâm nho"
+ ],
+ "flags": [
+  {
+   "headword": "cẩm",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This usage denotes the colonial police station or office, rather than the police force ([dictionary](https://www.rung.vn/dict/vn_vn/C%E1%BA%A9m)).",
+   "fix": "police station; colonial police office"
+  },
+  {
+   "headword": "hao",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of diminishing or losing some quantity is missing ([dictionary](https://www.rung.vn/dict/vn_vn/Hao)).",
+   "fix": "to diminish; to decrease through loss — Nước trong bình hao đi một ít. = The water in the container has decreased a little."
+  },
+  {
+   "headword": "mạt kiếp",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The ordinary sense expresses an undesirable condition lasting to the end of one's life, rather than naming misery or fate ([dictionary](https://dictionary.zim.vn/viet-anh/mat-kiep-tieng-anh-la-gi)).",
+   "fix": "for the rest of one's life (of an undesirable condition)"
+  },
+  {
+   "headword": "mạt kiếp",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense is a curse meaning despicable or contemptible, rather than merely unhappy or impoverished ([dictionary](https://dictionary.zim.vn/viet-anh/mat-kiep-tieng-anh-la-gi)).",
+   "fix": "despicable; contemptible (used as a curse)"
+  },
+  {
+   "headword": "mạt kiếp",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The curse sense needs an offensive warning so learners do not mistake it for a neutral description ([dictionary](https://dictionary.zim.vn/viet-anh/mat-kiep-tieng-anh-la-gi)).",
+   "fix": "Add offensive."
+  },
+  {
+   "headword": "nhà thương điên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what people called a psychiatric hospital instead of using the term to refer to one.",
+   "fix": "Ngày xưa, ông ấy từng bị đưa vào nhà thương điên. = In the old days, he was once sent to a lunatic asylum."
+  },
+  {
+   "headword": "nhà thương điên",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The gloss identifies the term as insensitive, but its tags do not warn learners about its derogatory character.",
+   "fix": "dated, informal, derogatory"
+  },
+  {
+   "headword": "thâm nho",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The familiar negative sense describing someone as secretly scheming or sly is missing, which could make learners use it as praise ([dictionary](https://vdict.com/th%C3%A2m%20nho%2C3%2C0%2C0.html)).",
+   "fix": "adj [colloquial, derogatory] | sly; scheming — Thằng đó thâm nho lắm, đừng tin nó. = That guy is very scheming; don't trust him."
+  }
+ ]
+}

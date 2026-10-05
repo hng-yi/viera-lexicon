@@ -1,0 +1,150 @@
+{
+ "headwords": [
+  "cuộc sống",
+  "món",
+  "bình tĩnh",
+  "Bác",
+  "bác",
+  "hoàn toàn",
+  "báo",
+  "đau",
+  "trốn",
+  "ngon",
+  "nguy hiểm",
+  "rượu",
+  "mặc",
+  "bước",
+  "bán",
+  "sai",
+  "thầy",
+  "nè",
+  "cuối",
+  "nàng",
+  "đôi",
+  "chính xác",
+  "chuyển",
+  "suốt",
+  "trở",
+  "yên",
+  "càng",
+  "tạm biệt",
+  "thắng",
+  "phim",
+  "cẩn thận",
+  "khu",
+  "đem",
+  "thường",
+  "hướng",
+  "thậm chí",
+  "chả",
+  "dành",
+  "đặc biệt",
+  "may mắn"
+ ],
+ "flags": [
+  {
+   "headword": "bác",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common first-person use of bác when speaking to someone who calls you bác is missing. [Dictionary](https://vi.wiktionary.org/wiki/bác)",
+   "fix": "pron | I, me (an uncle, aunt or older adult speaking to someone who addresses them as bác)"
+  },
+  {
+   "headword": "bác",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The kinship meaning includes an elder brother or sister of either parent, rather than only the father's elder brother. [Dictionary](https://vi.wiktionary.org/wiki/bác)",
+   "fix": "uncle; aunt (an elder brother or sister of either parent)"
+  },
+  {
+   "headword": "bác",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what bác means instead of using it to refer to someone.",
+   "fix": "Bác tôi đến thăm nhà hôm qua. = My uncle came to visit yesterday."
+  },
+  {
+   "headword": "bác",
+   "sense": 7,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bác trứng means cooking eggs over gentle heat, not beating raw eggs before cooking. [Dictionary](https://vi.wiktionary.org/wiki/bác)",
+   "fix": "to scramble (eggs, by cooking over gentle heat)"
+  },
+  {
+   "headword": "bác",
+   "sense": 7,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses bác for beating eggs in a bowl.",
+   "fix": "Mẹ đang bác trứng trong chảo. = Mum is scrambling eggs in the pan."
+  },
+  {
+   "headword": "thầy",
+   "sense": 6,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Thầy meaning a teacher or respected instructor remains current, including in the quoted proverb. [Dictionary](https://vi.wiktionary.org/wiki/thầy)",
+   "fix": "Remove dated and literary."
+  },
+  {
+   "headword": "nàng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nàng for a young woman belongs primarily to literary language, which the endearing tag does not convey. [Dictionary](https://loigiaihay.com/tu-dien-tv/nang-ezkHGPAeYkkCd.html)",
+   "fix": "[endearing, literary]"
+  },
+  {
+   "headword": "nàng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Nàng tiên cá means a mermaid generally and does not by itself specify the Little Mermaid.",
+   "fix": "nàng tiên cá = mermaid"
+  },
+  {
+   "headword": "yên",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Yên meaning peaceful or calm is also ordinary spoken Vietnamese. [Dictionary](https://vi.wiktionary.org/wiki/yên)",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "thắng",
+   "sense": 7,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bàn thắng means a goal, but thắng itself does not mean goal or score.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "thường",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example naturally uses thường in its everyday habitual meaning and does not demonstrate the archaic sense 'once; formerly'.",
+   "fix": "Remove this example."
+  },
+  {
+   "headword": "chả",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chả includes grilled or fried pieces of meat or seafood, so restricting it to ground-food patties excludes common uses. [Dictionary](https://vi.wiktionary.org/wiki/chả)",
+   "fix": "a grilled or fried dish made from seasoned meat, seafood or eggs, in pieces or minced"
+  },
+  {
+   "headword": "chả",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This pronoun is current in casual Southern speech and is misleadingly marked rare. [Dictionary](https://en.wiktionary.org/wiki/chả)",
+   "fix": "[Southern, informal]"
+  }
+ ]
+}

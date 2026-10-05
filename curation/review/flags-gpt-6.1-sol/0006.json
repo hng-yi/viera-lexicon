@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "chị",
+  "tiền",
+  "gái",
+  "bên",
+  "quay",
+  "nhớ",
+  "yêu",
+  "kẻ",
+  "luôn",
+  "chẳng",
+  "nhanh",
+  "tay",
+  "cha",
+  "đều",
+  "ơi",
+  "xảy",
+  "ừ",
+  "ổn",
+  "giống",
+  "thế nào",
+  "Đường",
+  "đường",
+  "Ý",
+  "ý",
+  "hỏi",
+  "kia",
+  "bằng",
+  "chú",
+  "chính",
+  "nói chuyện",
+  "thời gian",
+  "vài",
+  "ăn",
+  "giữ",
+  "đầu",
+  "bắt",
+  "vụ",
+  "bắn",
+  "bé",
+  "như vậy"
+ ],
+ "flags": [
+  {
+   "headword": "bên",
+   "sense": 7,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word for an aspect of a matter, including its good or bad side, is mặt rather than bên.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "đầu",
+   "sense": 4,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Đầu ngõ means the entrance to the lane, whereas the English suggests its far end.",
+   "fix": "My house is at the entrance to the lane."
+  },
+  {
+   "headword": "bé",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This meaning is mainly Northern, as the gloss itself notes, but lacks the region tag.",
+   "fix": "Add Northern."
+  }
+ ]
+}

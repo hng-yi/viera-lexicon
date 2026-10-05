@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đồn điền",
+  "rỗng tuếch",
+  "thuần túy",
+  "thắm thiết",
+  "sành",
+  "răng nanh",
+  "nhanh trí",
+  "mở mang",
+  "ghệ",
+  "lè",
+  "vời",
+  "chém gió",
+  "chỉ giáo",
+  "thực nghiệm",
+  "MC",
+  "mận",
+  "thương hàn",
+  "bấp bênh",
+  "đặc sắc",
+  "xích đạo",
+  "tiền tài",
+  "trai tráng",
+  "quẫn trí",
+  "da gà",
+  "vị tha",
+  "ước ao",
+  "đất hứa",
+  "Tôn Ngộ Không",
+  "nồng nàn",
+  "cư ngụ",
+  "lưỡi lê",
+  "giai cấp",
+  "chưng",
+  "Cuội",
+  "cuội",
+  "nghĩa phụ",
+  "Phật giáo",
+  "ưu việt",
+  "Việt ngữ",
+  "xảo trá"
+ ],
+ "flags": [
+  {
+   "headword": "chưng",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The neutral display meaning illustrated by arranging a fruit tray is mainly Southern usage.",
+   "fix": "Add Southern to the display meaning."
+  },
+  {
+   "headword": "Cuội",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cuội does not mean to backtrack or retract a promise; lowercase cuội describes false or nonsensical statements, as in hứa cuội ([dictionary](https://v2.rung.vn/dict/vn_vn/Cu%E1%BB%99i)).",
+   "fix": "Remove this verb sense and its example."
+  },
+  {
+   "headword": "đất hứa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common figurative meaning of a place promising a better, prosperous life ([dictionary](https://tudientv.com/?t=%C4%91%E1%BA%A5t+h%E1%BB%A9a)).",
+   "fix": "noun | a place promising a better life or opportunities"
+  }
+ ]
+}

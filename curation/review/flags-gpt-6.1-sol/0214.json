@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "song hành",
+  "công cốc",
+  "chính tả",
+  "thì thào",
+  "đánh số",
+  "dưỡng khí",
+  "cốt truyện",
+  "mạo",
+  "duyên hải",
+  "chướng",
+  "đường nét",
+  "ráy",
+  "truyền kiếp",
+  "thiển cận",
+  "tâm tình",
+  "thuyết giảng",
+  "sủi",
+  "âm vật",
+  "dược sĩ",
+  "thái giám",
+  "khí tượng",
+  "đơn phương",
+  "cỗi",
+  "làm bộ",
+  "trữ",
+  "cổ áo",
+  "khuyên tai",
+  "giấc mơ",
+  "anh túc",
+  "vu",
+  "máy kéo",
+  "diễn giải",
+  "la mắng",
+  "tháo chạy",
+  "khỉ đột",
+  "xung",
+  "triết gia",
+  "vô sinh",
+  "méo mó",
+  "tru"
+ ],
+ "flags": [
+  {
+   "headword": "truyền kiếp",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Lifelong” incorrectly limits the meaning to one lifetime, whereas truyền kiếp describes something persisting across generations or lifetimes ([dictionary](https://loigiaihay.com/tu-dien-tv/truyen-kiep-eRKEfoBBlSVzt.html)).",
+   "fix": "age-old; persisting across generations (of enmity or other adverse conditions)"
+  },
+  {
+   "headword": "âm vật",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the body part instead of showing the word in use.",
+   "fix": "Cô ấy hỏi bác sĩ về cảm giác đau ở âm vật. = She asked the doctor about pain in her clitoris."
+  },
+  {
+   "headword": "xung",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Xung does not mean physiological throbbing here; its pulse-related meaning concerns a brief signal or impulse ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-xung)).",
+   "fix": "Remove this sense and its example."
+  }
+ ]
+}

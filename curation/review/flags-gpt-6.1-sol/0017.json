@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "giá",
+  "thành công",
+  "ngôi",
+  "hóa",
+  "tìm kiếm",
+  "bom",
+  "đấu",
+  "lạ",
+  "hạnh phúc",
+  "đơn giản",
+  "mối",
+  "liên lạc",
+  "buồn",
+  "gọi là",
+  "xuất hiện",
+  "nhắc",
+  "báo cáo",
+  "chú ý",
+  "núi",
+  "cầu",
+  "thông minh",
+  "căn",
+  "mong",
+  "mục tiêu",
+  "cơn",
+  "chiến tranh",
+  "mùi",
+  "túi",
+  "chấp nhận",
+  "mức",
+  "phát",
+  "di chuyển",
+  "nặng",
+  "ít nhất",
+  "quái",
+  "ngừng",
+  "dĩ nhiên",
+  "chỉ huy",
+  "đóng",
+  "sang"
+ ],
+ "flags": [
+  {
+   "headword": "buồn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the very common meaning 'bored', used when someone has nothing interesting to do.",
+   "fix": "adj | bored. Example: Ở nhà một mình chẳng có gì làm, tôi buồn quá. = I'm so bored at home alone with nothing to do."
+  },
+  {
+   "headword": "mức",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the tree rather than showing the word in use.",
+   "fix": "Chúng tôi thấy một cây mức ở bìa rừng. = We saw a mức tree at the edge of the forest."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "magie",
+  "lắng đọng",
+  "cơ vân",
+  "hải dương",
+  "bất hiếu",
+  "khò",
+  "thấp thoáng",
+  "phọt cứt",
+  "cầm cập",
+  "ngũ giác",
+  "đại ngu",
+  "ác bá",
+  "tính trạng",
+  "phối ngẫu",
+  "mắt xanh",
+  "hao hụt",
+  "dữ thần",
+  "ích",
+  "pháp nhân",
+  "trắng trẻo",
+  "động lượng",
+  "gẫm",
+  "dần dà",
+  "biên độ",
+  "lăm",
+  "mị dân",
+  "gang tấc",
+  "ma men",
+  "cót két",
+  "lọng",
+  "nùi",
+  "hiếu học",
+  "thủy chiến",
+  "sang năm",
+  "trắng dã",
+  "chuyên biệt",
+  "thương nhớ",
+  "mòng biển",
+  "xà bần",
+  "chơ vơ"
+ ],
+ "flags": [
+  {
+   "headword": "bất hiếu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The sentence incorrectly equates the act of abandoning parents with a person.",
+   "fix": "Người bỏ mặc cha mẹ già là người bất hiếu. = Someone who abandons their elderly parents is unfilial."
+  },
+  {
+   "headword": "cầm cập",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cầm cập describes shivering or teeth chattering, not turbulent waves ([dictionary](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-7)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "cầm cập",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Hàm răng cầm cập is an unnatural construction because cầm cập normally accompanies a verb such as run or đánh.",
+   "fix": "Răng nó đánh cầm cập vì lạnh. = His teeth chattered from the cold."
+  },
+  {
+   "headword": "cầm cập",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cầm cập does not mean turbulent ([dictionary](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-7)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "đại ngu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone đại ngu is a derogatory insult, which the informal tag alone does not warn about.",
+   "fix": "Tags: informal, derogatory."
+  },
+  {
+   "headword": "dữ thần",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Dữ thần as an intensifier is mainly Southern Vietnamese.",
+   "fix": "Tags: colloquial, Southern."
+  }
+ ]
+}

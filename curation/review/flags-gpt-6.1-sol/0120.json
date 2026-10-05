@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "quốc trưởng",
+  "rối",
+  "lảng vảng",
+  "tán thành",
+  "áp đảo",
+  "chịch",
+  "hình tượng",
+  "ria",
+  "thuật toán",
+  "cong",
+  "kiến trúc sư",
+  "tràn đầy",
+  "manh động",
+  "chuốc",
+  "đuốc",
+  "vét",
+  "bác bỏ",
+  "ngỗng",
+  "tiết",
+  "vũ nữ",
+  "vung",
+  "mong ước",
+  "kén",
+  "phô mai",
+  "rộng rãi",
+  "điều ước",
+  "trong sáng",
+  "giàn",
+  "thành quả",
+  "phán đoán",
+  "tỉ mỉ",
+  "tâm linh",
+  "phát tán",
+  "tiền của",
+  "toán học",
+  "ngón tay",
+  "môn phái",
+  "mùa hè",
+  "cúm",
+  "bừa"
+ ],
+ "flags": [
+  {
+   "headword": "cong",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The gloss acknowledges potentially derogatory use, but the tags provide no derogatory warning.",
+   "fix": "[colloquial, slang, derogatory]"
+  },
+  {
+   "headword": "cong",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In “nét cong,” cong means curved, as in sense 1, rather than naming a separate Chinese-character stroke.",
+   "fix": "Remove sense 4."
+  },
+  {
+   "headword": "vét",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Vét does not specifically mean tuxedo, which requires an additional qualifier such as tuxedo in the [Cambridge translation](https://dictionary.cambridge.org/vi/dictionary/english/tuxedo).",
+   "fix": "Remove sense 4."
+  },
+  {
+   "headword": "điều ước",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The treaty meaning remains current in official usage, including the [current Law on Treaties](https://vbpl.moj.gov.vn/boxaydung/Pages/vbpq-toanvan.aspx?ItemID=185980&Keyword=), so dated is misleading.",
+   "fix": "Replace [dated] with [formal]."
+  }
+ ]
+}

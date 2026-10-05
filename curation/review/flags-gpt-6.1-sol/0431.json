@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "chế định",
+  "chế độ cũ",
+  "chế độ ăn kiêng",
+  "chếch lệch",
+  "chếnh choáng",
+  "chết chẹt",
+  "chết chửa",
+  "chết giấc",
+  "chết lâm sàng",
+  "chết máy",
+  "chết non",
+  "chết sống",
+  "chết toi",
+  "chết tươi",
+  "chết điếng",
+  "chễm chệ",
+  "chỉ ... thôi",
+  "chỉ dụ",
+  "chỉ giới",
+  "chỉ lệnh",
+  "chỉ nam",
+  "chỉ nha khoa",
+  "chỉ quán",
+  "chỉ sự",
+  "chỉ tay năm ngón",
+  "chỉ thiên",
+  "chỉ thực",
+  "chỉ vẽ",
+  "chỉ xác",
+  "chỉ đường",
+  "chỉn",
+  "chỉnh huấn",
+  "chỉnh hợp",
+  "chỉnh lí",
+  "chỉnh lưu",
+  "chỉnh thể",
+  "chỉnh trị",
+  "chị dâu",
+  "chị đại",
+  "chị ấy"
+ ],
+ "flags": [
+  {
+   "headword": "chỉ tay năm ngón",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This expression means bossing people around, not neutrally pointing or gesturing with the whole hand.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "chỉ thực",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss incorrectly restricts this medicinal material to trifoliate orange, whereas it includes immature bitter or sweet orange fruit ([Vietnamese Pharmacopoeia](https://duocdienvietnam.com/chi-thuc/)).",
+   "fix": "dried immature citrus fruit used in traditional medicine"
+  },
+  {
+   "headword": "chỉ xác",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This medicinal material uses unripe citrus fruit, particularly bitter orange, rather than specifically mature trifoliate orange ([Hospital of Traditional Medicine](https://www.yhct.vn/chi-xac)).",
+   "fix": "dried citrus fruit harvested before ripening, used in traditional medicine"
+  },
+  {
+   "headword": "chỉ xác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what chỉ xác is instead of showing it in use.",
+   "fix": "Thầy thuốc cho thêm chỉ xác vào thang thuốc. = The herbalist added chỉ xác to the herbal prescription."
+  },
+  {
+   "headword": "chỉnh hợp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the mathematical meaning instead of showing the word in use.",
+   "fix": "Bài kiểm tra có một câu về chỉnh hợp. = The test has a question about arrangements."
+  }
+ ]
+}

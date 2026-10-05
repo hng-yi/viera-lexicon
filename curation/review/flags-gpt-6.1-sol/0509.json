@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "monoxit",
+  "moscovi",
+  "moả",
+  "mu-xoa",
+  "mua vui",
+  "muôn hình",
+  "muôn hình vạn trạng",
+  "muôn trùng",
+  "muông",
+  "muối bỏ biển",
+  "muối mè",
+  "muối mỏ",
+  "muối thánh",
+  "muối ăn",
+  "muốn ăn thì lăn vào bếp",
+  "muồi",
+  "muồm muỗm",
+  "muồng",
+  "muỗng canh",
+  "muỗng cà phê",
+  "muộn mằn",
+  "mà thôi",
+  "mài mòn",
+  "màn cửa",
+  "màn hình cảm ứng",
+  "màn trời chiếu đất",
+  "màng lưới",
+  "màng mềm",
+  "màng nhầy",
+  "màng nhện",
+  "màng tang",
+  "màng óc",
+  "mào gà",
+  "màu mè",
+  "mày hả mạy",
+  "mày tao chi tớ",
+  "má hồng",
+  "mái ngố",
+  "mái vòm",
+  "mái ấm"
+ ],
+ "flags": [
+  {
+   "headword": "mào gà",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common literal meaning: the fleshy crest on a chicken's head.",
+   "fix": "Add noun: comb; cockscomb (the fleshy crest on a chicken's head)."
+  },
+  {
+   "headword": "má hồng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Literal má hồng meaning rosy cheeks is ordinary Vietnamese, so the literary tag wrongly restricts that meaning.",
+   "fix": "Separate into an untagged meaning 'rosy cheeks' and a literary meaning 'young and beautiful women'."
+  },
+  {
+   "headword": "màn cửa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Màn cửa meaning curtain is used mainly in Southern Vietnamese but has no regional tag.",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

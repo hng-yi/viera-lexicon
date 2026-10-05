@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ác tăng",
+  "ác tật",
+  "ác vàng",
+  "ác-mô-ni-ca",
+  "ác-ti-sô",
+  "ác-xin",
+  "ách nô lệ",
+  "ách nạn",
+  "ách vận",
+  "ái dà",
+  "ái hữu",
+  "ái lực",
+  "ái nam ái nữ",
+  "ái ngữ",
+  "ái nữ",
+  "ái phi",
+  "ái quần",
+  "ái ân",
+  "ám tiêu",
+  "ám tả",
+  "án chung thân",
+  "án gian",
+  "án hành chính",
+  "án lệ",
+  "án oan",
+  "án phúc thẩm",
+  "án quyết",
+  "án sát",
+  "án thư",
+  "án tù",
+  "án từ",
+  "án tử hình",
+  "án điểm",
+  "áng chừng",
+  "ánh kim",
+  "ánh mắt",
+  "ánh nhìn",
+  "ánh nắng",
+  "ánh sao",
+  "ánh đèn"
+ ],
+ "flags": [
+  {
+   "headword": "ác-xin",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the gas instead of showing the word in use.",
+   "fix": "Ác-xin bị rò rỉ khiến công nhân phải sơ tán. = An arsine leak forced the workers to evacuate."
+  },
+  {
+   "headword": "ái ân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This romantic-affection sense needs a literary register warning ([dictionary](https://loigiaihay.com/tu-dien-tv/ai-an-e1iVPH3pJNthM.html)).",
+   "fix": "Add the tag literary."
+  }
+ ]
+}

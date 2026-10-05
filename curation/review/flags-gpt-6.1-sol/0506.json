@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "lợ",
+  "lợi niệu",
+  "lợi tiểu",
+  "lợn cợn",
+  "lợn nước",
+  "lợn rừng",
+  "lợn đất",
+  "lụ khụ",
+  "lụa là",
+  "lục bát",
+  "lục huyền cầm",
+  "lục lâm",
+  "lục lăng",
+  "lục lạc",
+  "lục lạp",
+  "lục nghệ",
+  "lục phủ ngũ tạng",
+  "lục súc",
+  "lục thư",
+  "lục trà",
+  "lục tuần",
+  "lụi hụi",
+  "lụp",
+  "lụp xụp",
+  "lủm",
+  "lủng la lủng lẳng",
+  "lứ",
+  "lứa đôi",
+  "lừ",
+  "lừ thừ",
+  "lừ đừ",
+  "lừa bóng",
+  "lừa tiền",
+  "lừng khừng",
+  "lừng lững",
+  "lử khử",
+  "lử khử lừ khừ",
+  "lử lả",
+  "lửa lòng",
+  "lửa thử vàng, gian nan thử sức"
+ ],
+ "flags": [
+  {
+   "headword": "lợn nước",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the name instead of using it to refer to a hippopotamus.",
+   "fix": "Con lợn nước đang ngâm mình dưới sông. = The hippopotamus is soaking in the river."
+  },
+  {
+   "headword": "lủm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lủm means eating an entire piece in one mouthful, without necessarily swallowing it unchewed, as defined in [Rừng](https://www.rung.vn/dict/vn_vn/L%E1%BB%A7m).",
+   "fix": "to eat in one mouthful"
+  },
+  {
+   "headword": "lứ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lứ is used when addressing a Teochew speaker, rather than being a general Southern pronoun between friends, as documented in [Wiktionary](https://en.wiktionary.org/wiki/l%E1%BB%A9).",
+   "fix": "you (in Southern Vietnamese, when addressing a Teochew speaker)"
+  }
+ ]
+}

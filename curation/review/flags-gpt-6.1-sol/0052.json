@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "pháp luật",
+  "cộng đồng",
+  "mát",
+  "tia",
+  "râu",
+  "xông",
+  "trung học",
+  "sạch sẽ",
+  "no",
+  "giỡn",
+  "ăn trộm",
+  "K",
+  "khoảng cách",
+  "tự tin",
+  "đầu óc",
+  "thần linh",
+  "chẳng hạn",
+  "thư viện",
+  "hủy diệt",
+  "thơ",
+  "cụ",
+  "ý nghĩ",
+  "cất cánh",
+  "kiện",
+  "tỉnh táo",
+  "nhặt",
+  "lừa dối",
+  "xe lửa",
+  "thi thể",
+  "ngành",
+  "nhấc",
+  "hoang",
+  "trước hết",
+  "đồng tính",
+  "đứt",
+  "che giấu",
+  "vững",
+  "nhiệt độ",
+  "lợi ích",
+  "đáy"
+ ],
+ "flags": [
+  {
+   "headword": "xông",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense refers to termites infesting and eating away at objects, not general gnawing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%B4ng)).",
+   "fix": "to infest and eat away at; to damage by boring into (of termites)"
+  },
+  {
+   "headword": "xông",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A mouse gnawing a sack does not illustrate this termite-related sense ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%B4ng)).",
+   "fix": "Cái tủ bị mối xông. = The cupboard has been damaged by termites."
+  },
+  {
+   "headword": "no",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The meaning 'filled out; full' remains current and is not archaic ([dictionary](https://vdict.com/no,3,0,0.html)).",
+   "fix": "Remove the archaic tag."
+  }
+ ]
+}

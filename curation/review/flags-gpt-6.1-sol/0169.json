@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "dâm",
+  "run sợ",
+  "chú thích",
+  "lưu diễn",
+  "chiêu thức",
+  "bỏ sót",
+  "đồ sộ",
+  "đính",
+  "tổng tư lệnh",
+  "giao lộ",
+  "thiêu đốt",
+  "tán gẫu",
+  "bàn thờ",
+  "nhọ",
+  "nhập hội",
+  "nhà xe",
+  "rốt cục",
+  "đô thành",
+  "phân bón",
+  "triệt để",
+  "sâm panh",
+  "xôi",
+  "lo âu",
+  "cáo trạng",
+  "phù rể",
+  "cúc",
+  "chút đỉnh",
+  "mội",
+  "chu du",
+  "xe điện",
+  "khui",
+  "ca hát",
+  "tuyển mộ",
+  "thượng đỉnh",
+  "tụ",
+  "tận tụy",
+  "hồi tưởng",
+  "sâu xa",
+  "ngột ngạt",
+  "hải sản"
+ ],
+ "flags": [
+  {
+   "headword": "dâm",
+   "sense": 4,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone sex-crazed or perverted is derogatory, but the tags provide no warning.",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "chú thích",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common verb meaning 'to annotate; to add explanatory notes or captions' is missing ([dictionary](https://vi.wiktionary.org/wiki/ch%C3%BA_th%C3%ADch)).",
+   "fix": "verb | to annotate; to add explanatory notes or captions"
+  },
+  {
+   "headword": "giao lộ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Chờ đèn đỏ means waiting at a red light here, whereas the translation says the car waits for the light to turn red.",
+   "fix": "The car stopped at the intersection to wait at the red light."
+  },
+  {
+   "headword": "xôi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Xôi as breast slang does not work as a neutral bosom in this affectionate sentence.",
+   "fix": "Nó cứ nhìn chằm chằm vào cặp xôi của cô ấy. = He kept staring at her boobs."
+  },
+  {
+   "headword": "xôi",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sexual slang for breasts needs a vulgarity warning ([slang dictionary](https://www.tudientienglong.com/word/xoi-2)).",
+   "fix": "[slang, rare, vulgar]"
+  },
+  {
+   "headword": "cáo trạng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cáo trạng is the indictment being read, not the arraignment or the act of reading charges ([dictionary](https://vi.wiktionary.org/wiki/c%C3%A1o_tr%E1%BA%A1ng)).",
+   "fix": "Remove sense 2 and place its example under sense 1."
+  }
+ ]
+}

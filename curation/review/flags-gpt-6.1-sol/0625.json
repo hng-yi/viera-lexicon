@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "yết hầu",
+  "yếu bóng vía",
+  "yếu chỉ",
+  "yếu lĩnh",
+  "yểng",
+  "ziriconi",
+  "Á Căn Đình",
+  "Á Đông",
+  "Ê-cu-a-đo",
+  "Ô-sin",
+  "Ô-xtrây-li-a",
+  "Ôn Châu",
+  "Ý Đại Lợi",
+  "à thế à",
+  "à uôm",
+  "à ơi",
+  "á cấp",
+  "á hoá thạch",
+  "á hóa thạch",
+  "á khoa",
+  "á khôi",
+  "á khẩu",
+  "á kim",
+  "á nguyên",
+  "á nhiệt đới",
+  "á quân",
+  "á sừng",
+  "á thánh",
+  "á à",
+  "ác cái là",
+  "ác giả ác báo",
+  "ác hại",
+  "ác khẩu",
+  "ác là",
+  "ác miệng",
+  "ác một cái là",
+  "ác nhân sát đức",
+  "ác như hùm",
+  "ác quả",
+  "ác tà"
+ ],
+ "flags": [
+  {
+   "headword": "yết hầu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning 'Adam's apple', documented by [Cambridge](https://dictionary.cambridge.org/us/dictionary/english-vietnamese/adam).",
+   "fix": "Add: Adam's apple."
+  },
+  {
+   "headword": "yếu bóng vía",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Sleep paralysis is a supposed consequence of spiritual vulnerability in folk belief, rather than the meaning of the expression itself.",
+   "fix": "spiritually vulnerable; susceptible to supernatural influences, in folk belief"
+  },
+  {
+   "headword": "yếu bóng vía",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation omits the stated cause and collapses 'yếu bóng vía' into 'bị bóng đè'.",
+   "fix": "I have a weak spirit, so I often experience sleep paralysis."
+  },
+  {
+   "headword": "ziriconi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what zirconium is instead of showing the word in use.",
+   "fix": "Hợp kim này có chứa ziriconi. = This alloy contains zirconium."
+  },
+  {
+   "headword": "á khẩu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Á khẩu means being unable to speak generally, rather than specifically having aphasia, as the [dictionary definition](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-1) confirms.",
+   "fix": "unable to speak; mute"
+  },
+  {
+   "headword": "á khôi",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Á khôi includes both first and second runners-up, as illustrated by [this contestant's account](https://tienphong.vn/nu-sinh-ngoai-thuong-tai-sac-ven-toan-la-a-khoi-2-cuoc-thi-hoa-khoi-sinh-vien-mien-bac-post1600178.tpo).",
+   "fix": "female runner-up in a beauty contest"
+  },
+  {
+   "headword": "á khôi",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese example does not specify that she was the first runner-up.",
+   "fix": "She won a runner-up title in the contest."
+  },
+  {
+   "headword": "á thánh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Á thánh denotes a blessed person or that person's rank, whereas beatification is the act of conferring the rank, as explained by [this Catholic source](https://hvanphongso.edu.vn/chi-tiet/chan-phuoc-va-hien-thanh).",
+   "fix": "a blessed person; the rank of Blessed (Catholic)"
+  }
+ ]
+}

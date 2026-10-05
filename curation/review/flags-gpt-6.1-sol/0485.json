@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "khoán sản",
+  "khoáng vật học",
+  "khoáng đạt",
+  "khoáy",
+  "khoé",
+  "khoét rỗng",
+  "khoả",
+  "khoả thân",
+  "khoảng cách xã giao",
+  "khoảng cách xã hội",
+  "khoẻ",
+  "khoẻ khoắn",
+  "khoẻ mạnh",
+  "khoẻ như voi",
+  "khoẻ như vâm",
+  "khoẻ re",
+  "khu biệt",
+  "khu chế xuất",
+  "khu nghỉ dưỡng",
+  "khu trục hạm",
+  "khum",
+  "khung chậu",
+  "khung cửi",
+  "khung tranh",
+  "khuynh gia bại sản",
+  "khuynh đảo",
+  "khuyến học",
+  "khuyến nông",
+  "khuyến thiện",
+  "khuyết danh",
+  "khuyết tịch",
+  "khuây khoả",
+  "khuê các",
+  "khuôn trăng",
+  "khuất núi",
+  "khuất tất",
+  "khuấy rối",
+  "khà",
+  "khào khào",
+  "khá khen"
+ ],
+ "flags": [
+  {
+   "headword": "khoảng cách xã giao",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This denotes distance maintained in social interaction, rather than the disease-prevention practice of social distancing ([source](https://www.logspath.com/wp-content/uploads/2024/09/KY-NANG-GIAO-TIEP-TRONG-KINH-DOANH-TAP-1-TS.-NGUYEN-VAN-HUNG.pdf)).",
+   "fix": "distance maintained in social interaction"
+  },
+  {
+   "headword": "khoảng cách xã hội",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss confuses social distance with social distancing, which is giãn cách xã hội ([source](https://www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/promo/learning_at_home/vietnamese/SocialDistancingVietnamese.pdf)).",
+   "fix": "social distance"
+  },
+  {
+   "headword": "khoẻ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday colloquial uses such as Thế thì khoẻ rồi express relief from trouble or effort rather than physical health or strength.",
+   "fix": "Add a sense tagged colloquial: free from trouble or effort; at ease."
+  }
+ ]
+}

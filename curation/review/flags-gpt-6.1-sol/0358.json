@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "chết cha",
+  "quyền thế",
+  "hủ bại",
+  "phép trừ",
+  "ỉa đùn",
+  "chủ quản",
+  "cao ngất",
+  "móc lốp",
+  "mươn",
+  "thắng bại",
+  "đừ",
+  "phù chú",
+  "tôn xưng",
+  "bội thực",
+  "nói móc",
+  "La Sát",
+  "xuyên qua",
+  "rơ le",
+  "ampli",
+  "đại phong cầm",
+  "chó rừng",
+  "ỏng",
+  "chiếu xạ",
+  "tỏ bày",
+  "điện máy",
+  "công năng",
+  "cày cấy",
+  "tác vụ",
+  "thụp",
+  "đăng kiểm",
+  "thanh lí",
+  "phản pháo",
+  "vọp",
+  "hí hửng",
+  "đại bộ phận",
+  "chình ình",
+  "cạo gió",
+  "kiến giải",
+  "hoán vị",
+  "khái"
+ ],
+ "flags": [
+  {
+   "headword": "hủ bại",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary or formal word, so leaving it untagged suggests it is suitable for ordinary casual speech.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "tỏ bày",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The word has a literary register that the entry leaves unmarked, as also noted by [VDict](https://vdict.com/t%E1%BB%8F%20b%C3%A0y%2C3%2C0%2C0.html).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "đại bộ phận",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression belongs to formal speech and writing, rather than ordinary casual conversation.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "hoán vị",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A hoán vị is an arrangement, whereas its count is số hoán vị, a distinction explicitly made in this [mathematics text](https://thuvienlamdong.org.vn/Files/Books/73170.pdf).",
+   "fix": "Remove sense 2; the count example should read: Số hoán vị của bốn phần tử là hai mươi bốn. = The number of permutations of four elements is twenty-four."
+  }
+ ]
+}

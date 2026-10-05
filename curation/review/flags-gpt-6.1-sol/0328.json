@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "sinh non",
+  "tri ân",
+  "tập quán",
+  "cổ thụ",
+  "hồn phách",
+  "liệt sĩ",
+  "chuồi",
+  "giấy bạc",
+  "sunfat",
+  "cầm chân",
+  "chóng vánh",
+  "gian lao",
+  "giậu",
+  "thiên giới",
+  "y dược",
+  "chung quy",
+  "biếng",
+  "vô độ",
+  "nhân dân tệ",
+  "ác nghiệt",
+  "từ loại",
+  "gai góc",
+  "linh cữu",
+  "run rủi",
+  "nạm",
+  "chuyên chú",
+  "hửng",
+  "ăn ảnh",
+  "rốt ráo",
+  "xuất nhập khẩu",
+  "tỉnh thành",
+  "ghẻ lạnh",
+  "âm vực",
+  "thùng thình",
+  "huyên thiên",
+  "ngũ hành",
+  "kình",
+  "muôn năm",
+  "dương lịch",
+  "khuyến"
+ ],
+ "flags": [
+  {
+   "headword": "hồn phách",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Mất hồn phách here means being terrified, whereas losing one's soul suggests a spiritual loss.",
+   "fix": "He was scared out of his wits."
+  },
+  {
+   "headword": "run rủi",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Run rủi expresses fate or chance bringing something about, rather than an adjective describing something already arranged ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-run%20r%E1%BB%A7i)).",
+   "fix": "verb [literary] | to bring about through fate or chance"
+  },
+  {
+   "headword": "tỉnh thành",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tỉnh thành does not have the adjective meaning 'developed; sophisticated' ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%E1%BB%89nh%20th%C3%A0nh)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "kình",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The meaning 'to scold' is regional to Bình Định and Phú Yên in Central Vietnam ([Wiktionary](https://en.wiktionary.org/wiki/k%C3%ACnh)).",
+   "fix": "Add the Central tag."
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "chính thất",
+  "chính thể",
+  "chính trị học",
+  "chính trị phạm",
+  "chính uỷ",
+  "chính văn",
+  "chính đề",
+  "chíu chít",
+  "chò chỉ",
+  "chòi canh",
+  "chòi mòi",
+  "chòm xóm",
+  "chó biển",
+  "chó chê mèo lắm lông",
+  "chó chê mèo mửa",
+  "chó chăn cừu Đức",
+  "chó chết",
+  "chó cỏ",
+  "chó cứ sủa còn đoàn người cứ đi",
+  "chó hoang châu Phi",
+  "chó lài",
+  "chó má",
+  "chó ngáp phải ruồi",
+  "chó phốc sóc",
+  "chó rừng lông vàng",
+  "chó sói",
+  "chó sói lửa",
+  "chó sói đất",
+  "chó vàng",
+  "chó xù",
+  "chó đẻ",
+  "chó đểu",
+  "chó đốm",
+  "chói loá",
+  "chôm chôm",
+  "chôm chỉa",
+  "chôn nhau cắt rốn",
+  "chôn sống",
+  "chõng",
+  "chù vù"
+ ],
+ "flags": [
+  {
+   "headword": "chíu chít",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The bird or chick sound is the meaning learners are more likely to encounter ([dictionary](https://loigiaihay.com/tu-dien-tv/chiu-chit-edegm5tdxYBsa.html)).",
+   "fix": "Place sense 2 before sense 1."
+  },
+  {
+   "headword": "chó chăn cừu Đức",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is a current, ordinary breed name, so the rare tag is misleading ([Pedigree Vietnam](https://www.pedigree.com.vn/cac-giong-cho/cho-chan-duc)).",
+   "fix": "Remove rare."
+  },
+  {
+   "headword": "chó lài",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the breed instead of showing the word in use.",
+   "fix": "Nhà tôi nuôi một con chó lài. = My family keeps an Indochinese dingo."
+  },
+  {
+   "headword": "chó xù",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chó xù describes a shaggy or fluffy-haired dog rather than specifically identifying a bichon ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%B9)).",
+   "fix": "Gloss: shaggy-haired dog; fluffy-haired dog. Example translation: We have a white fluffy-haired dog."
+  },
+  {
+   "headword": "chó đểu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chó đểu is an insult directed at someone, not a general exclamation meaning damn it ([dictionary](https://vdict.com/ch%C3%B3%20%C4%91%E1%BB%83u%2C2%2C0%2C0.html)).",
+   "fix": "Delete sense 2."
+  },
+  {
+   "headword": "chôm chôm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the slang expression instead of using it to refer to HIV.",
+   "fix": "Nó sợ mình dính chôm chôm. = He's afraid he's contracted HIV."
+  },
+  {
+   "headword": "chõng",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Chõng remains a current word for this furniture, so dated misleadingly describes the word as outdated ([current usage](https://thegioibanghe.vn/bo-ban-ghe-chong-tre/)).",
+   "fix": "Remove dated."
+  }
+ ]
+}

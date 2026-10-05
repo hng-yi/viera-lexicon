@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "dom",
+  "thách thức",
+  "còng",
+  "bản sao",
+  "nhất là",
+  "thang",
+  "đảng",
+  "giao thông",
+  "ưa",
+  "hâm mộ",
+  "chọn lựa",
+  "thân thiện",
+  "ngoại giao",
+  "đóng băng",
+  "đi lại",
+  "ong",
+  "dự định",
+  "khẳng định",
+  "bất kể",
+  "nếm",
+  "nghệ sĩ",
+  "bắt buộc",
+  "nằm xuống",
+  "vương miện",
+  "cơ trưởng",
+  "tin cậy",
+  "đế chế",
+  "chuồng",
+  "mất mát",
+  "quãng",
+  "giáp",
+  "tro",
+  "lợi thế",
+  "đô đốc",
+  "ngọt",
+  "chiến thuật",
+  "chẳng thể",
+  "sót",
+  "thép",
+  "Nhật Bản"
+ ],
+ "flags": [
+  {
+   "headword": "dom",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Dom denotes the terminal part of the large intestine at the anus, rather than the anal opening itself ([dictionary](https://vi.wiktionary.org/wiki/dom)).",
+   "fix": "rectum"
+  },
+  {
+   "headword": "đi lại",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This sexual euphemism remains in ordinary contemporary use and should not be labelled rare ([dictionary](https://loigiaihay.com/tu-dien-tv/di-lai-eWrODfLtKfA5A.html)).",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "giáp",
+   "sense": 6,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Giáp meaning to touch or adjoin is ordinary current Vietnamese, as in hai nhà giáp nhau ([dictionary](https://vi.wiktionary.org/wiki/gi%C3%A1p)).",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

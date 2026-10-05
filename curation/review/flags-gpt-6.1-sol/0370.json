@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "rân",
+  "tiêu điều",
+  "đậu bắp",
+  "đỏng",
+  "chiền",
+  "hết thời",
+  "óng ánh",
+  "thụy",
+  "động năng",
+  "động sản",
+  "đặc mệnh",
+  "tâm niệm",
+  "cha sở",
+  "cân Anh",
+  "hoàn hồn",
+  "làm mưa làm gió",
+  "khạp",
+  "trà đen",
+  "eo éo",
+  "tà dương",
+  "cươi",
+  "quệt",
+  "lướt sóng",
+  "quay cóp",
+  "say rượu",
+  "bóng hồng",
+  "lộng",
+  "biên cảnh",
+  "ngọng nghịu",
+  "mếu máo",
+  "đập tan",
+  "cầu cống",
+  "câu đối",
+  "mắm tôm",
+  "nhạc khí",
+  "dị bản",
+  "phấn sáp",
+  "ào ạt",
+  "chạy chợ",
+  "ỷ y"
+ ],
+ "flags": [
+  {
+   "headword": "khạp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This jar name is used mainly in Southern Vietnamese ([regional vocabulary discussion](https://nguvan.hnue.edu.vn/Nghi%C3%AAn-c%E1%BB%A9u/Ng%C3%B4n-ng%E1%BB%AF/p/1813)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "lướt sóng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what surfing is instead of showing someone using the word in context.",
+   "fix": "Cuối tuần, tôi thường đi lướt sóng. = I often go surfing at weekends."
+  },
+  {
+   "headword": "lộng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Cả người means the whole body here, not all of us.",
+   "fix": "On the high hill, the strong wind cooled my whole body."
+  },
+  {
+   "headword": "cầu cống",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this drainage context, cầu refers to toilets, so the gloss incorrectly presents both components as drainage pipes ([usage example](https://thongcaucongdanang.vn/dung-cu-thong-tac-cau-cong/)).",
+   "fix": "toilets and drains"
+  },
+  {
+   "headword": "cầu cống",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cầu cống does not mean the plumbing trade; its established occupational use concerns bridges and culverts ([dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BA%A7u%20c%E1%BB%91ng)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "ỷ y",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern Vietnamese ([Southern vocabulary list](https://conganhuynh.com/TuNguMienNam.htm)).",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

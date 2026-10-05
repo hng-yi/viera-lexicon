@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "thức",
+  "dữ liệu",
+  "ông già",
+  "hầu hết",
+  "đám cưới",
+  "đàn bà",
+  "đéo",
+  "ủng hộ",
+  "răng",
+  "phải biết",
+  "sóng",
+  "dường như",
+  "cửa hàng",
+  "đua",
+  "tranh",
+  "bản đồ",
+  "vai",
+  "miếng",
+  "cởi",
+  "quyền lực",
+  "điếm",
+  "xóa",
+  "mặc dù",
+  "ôm",
+  "làm ăn",
+  "giá trị",
+  "vô tội",
+  "thèm",
+  "khủng khiếp",
+  "khó chịu",
+  "mưa",
+  "trống",
+  "cỡ",
+  "lượt",
+  "hợp tác",
+  "cung cấp",
+  "kinh khủng",
+  "mụ",
+  "dũng cảm",
+  "trứng"
+ ],
+ "flags": [
+  {
+   "headword": "đàn bà",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đàn bà does not itself mean that a woman is married and has children; those details come from có chồng có con in the example ([dictionary](https://vi.wiktionary.org/wiki/đàn_bà)).",
+   "fix": "Remove sense 2 and retain the example under sense 1."
+  },
+  {
+   "headword": "tranh",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tranh means roofing thatch or cogon grass, rather than straw generally ([dictionary](https://vi.wiktionary.org/wiki/tranh)).",
+   "fix": "thatch; cogon grass"
+  },
+  {
+   "headword": "mặc dù",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Mặc dù is a normal conjunction used in everyday speech, so formal misleadingly restricts its use.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "ôm",
+   "sense": 5,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Ôm meaning an armful remains ordinary usage for things such as firewood and is not dated ([dictionary](https://vi.wiktionary.org/wiki/ôm)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "khủng khiếp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use expressing extreme degree, as in nóng khủng khiếp, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-kh%E1%BB%A7ng%20khi%E1%BA%BFp)).",
+   "fix": "Add: adv | extremely; terribly; awfully (intensifier); example: Hôm nay trời nóng khủng khiếp. = It's terribly hot today."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "thạch tùng",
+  "thạp",
+  "thả cá nhỏ, bắt cá lớn",
+  "thả cửa",
+  "thả ga",
+  "thả thính",
+  "thả tim",
+  "thải trừ",
+  "thảm hoạ",
+  "thảng bình",
+  "thảng hoặc",
+  "thảng thốt",
+  "thảo cầm viên",
+  "thảo dã",
+  "thảo lư",
+  "thảo nào",
+  "thảo quả",
+  "thảo thư",
+  "thảy thảy",
+  "thấm thoát",
+  "thất bại là mẹ thành công",
+  "thất bảo",
+  "thất chí",
+  "thất cơ lỡ vận",
+  "thất giác",
+  "thất ngôn",
+  "thất ngôn tuyệt cú",
+  "thất ngôn tứ tuyệt",
+  "thất sắc",
+  "thất sở",
+  "thất thân",
+  "thất thểu",
+  "thất xuất",
+  "thất điên bát đảo",
+  "thất đức",
+  "thấu kính",
+  "thấu tình",
+  "thấy chưa",
+  "thấy mặt đặt tên",
+  "thấy mồ"
+ ],
+ "flags": [
+  {
+   "headword": "thải trừ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal term for elimination, especially in medical contexts, rather than an ordinary conversational verb.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "thảng bình",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The physical action is the literal meaning of the Chinese source expression, whereas Vietnamese thảng bình names the social trend ([reference](https://vi.wikipedia.org/wiki/Th%E1%BA%A3ng_b%C3%ACnh)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "thấm thoát",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thấm thoát expresses how quickly time has passed; the example's gần supplies the meaning 'nearly'.",
+   "fix": "Merge this example into sense 1 and remove the gloss 'already nearly'."
+  },
+  {
+   "headword": "thất chí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thất chí belongs mainly to literary or formal usage and is misleading without a register warning ([reference](https://vdict.com/th%E1%BA%A5t%20ch%C3%AD%2C3%2C0%2C0.html)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "thất giác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a heptagon instead of showing the word in use.",
+   "fix": "Em vẽ một hình thất giác vào vở. = I drew a heptagon in my notebook."
+  },
+  {
+   "headword": "thất điên bát đảo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The expression describes people being thrown into turmoil or distress, making its use for an untidy room misleading ([reference](https://huyenbi.net/Tu-dien-Thanh-ngu-Tuc-ngu-Viet-Nam/Giai-nghia-tu-That-dien-bat-dao-3568.html)).",
+   "fix": "Mất việc rồi lại mắc nợ, anh ấy thất điên bát đảo. = Losing his job and then falling into debt left him in turmoil."
+  }
+ ]
+}

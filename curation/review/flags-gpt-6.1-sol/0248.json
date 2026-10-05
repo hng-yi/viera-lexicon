@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "châm biếm",
+  "gập ghềnh",
+  "khứu giác",
+  "gian khó",
+  "chiêm tinh",
+  "đơn điệu",
+  "gang",
+  "có tuổi",
+  "bàn tính",
+  "electron",
+  "khua",
+  "bò tót",
+  "yếm",
+  "tai hại",
+  "réo",
+  "tanh",
+  "kết cuộc",
+  "tiễn biệt",
+  "béo bở",
+  "bỏ bê",
+  "phản vật chất",
+  "nước mặn",
+  "giành giật",
+  "tâm thức",
+  "diễn kịch",
+  "tử tước",
+  "ác tính",
+  "ngon ăn",
+  "già yếu",
+  "trọng dụng",
+  "rớ",
+  "hành trang",
+  "nựng",
+  "câu nệ",
+  "thanh xuân",
+  "quần quật",
+  "chân tình",
+  "hội hè",
+  "cao đẹp",
+  "chán ghét"
+ ],
+ "flags": [
+  {
+   "headword": "gian khó",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word has a formal or literary register that the untagged entry does not convey ([reference](https://dictionary.zim.vn/viet-anh/gian-kho-tieng-anh-la-gi)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "chiêm tinh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common noun meaning 'astrology' ([reference](https://vdict.com/chi%C3%AAm%20tinh%2C3%2C0%2C0.html)).",
+   "fix": "Add noun | astrology."
+  },
+  {
+   "headword": "bàn tính",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners today are much more likely to encounter the verb meaning 'to discuss and plan' than the noun meaning 'abacus'.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "réo",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday use for a telephone, bell or other source emitting repeated, prolonged sounds ([reference](https://vi.wiktionary.org/wiki/r%C3%A9o)).",
+   "fix": "Add verb | to ring or sound repeatedly in prolonged bursts; example: Điện thoại réo liên tục. = The phone keeps ringing."
+  },
+  {
+   "headword": "tâm thức",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to formal, philosophical or literary discussion rather than ordinary casual speech ([reference](https://loigiaihay.com/tu-dien-tv/tam-thuc-evpc5FLefuyNU.html)).",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

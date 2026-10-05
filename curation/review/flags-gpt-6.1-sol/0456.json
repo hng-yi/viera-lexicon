@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "dường nào",
+  "dưỡng chấp",
+  "dược khoa",
+  "dược lí học",
+  "dược động học",
+  "dạ cỏ",
+  "dạ oanh",
+  "dạ xoa",
+  "dại mặt",
+  "dạm ngõ",
+  "dạn",
+  "dạng vô định",
+  "dạo này",
+  "dạy đời",
+  "dải phân cách",
+  "dấm đài",
+  "dấn vốn",
+  "dấu Thánh Giá",
+  "dấu bằng",
+  "dấu chấm hỏi",
+  "dấu chấm nhễu",
+  "dấu chấm phẩy",
+  "dấu chấm than",
+  "dấu cá",
+  "dấu câu",
+  "dấu gạch ngang",
+  "dấu huyền",
+  "dấu lưỡi câu",
+  "dấu móc",
+  "dấu mũ",
+  "dấu mềm",
+  "dấu ngoặc kép",
+  "dấu ngoặc nhọn",
+  "dấu ngoặc vuông",
+  "dấu ngoặc đơn",
+  "dấu ngã",
+  "dấu nháy",
+  "dấu nhấn",
+  "dấu nặng",
+  "dấu sao"
+ ],
+ "flags": [
+  {
+   "headword": "dược lí học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines pharmacology instead of showing the term in use.",
+   "fix": "Học kỳ này tôi học môn dược lí học. = This semester I am taking pharmacology."
+  },
+  {
+   "headword": "dược động học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains pharmacokinetics instead of showing the term in use.",
+   "fix": "Tôi đang đọc một bài báo về dược động học của thuốc này. = I am reading an article about this drug's pharmacokinetics."
+  },
+  {
+   "headword": "dạ cỏ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the rumen instead of showing the term in use.",
+   "fix": "Bác sĩ thú y phát hiện dị vật trong dạ cỏ của con bò. = The veterinarian found a foreign object in the cow's rumen."
+  },
+  {
+   "headword": "dấu nháy",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday punctuation meaning used in dấu nháy đơn and dấu nháy kép, which are listed in [TCVN 6909](https://vietunicode.sourceforge.net/tcvn6909.pdf).",
+   "fix": "quotation mark; quote"
+  },
+  {
+   "headword": "dấu nháy",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner is much more likely to encounter the quotation-mark meaning than the historical Nôm mark.",
+   "fix": "Put 'quotation mark; quote' first and the historical Nôm meaning second."
+  }
+ ]
+}

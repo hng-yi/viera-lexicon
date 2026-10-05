@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "thánh lễ",
+  "hội thánh",
+  "điện từ",
+  "gian nguy",
+  "nốt ruồi",
+  "cương lĩnh",
+  "dứ",
+  "rọc",
+  "xảo",
+  "nhẹ dạ",
+  "thâm hiểm",
+  "ứng tuyển",
+  "chuyển dạ",
+  "triều cường",
+  "nở nang",
+  "phảng phất",
+  "tranh đua",
+  "hiền hậu",
+  "ngỗ nghịch",
+  "đoản mệnh",
+  "chác",
+  "rỉ sét",
+  "giàn giáo",
+  "cói",
+  "đậu hũ",
+  "cộc lốc",
+  "hồi kí",
+  "rầu",
+  "hóp",
+  "nộm",
+  "vo vo",
+  "bạc đãi",
+  "vãng lai",
+  "cẳng tay",
+  "nghêu",
+  "xúc giác",
+  "huyên náo",
+  "hợp thức",
+  "chu choa",
+  "vựa"
+ ],
+ "flags": [
+  {
+   "headword": "gian nguy",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to literary or elevated language, rather than ordinary casual speech.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "rầu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Standalone rầu meaning sad or worried is used mainly in Southern Vietnamese.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "hóp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday verb meaning to draw or suck in, especially one's stomach or cheeks.",
+   "fix": "Add: verb | to draw in; to suck in (one's stomach or cheeks); example: Anh ấy hóp bụng lại. = He sucked in his stomach."
+  },
+  {
+   "headword": "nghêu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Nghêu is primarily the Southern Vietnamese word for clam.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "hợp thức",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense belongs to formal administrative or legal language.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "vựa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Vựa in the storehouse or wholesale-depot sense is mainly Southern Vietnamese.",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

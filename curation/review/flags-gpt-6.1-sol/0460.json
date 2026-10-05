@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "florua",
+  "flycam",
+  "food-to-go",
+  "franxi",
+  "freeship",
+  "full HD không che",
+  "ga-lông",
+  "ga-lăng",
+  "ga-ra",
+  "ga-rô",
+  "ga-tô",
+  "gali",
+  "gan bàn tay",
+  "gan béo",
+  "gan ngỗng béo",
+  "gan nhiễm mỡ",
+  "gađolini",
+  "gemani",
+  "ghe lườn",
+  "ghen ăn tức ở",
+  "ghi tên",
+  "ghi xương khắc cốt",
+  "ghi-ta",
+  "ghi-ta phím lõm",
+  "ghi-đông",
+  "ghèn",
+  "ghém",
+  "ghét cay ghét đắng",
+  "ghín",
+  "ghẻ chốc",
+  "ghẻ ruồi",
+  "ghế tréo",
+  "ghế đẩu",
+  "ghếch",
+  "gi-lê",
+  "gia huấn",
+  "gia hộ",
+  "gia nhiệt",
+  "gia phổ",
+  "gia quyền"
+ ],
+ "flags": [
+  {
+   "headword": "freeship",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Từ hai trăm nghìn” includes orders of exactly 200,000 dong, whereas “over” excludes them.",
+   "fix": "The shop offers free delivery for orders of 200,000 dong or more."
+  },
+  {
+   "headword": "ghèn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Ghèn” is primarily Southern vocabulary and needs a regional label ([dictionary](https://loigiaihay.com/tu-dien-tv/ghen-evS0pL6W4dHul.html)).",
+   "fix": "tags: [Southern]"
+  },
+  {
+   "headword": "gia nhiệt",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Gia nhiệt” belongs to formal technical usage, so leaving it untagged misleadingly presents it as an everyday cooking verb ([technical usage](https://www.ipvietnam.gov.vn/documents/20182/1616475/37919.pdf/e69987d6-0cba-4918-a18f-7bf3a15e6b90)).",
+   "fix": "tags: [formal]"
+  }
+ ]
+}

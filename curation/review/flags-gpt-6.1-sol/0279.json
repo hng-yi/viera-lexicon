@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "sà",
+  "ấu trùng",
+  "bỉ ổi",
+  "tức tối",
+  "hớp hồn",
+  "phong thánh",
+  "hết ý",
+  "cá viên",
+  "tháp tùng",
+  "cật",
+  "hùng hổ",
+  "giã từ",
+  "tự truyện",
+  "điêu tàn",
+  "gom góp",
+  "hung tàn",
+  "túc trực",
+  "chu",
+  "khắc khoải",
+  "khàn",
+  "tội phạm học",
+  "đúng mức",
+  "béo phì",
+  "trâu bò",
+  "vĩ nhân",
+  "già cả",
+  "xương xẩu",
+  "ất ơ",
+  "tham ăn",
+  "hô hào",
+  "linh nghiệm",
+  "động vật học",
+  "mã nguồn",
+  "chẹt",
+  "nên thơ",
+  "cối xay gió",
+  "tít tắp",
+  "hòa hảo",
+  "mặc niệm",
+  "quân khu"
+ ],
+ "flags": [
+  {
+   "headword": "khàn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A khàn consists of three identical cards in tổ tôm or tài bàn, rather than any three cards of the same rank ([dictionary](https://vi.wiktionary.org/wiki/kh%C3%A0n)).",
+   "fix": "set of three identical cards in tổ tôm or tài bàn"
+  },
+  {
+   "headword": "ất ơ",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ất ơ dismisses them contemptuously rather than neutrally identifying a random person.",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "ất ơ",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense belittles someone's intelligence or behaviour and needs a derogatory warning.",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "chẹt",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chẹt does not have the noun meaning 'small corner; nook'; its established senses are verbal and adjectival ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%E1%BA%B9t)).",
+   "fix": "Remove sense 5."
+  },
+  {
+   "headword": "hòa hảo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss conflates the religious proper name Hòa Hảo with the dated adjective hòa hảo meaning 'on friendly terms' ([dictionary](https://loigiaihay.com/tu-dien-tv/hoa-hao-eWflCf9aiZhf0.html)).",
+   "fix": "Separate Hòa Hảo, noun: 'Hoa Hao (a Buddhist movement of the Mekong Delta)', from hòa hảo, adjective [dated]: 'on friendly terms; having amicable relations'."
+  }
+ ]
+}

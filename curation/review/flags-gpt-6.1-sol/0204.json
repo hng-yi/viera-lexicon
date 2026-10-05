@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "trâm",
+  "ngăn cấm",
+  "vênh",
+  "hỏa ngục",
+  "cơ phó",
+  "giải độc",
+  "hiên ngang",
+  "mách",
+  "siêu việt",
+  "bám víu",
+  "lâm sàng",
+  "công sự",
+  "đời đời",
+  "trang viên",
+  "giã",
+  "cật lực",
+  "uyển chuyển",
+  "ri",
+  "lênh đênh",
+  "X quang",
+  "chỉnh đốn",
+  "cùng cực",
+  "xị",
+  "bí hiểm",
+  "giảm tốc",
+  "tưng bừng",
+  "chóng",
+  "chat",
+  "vô hồn",
+  "dung nham",
+  "để tâm",
+  "tố giác",
+  "thăng",
+  "xử trí",
+  "xào",
+  "bọ cạp",
+  "cơ học",
+  "múi giờ",
+  "viện phí",
+  "đèn pha"
+ ],
+ "flags": [
+  {
+   "headword": "trâm",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Chát describes an astringent taste, whereas tart means sour.",
+   "fix": "Ripe jambul fruit tastes both astringent and sweet."
+  },
+  {
+   "headword": "ri",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss confuses ri with rí, which means very small ([dictionary](https://www.rung.vn/dict/vn_vn/Ri)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "xị",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The liquor measure xị is mainly Southern usage.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "xị",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The bottle sense of xị is mainly Southern usage.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "xị",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common sulky-face meaning used in mặt xị ra and xị mặt ([dictionary](https://vdict.com/x%E1%BB%8B%2C2%2C0%2C0.html?lang=vi)).",
+   "fix": "adj [colloquial] | sulky; downcast (of one's face); ex: Không được mua đồ chơi, bé xị mặt ra. = The child looked sulky after being refused a toy."
+  },
+  {
+   "headword": "chóng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Chóng meaning quick is ordinary current Vietnamese, not rare ([dictionary](https://www.rung.vn/dict/vn_vn/Ch%C3%B3ng)).",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

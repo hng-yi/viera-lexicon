@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "bộ tám",
+  "bộ vuông",
+  "bộ xương",
+  "bộ xử lí",
+  "bộ xử lí trung tâm",
+  "bộ đôi",
+  "bội chi",
+  "bội nghịch",
+  "bội phần",
+  "bội số chung nhỏ nhất",
+  "bộp",
+  "bộp chộp",
+  "bột bán",
+  "bột báng",
+  "bột chiên",
+  "bột giặt",
+  "bột khởi",
+  "bột ngọt",
+  "bột năng",
+  "bột phát",
+  "bột ớt",
+  "bới lông tìm vết",
+  "bớn",
+  "bớt miệng",
+  "bờ bến",
+  "bờ kè",
+  "bờ lốc",
+  "bờ mẫu",
+  "bời bời",
+  "bời lời",
+  "bời rời",
+  "bở hơi tai",
+  "bởi chưng",
+  "bởi lẽ",
+  "bợ đỡ",
+  "bợm bãi",
+  "bợm nhậu",
+  "bợp",
+  "bụ",
+  "bục mặt"
+ ],
+ "flags": [
+  {
+   "headword": "bộ xử lí trung tâm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a CPU is instead of showing the word in use.",
+   "fix": "Máy tính này có bộ xử lí trung tâm rất mạnh. = This computer has a very powerful CPU."
+  },
+  {
+   "headword": "bội phần",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bội phần expresses a manyfold increase, not an independent meaning of numerous or abundant, as reflected in the [Vietnamese definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BB%99i%20ph%E1%BA%A7n).",
+   "fix": "Remove sense 2 and its example; sense 1 already covers the meaning."
+  }
+ ]
+}

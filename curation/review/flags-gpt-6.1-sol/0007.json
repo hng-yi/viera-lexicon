@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "phòng",
+  "có lẽ",
+  "đủ",
+  "chờ",
+  "lời",
+  "nhận",
+  "cám ơn",
+  "dùng",
+  "vừa",
+  "làm việc",
+  "bắt đầu",
+  "mang",
+  "chạy",
+  "thêm",
+  "ôi",
+  "số",
+  "chiếc",
+  "đứa",
+  "bảo",
+  "nước",
+  "chơi",
+  "trai",
+  "tự",
+  "ngủ",
+  "đồ",
+  "lớn",
+  "gần",
+  "cuộc",
+  "cố",
+  "vấn đề",
+  "tiếng",
+  "đứng",
+  "cứu",
+  "ạ",
+  "vui",
+  "nay",
+  "thế giới",
+  "cảnh sát",
+  "ngồi",
+  "sợ"
+ ],
+ "flags": [
+  {
+   "headword": "lời",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The profit sense is mainly Southern but lacks a Southern tag.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "nhận",
+   "sense": 5,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The sense meaning to push or submerge something is chiefly Southern usage but lacks a region tag.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "số",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Số does not have an established standalone adjective meaning tough-looking or thuggish.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "nay",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nay meaning now occurs in everyday expressions such as từ nay and đến nay, so the literary tag wrongly restricts its use.",
+   "fix": "Remove the literary tag."
+  }
+ ]
+}

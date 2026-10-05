@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đề co",
+  "đề cương",
+  "đề cử viên",
+  "đề ra",
+  "đề đạt",
+  "đề-pa",
+  "đền thờ",
+  "đền ơn đáp nghĩa",
+  "để bụng",
+  "để cho",
+  "để lộ",
+  "để mặc",
+  "để nguyên",
+  "đệ ngũ",
+  "đệ nhị cấp",
+  "đệ tứ",
+  "đỉa hẹ",
+  "đỉa trâu",
+  "địa bạ",
+  "địa chánh",
+  "địa chí",
+  "địa chính trị",
+  "địa chấn học",
+  "địa chất học",
+  "địa chỉ đỏ",
+  "địa cấp thị",
+  "địa danh học",
+  "địa dư",
+  "địa hoá học",
+  "địa hình học",
+  "địa hóa học",
+  "địa liền",
+  "địa lí học",
+  "địa lôi",
+  "địa mạo",
+  "địa mạo học",
+  "địa phương chí",
+  "địa quyển",
+  "địa tâm",
+  "địa tầng"
+ ],
+ "flags": [
+  {
+   "headword": "đề cử viên",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Đề cử viên” is not an established Vietnamese word for a nominee.",
+   "fix": "Replace the headword with “người được đề cử”, retaining the gloss “nominee (for an office or award)”."
+  },
+  {
+   "headword": "địa danh học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the field instead of showing the word in contextual use.",
+   "fix": "Cô ấy đang viết luận văn về địa danh học. = She is writing a thesis on toponymy."
+  },
+  {
+   "headword": "địa quyển",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example restates the definition instead of showing the word in contextual use.",
+   "fix": "Bài giảng hôm nay nói về sự tương tác giữa địa quyển và khí quyển. = Today's lecture discusses the interaction between the geosphere and the atmosphere."
+  }
+ ]
+}

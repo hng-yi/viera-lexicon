@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "suông",
+  "thân nhân",
+  "thủy ngân",
+  "năng động",
+  "cơ động",
+  "mật danh",
+  "dấu tích",
+  "dao cạo",
+  "biên tập viên",
+  "áo quần",
+  "cổ hủ",
+  "rối bời",
+  "héo",
+  "viết lách",
+  "eo biển",
+  "hạnh nhân",
+  "trọng",
+  "lu mờ",
+  "nguyên hình",
+  "màu mỡ",
+  "thoát thân",
+  "oa",
+  "độ ẩm",
+  "nhật báo",
+  "mượt",
+  "đứng tên",
+  "mạng nhện",
+  "chế biến",
+  "mềm lòng",
+  "bệnh tình",
+  "ở riêng",
+  "nông nổi",
+  "điệp khúc",
+  "đào tẩu",
+  "côn",
+  "cứa",
+  "lãnh sự quán",
+  "hầy",
+  "lơ là",
+  "dô"
+ ],
+ "flags": [
+  {
+   "headword": "suông",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "This sense describes moonlight, so applying it to lamplight teaches an incorrect use ([dictionary](https://www.rung.vn/dict/vn_vn/Su%C3%B4ng)).",
+   "fix": "Đêm nay trăng suông, cảnh vật trông lạnh lẽo. = Tonight the moonlight is pale and hazy, making the surroundings look cold and bleak."
+  },
+  {
+   "headword": "thân nhân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thân nhân is a formal term for relatives, especially in institutional contexts, rather than an ordinary casual family word.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "lu mờ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of being overshadowed or becoming less prominent.",
+   "fix": "to be overshadowed; to become less prominent"
+  },
+  {
+   "headword": "chế biến",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The supposed archaic meaning confuses chế biến with chế or ứng biến; chế biến means processing or transforming something ([dictionary](https://www.rung.vn/dict/vn_vn/Ch%E1%BA%BF_bi%E1%BA%BFn)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "nhật báo",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nhật báo belongs to formal publishing and journalistic usage and is misleading as an unmarked casual word.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

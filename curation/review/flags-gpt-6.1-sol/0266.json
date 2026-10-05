@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tinh khôn",
+  "nghĩa khí",
+  "cần cù",
+  "sành sỏi",
+  "pê",
+  "chất chứa",
+  "la liếm",
+  "chất tẩy",
+  "hội họp",
+  "y sĩ",
+  "Đảng viên",
+  "đảng viên",
+  "địa giới",
+  "sở dĩ",
+  "thất thiệt",
+  "tiền đề",
+  "văn phong",
+  "đạo Chúa",
+  "hộ sinh",
+  "hôn phối",
+  "sơ thẩm",
+  "muôn vàn",
+  "đại học sĩ",
+  "thờ cúng",
+  "ram",
+  "than ôi",
+  "gia trưởng",
+  "lành tính",
+  "nghía",
+  "chứa chấp",
+  "hàm hồ",
+  "buồn khổ",
+  "luyến",
+  "chỉn chu",
+  "khởi sắc",
+  "thường trú",
+  "bụi đời",
+  "phế tích",
+  "công minh",
+  "thon"
+ ],
+ "flags": [
+  {
+   "headword": "sở dĩ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Sở dĩ” introduces the outcome whose reason will be explained, whereas “that is why” introduces a consequence.",
+   "fix": "the reason why ... (usually in the construction sở dĩ ... là vì/nhờ ...)"
+  },
+  {
+   "headword": "lành tính",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Learners commonly encounter “lành tính” describing a gentle temperament or products that are mild and unlikely to cause irritation.",
+   "fix": "Add meanings: gentle; good-natured (of a person or animal); mild; non-irritating (of a product or substance)."
+  },
+  {
+   "headword": "bụi đời",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone “bụi đời” can disparage them as a vagabond or disreputable street person.",
+   "fix": "Add the tag derogatory."
+  }
+ ]
+}

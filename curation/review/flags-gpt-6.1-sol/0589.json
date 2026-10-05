@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "trèo cây",
+  "tré",
+  "trê-mô-lô",
+  "trên bảo, dưới không nghe",
+  "trên không",
+  "trên mạng",
+  "trêu ghẹo",
+  "trì tục",
+  "trì độn",
+  "trình bệnh",
+  "trình cắm",
+  "trình dược viên",
+  "trình đơn",
+  "trí cùng lực kiệt",
+  "trí dục",
+  "trí giả",
+  "trí lự",
+  "trí mạng",
+  "trí sĩ",
+  "trí thuật",
+  "trí tri cách vật",
+  "trí trá",
+  "trí tuệ nhân tạo",
+  "trí tuệ xúc cảm",
+  "trí tưởng tượng",
+  "trí tử",
+  "trí xảo",
+  "trích diễm",
+  "trích lập",
+  "trò chơi nhịp điệu",
+  "trò chơi điện tử",
+  "trò nhời",
+  "tròn quay",
+  "tròng trành",
+  "tróc nã",
+  "trót dại",
+  "trôi qua",
+  "trôn ốc",
+  "trông lên thì chẳng bằng ai, trông xuống thì cũng chẳng ai bằng mình",
+  "trông ra"
+ ],
+ "flags": [
+  {
+   "headword": "trèo cây",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday meaning ‘to climb a tree’.",
+   "fix": "Add: verb | to climb a tree; ex: Hồi nhỏ, tôi thích trèo cây. = As a child, I liked climbing trees."
+  },
+  {
+   "headword": "trèo cây",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner will encounter tree climbing much more often than the bird name.",
+   "fix": "Put ‘to climb a tree’ first and the nuthatch sense second."
+  },
+  {
+   "headword": "trì độn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone trì độn disparages their intelligence and requires a derogatory warning.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "trì độn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means slow and dull-witted, not careful or thoughtful before speaking, as confirmed by [the dictionary definition](https://vi.wiktionary.org/wiki/tr%C3%AC_%C4%91%E1%BB%99n).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "trí lự",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Ánh mắt ông trí lự unnaturally uses a noun for thoughts or deliberation as an adjective, contrary to [the dictionary definition](https://home.vndic.net/tr%C3%AD%20l%E1%BB%B1-vi_vi.html).",
+   "fix": "Remove the adjective sense and its example."
+  },
+  {
+   "headword": "trông lên thì chẳng bằng ai, trông xuống thì cũng chẳng ai bằng mình",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The proverb encourages perspective and contentment by comparing one's circumstances with those better and worse off, as illustrated in [this educational text](https://c12binhchuong-binhchuong.quangngai.edu.vn/wp-content/uploads/2024/10/8.-Sach-Hieu-truong-nguoi-gieo-mam-hanh-phuc.pdf).",
+   "fix": "Others are better off than you, but others are worse off too; be content with what you have."
+  }
+ ]
+}

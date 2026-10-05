@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thiên lộc",
+  "thiên mưu bách kế",
+  "thiên nhan",
+  "thiên nữ",
+  "thiên phương bách kế",
+  "thiên quốc",
+  "thiên thượng",
+  "thiên thượng thiên hạ, bác ái công bình",
+  "thiên thần hộ mệnh",
+  "thiên thời, địa lợi, nhân hoà",
+  "thiên tiên",
+  "thiên tuế",
+  "thiên tào",
+  "thiên tư",
+  "thiên tạo",
+  "thiên tải nhất thì",
+  "thiên ái",
+  "thiên điểu",
+  "thiên đô",
+  "thiên để",
+  "thiên đỉnh",
+  "thiên định",
+  "thiết giáp hạm",
+  "thiết kế đồ hoạ",
+  "thiết kế đồ họa",
+  "thiết quân luật",
+  "thiết trí",
+  "thiết tưởng",
+  "thiếu máu",
+  "thiếu nam",
+  "thiếu phụ",
+  "thiếu trước hụt sau",
+  "thiếu uý",
+  "thiền na",
+  "thiều",
+  "thiều quang",
+  "thiện nguyện viên",
+  "thon von",
+  "thong dong",
+  "thong manh"
+ ],
+ "flags": [
+  {
+   "headword": "thiên tạo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thiên tạo means naturally formed, not the noun ‘nature’, as recorded in [the dictionary](https://vi.wiktionary.org/wiki/thi%C3%AAn_t%E1%BA%A1o).",
+   "fix": "Delete sense 1 and retain sense 2."
+  },
+  {
+   "headword": "thon von",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss ‘solitary’ loses the sense of being forlorn and in difficulty or danger recorded in [the dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-thon%20von).",
+   "fix": "forlorn; in a difficult or precarious situation"
+  },
+  {
+   "headword": "thon von",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Thon von describes a forlorn or precarious condition, not a building standing alone, as shown by [the dictionary example](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-thon%20von).",
+   "fix": "Bơ vơ đất khách thon von nỗi này. = Alone in a foreign land, in this forlorn predicament."
+  }
+ ]
+}

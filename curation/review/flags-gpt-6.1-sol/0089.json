@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "tận cùng",
+  "chôn cất",
+  "đấu sĩ",
+  "cáo",
+  "bán kính",
+  "phát xít",
+  "tăng tốc",
+  "hoành tráng",
+  "trị giá",
+  "thú vật",
+  "vặn",
+  "Hàn",
+  "hàn",
+  "đạo quân",
+  "cổ vũ",
+  "ngắn gọn",
+  "địa vị",
+  "tổn thất",
+  "phân tâm",
+  "thực thi",
+  "chấn động",
+  "phạm pháp",
+  "dịch bệnh",
+  "vuốt",
+  "chanh",
+  "trọng lực",
+  "mã hóa",
+  "dưa",
+  "nghiêng",
+  "nước tiểu",
+  "ô nhục",
+  "bú",
+  "thực tập",
+  "nặng nề",
+  "tầm thường",
+  "biến thái",
+  "cờ bạc",
+  "đểu",
+  "lộn",
+  "nghi thức"
+ ],
+ "flags": [
+  {
+   "headword": "thực thi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal word for implementing or enforcing plans, policies or laws.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "nghiêng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nghiêng means slanted or leaning, rather than naming a particular Chinese-character stroke ([dictionary](https://vi.wiktionary.org/wiki/nghi%C3%AAng)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "nước tiểu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nước tiểu is the neutral standard term for urine and is also used in ordinary conversation.",
+   "fix": "Remove the tag formal."
+  },
+  {
+   "headword": "ô nhục",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ô nhục means shameful or disgraceful; the causative meaning in the example comes from làm ô nhục ([dictionary](https://vi.wiktionary.org/wiki/%C3%B4_nh%E1%BB%A5c)).",
+   "fix": "adj | shameful; disgraceful"
+  },
+  {
+   "headword": "ô nhục",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The meaning 'to tarnish' belongs to làm ô nhục, rather than ô nhục alone ([dictionary](https://vi.wiktionary.org/wiki/%C3%B4_nh%E1%BB%A5c)).",
+   "fix": "Merge this into the corrected sense 1: adj | shameful; disgraceful."
+  },
+  {
+   "headword": "biến thái",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone biến thái in this sense is a derogatory accusation of being a sexual pervert.",
+   "fix": "Use tags informal, derogatory."
+  }
+ ]
+}

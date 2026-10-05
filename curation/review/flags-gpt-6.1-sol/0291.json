@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "huênh hoang",
+  "đặc sệt",
+  "ương",
+  "huống chi",
+  "buột",
+  "đất cát",
+  "chưng cất",
+  "than trách",
+  "thước Anh",
+  "ăn nên làm ra",
+  "nhặt nhạnh",
+  "sắc mặt",
+  "hoài phí",
+  "gần như",
+  "thắng cảnh",
+  "thứ bậc",
+  "bỗng chốc",
+  "minh quân",
+  "du học sinh",
+  "rầm rầm",
+  "nguy ngập",
+  "ve chai",
+  "trã",
+  "chiết khấu",
+  "Tạng",
+  "tạng",
+  "gạ",
+  "vững chãi",
+  "rành rọt",
+  "quân lệnh",
+  "gõ kiến",
+  "bánh xèo",
+  "vơ vét",
+  "đa tài",
+  "samari",
+  "địch nhân",
+  "điện hóa",
+  "cáo biệt",
+  "cấn",
+  "chiều tà"
+ ],
+ "flags": [
+  {
+   "headword": "ương",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common fruit sense ‘partly ripe’ is missing, as in ổi ương ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C6%B0%C6%A1ng)).",
+   "fix": "adj | partly ripe; not fully ripe (of fruit)"
+  },
+  {
+   "headword": "rầm rầm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Rầm rầm describes loud noise or commotion, not relentless or persistent action ([dictionary](https://vi.wiktionary.org/wiki/r%E1%BA%A7m_r%E1%BA%A7m)).",
+   "fix": "Remove sense 2; its noise-related meaning is already covered by sense 1."
+  }
+ ]
+}

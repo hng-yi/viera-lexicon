@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "đồn trú",
+  "linh cẩu",
+  "cằn cỗi",
+  "nghiệp",
+  "hồi âm",
+  "đậu nành",
+  "chiếm hữu",
+  "ú",
+  "phì",
+  "nha khoa",
+  "trang hoàng",
+  "tiến cử",
+  "to tướng",
+  "đồng bạc",
+  "xà lách",
+  "gay gắt",
+  "giao tranh",
+  "áp phích",
+  "huyền",
+  "giờ giấc",
+  "tài tình",
+  "sỏi",
+  "miễn nhiễm",
+  "huýt",
+  "cảm nghĩ",
+  "thất thế",
+  "thảo nguyên",
+  "yêu sách",
+  "vòi nước",
+  "khiêm nhường",
+  "dầm",
+  "liên hoan",
+  "suy tàn",
+  "ra dáng",
+  "hành lí",
+  "nháp",
+  "thúc",
+  "thổ lộ",
+  "liều lượng",
+  "minh oan"
+ ],
+ "flags": [
+  {
+   "headword": "cảm nghĩ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cảm nghĩ denotes thoughts or feelings, not the act of pondering, so this verb sense teaches an invalid usage ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-cảm%20nghĩ)).",
+   "fix": "Remove sense 2 and its example."
+  },
+  {
+   "headword": "thúc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of urging someone to act faster is missing and is not restricted to requesting payment ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-thúc)).",
+   "fix": "Add: verb | to urge; to hurry someone along. Example: Mẹ cứ thúc tôi đi nhanh lên. = Mom kept urging me to hurry up."
+  }
+ ]
+}

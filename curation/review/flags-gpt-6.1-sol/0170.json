@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "chòi",
+  "tự vẫn",
+  "code",
+  "hoang vắng",
+  "cao lớn",
+  "bất hòa",
+  "cương vị",
+  "mõm",
+  "tiêu tan",
+  "toát",
+  "nanh",
+  "tót",
+  "vệ binh",
+  "ngày sinh",
+  "nhạy bén",
+  "bất lương",
+  "nâng đỡ",
+  "bế tắc",
+  "danh vọng",
+  "gây hấn",
+  "thể nào",
+  "kiệt",
+  "giảng viên",
+  "khước từ",
+  "thùy",
+  "trang trọng",
+  "khoai",
+  "vô đối",
+  "dương tính",
+  "cảm tử",
+  "tiến quân",
+  "dấy",
+  "sôi nổi",
+  "khoái lạc",
+  "nhộng",
+  "thọ",
+  "chỗ đứng",
+  "thanh quản",
+  "mơ màng",
+  "ngắn hạn"
+ ],
+ "flags": [
+  {
+   "headword": "cương vị",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Cương vị” belongs to formal speech and writing, as described in this [dictionary entry](https://tudientiengviet.org/cuong-vi/).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tót",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Tót” describes quick movement, not eating a plate of food quickly, consistent with its [dictionary definition](https://vdict.com/t%C3%B3t,3,0,0.html).",
+   "fix": "Nó chạy tót về nhà. = He dashed home."
+  },
+  {
+   "headword": "tót",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The quick-movement use in expressions such as “chạy tót” is current everyday Vietnamese.",
+   "fix": "Remove the tag rare."
+  },
+  {
+   "headword": "tót",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Tót” does not mean stubble; its [recorded meanings](https://vdict.com/t%C3%B3t,3,0,0.html) concern position and quick movement.",
+   "fix": "Delete this sense and its example."
+  },
+  {
+   "headword": "kiệt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning exhausted or completely depleted, used beyond compounds, is missing from the entry, although it is recorded in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ki%E1%BB%87t).",
+   "fix": "Add: adj | exhausted; completely depleted; with nothing left. Example: Vắt kiệt nước trong khăn. = Wring all the water out of the towel."
+  },
+  {
+   "headword": "khoái lạc",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The pleasure sense remains current in contemporary writing rather than being dated, as illustrated by this [2023 publication](https://tapchinghiencuuphathoc.vn/public/uploads/2023/08/Tap-chi-PHAT-HOC-so-4-2023-OUT-IN.compressed.pdf).",
+   "fix": "Replace dated with literary."
+  },
+  {
+   "headword": "khoái lạc",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Khoái lạc” names pleasure rather than meaning hedonistic, as reflected in its [noun definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-kho%C3%A1i%20l%E1%BA%A1c).",
+   "fix": "Delete this sense and its example."
+  }
+ ]
+}

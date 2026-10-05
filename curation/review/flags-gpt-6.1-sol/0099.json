@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "lang",
+  "hết mình",
+  "giác quan",
+  "rể",
+  "ngô",
+  "Co",
+  "co",
+  "nhi",
+  "đời sống",
+  "khía cạnh",
+  "đình chỉ",
+  "mỉa mai",
+  "thể chất",
+  "đảo ngược",
+  "danh hiệu",
+  "hành xử",
+  "tuột",
+  "diệt vong",
+  "dơ",
+  "gia súc",
+  "lưu ý",
+  "trọng lượng",
+  "học trò",
+  "rễ",
+  "thây",
+  "mới mẻ",
+  "len",
+  "nai",
+  "liên tiếp",
+  "chợt",
+  "thủ đô",
+  "sô",
+  "đón nhận",
+  "tiểu",
+  "tụ tập",
+  "gấu trúc",
+  "rò rỉ",
+  "xử tử",
+  "phản chiếu",
+  "số liệu"
+ ],
+ "flags": [
+  {
+   "headword": "lang",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Lang” describes a coat with white patches, whereas “roan” describes intermingled white and coloured hairs ([dictionary](https://tudientv.com/?t=lang)).",
+   "fix": "piebald; having white patches (of an animal's coat)"
+  },
+  {
+   "headword": "nhi",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Nhiên nhi” is a Classical Chinese expression and is not a natural conjunction in the otherwise modern Vietnamese example.",
+   "fix": "Ông vẫn giữ tinh thần “bần nhi lạc”. = He maintained the spirit of being poor yet happy."
+  },
+  {
+   "headword": "len",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Len” is not an established Southern Vietnamese word for a traffic lane ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-len)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "sô",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This meaning is used across Vietnam, including in Northern reporting, so the Southern tag is misleading ([example](https://vietnamnet.vn/sao-chay-so-lam-tu-thien-hay-danh-bong-ten-tuoi-99632.html)).",
+   "fix": "[colloquial]"
+  }
+ ]
+}

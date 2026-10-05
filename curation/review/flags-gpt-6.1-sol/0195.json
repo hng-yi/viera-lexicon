@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "cổ động",
+  "lanh lợi",
+  "máy tính xách tay",
+  "phủi",
+  "thư tín",
+  "chuẩn xác",
+  "toan tính",
+  "giàu sang",
+  "hôn hít",
+  "bố thí",
+  "trọng tâm",
+  "quyền công dân",
+  "gàn",
+  "biểu cảm",
+  "bóc lột",
+  "tàng trữ",
+  "si",
+  "tương phản",
+  "hạn hán",
+  "bộc phát",
+  "thương vụ",
+  "lòe",
+  "châm ngôn",
+  "dã",
+  "bênh vực",
+  "chu vi",
+  "áo phao",
+  "nhập cảnh",
+  "sim",
+  "thương cảm",
+  "nan",
+  "xóc",
+  "châu chấu",
+  "lỏm",
+  "húng",
+  "vùng vẫy",
+  "nồng",
+  "dĩ vãng",
+  "uầy",
+  "rụt rè"
+ ],
+ "flags": [
+  {
+   "headword": "thư tín",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thư tín is formal correspondence vocabulary, so leaving it untagged suggests ordinary conversational usage ([reference](https://tudientiengviet.org/thu-tin-2/)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "quyền công dân",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Quyền công dân means the rights of a citizen, whereas citizenship can mean the status of being a citizen.",
+   "fix": "citizens' rights; civil rights"
+  },
+  {
+   "headword": "bóc lột",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This invents a plundering sense for a word meaning exploitation, including taking excessive profits or unfair advantage ([dictionary](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1124/UserFiles/Tu-Dien-Tieng-Viet-Hoang-Long-thuviensach.vn-b6c5cba7-6d08-4fa4-aae4-6b53ec52276c.pdf)).",
+   "fix": "Remove sense 2 and its example."
+  }
+ ]
+}

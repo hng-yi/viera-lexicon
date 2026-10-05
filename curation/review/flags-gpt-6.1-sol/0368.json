@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "bố trận",
+  "khí cầu",
+  "béo nục",
+  "xanh rờn",
+  "dương thế",
+  "cảm phục",
+  "trung cấp",
+  "đệ nhất phu nhân",
+  "chính tâm",
+  "xoành xoạch",
+  "kệch cỡm",
+  "tách bạch",
+  "đại bi",
+  "bướu cổ",
+  "rong biển",
+  "đê điều",
+  "nội tại",
+  "thâm ý",
+  "kễnh",
+  "nhũng nhiễu",
+  "tự đắc",
+  "viêm xoang",
+  "thành phẩm",
+  "di ảnh",
+  "chành",
+  "gian phu",
+  "liêm khiết",
+  "giang sơn",
+  "đẻ đái",
+  "Lưỡng Hà",
+  "ngó ngàng",
+  "cung nghinh",
+  "trẻ trâu",
+  "xác thịt",
+  "hà tiện",
+  "ngẫm nghĩ",
+  "Chúa ơi",
+  "phiến diện",
+  "thanh liêm",
+  "lầm lũi"
+ ],
+ "flags": [
+  {
+   "headword": "bướu cổ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The bird-related sense refers to the crop, a food-storage pouch, rather than the gizzard.",
+   "fix": "crop (a bird's food-storage pouch)"
+  },
+  {
+   "headword": "bướu cổ",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The English example leaves the target word untranslated.",
+   "fix": "The chicken's crop is stuffed full of grain."
+  },
+  {
+   "headword": "nội tại",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This adjective belongs to formal or academic language and needs a register warning.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "đẻ đái",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This crude expression for childbearing needs a vulgarity warning beyond the colloquial tag.",
+   "fix": "[colloquial, vulgar]"
+  },
+  {
+   "headword": "cung nghinh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cung nghinh means to receive or escort someone or something reverently, not simply to participate in a procession.",
+   "fix": "to ceremonially escort (a deity or sacred image)"
+  },
+  {
+   "headword": "cung nghinh",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Walking behind a palanquin does not by itself constitute cung nghinh, which requires an object being reverently received or escorted.",
+   "fix": "Dân làng cung nghinh tượng thần về đình. = The villagers ceremonially escorted the deity's statue to the communal house."
+  }
+ ]
+}

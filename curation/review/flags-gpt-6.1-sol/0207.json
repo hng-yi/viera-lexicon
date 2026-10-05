@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "lừng danh",
+  "mọng",
+  "bóng dáng",
+  "phụ khoa",
+  "nhừ",
+  "ngứa ngáy",
+  "rằm",
+  "bền vững",
+  "bào chế",
+  "nhà đất",
+  "tỏ tình",
+  "gắng sức",
+  "nhãn cầu",
+  "kí túc xá",
+  "lũ lụt",
+  "lập trình viên",
+  "thánh ca",
+  "chào hàng",
+  "viếng",
+  "bào thai",
+  "vô biên",
+  "mồng",
+  "chất lỏng",
+  "miệt mài",
+  "loáng",
+  "gắt gỏng",
+  "bóc lịch",
+  "nhấp",
+  "phật ý",
+  "thiếu nhi",
+  "kiểm kê",
+  "đa cảm",
+  "cuồng nộ",
+  "cắn rứt",
+  "động lòng",
+  "nhạc công",
+  "hợm",
+  "bò cạp",
+  "bơi lội",
+  "vơ"
+ ],
+ "flags": [
+  {
+   "headword": "nhừ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning 'aching; sore', as in 'đau nhừ cả người', is missing ([dictionary](https://vi.wiktionary.org/wiki/nh%E1%BB%AB)).",
+   "fix": "Add: adj | aching; sore. Example: Đi bộ cả ngày, chân tôi đau nhừ. = After walking all day, my legs were very sore."
+  },
+  {
+   "headword": "viếng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Visiting temples with 'viếng' remains common today, so the example does not support a dated label ([current usage](https://vov.gov.vn/dong-dao-nguoi-dan-den-vieng-chua-tham-gia-hoat-dong-xa-hoi-dip-ram-thang-bay-dtnew-1111608?keyDevice=true)).",
+   "fix": "Separate the current sense 'to visit a temple or sacred site' without the dated tag from the dated general sense 'to visit a person or place'."
+  }
+ ]
+}

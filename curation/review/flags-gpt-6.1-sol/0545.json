@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "phó từ",
+  "phó đô đốc",
+  "phó đề đốc",
+  "phóng hoả",
+  "phóng lợn",
+  "phóng tác",
+  "phô bay",
+  "phô trương thanh thế",
+  "phô-tô",
+  "phô-tô-cô-pi",
+  "phô-tơi",
+  "phôi thai học",
+  "phù ... diệt ...",
+  "phù sa",
+  "phù thuỷ",
+  "phù trì",
+  "phù vân",
+  "phù đồ",
+  "phùn",
+  "phú cường",
+  "phú hộ",
+  "phú nông",
+  "phúc bất trùng lai, họa vô đơn chí",
+  "phúc bồn tử",
+  "phúc hạch",
+  "phúc khảo",
+  "phúc mạc",
+  "phúc tra",
+  "phúng phính",
+  "phăm phăm",
+  "phăng phăng",
+  "phăng teo",
+  "phăng-tê-di",
+  "phơi nắng",
+  "phơn",
+  "phương chi",
+  "phương ngôn",
+  "phương ngữ học",
+  "phương phi",
+  "phương pháp luận"
+ ],
+ "flags": [
+  {
+   "headword": "phùn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Phùn” describes fine rain in “mưa phùn” and does not independently mean “to drizzle,” as reflected in [the dictionary definition](https://lehboi.github.io/download/VNTD-KTTD/TDKTTD_P.pdf).",
+   "fix": "Remove sense 2; “to drizzle” is “mưa phùn”."
+  },
+  {
+   "headword": "phúc khảo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Phúc khảo” means to re-mark an exam paper, while requesting that service is “xin phúc khảo,” as distinguished in [the dictionary definition](https://v2.rung.vn/dict/vn_vn/Ph%C3%BAc_kh%E1%BA%A3o).",
+   "fix": "to re-mark an exam paper following an appeal"
+  }
+ ]
+}

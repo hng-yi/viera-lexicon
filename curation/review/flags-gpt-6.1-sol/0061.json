@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "sáng tạo",
+  "chiên",
+  "khán giả",
+  "bắt tay",
+  "bây",
+  "lén",
+  "trạng thái",
+  "dự luật",
+  "bối rối",
+  "để mắt",
+  "nóng bỏng",
+  "tấn",
+  "hèn nhát",
+  "thừa kế",
+  "vải",
+  "chốn",
+  "mập",
+  "tràn",
+  "vây",
+  "chiêu",
+  "mật",
+  "lật",
+  "hội nghị",
+  "tuy",
+  "sướng",
+  "bầu cử",
+  "tiếp xúc",
+  "mũi tên",
+  "du hành",
+  "chén",
+  "hồn",
+  "tình nguyện",
+  "thi đấu",
+  "con nít",
+  "hưởng",
+  "lan",
+  "u",
+  "phiêu lưu",
+  "nấu ăn",
+  "hư hỏng"
+ ],
+ "flags": [
+  {
+   "headword": "chiên",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The religious use illustrated here remains current and is not archaic, as in contemporary [Christian usage](https://wol.jw.org/vi/wol/d/r47/lp-vt/1101978112).",
+   "fix": "Remove the archaic tag."
+  },
+  {
+   "headword": "bắt tay",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Hai người means two people and does not specify that they are men.",
+   "fix": "The two people shook hands and said goodbye."
+  },
+  {
+   "headword": "bây",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This pronoun is regional Central and Southern usage, as shown in the [Vietnamese pronoun comparison](https://en.wikipedia.org/wiki/Vietnamese_language).",
+   "fix": "Add Central and Southern tags; retain informal."
+  },
+  {
+   "headword": "bây",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese describes this crab's current size, not how large it grows.",
+   "fix": "This crab is only this big."
+  },
+  {
+   "headword": "chiêu",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The old meaning applies to a left hand or foot, rather than a window's location, according to the [dictionary definition](https://www.rung.vn/dict/vn_vn/Chi%C3%AAu).",
+   "fix": "Chân đăm đá chân chiêu. = The right foot knocks against the left foot."
+  },
+  {
+   "headword": "bầu cử",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun use meaning an election, as in cuộc bầu cử, is missing.",
+   "fix": "noun | election; ex: Cuộc bầu cử sẽ diễn ra vào tháng sau. = The election will take place next month."
+  }
+ ]
+}

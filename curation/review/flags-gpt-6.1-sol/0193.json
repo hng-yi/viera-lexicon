@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "trấn tĩnh",
+  "nhôm",
+  "loại hình",
+  "rọ",
+  "lệ thuộc",
+  "sinh động",
+  "biên chế",
+  "thềm",
+  "bởi thế",
+  "con vật",
+  "gốc rễ",
+  "bất thành",
+  "phấn chấn",
+  "ai ai",
+  "tàn phế",
+  "sán",
+  "trang thiết bị",
+  "lãnh sự",
+  "nhân gian",
+  "ngủ gật",
+  "thiên",
+  "mệnh",
+  "nhại",
+  "trúc",
+  "thất",
+  "kiệu",
+  "tiếp đãi",
+  "thiết yếu",
+  "vua chúa",
+  "đâu vào đấy",
+  "trổ",
+  "bố mày",
+  "lui tới",
+  "mét vuông",
+  "lăn tăn",
+  "chửa",
+  "pha trộn",
+  "giữa chừng",
+  "ganh tị",
+  "ôn hòa"
+ ],
+ "flags": [
+  {
+   "headword": "chửa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "In colloquial Northern Vietnamese, chửa also commonly means 'not yet', which is unrelated to pregnancy.",
+   "fix": "Add: adverb [colloquial, Northern] | not yet; example: Tôi chửa ăn cơm. = I haven't eaten yet."
+  },
+  {
+   "headword": "trổ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of displaying a skill or talent, as in trổ tài.",
+   "fix": "Add: verb | to display; to show off (a skill or talent); example: Anh ấy trổ tài nấu ăn. = He showed off his cooking skills."
+  }
+ ]
+}

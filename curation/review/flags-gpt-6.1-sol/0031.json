@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "khác biệt",
+  "chớ",
+  "khách hàng",
+  "cớm",
+  "cha mẹ",
+  "sát nhân",
+  "nhất định",
+  "góc",
+  "khổng lồ",
+  "nhà tù",
+  "muội",
+  "hồ",
+  "mắc",
+  "hiệu quả",
+  "bóng tối",
+  "thẻ",
+  "trực tiếp",
+  "giận",
+  "hòn",
+  "khẩn cấp",
+  "chi tiết",
+  "bụng",
+  "ngoan",
+  "phụ",
+  "phát triển",
+  "nô lệ",
+  "nghề",
+  "vũ trụ",
+  "xác định",
+  "thùng",
+  "có điều",
+  "em trai",
+  "một ít",
+  "huấn luyện",
+  "nghiêm trọng",
+  "ben",
+  "hợp",
+  "nãy",
+  "địa chỉ",
+  "bật"
+ ],
+ "flags": [
+  {
+   "headword": "mắc",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The busy sense, including mắc việc, is also standard Northern usage, so the regional restriction is misleading ([dictionary](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-34)).",
+   "fix": "Remove the Central and Southern tags."
+  },
+  {
+   "headword": "mắc",
+   "sense": 6,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Mắc nợ is used nationwide rather than being restricted to Central and Southern Vietnamese ([dictionary](https://vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-34)).",
+   "fix": "Remove the Central and Southern tags."
+  },
+  {
+   "headword": "mắc",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Mắc cỡ describes being shy or embarrassed, not making someone else feel that way.",
+   "fix": "to feel; to be (in expressions such as mắc cỡ, to be shy or embarrassed, and mắc cười, to feel like laughing)"
+  },
+  {
+   "headword": "thùng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thùng does not mean a garment's waist; tucking in a shirt is expressed by đóng thùng ([usage](https://vlstudies.wordpress.com/2022/05/18/learn-vietnamese-online-so-vin/)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "thùng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common general container sense, encountered in thùng rác and thùng đựng đồ, is missing from the narrower carton and barrel glosses.",
+   "fix": "noun | box; bin; container; ex: Bỏ rác vào thùng. = Put the rubbish in the bin."
+  }
+ ]
+}

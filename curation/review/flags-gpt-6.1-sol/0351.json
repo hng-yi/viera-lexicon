@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "bòng bong",
+  "trúng kế",
+  "chết nhát",
+  "danh họa",
+  "tươi sống",
+  "đèn đuốc",
+  "cười khẩy",
+  "nhí nhố",
+  "trung phong",
+  "kinh qua",
+  "trơn tuột",
+  "nô đùa",
+  "y sinh",
+  "bóc trần",
+  "hơi cay",
+  "lạnh tanh",
+  "viêm mạch",
+  "hình trụ",
+  "cúng bái",
+  "nho khô",
+  "hút hít",
+  "dao lam",
+  "màng nhĩ",
+  "thầy tu",
+  "lườn",
+  "âm hưởng",
+  "phụ mẫu",
+  "tởn",
+  "nghị định thư",
+  "trung tuyến",
+  "tử vi",
+  "ất giáp",
+  "bấy",
+  "đường sá",
+  "tía lia",
+  "bình bình",
+  "kênh đào",
+  "chủ tướng",
+  "ghi công",
+  "ăn liền"
+ ],
+ "flags": [
+  {
+   "headword": "bòng bong",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Bòng bong means tangled bamboo shavings left from whittling, not the strips used to weave baskets ([source](https://tuancongthuphong.blogspot.com/2016/12/mo-cha-khong-khoc-khoc-ong-moi.html)).",
+   "fix": "Người thợ gom bòng bong lại sau khi vót nan tre. = The craftsman gathers the bamboo shavings after whittling the bamboo strips."
+  },
+  {
+   "headword": "trúng kế",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Trúng kế is also used in ordinary conversation about being tricked, so the literary tag misleadingly restricts its use ([example](https://vietnamnet.vn/lazada-bi-khach-hang-to-lua-dao-5-buoc-i390617.html)).",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "lườn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this food sense, lườn refers to belly meat rather than any fish fillet ([source](https://www.lottemart.vn/vi-gvp/product/luon-ca-hoi-tam-uop-400g-2297950000008-p87583)).",
+   "fix": "belly meat (of fish)"
+  },
+  {
+   "headword": "lườn",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Lườn cá hồi denotes salmon belly, which is a different cut from a generic salmon fillet ([source](https://www.lottemart.vn/vi-gvp/product/luon-ca-hoi-tam-uop-400g-2297950000008-p87583)).",
+   "fix": "I ordered a portion of grilled salmon belly."
+  },
+  {
+   "headword": "lườn",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense denotes the submerged part of a boat's hull, rather than specifically its keel ([dictionary](https://vi.wiktionary.org/wiki/l%C6%B0%E1%BB%9Dn)).",
+   "fix": "underwater hull (of a boat)"
+  },
+  {
+   "headword": "lườn",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The Vietnamese describes damage to the boat's underwater hull without specifying the keel ([dictionary](https://vi.wiktionary.org/wiki/l%C6%B0%E1%BB%9Dn)).",
+   "fix": "The boat's underwater hull was damaged after the storm."
+  },
+  {
+   "headword": "ất giáp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Nói ất giáp cái giống gì is an unnatural construction; the expression normally occurs with not knowing or understanding anything ([dictionary](https://vi.wiktionary.org/wiki/%E1%BA%A5t_gi%C3%A1p)).",
+   "fix": "Tôi chẳng hiểu ất giáp gì về chuyện này. = I don't understand anything at all about this matter."
+  },
+  {
+   "headword": "tía lia",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Cả buổi means the whole session or stretch of the day and does not specify morning.",
+   "fix": "The little girl chattered away the whole time."
+  }
+ ]
+}

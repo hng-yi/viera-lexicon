@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "bản lề",
+  "lễ phép",
+  "tha thiết",
+  "mưu cầu",
+  "nanh vuốt",
+  "chim chóc",
+  "phục chế",
+  "lộng hành",
+  "thổ ngữ",
+  "bao tay",
+  "ét",
+  "hủi",
+  "dị đoan",
+  "lạch",
+  "biến hóa",
+  "huyện",
+  "rộn",
+  "rắn chắc",
+  "xuýt",
+  "chơi đẹp",
+  "bàn ghế",
+  "tác phong",
+  "giẻ rách",
+  "oanh liệt",
+  "nang",
+  "giả kim",
+  "bùn lầy",
+  "tiên liệu",
+  "hải trình",
+  "tặng thưởng",
+  "ung dung",
+  "nếm trải",
+  "trọng điểm",
+  "hò hét",
+  "bì",
+  "vãn",
+  "phản bác",
+  "hàm ý",
+  "nhộn",
+  "quần tây"
+ ],
+ "flags": [
+  {
+   "headword": "nanh vuốt",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling people an evil master's henchmen is derogatory, and this sense lacks a warning tag.",
+   "fix": "Add derogatory to the tags."
+  },
+  {
+   "headword": "dị đoan",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Ngày mùng một means the first day of a lunar month here, without specifying the first day of the year.",
+   "fix": "She is very superstitious and does not dare sweep the house on the first day of the lunar month."
+  },
+  {
+   "headword": "giẻ rách",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common insulting use meaning a contemptible or worthless person, illustrated in this [published novel](https://fliphtml5.com/oimsx/fbza/V%E1%BA%BFt_Th%C3%B9_H%E1%BA%B1n_Tr%C3%AAn_L%C6%B0ng_Ng%E1%BB%B1a_Hoang/91/).",
+   "fix": "Add a sense tagged derogatory, offensive: a contemptible or worthless person."
+  },
+  {
+   "headword": "nang",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word rather than using it to refer to an areca palm.",
+   "fix": "Trước sân có một hàng nang. = There is a row of areca palms in front of the house."
+  },
+  {
+   "headword": "bùn lầy",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common noun meaning mud or mire, recorded in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C3%B9n%20l%E1%BA%A7y).",
+   "fix": "Add noun: mud; mire."
+  },
+  {
+   "headword": "vãn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense occurs in ordinary speech about crowds or work diminishing and is not restricted to literary language, as the [dictionary examples](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%C3%A3n) show.",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "hàm ý",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common verb meaning to imply, which is recorded separately in the [dictionary](https://loigiaihay.com/tu-dien-tv/ham-y-e4KRK3piNW3X1.html).",
+   "fix": "Add verb: to imply."
+  }
+ ]
+}

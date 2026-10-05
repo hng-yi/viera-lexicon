@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "vàng son",
+  "sú",
+  "dợ",
+  "vô sản",
+  "mẩn",
+  "bến tàu",
+  "mầm non",
+  "thứ yếu",
+  "thua thiệt",
+  "hỉ",
+  "ống chân",
+  "địa danh",
+  "hương thơm",
+  "dự trù",
+  "sậm",
+  "bát diện",
+  "trực quan",
+  "tình tứ",
+  "cá chình",
+  "mảnh khảnh",
+  "dáng điệu",
+  "Hoa văn",
+  "hoa văn",
+  "điểm huyệt",
+  "ham mê",
+  "dung mạo",
+  "nể nang",
+  "lá lách",
+  "đại quan",
+  "loa kèn",
+  "hợp thời",
+  "đặc xá",
+  "nghẹn ngào",
+  "biên soạn",
+  "khí áp",
+  "thống thiết",
+  "đậm đà",
+  "búa tạ",
+  "bót",
+  "phị"
+ ],
+ "flags": [
+  {
+   "headword": "vô sản",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the proletarian class instead of showing the word in use.",
+   "fix": "Ông ấy xuất thân từ một gia đình vô sản. = He came from a proletarian family."
+  },
+  {
+   "headword": "bát diện",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what an octahedron is instead of showing the word in use.",
+   "fix": "Cô ấy gấp giấy thành một hình bát diện. = She folded the paper into an octahedron."
+  },
+  {
+   "headword": "biên soạn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Biên soạn means compiling and writing a work, not ordinary editing or revision, as confirmed by [the dictionary definition](https://vi.wiktionary.org/wiki/bi%C3%AAn_so%E1%BA%A1n).",
+   "fix": "Remove sense 2; compilation and writing are already covered by sense 1."
+  }
+ ]
+}

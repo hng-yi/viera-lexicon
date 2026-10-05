@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tiêu biểu",
+  "am hiểu",
+  "gây sự",
+  "Đông Nam Á",
+  "trọng án",
+  "càn quét",
+  "chiếm giữ",
+  "vít",
+  "sờ mó",
+  "canh phòng",
+  "gộp",
+  "xúc tác",
+  "vạn tuế",
+  "biển báo",
+  "ao ước",
+  "trung tướng",
+  "nhân từ",
+  "du mục",
+  "ngụ ý",
+  "ngoại lai",
+  "chính khách",
+  "giao hưởng",
+  "hiếu chiến",
+  "viền",
+  "ma quái",
+  "nghèo đói",
+  "thâu",
+  "beta",
+  "hạ độc",
+  "giòn",
+  "tiếp thị",
+  "quan liêu",
+  "chèn",
+  "khỉ ho cò gáy",
+  "bệnh xá",
+  "quan niệm",
+  "trung cổ",
+  "rò",
+  "cạp",
+  "rùng rợn"
+ ],
+ "flags": [
+  {
+   "headword": "tiêu biểu",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tiêu biểu cho means to exemplify or be representative of something, not to symbolise it.",
+   "fix": "to exemplify; to typify; to be representative of"
+  },
+  {
+   "headword": "tiêu biểu",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A dove symbolises peace, which calls for biểu tượng rather than tiêu biểu.",
+   "fix": "Tác phẩm này tiêu biểu cho phong cách của ông. = This work exemplifies his style."
+  },
+  {
+   "headword": "ma quái",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are much more likely to encounter the adjective meaning eerie or spooky than the noun meaning evil spirits.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "cạp",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The waistband meaning is more commonly encountered in everyday Vietnamese than the biting or gnawing meaning.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "ngũ trược",
+  "ngũ uẩn",
+  "ngũ vị hương",
+  "ngũ âm",
+  "ngũ đoản",
+  "ngơ ngơ ngẩn ngẩn",
+  "ngư nghiệp",
+  "ngư thuyền",
+  "ngư trường",
+  "ngưu bàng",
+  "ngưu tầm ngưu, mã tầm mã",
+  "người Anh-điêng",
+  "người Hoa",
+  "người Hoa Kì",
+  "người Kinh",
+  "người Mĩ",
+  "người Nam",
+  "người Nga",
+  "người Thượng",
+  "người Tàu",
+  "người Việt",
+  "người Việt Nam",
+  "người bay",
+  "người chuyển giới",
+  "người da đỏ",
+  "người dưng nước lã",
+  "người dẫn truyện",
+  "người hâm mộ",
+  "người không vì mình, trời tru đất diệt",
+  "người lạ",
+  "người lạ mặt",
+  "người ngoài hành tinh",
+  "người ngoại quốc",
+  "người ngợm",
+  "người nước ngoài",
+  "người phàm trần",
+  "người quen",
+  "người thứ ba",
+  "người trần mắt thịt",
+  "người xin có giang"
+ ],
+ "flags": [
+  {
+   "headword": "ngũ trược",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Nhà sư giảng về ngũ trược trong buổi học hôm nay. = The monk discussed the five impurities in today's lesson."
+  },
+  {
+   "headword": "ngưu tầm ngưu, mã tầm mã",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The saying disparages the people being compared as bad or disreputable, as the [dictionary definition](https://huyenbi.net/Tu-dien-Thanh-ngu-Tuc-ngu-Viet-Nam/Y-nghia-cua-tu-Nguu-tam-nguu-ma-tam-ma-2523.html) confirms.",
+   "fix": "Add derogatory: [idiomatic, derogatory]."
+  },
+  {
+   "headword": "ngưu tầm ngưu, mã tầm mã",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Plotting something shady is supplied by the example's context, not a separate meaning of the saying.",
+   "fix": "Remove sense 2; its meaning is already covered by sense 1."
+  },
+  {
+   "headword": "người Nam",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning 'a person from southern Vietnam', illustrated by the contrast with người Bắc in [Vietnamese prose](https://vannghebinhdinh.vn/wp-content/uploads/2023/01/VN112.pdf).",
+   "fix": "Add: southerner; person from southern Vietnam."
+  },
+  {
+   "headword": "người Nam",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner today is more likely to encounter the meaning 'southerner' than the literary meaning 'Vietnamese person'.",
+   "fix": "Put 'southerner; person from southern Vietnam' first and the literary meaning second."
+  }
+ ]
+}

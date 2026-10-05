@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "xuống tóc",
+  "Đội viên",
+  "ham thích",
+  "dìu dặt",
+  "ánh trăng",
+  "tuềnh toàng",
+  "ngụp",
+  "tợp",
+  "vót",
+  "vùn vụt",
+  "tính nết",
+  "nạnh",
+  "bản dịch",
+  "nghẹo",
+  "tủ sách",
+  "triều chính",
+  "tờ mờ",
+  "tho",
+  "napan",
+  "Chí Phèo",
+  "nhảy cóc",
+  "cảm nắng",
+  "dược học",
+  "long não",
+  "phun trào",
+  "lão tướng",
+  "sống mũi",
+  "nhị đẳng",
+  "rớt đài",
+  "khẳng khiu",
+  "Nho giáo",
+  "quốc ca",
+  "giải giáp",
+  "cầm lòng",
+  "cục tác",
+  "lộng ngôn",
+  "nguyệt quế",
+  "hạ bì",
+  "phong nhã",
+  "khuất bóng"
+ ],
+ "flags": [
+  {
+   "headword": "tho",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tho means being inferior or conceding defeat, not a variety of pineapple ([dictionary](https://vi.wiktionary.org/wiki/tho)).",
+   "fix": "Replace with: [rare] to concede defeat; to admit inferiority, used in chịu tho or xin tho."
+  },
+  {
+   "headword": "tủ sách",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Tủ sách also commonly means a collection or series of books, as in a publisher's themed series ([example](https://www.nxbtre.com.vn/diem-tin/de-cac-tu-sach-di-xa-34009.html)).",
+   "fix": "Add: noun | collection of books; book series."
+  },
+  {
+   "headword": "Chí Phèo",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone Chí Phèo is derogatory, and colloquial alone does not warn the learner of this.",
+   "fix": "Tags: colloquial, derogatory."
+  },
+  {
+   "headword": "Chí Phèo",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Describing someone's behavior as Chí Phèo is derogatory and needs an explicit warning.",
+   "fix": "Tags: colloquial, derogatory."
+  }
+ ]
+}

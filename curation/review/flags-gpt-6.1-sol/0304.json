@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "đại thắng",
+  "chém giết",
+  "rạp hát",
+  "cây cảnh",
+  "chỉ trỏ",
+  "tỏi tây",
+  "thành đô",
+  "đớn",
+  "thuôn",
+  "tâm lí học",
+  "mếch lòng",
+  "đồng liêu",
+  "kiềm hãm",
+  "chão",
+  "bổi",
+  "trối",
+  "nhân xưng",
+  "lao móc",
+  "hoàng bào",
+  "rứa",
+  "thể thức",
+  "chột dạ",
+  "nuy",
+  "lù",
+  "tầm nã",
+  "đấu trí",
+  "buồn tủi",
+  "nghĩa quân",
+  "yên ả",
+  "lặng thinh",
+  "thư tay",
+  "nóng ruột",
+  "đâm ra",
+  "hạnh kiểm",
+  "tịch",
+  "ma cô",
+  "ngọt lịm",
+  "nhập tịch",
+  "bảnh bao",
+  "khởi phát"
+ ],
+ "flags": [
+  {
+   "headword": "cây cảnh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cây cảnh means a plant grown for decoration, whereas a potted plant need not be ornamental.",
+   "fix": "ornamental plant"
+  },
+  {
+   "headword": "thuôn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This cooking sense refers to making soup with meat or fish, spring onions and Vietnamese coriander, rather than generic broth with cilantro ([source](https://tintuconline.com.vn/rau-ram-o-lai-15994.html)).",
+   "fix": "to cook meat or fish in plenty of water with spring onions and Vietnamese coriander"
+  },
+  {
+   "headword": "thuôn",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses thuôn with a pot of soup instead of the meat or fish being cooked and substitutes cilantro for the characteristic Vietnamese coriander.",
+   "fix": "Mẹ thuôn thịt bò với hành và rau răm. = Mum cooked beef soup with spring onions and Vietnamese coriander."
+  },
+  {
+   "headword": "ma cô",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ma cô in this sense is derogatory, and the colloquial tag does not warn the learner of that.",
+   "fix": "[colloquial, derogatory]"
+  }
+ ]
+}

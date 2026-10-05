@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thương gia",
+  "rắc",
+  "biến cố",
+  "tổ ong",
+  "quả quyết",
+  "thanh danh",
+  "chiếm đoạt",
+  "chợp",
+  "ngừng bắn",
+  "đèn xanh",
+  "lùng sục",
+  "kỉ lục",
+  "phỏng",
+  "bẩm",
+  "phục",
+  "linh",
+  "triều đại",
+  "kèo",
+  "thuốc men",
+  "mụn",
+  "nhạc sĩ",
+  "bao trùm",
+  "lưu thông",
+  "phiên dịch",
+  "phóng đại",
+  "bợm",
+  "khử trùng",
+  "rái",
+  "công vụ",
+  "phúc",
+  "súc sinh",
+  "thiến",
+  "triết học",
+  "sụp",
+  "nhà trường",
+  "tố",
+  "cận kề",
+  "vờ",
+  "tạo vật",
+  "bảo thủ"
+ ],
+ "flags": [
+  {
+   "headword": "phỏng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday Southern meaning ‘burned; scalded’, as in ‘bị phỏng nước sôi’ ([dictionary](https://v2.rung.vn/dict/vn_vn/Ph%E1%BB%8Fng)).",
+   "fix": "Add: adj [Southern] | burned; scalded. Example: Tôi bị phỏng nước sôi. = I was scalded by boiling water."
+  },
+  {
+   "headword": "tố",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "‘Tố’ means to expose or report wrongdoing, rather than to sue someone in court ([dictionary](https://www.rung.vn/dict/vn_vn/T%E1%BB%91)).",
+   "fix": "Remove sense 2; ‘to sue’ is ‘kiện’."
+  },
+  {
+   "headword": "vờ",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "‘Vờ’ does not mean floating plant debris; its noun meaning is ‘mayfly’ ([dictionary](https://www.rung.vn/dict/vn_vn/V%E1%BB%9D)).",
+   "fix": "Remove sense 3 and its example."
+  }
+ ]
+}

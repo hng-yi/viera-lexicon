@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nhuệ khí",
+  "canxi",
+  "giai thoại",
+  "bình lặng",
+  "cảm hóa",
+  "đánh bắt",
+  "sum họp",
+  "cổ lỗ",
+  "phức",
+  "giải nghĩa",
+  "ôn dịch",
+  "cộm",
+  "bắt mắt",
+  "phôi",
+  "thẩy",
+  "rạp xiếc",
+  "độc tấu",
+  "vần điệu",
+  "diễn tiến",
+  "trầm ngâm",
+  "đinh ninh",
+  "bao tải",
+  "màn thầu",
+  "tiểu đệ",
+  "thang bộ",
+  "xuất quân",
+  "trừ khử",
+  "tinh tường",
+  "thao thao",
+  "nhức nhối",
+  "thượng nguồn",
+  "chắc nịch",
+  "bếp núc",
+  "trị an",
+  "khai thông",
+  "bến xe buýt",
+  "văn kiện",
+  "buồng trứng",
+  "hoa mắt",
+  "sung sức"
+ ],
+ "flags": [
+  {
+   "headword": "bến xe buýt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning 'bus stop' is missing, as illustrated by native usage referring to roadside stops as bến xe buýt ([source](https://tuoitre.vn/nld/ban-doc/diem-dung-xe-buyt-sao-cu-chon-o-nga-tu-20221221215145925.htm)).",
+   "fix": "Add: bus stop (a place where buses stop to pick up and drop off passengers)."
+  },
+  {
+   "headword": "buồng trứng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the organ instead of using the word in context.",
+   "fix": "Cô ấy có một u nang ở buồng trứng bên trái. = She has a cyst in her left ovary."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "thính phòng",
+  "thò lò",
+  "thò lõ",
+  "thòi",
+  "thòi lòi",
+  "thòm thèm",
+  "thói tật",
+  "thói tục",
+  "thói đời",
+  "thót",
+  "thô lậu",
+  "thôi nôi",
+  "thôi rồi, Lượm ơi",
+  "thôn dã",
+  "thôn tính",
+  "thôn ấp",
+  "thông rụng lá",
+  "thông thiên",
+  "thông thiên học",
+  "thông thuộc",
+  "thông thương",
+  "thông tuệ",
+  "thông tỏ",
+  "thông xe",
+  "thõng",
+  "thù đủ",
+  "thùa",
+  "thùm thụp",
+  "thùng phá sảnh",
+  "thùng rác",
+  "thùng rỗng kêu to",
+  "thú có túi",
+  "thú lông nhím",
+  "thú mỏ vịt",
+  "thú nhồi bông",
+  "thú ăn kiến",
+  "thún",
+  "thút nút",
+  "thăng long",
+  "thăng thưởng"
+ ],
+ "flags": [
+  {
+   "headword": "thò lò",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense describes nasal mucus running or dangling from the nose, not drool ([Vietnamese dictionary](https://tudientv.com/?t=th%C3%B2+l%C3%B2)).",
+   "fix": "running from the nose in dangling strands (of nasal mucus)"
+  },
+  {
+   "headword": "thù đủ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what Huế speakers call papaya instead of using the word in context.",
+   "fix": "Mạ mua một trái thù đủ chín. = Mum bought a ripe papaya."
+  }
+ ]
+}

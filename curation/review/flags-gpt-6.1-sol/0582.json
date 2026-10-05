@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thứ bốn",
+  "thứ lỗi",
+  "thứ nam",
+  "thứ nhân",
+  "thứ nữ",
+  "thứ đến",
+  "thức dậy",
+  "thức giả",
+  "thức uống",
+  "thức ăn nhanh",
+  "thừa biết",
+  "thừa nước đục thả câu",
+  "thừa số nguyên tố",
+  "thừa tác viên",
+  "thử sức",
+  "thử tài",
+  "thửa có",
+  "thửa làm",
+  "thửa mặc",
+  "thửa rằng",
+  "thửa được",
+  "thực chứng luận",
+  "thực dân hoá",
+  "thực dân hóa",
+  "thực tế hỗn hợp",
+  "thực tế tăng cường",
+  "thực tế ảo",
+  "thực vật lâu năm",
+  "ti tỉ",
+  "tia cực tím",
+  "tia số",
+  "tim cật",
+  "tim đen",
+  "tin dùng",
+  "tin sái cổ",
+  "tin vịt",
+  "tinh giản",
+  "tinh gọn",
+  "tinh sương",
+  "tinh thần đồng đội"
+ ],
+ "flags": [
+  {
+   "headword": "thức uống",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines orange juice as a drink instead of showing the word in a practical context.",
+   "fix": "Quán này phục vụ nhiều loại thức uống. = This café serves many kinds of drinks."
+  },
+  {
+   "headword": "thửa rằng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example treats the expression as “it is said that,” although it means “that which is called” ([Wiktionary](https://en.wiktionary.org/wiki/thửa_rằng)).",
+   "fix": "Thửa rằng cảm ứng đạo giao, khôn tư nghì vậy. = What is called the mutual interaction between those cultivating the Way and the Buddha is incomprehensible."
+  },
+  {
+   "headword": "tin sái cổ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The expression means believing something unquestioningly, rather than necessarily believing everything anyone says.",
+   "fix": "to believe completely; to believe without question"
+  }
+ ]
+}

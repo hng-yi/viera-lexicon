@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "vằng vặc",
+  "hầm hập",
+  "tí tởn",
+  "chết dở",
+  "chắt bóp",
+  "chiết trung",
+  "Nôm",
+  "nôm",
+  "quyền Pháp",
+  "quyền pháp",
+  "sơn thủy",
+  "ấn loát",
+  "làng xã",
+  "hoa lệ",
+  "xuyên suốt",
+  "cổ tự",
+  "bắt nhịp",
+  "gồng gánh",
+  "lòng thành",
+  "băng tải",
+  "đá hoa",
+  "phạm lỗi",
+  "chiến bại",
+  "niền",
+  "đông phương học",
+  "thông luật",
+  "ái khanh",
+  "xỉ",
+  "chuột lang",
+  "kilômét",
+  "vong nhân",
+  "cơ cực",
+  "kỉ cương",
+  "phàm phu",
+  "oa trữ",
+  "mũ nồi",
+  "tròn trĩnh",
+  "bập bõm",
+  "ngã tư",
+  "quân tình nguyện"
+ ],
+ "flags": [
+  {
+   "headword": "hầm hập",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This figurative sense describes an agitated or impassioned crowd or atmosphere, rather than an individual's angry manner. [Dictionary](https://en.wiktionary.org/wiki/h%E1%BA%A7m_h%E1%BA%ADp)",
+   "fix": "agitated; impassioned (of a crowd or atmosphere)"
+  },
+  {
+   "headword": "hầm hập",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Using hầm hập to describe one man storming into a room confuses this sense with hầm hầm. [Dictionary](https/en.wiktionary.org/wiki/h%E1%BA%A7m_h%E1%BA%ADp)",
+   "fix": "Không khí hầm hập chuẩn bị bãi công. = The atmosphere was charged as preparations were made for a strike."
+  },
+  {
+   "headword": "chiết trung",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Chiết trung belongs to formal or academic discussion and needs a register warning. [Dictionary](https://dictionary.zim.vn/viet-anh/chiet-trung-tieng-anh-la-gi)",
+   "fix": "tags: [formal]"
+  },
+  {
+   "headword": "sơn thủy",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Sơn thủy is a literary term for scenery, so an untagged gloss suggests ordinary conversational usage. [Dictionary](https://loigiaihay.com/tu-dien-tv/son-thuy-eunCpicBKHQQ5.html)",
+   "fix": "tags: [literary]"
+  },
+  {
+   "headword": "chiến bại",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Chiến bại retains its formal register when describing a sporting defeat. [Dictionary](https://loigiaihay.com/tu-dien-tv/chien-bai-eh9IfxEFWQxH1.html)",
+   "fix": "tags: [formal, figurative]"
+  }
+ ]
+}

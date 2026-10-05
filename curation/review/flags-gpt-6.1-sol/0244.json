@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "cuồng dâm",
+  "lương tri",
+  "góa phụ",
+  "tiểu tiết",
+  "công ích",
+  "xa hoa",
+  "bán thân",
+  "cử nhân",
+  "kì cựu",
+  "im ắng",
+  "xoài",
+  "ngụ",
+  "són",
+  "nitơ",
+  "biên nhận",
+  "nhíp",
+  "đàm thoại",
+  "đức hồng y",
+  "mượt mà",
+  "nghĩa lí",
+  "nhờn",
+  "hăng say",
+  "tâm tư",
+  "bị đơn",
+  "khuyến mại",
+  "bồ đề",
+  "đầu gấu",
+  "giả trang",
+  "cải đạo",
+  "sa sút",
+  "mang tiếng",
+  "hẳn hoi",
+  "tương cà",
+  "đờ",
+  "quy kết",
+  "lơ mơ",
+  "thanh nhã",
+  "khí chất",
+  "trừng",
+  "trẹo"
+ ],
+ "flags": [
+  {
+   "headword": "bán thân",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bán thân means half-length or the upper half of the body; a bust or half-length portrait is tượng bán thân or chân dung bán thân.",
+   "fix": "half-length; showing the upper half of the body"
+  },
+  {
+   "headword": "biên nhận",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The verb biên nhận belongs to formal administrative usage and needs a register warning ([dictionary](https://loigiaihay.com/tu-dien-tv/bien-nhan-eiOMo9aGWbdmm.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "mang tiếng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common construction mang tiếng là also means being something in name or reputation without living up to it, rather than having a bad reputation ([dictionary](https://rongmotamhon.net/tu-dien_tieng-viet_smkctpgt_rong-mo-tam-hon.html)).",
+   "fix": "[colloquial] to be supposedly; to be something in name only"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "léng phéng",
+  "phồn hoa",
+  "chẩm",
+  "người tuyết",
+  "đỏ bừng",
+  "sát na",
+  "sung huyết",
+  "trang nhã",
+  "khều",
+  "dẽ dàng",
+  "mến mộ",
+  "vóc",
+  "siêu tân tinh",
+  "ong mật",
+  "lưỡi trai",
+  "độp",
+  "phũ phàng",
+  "ngoắt",
+  "nề hà",
+  "khôn xiết",
+  "khiếu kiện",
+  "ruột rà",
+  "nhà ở",
+  "quyết chí",
+  "thấm tháp",
+  "thi hào",
+  "đặng",
+  "tuy thế",
+  "chát",
+  "đỏi",
+  "danh sĩ",
+  "hít hà",
+  "thượng tá",
+  "tạo hóa",
+  "phá giới",
+  "nghĩa sĩ",
+  "thi cử",
+  "thừa số",
+  "cụng li",
+  "thông quan"
+ ],
+ "flags": [
+  {
+   "headword": "khều",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday meaning of touching someone lightly to attract attention or signal to them ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-kh%E1%BB%81u)).",
+   "fix": "to touch or nudge someone lightly to get their attention or signal to them"
+  },
+  {
+   "headword": "siêu tân tinh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Các nhà thiên văn vừa quan sát được một siêu tân tinh. = Astronomers have just observed a supernova."
+  },
+  {
+   "headword": "phá giới",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Ăn chay trường means maintaining a vegetarian diet continuously, without saying that the person has been vegetarian their entire life.",
+   "fix": "He maintains a strict vegetarian diet and has never broken his precepts."
+  }
+ ]
+}

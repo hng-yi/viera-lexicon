@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "pháo bông",
+  "chết queo",
+  "đồ gốm",
+  "sắc nhọn",
+  "sư hổ",
+  "kéo lê",
+  "đảng ủy",
+  "mỗ",
+  "xỏ lá",
+  "tinh khôi",
+  "bà chủ",
+  "khiếm thính",
+  "Chính thống giáo",
+  "nhan đề",
+  "tiêu biến",
+  "hung hiểm",
+  "nhỉnh",
+  "chần",
+  "băng phiến",
+  "dược sư",
+  "thể dịch",
+  "vũ trụ học",
+  "giao hòa",
+  "lạ đời",
+  "bu lông",
+  "trong veo",
+  "cảnh binh",
+  "mến yêu",
+  "uy phong",
+  "MV",
+  "dim",
+  "hội đồng nhân dân",
+  "vi phẫu",
+  "a dua",
+  "chọc quê",
+  "giả đò",
+  "vi khí hậu",
+  "bỏ mối",
+  "trường kì",
+  "nề"
+ ],
+ "flags": [
+  {
+   "headword": "sư hổ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Con sư hổ nằm nghỉ dưới bóng cây. = The liger rests in the shade of a tree."
+  },
+  {
+   "headword": "hung hiểm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary expression that needs a warning against ordinary casual use, illustrated by its [dictionary quotation from Kiều](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-hung%20hi%E1%BB%83m).",
+   "fix": "[literary]"
+  },
+  {
+   "headword": "cảnh binh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cảnh binh denotes armed police, not military police responsible for discipline among soldiers, as reflected in the [dictionary definition](https://vi.wiktionary.org/wiki/c%E1%BA%A3nh_binh).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "chọc quê",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This usage is mainly Southern and is recorded in the [Từ điển từ ngữ Nam Bộ](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html), so it needs a regional tag.",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "nề",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The verb means to smooth mortar, rather than to lay bricks generally, according to the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%E1%BB%81).",
+   "fix": "to smooth mortar or plaster"
+  },
+  {
+   "headword": "nề",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses the occupational compound thợ nề rather than the verb being taught.",
+   "fix": "Anh ấy đang nề tường cho nhẵn. = He is smoothing the plaster on the wall."
+  }
+ ]
+}

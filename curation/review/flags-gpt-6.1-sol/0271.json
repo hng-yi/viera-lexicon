@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "thương tật",
+  "ông xã",
+  "lây truyền",
+  "quái xế",
+  "trí lực",
+  "cáo phó",
+  "khởi công",
+  "ngọ",
+  "hiến thân",
+  "đãi ngộ",
+  "cưỡng dâm",
+  "thỉnh giáo",
+  "bao hàm",
+  "thành thục",
+  "lửng",
+  "trót lọt",
+  "bổng lộc",
+  "đại tiện",
+  "héc",
+  "cọt kẹt",
+  "thu giữ",
+  "bình nguyên",
+  "tá túc",
+  "kí tự",
+  "bari",
+  "cam thảo",
+  "côi",
+  "măng",
+  "thồi",
+  "giập",
+  "cốt nhục",
+  "mờ mịt",
+  "rốt",
+  "quân chủ",
+  "lập công",
+  "cây xanh",
+  "lê thê",
+  "phương hại",
+  "đánh rắm",
+  "lưu hành"
+ ],
+ "flags": [
+  {
+   "headword": "héc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses héc-ta rather than the shortened word héc.",
+   "fix": "Khu đất này rộng năm héc. = This plot of land is five hectares."
+  },
+  {
+   "headword": "bình nguyên",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Bình nguyên remains current in geographical descriptions and is not dated.",
+   "fix": "Replace dated with formal."
+  },
+  {
+   "headword": "kí tự",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kí tự means a character, not the distinct typographical concept of a glyph.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "côi",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Côi meaning 'on' or 'above' belongs to Central dialects, not Northern Vietnamese.",
+   "fix": "Use the tag Central only."
+  },
+  {
+   "headword": "thỉnh giáo",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thỉnh giáo is a formal expression, so polite alone does not adequately warn learners about its register.",
+   "fix": "Use tags formal, polite."
+  },
+  {
+   "headword": "cây xanh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cây xanh is not restricted to trees and plants grown in cities.",
+   "fix": "trees; greenery"
+  }
+ ]
+}

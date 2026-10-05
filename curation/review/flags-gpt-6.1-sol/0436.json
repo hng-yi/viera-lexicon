@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "con nhà tông không giống lông cũng giống cánh",
+  "con này",
+  "con sâu làm rầu nồi canh",
+  "con trai",
+  "con trai con đứa",
+  "con trâu là đầu cơ nghiệp",
+  "con trỏ",
+  "con tạo",
+  "con ông cháu cha",
+  "con đỏ",
+  "copernixi",
+  "coronavirus",
+  "coóc-xê",
+  "cre",
+  "cu-lắc",
+  "cu-roa",
+  "cua cạn",
+  "cua đinh",
+  "cua đồng",
+  "cumingtonit",
+  "cung chúc tân xuân",
+  "cung hỉ phát tài",
+  "cung lượng",
+  "cung thành",
+  "cung đạo",
+  "cung đấu",
+  "cung động mạch chủ",
+  "curi",
+  "cuốc chĩa",
+  "cuối tuần",
+  "cuốn chiếu viên",
+  "cuốn gói",
+  "cuống quýt",
+  "cuộc họp",
+  "cuộc thế",
+  "cà bát",
+  "cà cuống",
+  "cà dái dê",
+  "cà dầm tương",
+  "cà giựt"
+ ],
+ "flags": [
+  {
+   "headword": "con này",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This way of referring to a woman can be derogatory, and informal alone does not warn the learner adequately.",
+   "fix": "Tags: informal, derogatory."
+  },
+  {
+   "headword": "con trai con đứa",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an ordinary colloquial scolding expression, so rare misleadingly discourages recognition of an everyday use.",
+   "fix": "Remove rare; retain colloquial."
+  },
+  {
+   "headword": "con ông cháu cha",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression disparages someone as benefiting from family connections and needs a derogatory warning ([usage discussion](https://vietcetera.com/amp/vn/chu-voi-nghia-con-ong-chau-cha)).",
+   "fix": "Tags: idiomatic, derogatory."
+  },
+  {
+   "headword": "con đỏ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This term for a newborn has a literary or old-fashioned character rather than being an ordinary casual label ([dictionary](https://loigiaihay.com/tu-dien-tv/con-do-eJJEg4Vu7GY8E.html)).",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "con đỏ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "In the comparison 'như thương con đỏ', con đỏ means a newborn child, not the common people.",
+   "fix": "Nhà vua lo cho con đỏ được sống yên ổn. = The king cares that his people can live in peace."
+  },
+  {
+   "headword": "coóc-xê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what someone calls a bra instead of using coóc-xê to refer to one.",
+   "fix": "Bà lấy chiếc coóc-xê trong ngăn tủ ra. = Grandma took the bra out of the drawer."
+  },
+  {
+   "headword": "cuốc chĩa",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A cuốc chĩa is a small hoe with several pointed tines, not a combined hoe and pitchfork ([dictionary](https://loigiaihay.com/tu-dien-tv/cuoc-chia-exOplJOwN8PZW.html)).",
+   "fix": "Gloss: small forked hoe with several long, pointed tines; example translation: He uses a forked hoe to turn the soil for vegetables."
+  },
+  {
+   "headword": "cà cuống",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A drop of cà cuống refers to the flavouring essence, whereas this sense identifies the insect.",
+   "fix": "Con cà cuống này được bắt ở ruộng lúa. = This giant water bug was caught in a rice field."
+  },
+  {
+   "headword": "cà giựt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cà giựt is primarily Southern usage and needs a regional label ([Southern dialect discussion](https://www.namkyluctinh.org/tac-gia-tac-pham/a-b-c-d/cao-thoai-chau/phuong-ngu-nam-bo.html)).",
+   "fix": "Tags: colloquial, Southern."
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "kế hoạch hoá gia đình",
+  "kế tự",
+  "kế đến",
+  "kếch",
+  "kết bài",
+  "kết giới sư",
+  "kết thúc có hậu",
+  "kết tràng",
+  "kết tóc xe duyên",
+  "kết từ",
+  "kết đoàn",
+  "kềnh",
+  "kềnh càng",
+  "kể lại",
+  "kể từ",
+  "kỉ băng hà",
+  "kỉ hà",
+  "kỉ niệm chương",
+  "kỉ tử",
+  "kị huý",
+  "kị khí",
+  "kị mã",
+  "kị nước",
+  "kị rơ",
+  "kịch cỡm",
+  "kịch mục",
+  "kịch nói",
+  "kịch phát",
+  "kịch tác gia",
+  "kịp lúc",
+  "la đà",
+  "la-gu",
+  "la-phông",
+  "la-va-bô",
+  "lai cảo",
+  "lai hoá",
+  "lai hóa",
+  "lam lũ",
+  "lan rộng",
+  "lan toả"
+ ],
+ "flags": [
+  {
+   "headword": "kết tràng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines kết tràng instead of showing it in use.",
+   "fix": "Bác sĩ phát hiện một khối u ở kết tràng. = The doctor found a tumour in the colon."
+  },
+  {
+   "headword": "kết tóc xe duyên",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary expression for marrying and needs a register warning ([discussion](https://voh.com.vn/song-dep/ket-toc-xe-duyen-494265.html)).",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "kết từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a conjunction is instead of showing the word in use.",
+   "fix": "Em dùng quá nhiều kết từ trong câu này. = You use too many conjunctions in this sentence."
+  },
+  {
+   "headword": "kịch phát",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The phrase coi chừng trí mạng đấy is unnatural Vietnamese in this context.",
+   "fix": "Bệnh hen của anh ấy đột nhiên kịch phát. = His asthma suddenly flared up."
+  },
+  {
+   "headword": "la đà",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The low, gently swaying sense is the usual meaning learners encounter and is listed first in the [Vietnamese dictionary](https://thuviensach.vn/img/pdf/6762-tu-dien-tieng-viet-thuviensach.vn.pdf).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "la-va-bô",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Lavabo is used across Vietnam, including by [a Hanoi supplier](https://miken.vn/tu-khoa-san-pham/su-lavabo/), so the Central tag is misleading.",
+   "fix": "Remove the Central tag."
+  },
+  {
+   "headword": "lai cảo",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old-fashioned publishing term, marked cũ in the [dictionary](https://vdict.com/lai%20c%E1%BA%A3o%2C2%2C0%2C0.html).",
+   "fix": "Add the dated tag."
+  }
+ ]
+}

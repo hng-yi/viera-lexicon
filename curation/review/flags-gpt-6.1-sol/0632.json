@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "đau nửa đầu",
+  "đe doạ",
+  "đem chuông đi đánh xứ người",
+  "đem con bỏ chợ",
+  "đem theo",
+  "đen nhẻm",
+  "đen tuyền",
+  "đen đúa",
+  "đeo ba lô ngược",
+  "đi B",
+  "đi bão",
+  "đi bầu",
+  "đi bậy",
+  "đi bộ",
+  "đi chơi",
+  "đi công tác",
+  "đi cầu",
+  "đi dạo",
+  "đi linh tinh",
+  "đi làm",
+  "đi ngoài",
+  "đi nhờ",
+  "đi tuần",
+  "đi vào lòng đất",
+  "đi vắng",
+  "đi đêm lắm có ngày gặp ma",
+  "đi đồng",
+  "đi đời nhà ma",
+  "đi đứng chạy nhảy",
+  "đi-văng",
+  "đi-ốp",
+  "đi-ốt",
+  "đinh lăng",
+  "đinh tặc",
+  "đioxit",
+  "điprozi",
+  "điên điển",
+  "điêu linh",
+  "điếu cày",
+  "điềm nhiên"
+ ],
+ "flags": [
+  {
+   "headword": "đi bộ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "For chickens, đi bộ means free-range but does not mean organically raised.",
+   "fix": "free-range (of chickens)"
+  },
+  {
+   "headword": "đi ngoài",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning 'to have diarrhoea', which is also the meaning used in its example.",
+   "fix": "Add: to have diarrhoea."
+  }
+ ]
+}

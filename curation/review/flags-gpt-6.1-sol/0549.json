@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "quan lang",
+  "quan nhân",
+  "quan thiết",
+  "quan to",
+  "quan trắc",
+  "quan tái",
+  "quan ải",
+  "quang cầu",
+  "quang gánh",
+  "quang hoá học",
+  "quang hóa học",
+  "quang khắc",
+  "quang minh chính đại",
+  "quang phổ học",
+  "quang tuyến",
+  "quang tử",
+  "quang tử học",
+  "quanh quất",
+  "quay quắt",
+  "quay tay",
+  "quay trở",
+  "quay xe",
+  "quay đầu là bờ",
+  "quen thói",
+  "qui phục",
+  "quy lát",
+  "quy nạp",
+  "quy phạm",
+  "quy tắc tam suất",
+  "quy đổi",
+  "quyến thuộc",
+  "quyền cước",
+  "quyền huynh thế phụ",
+  "quyền tác giả",
+  "quyền uy",
+  "quyển hạ",
+  "quyển thượng",
+  "quyển trung",
+  "quà Nô-en",
+  "quàng xiên"
+ ],
+ "flags": [
+  {
+   "headword": "quan lang",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the title instead of showing it in use.",
+   "fix": "Vị quan lang ấy là con trai vua Hùng. = That prince was a son of a Hùng king."
+  },
+  {
+   "headword": "quang cầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the photosphere instead of showing the word in use.",
+   "fix": "Các nhà khoa học đang quan sát quang cầu của Mặt Trời. = Scientists are observing the Sun's photosphere."
+  },
+  {
+   "headword": "quang hoá học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what photochemistry studies instead of showing the word in use.",
+   "fix": "Cô ấy đang học quang hoá học. = She is studying photochemistry."
+  },
+  {
+   "headword": "quang hóa học",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "In hóa, the tone mark is on the first vowel, o, rather than the second vowel.",
+   "fix": "photochemistry (spelling with the tone mark on the first vowel)"
+  },
+  {
+   "headword": "quang hóa học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example classifies the subject instead of showing the word in use.",
+   "fix": "Tôi đang đọc một cuốn sách về quang hóa học. = I am reading a book about photochemistry."
+  },
+  {
+   "headword": "quang tử",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Quang tử remains in modern scientific use for photon, including in [university teaching materials](https://fas.hcmute.edu.vn/Resources/Docs/SubDomain/fas/Dethi_dapan/HK2_22_23/%C4%90%C3%A1p%20%C3%A1n%20M%C3%B4n%20KT%20ph%C3%A2n%20t%C3%ADch%20v%E1%BA%ADt%20li%E1%BB%87u-062023.pdf), so archaic and the claim that it has been replaced are misleading.",
+   "fix": "noun, no archaic tag | photon"
+  },
+  {
+   "headword": "quang tử",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the terminology instead of using the word to refer to a photon.",
+   "fix": "Nguyên tử hấp thụ một quang tử. = The atom absorbs a photon."
+  },
+  {
+   "headword": "quang tử học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the field instead of showing the word in use.",
+   "fix": "Cô ấy muốn theo đuổi ngành quang tử học. = She wants to pursue photonics."
+  },
+  {
+   "headword": "quay trở",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Quay trở means to turn or maneuver, whereas returning is expressed by quay trở lại or quay trở về.",
+   "fix": "to turn; to maneuver"
+  },
+  {
+   "headword": "quay trở",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses quay trở lại meaning to return, rather than quay trở meaning to turn or maneuver.",
+   "fix": "Phòng chật quá, khó quay trở. = The room is so cramped that it is hard to turn around."
+  }
+ ]
+}

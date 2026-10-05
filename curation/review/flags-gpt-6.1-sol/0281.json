@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "song ca",
+  "kính yêu",
+  "hành kinh",
+  "bàn cờ",
+  "động mạch vành",
+  "thanh tịnh",
+  "lan man",
+  "tuyệt tình",
+  "chức trách",
+  "dầu thơm",
+  "tập tính",
+  "om",
+  "năng nổ",
+  "tẹt",
+  "cảnh vật",
+  "huỳnh quang",
+  "ém",
+  "tụ điểm",
+  "bợ",
+  "phó thác",
+  "lư",
+  "luộm thuộm",
+  "triền",
+  "chái",
+  "bão hòa",
+  "lầm lỡ",
+  "hiu quạnh",
+  "vỡ lòng",
+  "liệu hồn",
+  "tự túc",
+  "nhặng",
+  "song phương",
+  "hắc ín",
+  "túng thiếu",
+  "khuếch tán",
+  "sáp nhập",
+  "mắc mớ",
+  "bội phản",
+  "quẫy",
+  "chất khí"
+ ],
+ "flags": [
+  {
+   "headword": "chức trách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs to formal administrative language and needs a register warning ([dictionary](https://dictionary.zim.vn/viet-anh/chuc-trach-tieng-anh-la-gi)).",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "om",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common conversational meaning of holding something back or delaying its return or resolution ([dictionary](https://vi.wiktionary.org/wiki/om)).",
+   "fix": "Add: verb [colloquial] | to hold onto something unduly; to delay dealing with something; ex: Anh ấy cứ om tiền mãi không trả. = He keeps holding onto the money without paying it back."
+  },
+  {
+   "headword": "bợ",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Supporting or lifting something from underneath is a current meaning of bợ, so archaic is misleading ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BB%A3)).",
+   "fix": "Remove the archaic tag."
+  },
+  {
+   "headword": "song phương",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Song phương belongs to formal diplomatic and institutional language and needs a register warning ([dictionary](https://dictionary.zim.vn/viet-anh/song-phuong-tieng-anh-la-gi)).",
+   "fix": "Add the formal tag."
+  }
+ ]
+}

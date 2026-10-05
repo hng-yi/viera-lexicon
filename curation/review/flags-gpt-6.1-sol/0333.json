@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "lơi",
+  "tác",
+  "ba trợn",
+  "đồi trụy",
+  "bà ba",
+  "nhân nghĩa",
+  "phế nang",
+  "cờ tướng",
+  "xẩm",
+  "nhọc",
+  "tháng năm",
+  "ca nô",
+  "trầm tĩnh",
+  "thết đãi",
+  "ngây dại",
+  "điện cực",
+  "ủn ỉn",
+  "an hưởng",
+  "mơn man",
+  "hảo ngọt",
+  "Si La",
+  "chững",
+  "lặp lại",
+  "mí",
+  "nạo vét",
+  "tiêu bản",
+  "cố hương",
+  "xuất đầu lộ diện",
+  "giáng trần",
+  "ngấn",
+  "kute",
+  "hời hợt",
+  "chừ",
+  "coi bói",
+  "cầm quân",
+  "đen kịt",
+  "tép riu",
+  "nhan nhản",
+  "đào vong",
+  "ngất ngây"
+ ],
+ "flags": [
+  {
+   "headword": "ba trợn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ba trợn disparages their character and needs a derogatory warning ([dictionary](https://vi.wiktionary.org/wiki/ba_tr%E1%BB%A3n)).",
+   "fix": "tags: colloquial, derogatory"
+  },
+  {
+   "headword": "cờ tướng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Janggi is called cờ tướng Hàn Quốc, whereas unqualified cờ tướng denotes xiangqi ([reference](https://trithuc.itrithuc.vn/articles/co-tuong-1422.html)).",
+   "fix": "Remove this sense; place it under cờ tướng Hàn Quốc."
+  },
+  {
+   "headword": "cờ tướng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Shogi is called cờ tướng Nhật Bản, whereas unqualified cờ tướng denotes xiangqi ([reference](https://trithuc.itrithuc.vn/articles/co-tuong-1422.html)).",
+   "fix": "Remove this sense; place it under cờ tướng Nhật Bản."
+  },
+  {
+   "headword": "xẩm",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical term instead of using it to refer to someone.",
+   "fix": "Thím xẩm ấy bán chè ở đầu ngõ. = That Chinese woman sells sweet dessert soup at the entrance to the alley."
+  },
+  {
+   "headword": "ngất ngây",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ngất ngây also occurs in everyday expressive language, so literary misleadingly restricts its use ([usage examples](https://dantri.com.vn/tim-kiem/ngon%2Bng%E1%BA%A5t%2Bng%C3%A2y.htm)).",
+   "fix": "Remove the literary tag."
+  }
+ ]
+}

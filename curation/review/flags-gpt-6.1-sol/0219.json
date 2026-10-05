@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "khuây khỏa",
+  "thẩm tra",
+  "bủn xỉn",
+  "gắp",
+  "rộp",
+  "kết giới",
+  "phát ngôn",
+  "niệm",
+  "sơ sài",
+  "chư hầu",
+  "tử nạn",
+  "cấm đoán",
+  "oxi",
+  "quân thù",
+  "oai",
+  "công nghệ sinh học",
+  "dạ con",
+  "muôn đời",
+  "vi trùng",
+  "cá biệt",
+  "kí hiệu",
+  "tạo hình",
+  "chừng mực",
+  "hung hãn",
+  "tạnh",
+  "vũ",
+  "nữ tính",
+  "khoáng sản",
+  "khánh kiệt",
+  "yên lòng",
+  "khích",
+  "vô điều kiện",
+  "trí thức",
+  "khổ cực",
+  "dựa dẫm",
+  "cải bắp",
+  "nông cạn",
+  "chủ công",
+  "chúi",
+  "áo thun"
+ ],
+ "flags": [
+  {
+   "headword": "thẩm tra",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thẩm tra belongs to formal administrative or investigative language and needs a formal tag.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "thẩm tra",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thẩm tra means to investigate or verify, whereas interrogating a suspect is thẩm vấn.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "quân thù",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Quân thù is an elevated literary expression for the enemy in war.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "cá biệt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Learners commonly encounter cá biệt describing pupils with persistent behavioral problems.",
+   "fix": "Add an adjective sense: troublesome; badly behaved (especially of a pupil)."
+  },
+  {
+   "headword": "chừng mực",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Chừng mực commonly functions as an adjective describing restrained or moderate behavior.",
+   "fix": "Add an adjective sense: moderate; restrained, with the example 'Anh ấy nói năng rất chừng mực.' = 'He speaks in a very restrained manner.'"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "headwords": [
+  "tổng cục",
+  "phũ",
+  "chỏ",
+  "mới toanh",
+  "sắc màu",
+  "hớn hở",
+  "tang chứng",
+  "trôi nổi",
+  "nhún nhường",
+  "tiêu chí",
+  "quy ước",
+  "máy bay trực thăng",
+  "khô khan",
+  "tinh dầu",
+  "ăn tiền",
+  "vắn tắt",
+  "đội tuyển",
+  "chuyên mục",
+  "lăng xăng",
+  "vụ lợi",
+  "thẩm du",
+  "quá xá",
+  "giao hợp",
+  "búp",
+  "phân xử",
+  "nhân thọ",
+  "trề",
+  "căn nguyên",
+  "suy diễn",
+  "chân tướng",
+  "ma sát",
+  "trứ danh",
+  "kinh niên",
+  "cung cách",
+  "đu quay",
+  "mệnh hệ",
+  "vũ bão",
+  "tranh tài",
+  "liên hiệp",
+  "sún"
+ ],
+ "flags": [
+  {
+   "headword": "chỏ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "In Southern Vietnamese, chỏ commonly means the elbow itself.",
+   "fix": "noun [Southern] | elbow"
+  },
+  {
+   "headword": "tang chứng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tang chứng specifically means physical evidence of an offence, rather than evidence or proof generally.",
+   "fix": "physical evidence (of an offence)"
+  },
+  {
+   "headword": "ăn tiền",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "A common meaning is to win money through gambling or a wager.",
+   "fix": "verb | to win money (in gambling or a wager)"
+  },
+  {
+   "headword": "thẩm du",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This slang expression for masturbation is vulgar and needs a warning beyond the slang tag.",
+   "fix": [
+    "slang",
+    "vulgar"
+   ]
+  },
+  {
+   "headword": "vũ bão",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example needs như vũ bão; phát triển vũ bão is not natural Vietnamese.",
+   "fix": "Công nghệ đang phát triển như vũ bão. = Technology is developing at breakneck speed."
+  }
+ ]
+}

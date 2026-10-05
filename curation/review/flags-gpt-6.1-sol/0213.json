@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "phản diện",
+  "lưu lạc",
+  "khổ sai",
+  "Phục Hưng",
+  "phục hưng",
+  "phát cuồng",
+  "hóc",
+  "trách móc",
+  "lam",
+  "mì Ý",
+  "nguyên đơn",
+  "chùng",
+  "hồi hương",
+  "biểu thị",
+  "quan ngại",
+  "địa phận",
+  "bước đường",
+  "chữ thập",
+  "làm đẹp",
+  "hát ru",
+  "viễn thông",
+  "rựa",
+  "phượng hoàng",
+  "thô thiển",
+  "khoa học gia",
+  "nằng nặc",
+  "dậm",
+  "thị tộc",
+  "quặng",
+  "rỗi",
+  "úng",
+  "đạo Hồi",
+  "điều dưỡng",
+  "chính kiến",
+  "mắt kính",
+  "trụ trì",
+  "nài",
+  "cảm tính",
+  "cối xay",
+  "rậm rạp"
+ ],
+ "flags": [
+  {
+   "headword": "hóc",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The mechanical sense ‘jammed’ is ordinary usage, as in khóa hóc and súng hóc, rather than rare ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%C3%B3c)).",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "biểu thị",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Biểu thị belongs to formal language, so leaving it untagged encourages unnatural casual usage.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "hát ru",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are most likely to encounter hát ru as the action of singing a lullaby.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "phượng hoàng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the mythical bird instead of showing the word in use.",
+   "fix": "Trên chiếc bình có hình một con phượng hoàng. = There is an image of a fenghuang on the vase."
+  },
+  {
+   "headword": "dậm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common verb meaning ‘to stamp or stomp’, as in dậm chân ([dictionary discussion](https://sachhay24h.com/danh-dam-hay-danh-giam-a4339.html)).",
+   "fix": "verb | to stamp; to stomp; ex: Nó tức giận dậm chân xuống đất. = He stamped his foot on the ground in anger."
+  },
+  {
+   "headword": "mắt kính",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Mắt kính meaning a whole pair of glasses is mainly Southern usage, whereas the lens meaning is not regionally restricted.",
+   "fix": "Separate ‘lens (of glasses)’ without a region tag from ‘glasses’ with the Southern tag."
+  }
+ ]
+}

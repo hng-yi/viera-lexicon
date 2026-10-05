@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "liên đội trưởng",
+  "liêng biêng",
+  "liêu thuộc",
+  "liêu xiêu",
+  "liếp",
+  "liền kề",
+  "liền tay",
+  "liểng xiểng",
+  "liễu yếu đào tơ",
+  "liệt cường",
+  "liệt giường liệt chiếu",
+  "liệt kháng",
+  "liệu cơm gắp mắm",
+  "liệu pháp hành vi nhận thức",
+  "lo buồn",
+  "lo bò trắng răng",
+  "lo phiền",
+  "lo xa",
+  "loan báo",
+  "loang lổ",
+  "loay quay",
+  "loi choi",
+  "lom lom",
+  "long diên hương",
+  "long quyền",
+  "long sòng sọc",
+  "long trời lở đất",
+  "long đong",
+  "loong toong",
+  "lorenxi",
+  "loài kim",
+  "loán",
+  "loát",
+  "loãng xương",
+  "loè",
+  "loè loẹt",
+  "loé",
+  "loại suy",
+  "loại từ",
+  "loại từ vòng gửi xe"
+ ],
+ "flags": [
+  {
+   "headword": "liếp",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The crop-bed meaning is mainly Southern Vietnamese and needs a regional warning ([source](https://baomoi.com/song-nuoc-trong-van-hoa-va-ngon-ngu-phuong-nam-c44867181.epi)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "liệt kháng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the disease instead of showing the word in use.",
+   "fix": "Ông ấy được chẩn đoán mắc bệnh liệt kháng. = He was diagnosed with AIDS."
+  },
+  {
+   "headword": "loát",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Nhiều loát” is not a natural Vietnamese expression; this dated sense occurs in compounds ([source](https://en.wiktionary.org/wiki/lo%C3%A1t)).",
+   "fix": "Remove the example presenting loát as a standalone adjective."
+  }
+ ]
+}

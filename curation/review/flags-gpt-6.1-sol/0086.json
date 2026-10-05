@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "gạo",
+  "sứ",
+  "nở",
+  "dây chuyền",
+  "bất hạnh",
+  "chổi",
+  "quyết tâm",
+  "ranh",
+  "cải thiện",
+  "mỉm",
+  "tham lam",
+  "không quân",
+  "phang",
+  "chị gái",
+  "cành",
+  "kháng sinh",
+  "bánh quy",
+  "nghi",
+  "sắp sửa",
+  "huân chương",
+  "cứng rắn",
+  "há",
+  "cạnh tranh",
+  "tẩu",
+  "diễn văn",
+  "vặt",
+  "nguyên vẹn",
+  "đấu trường",
+  "rủ",
+  "cáo buộc",
+  "khai hỏa",
+  "dơ bẩn",
+  "chóng mặt",
+  "trộn",
+  "trêu",
+  "côn trùng",
+  "ma quỷ",
+  "phụ tá",
+  "đột ngột",
+  "ngoại quốc"
+ ],
+ "flags": [
+  {
+   "headword": "cành",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The slang meaning 'one thousand dong' is mainly Northern and needs a regional label ([dictionary](https://vi.wiktionary.org/wiki/c%C3%A0nh)).",
+   "fix": "Tags: [slang, Northern]."
+  },
+  {
+   "headword": "trộn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Trộn means mixing things together, not turning something upside down; the example confuses mixing soil with overturning it ([dictionary](https://vi.wiktionary.org/wiki/tr%E1%BB%99n)).",
+   "fix": "Remove sense 2 and its example."
+  }
+ ]
+}

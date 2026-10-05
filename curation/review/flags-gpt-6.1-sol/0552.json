@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "quốc sỉ",
+  "quốc thiều",
+  "quốc táng",
+  "quốc tế hoá",
+  "quốc tế hóa",
+  "quốc vụ khanh",
+  "quốc xã hoá",
+  "quốc xã hóa",
+  "quợn",
+  "quỳnh",
+  "quỳnh hương",
+  "quỵ luỵ",
+  "quỵ lụy",
+  "quỷ kế",
+  "quỷ tha ma bắt",
+  "quỹ tích",
+  "qụy luỵ",
+  "qụy lụy",
+  "ra chơi",
+  "ra gì",
+  "ra khơi",
+  "ra khỏi",
+  "ra môn ra khoai",
+  "ra phết",
+  "ra ràng",
+  "ra trận",
+  "ra đa",
+  "ra đi ô",
+  "ranh con",
+  "rau chân vịt",
+  "rau càng cua",
+  "rau cần",
+  "rau củ quả",
+  "rau dớn",
+  "rau muống",
+  "rau mùi",
+  "rau nhút",
+  "rau răm",
+  "rau sam",
+  "rau thối"
+ ],
+ "flags": [
+  {
+   "headword": "ra khỏi",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Ra khỏi” means to leave or get out of somewhere; “to take out of” requires another verb such as “lấy”.",
+   "fix": "to leave; to get out of"
+  },
+  {
+   "headword": "ranh con",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "“Ranh con” is a contemptuous insult toward a child or younger person, as described in [VDict](https://vdict.com/ranh%20con%2C3%2C0%2C0.html).",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "rau mùi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Rau mùi” is mainly the Northern name for coriander, as confirmed by [Sức khỏe & Đời sống](https://suckhoedoisong.vn/rau-mui-de-phong-chua-benh-16935547.htm).",
+   "fix": "[Northern]"
+  },
+  {
+   "headword": "rau nhút",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Rau nhút” is mainly the Southern name for this vegetable, as confirmed by [VnExpress](https://vnexpress.net/canh-bun-hai-mien-4065320.html).",
+   "fix": "[Southern]"
+  }
+ ]
+}

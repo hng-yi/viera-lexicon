@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bít",
+  "copy",
+  "phê chuẩn",
+  "hang ổ",
+  "Mễ",
+  "đũa",
+  "công phu",
+  "lỗi thời",
+  "chủ thể",
+  "mê hoặc",
+  "bộ nhớ",
+  "tiểu đoàn",
+  "chủ động",
+  "ngạo mạn",
+  "la bàn",
+  "chao",
+  "Thụy Điển",
+  "trú",
+  "tuyệt mật",
+  "chi nhánh",
+  "siêu phàm",
+  "vấn",
+  "hiểm họa",
+  "tạp hóa",
+  "phá bỏ",
+  "giải lao",
+  "cử chỉ",
+  "vệt",
+  "đáp án",
+  "nguyên mẫu",
+  "hiệp định",
+  "xém",
+  "dinh thự",
+  "tôn vinh",
+  "quá cố",
+  "thánh giá",
+  "mai phục",
+  "hào",
+  "file",
+  "vấy"
+ ],
+ "flags": [
+  {
+   "headword": "chủ thể",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This abstract sense belongs to formal or academic language and needs a register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tiểu đoàn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the size of a battalion instead of showing the word in a practical context.",
+   "fix": "Tiểu đoàn được lệnh tiến về phía bắc. = The battalion was ordered to advance north."
+  },
+  {
+   "headword": "xém",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This meaning is chiefly Southern Vietnamese, as documented by [Nghệ Ngữ](https://nghengu.vn/tieng-nghe-cua-toi/xem-hay-sem-1559.html), but has no region tag.",
+   "fix": "Use the tags colloquial, Southern."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "vật đen",
+  "vật đổi sao dời",
+  "vắc-xin",
+  "vắng chủ nhà, gà vọc niêu tôm",
+  "vắng hoe",
+  "vắng mợ chợ vẫn đông",
+  "vắng như chùa Bà Đanh",
+  "vắt chanh bỏ vỏ",
+  "vắt chân chữ ngũ",
+  "vắt sữa",
+  "vằng",
+  "vặc",
+  "vẹm",
+  "vẹn toàn",
+  "vẹo vọ",
+  "vẽ kiểu",
+  "vế câu",
+  "vết bẩn",
+  "vết xe đổ",
+  "vết xước",
+  "về già",
+  "về hưu",
+  "về hướng",
+  "về phe",
+  "về phía",
+  "vện vàng",
+  "vị kỉ",
+  "vị lai",
+  "vị lợi",
+  "vị ngã",
+  "vị ngữ",
+  "vị tinh",
+  "vị trí cấu âm",
+  "vị tất",
+  "vịm",
+  "vịt bầu",
+  "vịt giời",
+  "vịt trời",
+  "vịt xiêm",
+  "vọ"
+ ],
+ "flags": [
+  {
+   "headword": "vắt sữa",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The sexual meaning explicitly included in the gloss lacks a vulgar warning tag.",
+   "fix": "Keep the milking meaning untagged and put 'to masturbate a man' in a separate sense tagged [slang, vulgar]."
+  },
+  {
+   "headword": "vằng",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "This verb describes a buffalo swinging its head, so the example incorrectly teaches its use for a child ([Wiktionary](https://en.wiktionary.org/wiki/vằng)).",
+   "fix": "Con trâu vằng đầu. = The buffalo swings its head from side to side."
+  },
+  {
+   "headword": "vẹo vọ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Untidy' wrongly suggests general messiness, whereas the word describes a crooked or uneven shape ([dictionary](https://loigiaihay.com/tu-dien-tv/veo-vo-eUMYqDmvrXcwU.html)).",
+   "fix": "crooked; lopsided"
+  }
+ ]
+}

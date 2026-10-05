@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "dầu gió",
+  "xá",
+  "suôn",
+  "hồi lưu",
+  "vùng biên",
+  "xoàn",
+  "thụng",
+  "thói thường",
+  "hư ảo",
+  "khả ố",
+  "âm học",
+  "hưởng lạc",
+  "ngỏ ý",
+  "đa dạng hóa",
+  "đĩa đệm",
+  "chữ nhật",
+  "kẻng",
+  "dị tính",
+  "rau bina",
+  "phàm ăn",
+  "nhụt",
+  "xí xóa",
+  "ca kịch",
+  "koala",
+  "luật rừng",
+  "ship",
+  "cườm",
+  "vô luân",
+  "mười ba",
+  "chi hội",
+  "noãn",
+  "cơm sườn",
+  "dưỡng sinh",
+  "lanh lẹ",
+  "đằm thắm",
+  "cầm hơi",
+  "đấu kiếm",
+  "tính trội",
+  "âm sắc",
+  "nghẹt mũi"
+ ],
+ "flags": [
+  {
+   "headword": "cườm",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cườm nước is mainly a Southern name for glaucoma, but the sense has no regional tag.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "cườm",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cườm khô is mainly a Southern name for cataract, but the sense has no regional tag.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "cơm sườn",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This mocking name for communists is derogatory, which the existing tags do not warn the learner about.",
+   "fix": "Add derogatory."
+  }
+ ]
+}

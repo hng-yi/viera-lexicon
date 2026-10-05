@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "sáng mắt",
+  "gặt hái",
+  "nghị định",
+  "méo",
+  "vượn cáo",
+  "chấy rận",
+  "tulip",
+  "nhâm nhi",
+  "Nam Tư",
+  "ám thị",
+  "một mực",
+  "kĩ thuật viên",
+  "nan y",
+  "nhà khách",
+  "dài dòng",
+  "mậu dịch",
+  "dẫn điện",
+  "lãng nhân",
+  "điện tâm đồ",
+  "tẩy chay",
+  "cay cú",
+  "lẻ tẻ",
+  "cũ mèm",
+  "đắn đo",
+  "kết nghĩa",
+  "riết",
+  "hữu hiệu",
+  "phản đòn",
+  "phập phồng",
+  "sai phạm",
+  "chiếu cố",
+  "vểnh",
+  "truyền nhân",
+  "thiên cung",
+  "khổ thân",
+  "sức lao động",
+  "xát",
+  "quắt",
+  "tự phụ",
+  "nhanh nhạy"
+ ],
+ "flags": [
+  {
+   "headword": "méo",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The conventional word for a cat's cry is meo, not méo ([dictionary](https://www.thuvienlamdong.org.vn/Files/Books/53119.pdf)).",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "dẫn điện",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Dẫn điện means to conduct electricity; khả năng supplies the meaning of ability or capacity in the example.",
+   "fix": "Remove sense 2; electrical conductivity is tính dẫn điện or độ dẫn điện."
+  },
+  {
+   "headword": "phập phồng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of feeling anxious or apprehensive ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ph%E1%BA%ADp%20ph%E1%BB%93ng)).",
+   "fix": "Add: adj | anxious; apprehensive. Example: Cô ấy phập phồng lo sợ bị phát hiện. = She was anxious about being discovered."
+  },
+  {
+   "headword": "sai phạm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Sai phạm does not naturally take nhiều quy định as a direct object in this sentence.",
+   "fix": "Công ty đã sai phạm trong việc thực hiện các quy định về an toàn. = The company committed violations in implementing the safety regulations."
+  },
+  {
+   "headword": "sai phạm",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are most likely to encounter sai phạm as a noun meaning violation or wrongdoing.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

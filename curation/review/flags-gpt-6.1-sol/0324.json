@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "trắc trở",
+  "chiếu sáng",
+  "ngách",
+  "hàng trắng",
+  "đánh tiếng",
+  "nhọc nhằn",
+  "lèo lái",
+  "bị can",
+  "khai hóa",
+  "thậm tệ",
+  "đỡ đần",
+  "choai",
+  "ngoại cảnh",
+  "giết người",
+  "chửi thề",
+  "Xiêm",
+  "xiêm",
+  "đa thức",
+  "ham hố",
+  "truy nguyên",
+  "số chẵn",
+  "căm",
+  "tủi thân",
+  "kính cận",
+  "dáng dấp",
+  "vuông góc",
+  "uyên thâm",
+  "nhu thuật",
+  "loăng quăng",
+  "dạ khúc",
+  "ác đấu",
+  "dõng dạc",
+  "hậu sự",
+  "hùng tráng",
+  "sông ngòi",
+  "bập bênh",
+  "xí hổ",
+  "nông trường",
+  "bập",
+  "phụ cận"
+ ],
+ "flags": [
+  {
+   "headword": "ngách",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The alley sense is mainly Northern usage ([regional vocabulary reference](https://scr.vn/tieng-mien-bac.html)).",
+   "fix": "tags: [Northern]"
+  },
+  {
+   "headword": "Xiêm",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The dated tag incorrectly covers current breed usage such as mèo Xiêm ([current usage](https://mochicat.vn/cac-giong-meo-ba-tu/)).",
+   "fix": "Apply dated only to the country reference, not to Siamese breed names."
+  },
+  {
+   "headword": "bập",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The noun means a plant's leaf sheath, not a knife sheath ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%ADp)).",
+   "fix": "leaf sheath (of a plant)"
+  },
+  {
+   "headword": "bập",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses bập for a knife sheath ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%ADp)).",
+   "fix": "Một bập dừa trôi trên sông. = A coconut leaf sheath floated on the river."
+  },
+  {
+   "headword": "phụ cận",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Phụ cận is formal wording primarily used in written descriptions and administrative contexts ([dictionary](https://loigiaihay.com/tu-dien-tv/phu-can-euJSxbTOskfU6.html)).",
+   "fix": "tags: [formal]"
+  }
+ ]
+}

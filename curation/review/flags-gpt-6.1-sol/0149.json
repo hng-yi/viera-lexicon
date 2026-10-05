@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "may ra",
+  "chẳng qua",
+  "giám thị",
+  "thôi miên",
+  "đay",
+  "trờ",
+  "cứu chữa",
+  "phim ảnh",
+  "thất thường",
+  "học viên",
+  "ẩn danh",
+  "nhân tình",
+  "bạt",
+  "đều đặn",
+  "thiết",
+  "tập huấn",
+  "sải",
+  "tiết mục",
+  "xua",
+  "bò sát",
+  "dẫu",
+  "lụi",
+  "né tránh",
+  "than khóc",
+  "hư cấu",
+  "điểm danh",
+  "bưu thiếp",
+  "ủ",
+  "thuật",
+  "ngố",
+  "bao la",
+  "hoán đổi",
+  "tàn khốc",
+  "teo",
+  "miền Nam",
+  "hậu thuẫn",
+  "xưng",
+  "dòng điện",
+  "hải quan",
+  "kiệt tác"
+ ],
+ "flags": [
+  {
+   "headword": "giám thị",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common school role of supervising students and enforcing discipline outside examinations.",
+   "fix": "school supervisor responsible for student discipline"
+  },
+  {
+   "headword": "thôi miên",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The phrase “thôi miên một khán giả lên sân khấu” does not naturally express hypnotising an audience member on stage.",
+   "fix": "Nhà ảo thuật thôi miên một khán giả trên sân khấu. = The magician hypnotised a member of the audience on stage."
+  },
+  {
+   "headword": "thuật",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common verb meaning to recount or relate something.",
+   "fix": "verb | to recount; to relate; to tell"
+  },
+  {
+   "headword": "xưng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Mình xưng nhau bằng chị em đi” is not a natural way to propose using chị and em to address each other.",
+   "fix": "Mình xưng hô chị em với nhau đi. = Let's address each other as chị and em."
+  }
+ ]
+}

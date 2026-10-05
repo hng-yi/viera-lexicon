@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "Hung Nô",
+  "ùn tắc",
+  "biến dị",
+  "Tiều",
+  "nhẫn nhịn",
+  "công ăn việc làm",
+  "giải thể",
+  "thánh tích",
+  "lãng khách",
+  "bộ hành",
+  "ré",
+  "trợ giảng",
+  "bảo lưu",
+  "tỉnh ngộ",
+  "chặc",
+  "nhiệt lượng",
+  "niên giám",
+  "chòng chọc",
+  "đánh đố",
+  "bồi hoàn",
+  "hội đàm",
+  "khiếp đảm",
+  "thời thượng",
+  "cha đẻ",
+  "nhất quán",
+  "vi diệu",
+  "công chứng",
+  "công ti",
+  "xì xào",
+  "biệt tích",
+  "cải biến",
+  "xép",
+  "chính ủy",
+  "lâm thời",
+  "tiếp giáp",
+  "bộ môn",
+  "dân dụng",
+  "ngụy tạo",
+  "truyền thanh",
+  "huyết mạch"
+ ],
+ "flags": [
+  {
+   "headword": "ùn tắc",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Northern tag incorrectly restricts a word widely used nationwide, including in [Southern reporting](https://thanhnien.vn/danh-sach-22-diem-co-nguy-co-un-tac-giao-thong-o-tphcm-1852601300924196.htm).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "ùn tắc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ùn tắc is ordinary vocabulary for traffic congestion and is appropriate in everyday conversation.",
+   "fix": "Remove formal."
+  },
+  {
+   "headword": "Tiều",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Tiều is predominantly a Southern Vietnamese name for Teochew people and their language.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "bộ hành",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Người bộ hành belongs to formal or literary usage and would sound unusually bookish in casual conversation.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "xép",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The noun denotes a small coastal inlet or bay, rather than a shelter or shed ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%A9p)).",
+   "fix": "small inlet; small bay"
+  },
+  {
+   "headword": "xép",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example treats xép as a shelter on land, whereas its noun meaning is a small inlet ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%A9p)).",
+   "fix": "Thuyền đi vào xép để tránh gió. = The boat entered the small inlet to shelter from the wind."
+  },
+  {
+   "headword": "dân dụng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common household or domestic-use meaning found in expressions such as điện dân dụng and thiết bị dân dụng.",
+   "fix": "adj | domestic; for household use — ex: Cửa hàng bán thiết bị điện dân dụng. = The shop sells household electrical equipment."
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "cầu cạnh",
+  "cầu dao",
+  "cầu hoà",
+  "cầu hòa",
+  "cầu khiến",
+  "cầu khuẩn",
+  "cầu khỉ",
+  "cầu mây",
+  "cầu não",
+  "cầu siêu",
+  "cầu sung vừa đủ xài",
+  "cầu thị",
+  "cầu toàn",
+  "cầu trượt",
+  "cầu tuột",
+  "cầu vai",
+  "cầu được ước thấy",
+  "cầy hương",
+  "cẩm bào",
+  "cẩn cáo",
+  "cẩn tắc vô ưu, vô áy náy",
+  "cẩu huyết",
+  "cẩu tặc",
+  "cận huyết",
+  "cận lâm sàng",
+  "cận sử",
+  "cập nhật hoá",
+  "cập rập",
+  "cập vật",
+  "cậu nhỏ",
+  "cậu ấm",
+  "cậy cục",
+  "cắc củm",
+  "cắc kè",
+  "cắm cúi",
+  "cắm sừng",
+  "cắng",
+  "cắt bao",
+  "cắt dán",
+  "cắt lượt"
+ ],
+ "flags": [
+  {
+   "headword": "cầu khiến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an imperative sentence instead of showing the adjective in use.",
+   "fix": "Cô giáo yêu cầu mỗi học sinh viết hai câu cầu khiến. = The teacher asked each student to write two imperative sentences."
+  },
+  {
+   "headword": "cầu khuẩn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what cocci are instead of using the word in context.",
+   "fix": "Mẫu bệnh phẩm có chứa cầu khuẩn. = The specimen contains cocci."
+  },
+  {
+   "headword": "cầu não",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the pons instead of showing the word in use.",
+   "fix": "Khối u nằm ở cầu não. = The tumour is located in the pons."
+  },
+  {
+   "headword": "cầu sung vừa đủ xài",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The phrase expresses a wish through a fruit-name pun rather than naming the act of offering fruit, as illustrated by [Tuổi Trẻ](https://tuoitre.vn/cach-lam-mut-sung-cho-mot-nam-cau-sung-vua-du-xai-20191215150826525.htm).",
+   "fix": "a Tết wish for prosperity and enough to spend, expressed through a pun on five fruit names"
+  },
+  {
+   "headword": "cầu tuột",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cầu tuột is mainly Southern usage and needs a regional label.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "cẩn cáo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cẩn cáo means respectfully announcing or submitting something, often as a ritual closing formula, rather than simply 'respectfully', according to [Ngày ngày viết chữ](https://ngayngayvietchu.com/giai-nghia-tu-han-viet-trong-tieng-viet-phan-1/).",
+   "fix": "respectfully submitted (a closing formula in ritual prayers or funeral addresses)"
+  },
+  {
+   "headword": "cẩn cáo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example mentions the formula instead of demonstrating its use.",
+   "fix": "Nay kính dâng lễ vật, cúi xin chứng giám. Cẩn cáo. = We now respectfully present these offerings and humbly ask you to bear witness. Respectfully submitted."
+  },
+  {
+   "headword": "cập vật",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains a grammatical classification instead of showing the word in use.",
+   "fix": "Thầy yêu cầu chúng tôi tìm năm động từ cập vật trong đoạn văn. = The teacher asked us to find five transitive verbs in the passage."
+  },
+  {
+   "headword": "cậu nhỏ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The euphemism applies to adult men as well as boys, as reflected in [Wiktionary](https://en.wiktionary.org/wiki/cậu_nhỏ).",
+   "fix": "penis (euphemism)"
+  },
+  {
+   "headword": "cậu ấm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical title instead of using it to refer to someone.",
+   "fix": "Cậu ấm được hai người hầu đưa đến trường. = The mandarin's son was escorted to school by two servants."
+  }
+ ]
+}

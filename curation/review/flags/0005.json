@@ -1,0 +1,101 @@
+{
+ "headwords": [
+  "giết",
+  "lần",
+  "sự",
+  "theo",
+  "hai",
+  "hiểu",
+  "ngày",
+  "lúc",
+  "cách",
+  "chào",
+  "hả",
+  "hết",
+  "khỏi",
+  "gọi",
+  "nhất",
+  "giúp",
+  "năm",
+  "sống",
+  "thích",
+  "mất",
+  "nhé",
+  "chắc",
+  "xin",
+  "cứ",
+  "xuống",
+  "nhau",
+  "tại sao",
+  "vâng",
+  "từng",
+  "bao giờ",
+  "mấy",
+  "thằng",
+  "cùng",
+  "thưa",
+  "ngoài",
+  "bây giờ",
+  "chỗ",
+  "bỏ",
+  "nơi",
+  "ngươi"
+ ],
+ "flags": [
+  {
+   "headword": "hả",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word for 'to open (one's mouth)' is 'há', not 'hả'.",
+   "fix": "Remove this sense or change the headword to 'há'."
+  },
+  {
+   "headword": "chắc",
+   "sense": 9,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word for 'each other' in this context is 'chác', not 'chắc'.",
+   "fix": "Remove this sense or change the headword to 'chác'."
+  },
+  {
+   "headword": "bỏ",
+   "sense": 7,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word for 'godfather' is 'bố' (as in 'bố đỡ đầu'), not 'bỏ'.",
+   "fix": "Remove this sense or change the headword to 'bố'."
+  },
+  {
+   "headword": "ngươi",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "'Ngươi' is a pronoun, not a particle, and this is the same meaning as sense 1.",
+   "fix": "Remove this sense or change the part of speech to pronoun and merge with sense 1."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 6287,
+  "completion_tokens": 4740,
+  "total_tokens": 11027,
+  "cost": 0.00807904,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00807904,
+   "upstream_inference_prompt_cost": 0.00201184,
+   "upstream_inference_completions_cost": 0.0060672
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 4433,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ }
+}

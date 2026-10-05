@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "băng keo",
+  "phiếm",
+  "võng",
+  "dìu",
+  "cộng sinh",
+  "kí sinh",
+  "ché",
+  "tiếp sức",
+  "nhích",
+  "người lùn",
+  "chẵn",
+  "ruột thịt",
+  "mít",
+  "luân hồi",
+  "bánh vòng",
+  "hôn ước",
+  "cắm đầu",
+  "xuyên tạc",
+  "khẩn cầu",
+  "thảnh thơi",
+  "mùa màng",
+  "sán dây",
+  "tiêu xài",
+  "trằn trọc",
+  "sống nhăn",
+  "cổ động viên",
+  "nhạt nhẽo",
+  "xoang",
+  "phái đoàn",
+  "nhớ đời",
+  "thi hài",
+  "nhang",
+  "phân định",
+  "miền Đông",
+  "sữa chua",
+  "ngượng ngùng",
+  "Đông phương",
+  "tuyệt trần",
+  "khập khiễng",
+  "chắp vá"
+ ],
+ "flags": [
+  {
+   "headword": "chẵn",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tiền chẵn has no fixed 20,000-dong threshold, and smaller denominations can qualify ([example](https://www.toaan.gov.vn/webcenter/ShowProperty?nodeId=%2FUCMServer%2FTAND096770)).",
+   "fix": "large-denomination notes, as opposed to small change (relative to the transaction)"
+  },
+  {
+   "headword": "xoang",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The tune or melody sense is not restricted to traditional folk dances ([dictionary](https://vtudien.com/viet-lao/dictionary/nghia-cua-tu-xoang)).",
+   "fix": "tune; melody"
+  },
+  {
+   "headword": "xoang",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The musical sense is literary and old-fashioned, which the rare tag alone does not convey ([dictionary](https://loigiaihay.com/tu-dien-tv/xoang-ewoEDE3xES3IZ.html)).",
+   "fix": "[dated, literary]"
+  }
+ ]
+}

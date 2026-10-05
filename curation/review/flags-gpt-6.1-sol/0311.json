@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "khắm",
+  "sụt sịt",
+  "bộ tứ",
+  "cứu tế",
+  "Nam Triều Tiên",
+  "thẹn thùng",
+  "cáng đáng",
+  "xe gắn máy",
+  "cùng hội cùng thuyền",
+  "kính ngữ",
+  "châm chước",
+  "dấu chấm",
+  "chằm",
+  "xuất trận",
+  "muôi",
+  "vô kể",
+  "liên danh",
+  "đại cương",
+  "quết",
+  "cố nhân",
+  "đõ",
+  "nữ tướng",
+  "miến",
+  "lập quốc",
+  "tổ trưởng",
+  "bóc tem",
+  "ác tâm",
+  "truy vấn",
+  "hàng hóa",
+  "phòng ốc",
+  "lo toan",
+  "đương thời",
+  "nhặng xị",
+  "tịnh tâm",
+  "dân lập",
+  "máu lửa",
+  "tiên quyết",
+  "đơm",
+  "kết trái",
+  "thương mến"
+ ],
+ "flags": [
+  {
+   "headword": "Nam Triều Tiên",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nam Triều Tiên is a dated name for the country South Korea, rather than a word meaning South Korean.",
+   "fix": "noun [dated] | South Korea"
+  },
+  {
+   "headword": "bóc tem",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The sexual use refers to having sex with a virgin, rather than losing one's own virginity, as illustrated by the passive construction in this [usage discussion](https://vntqn.wordpress.com/2007/07/30/bc-tem/).",
+   "fix": "to have sex with someone who is a virgin"
+  },
+  {
+   "headword": "bóc tem",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The speaker says he wants to have sex with a virgin, while the translation says he wants to lose his own virginity.",
+   "fix": "That guy is so lucky! I've got to have sex with a virgin this summer too!"
+  },
+  {
+   "headword": "bóc tem",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sexual expression crudely treats a person's virginity as a seal to remove, so slang alone does not adequately warn the learner.",
+   "fix": "[slang, vulgar]"
+  },
+  {
+   "headword": "máu lửa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common everyday adjective meaning passionate or enthusiastic is missing, as illustrated by this [workplace usage](https://www.beemart.vn/tinh-than-nhiet-huyet-va-mau-lua-trong-van-hoa-beemart).",
+   "fix": "Add as the first meaning: adj [informal] | passionate; enthusiastic; fired up. Example: Đội mình chơi rất máu lửa. = Our team plays with great passion."
+  },
+  {
+   "headword": "đơm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The familiar meaning to produce flowers or new leaves is missing, although it is recorded in this [dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91%C6%A1m).",
+   "fix": "Add: verb | to put forth (flowers or new leaves). Example: Cây đã bắt đầu đơm hoa. = The tree has started to flower."
+  }
+ ]
+}

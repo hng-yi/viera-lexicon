@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "trí",
+  "vòi",
+  "trinh sát",
+  "đùi",
+  "quấy rối",
+  "huyết thanh",
+  "chứng",
+  "quảng trường",
+  "màu sắc",
+  "giao nộp",
+  "nghề nghiệp",
+  "bóng đá",
+  "quen thuộc",
+  "cụt",
+  "họp báo",
+  "mợ",
+  "lẽ",
+  "nhựa",
+  "hiện thực",
+  "kỉ niệm",
+  "thẩm quyền",
+  "hiện tượng",
+  "đực",
+  "giảng",
+  "lộng lẫy",
+  "đội hình",
+  "trú ẩn",
+  "trút",
+  "lập dị",
+  "biện hộ",
+  "trang web",
+  "cắp",
+  "tố cáo",
+  "trái cây",
+  "hào phóng",
+  "lọt",
+  "nhảy múa",
+  "xen",
+  "suối",
+  "đất đai"
+ ],
+ "flags": [
+  {
+   "headword": "trút",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word instead of using it to refer to an animal.",
+   "fix": "Con trút cuộn mình lại khi gặp nguy hiểm. = The pangolin curls up when it encounters danger."
+  },
+  {
+   "headword": "biện hộ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common everyday meaning of defending or justifying someone's actions outside court.",
+   "fix": "verb | to defend; to justify (someone's actions) — Đừng biện hộ cho hành động của anh ấy. = Don't justify his actions."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "mê",
+  "chốt",
+  "hỡi",
+  "hổ",
+  "hộ chiếu",
+  "ảo giác",
+  "lố bịch",
+  "đơn độc",
+  "công bố",
+  "kì",
+  "huynh đệ",
+  "hoàng thượng",
+  "đồng phục",
+  "bệnh hoạn",
+  "yên tâm",
+  "đô la",
+  "nhổ",
+  "gia tộc",
+  "đích thực",
+  "thủy thủ",
+  "mô tả",
+  "bút",
+  "kích thích",
+  "xấu xí",
+  "công khai",
+  "trung thực",
+  "lồng",
+  "vô hiệu",
+  "trồng",
+  "tham dự",
+  "vợ chồng",
+  "cá mập",
+  "vĩnh viễn",
+  "hộ tống",
+  "hi sinh",
+  "quen biết",
+  "dò",
+  "giới",
+  "củ",
+  "nhắc nhở"
+ ],
+ "flags": [
+  {
+   "headword": "kì",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Kì đến ngày gặp lại” is not a natural Vietnamese farewell; the attested construction expresses persistence toward a result, as in [“làm cho kì được”](https://vi.wiktionary.org/wiki/k%C3%AC).",
+   "fix": "Tôi sẽ làm cho kì được. = I will keep trying until I succeed."
+  },
+  {
+   "headword": "kì",
+   "sense": 7,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Thuế từ vùng kì được nộp về kinh đô. = Taxes from the territory around the capital were remitted to the capital."
+  },
+  {
+   "headword": "kích thích",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Vị giác” means the sense of taste, whereas the translation incorrectly says appetite.",
+   "fix": "The aroma of the dish stimulates the sense of taste."
+  },
+  {
+   "headword": "lồng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Lồng” means a cage without requiring it to be round.",
+   "fix": "cage (e.g. for a bird)"
+  }
+ ]
+}

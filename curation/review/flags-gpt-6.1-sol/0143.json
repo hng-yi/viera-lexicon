@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "lội",
+  "tiểu tử",
+  "thật thà",
+  "tử cung",
+  "tre",
+  "chặn đứng",
+  "bệnh án",
+  "cãi vã",
+  "suy ngẫm",
+  "cứu trợ",
+  "ca ngợi",
+  "rơm",
+  "khay",
+  "đẩy lùi",
+  "nhỏ nhặt",
+  "sám hối",
+  "bán đấu giá",
+  "hơi nước",
+  "xã hội đen",
+  "liệt kê",
+  "bàn cãi",
+  "phá án",
+  "phỏng đoán",
+  "tơ",
+  "thập kỉ",
+  "thấu hiểu",
+  "anh dũng",
+  "Tin Lành",
+  "láu",
+  "đại khái",
+  "trớ trêu",
+  "bục",
+  "mềm mại",
+  "mười lăm",
+  "vơi",
+  "giò",
+  "báo hiệu",
+  "ẩu đả",
+  "protein",
+  "chiếm đóng"
+ ],
+ "flags": [
+  {
+   "headword": "tiểu tử",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The scornful sense meaning 'brat' needs a derogatory warning because it can insult the person addressed.",
+   "fix": "[uncommon, literary, derogatory]"
+  },
+  {
+   "headword": "tiểu tử",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This term belongs mainly to literary dialogue, especially historical and martial-arts fiction, rather than ordinary casual speech.",
+   "fix": "[uncommon, literary, derogatory]"
+  },
+  {
+   "headword": "láu",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese says the boy knows how to speak cleverly in any situation, without saying he talks his way out of trouble.",
+   "fix": "The boy is very sly; whatever the situation, he knows how to choose his words cleverly."
+  }
+ ]
+}

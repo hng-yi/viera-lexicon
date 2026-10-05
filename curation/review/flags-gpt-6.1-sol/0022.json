@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "em gái",
+  "nghiên cứu",
+  "nhắn",
+  "an ninh",
+  "anh chàng",
+  "khốn kiếp",
+  "thị trấn",
+  "ừm",
+  "danh sách",
+  "chậm",
+  "sông",
+  "pháp",
+  "chiều",
+  "đất nước",
+  "nghiêm túc",
+  "dễ thương",
+  "tặng",
+  "nguồn",
+  "chiến thắng",
+  "tí",
+  "tồi tệ",
+  "kêu",
+  "ngọn",
+  "điều khiển",
+  "thức ăn",
+  "chạm",
+  "thực ra",
+  "đoạn",
+  "lưng",
+  "đốt",
+  "hoàn thành",
+  "đôi khi",
+  "sạch",
+  "cổng",
+  "đức",
+  "một vài",
+  "phản bội",
+  "thăm",
+  "ghi",
+  "giấc"
+ ],
+ "flags": [
+  {
+   "headword": "khốn kiếp",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The adjective is still used today and is not archaic.",
+   "fix": "Remove archaic."
+  },
+  {
+   "headword": "khốn kiếp",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The adjective is a coarse expression of contempt or anger and needs a warning even when describing a life.",
+   "fix": "Add offensive and vulgar."
+  },
+  {
+   "headword": "khốn kiếp",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khốn kiếp is not a noun meaning misery or distress, and the example does not sound natural.",
+   "fix": "Delete this sense."
+  },
+  {
+   "headword": "ừm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ừm does not mean no; in the example, không supplies the negative answer.",
+   "fix": "Delete this sense."
+  },
+  {
+   "headword": "chiều",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Chiều also covers the early afternoon, so the parenthetical incorrectly restricts its meaning.",
+   "fix": "afternoon; early evening"
+  },
+  {
+   "headword": "kêu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common everyday meaning of complaining is missing.",
+   "fix": "Add a verb sense: to complain; example: Đừng kêu nữa. = Stop complaining."
+  }
+ ]
+}

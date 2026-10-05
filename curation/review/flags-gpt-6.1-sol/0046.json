@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đòi hỏi",
+  "hành trình",
+  "tồi",
+  "ví dụ",
+  "tài năng",
+  "đại loại",
+  "ha",
+  "lịch",
+  "bóp",
+  "riêng tư",
+  "ám sát",
+  "phát biểu",
+  "sơn",
+  "đột nhiên",
+  "xếp",
+  "giáo viên",
+  "nhịp",
+  "truy cập",
+  "treo cổ",
+  "bộ trưởng",
+  "bánh mì",
+  "âm mưu",
+  "cơm",
+  "hải quân",
+  "tốt nghiệp",
+  "xe buýt",
+  "sốc",
+  "gương",
+  "đạo đức",
+  "tượng",
+  "trùm",
+  "thối",
+  "lãng phí",
+  "bự",
+  "đồng minh",
+  "kiên nhẫn",
+  "nộp",
+  "thiêu",
+  "hậu quả",
+  "câu lạc bộ"
+ ],
+ "flags": [
+  {
+   "headword": "tài năng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjective meaning “talented,” as in “Cô ấy rất tài năng,” is missing ([dictionary](https://tudientiengviet.org/tai-nang/)).",
+   "fix": "adj | talented; gifted\nex: Cô ấy rất tài năng. = She is very talented."
+  },
+  {
+   "headword": "lãng phí",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday adjective meaning “wasteful” is missing ([dictionary](https://vdict.com/l%C3%A3ng%20ph%C3%AD%2C2%2C0%2C0.html)).",
+   "fix": "adj | wasteful\nex: Mua rồi không dùng thì lãng phí quá. = Buying it and then not using it is so wasteful."
+  },
+  {
+   "headword": "sốc",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Tin đó đã sốc cả nhà tôi” unnaturally uses “sốc” directly with the people affected as its object.",
+   "fix": "Tin đó làm cả nhà tôi sốc. = That news shocked my whole family."
+  }
+ ]
+}

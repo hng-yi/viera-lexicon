@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "cách điệu",
+  "cách đây",
+  "cái búa",
+  "cái con khỉ",
+  "cái gai trong mắt",
+  "cái ghẻ",
+  "cái gì",
+  "cái gọi là",
+  "cái lồn gì thế?",
+  "cái ngàn vàng",
+  "cái này",
+  "cái này là gì",
+  "cái nết đánh chết cái đẹp",
+  "cái răng cái tóc là góc con người",
+  "cái rốn của vũ trụ",
+  "cái tôi",
+  "cám cảnh",
+  "cám hấp",
+  "cám ơn rất nhiều",
+  "cánh cam",
+  "cánh kiến đỏ",
+  "cáo bạch",
+  "cáo chung",
+  "cáo chết ba năm quay đầu về núi",
+  "cáo giác",
+  "cáo mượn oai hùm",
+  "cáp treo",
+  "cát cánh",
+  "cát dầu",
+  "cát hung",
+  "cát kết",
+  "cát tuyến",
+  "cát tặc",
+  "cát đằng",
+  "cát-ca-đơ",
+  "cát-xê",
+  "cáu ghét",
+  "cáu tiết",
+  "cân chìm",
+  "cân nặng"
+ ],
+ "flags": [
+  {
+   "headword": "cái búa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the ordinary, very common meaning 'hammer'.",
+   "fix": "Add as the first meaning: noun | hammer; example: Tôi dùng cái búa để đóng đinh. = I used the hammer to drive in a nail."
+  },
+  {
+   "headword": "cát kết",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines sandstone instead of showing the word in use.",
+   "fix": "Vách núi này chủ yếu gồm cát kết. = This cliff consists mainly of sandstone."
+  },
+  {
+   "headword": "cát tuyến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a secant instead of showing the word in use.",
+   "fix": "Hãy vẽ một cát tuyến đi qua điểm A. = Draw a secant through point A."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "vườn không nhà trống",
+  "vườn rau",
+  "vườn thượng uyển",
+  "vườn trẻ",
+  "vượn người",
+  "vạ",
+  "vạ lây",
+  "vạch lá tìm sâu",
+  "vạch ngang",
+  "vạch áo cho người xem lưng",
+  "vạn bất đắc dĩ",
+  "vạn chài",
+  "vạn hạnh",
+  "vạn quốc",
+  "vạn sự",
+  "vạn sự khởi đầu nan",
+  "vạn sự như ý",
+  "vạn thặng",
+  "vạn vật hấp dẫn",
+  "vạn vật học",
+  "vả chăng",
+  "vải dù",
+  "vấn vương",
+  "vấn đáp",
+  "vấp váp",
+  "vầu",
+  "vẫn còn",
+  "vẫn thạch",
+  "vận mệnh hiển nhiên",
+  "vận động trường",
+  "vật chất tối",
+  "vật cưng",
+  "vật dục",
+  "vật học",
+  "vật lí cổ điển",
+  "vật lí hoá học",
+  "vật lí hóa học",
+  "vật lí học",
+  "vật tổ",
+  "vật tự thể"
+ ],
+ "flags": [
+  {
+   "headword": "vượn người",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss conflates apes with an ape-like human ancestor, which is người vượn ([dictionary](https://loigiaihay.com/tu-dien-tv/vuon-nguoi-eIYxeb7jVr6hl.html)).",
+   "fix": "ape; hominoid"
+  },
+  {
+   "headword": "vận động trường",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old term for a stadium, so the untagged entry misleadingly presents it as current everyday vocabulary.",
+   "fix": "[dated]"
+  },
+  {
+   "headword": "vật lí học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines physics instead of showing the word in use.",
+   "fix": "Cô ấy muốn nghiên cứu vật lí học. = She wants to study physics."
+  },
+  {
+   "headword": "vật tự thể",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the philosophical term instead of showing it in use.",
+   "fix": "Chúng tôi đang thảo luận về khái niệm vật tự thể của Kant. = We are discussing Kant's concept of the thing-in-itself."
+  }
+ ]
+}

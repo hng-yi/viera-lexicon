@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "tệ bạc",
+  "sai số",
+  "chăm nom",
+  "trỏ",
+  "Tiệp",
+  "thạch tín",
+  "rút ruột",
+  "gạ gẫm",
+  "trấu",
+  "lồi",
+  "cười nhạo",
+  "phế truất",
+  "dư vị",
+  "cường tráng",
+  "nạt",
+  "tăng giá",
+  "điệu bộ",
+  "hạn định",
+  "phản phúc",
+  "đụt",
+  "Phật tổ",
+  "Như Lai",
+  "nhựa đường",
+  "mai mối",
+  "hăm hở",
+  "kinh khiếp",
+  "âm u",
+  "nghiệp vụ",
+  "bình xăng",
+  "học vị",
+  "đụn",
+  "tục lệ",
+  "đời thường",
+  "cẳng chân",
+  "điên đảo",
+  "phú quý",
+  "mầm mống",
+  "liềm",
+  "ăn đòn",
+  "chiết xuất"
+ ],
+ "flags": [
+  {
+   "headword": "tệ bạc",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Đáp lại tệ bạc ơn” is not a natural Vietnamese construction.",
+   "fix": "Nó đối xử tệ bạc với người đã cưu mang mình. = He treated the person who had taken him in ungratefully."
+  },
+  {
+   "headword": "đụt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Using “đụt” to mean taking shelter from rain is regional Southern usage.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "Như Lai",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the title instead of showing it in use.",
+   "fix": "Bà thành tâm cầu nguyện trước tượng Phật Như Lai. = She prayed devoutly before the statue of the Buddha."
+  },
+  {
+   "headword": "mai mối",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Anh hàng xóm” means the male neighbour, not the neighbour's son.",
+   "fix": "Grandma matched my sister with the male neighbour."
+  },
+  {
+   "headword": "ăn đòn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The figurative meaning is to suffer attacks or harsh criticism, not specifically to be torn limb from limb.",
+   "fix": "to take a beating; to suffer harsh criticism"
+  }
+ ]
+}

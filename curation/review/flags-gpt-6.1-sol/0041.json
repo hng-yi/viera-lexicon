@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "nghệ thuật",
+  "mét",
+  "diệt",
+  "tiểu thư",
+  "hạng",
+  "giám đốc",
+  "khởi đầu",
+  "nguyên nhân",
+  "bạo lực",
+  "gói",
+  "tỏ",
+  "thưởng",
+  "đầu hàng",
+  "du lịch",
+  "kéo dài",
+  "quyến rũ",
+  "váy",
+  "trao đổi",
+  "cắm",
+  "y",
+  "heo",
+  "vãi",
+  "bớt",
+  "rẽ",
+  "gắn",
+  "bộ đồ",
+  "phi công",
+  "cột",
+  "nhẹ nhàng",
+  "bầu",
+  "lạy",
+  "sợi",
+  "mạo hiểm",
+  "năng lực",
+  "vớ vẩn",
+  "khăn",
+  "tài liệu",
+  "đáng giá",
+  "dữ",
+  "ga"
+ ],
+ "flags": [
+  {
+   "headword": "tiểu thư",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Tiểu thư is still commonly used for a young woman from a wealthy family, including in the example given.",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "khởi đầu",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The verb khởi đầu is ordinary contemporary Vietnamese and is not restricted to literary language.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "cắm",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The regional meaning 'to bite' belongs to North Central Vietnamese, which falls under Central rather than Northern ([reference](https://en.wiktionary.org/wiki/c%E1%BA%AFm)).",
+   "fix": "Remove Northern; retain Central."
+  },
+  {
+   "headword": "y",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Standalone y denotes medicine as a field, while the physician meaning belongs to compound forms.",
+   "fix": "medicine (the field)"
+  },
+  {
+   "headword": "vãi",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Vãi used as an exclamation is vulgar slang and needs the same warning as the intensifier.",
+   "fix": "Add vulgar to the tags."
+  },
+  {
+   "headword": "rẽ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Rẽ meaning 'to turn' is standard Vietnamese used nationwide, rather than a Northern regional word ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-r%E1%BA%BD)).",
+   "fix": "Remove the Northern tag."
+  },
+  {
+   "headword": "cột",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cột meaning 'to tie' is mainly Southern usage, but its regional restriction is missing from the warning tags.",
+   "fix": "Add Southern to the tags."
+  },
+  {
+   "headword": "bầu",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense refers to a pregnant belly, not the womb or uterus ([dictionary](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1124/UserFiles/Tu-Dien-Tieng-Viet-Hoang-Long-thuviensach.vn-b6c5cba7-6d08-4fa4-aae4-6b53ec52276c.pdf)).",
+   "fix": "pregnant belly; baby bump (regional)"
+  }
+ ]
+}

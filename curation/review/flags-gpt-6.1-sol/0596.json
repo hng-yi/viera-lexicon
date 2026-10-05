@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tuỳ ý",
+  "tuỵ",
+  "tuỵ tạng",
+  "tuỵ đạo",
+  "tuỷ",
+  "tuỷ sống",
+  "tuỷ xương",
+  "tà tà",
+  "tà-vẹt",
+  "tài binh",
+  "tài chính hoá",
+  "tài chính hóa",
+  "tài chế",
+  "tài lộc",
+  "tài đức",
+  "tàm tạm",
+  "tàn binh",
+  "tàn canh gió lạnh",
+  "tàn nhưng không phế",
+  "tào phớ",
+  "tàu bay",
+  "tàu chợ",
+  "tàu cánh ngầm",
+  "tàu du lịch",
+  "tàu hoả",
+  "tàu há mồm",
+  "tàu hỏa",
+  "tàu hủ",
+  "tàu hủ ki",
+  "tàu lượn",
+  "tàu lượn siêu tốc",
+  "tàu ngầm",
+  "tàu sân bay",
+  "tàu thuỷ",
+  "tàu thủy",
+  "tàu tuần dương",
+  "tàu vũ trụ",
+  "tàu ô",
+  "tá hoả",
+  "tác tử"
+ ],
+ "flags": [
+  {
+   "headword": "tàn canh gió lạnh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The colloquial expression describes or intensifies misery or a dreadful state, rather than meaning freezing cold, as illustrated in [Kiệt Tấn's usage](https://www.talawas.org/talaDB/showFile.php?rb=0204&res=14114).",
+   "fix": "utterly miserable; dreadful"
+  },
+  {
+   "headword": "tàn canh gió lạnh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses the expression as an ordinary description of cold weather.",
+   "fix": "Anh ấy nghèo tàn canh gió lạnh. = He is desperately poor."
+  },
+  {
+   "headword": "tàu chợ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense denotes a stopping passenger train, not a bus or any local transport service, according to the [Vietnamese dictionary definition](https://loigiaihay.com/tu-dien-tv/tau-cho-e2tMwq7Y0yfxF.html).",
+   "fix": "local passenger train that stops at most stations"
+  },
+  {
+   "headword": "tàu tuần dương",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Chiếc tàu tuần dương đang tuần tra ngoài khơi. = The cruiser is patrolling offshore."
+  }
+ ]
+}

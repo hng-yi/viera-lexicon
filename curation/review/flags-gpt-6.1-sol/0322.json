@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "mấp mô",
+  "lốm đốm",
+  "dương gian",
+  "ghẻ lở",
+  "bờm xờm",
+  "tàn cuộc",
+  "ngà voi",
+  "nong",
+  "thanh tra viên",
+  "phong ba",
+  "hành xác",
+  "thoát vị",
+  "binh thư",
+  "lia lịa",
+  "kế toán viên",
+  "bấc",
+  "ngôn từ",
+  "tiền trạm",
+  "nhịp độ",
+  "dái tai",
+  "mưu",
+  "thông tư",
+  "lõ",
+  "nguyệt san",
+  "oanh",
+  "lưu ban",
+  "ngẩn ngơ",
+  "lơi lỏng",
+  "lòn",
+  "oai vệ",
+  "căn dặn",
+  "tảng lờ",
+  "thủy cung",
+  "lạnh buốt",
+  "âu sầu",
+  "bình điện",
+  "kiềng",
+  "trận địa",
+  "chíp chíp",
+  "resort"
+ ],
+ "flags": [
+  {
+   "headword": "ngẩn ngơ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This gloss confuses being dazed or lost in thought with being foolish, which is not a separate meaning of ngẩn ngơ ([dictionary](https://vi.wiktionary.org/wiki/ng%E1%BA%A9n_ng%C6%A1)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "chíp chíp",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The clam name is associated mainly with Central Vietnamese usage, especially around Đà Nẵng ([source](https://thanhnien.vn/mat-long-mat-da-voi-chip-chip-185575109.htm)).",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "chíp chíp",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an ordinary food name in its home region, so rare misrepresents its everyday local use ([source](https://tuoitre.vn/dulichtphcm/an-gi/ngot-thom-vi-chip-chip-mien-trung-c12a7451.html)).",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

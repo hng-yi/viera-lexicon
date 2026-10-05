@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "hơi đâu mà",
+  "hơi ấm",
+  "hơn cả",
+  "hơn hết",
+  "hơn thua",
+  "hư nhược",
+  "hư từ",
+  "hư vô",
+  "hư văn",
+  "hư đời",
+  "hưng khởi",
+  "hưng phế",
+  "hưng vong",
+  "hưu chiến",
+  "hưu hạ",
+  "hương bản",
+  "hương cống",
+  "hương hoả",
+  "hương nhu",
+  "hương nhu tía",
+  "hương sắc",
+  "hươu cao cổ",
+  "hươu nai",
+  "hươu sao",
+  "hươu xạ",
+  "hướng ngoại",
+  "hướng nội",
+  "hướng trung",
+  "hướt",
+  "hưởng dương",
+  "hưởng thọ",
+  "hạ bạc",
+  "hạ du",
+  "hạ giá",
+  "hạ hồi phân giải",
+  "hạ nghĩ sĩ",
+  "hạ nghị viện",
+  "hạ thuỷ",
+  "hạ tầng cơ sở",
+  "hạ uy cầm"
+ ],
+ "flags": [
+  {
+   "headword": "hương nhu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss identifies kinh giới (Elsholtzia ciliata), whereas Vietnamese hương nhu refers to Ocimum herbs ([botanical reference](https://vnras.com/huong-nhu-huong-nhu-trang-huong-nhu-tia-nhung-cay-thuoc-va-vi-thuoc-viet-nam-do-tat-loi/)).",
+   "fix": "fragrant basil herb (Ocimum species, including holy basil and clove basil)"
+  },
+  {
+   "headword": "hạ nghĩ sĩ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hạ nghĩ sĩ is a spelling error rather than a valid word for a lower-house member.",
+   "fix": "Correct the headword and example to hạ nghị sĩ; gloss: member of a lower house."
+  },
+  {
+   "headword": "hạ thuỷ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hạ thuỷ means launching a vessel into the water, including its launch ceremony, rather than christening it before launch ([dictionary definition](https://vi.wiktionary.org/wiki/hạ_thủy)).",
+   "fix": "Remove sense 2 and retain its example under sense 1."
+  }
+ ]
+}

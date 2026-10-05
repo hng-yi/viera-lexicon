@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "nước đường",
+  "nước đại",
+  "nước đến chân mới nhảy",
+  "nước độc",
+  "nước đục",
+  "nước đục thả câu",
+  "nướng lu",
+  "nạ dòng",
+  "nạo",
+  "nạo bạt",
+  "nạp điện",
+  "nấm báo mưa",
+  "nấm kim châm",
+  "nấm linh chi",
+  "nấm lùn",
+  "nấm mèo",
+  "nấm mối",
+  "nấm rơm",
+  "nấm tràm",
+  "nấm tuyết",
+  "nấm đầu khỉ",
+  "nấu chảy",
+  "nầm",
+  "nẩu",
+  "nẫn",
+  "nẫu",
+  "nậm",
+  "nậu",
+  "nậy",
+  "nắc",
+  "nắm giữ",
+  "nắm lấy",
+  "nắm thằng có tóc, không ai nắm kẻ trọc đầu",
+  "nắn dòng",
+  "nắn nót",
+  "nắng chói",
+  "nắng nỏ",
+  "nắp bình xăng",
+  "nắp ấm",
+  "nằm gai nếm mật"
+ ],
+ "flags": [
+  {
+   "headword": "nạ dòng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation adds divorce, which neither nạ dòng nor the sentence states.",
+   "fix": "They sneered that she was an older woman with children yet wanted a young husband."
+  },
+  {
+   "headword": "nấm mèo",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Nấm mèo is mainly Southern usage and needs a regional label.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "nầm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday food meaning of udder, documented by [a Vietnamese food supplier](https://thucphamsachgiatot.vn/nam-heo-nam-lon-be-sua-nhu-heo-vu-heo).",
+   "fix": "udder (of a cow, pig or goat), used as food"
+  },
+  {
+   "headword": "nầm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example confuses nầm with nạm, the beef cut used in [phở tái nạm](https://cakholangvudai.org/am-thuc-viet/cach-nau-pho-bo-tai-nam-thom-ngon-dung-vi/).",
+   "fix": "Tôi thích ăn nầm nướng. = I like eating grilled udder."
+  },
+  {
+   "headword": "nẩu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This pronoun belongs to South Central Vietnamese dialects, as described in [this discussion of nẩu](https://thethaovanhoa.vn/chu-va-nghia-ai-ve-nhan-voi-nau-nguon-20250806060300478.htm).",
+   "fix": "Add Central."
+  },
+  {
+   "headword": "nậu",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Nậu nguồn refers to upland people or forest-product gatherers, not forest rangers, as explained in [this account of the expression](https://tuoitre.vn/giaoduc/tan-man-nhan-mot-bai-ca-dao-trung-bo-108922212.htm).",
+   "fix": "nậu nguồn = people who gather forest products in the uplands"
+  },
+  {
+   "headword": "nậu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use of nậu is characteristic of Central Vietnamese dialects, as described in [this account of its usage](https://tuoitre.vn/giaoduc/tan-man-nhan-mot-bai-ca-dao-trung-bo-108922212.htm).",
+   "fix": "Add Central; retain uncommon."
+  }
+ ]
+}

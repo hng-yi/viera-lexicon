@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "sam",
+  "giảm",
+  "anh trai",
+  "đón",
+  "có mặt",
+  "trò chơi",
+  "độ",
+  "thân",
+  "New York",
+  "hình",
+  "mi",
+  "tai nạn",
+  "vỡ",
+  "Nga",
+  "nga",
+  "dịch",
+  "bò",
+  "lái xe",
+  "thoải mái",
+  "ghế",
+  "bám",
+  "từ từ",
+  "say",
+  "lịch sử",
+  "bằng chứng",
+  "cặp",
+  "điên rồ",
+  "cục",
+  "để ý",
+  "sáu",
+  "buộc",
+  "gà",
+  "đèn",
+  "trại",
+  "tốt đẹp",
+  "từ chối",
+  "OK",
+  "ok",
+  "kính",
+  "năng lượng"
+ ],
+ "flags": [
+  {
+   "headword": "đón",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use of đón for catching transport, as in đón xe buýt, is missing.",
+   "fix": "to catch (a bus, taxi or other transport)"
+  },
+  {
+   "headword": "bò",
+   "sense": 5,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Vay means to borrow, so the translation reverses the direction of the loan.",
+   "fix": "Borrow a few cans' worth of rice."
+  },
+  {
+   "headword": "để ý",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Để ý commonly means to be romantically interested in someone, which the attention gloss does not convey.",
+   "fix": "to be romantically interested in (someone)"
+  }
+ ]
+}

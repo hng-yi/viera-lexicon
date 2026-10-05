@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "hạ vị",
+  "hạch hạnh nhân",
+  "hạch sách",
+  "hạch toán",
+  "hạch tâm",
+  "hạch đá",
+  "hại não",
+  "hạo nhiên",
+  "hải cẩu thầy tu Hawaii",
+  "hải hành",
+  "hải ngạn",
+  "hải qùy",
+  "hải tượng",
+  "hải xà",
+  "hải đường",
+  "hảo cảm",
+  "hấn khích",
+  "hất hàm",
+  "hất hủi",
+  "hầm bà lằng",
+  "hầm cầu",
+  "hầm ngầm",
+  "hầm rượu",
+  "hẩm",
+  "hẩm hút",
+  "hẩy",
+  "hậm hực",
+  "hậu chấn tâm lí",
+  "hậu hoạ",
+  "hậu nghiệm",
+  "hậu sinh khả uý",
+  "hậu sản",
+  "hậu thân",
+  "hậu tuyến",
+  "hắc diện thạch",
+  "hắc diệu thạch",
+  "hắc giả tiên hành",
+  "hắc tinh tinh",
+  "hằm hằm",
+  "hằng hà sa số"
+ ],
+ "flags": [
+  {
+   "headword": "hạ vị",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this example, hạ vị names the lower central abdominal region, rather than meaning simply “lower” ([hospital reference](https://bvnguyentriphuong.com.vn/noi-tieu-hoa/kham-thuc-the-he-tieu-hoa)).",
+   "fix": "hypogastrium; the lower central region of the abdomen"
+  },
+  {
+   "headword": "hải đường",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses hải đường to mean a crabapple, not the genus Malus.",
+   "fix": "Chi hải đường gồm nhiều loài cây ăn quả và cây cảnh. = The genus Malus includes many fruit trees and ornamental trees."
+  },
+  {
+   "headword": "hầm bà lằng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern Vietnamese and needs a regional label ([regional vocabulary reference](https://www.lyhuong.net/au/index.php/bd/27-27)).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "hầm cầu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Hầm cầu is primarily Southern usage, whereas Northern usage generally favors bể phốt.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "hậu sản",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of illness or complications suffered after childbirth ([dictionary reference](https://tudientv.com/?t=h%E1%BA%ADu+s%E1%BA%A3n)).",
+   "fix": "illness or complications occurring after childbirth"
+  },
+  {
+   "headword": "hằng hà sa số",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the expression instead of using it.",
+   "fix": "Số thế giới được nhắc đến trong kinh nhiều hơn hằng hà sa số. = The number of worlds mentioned in the scripture exceeds the number of grains of sand in the Ganges."
+  }
+ ]
+}

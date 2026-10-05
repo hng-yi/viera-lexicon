@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "lửa trại",
+  "lửng chó",
+  "lững thững",
+  "lực bất tòng tâm",
+  "lực kế",
+  "lựng khựng",
+  "lựu đạn cay",
+  "ma bùn",
+  "ma chay",
+  "ma cà bông",
+  "ma da",
+  "ma giáo",
+  "ma gà",
+  "ma ha tát",
+  "ma két",
+  "ma lai",
+  "ma pháp thiếu nữ",
+  "ma trận kề",
+  "ma tuý",
+  "ma ăn cỗ",
+  "ma đói",
+  "ma-dút",
+  "ma-nơ-canh",
+  "ma-ra-tông",
+  "mai gầm",
+  "mai hoa",
+  "mai khôi",
+  "mai vàng",
+  "mai xo",
+  "man mác",
+  "man trá",
+  "mang con bỏ chợ",
+  "mang lại",
+  "mang nặng đẻ đau",
+  "mang tên",
+  "manh giông",
+  "manh mún",
+  "manh nha",
+  "manh tràng",
+  "manh tâm"
+ ],
+ "flags": [
+  {
+   "headword": "ma cà bông",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a disparaging label for a person, as illustrated in this [discussion of its use](https://www.nongnghiephaingoai.com/wp-content/uploads/2017/02/Cuon4_BietRoiKhoLam_By_TranVanGiang.pdf), so the learner needs a derogatory warning.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "mai khôi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's meaning instead of using it to refer to a rose.",
+   "fix": "Nàng cài một đóa mai khôi lên tóc. = She tucked a rose into her hair."
+  },
+  {
+   "headword": "manh giông",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Chúng tôi nhìn thấy một con manh giông trong hang. = We saw an olm in the cave."
+  },
+  {
+   "headword": "manh tràng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example gives an anatomical definition instead of showing the word in use.",
+   "fix": "Bác sĩ phát hiện một khối u ở manh tràng. = The doctor found a tumour in the caecum."
+  }
+ ]
+}

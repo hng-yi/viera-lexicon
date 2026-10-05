@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "lếch tha lếch thếch",
+  "lều báo",
+  "lều tranh",
+  "lều trại",
+  "lển nghển",
+  "lễ Các Đẳng",
+  "lễ Các Đẳng Linh Hồn",
+  "lễ Tình Nhân",
+  "lễ bái",
+  "lễ lạc thành",
+  "lễ lạt",
+  "lễ táng",
+  "lễ đường",
+  "lệ chi",
+  "lệ ngoại",
+  "lệ như",
+  "lệ thư",
+  "lệ đạo",
+  "lệch pha",
+  "lệt sệt",
+  "lị trực khuẩn",
+  "lịch đại",
+  "lọ mọ",
+  "lọ nghẹ",
+  "lọc lõi",
+  "lọng cọng",
+  "lọp",
+  "lọt lòng",
+  "lọt vào mắt xanh",
+  "lỏ",
+  "lốc xoáy",
+  "lối ra",
+  "lối sống",
+  "lối vào",
+  "lốp ba lốp bốp",
+  "lốp bốp",
+  "lốp cốp",
+  "lốp đốp",
+  "lồ ô",
+  "lồi xỉ"
+ ],
+ "flags": [
+  {
+   "headword": "lều báo",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common derogatory use referring to a journalist is missing, as illustrated in [Sóng Trẻ](https://songtre.com.vn/nha-bao-hay-leu-bao-p4888.html).",
+   "fix": "Add noun [derogatory, slang]: hack journalist; incompetent or unscrupulous reporter."
+  },
+  {
+   "headword": "lễ lạt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of gifts or offerings, especially gifts to someone influential, is missing ([VDict](https://vdict.com/l%E1%BB%85%20l%E1%BA%A1t%2C3%2C0%2C0.html)).",
+   "fix": "Add noun: ceremonial gifts or offerings; gifts given to someone in authority."
+  },
+  {
+   "headword": "lệ thư",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines clerical script instead of showing the word in use.",
+   "fix": "Ông ấy viết câu đối bằng lệ thư. = He wrote the parallel couplets in clerical script."
+  },
+  {
+   "headword": "lị trực khuẩn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The term names bacillary dysentery, the disease caused by Shigella, rather than the bacterium ([Sức khỏe & Đời sống](https://suckhoedoisong.vn/chu-de/ly-truc-trung-ly-truc-khuan-1788.htm)).",
+   "fix": "bacillary dysentery"
+  },
+  {
+   "headword": "lị trực khuẩn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly treats the disease name as the organism causing dysentery ([Sức khỏe & Đời sống](https://suckhoedoisong.vn/chu-de/ly-truc-trung-ly-truc-khuan-1788.htm)).",
+   "fix": "Bệnh nhân được chẩn đoán mắc lị trực khuẩn. = The patient was diagnosed with bacillary dysentery."
+  },
+  {
+   "headword": "lọ mọ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss confuses lọ mọ, which describes slow, persistent activity despite difficulty, with groping around in darkness ([Wiktionary](https://vi.wiktionary.org/wiki/l%E1%BB%8D_m%E1%BB%8D)).",
+   "fix": "to potter about; to work or move slowly and persistently despite difficulty"
+  },
+  {
+   "headword": "lọp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for a fishing trap is primarily Southern and needs a regional label ([Ca dao Mẹ](https://cadao.me/the/cai-lop/)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "lồi xỉ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word describes teeth growing crookedly or out of line, especially displaced canines, rather than specifically buck teeth ([Nha khoa Hùng Cường](https://nhakhoahungcuong.com.vn/5460-2/)).",
+   "fix": "having crooked teeth growing out of line"
+  }
+ ]
+}

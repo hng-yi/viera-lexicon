@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "cạnh huyền",
+  "cạnh khoé",
+  "cạnh tranh lành mạnh",
+  "cạp nia",
+  "cạp nong",
+  "cạp đất mà ăn",
+  "cả gan",
+  "cả giận, mất khôn",
+  "cả nghĩ",
+  "cả ngày",
+  "cả nhà",
+  "cả thảy",
+  "cả và",
+  "cả đống",
+  "cải bó xôi",
+  "cải bẹ xanh",
+  "cải chính",
+  "cải củ",
+  "cải dạng",
+  "cải dầu",
+  "cải giá",
+  "cải hoá",
+  "cải hoán",
+  "cải làn",
+  "cải rổ",
+  "cải thìa",
+  "cải thảo",
+  "cải tà quy chính",
+  "cải táng",
+  "cảm hoài",
+  "cảm hoá",
+  "cảm sương",
+  "cảm thương",
+  "cảm từ",
+  "cảng hàng không",
+  "cảnh huống",
+  "cảnh khuyển",
+  "cảnh sát biển",
+  "cảnh sát chính tả",
+  "cảnh sát hình sự"
+ ],
+ "flags": [
+  {
+   "headword": "cạnh huyền",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a hypotenuse is instead of showing the word in use.",
+   "fix": "Em tính sai độ dài cạnh huyền. = I calculated the length of the hypotenuse incorrectly."
+  },
+  {
+   "headword": "cạp nia",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the familiar snake meaning, which a learner could mistakenly interpret as a bamboo-tray rim.",
+   "fix": "noun | krait (especially the many-banded krait); example: Rắn cạp nia có nọc độc rất mạnh. = The many-banded krait has very potent venom."
+  },
+  {
+   "headword": "cạp nong",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the familiar meaning 'banded krait,' which a learner could mistakenly interpret as a bamboo-tray rim.",
+   "fix": "noun | banded krait; example: Rắn cạp nong có những khoang đen vàng xen kẽ. = The banded krait has alternating black and yellow bands."
+  },
+  {
+   "headword": "cạp đất mà ăn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The example uses the ordinary meaning of having nothing to live on and does not establish a separate meaning about being unable to pursue love.",
+   "fix": "Delete sense 2."
+  },
+  {
+   "headword": "cảng hàng không",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The official term is not restricted to large or international airports.",
+   "fix": "airport (official term)"
+  },
+  {
+   "headword": "cảnh khuyển",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal term for a police dog and needs a warning against treating it as ordinary casual vocabulary.",
+   "fix": "Add the formal tag."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "mở lòng",
+  "tinh",
+  "nhã nhặn",
+  "thụ",
+  "níu",
+  "chung chung",
+  "lữ đoàn",
+  "máy giặt",
+  "thiên phú",
+  "liên tưởng",
+  "chánh án",
+  "oán",
+  "giám khảo",
+  "cam chịu",
+  "quật",
+  "quái gở",
+  "thăm quan",
+  "luyện ngục",
+  "đồng bóng",
+  "thực dụng",
+  "mách lẻo",
+  "ngự trị",
+  "hú hí",
+  "bá chủ",
+  "máy in",
+  "hạc",
+  "thêu",
+  "khí thế",
+  "khả dĩ",
+  "u ám",
+  "nhéo",
+  "xuống dốc",
+  "chấp",
+  "khoáng",
+  "bồ tát",
+  "tiểu cầu",
+  "xà bông",
+  "ân nhân",
+  "hắt hơi",
+  "cáng"
+ ],
+ "flags": [
+  {
+   "headword": "thụ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In thụ tinh and thụ phấn, thụ means receiving, not performing fertilization or pollination.",
+   "fix": "Merge with sense 1 under 'to receive'; remove the separate 'to fertilize; to pollinate' sense."
+  },
+  {
+   "headword": "thụ",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the Buddhist classification of thụ instead of showing a feeling being experienced or observed.",
+   "fix": "Khi thiền, hành giả quan sát các thụ sinh khởi rồi biến mất. = During meditation, the practitioner observes feelings arising and then disappearing."
+  },
+  {
+   "headword": "chánh án",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chánh án identifies a chief or presiding judge, rather than a separate archaic meaning of any judge or magistrate ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%C3%A1nh%20%C3%A1n)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

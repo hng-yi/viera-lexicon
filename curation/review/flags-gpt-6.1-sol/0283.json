@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "vâm",
+  "rởm",
+  "sữa tươi",
+  "gồ ghề",
+  "mề đay",
+  "nhạc trưởng",
+  "tiểu luận",
+  "tàu bè",
+  "cứu cánh",
+  "vi sóng",
+  "lụm",
+  "đê mê",
+  "phôi thai",
+  "Bắc Âu",
+  "loạn luân",
+  "đại hội đồng",
+  "thêu thùa",
+  "adrenalin",
+  "dân quốc",
+  "áo dài",
+  "oán hận",
+  "cấu",
+  "lưng chừng",
+  "đả kích",
+  "tâm tính",
+  "phứt",
+  "Vịnh Xuân quyền",
+  "uốn lượn",
+  "quyết thắng",
+  "thi sĩ",
+  "hớt",
+  "an nhàn",
+  "ngợi",
+  "phạm trù",
+  "Đại Đế",
+  "bọ rùa",
+  "trúng độc",
+  "bộ đội",
+  "oằn",
+  "tải trọng"
+ ],
+ "flags": [
+  {
+   "headword": "vâm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's supposed naming history instead of using it naturally.",
+   "fix": "Ông ấy khỏe như vâm. = He is as strong as an elephant."
+  },
+  {
+   "headword": "cứu cánh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means an ultimate purpose, not an outcome irrespective of intention ([dictionary](https://vi.wiktionary.org/wiki/cứu_cánh)).",
+   "fix": "Merge with sense 1: ultimate goal; end."
+  },
+  {
+   "headword": "vi sóng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss conflates microwave radiation with the appliance, which is called lò vi sóng ([dictionary](https://loigiaihay.com/tu-dien-tv/vi-song-eMIArCIdZgj22.html)).",
+   "fix": "microwave; microwave radiation"
+  },
+  {
+   "headword": "vi sóng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses vi sóng as the appliance name rather than demonstrating its radiation meaning.",
+   "fix": "Lò này dùng vi sóng để làm nóng thức ăn. = This oven uses microwaves to heat food."
+  },
+  {
+   "headword": "an nhàn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "An nhàn is ordinary contemporary vocabulary usable in casual conversation, so literary unnecessarily restricts its use.",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "phạm trù",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Phạm trù belongs to formal or academic usage rather than serving as an everyday neutral word for category.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "bộ đội",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common collective meaning referring to troops or military forces is missing ([dictionary](https://vi.wiktionary.org/wiki/bộ_đội)).",
+   "fix": "troops; military forces (collectively)"
+  }
+ ]
+}

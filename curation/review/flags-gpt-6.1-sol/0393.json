@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "chiêm nghiệm",
+  "náng",
+  "hú vía",
+  "hèn gì",
+  "trẻ măng",
+  "bitmut",
+  "phenol",
+  "mùn",
+  "đĩnh đạc",
+  "nhũ tương",
+  "đạo trường",
+  "mạc phủ",
+  "ma lực",
+  "ăn chực",
+  "ôn tập",
+  "-iếc",
+  "A Tu La",
+  "A-la-hán",
+  "AI tạo sinh",
+  "Anh giáo",
+  "Ba Na",
+  "Ba Tàu",
+  "Bra-xin",
+  "Bru - Vân Kiều",
+  "Brâu",
+  "Bun-ga-ri",
+  "Bà La Môn",
+  "Bách Việt",
+  "Bát Tiên",
+  "Bê-la-rút",
+  "Bê-lô-ru-xi-a",
+  "Bôn-sê-vích",
+  "Bạch Nga",
+  "Bắc Kì",
+  "Bắc thuộc",
+  "Bắc Đẩu Bội tinh",
+  "Bỉ Quốc",
+  "Bố Y",
+  "Bồ Tát Quan Thế Âm",
+  "Bụt nhà không thiêng"
+ ],
+ "flags": [
+  {
+   "headword": "-iếc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains how the suffix works instead of using it in speech.",
+   "fix": "Nghỉ nghiếc gì, làm cho xong đã! = Forget resting—finish the work first!"
+  },
+  {
+   "headword": "A Tu La",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines A Tu La instead of showing the term in use.",
+   "fix": "Bức tranh mô tả cuộc giao tranh giữa các vị thần và A Tu La. = The painting depicts a battle between the gods and the Asuras."
+  },
+  {
+   "headword": "A-la-hán",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains who is called an A-la-hán instead of using the term in context.",
+   "fix": "Trong chùa có tượng các vị A-la-hán. = There are statues of arhats in the temple."
+  },
+  {
+   "headword": "Bách Việt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the name Bách Việt instead of showing it in use.",
+   "fix": "Cuốn sách nghiên cứu phong tục của các tộc người Bách Việt. = The book studies the customs of the Baiyue peoples."
+  },
+  {
+   "headword": "Bát Tiên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example restates who the Eight Immortals are instead of showing the name in use.",
+   "fix": "Chiếc bình được trang trí bằng hình Bát Tiên. = The vase is decorated with images of the Eight Immortals."
+  },
+  {
+   "headword": "Bạch Nga",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the old name rather than using it to refer to the country.",
+   "fix": "Trong cuốn sách cũ ấy, tác giả kể về chuyến đi đến Bạch Nga. = In that old book, the author describes a trip to Belarus."
+  },
+  {
+   "headword": "Bắc Kì",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the region was called rather than using Bắc Kì in context.",
+   "fix": "Thời Pháp thuộc, ông làm việc cho một tờ báo ở Bắc Kì. = Under French rule, he worked for a newspaper in Tonkin."
+  }
+ ]
+}

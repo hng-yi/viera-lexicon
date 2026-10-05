@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "bẹt",
+  "bẻ đôi",
+  "bẽ bàng",
+  "bế giảng",
+  "bế quan toả cảng",
+  "bế quan tỏa cảng",
+  "bếp ga",
+  "bếp từ",
+  "bề bề",
+  "bề dài",
+  "bề ngang",
+  "bề trên",
+  "bền chí",
+  "bền gan",
+  "bể bơi",
+  "bể dâu",
+  "bể khổ",
+  "bễ",
+  "bệ phóng",
+  "bệch",
+  "bệnh chứng",
+  "bệnh công chúa",
+  "bệnh dại",
+  "bệnh ghẻ",
+  "bệnh học",
+  "bệnh lí học",
+  "bệnh nhi",
+  "bệnh sốt rét",
+  "bệnh tay chân miệng",
+  "bệnh than",
+  "bệnh tim mạch",
+  "bệnh trầm kha",
+  "bệnh tòng khẩu nhập, hoạ tòng khẩu xuất",
+  "bệnh viện dã chiến",
+  "bệu bạo",
+  "bỉ bai",
+  "bỉ sắc tư phong",
+  "bỉ vỏ",
+  "bỉm sữa",
+  "bỉnh bút"
+ ],
+ "flags": [
+  {
+   "headword": "bể bơi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This term for a swimming pool is used mainly in Northern Vietnamese but has no region tag.",
+   "fix": "[Northern]"
+  },
+  {
+   "headword": "bệnh công chúa",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression disparages a woman as spoiled and entitled, so an informal tag alone does not warn learners of its insulting use.",
+   "fix": "[informal, derogatory]"
+  }
+ ]
+}

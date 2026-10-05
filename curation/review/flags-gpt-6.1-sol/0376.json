@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "hạ thổ",
+  "hở hang",
+  "bệt",
+  "gia tư",
+  "hóa dầu",
+  "con hoang",
+  "long nhãn",
+  "quéo",
+  "làng xóm",
+  "quở trách",
+  "thí điểm",
+  "ba hoa",
+  "chill",
+  "mi mắt",
+  "giạ",
+  "bặm",
+  "sài lang",
+  "ngủ nướng",
+  "lói",
+  "tóc mây",
+  "ca ve",
+  "xanh lục",
+  "gian hùng",
+  "công tâm",
+  "hà tất",
+  "mất giá",
+  "xi nhan",
+  "tia X",
+  "sinh lí",
+  "ôn đới",
+  "minh tâm",
+  "chan chứa",
+  "cô tịch",
+  "phân khối",
+  "linh ứng",
+  "sỉa",
+  "đì",
+  "cầu tiến",
+  "phá vỡ",
+  "ăn sáng"
+ ],
+ "flags": [
+  {
+   "headword": "long nhãn",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Long nhãn is a current food ingredient sold and used in desserts, so dated and rare are misleading ([current usage](https://honglam.vn/long-nhan)).",
+   "fix": "Remove dated and rare."
+  },
+  {
+   "headword": "giạ",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter giạ as a quantity of grain than as the measuring container.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "gian hùng",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The adjective belongs mainly to literary and historical descriptions rather than ordinary casual speech ([usage](https://loigiaihay.com/tu-dien-tv/gian-hung-eIuOvrPJIzkpZ.html)).",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "tia X",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tia X means the radiation used to produce an image, not the image or scan itself ([usage](https://www.vinmec.com/vie/bai-viet/chup-x-quang-trong-tam-soat-ung-thu-vu-vi)).",
+   "fix": "Delete sense 2; the example would require: Bác sĩ nhìn phim X-quang và nói xương không bị gãy."
+  },
+  {
+   "headword": "sinh lí",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Yếu sinh lí refers to impaired sexual function, which can include erection or ejaculation problems even without low libido ([definition](https://tamanhhospital.vn/yeu-sinh-ly-co-con-hay-khong/)).",
+   "fix": "yếu sinh lí = to have impaired sexual function (also humorous: to be physically weak)"
+  }
+ ]
+}

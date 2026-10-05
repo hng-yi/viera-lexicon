@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "đăm chiêu",
+  "bi ai",
+  "chức sắc",
+  "đôn đốc",
+  "chính đạo",
+  "quân dân",
+  "sạn",
+  "ngộ nhận",
+  "cần mẫn",
+  "chuồn chuồn",
+  "kiết lị",
+  "phong tình",
+  "vắn",
+  "chèo thuyền",
+  "ngạn",
+  "đau đáu",
+  "phong kiến",
+  "rùm beng",
+  "ngò",
+  "tốt số",
+  "phục sức",
+  "bê tha",
+  "tân thời",
+  "vô lối",
+  "thất bát",
+  "tông đồ",
+  "gia chủ",
+  "siêu vi khuẩn",
+  "quốc hiệu",
+  "chong",
+  "hoàng thái tử",
+  "nghịch cảnh",
+  "buồng tắm",
+  "rôm rả",
+  "vượt qua",
+  "khô khốc",
+  "chấp chưởng",
+  "Tung Của",
+  "choán",
+  "rằn"
+ ],
+ "flags": [
+  {
+   "headword": "ngộ nhận",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "'Chớ có ngộ nhận' warns against misunderstanding, whereas 'Make no mistake' normally asserts certainty.",
+   "fix": "Don't misunderstand."
+  },
+  {
+   "headword": "chong",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The example uses 'chong mắt' to mean keeping one's eyes open and staring, already covered by sense 2, rather than a separate meaning 'to focus on' ([VDict](https://vdict.com/chong,3,0,0.html)).",
+   "fix": "Remove sense 3 and merge its example into sense 2."
+  }
+ ]
+}

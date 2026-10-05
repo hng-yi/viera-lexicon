@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "truy bức",
+  "truy điệu",
+  "truyền dịch",
+  "truân chuyên",
+  "truông",
+  "truỵ lạc",
+  "trà bơ",
+  "trà oản",
+  "trà trân châu",
+  "trà xanh",
+  "trà đạo",
+  "tràm",
+  "tràng giang đại hải",
+  "tràng pháo",
+  "tràng thạch",
+  "trào phúng",
+  "trá hàng",
+  "trái cấm",
+  "trái khoán",
+  "trái khoáy",
+  "trái ngang",
+  "trái nghĩa",
+  "trái quyền",
+  "trái tim bàn tay",
+  "trái tim ngón tay",
+  "trái với",
+  "trái xoan",
+  "tráng chí",
+  "tráng niên",
+  "tránh ra",
+  "tránh vỏ dưa gặp vỏ dừa",
+  "tránh xa",
+  "trâm bầu",
+  "trân trối",
+  "trâu buộc ghét trâu ăn",
+  "trâu bò húc nhau, ruồi muỗi chết",
+  "trâu già gặm cỏ non",
+  "trâu nước",
+  "trây lười",
+  "trèo cao té đau"
+ ],
+ "flags": [
+  {
+   "headword": "trà xanh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The slang refers to a woman who feigns innocence while scheming, often interfering in another couple's relationship, and does not mean outspoken ([source](https://thanhnien.vn/lat-leo-chu-nghia-tieu-tam-va-tra-xanh-1851533019.htm)).",
+   "fix": "a woman who pretends to be innocent while scheming, especially to interfere in someone else's romantic relationship"
+  },
+  {
+   "headword": "trà xanh",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This slang is a derogatory label for a woman accused of manipulating others or interfering in their relationship ([source](https://thanhnien.vn/lat-leo-chu-nghia-tieu-tam-va-tra-xanh-1851533019.htm)).",
+   "fix": "[slang, Internet, derogatory]"
+  },
+  {
+   "headword": "trâu già gặm cỏ non",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression disparages someone for having a much younger partner, so the gloss's parenthetical warning also needs a derogatory tag.",
+   "fix": "[idiomatic, derogatory]"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "mào",
+  "an táng",
+  "khí quản",
+  "báo thức",
+  "khoan hồng",
+  "nhân dịp",
+  "nối tiếp",
+  "sụt",
+  "thảo mộc",
+  "vờn",
+  "bước ngoặt",
+  "biếu",
+  "tư bản",
+  "mật thiết",
+  "dạ hội",
+  "lầm lẫn",
+  "hão",
+  "an lành",
+  "quây",
+  "khỏa",
+  "giáo đường",
+  "thương thuyết",
+  "đầy ắp",
+  "vô vị",
+  "kinh độ",
+  "thoái",
+  "phanh phui",
+  "truyền bá",
+  "tuyệt chiêu",
+  "tinh dịch",
+  "hàm lượng",
+  "xấp xỉ",
+  "cao siêu",
+  "rum",
+  "vê",
+  "xàm",
+  "xà",
+  "dế",
+  "làm giàu",
+  "đắc cử"
+ ],
+ "flags": [
+  {
+   "headword": "khí quản",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the windpipe instead of showing the word in use.",
+   "fix": "Bác sĩ phát hiện một dị vật trong khí quản của bệnh nhân. = The doctor found a foreign object in the patient's windpipe."
+  },
+  {
+   "headword": "khoan hồng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is formal vocabulary for showing mercy or clemency, as reflected in [VDict](https://vdict.com/khoan%2C2%2C0%2C0.html).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "vô vị",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Nhạt describes blandness here, whereas thin describes the soup's consistency.",
+   "fix": "This soup is bland and flavourless."
+  },
+  {
+   "headword": "thoái",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Thoái vốn means withdrawing invested capital, not refunding or repaying money.",
+   "fix": "Move this example to sense 1, under to withdraw."
+  },
+  {
+   "headword": "cao siêu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cao siêu does not itself mean empty or pretentious; that judgment comes from the surrounding sentence, while the [dictionary definition](https://thuvien.vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-6) describes exceeding ordinary levels.",
+   "fix": "Remove sense 2; its example uses the meaning already covered by sense 1."
+  }
+ ]
+}

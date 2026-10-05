@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "trắng toát",
+  "phổ cập",
+  "hãn",
+  "giáo phận",
+  "chức quyền",
+  "kì vĩ",
+  "hộp sọ",
+  "lích kích",
+  "biệt ngữ",
+  "hữu danh",
+  "chi đoàn",
+  "nồi áp suất",
+  "hớn",
+  "nhuận",
+  "phơi nhiễm",
+  "ngút ngàn",
+  "chết não",
+  "vi vu",
+  "cứng cổ",
+  "vô tài",
+  "ngoa",
+  "thẳng cánh",
+  "gia thần",
+  "cửa chớp",
+  "gái điếm",
+  "lộp cộp",
+  "vùa",
+  "trùng dương",
+  "hao hao",
+  "cuốn chiếu",
+  "khẩu âm",
+  "hình thù",
+  "tự bạch",
+  "nhạc sến",
+  "khổng tước",
+  "thất thu",
+  "mụn rộp",
+  "phần đông",
+  "thất thanh",
+  "búp phê"
+ ],
+ "flags": [
+  {
+   "headword": "cửa chớp",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The slats of cửa chớp can be fixed, so specifying adjustable slats incorrectly restricts the meaning ([source](https://cuantp.com/cua-chop-la-gi/)).",
+   "fix": "louvered shutters or doors"
+  },
+  {
+   "headword": "cuốn chiếu",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cuốn chiếu does not mean to summarise main points; its established figurative meaning concerns completing work progressively ([source](https://vi.wiktionary.org/wiki/cuốn_chiếu)).",
+   "fix": "Remove sense 4 and its example."
+  },
+  {
+   "headword": "thất thu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common agricultural meaning of harvesting less than normal ([source](https://vi.wiktionary.org/wiki/thất_thu)).",
+   "fix": "to have a poor harvest; to suffer a shortfall in crop yield"
+  }
+ ]
+}

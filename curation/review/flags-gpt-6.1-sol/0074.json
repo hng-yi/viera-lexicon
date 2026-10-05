@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "dự phòng",
+  "chuyên môn",
+  "kiềm chế",
+  "đại lộ",
+  "thanh niên",
+  "truy tìm",
+  "tù binh",
+  "hàng không",
+  "lãnh thổ",
+  "hiện nay",
+  "mồ côi",
+  "bánh xe",
+  "hạ sĩ",
+  "vận hành",
+  "lương thực",
+  "chính sách",
+  "dở hơi",
+  "bi kịch",
+  "vụn",
+  "độc lập",
+  "địt",
+  "đổ máu",
+  "nhà bếp",
+  "ép buộc",
+  "tủy",
+  "nguồn gốc",
+  "Mĩ",
+  "mĩ",
+  "hữu ích",
+  "bịt",
+  "chi phí",
+  "cao quý",
+  "quạ",
+  "thân thiết",
+  "khuya",
+  "chủng tộc",
+  "quý tộc",
+  "quý giá",
+  "canh gác",
+  "non"
+ ],
+ "flags": [
+  {
+   "headword": "Mĩ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Mĩ commonly names the United States itself, but the entry gives only the adjective.",
+   "fix": "noun | the United States; America (variant spelling of Mỹ)"
+  },
+  {
+   "headword": "khuya",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khuya can refer to late evening before midnight, so restricting it to the hours from midnight until near dawn is incorrect.",
+   "fix": "late night"
+  },
+  {
+   "headword": "chủng tộc",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chủng tộc means race, whereas an ethnic group is a different category.",
+   "fix": "race"
+  }
+ ]
+}

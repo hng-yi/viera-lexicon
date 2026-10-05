@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "mẹ thiên hạ",
+  "mẹ đẻ",
+  "mẻn",
+  "mếch",
+  "mềm èo",
+  "mệnh bạc",
+  "mệnh chung",
+  "mệnh một",
+  "mệnh đề",
+  "mệt nách",
+  "mệt quá",
+  "mệt rũ",
+  "mỉm cười",
+  "mị nương",
+  "mịt",
+  "mịt mùng",
+  "mọc rễ",
+  "mọc sừng",
+  "mọi cà lơ",
+  "mọi lúc",
+  "mọi rợ",
+  "mọi đen",
+  "mỏ hàn",
+  "mỏ lết",
+  "mỏ nhọn",
+  "mỏ ác",
+  "mỏa",
+  "mỏi nhừ",
+  "mỏng dính",
+  "mối nguy",
+  "mống mắt",
+  "mồm mép tép nhảy",
+  "mồn lèo",
+  "mồn mồn",
+  "mồng tơi",
+  "mổ cò",
+  "mỗi cây mỗi hoa, mỗi nhà mỗi cảnh",
+  "mỗi người một nẻo",
+  "mộ gió",
+  "mộc bản"
+ ],
+ "flags": [
+  {
+   "headword": "mỏ nhọn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone mỏ nhọn is derogatory, describing someone who likes verbal disputes ([dictionary](https://vi.wiktionary.org/wiki/m%E1%BB%8F_nh%E1%BB%8Dn)).",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "mỏ ác",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The fontanelle sense is Southern regional usage and needs that warning ([linguistics source](https://nguvan.hnue.edu.vn/Nghi%C3%AAn-c%E1%BB%A9u/Ng%C3%B4n-ng%E1%BB%AF/p/1813)).",
+   "fix": "Add Southern to the tags."
+  }
+ ]
+}

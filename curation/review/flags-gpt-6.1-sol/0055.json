@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "kim loại",
+  "sụp đổ",
+  "ngớ ngẩn",
+  "chúa tể",
+  "hành khách",
+  "làm quen",
+  "cân bằng",
+  "té",
+  "chị em",
+  "phóng viên",
+  "ưu tiên",
+  "chủ nhật",
+  "mắc kẹt",
+  "bẻ",
+  "dự đoán",
+  "nương",
+  "điếu",
+  "cạn",
+  "giải pháp",
+  "ban đêm",
+  "bá tước",
+  "nói thẳng",
+  "mở rộng",
+  "hàng loạt",
+  "tiết kiệm",
+  "chế tạo",
+  "người máy",
+  "tệ hại",
+  "phục hồi",
+  "lừa đảo",
+  "thu hút",
+  "ối",
+  "nửa đêm",
+  "chuyên",
+  "nhấn",
+  "kinh ngạc",
+  "trèo",
+  "sọ",
+  "trò chuyện",
+  "giọt"
+ ],
+ "flags": [
+  {
+   "headword": "chị em",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Chị em commonly refers to women collectively, including women who are unrelated ([dictionary](https://vdict.com/ch%E1%BB%8B%20em%2C3%2C0%2C0.html)).",
+   "fix": "Add: noun | women; women as a group. Example: Chị em trong cơ quan thường ăn trưa cùng nhau. = The women at the office often have lunch together."
+  },
+  {
+   "headword": "nương",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Nương vào nhau meaning to rely on each other remains current usage and is not archaic ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%C6%B0%C6%A1ng)).",
+   "fix": "Remove the archaic tag."
+  }
+ ]
+}

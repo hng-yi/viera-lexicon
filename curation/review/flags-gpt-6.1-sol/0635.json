@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đàn hạc",
+  "đàn hặc",
+  "đàn hồi",
+  "đàn nguyệt",
+  "đàn nhị",
+  "đàn tam",
+  "đàn tranh",
+  "đàn xếp",
+  "đàn ông xây nhà, đàn bà xây tổ ấm",
+  "đàn ông đàn ang",
+  "đàn đáy",
+  "đàn địch",
+  "đành hanh",
+  "đào luyện",
+  "đào lộn hột",
+  "đào mỏ",
+  "đào thải tự nhiên",
+  "đá bóng",
+  "đá chanh",
+  "đá cầu",
+  "đá da trời",
+  "đá dăm",
+  "đá gà",
+  "đá lông nheo",
+  "đá lưỡi",
+  "đá lạnh",
+  "đá nhám",
+  "đá ong",
+  "đá vỏ chai",
+  "đái ra quần",
+  "đái tháo đường",
+  "đám đông",
+  "đáng ghét",
+  "đáng gờm",
+  "đáng khinh",
+  "đáng kiếp",
+  "đáng sợ",
+  "đáng tin",
+  "đáng tiếc",
+  "đáng yêu"
+ ],
+ "flags": [
+  {
+   "headword": "đào lộn hột",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for cashew is used mainly in Southern Vietnamese ([regional usage](https://tamviet.net.vn/blogs/news/vi-sao-goi-qua-dieu-la-qua-dao-lon-hot)).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "đào mỏ",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are most likely to encounter the everyday gold-digging sense first ([dictionary entry](https://tudientv.com/?t=%C4%91%C3%A0o+m%E1%BB%8F)).",
+   "fix": "Place sense 2 before sense 1."
+  },
+  {
+   "headword": "đào mỏ",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone đào mỏ is derogatory, as the dictionary's explicit contempt warning confirms ([dictionary entry](https://tudientv.com/?t=%C4%91%C3%A0o+m%E1%BB%8F)).",
+   "fix": "Add the derogatory tag."
+  },
+  {
+   "headword": "đái ra quần",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression contains the vulgar verb đái, which informal alone does not adequately warn about.",
+   "fix": "Add the vulgar tag."
+  },
+  {
+   "headword": "đáng kiếp",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Ai bảo cậu không chịu học bài is a rhetorical rebuke for failing to study, rather than a question about who instructed the person not to study.",
+   "fix": "Serves you right—that's what you get for not studying."
+  }
+ ]
+}

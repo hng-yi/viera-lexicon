@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "tột",
+  "chua ngoa",
+  "phương ngữ",
+  "nội khoa",
+  "tài phiệt",
+  "chia buồn",
+  "tự cung tự cấp",
+  "múp",
+  "bút kí",
+  "moa",
+  "danh từ",
+  "chênh",
+  "dao nhíp",
+  "tơ tưởng",
+  "ròng ròng",
+  "tầm tã",
+  "cô nương",
+  "gió giật",
+  "bắp thịt",
+  "yểu điệu",
+  "bấu víu",
+  "cúng tế",
+  "ngõ hẻm",
+  "rốp rẻng",
+  "tra hỏi",
+  "xướng",
+  "chết hụt",
+  "tháng tám",
+  "văn nghệ",
+  "nhảy cẫng",
+  "Thát Đát",
+  "éo le",
+  "học thuật",
+  "giao hữu",
+  "bản doanh",
+  "lưu trú",
+  "cháy túi",
+  "chính đảng",
+  "nằm lòng",
+  "vắng bóng"
+ ],
+ "flags": [
+  {
+   "headword": "chua ngoa",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory description, especially of women, and needs an explicit warning ([dictionary](https://loigiaihay.com/tu-dien-tv/chua-ngoa-eZZdmzyHPdEwc.html)).",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "múp",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This meaning remains in ordinary contemporary use and is misleadingly labelled rare ([usage](https://nghengu.vn/tieng-nghe-cua-toi/mup-la-gi-1246.html)).",
+   "fix": "Remove the tag rare."
+  },
+  {
+   "headword": "bút kí",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bút kí records observations and reflections rather than specifically meaning memoir, which is hồi kí ([dictionary](https://loigiaihay.com/tu-dien-tv/but-ki-eX9Duo5mzPeHP.html)).",
+   "fix": "literary sketch; nonfiction prose recording the writer's observations and reflections"
+  },
+  {
+   "headword": "bút kí",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Một tập bút kí means a collection of literary sketches, whereas the translation incorrectly specifies a memoir ([dictionary](https://loigiaihay.com/tu-dien-tv/but-ki-eX9Duo5mzPeHP.html)).",
+   "fix": "She has just published a collection of literary sketches about her trip to the Northwest."
+  },
+  {
+   "headword": "rốp rẻng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern, particularly associated with the Mekong Delta, and lacks a regional label ([regional usage](https://kenh14.vn/rop-reng-la-gi-ma-nguoi-mien-tay-hay-dung-215250928220057476.chn)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "bản doanh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word has a formal register that the untagged entry does not convey ([reference](https://tudientiengviet.org/ban-doanh/)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "chính đảng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chính đảng means political party without implying that the party is recognised or legitimate ([dictionary](https://loigiaihay.com/tu-dien-tv/chinh-dang-eqpcZaNK0LOBa.html)).",
+   "fix": "political party"
+  }
+ ]
+}

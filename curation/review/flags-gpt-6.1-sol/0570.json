@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "thoá mạ",
+  "thoái hoá",
+  "thoáng qua",
+  "thoát hiểm",
+  "thoát nạn",
+  "thoát y vũ",
+  "thoăn thoắt",
+  "thoạ",
+  "thoả",
+  "thoả hiệp",
+  "thoả mãn",
+  "thoả thuê",
+  "thoả thuận",
+  "thoả thích",
+  "thoả đáng",
+  "thoảng",
+  "thu góp",
+  "thu gọn",
+  "thu lu",
+  "thu nhỏ",
+  "thu phí",
+  "thu thuỷ",
+  "thu thủy",
+  "thu tâm",
+  "thum",
+  "thuyên tắc",
+  "thuyên tắc phổi",
+  "thuyên tắc ối",
+  "thuyết mạt thế",
+  "thuyết nhất nguyên",
+  "thuyết thông linh",
+  "thuyết tiến hoá",
+  "thuyết trình viên",
+  "thuyền chài",
+  "thuyền nhân",
+  "thuyền quyên",
+  "thuyền rồng",
+  "thuyền tam bản",
+  "thuyền theo lái, gái theo chồng",
+  "thuyền độc mộc"
+ ],
+ "flags": [
+  {
+   "headword": "thoát y vũ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thoát y vũ names the striptease performance or activity, not the performer ([dictionary](https://dictionary.zim.vn/viet-anh/thoat-y-vu-tieng-anh-la-gi)).",
+   "fix": "Delete sense 2; the performance meaning is already covered by sense 1."
+  },
+  {
+   "headword": "thoả mãn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning 'to be satisfied; to feel content' is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-tho%E1%BA%A3%20m%C3%A3n)).",
+   "fix": "Add: satisfied; content — Tôi chưa thoả mãn với kết quả này. = I am not yet satisfied with this result."
+  }
+ ]
+}

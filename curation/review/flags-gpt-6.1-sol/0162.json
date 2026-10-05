@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "say sưa",
+  "vật chứng",
+  "phai",
+  "vật chủ",
+  "đón chào",
+  "đau thương",
+  "huyết quản",
+  "đa nghi",
+  "dơ dáy",
+  "điêu khắc",
+  "chúc phúc",
+  "lăng nhăng",
+  "nhập khẩu",
+  "thông đồng",
+  "les",
+  "miền Tây",
+  "cận",
+  "thủ trưởng",
+  "suất",
+  "tam",
+  "vương triều",
+  "sống động",
+  "súc",
+  "sôi động",
+  "phong cảnh",
+  "can dự",
+  "lặn lội",
+  "ngưỡng",
+  "bạo động",
+  "pha chế",
+  "ợ",
+  "thô tục",
+  "bão tuyết",
+  "chiến thuyền",
+  "nam tính",
+  "thị giác",
+  "thợ mộc",
+  "phân vân",
+  "hảo hạng",
+  "bích"
+ ],
+ "flags": [
+  {
+   "headword": "thủ trưởng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This institutional title and form of address needs a formal tag to prevent learners from treating it as an ordinary casual term for their boss.",
+   "fix": "tags: [formal]"
+  },
+  {
+   "headword": "bích",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Chiếc áo means a shirt or top here, not a dress.",
+   "fix": "The shirt is a lovely greenish blue."
+  }
+ ]
+}

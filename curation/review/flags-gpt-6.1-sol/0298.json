@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "túng",
+  "thanh thiên bạch nhật",
+  "nguyên trạng",
+  "bút tích",
+  "nhón",
+  "tử chiến",
+  "ê ẩm",
+  "sa trường",
+  "nây",
+  "sản phụ",
+  "tấp nập",
+  "hắt hủi",
+  "mưa rào",
+  "đối nội",
+  "bồng bềnh",
+  "nuông",
+  "thành danh",
+  "bủn",
+  "hảo hán",
+  "từ giã",
+  "tạm ứng",
+  "mốc meo",
+  "vòng đời",
+  "giới chức",
+  "suy dinh dưỡng",
+  "băng tần",
+  "chê trách",
+  "sát sinh",
+  "khư khư",
+  "nhăn nhở",
+  "vật phẩm",
+  "biến sắc",
+  "phố phường",
+  "nhạc chuông",
+  "sừng sững",
+  "cải tử hoàn sinh",
+  "phách lối",
+  "nhẫn nhục",
+  "thinh không",
+  "dung tích"
+ ],
+ "flags": [
+  {
+   "headword": "nhón",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner is most likely to encounter nhón in nhón chân or nhón gót, meaning to stand on tiptoe.",
+   "fix": "Put sense 2 first, followed by senses 1 and 3."
+  },
+  {
+   "headword": "giới chức",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Giới chức belongs to formal reporting and would sound unnatural as an everyday conversational word for officials.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

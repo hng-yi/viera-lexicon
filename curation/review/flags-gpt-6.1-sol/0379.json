@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "tiền tiêu",
+  "bồi đắp",
+  "cá nước",
+  "tính sổ",
+  "đành rằng",
+  "tổng lãnh sự",
+  "hăm he",
+  "ánh xạ",
+  "dựng chuyện",
+  "ngoẹo",
+  "âm binh",
+  "Hắc Hải",
+  "cách li",
+  "gà mờ",
+  "soái ca",
+  "đỏm",
+  "người đẹp",
+  "từ điển bách khoa",
+  "chim nhại",
+  "sâu cay",
+  "bám sát",
+  "đạo Lão",
+  "cử tạ",
+  "nghị sự",
+  "tiếng Anh",
+  "tối cổ",
+  "ý vị",
+  "mụ mị",
+  "đặc tài",
+  "óng mượt",
+  "dốt đặc",
+  "ươn",
+  "tam giác vuông",
+  "vô hình trung",
+  "cờ vây",
+  "hàm nghĩa",
+  "vốc",
+  "cáo từ",
+  "quạt máy",
+  "hưu bổng"
+ ],
+ "flags": [
+  {
+   "headword": "tiền tiêu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tiền tiêu denotes a forward guard position, whereas an advance guard is a body of troops ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ti%C3%AA%n%20ti%C3%AAu)).",
+   "fix": "outpost; forward guard post"
+  },
+  {
+   "headword": "cá nước",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the fish-and-water comparison instead of using the expression in context.",
+   "fix": "Remove this example."
+  },
+  {
+   "headword": "âm binh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The colloquial insult refers to someone troublesome or destructive, not someone incompetent ([Southern usage](https://www.mientayduky.com/ngon-ngu-binh-dan-cua-nguoi-nam-bo/)).",
+   "fix": "troublesome; mischievous; troublemaker (an insult)"
+  },
+  {
+   "headword": "âm binh",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The Vietnamese insult does not assert incompetence ([Southern usage](https://www.mientayduky.com/ngon-ngu-binh-dan-cua-nguoi-nam-bo/)).",
+   "fix": "You little troublemaker!"
+  },
+  {
+   "headword": "âm binh",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This colloquial insulting use is chiefly Southern and needs a regional label ([Southern usage](https://www.mientayduky.com/ngon-ngu-binh-dan-cua-nguoi-nam-bo/)).",
+   "fix": "[Southern, colloquial, derogatory]"
+  },
+  {
+   "headword": "âm binh",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This colloquial insulting use is chiefly Southern and needs a regional label ([Southern usage](https://scr.vn/tieng-mien-nam.html)).",
+   "fix": "[Southern, colloquial, vulgar]"
+  },
+  {
+   "headword": "Hắc Hải",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the name rather than using it to refer to the sea.",
+   "fix": "Con tàu đi qua Hắc Hải. = The ship sailed across the Black Sea."
+  },
+  {
+   "headword": "nghị sự",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nghị sự belongs to formal meeting and institutional language, so leaving it untagged misrepresents its register ([dictionary](https://tudientiengviet.org/nghi-su/)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "tam giác vuông",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a right triangle instead of using the term in context.",
+   "fix": "Em vẽ một tam giác vuông vào vở. = I drew a right triangle in my notebook."
+  },
+  {
+   "headword": "hưu bổng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Hưu bổng is a formal term for a pension and is misleading as an unmarked everyday expression ([dictionary](https://dictionary.zim.vn/viet-anh/huu-bong-tieng-anh-la-gi)).",
+   "fix": "[formal]"
+  }
+ ]
+}

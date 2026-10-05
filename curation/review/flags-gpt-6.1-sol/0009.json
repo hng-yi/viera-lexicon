@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "coi",
+  "thử",
+  "đội",
+  "ồ",
+  "phút",
+  "thực sự",
+  "lâu",
+  "kìa",
+  "kể",
+  "quên",
+  "đầu tiên",
+  "bởi vì",
+  "vợ",
+  "an toàn",
+  "buổi",
+  "chắc chắn",
+  "ơn",
+  "tuyệt",
+  "máy",
+  "mỗi",
+  "học",
+  "mặt",
+  "trời",
+  "cảm thấy",
+  "thuốc",
+  "một chút",
+  "khiến",
+  "duy nhất",
+  "quan tâm",
+  "tháng",
+  "tuần",
+  "cổ",
+  "quan trọng",
+  "thật sự",
+  "trở lại",
+  "phần",
+  "chó",
+  "hơi",
+  "mua",
+  "thay đổi"
+ ],
+ "flags": [
+  {
+   "headword": "kể",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning “to list; to enumerate,” as in kể tên, is missing.",
+   "fix": "to list; to enumerate — Em hãy kể tên ba loại trái cây. = Name three kinds of fruit."
+  },
+  {
+   "headword": "thực sự",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjectival meaning “real; genuine” is missing.",
+   "fix": "real; genuine — Đây mới là vấn đề thực sự. = This is the real problem."
+  }
+ ]
+}

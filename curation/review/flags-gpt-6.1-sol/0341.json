@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "mân mê",
+  "hanh",
+  "đay nghiến",
+  "nôm na",
+  "a hoàn",
+  "trực nhật",
+  "tê cóng",
+  "muống",
+  "thống phong",
+  "chất chơi",
+  "song thân",
+  "bạo tàn",
+  "tiết niệu",
+  "nhuận tràng",
+  "lương bổng",
+  "tử thù",
+  "miên man",
+  "lương dân",
+  "khánh",
+  "com lê",
+  "mố",
+  "hiến dâng",
+  "bàn chà",
+  "dê già",
+  "hạ sách",
+  "thường thường",
+  "ễnh ương",
+  "văn bằng",
+  "bợn",
+  "vun vén",
+  "cung đình",
+  "sâu róm",
+  "ở rể",
+  "cắt cử",
+  "chuẩn tinh",
+  "đặc khu",
+  "dưỡng dục",
+  "thút thít",
+  "sắm sửa",
+  "rối beng"
+ ],
+ "flags": [
+  {
+   "headword": "muống",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The water-spinach sense is still current; [VDict](https://vdict.com/mu%E1%BB%91ng%2C2%2C0%2C0.html) marks the shortened form as uncommon, not archaic.",
+   "fix": "Replace archaic with uncommon; retain in-compounds."
+  },
+  {
+   "headword": "muống",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are much more likely to encounter muống referring to water spinach, especially in rau muống, than referring to a funnel.",
+   "fix": "Put the water-spinach sense first and the funnel sense second."
+  },
+  {
+   "headword": "lương dân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Lương dân meaning innocent civilians belongs to literary or formal narration and is misleading as an unmarked everyday term.",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "hiến dâng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Hiến dâng has a solemn, formal or literary register rather than the everyday register suggested by the unmarked gloss.",
+   "fix": "Add formal and literary."
+  },
+  {
+   "headword": "chuẩn tinh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines quasars instead of showing the word in use.",
+   "fix": "Các nhà thiên văn vừa phát hiện một chuẩn tinh rất sáng. = Astronomers have just discovered a very bright quasar."
+  }
+ ]
+}

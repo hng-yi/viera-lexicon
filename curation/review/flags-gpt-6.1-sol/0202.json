@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tham vấn",
+  "phế",
+  "quốc khánh",
+  "khăn quàng",
+  "hoành hành",
+  "triệt tiêu",
+  "gieo rắc",
+  "dân gian",
+  "dinh",
+  "cực độ",
+  "mê sảng",
+  "ngủm",
+  "xế",
+  "hích",
+  "sung túc",
+  "pha trò",
+  "lạm phát",
+  "uyên ương",
+  "tận tình",
+  "vừng",
+  "răn",
+  "quy hoạch",
+  "ứng xử",
+  "binh khí",
+  "bằng phẳng",
+  "bại lộ",
+  "khinh khí",
+  "gam",
+  "nhà sư",
+  "tất yếu",
+  "ô danh",
+  "bóng bẩy",
+  "lao phổi",
+  "kiêng",
+  "yên thân",
+  "nhiễu loạn",
+  "ganh",
+  "kinh hãi",
+  "thiên mệnh",
+  "tàu lửa"
+ ],
+ "flags": [
+  {
+   "headword": "tham vấn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to formal or professional contexts and needs a register warning ([reference](https://tudientiengviet.org/tham-van/)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "khinh khí",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's meaning instead of using it.",
+   "fix": "Người ta bơm khinh khí vào quả bóng. = They pump hydrogen into the balloon."
+  }
+ ]
+}

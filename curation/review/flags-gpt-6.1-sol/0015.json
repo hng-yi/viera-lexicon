@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "nhóm",
+  "đám",
+  "lựa chọn",
+  "vô",
+  "cắt",
+  "vua",
+  "thuộc",
+  "riêng",
+  "tự do",
+  "tham gia",
+  "cưng",
+  "cảm giác",
+  "hoạt động",
+  "hẳn",
+  "tòa",
+  "mơ",
+  "vàng",
+  "toàn bộ",
+  "tình yêu",
+  "sử dụng",
+  "khoan",
+  "suy nghĩ",
+  "vượt",
+  "tim",
+  "trái",
+  "giải thích",
+  "lối",
+  "lệnh",
+  "giúp đỡ",
+  "hẹn",
+  "hát",
+  "anh em",
+  "khách",
+  "to",
+  "đông",
+  "nổ",
+  "rắc rối",
+  "phép",
+  "tiến",
+  "ngu"
+ ],
+ "flags": [
+  {
+   "headword": "đám",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common standalone meaning of a social or family occasion, especially a wedding or funeral.",
+   "fix": "noun | social or family occasion, especially a wedding or funeral; ex: Hôm nay nhà bên có đám. = The neighbours have a family occasion today."
+  },
+  {
+   "headword": "thuộc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This meaning is routinely used in ordinary conversation and is not restricted to formal language.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "hoạt động",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hoạt động does not mean an active or enthusiastic member in the construction shown.",
+   "fix": "Delete this sense."
+  },
+  {
+   "headword": "trái",
+   "sense": 7,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Trái meaning wrong remains current in familiar expressions about right and wrong, including the example given.",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "nổ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of an engine starting or running.",
+   "fix": "verb | to start; to run (of an engine); ex: Máy không nổ. = The engine won't start."
+  },
+  {
+   "headword": "ngu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ngu is derogatory, but the tags provide no warning about that use.",
+   "fix": "Add the derogatory tag."
+  }
+ ]
+}

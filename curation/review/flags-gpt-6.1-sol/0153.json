@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "tiện lợi",
+  "thiện",
+  "dũng mãnh",
+  "kiên quyết",
+  "ngăn nắp",
+  "đồng bào",
+  "truyền đạt",
+  "chính thống",
+  "vụng",
+  "bất bại",
+  "coi bộ",
+  "hen",
+  "đồn đại",
+  "ngán",
+  "vồng",
+  "điện đàm",
+  "chữ số",
+  "ngũ cốc",
+  "dao động",
+  "đòn bẩy",
+  "đánh lộn",
+  "tinh thể",
+  "cay đắng",
+  "loãng",
+  "rám",
+  "dây xích",
+  "hóa thạch",
+  "diện mạo",
+  "chứng khoán",
+  "hộ vệ",
+  "xóa sổ",
+  "khuy",
+  "vàng bạc",
+  "phường",
+  "ninh",
+  "thống chế",
+  "mòn",
+  "băng hà",
+  "chiến tuyến",
+  "linh hoạt"
+ ],
+ "flags": [
+  {
+   "headword": "ngán",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial meaning 'afraid of; daunted by' is missing, as in 'chẳng ngán ai' ([dictionary](https://v2.rung.vn/dict/vn_vn/Ng%C3%A1n)).",
+   "fix": "Add: [colloquial] afraid of; daunted by. Example: Anh ấy chẳng ngán ai. = He isn't afraid of anyone."
+  },
+  {
+   "headword": "ngũ cốc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the Five Grains instead of showing the term in use.",
+   "fix": "Người dân dâng ngũ cốc trong lễ tế. = The villagers offered the Five Grains during the ritual."
+  },
+  {
+   "headword": "hộ vệ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This elevated word for escorting and protecting needs a register warning to prevent casual use.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "khuy",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The 'button' meaning is mainly Northern and contrasts with regional 'buttonhole' usage ([regional dictionary](https://download.thuthuatphanmem.vn/uploads/2022/09/27/khotudientienghue_100441.pdf)).",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "khuy",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The 'buttonhole' meaning is Central and Southern usage and needs regional labels ([regional dictionary](https://download.thuthuatphanmem.vn/uploads/2022/09/27/khotudientienghue_100441.pdf)).",
+   "fix": "Add the tags Central and Southern."
+  },
+  {
+   "headword": "phường",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The derogatory collective meaning remains current in expressions such as 'phường lừa đảo,' so 'dated' is misleading.",
+   "fix": "Remove dated; retain derogatory."
+  },
+  {
+   "headword": "thống chế",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the military rank instead of showing the word in use.",
+   "fix": "Vị thống chế ra lệnh rút quân. = The marshal ordered the troops to withdraw."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "gốc Việt",
+  "gốc tích",
+  "gốc tử",
+  "gốc tự do",
+  "gối dựa",
+  "gối xếp",
+  "gối ôm",
+  "gồm ba",
+  "gỗ trôi giạt",
+  "gộc",
+  "gội đầu",
+  "gờ kép",
+  "gờ đơn",
+  "gờ-rác",
+  "gỡ bỏ",
+  "gỡ gạc",
+  "gợi mở",
+  "gợi tả",
+  "gợi đòn",
+  "gục gặc",
+  "gục ngã",
+  "gừng càng già càng cay",
+  "gửi rể",
+  "gửi trứng cho ác",
+  "hack não",
+  "hafini",
+  "hai chấm",
+  "hai lúa",
+  "hai mươi ba",
+  "hai mươi hai",
+  "hai mươi mốt",
+  "hai ngón",
+  "hai người đàn bà và một con vịt thành cái chợ",
+  "hai thân",
+  "ham chuộng",
+  "hanh thông",
+  "hassi",
+  "hay chữ",
+  "hay ho",
+  "heo quay"
+ ],
+ "flags": [
+  {
+   "headword": "gối xếp",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This names a folding pillow, rather than any cushion or pillow, as distinguished in [DOL Dictionary](https://tudien.dolenglish.vn/goi-xep-tieng-anh-la-gi).",
+   "fix": "folding pillow; foldable pillow"
+  },
+  {
+   "headword": "gồm ba",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gồm ba means 'consisting of three' and is not Vietnamese sexual slang for a threesome.",
+   "fix": "Remove this sexual sense."
+  },
+  {
+   "headword": "gộc",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gộc does not mean experienced or veteran; its adjectival meaning concerns exceptional size or magnitude, as recorded in [Rung's dictionary](https://v2.rung.vn/dict/vn_vn/G%E1%BB%99c).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "gộc",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Thân gộc is unnatural here because this size expression normally combines with to.",
+   "fix": "Cây này to gộc, hai người ôm không xuể. = This tree is enormous; two people cannot reach around it."
+  },
+  {
+   "headword": "gờ kép",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it in context.",
+   "fix": "Em viết nhầm gờ kép thành gờ đơn. = I mistakenly wrote g instead of gh."
+  },
+  {
+   "headword": "gờ đơn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the letter name instead of using it in context.",
+   "fix": "Chỗ này phải viết gờ đơn. = You need to write g here."
+  }
+ ]
+}

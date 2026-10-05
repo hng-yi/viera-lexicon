@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "điền khí",
+  "điều dưỡng viên",
+  "điều hoà",
+  "điều khiển từ xa",
+  "điều kiện cần",
+  "điều kiện đủ",
+  "điều màu",
+  "điều nghiên",
+  "điều phải chứng minh",
+  "điều tra dân số",
+  "điều vị",
+  "điểm chỉ",
+  "điểm cực",
+  "điểm hẹn",
+  "điểm nhấn",
+  "điểm sấm",
+  "điểm tụ",
+  "điểm uốn",
+  "điểm vàng",
+  "điểm xuyết",
+  "điển tích",
+  "điện cơ đồ",
+  "điện dẫn",
+  "điện hoá",
+  "điện khí",
+  "điện li",
+  "điện lưới",
+  "điện mặt trời",
+  "điện não",
+  "điện não đồ",
+  "điện phân",
+  "điện quang",
+  "điện thoại bàn",
+  "điện thoại công cộng",
+  "điện thoại cục gạch",
+  "điện thoại niên giám",
+  "điện thoại thông minh",
+  "điện thư",
+  "điện toán đám mây",
+  "điện trở"
+ ],
+ "flags": [
+  {
+   "headword": "điều hoà",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The everyday noun meaning 'air conditioner' is mainly Northern usage.",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "điện lưới",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Điện lưới means electricity supplied by the grid, whereas the grid itself is lưới điện, consistent with [manufacturer usage](https://cdn.commerce.boschsecurity.com/public/documents/OM_Operation_Manual_viVN_27021612497979787.pdf).",
+   "fix": "mains electricity"
+  },
+  {
+   "headword": "điện não",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what someone calls a computer instead of using the headword to refer to one.",
+   "fix": "Chiếc điện não cũ của ông vẫn còn hoạt động. = His old computer still works."
+  },
+  {
+   "headword": "điện thoại công cộng",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Public telephones are less common today, but điện thoại công cộng remains the ordinary current term for them.",
+   "fix": "Remove the tag dated."
+  },
+  {
+   "headword": "điện toán đám mây",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Chuyển dữ liệu lên điện toán đám mây unnaturally treats a computing technology as a storage destination.",
+   "fix": "Công ty sử dụng điện toán đám mây để lưu trữ dữ liệu. = The company uses cloud computing to store data."
+  }
+ ]
+}

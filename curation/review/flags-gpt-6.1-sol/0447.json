@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "cảnh sát trưởng",
+  "cảnh trí",
+  "cảnh tỉnh",
+  "cảo thơm",
+  "cảy",
+  "cấm chỉ",
+  "cấm cung",
+  "cấm cố",
+  "cấm cửa",
+  "cấm lệnh",
+  "cấm tuyệt",
+  "cấm địa",
+  "cấp số",
+  "cấp uỷ",
+  "cấp ủy",
+  "cất trữ",
+  "cấu chí",
+  "cấu trúc dữ liệu",
+  "cấu âm",
+  "cấy hái",
+  "cầm bút",
+  "cầm bằng",
+  "cầm điểu",
+  "cầm đèn chạy trước ô tô",
+  "cần cỏ",
+  "cần kiệm",
+  "cần kíp",
+  "cần lao",
+  "cần lời giải thích",
+  "cần nước",
+  "cần thăng",
+  "cần thủ",
+  "cần tăng dân số",
+  "cần xé",
+  "cần ích",
+  "cầu an",
+  "cầu bơ cầu bất",
+  "cầu chui",
+  "cầu chì",
+  "cầu cạn"
+ ],
+ "flags": [
+  {
+   "headword": "cần tăng dân số",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the expression instead of using it to refer to a penis.",
+   "fix": "Anh ta bị đá trúng cần tăng dân số. = He was kicked in his \"population-boosting tool\"."
+  },
+  {
+   "headword": "cần xé",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is mainly Southern vocabulary, as documented in [Từ điển từ ngữ Nam Bộ](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html), but lacks a regional tag.",
+   "fix": "Add Southern to the tags."
+  }
+ ]
+}

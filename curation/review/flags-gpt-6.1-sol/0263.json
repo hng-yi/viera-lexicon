@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "toàn thắng",
+  "vận số",
+  "điện thế",
+  "hoa tai",
+  "mít tinh",
+  "cồng kềnh",
+  "mẹt",
+  "cảo",
+  "hợp thành",
+  "chất xám",
+  "cô hồn",
+  "cất công",
+  "ngóng",
+  "ban bố",
+  "ích lợi",
+  "thường phục",
+  "Quanh Năm",
+  "quanh năm",
+  "tuần duyên",
+  "ma trơi",
+  "môn học",
+  "lang băm",
+  "vẩn vơ",
+  "hĩm",
+  "giãy",
+  "thân tình",
+  "chập chờn",
+  "muộn phiền",
+  "kiện cáo",
+  "gay cấn",
+  "tai biến",
+  "sinh sự",
+  "đồng môn",
+  "cơ mật",
+  "sâm banh",
+  "mâu",
+  "khuyên bảo",
+  "ngăm",
+  "ngóc",
+  "hội thẩm"
+ ],
+ "flags": [
+  {
+   "headword": "cô hồn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Learners will also commonly encounter cô hồn as a derogatory term for a thug or troublemaker.",
+   "fix": "Add noun [colloquial, derogatory]: thug; troublemaker."
+  },
+  {
+   "headword": "giãy",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Giãy does not have the adjective meaning given here; its uncommon intensifying use concerns extreme heat ([dictionary](https://vi.wiktionary.org/wiki/gi%C3%A3y)).",
+   "fix": "Delete sense 3 and its example."
+  },
+  {
+   "headword": "chập chờn",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Chập chờn describing flickering light is neutral usage, so the literary tag unnecessarily discourages ordinary use.",
+   "fix": "Remove the literary tag."
+  }
+ ]
+}

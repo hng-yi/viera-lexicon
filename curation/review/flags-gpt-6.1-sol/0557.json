@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "rừng nho biển thánh",
+  "rừng rậm",
+  "rừng thiêng nước độc",
+  "rừng thưa",
+  "rừng vàng biển bạc",
+  "rử",
+  "rựng",
+  "sa cơ lỡ vận",
+  "sa di",
+  "sa giông",
+  "sa kê",
+  "sa môn",
+  "sa mạc hoá",
+  "sa mạc hóa",
+  "sa sầm",
+  "sa tế",
+  "sa đoạ",
+  "sa đì",
+  "sai bảo",
+  "sai một li đi một dặm",
+  "sang chấn",
+  "sang ngang",
+  "sang sảng",
+  "sang số",
+  "sang tên",
+  "sao Vĩ",
+  "sao biển",
+  "sao băng",
+  "sao khổng lồ đỏ",
+  "sao kê",
+  "sao la",
+  "sao lùn trắng",
+  "sao sao",
+  "sao xẹt",
+  "sao y bản chính",
+  "sao đen",
+  "sao đỏ",
+  "sau chót",
+  "sau cánh gà",
+  "sau hết"
+ ],
+ "flags": [
+  {
+   "headword": "rừng nho biển thánh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The expression refers to the vast body of Confucian learning, so equating an individual scholar with it misuses it ([source](https://www.daotam.info/booksv/pdf/NguyenVanHong/nutrungtungphan_gtct.pdf)).",
+   "fix": "Ông miệt mài đèn sách giữa rừng nho biển thánh. = He devoted himself to studying amid the vast body of Confucian learning."
+  },
+  {
+   "headword": "sang ngang",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means that a woman marries, not merely that she starts a new romantic relationship ([dictionary](https://tudientv.com/?t=sang+ngang)).",
+   "fix": "to get married (of a woman)"
+  },
+  {
+   "headword": "sao Vĩ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the name denotes instead of using it in context.",
+   "fix": "Người xưa quan sát sao Vĩ để dự đoán thời tiết. = People in the past observed the Tail mansion to predict the weather."
+  },
+  {
+   "headword": "sao y bản chính",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common administrative meaning referring to an exact, certified copy of an original document ([source](https://hethongphapluat.vn/sao-y-ban-chinh.html)).",
+   "fix": "[formal] to make a certified true copy of an original document; certified true copy"
+  }
+ ]
+}

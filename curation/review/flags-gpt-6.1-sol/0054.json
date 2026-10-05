@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "phá hoại",
+  "bất tử",
+  "manh mối",
+  "pháo",
+  "ví",
+  "phụ trách",
+  "thượng nghị sĩ",
+  "tảng",
+  "trước tiên",
+  "hãng",
+  "bao vây",
+  "biên dịch",
+  "trợ giúp",
+  "khúc",
+  "vở",
+  "khủng long",
+  "quốc tế",
+  "yêu thích",
+  "sơ",
+  "sẹo",
+  "phát minh",
+  "vi phạm",
+  "lành",
+  "thai",
+  "khùng",
+  "nhắm mắt",
+  "tiền bạc",
+  "vịt",
+  "hố",
+  "dịch vụ",
+  "thanh toán",
+  "tài xế",
+  "bấm",
+  "giây phút",
+  "chuồn",
+  "giải phóng",
+  "môi",
+  "nghi phạm",
+  "rác rưởi",
+  "tính toán"
+ ],
+ "flags": [
+  {
+   "headword": "ví",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Ví meaning wallet is standard Vietnamese used across regions, so Northern misleadingly restricts its use.",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "ví",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ví meaning to liken is also used in ordinary speech, including the supplied example.",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "khủng long",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains that an animal is called khủng long instead of directly using the word for that animal.",
+   "fix": "Con khủng long biển trong phim có cái cổ rất dài. = The marine dinosaur in the film has a very long neck."
+  },
+  {
+   "headword": "sơ",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter sơ meaning briefly or cursorily, as in nói sơ qua, than its initial or preliminary compound sense.",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "nhắm mắt",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nhắm mắt meaning to die is a euphemism also used in ordinary conversation and is not restricted to formal speech.",
+   "fix": "Keep euphemistic; remove formal."
+  },
+  {
+   "headword": "nhắm mắt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of acting blindly or without considering the consequences is missing, as documented in [this dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-nh%E1%BA%AFm%20m%E1%BA%AFt).",
+   "fix": "to act blindly; to do something without considering the consequences"
+  },
+  {
+   "headword": "môi",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Môi meaning ladle is also used in Northern Vietnamese, so Central gives an incorrect regional restriction.",
+   "fix": "Remove Central."
+  },
+  {
+   "headword": "tính toán",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tính toán concerns calculation or weighing personal advantage, rather than envy, as shown in [this dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%C3%ADnh%20to%C3%A1n).",
+   "fix": "Delete sense 3; its valid calculating meaning is already covered by sense 2."
+  }
+ ]
+}

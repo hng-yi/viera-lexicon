@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "quạnh",
+  "quạnh quẽ",
+  "quạt điện",
+  "quạu đeo",
+  "quả báo",
+  "quả cầu tuyết",
+  "quả mọng",
+  "quả phụ",
+  "quả thể",
+  "quả văng",
+  "quản bút",
+  "quản cơ",
+  "quản thủ",
+  "quản tượng",
+  "quảy",
+  "quần xì-líp",
+  "quần yếm",
+  "quẫn bách",
+  "quận chúa",
+  "quận hạt",
+  "quận uỷ",
+  "quận ủy",
+  "quật khởi",
+  "quật ngã",
+  "quắt quằn quặt",
+  "quặm",
+  "quế bì",
+  "quế đơn",
+  "quếch",
+  "quốc giáo",
+  "quốc hoa",
+  "quốc huy",
+  "quốc học",
+  "quốc hồn",
+  "quốc hữu hoá",
+  "quốc kì",
+  "quốc ngữ",
+  "quốc phục",
+  "quốc quân",
+  "quốc sách"
+ ],
+ "flags": [
+  {
+   "headword": "quạu đeo",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern Vietnamese and needs a regional label; [quạu is documented as Southern](https://vi.wiktionary.org/wiki/qu%E1%BA%A1u).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "quẫn bách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to formal or literary usage, which the untagged entry fails to indicate ([dictionary reference](https://vdict.com/qu%E1%BA%A9n%20b%C3%A1ch%2C3%2C0%2C0.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "quốc ngữ",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what people called chữ Nôm instead of using quốc ngữ to mean that script.",
+   "fix": "Ông đọc được những bài thơ quốc ngữ viết bằng chữ Nôm. = He could read the poems written in chữ Nôm."
+  }
+ ]
+}

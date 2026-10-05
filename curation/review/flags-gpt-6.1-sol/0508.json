@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "mau mắn",
+  "mau nước mắt",
+  "me Tây",
+  "me-xừ",
+  "meitneri",
+  "meme",
+  "men tiêu hoá",
+  "men tiêu hóa",
+  "mentor",
+  "menđelevi",
+  "mi nhon",
+  "mi tâm",
+  "mi-crô",
+  "mi-li-mét",
+  "mifepristone",
+  "minh hoạ",
+  "minh mông",
+  "minh quyết",
+  "minh quản",
+  "minh ti",
+  "minh tinh màn bạc",
+  "minh tâm khắc cốt",
+  "minh xác",
+  "miêu duệ",
+  "miếng trầu là đầu câu chuyện",
+  "miếu hiệu",
+  "miền xuôi",
+  "miễn bàn",
+  "miễn chấp",
+  "miễn dịch cộng đồng",
+  "miễn dịch học",
+  "miễu",
+  "miệng hùm gan sứa",
+  "miệng lưỡi",
+  "miệng nam mô, bụng một bồ dao găm",
+  "miệng ăn núi lở",
+  "miệt vườn",
+  "mlem",
+  "mo nang",
+  "molipđen"
+ ],
+ "flags": [
+  {
+   "headword": "meitneri",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of showing the word in use.",
+   "fix": "Các nhà khoa học đã tổng hợp meitneri trong phòng thí nghiệm. = Scientists have synthesised meitnerium in the laboratory."
+  },
+  {
+   "headword": "menđelevi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the element by its atomic number instead of showing the word in use.",
+   "fix": "Nhóm nghiên cứu đã tạo ra một lượng rất nhỏ menđelevi. = The research team produced a very small amount of mendelevium."
+  },
+  {
+   "headword": "minh quyết",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what kind of plant minh quyết is instead of showing the word in use.",
+   "fix": "Họ trồng minh quyết để thu hoạch quả. = They grow carob trees to harvest their fruit."
+  },
+  {
+   "headword": "minh quản",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example repeats the definition of the organ instead of showing the word in use.",
+   "fix": "Bệnh này làm tổn thương minh quản của con chim. = This disease damages the bird's syrinx."
+  },
+  {
+   "headword": "miếu hiệu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines miếu hiệu instead of showing the word in use.",
+   "fix": "Sử gia thường gọi vị vua ấy bằng miếu hiệu. = Historians often refer to that emperor by his temple name."
+  },
+  {
+   "headword": "miễn bàn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The emphatic use illustrated by ngon miễn bàn is casual speech, so the formal tag is misleading.",
+   "fix": "Replace formal with colloquial."
+  }
+ ]
+}

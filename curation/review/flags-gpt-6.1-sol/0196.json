@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "điểm nóng",
+  "ăn hại",
+  "gói ghém",
+  "nhè",
+  "khai phá",
+  "đùng",
+  "bổn",
+  "nhạy",
+  "ảo thuật gia",
+  "gờm",
+  "hài cốt",
+  "diện kiến",
+  "nghịch ngợm",
+  "triển",
+  "buôn người",
+  "rào",
+  "thơ ca",
+  "mò mẫm",
+  "dục vọng",
+  "tâm điểm",
+  "khô ráo",
+  "triệt hạ",
+  "vĩ độ",
+  "ig",
+  "tiền sảnh",
+  "khống",
+  "kiện tụng",
+  "bưu phẩm",
+  "thâu tóm",
+  "gừng",
+  "hiện trạng",
+  "xa xa",
+  "kêu ca",
+  "lỗ đít",
+  "tàu thuyền",
+  "bừa bộn",
+  "cầm thú",
+  "lò rèn",
+  "gô",
+  "pằng"
+ ],
+ "flags": [
+  {
+   "headword": "rào",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The river sense is characteristic of Central Vietnamese, as documented in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf), so Northern is misleading.",
+   "fix": "Tags: [Central]."
+  },
+  {
+   "headword": "thơ ca",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thơ ca means poetry, not the arts generally; the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%C6%A1%20ca) does not support this separate sense.",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

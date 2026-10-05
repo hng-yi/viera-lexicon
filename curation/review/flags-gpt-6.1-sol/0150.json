@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "huyệt",
+  "phung phí",
+  "học giả",
+  "thanh lịch",
+  "thù ghét",
+  "vạn vật",
+  "lựa",
+  "tuyên án",
+  "súng đạn",
+  "chọc tức",
+  "gù",
+  "tồi tàn",
+  "chiến hạm",
+  "thân cận",
+  "cải cách",
+  "nhiễu",
+  "tư duy",
+  "công an",
+  "sức ép",
+  "duỗi",
+  "sơ hở",
+  "mất tiêu",
+  "thùng xe",
+  "nổi danh",
+  "tuyệt cú",
+  "bịa đặt",
+  "giương",
+  "suy giảm",
+  "khiển trách",
+  "khởi tố",
+  "bi thảm",
+  "trị vì",
+  "khẩu vị",
+  "ân hận",
+  "vụng về",
+  "ven",
+  "nghếch",
+  "sấp",
+  "nước đá",
+  "hữu"
+ ],
+ "flags": [
+  {
+   "headword": "tuyệt cú",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the defining structure of tuyệt cú instead of showing it in use.",
+   "fix": "Ông viết một bài tuyệt cú về mùa thu. = He wrote a jueju poem about autumn."
+  },
+  {
+   "headword": "nước đá",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This everyday term for ice is mainly Southern but lacks a regional tag, as documented in this [dialect guide](https://eword.vn/southern-vietnamese-words).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "hữu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the term's place in Buddhist doctrine instead of showing it in use.",
+   "fix": "Nhà sư giảng về hữu trong thập nhị nhân duyên. = The monk explained becoming in the twelve links of dependent origination."
+  }
+ ]
+}

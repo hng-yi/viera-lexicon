@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "xum xuê",
+  "xung khắc",
+  "xung yếu",
+  "xupap",
+  "xuyên khung",
+  "xuyên quốc gia",
+  "xuyên sơn",
+  "xuyên sơn giáp",
+  "xuân hạ thu đông",
+  "xuân sơn",
+  "xuân tiết",
+  "xuân đào",
+  "xuôi chiều",
+  "xuôi xị",
+  "xuýt xoa",
+  "xuất cư",
+  "xuất kì bất ý",
+  "xuất quỷ nhập thần",
+  "xuất siêu",
+  "xuất sĩ",
+  "xuất ư ý ngoại",
+  "xuề xoà",
+  "xuống cân",
+  "xuống hố",
+  "xuống lỗ",
+  "xuống số",
+  "xuồng ba lá",
+  "xuồng cứu sinh",
+  "xuỳ",
+  "xà cột",
+  "xà mâu",
+  "xà neng",
+  "xà niêng",
+  "xà quần",
+  "xà tích",
+  "xài phí",
+  "xá xíu",
+  "xá xị",
+  "xác pháo",
+  "xác ướp"
+ ],
+ "flags": [
+  {
+   "headword": "xuyên sơn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word is called instead of using it in context.",
+   "fix": "Con xuyên sơn cuộn mình lại khi gặp nguy hiểm. = The pangolin curls up when threatened."
+  },
+  {
+   "headword": "xà neng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This fishing implement's name belongs mainly to Southern Vietnamese, as documented in [research on Nam Bộ vocabulary](https://scholar.dlu.edu.vn/thuvienso/bitstream/DLU123456789/132262/1/CVv517S022020014.pdf).",
+   "fix": "[uncommon, Southern]"
+  },
+  {
+   "headword": "xà quần",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word describes going round in circles or fussing about without progress, rather than being tied down by responsibilities; see [Southern usage](https://thuviennguyenanninh.vn/blog/chuyen-chu-nghia-phuong-nam-ca-re-xa-quan-ca-rich-ca-tang-cham-thi-goi-sao-cung-duoc-ma.html).",
+   "fix": "to go round in circles; to fuss about without getting anywhere"
+  },
+  {
+   "headword": "xà quần",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is mainly a Southern expression, as identified in [this account of Nam Bộ vocabulary](https://nghengu.vn/tieng-nghe-cua-toi/xa-quang-hay-xa-quan-1986.html).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "xác pháo",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the familiar meaning of paper debris left after firecrackers explode, attested in [Vietnamese usage](https://baotreonline.com/van-hoc/tap-ghi/mau-xac-phao.baotre).",
+   "fix": "spent firecracker casings; paper debris left after firecrackers explode"
+  }
+ ]
+}

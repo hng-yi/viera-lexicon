@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "xa-van",
+  "xan",
+  "xanh cỏ",
+  "xanh da trời",
+  "xanh lá cây",
+  "xanh lơ",
+  "xanh mòng két",
+  "xanh ngắt",
+  "xanh ngọc",
+  "xanh nước biển",
+  "xanh rì",
+  "xanh-tuya",
+  "xanh-đi-ca",
+  "xe Honda",
+  "xe ba gác",
+  "xe ben",
+  "xe bù ệt",
+  "xe ca",
+  "xe cam-nhông",
+  "xe cúp",
+  "xe cút kít",
+  "xe cấp cứu",
+  "xe cứu thương",
+  "xe dù",
+  "xe goòng",
+  "xe hai bánh",
+  "xe hợp đồng",
+  "xe lam",
+  "xe lu",
+  "xe lôi",
+  "xe mui trần",
+  "xe mô tô",
+  "xe rùa",
+  "xe tay ga",
+  "xe than",
+  "xe trượt tuyết",
+  "xe tải van",
+  "xe van",
+  "xe xích lô",
+  "xe ôm"
+ ],
+ "flags": [
+  {
+   "headword": "xanh cỏ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Ông ấy mất đã xanh cỏ rồi” awkwardly combines “mất” with a phrase that already means being long dead.",
+   "fix": "Ông ấy đã xanh cỏ từ lâu rồi. = He has been dead and buried for ages."
+  },
+  {
+   "headword": "xe Honda",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The use of Honda as a generic name for motorbikes is mainly Southern ([regional vocabulary source](https://www.vietchigo.art/index.php/vn/137-suu-tam/3158-cac-tu-mien-nam)).",
+   "fix": "[Southern, colloquial]"
+  },
+  {
+   "headword": "xe cấp cứu",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Sau năm phút” means after five minutes, whereas “within five minutes” allows an earlier arrival.",
+   "fix": "The ambulance arrived at the house after five minutes."
+  },
+  {
+   "headword": "xe dù",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Xe dù” is also routinely used in Southern Vietnamese, so the Northern label is misleading ([Southern usage](https://www.sggp.org.vn/nhan-dien-xe-du-post107856.html)).",
+   "fix": "[colloquial]"
+  },
+  {
+   "headword": "xe lôi",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Xe lôi” denotes a cart or passenger carriage pulled by a bicycle or motorbike, rather than a buggy ([vehicle description](https://proship.vn/news/tim-hieu-xe-loi-la-xe-gi/)).",
+   "fix": "cart or passenger carriage pulled by a bicycle or motorbike"
+  },
+  {
+   "headword": "xe than",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Xe than” refers to a vehicle converted to run on charcoal-generated gas, rather than specifically a coal-burning minibus ([historical account](https://phudoanlagi.blogspot.com/2020/06/hoc-tro-truong-huyen-i-thi-ai-hoc.html?m=0)).",
+   "fix": "charcoal-powered vehicle (converted to run on gas generated from charcoal)"
+  }
+ ]
+}

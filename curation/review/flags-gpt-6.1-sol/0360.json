@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tiền thân",
+  "màn bạc",
+  "chửi mắng",
+  "mừng rỡ",
+  "an giấc",
+  "đam mỹ",
+  "ruốc",
+  "nội đô",
+  "cá cờ",
+  "đa tình",
+  "chí công",
+  "ngạch",
+  "hồng trần",
+  "chăm bón",
+  "gạo cội",
+  "hùng hục",
+  "nhủi",
+  "tưới tiêu",
+  "đăng báo",
+  "phái bộ",
+  "từ trần",
+  "hát bè",
+  "hiệu đính",
+  "chủ hôn",
+  "làu bàu",
+  "hàm ếch",
+  "mặn mà",
+  "mã đề",
+  "tỏm",
+  "nhu đạo",
+  "chê cười",
+  "khởi chiến",
+  "anti",
+  "thủ bút",
+  "đi vào",
+  "sỗ",
+  "chèo chống",
+  "rần rật",
+  "bạo bệnh",
+  "trở lực"
+ ],
+ "flags": [
+  {
+   "headword": "ruốc",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines ruốc instead of showing it in use.",
+   "fix": "Ngư dân phơi ruốc trên những tấm bạt lớn. = The fishermen dry the tiny shrimp on large tarpaulins."
+  },
+  {
+   "headword": "hồng trần",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense is literary and needs that warning, as described in the [dictionary](https://dictionary.zim.vn/viet-anh/hong-tran).",
+   "fix": "[uncommon, literary]"
+  }
+ ]
+}

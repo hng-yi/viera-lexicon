@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "obitan",
+  "oganesson",
+  "oi ả",
+  "ong bướm",
+  "ong bầu",
+  "ong bắp cày",
+  "ong khoái",
+  "ong ruồi",
+  "osimi",
+  "out trình",
+  "oxi già",
+  "oxi hoá",
+  "oxi hoá khử",
+  "oà",
+  "oàm oạp",
+  "oái oăm",
+  "oán hờn",
+  "oóc",
+  "oóc-gan",
+  "oắt con",
+  "oẳn tù tì",
+  "oẳng",
+  "oặt",
+  "oẹ",
+  "oẻ hoẹ",
+  "pa lăng",
+  "pa tê sô",
+  "pa-nô",
+  "pa-tê",
+  "palađi",
+  "parky",
+  "pha-ra-ông",
+  "pha-đinh",
+  "phao câu",
+  "phau",
+  "phenolphtalein",
+  "phi Mĩ hoá",
+  "phi bạo lực",
+  "phi công trẻ",
+  "phi công trẻ lái máy bay bà già"
+ ],
+ "flags": [
+  {
+   "headword": "oẳn tù tì",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "In this chant, ra means to show a hand gesture, not to have or get something.",
+   "fix": "Rock paper scissors—what will you show? Show this!"
+  },
+  {
+   "headword": "phi công trẻ",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phi công trẻ does not mean bachelor; its figurative meaning concerns a younger man's relationship with an older woman.",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "phi công trẻ lái máy bay bà già",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression can mock the couple and carries a derogatory implication, as documented in this [linguistic study](https://jos.hueuni.edu.vn/index.php/HUJOS-SSH/article/download/3952/140/11116).",
+   "fix": "Add derogatory to the existing tags."
+  },
+  {
+   "headword": "phi công trẻ lái máy bay bà già",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Máy bay bà già means an old plane in the metaphor, not a plane belonging to an old lady.",
+   "fix": "People call them a 'young pilot flying an old plane'—a younger man dating an older woman."
+  }
+ ]
+}

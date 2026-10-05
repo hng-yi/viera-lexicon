@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "dụng công",
+  "dụng võ",
+  "dức",
+  "dừa nước",
+  "dừa xiêm",
+  "dừng lại",
+  "dử",
+  "dửng",
+  "dửu dân",
+  "dữ liệu di động",
+  "dự chi",
+  "dự giờ",
+  "dự khuyết",
+  "dự phóng",
+  "dự thi",
+  "dự thưởng",
+  "dựa trên",
+  "e ấp",
+  "e-lờ",
+  "e-rờ",
+  "em bé",
+  "em dâu",
+  "em rể",
+  "em tam",
+  "em yêu anh",
+  "em-mờ",
+  "em-xi",
+  "en-nờ",
+  "eng éc",
+  "ensteni",
+  "eo ơi",
+  "eribi",
+  "etan",
+  "etilen",
+  "europi",
+  "fan hâm mộ",
+  "fara",
+  "fecmi",
+  "fen",
+  "flerovi"
+ ],
+ "flags": [
+  {
+   "headword": "dự thưởng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Dự thưởng means participating for a chance to win a prize, rather than the prize draw itself, as in these [draw rules](https://xosoquangngai.com.vn/the-le-tham-gia-du-thuong-xo-so-kien-thiet-truyen-thong/).",
+   "fix": "verb | to enter a prize draw; to participate for a chance to win a prize"
+  },
+  {
+   "headword": "e-lờ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of showing it in use.",
+   "fix": "Tên tôi bắt đầu bằng chữ e-lờ. = My name starts with the letter L."
+  },
+  {
+   "headword": "e-rờ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of showing it in use.",
+   "fix": "Em viết thiếu chữ e-rờ rồi. = You left out the letter R."
+  },
+  {
+   "headword": "em tam",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Em tam is a Quảng Bình regional term and needs a Central warning, as recorded in [Wiktionary](https://en.wiktionary.org/wiki/em_tam).",
+   "fix": "[Central, rare]"
+  },
+  {
+   "headword": "em-mờ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of showing it in use.",
+   "fix": "Tên Mai bắt đầu bằng chữ em-mờ. = The name Mai starts with the letter M."
+  },
+  {
+   "headword": "en-nờ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of showing it in use.",
+   "fix": "Em viết thiếu chữ en-nờ rồi. = You left out the letter N."
+  },
+  {
+   "headword": "fara",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example restates the definition instead of showing the unit in use.",
+   "fix": "Tụ điện này có điện dung một fara. = This capacitor has a capacitance of one farad."
+  }
+ ]
+}

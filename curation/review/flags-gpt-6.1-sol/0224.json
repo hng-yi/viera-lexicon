@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "thiên thể",
+  "lông vũ",
+  "quốc dân",
+  "trực tràng",
+  "đả đảo",
+  "nhẵn",
+  "phòng bệnh",
+  "âm hộ",
+  "chẳng trách",
+  "xương chậu",
+  "xắn",
+  "lơ",
+  "thêu dệt",
+  "hợp kim",
+  "rờ",
+  "sẩy",
+  "mệnh danh",
+  "chiếm lĩnh",
+  "viễn chinh",
+  "hả hê",
+  "thình thịch",
+  "phủ định",
+  "thước đo",
+  "mơ tưởng",
+  "trừ phi",
+  "lưỡng tính",
+  "chí khí",
+  "cùm",
+  "máy bộ đàm",
+  "mười hai",
+  "khế ước",
+  "tráng lệ",
+  "vụn vặt",
+  "ngang hàng",
+  "trai gái",
+  "ráo riết",
+  "ăn diện",
+  "vô chủ",
+  "bôi nhọ",
+  "túp"
+ ],
+ "flags": [
+  {
+   "headword": "quốc dân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun meaning 'the people of a nation' belongs to formal public or political language.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "trực tràng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the rectum instead of showing the word in use.",
+   "fix": "Bác sĩ phát hiện một khối u ở trực tràng. = The doctor found a tumour in the rectum."
+  },
+  {
+   "headword": "nhẵn",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The familiar-face sense is ordinary current usage and should not be marked rare ([dictionary entry](https://vi.wiktionary.org/wiki/nhẵn)).",
+   "fix": "Remove the tag rare."
+  },
+  {
+   "headword": "phòng bệnh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common noun meaning referring to a room for patients in a hospital.",
+   "fix": "noun | hospital room; room for patients"
+  },
+  {
+   "headword": "rờ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter's name instead of using that name in context.",
+   "fix": "Em viết chữ rờ ngược rồi. = You wrote the letter R backwards."
+  },
+  {
+   "headword": "lưỡng tính",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example needs 'tính lưỡng tính' to name the chemical property naturally.",
+   "fix": "Tính lưỡng tính của nhôm hydroxit thể hiện qua phản ứng với cả axit và bazơ. = The amphoterism of aluminium hydroxide is demonstrated by its reactions with both acids and bases."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "khoanh",
+  "khai vị",
+  "dã man",
+  "có hậu",
+  "bao tử",
+  "trọng trách",
+  "mục nát",
+  "hung hăng",
+  "tử",
+  "cứu vớt",
+  "cổ vật",
+  "cực khổ",
+  "sinh dục",
+  "góp phần",
+  "sắc bén",
+  "thống soái",
+  "bung",
+  "choáng váng",
+  "hãm hại",
+  "bồi",
+  "chầu",
+  "trống không",
+  "khai trương",
+  "xung phong",
+  "cuồng nhiệt",
+  "tuyên ngôn",
+  "bộ óc",
+  "thuật ngữ",
+  "lơ lửng",
+  "lề đường",
+  "lân cận",
+  "mướn",
+  "đu",
+  "đọ",
+  "út",
+  "cập",
+  "bản gốc",
+  "tổ ấm",
+  "kể ra",
+  "sinh hoạt"
+ ],
+ "flags": [
+  {
+   "headword": "dã man",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The intensifier meaning is widely used outside Southern Vietnamese, so the Southern restriction is misleading.",
+   "fix": "Tags: informal."
+  },
+  {
+   "headword": "bung",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This cooking sense means cooking in plenty of water until very soft, rather than steaming ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-bung)).",
+   "fix": "to cook in plenty of water until very soft"
+  },
+  {
+   "headword": "bung",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This cooking usage is established in Northern cuisine and is incorrectly restricted to Central Vietnamese ([Northern usage](https://vnexpress.net/doi-song-cooking-bun-bung-ha-noi-nau-theo-loi-cu-4769622.html)).",
+   "fix": "Remove Central."
+  },
+  {
+   "headword": "xung phong",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The military meaning remains current and should not be marked dated.",
+   "fix": "Remove dated."
+  }
+ ]
+}

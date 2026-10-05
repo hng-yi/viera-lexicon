@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "hành",
+  "biểu đồ",
+  "xa lộ",
+  "rành",
+  "óc",
+  "bét",
+  "chỉ đạo",
+  "ngoại đạo",
+  "cai nghiện",
+  "cà",
+  "y khoa",
+  "bộ máy",
+  "xơ",
+  "hiệu ứng",
+  "củng cố",
+  "bọt",
+  "quá tải",
+  "đồng lõa",
+  "phân loại",
+  "lâm",
+  "bao che",
+  "sắc đẹp",
+  "trông coi",
+  "be",
+  "gật",
+  "nội vụ",
+  "nhận biết",
+  "thọc",
+  "thước",
+  "đồng cảm",
+  "diêm",
+  "tiềm thức",
+  "thế chiến",
+  "xác thực",
+  "chói",
+  "nguồn lực",
+  "ứng cử viên",
+  "vận động viên",
+  "cắt giảm",
+  "tiếp viên"
+ ],
+ "flags": [
+  {
+   "headword": "hành",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hành means to thrash someone; bị supplies the passive meaning in the example.",
+   "fix": "to thrash; to beat soundly"
+  },
+  {
+   "headword": "hành",
+   "sense": 6,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what hành is instead of using it in context.",
+   "fix": "Vị sư nhắc rằng các hành đều vô thường. = The monk reminded us that all formations are impermanent."
+  }
+ ]
+}

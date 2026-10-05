@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "công cụ",
+  "lưu trữ",
+  "cảm hứng",
+  "ghi âm",
+  "dại",
+  "ấm áp",
+  "đối tác",
+  "sảnh",
+  "đinh",
+  "bảo hộ",
+  "hử",
+  "tiêu chuẩn",
+  "cao su",
+  "giặt",
+  "than",
+  "đen tối",
+  "đáp ứng",
+  "đính hôn",
+  "ghi hình",
+  "thần thánh",
+  "tâm",
+  "chủ yếu",
+  "di tản",
+  "thế thì",
+  "tình thế",
+  "phi thuyền",
+  "nhân danh",
+  "thiên hạ",
+  "công chúng",
+  "lập trình",
+  "alpha",
+  "xe hơi",
+  "sòng",
+  "vũ trang",
+  "run",
+  "tiệc tùng",
+  "trang trí",
+  "cao bồi",
+  "mua sắm",
+  "trang sức"
+ ],
+ "flags": [
+  {
+   "headword": "đinh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this example, đinh counts male members, rather than naming their share of dues.",
+   "fix": "male member of an extended family, counted for contributions"
+  },
+  {
+   "headword": "đen tối",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter the figurative meaning 'bleak; grim' than the literal darkness meaning.",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "tâm",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tâm meaning a person's compassionate heart is also used in ordinary speech, so the literary tag misleadingly restricts it.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "alpha",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines alpha instead of showing it in use.",
+   "fix": "Hãy gọi góc này là alpha. = Let's call this angle alpha."
+  },
+  {
+   "headword": "cao bồi",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone cao bồi in this sense disparages them as unruly or disreputable, as reflected in the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-cao%20b%E1%BB%93i).",
+   "fix": "Tags: colloquial, derogatory."
+  }
+ ]
+}

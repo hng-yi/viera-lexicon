@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "mì",
+  "giải mã",
+  "đam mê",
+  "chấp thuận",
+  "cố tình",
+  "dồn",
+  "dẫn dắt",
+  "đầu bếp",
+  "thủ phạm",
+  "hẻm",
+  "vòng tròn",
+  "cặn bã",
+  "kiến thức",
+  "công trình",
+  "chỉ định",
+  "kết án",
+  "khát",
+  "kẹp",
+  "tận mắt",
+  "hèn",
+  "đầu độc",
+  "vạch",
+  "tống",
+  "va chạm",
+  "vân",
+  "điều chỉnh",
+  "án mạng",
+  "khắc",
+  "đầm",
+  "hoảng sợ",
+  "chì",
+  "thờ",
+  "chăm chỉ",
+  "mặc kệ",
+  "ngớ",
+  "ngẩn",
+  "vô tình",
+  "binh nhì",
+  "lương tâm",
+  "thô lỗ"
+ ],
+ "flags": [
+  {
+   "headword": "hẻm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hẻm means an alley; cụt supplies the dead-end meaning in hẻm cụt.",
+   "fix": "Remove this sense; hẻm cụt means 'dead-end alley; cul-de-sac'."
+  },
+  {
+   "headword": "cặn bã",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling people cặn bã is derogatory, but the human-directed meaning has no warning tag.",
+   "fix": "Tag the 'scum of society' meaning derogatory."
+  },
+  {
+   "headword": "kẹp",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Kẹp meaning wedged or trapped between things is ordinary current usage, as in the example.",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "hèn",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hèn chi and hèn gì mean 'no wonder', not 'so' or 'therefore'.",
+   "fix": "no wonder (in hèn chi, hèn gì)"
+  },
+  {
+   "headword": "đầm",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical term instead of using it to refer to a Western woman.",
+   "fix": "Bà đầm ấy bước xuống xe. = The Western woman stepped out of the car."
+  }
+ ]
+}

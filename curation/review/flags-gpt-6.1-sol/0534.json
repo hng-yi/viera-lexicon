@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nêu bật",
+  "nêu gương",
+  "nêu ra",
+  "nòng trơn",
+  "nói chơi",
+  "nói có sách, mách có chứng",
+  "nói gì thì nói",
+  "nói hươu nói vượn",
+  "nói khoác",
+  "nói khó",
+  "nói leo",
+  "nói lái",
+  "nói lậm",
+  "nói một đằng làm một nẻo",
+  "nói ngọng",
+  "nói này nói kia",
+  "nói phét",
+  "nói sạo",
+  "nói thách",
+  "nói trắng ra",
+  "nói vã bọt mép",
+  "nói đâu quên đấy",
+  "nói đớt",
+  "nón ba tầm",
+  "nón bài thơ",
+  "nón len",
+  "nón lá",
+  "nón lưỡi trai",
+  "nón mê",
+  "nón mũ",
+  "nón quai thao",
+  "nóp",
+  "nô nức",
+  "nôn khan",
+  "nôn nả",
+  "nông choèn",
+  "nông cụ",
+  "nông gia",
+  "nông học",
+  "nông nghiệp hữu cơ"
+ ],
+ "flags": [
+  {
+   "headword": "nói khó",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The obsolete conversation sense comes before the current sense of explaining one's difficulties to plead for help ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%C3%B3i%20kh%C3%B3)).",
+   "fix": "Put the verb meaning 'to explain one's difficulties and plead for help' first; retain 'conversation' afterward with its archaic tag."
+  },
+  {
+   "headword": "nói đớt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern Vietnamese and needs a regional label ([regional dictionary](https://download.thuthuatphanmem.vn/uploads/2022/09/27/khotudientienghue_100441.pdf)).",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "sinh thời",
+  "sinh thực khí",
+  "sinh tiền",
+  "sinh vật nhân sơ",
+  "sinh vật nhân thực",
+  "sinh vật phù du",
+  "siêu anh hùng",
+  "siêu chỉnh",
+  "siêu hiện thực",
+  "siêu hình học",
+  "siêu liên kết",
+  "siêu máy tính",
+  "siêu thần",
+  "siêu thực",
+  "siêu tâm lí học",
+  "siêu tự nhiên",
+  "siêu vi corona",
+  "siêu vi khuẩn corona",
+  "siêu vi trùng",
+  "siêu vi trùng corona",
+  "siêu vũ trụ ảo",
+  "siêu xuyệt",
+  "siết chặt",
+  "siểm",
+  "siểng",
+  "so bì",
+  "so le",
+  "so le trong",
+  "so đũa",
+  "sol khí",
+  "song cầu khuẩn",
+  "song hỉ",
+  "song le",
+  "song ngữ",
+  "song thất lục bát",
+  "song tinh",
+  "song tiết",
+  "soát xét",
+  "stibi",
+  "stronti"
+ ],
+ "flags": [
+  {
+   "headword": "sinh thời",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal or literary expression for someone's lifetime, rather than an ordinary casual expression.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "siêu hình học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what metaphysics studies instead of showing the word in use.",
+   "fix": "Ông ấy đã viết một cuốn sách về siêu hình học. = He has written a book about metaphysics."
+  },
+  {
+   "headword": "siêu thần",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the term's academic domain instead of showing it in a meaningful situation.",
+   "fix": "Tác giả dành một chương để bàn về siêu thần. = The author devotes a chapter to discussing transtheism."
+  },
+  {
+   "headword": "siêu tâm lí học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the field instead of showing the word in use.",
+   "fix": "Cô ấy đang đọc một cuốn sách về siêu tâm lí học. = She is reading a book about parapsychology."
+  },
+  {
+   "headword": "so bì",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Keep up with the Joneses' means trying to match other people's possessions or lifestyle, whereas so bì means comparing one's circumstances or treatment with others resentfully.",
+   "fix": "to compare oneself enviously"
+  },
+  {
+   "headword": "stibi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element by its chemical symbol instead of showing the word in use.",
+   "fix": "Hợp kim này chứa một lượng nhỏ stibi. = This alloy contains a small amount of antimony."
+  }
+ ]
+}

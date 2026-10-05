@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "đứa bé",
+  "đứa trẻ",
+  "đức dục",
+  "đứng bóng",
+  "đứng dậy",
+  "đứng mũi chịu sào",
+  "đứng ngoài",
+  "đứng ngồi không yên",
+  "đứng như trời trồng",
+  "đứng núi này trông núi kia",
+  "đứng núi này trông núi nọ",
+  "đứng trước",
+  "đứng đường",
+  "đứng đắn",
+  "đứt bóng",
+  "đứt ruột",
+  "Ơ Đu",
+  "ơ hay",
+  "ơn trên",
+  "ơn xá",
+  "ưa nhìn",
+  "ưng biển",
+  "ưu du",
+  "ưu sầu",
+  "ưu thán",
+  "ưu thắng",
+  "ưu trương",
+  "ước lệ",
+  "ước số chung lớn nhất",
+  "ước thúc",
+  "ạ ơi",
+  "ạch",
+  "ả hoàn",
+  "ả đào",
+  "ả đầu",
+  "ải quan",
+  "ải thâm",
+  "ảng",
+  "ảnh thật",
+  "ảnh âm"
+ ],
+ "flags": [
+  {
+   "headword": "đứng trước",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "This sense also applies to favorable opportunities, so restricting it to something unpleasant is misleading ([usage example](https://vnexpress.net/viet-nam-dung-truoc-co-hoi-du-u17-world-cup-4809298.html)).",
+   "fix": "to be faced with; to have ahead of one (a situation, challenge, or opportunity)"
+  },
+  {
+   "headword": "đứt ruột",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of extreme emotional pain or sorrow ([dictionary](https://vdict.com/%C4%91%E1%BB%A9t%20ru%E1%BB%99t%2C3%2C0%2C0.html)).",
+   "fix": "adj | heartbroken; deeply distressed; ex: Nhìn con đau đớn, mẹ thương đứt ruột. = Seeing her child in pain broke the mother's heart."
+  }
+ ]
+}

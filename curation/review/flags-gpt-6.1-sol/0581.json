@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "thỗn thện",
+  "thời bao cấp",
+  "thời cục",
+  "thời gian biểu",
+  "thời khoá biểu",
+  "thời khóa biểu",
+  "thời quá khứ",
+  "thời thế tạo anh hùng",
+  "thời đại đồ sắt",
+  "thời đại đồ đá",
+  "thời đại đồ đá cũ",
+  "thở than",
+  "thợ gốm",
+  "thợ săn ảnh",
+  "thợ điện",
+  "thụ giáo",
+  "thụ lí",
+  "thụ đắc",
+  "thụy hiệu",
+  "thủ dâm tinh thần",
+  "thủ hiến",
+  "thủ tiết",
+  "thủm",
+  "thủy binh",
+  "thủy giải",
+  "thủy mặc",
+  "thủy năng",
+  "thủy phân",
+  "thủy phủ",
+  "thủy quyển",
+  "thủy quân lục chiến",
+  "thủy sản",
+  "thủy triều",
+  "thủy triều đỏ",
+  "thủy văn",
+  "thủy văn học",
+  "thủy vận",
+  "thủy âm",
+  "thủy đậu",
+  "thủy động lực học"
+ ],
+ "flags": [
+  {
+   "headword": "thủy quyển",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the hydrosphere contains instead of showing the word in use.",
+   "fix": "Ô nhiễm đang ảnh hưởng nghiêm trọng đến thủy quyển. = Pollution is seriously affecting the hydrosphere."
+  },
+  {
+   "headword": "thủy động lực học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines hydrodynamics instead of showing the word in use.",
+   "fix": "Anh ấy áp dụng thủy động lực học để thiết kế thân tàu. = He applies hydrodynamics to design ship hulls."
+  }
+ ]
+}

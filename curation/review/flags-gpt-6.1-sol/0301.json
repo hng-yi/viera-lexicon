@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "giải oan",
+  "cạ",
+  "tẻ",
+  "đánh đầu",
+  "thổ địa",
+  "phụ trội",
+  "chen chúc",
+  "hỏa mù",
+  "chấy",
+  "cà rem",
+  "sàng",
+  "xuất nhập cảnh",
+  "thiên niên kỉ",
+  "mầu nhiệm",
+  "thiên ân",
+  "mít ướt",
+  "gióng",
+  "bánh chè",
+  "lặt",
+  "dụng",
+  "khai trường",
+  "triệt phá",
+  "bày trí",
+  "xương cụt",
+  "hổ mang",
+  "ăn tạp",
+  "tà đạo",
+  "thấp thỏm",
+  "thẹn",
+  "thông tục",
+  "cầu may",
+  "dấu phẩy",
+  "ngủ mê",
+  "hội chẩn",
+  "bọng",
+  "phân hóa",
+  "đi tu",
+  "mánh lới",
+  "mềnh",
+  "tranh tụng"
+ ],
+ "flags": [
+  {
+   "headword": "tẻ",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Buồn ngủ” means feeling sleepy, whereas the translation says the speaker fell asleep.",
+   "fix": "This film is so dull that I felt sleepy halfway through."
+  },
+  {
+   "headword": "thổ địa",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This historical sense means land, rather than confiscation or redistribution of land ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%E1%BB%95%20%C4%91%E1%BB%8Ba)).",
+   "fix": "noun [dated] | land; agricultural land"
+  },
+  {
+   "headword": "hỏa mù",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common sense of misleading information used to obscure the truth, as in “tung hỏa mù” ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%E1%BB%8Fa%20m%C3%B9)).",
+   "fix": "noun | smokescreen; misleading information used to confuse people or conceal the truth"
+  },
+  {
+   "headword": "lặt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use is mainly Southern and needs a regional label ([dictionary](https://loigiaihay.com/tu-dien-tv/lat-eCzSMpZs7Jw8z.html)).",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

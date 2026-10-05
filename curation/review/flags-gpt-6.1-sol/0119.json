@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "phân chia",
+  "phát hành",
+  "chế nhạo",
+  "thiệt mạng",
+  "dang",
+  "xoa bóp",
+  "mau chóng",
+  "kẻo",
+  "thành tựu",
+  "gáy",
+  "điển hình",
+  "trát",
+  "thời hạn",
+  "mẫu vật",
+  "đụng độ",
+  "cần câu",
+  "xe cộ",
+  "tranh thủ",
+  "ớt",
+  "run rẩy",
+  "hành quyết",
+  "viễn cảnh",
+  "phương hướng",
+  "đối thoại",
+  "phò",
+  "thần thoại",
+  "vô giá",
+  "liễu",
+  "diễn xuất",
+  "chiến lợi phẩm",
+  "xà lim",
+  "toàn diện",
+  "chí ít",
+  "bóc",
+  "thù địch",
+  "bằng lòng",
+  "hãm",
+  "đầy rẫy",
+  "từ trường",
+  "Quốc xã"
+ ],
+ "flags": [
+  {
+   "headword": "ớt",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical meaning of the word instead of using it in that sense.",
+   "fix": "Thầy thuốc dùng ớt làm thuốc. = The physician uses cubeb as medicine."
+  },
+  {
+   "headword": "hãm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common slang adjective meaning obnoxious or annoying is missing ([native-speaker discussion](https://www.reddit.com/r/vozforums/comments/ulp0sc)).",
+   "fix": "adj [slang, derogatory] | obnoxious; annoying. Ex: Anh ta cư xử hãm thật. = He behaves really obnoxiously."
+  }
+ ]
+}

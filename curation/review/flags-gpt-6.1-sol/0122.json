@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "ngửa",
+  "nước biển",
+  "chộp",
+  "tham khảo",
+  "kiên định",
+  "rên",
+  "cử tri",
+  "hé",
+  "trăng mật",
+  "châu",
+  "nắm bắt",
+  "sinh sống",
+  "keo",
+  "ấp",
+  "tổng đài",
+  "mền",
+  "sức lực",
+  "đào bới",
+  "bỗng",
+  "sửa đổi",
+  "bóng đèn",
+  "ỉa",
+  "thủ tiêu",
+  "tầng lớp",
+  "bàn luận",
+  "cây số",
+  "giỡn mặt",
+  "kíp",
+  "siêu tốc",
+  "tê",
+  "báng",
+  "chuyển giao",
+  "giải phẫu",
+  "sổ sách",
+  "thực chất",
+  "phân tán",
+  "sân thượng",
+  "tiền lẻ",
+  "bình đẳng",
+  "phương thức"
+ ],
+ "flags": [
+  {
+   "headword": "nước biển",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common colloquial meaning of intravenous fluid, as in truyền nước biển ([usage](https://tudien.dolenglish.vn/truyen-nuoc-bien-tieng-anh-la-gi)).",
+   "fix": "noun [colloquial] | IV fluid; intravenous saline"
+  },
+  {
+   "headword": "châu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The exclusion of Antarctica is false: Vietnamese uses châu Nam Cực ([textbook](https://lib.hpu.edu.vn/bitstream/handle/123456789/34185/Dia-li-7.pdf?isAllowed=y&sequence=1)).",
+   "fix": "continent"
+  },
+  {
+   "headword": "ấp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The hamlet sense is used mainly in Southern Vietnam and needs a regional tag ([reference](https://scholar.dlu.edu.vn/thuvienso/bitstream/DLU123456789/225170/1/CVv320S012016041.pdf)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "bỗng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Bỗng is neutral and occurs in ordinary speech, so literary misleadingly restricts its use ([reference](https://loigiaihay.com/tu-dien-tv/dot-nhien-ehQWRTr2LYE8K.html)).",
+   "fix": "Remove literary."
+  }
+ ]
+}

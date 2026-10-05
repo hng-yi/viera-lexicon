@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bánh bao",
+  "quân sư",
+  "phấn khởi",
+  "cựu chiến binh",
+  "thương hiệu",
+  "phiền muộn",
+  "khinh bỉ",
+  "nhận định",
+  "nhà trẻ",
+  "sợ sệt",
+  "rọi",
+  "hoa tiêu",
+  "bình phong",
+  "chung cư",
+  "giả lập",
+  "Miên",
+  "thủ công",
+  "soát",
+  "giẫm",
+  "nghẹt",
+  "hỏa thiêu",
+  "tuyển chọn",
+  "chướng ngại vật",
+  "vô ơn",
+  "phỉ",
+  "xẻ",
+  "ngòi",
+  "cứng cỏi",
+  "Cơ Đốc",
+  "háng",
+  "hí",
+  "nghiện ngập",
+  "hỏa táng",
+  "gầm gừ",
+  "ít nhiều",
+  "đồng tử",
+  "cổ đông",
+  "hồng y",
+  "nhiễm khuẩn",
+  "đèo"
+ ],
+ "flags": [
+  {
+   "headword": "bánh bao",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Frying bánh bao produces a fried bun, not a separate kind of round dumpling ([examples](https://www.foody.vn/bai-viet/ha-noi/banh-bao-ngon-10078)).",
+   "fix": "fried bun (a fried version of bánh bao)"
+  },
+  {
+   "headword": "bình phong",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of a front or cover used to conceal something ([dictionary](https://vi.wiktionary.org/wiki/b%C3%ACnh_phong)).",
+   "fix": "noun | front; cover (a person or thing used to conceal something)"
+  },
+  {
+   "headword": "Miên",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling Khmer people Miên can be derogatory, regardless of whether they live in Cambodia or Vietnam ([usage guidance](https://www.impe-qn.org.vn/dan-toc-thieu-so/nguoi-dan-toc-khmer/ctmb/43/4295)).",
+   "fix": "[dated, derogatory]"
+  },
+  {
+   "headword": "Miên",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Miên refers to Khmer people generally and does not specifically mean Khmer Krom ([usage guidance](https://tudien.dolenglish.vn/nguoi-mien-tieng-anh-la-gi)).",
+   "fix": "Merge with sense 1: Khmer; Cambodian [dated, derogatory]."
+  },
+  {
+   "headword": "ngòi",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Ngòi meaning a small stream remains in current use and is not archaic.",
+   "fix": "Remove archaic."
+  }
+ ]
+}

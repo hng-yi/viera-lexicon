@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "chưa hề",
+  "chưa thấy quan tài chưa đổ lệ",
+  "chương não",
+  "chương trình máy tính",
+  "chương trình truyền hình",
+  "chương động",
+  "chước",
+  "chướng khí",
+  "chưởng cơ",
+  "chưởng dinh",
+  "chưởng doanh",
+  "chượp",
+  "chạm ngõ",
+  "chạn vương",
+  "chạnh lòng",
+  "chạo",
+  "chạp",
+  "chạy bằng cơm",
+  "chạy giặc",
+  "chạy gà",
+  "chạy làng",
+  "chạy nước rút",
+  "chạy sô",
+  "chạy tiền",
+  "chạy vạy",
+  "chạy án",
+  "chả cá Lã Vọng",
+  "chả lụa",
+  "chả ram",
+  "chả rươi",
+  "chảy máu chất xám",
+  "chấm phẩy",
+  "chấm thi",
+  "chấn thuỷ",
+  "chấn tâm",
+  "chấp bút",
+  "chấp chiếm",
+  "chấp nhất",
+  "chấp nê",
+  "chất bán dẫn"
+ ],
+ "flags": [
+  {
+   "headword": "chương động",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Chương động làm thay đổi độ nghiêng của trục Trái Đất. = Nutation changes the tilt of the Earth's axis."
+  },
+  {
+   "headword": "chạn vương",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The insult targets a man perceived as enjoying wealth through marriage into a rich family, rather than any financially dependent husband ([VOV](https://vovgiaothong.vn/podcast/chan-vuong-d30105.html)).",
+   "fix": "man mocked for marrying into a wealthy family and living off its wealth"
+  },
+  {
+   "headword": "chạo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss conflates the meat-and-roasted-rice mixture with sugarcane-mounted chạo tôm ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%E1%BA%A1o)).",
+   "fix": "dish of shredded pork skin, meat or seafood mixed with roasted rice powder and flavoured with guava leaves"
+  },
+  {
+   "headword": "chạy giặc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is an ordinary expression for fleeing enemy forces, not an exclusively literary expression.",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "chạy nước rút",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use for working intensively to finish something before a deadline is missing ([VTV](https://suckhoe.vtv.vn/xa-hoi/nguoi-tre-chay-nuoc-rut-can-tet-20240107142057823.htm)).",
+   "fix": "to work intensively in the final stage to finish something before a deadline"
+  },
+  {
+   "headword": "chả ram",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chả ram is a Central Vietnamese name for fried spring rolls and needs a regional label ([cooking example](https://cookpad.com/vn/cong-thuc/5982339)).",
+   "fix": "Add Central."
+  }
+ ]
+}

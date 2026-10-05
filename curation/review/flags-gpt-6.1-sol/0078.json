@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tính cách",
+  "lọc",
+  "lấp",
+  "hình thành",
+  "mục sư",
+  "bề mặt",
+  "khám nghiệm",
+  "điên cuồng",
+  "thần chú",
+  "kiệt sức",
+  "lăn",
+  "ồn ào",
+  "múa",
+  "khống chế",
+  "huy hiệu",
+  "núp",
+  "kết liễu",
+  "triều",
+  "hiệp",
+  "phát nổ",
+  "thế gian",
+  "chặng",
+  "huấn luyện viên",
+  "Thái",
+  "thái",
+  "xứng",
+  "giáo sĩ",
+  "thánh",
+  "thuận lợi",
+  "chế",
+  "ngoại ô",
+  "tích cực",
+  "miêu tả",
+  "mạn",
+  "công nghiệp",
+  "Séc",
+  "séc",
+  "lạc quan",
+  "bắc cực",
+  "tiên sinh"
+ ],
+ "flags": [
+  {
+   "headword": "kết liễu",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner today is most likely to encounter kết liễu meaning to kill or finish someone off.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "thánh",
+   "sense": 5,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone a fool or idiot is derogatory, and informal does not adequately warn the learner.",
+   "fix": "Tags: Southern, informal, derogatory."
+  },
+  {
+   "headword": "thánh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common humorous meaning for someone exceptionally skilled or conspicuous at something, as in thánh soi, is missing ([usage examples](https://vtcnews.vn/tieu-diem/thanh-an.html)).",
+   "fix": "noun [slang, humorous] | someone exceptionally good at, or notorious for, something; ex: Cậu đúng là thánh đoán mò! = You're really a master of wild guesses!"
+  },
+  {
+   "headword": "chế",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chế meaning to pour liquid is mainly Southern usage and needs a regional label.",
+   "fix": "Add the Southern tag."
+  }
+ ]
+}

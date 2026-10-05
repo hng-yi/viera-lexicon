@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "chuẩn độ",
+  "chuếnh choáng",
+  "chuối ngự",
+  "chuối nước",
+  "chuối sứ",
+  "chuối tiêu",
+  "chuối tá quạ",
+  "chuồn chuồn kim",
+  "chuỗi cung ứng",
+  "chuỗi thức ăn",
+  "chuột cống",
+  "chuột lang nước",
+  "chuột lắt",
+  "chuột rút",
+  "chuột sóc",
+  "chuột xạ",
+  "chuỳ",
+  "chuỷ thủ",
+  "chà bông",
+  "chà ran",
+  "chàm quạp",
+  "chàng bè",
+  "chàng hiu",
+  "chàng hảng",
+  "chàng ràng",
+  "chàng trai",
+  "chành bành",
+  "chào buổi sáng",
+  "chào mào",
+  "chán cơm thèm phở",
+  "chán phè",
+  "chánh niệm",
+  "chánh trương",
+  "chánh tạng",
+  "cháo Tiều",
+  "cháo bột yến mạch",
+  "cháo hoa",
+  "cháo lòng",
+  "cháy nhà mới ra mặt chuột",
+  "cháy nắng"
+ ],
+ "flags": [
+  {
+   "headword": "chuột lắt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This everyday name for a mouse is Southern usage, as recorded in the [Huế dialect dictionary](https://www.art2all.net/chantran/chantran_tho/tranngocbao/tudienphuongnguhue/tudienphuongnguhue_C.htm).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "chuột rút",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example needs bị to express naturally that the person gets a cramp.",
+   "fix": "Anh ấy đang chạy thì bị chuột rút. = He got a cramp while running."
+  },
+  {
+   "headword": "chuột xạ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Một con chuột xạ chạy vào bụi cỏ. = A musk shrew ran into a clump of grass."
+  },
+  {
+   "headword": "chàng hảng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word describes spreading the legs apart, whereas bow-leggedness describes curved legs.",
+   "fix": "with the legs spread wide apart"
+  },
+  {
+   "headword": "chàng ràng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means remaining nearby rather than nagging or pestering, as recorded in the [Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%C3%A0ng%20r%C3%A0ng).",
+   "fix": "to keep hanging around beside someone"
+  },
+  {
+   "headword": "cháy nhà mới ra mặt chuột",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The literal image underlying the proverb is not a separate meaning used to describe rats escaping a fire.",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

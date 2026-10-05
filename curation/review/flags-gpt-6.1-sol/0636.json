@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đáng đời",
+  "đánh chữ",
+  "đánh ghen",
+  "đánh giáp lá cà",
+  "đánh gió",
+  "đánh hội đồng",
+  "đánh khăng",
+  "đánh nhau",
+  "đánh rắn động cỏ",
+  "đánh trống bỏ dùi",
+  "đánh trống lảng",
+  "đánh trống ngực",
+  "đánh tỉa",
+  "đánh địt",
+  "đánh đồng",
+  "đáo hạn",
+  "đáo để",
+  "đát-đặc-la",
+  "đâu có",
+  "đâu ra đấy",
+  "đã nghèo còn mắc cái eo",
+  "đã và đang",
+  "đã đời",
+  "đè nặng",
+  "đèn bão",
+  "đèn dầu",
+  "đèn giao thông",
+  "đèn kéo quân",
+  "đèn xanh đèn đỏ",
+  "đèn xanh đỏ",
+  "đèn ông sao",
+  "đèn đường",
+  "đèo núi",
+  "đéo bao giờ",
+  "đét-xe",
+  "đêm Nô-en",
+  "đêm tháng năm chưa nằm đã sáng, ngày tháng mười chưa cười đã tối",
+  "đêôxiribônuclêic",
+  "đì đùng",
+  "đình bản"
+ ],
+ "flags": [
+  {
+   "headword": "đánh trống ngực",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Tôi đánh trống ngực” is unnatural here; the person needs “bị” before the symptom.",
+   "fix": "Tôi bị đánh trống ngực khi bước lên sân khấu. = My heart pounded as I stepped onto the stage."
+  },
+  {
+   "headword": "đánh trống ngực",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The phrase names the sensation of palpitations, which does not necessarily mean an irregular heartbeat, as distinguished in this [hospital explanation](https://benhvienthucuc.vn/song-khoe/benh-tim-mach/danh-trong-nguc-khi-nam-nguyen-nhan-va-cac-canh-bao-suc-khoe).",
+   "fix": "to have heart palpitations"
+  },
+  {
+   "headword": "đánh tỉa",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In cultivation, “đánh tỉa” means thinning out plants or shoots, rather than pruning dead branches, as illustrated in these [cultivation instructions](https://sonnmt.hungyen.gov.vn/ckfinder/userfiles/files/vanban/document.pdf).",
+   "fix": "to thin out plants or shoots; example: Bố đánh tỉa cây con cho luống rau bớt dày. = Dad thinned out the seedlings so the vegetable bed was less crowded."
+  }
+ ]
+}

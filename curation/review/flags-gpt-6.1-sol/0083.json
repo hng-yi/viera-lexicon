@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "khác gì",
+  "hôn mê",
+  "thực vật",
+  "chết đuối",
+  "bình luận",
+  "bậy",
+  "đại sứ quán",
+  "biết mấy",
+  "từ chức",
+  "thế kỉ",
+  "xịn",
+  "giáo hoàng",
+  "chỉnh",
+  "dự trữ",
+  "Hàn Quốc",
+  "quan tài",
+  "triển khai",
+  "trán",
+  "trâu",
+  "đãi",
+  "sỉ nhục",
+  "sinh đôi",
+  "lực",
+  "gớm",
+  "bày tỏ",
+  "loạt",
+  "vĩnh biệt",
+  "tan nát",
+  "soi",
+  "tự nguyện",
+  "giúp ích",
+  "mềm",
+  "ngai",
+  "xỉn",
+  "thông thái",
+  "lon",
+  "phần mềm",
+  "pho",
+  "xô",
+  "khổ sở"
+ ],
+ "flags": [
+  {
+   "headword": "giáo hoàng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Hàng nghìn người đến nghe Giáo hoàng phát biểu. = Thousands of people came to hear the pope speak."
+  },
+  {
+   "headword": "quan tài",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Quan tài is used nationwide, so Northern incorrectly restricts its use ([dictionary](https://loigiaihay.com/tu-dien-tv/quan-tai-empQRRu7fsFkC.html)).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "lực",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In physics, lực means force, whereas power is a different physical quantity ([dictionary](https://vi.wiktionary.org/wiki/l%E1%BB%B1c)).",
+   "fix": "force (in physics)"
+  },
+  {
+   "headword": "lực",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the ordinary meaning strength, restricting lực to physics ([dictionary](https://vi.wiktionary.org/wiki/l%E1%BB%B1c)).",
+   "fix": "noun | strength; physical power — Cú đá này có lực rất mạnh. = This kick is very powerful."
+  },
+  {
+   "headword": "soi",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday colloquial soi also means scrutinizing someone's affairs or appearance, without an optical instrument ([usage](https://tuoitre.vn/plo/thong-tin-soi-doi-tu-ky-thi-nguoi-dong-tinh-post38800.html)).",
+   "fix": "verb [colloquial] | to scrutinize; to pry into — Đừng soi đời tư của người khác. = Don't pry into other people's private lives."
+  },
+  {
+   "headword": "xô",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this example, xô describes displacement out of position rather than an action of pushing something over ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%B4)).",
+   "fix": "to shift out of position; to become displaced"
+  }
+ ]
+}

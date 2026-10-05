@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "hiển hách",
+  "bưng",
+  "áo phông",
+  "hạ nghị sĩ",
+  "tong",
+  "hết mực",
+  "cũ kĩ",
+  "chuyện trò",
+  "sa hoàng",
+  "kiếm chác",
+  "truy cứu",
+  "cơ ngơi",
+  "tự phát",
+  "hải cảng",
+  "tự kỉ",
+  "vo",
+  "thất tình",
+  "nam sinh",
+  "giao cảm",
+  "dẻo dai",
+  "nổi trội",
+  "lành nghề",
+  "chủ nghĩa xã hội",
+  "tơi",
+  "hát hò",
+  "lễ vật",
+  "lốt",
+  "rẻ mạt",
+  "công dụng",
+  "te",
+  "sinh đẻ",
+  "hớt tóc",
+  "giáo dân",
+  "đong",
+  "đảm",
+  "đẹp mắt",
+  "trưng",
+  "ăn bám",
+  "nản",
+  "nội soi"
+ ],
+ "flags": [
+  {
+   "headword": "hiển hách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This elevated, literary adjective is untagged and could be mistaken for an ordinary conversational word.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "sa hoàng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the headword instead of showing it in use.",
+   "fix": "Sa hoàng ra lệnh cho quân đội rút lui. = The tsar ordered the army to retreat."
+  },
+  {
+   "headword": "kiếm chác",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kiếm chác means seeking or making personal gains and does not necessarily involve dishonesty.",
+   "fix": "to make some money; to seek personal gain"
+  },
+  {
+   "headword": "tự kỉ",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Using autism to describe ordinary withdrawal or brooding can be offensive, but the sense lacks a warning tag.",
+   "fix": "Add the tag offensive."
+  },
+  {
+   "headword": "lốt",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the avoidance term instead of using it to refer to a snake.",
+   "fix": "Dân làng không dám động đến ông lốt. = The villagers dared not touch the snake."
+  },
+  {
+   "headword": "ăn bám",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This disparaging expression accuses someone of sponging off others and needs a derogatory warning.",
+   "fix": "Add the tag derogatory."
+  }
+ ]
+}

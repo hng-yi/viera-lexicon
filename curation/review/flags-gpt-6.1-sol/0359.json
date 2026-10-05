@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "Tết Nguyên Tiêu",
+  "rao vặt",
+  "tủi",
+  "võ hiệp",
+  "ăn thề",
+  "asen",
+  "hổi",
+  "lăng trụ",
+  "dạn dĩ",
+  "hợp tác xã",
+  "khẽ khàng",
+  "thẻ xanh",
+  "một sớm một chiều",
+  "trị số",
+  "minh ước",
+  "nhập nhằng",
+  "nghịch tử",
+  "bút hiệu",
+  "lác đác",
+  "bá bệnh",
+  "quặn thắt",
+  "điển cố",
+  "biến tướng",
+  "phóng điện",
+  "rung rinh",
+  "lon ton",
+  "dướng",
+  "gió bấc",
+  "phúc đức",
+  "nhẫn thuật",
+  "chính trị viên",
+  "thoái chí",
+  "tãi",
+  "bệnh sử",
+  "phèn",
+  "tôm he",
+  "phè phỡn",
+  "co ro",
+  "rơ",
+  "rau má"
+ ],
+ "flags": [
+  {
+   "headword": "Tết Nguyên Tiêu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the festival instead of showing the headword in use.",
+   "fix": "Gia đình tôi đi chùa vào Tết Nguyên Tiêu. = My family visits a pagoda during the Lantern Festival."
+  },
+  {
+   "headword": "nghịch tử",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Nghịch tử is a derogatory label for a child condemned as unfilial, rather than a neutral description of disobedience.",
+   "fix": "tags: [dated, derogatory]"
+  },
+  {
+   "headword": "phèn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "In this well-water example, phèn refers to mineral contamination, commonly involving iron, rather than the substance alum ([reference](https://bknow.vn/nuoc-nhiem-phen/)).",
+   "fix": "Người ta dùng phèn để làm trong nước. = People use alum to clarify water."
+  }
+ ]
+}

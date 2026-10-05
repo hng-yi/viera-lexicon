@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "điện từ học",
+  "điện từ trường",
+  "điện tử học",
+  "điệp ngữ",
+  "điệp thức",
+  "điệu hổ li sơn",
+  "điệu đàng",
+  "đo đạt",
+  "đon đả",
+  "đoài",
+  "đoàn ca",
+  "đoàn chủ tịch",
+  "đoàn đại biểu",
+  "đoá",
+  "đoác",
+  "đoái hoài",
+  "đoạn thẳng",
+  "đoạn trường",
+  "đoạn đầu đài",
+  "đu càng",
+  "đua chen",
+  "đua ô tô",
+  "đua đòi",
+  "đupni",
+  "đuông",
+  "đuổi bắt",
+  "đuổi theo",
+  "đà-la-ni",
+  "đài các",
+  "đài hoa",
+  "đài khí tượng",
+  "đài nguyên",
+  "đài phun nước",
+  "đài quyền đạo",
+  "đài thọ",
+  "đàn bà con gái",
+  "đàn bầu",
+  "đàn cò",
+  "đàn gáo",
+  "đàn gảy tai trâu"
+ ],
+ "flags": [
+  {
+   "headword": "điệp thức",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Bài nghiên cứu này phân tích các điệp thức trong tiếng Pháp. = This study analyses doublets in French."
+  },
+  {
+   "headword": "điệu hổ li sơn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss 'to get rid of an obstacle' incorrectly extends the idiom beyond drawing an opponent away from an advantageous position ([explanation](https://vanviet.info/nghien-cuu-phe-binh/tu-dien-tieng-viet-cua-gs-nguyen-ln-ph-bnh-v-khao-cuu-ky-11/)).",
+   "fix": "to lure an opponent away from their base or advantageous position"
+  },
+  {
+   "headword": "đoàn ca",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar meaning referring to the Youth Union's official anthem ([source](https://canhacnhe.com/hop-am-loi-bai-hat-doan-ca-khong-co-ca-si-chinh-thuc)).",
+   "fix": "Youth Union anthem (the official song of the Ho Chi Minh Communist Youth Union)"
+  },
+  {
+   "headword": "đài nguyên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines tundra instead of showing the word in use.",
+   "fix": "Tuần lộc kiếm ăn trên đài nguyên. = Reindeer forage on the tundra."
+  },
+  {
+   "headword": "đàn cò",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Đàn cò is the Southern name for the instrument called đàn nhị elsewhere ([source](https://www.dulichvietnam.com.vn/dan-co-dan-nhi.html)).",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

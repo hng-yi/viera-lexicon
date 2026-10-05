@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bán khai",
+  "bán manh",
+  "bán mình",
+  "bán niên",
+  "bán phần",
+  "bán sống bán chết",
+  "bán trú",
+  "bán tín bán nghi",
+  "bán tự động",
+  "bán đứng",
+  "bánh bá trạng",
+  "bánh bía",
+  "bánh bò",
+  "bánh bó",
+  "bánh bông lan",
+  "bánh cam",
+  "bánh canh cua",
+  "bánh chay",
+  "bánh cốm",
+  "bánh cống",
+  "bánh da heo",
+  "bánh da lợn",
+  "bánh dày",
+  "bánh dẻo",
+  "bánh dẻo lạnh",
+  "bánh giầy",
+  "bánh gật gù",
+  "bánh hỏi",
+  "bánh lăng",
+  "bánh lọt",
+  "bánh lọt mặn",
+  "bánh mì Pháp",
+  "bánh mì hoa cúc",
+  "bánh mì kẹp",
+  "bánh phu thê",
+  "bánh phồng tôm",
+  "bánh phở",
+  "bánh pía",
+  "bánh quy giòn",
+  "bánh răng bừa"
+ ],
+ "flags": [
+  {
+   "headword": "bán niên",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Bán niên belongs to formal reporting language rather than ordinary casual speech, as noted in [this usage guide](https://dictionary.zim.vn/viet-anh/ban-nien-tieng-anh-la-gi).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "bán phần",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bán phần means partial generally, rather than specifically covering costs, as illustrated by [hospital usage](https://www.benhvien108.vn/gioi-thieu-vien-phau-thuat-tieu-hoa.htm).",
+   "fix": "partial (involving only part of something)"
+  },
+  {
+   "headword": "bánh da lợn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Northern tag incorrectly excludes established Southern usage of this name, documented by [a Southern cake maker](https://banhnguyenkim.com/san-pham/banh-da-lon-la-dua/).",
+   "fix": "Remove the Northern tag."
+  },
+  {
+   "headword": "bánh lăng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bánh lăng denotes caramel custard rather than a tart, as described by [a bakery](https://lalacake.com/cua-hang/combo-6-hop-banh-flan-truyen-thong-lala-cake/).",
+   "fix": "crème caramel; caramel custard"
+  },
+  {
+   "headword": "bánh lăng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example refers to caramel custards, so translating bánh lăng as tarts names a different dessert.",
+   "fix": "She bought two caramel custards for the children."
+  }
+ ]
+}

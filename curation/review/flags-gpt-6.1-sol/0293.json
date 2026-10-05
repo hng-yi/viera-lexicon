@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "cảm lạnh",
+  "đồng âm",
+  "amidan",
+  "lị",
+  "buông lỏng",
+  "ô kê",
+  "thực vật học",
+  "thời cuộc",
+  "điều độ",
+  "bép",
+  "rá",
+  "bạn thân",
+  "thuốc mê",
+  "xuất khẩu",
+  "lim",
+  "ròng rã",
+  "bế mạc",
+  "mông lung",
+  "tọt",
+  "xu thế",
+  "hụ",
+  "ung",
+  "bất kham",
+  "dung tục",
+  "mụn nhọt",
+  "dăm",
+  "la liệt",
+  "cổ truyền",
+  "bói toán",
+  "bình định",
+  "bạt tai",
+  "dẽ giun",
+  "màng trinh",
+  "hệ tư tưởng",
+  "đoan",
+  "tâm địa",
+  "ải",
+  "vườn quốc gia",
+  "đầm phá",
+  "cổ văn"
+ ],
+ "flags": [
+  {
+   "headword": "bất kham",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This older sense describes being unable to bear or undertake something, rather than something being unbearable ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%A5t%20kham)).",
+   "fix": "unable to bear; unable to cope with or undertake"
+  },
+  {
+   "headword": "bất kham",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly applies bất kham to the pain rather than to the person's inability to endure it.",
+   "fix": "Việc ấy khó khăn quá, sức tôi chắc bất kham. = That task is so difficult that I probably cannot manage it."
+  },
+  {
+   "headword": "đoan",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đoan means to assure or pledge, rather than the adverb certainly ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91oan)).",
+   "fix": "to assure; to pledge"
+  },
+  {
+   "headword": "màng trinh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the hymen instead of showing the word in use.",
+   "fix": "Cô ấy hỏi bác sĩ về màng trinh. = She asked the doctor about the hymen."
+  }
+ ]
+}

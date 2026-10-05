@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "giặc giã",
+  "giặc lái",
+  "giặt gỵa",
+  "giẹp",
+  "giẻ cùi",
+  "giếm",
+  "giếng dầu",
+  "giếng trời",
+  "giết chết",
+  "giết gà dùng dao mổ trâu",
+  "giền",
+  "giềng",
+  "giềng giềng",
+  "giọi",
+  "giọng ca",
+  "giọng nói",
+  "giọt nước tràn li",
+  "giỏi giắn",
+  "giốc",
+  "giống bột",
+  "giống cái",
+  "giống má",
+  "giống nhau như đúc",
+  "giống trung",
+  "giống đực",
+  "giồi",
+  "giồng",
+  "giỗ chạp",
+  "giỗ kị",
+  "giới luật",
+  "giới trẻ",
+  "giới từ",
+  "giờ Dần",
+  "giờ Hợi",
+  "giờ Mão",
+  "giờ Mùi",
+  "giờ Ngọ",
+  "giờ Sửu",
+  "giờ Thân",
+  "giờ Thìn"
+ ],
+ "flags": [
+  {
+   "headword": "giặc lái",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a driver “giặc lái” is derogatory, so the colloquial tag alone does not adequately warn the learner.",
+   "fix": "Tags: colloquial, derogatory."
+  },
+  {
+   "headword": "giọt nước tràn li",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is an explanation of the idiom's literal image, not a separate established meaning.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "giốc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines giốc instead of showing it in use.",
+   "fix": "Giai điệu kết thúc ở âm giốc. = The melody ends on the giốc note."
+  },
+  {
+   "headword": "giồi",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The makeup sense is marked as dated in the [Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-gi%E1%BB%93i), but has no currency warning here.",
+   "fix": "Tags: dated."
+  },
+  {
+   "headword": "giờ Ngọ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the time period instead of showing the expression in use.",
+   "fix": "Chúng tôi đến nơi vào giờ Ngọ. = We arrived at the hour of the Horse."
+  }
+ ]
+}

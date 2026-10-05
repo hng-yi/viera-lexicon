@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "kháng nguyên",
+  "nhú",
+  "cất nhắc",
+  "học bạ",
+  "côca",
+  "bấn",
+  "quay lại",
+  "keng",
+  "nứt nẻ",
+  "quyền thuật",
+  "mùi mẫn",
+  "trong suốt",
+  "vựng",
+  "hỗ",
+  "ráo",
+  "ngon ngọt",
+  "dân tình",
+  "trăng trối",
+  "ghẹ",
+  "thứ nhì",
+  "thấm nhuần",
+  "bố cáo",
+  "chạy loạn",
+  "lục bình",
+  "bội tinh",
+  "núng",
+  "răng hàm",
+  "bao lơn",
+  "nhai lại",
+  "trạng nguyên",
+  "cau mày",
+  "xống",
+  "nhạt thếch",
+  "lếch thếch",
+  "chụm",
+  "tráng sĩ",
+  "sông băng",
+  "vị hôn thê",
+  "phẳng lì",
+  "rau thơm"
+ ],
+ "flags": [
+  {
+   "headword": "ráo",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adverbial meaning ‘all; completely; at all’, as in ‘không biết gì ráo’, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-r%C3%A1o)).",
+   "fix": "adv [colloquial, Southern] | all; completely; at all (in negatives); ex: Tôi không biết gì ráo. = I don't know anything at all."
+  },
+  {
+   "headword": "ngon ngọt",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "‘Để dụ’ expresses his purpose, whereas ‘sweet-talked her into lending’ says that he succeeded.",
+   "fix": "He spoke sweetly to try to persuade her to lend him money."
+  },
+  {
+   "headword": "dân tình",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "In this example, ‘dân tình’ means the people who are dissatisfied, rather than public mood or sentiment.",
+   "fix": "Ông đi khắp nơi để tìm hiểu dân tình. = He travelled everywhere to learn about public sentiment."
+  }
+ ]
+}

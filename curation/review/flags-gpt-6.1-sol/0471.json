@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "ho gà",
+  "hoa bia",
+  "hoa bất tử",
+  "hoa chè",
+  "hoa chúc",
+  "hoa có chủ",
+  "hoa giáp",
+  "hoa hiên",
+  "hoa kim châm",
+  "hoa liễu",
+  "hoa lá",
+  "hoa lơ",
+  "hoa lơ trắng",
+  "hoa mười giờ",
+  "hoa nhài cắm bãi cứt trâu",
+  "hoa sữa",
+  "hoa tay",
+  "hoa thị",
+  "hoa đăng",
+  "hoang liêu",
+  "hoang mạc hoá",
+  "hoang mạc hóa",
+  "hoe",
+  "hoen",
+  "honmi",
+  "hoà",
+  "hoà bình",
+  "hoà giải",
+  "hoà hảo",
+  "hoà hợp",
+  "hoà khí",
+  "hoà mình",
+  "hoà mục",
+  "hoà nhã",
+  "hoà nhạc",
+  "hoà nhập",
+  "hoà quyện",
+  "hoà tan",
+  "hoà thuận",
+  "hoà thượng"
+ ],
+ "flags": [
+  {
+   "headword": "hoa lá",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Hoa lá” does not mean a fling or dalliance; this confuses it with “trăng hoa”.",
+   "fix": "Remove sense 2 and its example."
+  },
+  {
+   "headword": "hoa nhài cắm bãi cứt trâu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression insults the woman's partner by comparing him to buffalo dung and needs a derogatory warning.",
+   "fix": "[figurative, idiomatic, colloquial, derogatory]"
+  },
+  {
+   "headword": "hoa tay",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common literal meaning is a whorl-shaped fingerprint, which people count when discussing how many hoa tay someone has ([literary example](https://vnthuquan.net/TacPham/toi-thay-hoa-vang-tren-co-xanh-15740/chuong-1)).",
+   "fix": "noun | whorl-shaped fingerprint on a fingertip"
+  },
+  {
+   "headword": "hoa thị",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "“Dấu hoa thị” remains a current term for an asterisk, including in [Ministry of Education materials](https://moet.gov.vn/content/vanban/Lists/VBDH/Attachments/3584/hoc-phan-7full16012024-3173525.pdf), so calling it dated is misleading.",
+   "fix": "Remove the dated tag and gloss it as “asterisk”."
+  }
+ ]
+}

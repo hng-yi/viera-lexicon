@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bội bạc",
+  "kiến lửa",
+  "tử sĩ",
+  "phi lí",
+  "mai một",
+  "truyền thụ",
+  "âm ỉ",
+  "thanh khiết",
+  "phóng thanh",
+  "mồ mả",
+  "bưu tá",
+  "chểnh mảng",
+  "dân dã",
+  "FA",
+  "làn đường",
+  "hoàn cầu",
+  "cá vàng",
+  "tranh vẽ",
+  "anh hùng ca",
+  "nhuần nhuyễn",
+  "hoạt họa",
+  "nhiệm",
+  "metan",
+  "chưng diện",
+  "thiền vu",
+  "hình nhân",
+  "cà tưng",
+  "lồng tiếng",
+  "đẳng",
+  "rầu rĩ",
+  "nũng",
+  "đại nội",
+  "nhân sinh",
+  "lục giác",
+  "quăn",
+  "trường tồn",
+  "cửa khẩu",
+  "thầu",
+  "đại họa",
+  "nỗi niềm"
+ ],
+ "flags": [
+  {
+   "headword": "thiền vu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Thiền vu sai sứ giả đến gặp hoàng đế. = The chanyu sent an envoy to meet the emperor."
+  },
+  {
+   "headword": "đẳng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Đẳng” already means “đằng ấy”, so “đẳng kia” incorrectly treats it as interchangeable with “đằng” ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91%E1%BA%B3ng)).",
+   "fix": "Quán cà phê ở đẳng. = The coffee shop is over there."
+  },
+  {
+   "headword": "nũng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Nũng” means to seek affection or pampering, not to be overripe or spoiled ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%C5%A9ng)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "hí hoáy",
+  "hí kịch",
+  "hí trường",
+  "hít đất",
+  "hòa mình",
+  "hòa vốn",
+  "hòa đồng",
+  "hòn non bộ",
+  "hóa công",
+  "hóa dục",
+  "hóa học hữu cơ",
+  "hóa học vô cơ",
+  "hóa học vật lí",
+  "hóa năng",
+  "hóa ra",
+  "hóa sinh học",
+  "hóa tệ học",
+  "hóa độ",
+  "hóng gió",
+  "hóng mát",
+  "hô hoán",
+  "hôi của",
+  "hôi tanh",
+  "hôm kia",
+  "hùi hụi",
+  "hùm xám",
+  "hùng hùng hổ hổ",
+  "hú hoạ",
+  "húi",
+  "húng dổi",
+  "húng giổi",
+  "húng lìu",
+  "húng quế",
+  "húp híp",
+  "hút chìm",
+  "hút thuốc",
+  "húy",
+  "hăm-bơ-gơ",
+  "hăng-gô",
+  "hơi bị"
+ ],
+ "flags": [
+  {
+   "headword": "hí trường",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is a dated term for a theatre, so uncommon alone does not adequately warn the learner ([dictionary](https://tienghoahangngay.com/tu-dien/tra-tu/h%C3%AD-tr%C6%B0%E1%BB%9Dng)).",
+   "fix": "tags: [dated]"
+  },
+  {
+   "headword": "hùi hụi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense describes working diligently and continuously rather than simply being very busy ([Lạc Việt dictionary](https://tratu.coviet.vn/hoc-tieng-phap/tu-dien/lac-viet/all/hu%CC%80i%2Bhu%CC%A3i.html)).",
+   "fix": "diligently; absorbed in working away"
+  },
+  {
+   "headword": "hùi hụi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Bận hùi hụi is an unnatural combination for the sense describing sustained, diligent work ([Lạc Việt dictionary](https://tratu.coviet.vn/hoc-tieng-phap/tu-dien/lac-viet/all/hu%CC%80i%2Bhu%CC%A3i.html)).",
+   "fix": "Cả nhà làm việc hùi hụi để chuẩn bị đám cưới. = The whole family worked away diligently to prepare for the wedding."
+  },
+  {
+   "headword": "hơi bị",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The intensifier is used across regions, including Northern speech, so the Southern restriction is misleading ([linguistic study](https://vjol.info.vn/index.php/NNDS/article/download/16484/14766/)).",
+   "fix": "tags: [informal]; remove Southern"
+  }
+ ]
+}

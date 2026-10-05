@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "dưng",
+  "gặng",
+  "địa chính",
+  "phụ tình",
+  "thúng",
+  "tùy duyên",
+  "vi thể",
+  "nườm nượp",
+  "khai quốc",
+  "mẹ tròn con vuông",
+  "đỏng đảnh",
+  "nga ngố",
+  "nhẫy",
+  "điểu học",
+  "nhân hòa",
+  "cao vọng",
+  "âm tường",
+  "choắt",
+  "trầm hương",
+  "thần học",
+  "thảo mai",
+  "bẹp dúm",
+  "cán sự",
+  "tổng hòa",
+  "miễn thuế",
+  "trác tuyệt",
+  "lếu láo",
+  "chua chát",
+  "triệu hồi",
+  "thèm muốn",
+  "nít",
+  "ăn chắc",
+  "chán òm",
+  "trường tiểu học",
+  "bình quân",
+  "hoa niên",
+  "quốc doanh",
+  "vẽ vời",
+  "bái vật",
+  "vắng tanh"
+ ],
+ "flags": [
+  {
+   "headword": "dưng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "'Công việc dưng' is unnatural because this sense describes someone being idle, as in [ở dưng](https://vdict.com/d%C6%B0ng,3,0,0.html).",
+   "fix": "Dạo này ở dưng cũng buồn. = Being idle these days is rather boring."
+  },
+  {
+   "headword": "thúng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "A basketful remains a normal quantity expression rather than an obsolete measure, as recorded in [this dictionary](https://vi.wiktionary.org/wiki/th%C3%BAng).",
+   "fix": "Remove dated; gloss: a basketful (of grain)."
+  },
+  {
+   "headword": "nga ngố",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners today are much more likely to encounter the nickname for Russia than the adjective 'clumsy and silly', as illustrated by [current usage](https://baodanang.vn/ngay-ngo-ngo-ngac-ngo-3040752.html).",
+   "fix": "Put sense 2 first, followed by sense 3 and then sense 1."
+  },
+  {
+   "headword": "nga ngố",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The nickname for Russia is established contemporary slang, so rare misrepresents its [current use](https://baodanang.vn/ngay-ngo-ngo-ngac-ngo-3040752.html).",
+   "fix": "Tags: humorous, slang."
+  },
+  {
+   "headword": "nga ngố",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The Russian-related use is established contemporary slang, also recorded without a rarity label in [Wiktionary](https://en.wiktionary.org/wiki/nga_ng%E1%BB%91).",
+   "fix": "Tags: humorous, slang."
+  },
+  {
+   "headword": "vẽ vời",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common literal meaning of drawing, recorded in [this dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%E1%BA%BD%20v%E1%BB%9Di).",
+   "fix": "Add: to draw; to do some drawing. Example: Tôi thích vẽ vời lúc rảnh. = I like drawing in my free time."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "don",
+  "ảo tưởng",
+  "thì giờ",
+  "hầu",
+  "luyện",
+  "cướp biển",
+  "buồng",
+  "ngầu",
+  "bơm",
+  "kết luận",
+  "bóng ma",
+  "mờ",
+  "kèn",
+  "thảm hại",
+  "dịch chuyển",
+  "khởi hành",
+  "giật",
+  "lưới",
+  "khâu",
+  "kêu gọi",
+  "ấn",
+  "giả sử",
+  "hứng",
+  "thu xếp",
+  "thân chủ",
+  "voi",
+  "đối diện",
+  "lấy làm",
+  "gặp gỡ",
+  "nổi giận",
+  "chỉ dẫn",
+  "dời",
+  "dắt",
+  "tường thuật",
+  "ẩn",
+  "trụ",
+  "họa",
+  "chèo",
+  "do đó",
+  "ráng"
+ ],
+ "flags": [
+  {
+   "headword": "hầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "In hầu tòa, hầu means to appear before a court, rather than to serve or wait on someone ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%E1%BA%A7u)).",
+   "fix": "Remove the hầu tòa example from this sense."
+  },
+  {
+   "headword": "hầu",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hầu does not mean 'later' or mark the future; its older connective uses express purpose or approaching a state ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%E1%BA%A7u)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "giật",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning 'to give an electric shock', as in bị điện giật, is missing ([dictionary](https://vi.wiktionary.org/wiki/gi%E1%BA%ADt)).",
+   "fix": "verb | to give an electric shock | ex: Cẩn thận kẻo bị điện giật. = Be careful or you'll get an electric shock."
+  },
+  {
+   "headword": "dắt",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word meaning 'to tuck into a pocket or belt' is giắt, rather than dắt ([dictionary](https://vi.wiktionary.org/wiki/gi%E1%BA%AFt)).",
+   "fix": "Remove this sense from dắt and place it under giắt, with the example: Anh ấy giắt cây bút vào túi áo."
+  },
+  {
+   "headword": "ráng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Ráng refers to the coloured sky glow at sunrise as well as sunset, so 'evening glow' incorrectly restricts its meaning ([dictionary](https://v2.rung.vn/dict/vn_vn/R%C3%A1ng)).",
+   "fix": "coloured glow in the sky at sunrise or sunset"
+  }
+ ]
+}

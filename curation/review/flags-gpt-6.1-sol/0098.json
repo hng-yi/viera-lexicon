@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cáu",
+  "cẩn trọng",
+  "xịt",
+  "Việt",
+  "rụng",
+  "vĩnh cửu",
+  "thân phận",
+  "thiệp",
+  "bát",
+  "thương xót",
+  "chuyền",
+  "nhiệt tình",
+  "dự kiến",
+  "ngậm",
+  "pháp y",
+  "nhức",
+  "lười biếng",
+  "nhà xác",
+  "giở trò",
+  "tống khứ",
+  "thành tích",
+  "phổ biến",
+  "nâng cấp",
+  "lão gia",
+  "thực thụ",
+  "trông cậy",
+  "phi hành gia",
+  "quý khách",
+  "tan vỡ",
+  "cưỡng",
+  "hươu",
+  "hối lộ",
+  "loa",
+  "vô hại",
+  "sư đoàn",
+  "lạc lối",
+  "vô tuyến",
+  "sao chép",
+  "mãnh liệt",
+  "rạch"
+ ],
+ "flags": [
+  {
+   "headword": "Việt",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Using Việt to refer to the ethnic Vietnamese or Kinh people is current and common, so the rare tag is misleading.",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "chuyền",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The children's game chuyền involves tossing a ball while picking up sticks, rather than simply tossing and catching balls or stones.",
+   "fix": "a children's game of tossing a ball and picking up sticks before catching it"
+  },
+  {
+   "headword": "nhiệt tình",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning enthusiasm is missing, as used in lòng nhiệt tình and đầy nhiệt tình.",
+   "fix": "noun | enthusiasm"
+  },
+  {
+   "headword": "hối lộ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Định expresses an intention to bribe, whereas tried says an attempt occurred.",
+   "fix": "The driver intended to bribe the police officer to avoid a fine."
+  },
+  {
+   "headword": "vô tuyến",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Vô tuyến commonly means a television set in Northern Vietnamese, and this everyday meaning is missing.",
+   "fix": "noun [Northern] | television; TV set"
+  }
+ ]
+}

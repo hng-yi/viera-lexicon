@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "xập xòe",
+  "xẵng",
+  "xẹo",
+  "xẹp lép",
+  "xế điếc",
+  "xế độp",
+  "xệch",
+  "xịn xò",
+  "xịu",
+  "xỏ lá ba que",
+  "xỏ mũi",
+  "xốc nổi",
+  "xốc vác",
+  "xốc xếch",
+  "xốt vang",
+  "xổi",
+  "xộ khám",
+  "xờ nhẹ",
+  "xởi lởi",
+  "xủng xoảng",
+  "xứ người",
+  "xử lí ngôn ngữ tự nhiên",
+  "y cụ",
+  "y lệnh",
+  "y nghiệp",
+  "y phí",
+  "y văn",
+  "y án",
+  "y đạo",
+  "y đức",
+  "ytecbi",
+  "ytri",
+  "yên sĩ phi lí thuần",
+  "yên vui",
+  "yêng hùng",
+  "yêu chiều",
+  "yêu nhiều thì ốm, ôm nhiều thì yếu",
+  "yếm khí",
+  "yến ẩm",
+  "yếng sáng"
+ ],
+ "flags": [
+  {
+   "headword": "xịu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This confuses xịu, meaning to slump with exhaustion, with xìu, which can describe a deflated tyre ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%E1%BB%8Bu)).",
+   "fix": "slumped; sagging with exhaustion"
+  },
+  {
+   "headword": "xịu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A flat tyre does not illustrate this sense of xịu.",
+   "fix": "Mệt quá, người nó xịu xuống. = Exhausted, he slumped."
+  },
+  {
+   "headword": "yếng sáng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines light instead of showing the word in use.",
+   "fix": "Yếng sáng từ ngọn đèn hắt lên tường. = Light from the lamp falls on the wall."
+  }
+ ]
+}

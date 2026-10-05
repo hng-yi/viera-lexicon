@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "ngoặc kép",
+  "rì rầm",
+  "phế quản",
+  "chất xơ",
+  "hếch",
+  "thị sát",
+  "lô cốt",
+  "tư thông",
+  "sơn cước",
+  "công sứ",
+  "quán triệt",
+  "cự tuyệt",
+  "thịnh tình",
+  "chê bai",
+  "cạc",
+  "tài lẻ",
+  "thiên cổ",
+  "nữ công",
+  "heli",
+  "quan quân",
+  "rích",
+  "quân vương",
+  "sực",
+  "rủa",
+  "cá sộp",
+  "phanh thây",
+  "vô liêm sỉ",
+  "thiên thời",
+  "ăn nhậu",
+  "tẩm bổ",
+  "cơ số",
+  "hăm",
+  "đồ bơi",
+  "cót",
+  "thao thức",
+  "nết",
+  "bách thanh",
+  "kiểm sát",
+  "túa",
+  "chuyển thể"
+ ],
+ "flags": [
+  {
+   "headword": "thị sát",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal word used for official inspection visits, so leaving it untagged misrepresents its register ([dictionary](https://dictionary.zim.vn/viet-anh/thi-sat-tieng-anh-la-gi)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "hăm",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The threatening sense remains in everyday spoken use and is not rare ([dictionary](https://loigiaihay.com/tu-dien-tv/ham-ehcCAH0O5DJn7.html)).",
+   "fix": "Remove the tag rare."
+  },
+  {
+   "headword": "cót",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The woven bamboo sheet sense is also routinely used in Southern Vietnamese, so Northern is misleading ([Southern supplier usage](https://thicongnhala.com/cot-ep-tre)).",
+   "fix": "Remove the tag Northern."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "thượng tầng",
+  "rừng núi",
+  "trưng cầu",
+  "khí tượng học",
+  "song đao",
+  "enzim",
+  "tài phán",
+  "thiên thu",
+  "luồn cúi",
+  "ngón cái",
+  "cà sa",
+  "ăn ong",
+  "mừng tuổi",
+  "trâng tráo",
+  "khúm núm",
+  "biến tấu",
+  "khoảng trống",
+  "khơi gợi",
+  "tối dạ",
+  "lót dạ",
+  "xoi",
+  "may mặc",
+  "nghiệt",
+  "công xã",
+  "trù",
+  "chầu chực",
+  "đắc thắng",
+  "chiếu lệ",
+  "nhiệt năng",
+  "trẽn",
+  "rì rào",
+  "bề thế",
+  "ngan",
+  "đĩa nhạc",
+  "lường gạt",
+  "bủa vây",
+  "thời lượng",
+  "trinh bạch",
+  "chết ngắt",
+  "líu lo"
+ ],
+ "flags": [
+  {
+   "headword": "trưng cầu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb belongs to formal institutional usage and needs a formal register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tối dạ",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone tối dạ disparages their intelligence and can insult them.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "trẽn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Trẽn means embarrassed or abashed, rather than habitually shy or timid ([dictionary](https://tudientv.com/?t=tr%E1%BA%BDn)).",
+   "fix": "embarrassed; abashed"
+  },
+  {
+   "headword": "trẽn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example presents trẽn as a shy personality trait rather than embarrassment in a particular situation.",
+   "fix": "Bị phát hiện nói dối, anh ta cười cho đỡ trẽn. = Caught lying, he smiled to cover his embarrassment."
+  },
+  {
+   "headword": "lường gạt",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Lường gạt is an ordinary current expression for cheating or swindling, so rare misleads learners about its usage.",
+   "fix": "Remove the tag rare."
+  }
+ ]
+}

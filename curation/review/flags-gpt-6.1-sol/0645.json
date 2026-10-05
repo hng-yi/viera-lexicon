@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đối số",
+  "đối đỉnh",
+  "đối ẩm",
+  "đối ứng",
+  "đốp",
+  "đốt cháy giai đoạn",
+  "đốt sống",
+  "đồ biển",
+  "đồ hàng",
+  "đồ lề",
+  "đồ mã",
+  "đồ ngủ",
+  "đồ uống",
+  "đồ ăn nhanh",
+  "đồi não",
+  "đồi truỵ",
+  "đồn đột",
+  "đồng biến",
+  "đồng bằng duyên hải",
+  "đồng bệnh tương liên",
+  "đồng cam cộng khổ",
+  "đồng cách ngữ",
+  "đồng căn",
+  "đồng dao",
+  "đồng hao",
+  "đồng hoá",
+  "đồng hồ cát",
+  "đồng hồ quả quýt",
+  "đồng hồ sinh học",
+  "đồng hồ tính cước",
+  "đồng hồ vạn năng",
+  "đồng loã",
+  "đồng phẳng",
+  "đồng rêu",
+  "đồng sàng dị mộng",
+  "đồng thoại",
+  "đồng đại",
+  "đồng đều",
+  "đồng ứng cử viên",
+  "đổ bê tông"
+ ],
+ "flags": [
+  {
+   "headword": "đồng hao",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese does not say the two men are friends, and “Anh” here refers to the speaker or addressee rather than an unrelated third person.",
+   "fix": "You and he married two sisters, so you are brothers-in-law."
+  },
+  {
+   "headword": "đồng hao",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This term is mainly Northern Vietnamese, as noted under the regional equivalents in [Wiktionary](https://en.wiktionary.org/wiki/anh_em_c%E1%BB%8Dc_ch%C3%A8o).",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "đồng đều",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Đồng đều” means equal or even, without implying fairness or equity, as defined in the [Vietnamese dictionary](https://loigiaihay.com/tu-dien-tv/dong-deu-eqPfpp7Gop7LA.html).",
+   "fix": "equal; even (in distribution)"
+  }
+ ]
+}

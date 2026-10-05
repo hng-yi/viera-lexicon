@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "nảy sinh",
+  "dùi",
+  "tương xứng",
+  "doanh thu",
+  "nhím",
+  "khứa",
+  "thúc ép",
+  "nằm vùng",
+  "gian nan",
+  "tỉ số",
+  "khẽ",
+  "trườn",
+  "ủy nhiệm",
+  "trồi",
+  "hằn",
+  "an sinh",
+  "thuần chủng",
+  "hội tụ",
+  "hết thảy",
+  "tha hồ",
+  "ách",
+  "kinh đô",
+  "dữ dằn",
+  "dung dịch",
+  "nghẽn",
+  "nhói",
+  "nhạc cụ",
+  "xác suất",
+  "thứ tư",
+  "hàng hải",
+  "ăn xin",
+  "tiền nong",
+  "lạc lõng",
+  "quát",
+  "hữu nghị",
+  "cá kình",
+  "tận thế",
+  "sử sách",
+  "chạm mặt",
+  "đáp trả"
+ ],
+ "flags": [
+  {
+   "headword": "ủy nhiệm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is formal administrative language rather than ordinary casual speech.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "hết thảy",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The expression has a literary register that the untagged entry conceals, as described in this [usage reference](https://www.vjol.info/het-thay-la-gi).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "ách",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This names a colonial military noncommissioned officer rank, not a deputy manager, as recorded in [VDict](https://vdict.com/%C3%A1ch%2C3%2C0%2C0.html).",
+   "fix": "adjutant; a noncommissioned officer rank during French colonial rule"
+  },
+  {
+   "headword": "lạc lõng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss teaches physical straying, whereas this sense describes being isolated or lonely in unfamiliar surroundings, as distinguished in this [dictionary entry](https://loigiaihay.com/tu-dien-tv/lac-long-e0hZdGKh6HdEo.html).",
+   "fix": "isolated; lonely; feeling out of place"
+  },
+  {
+   "headword": "lạc lõng",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The Vietnamese describes the dog's isolation without establishing that it is lost.",
+   "fix": "A lonely dog stood by the road."
+  },
+  {
+   "headword": "cá kình",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The regional fish name is in active ordinary use rather than rare, including in [local reporting](https://mythuy.quangtri.gov.vn/chi-tiet-tin/-/view-article/1/1651196264243/1778055577270).",
+   "fix": "Remove rare; retain Central."
+  },
+  {
+   "headword": "tận thế",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday meaning 'the end of the world', which its own example requires.",
+   "fix": "Add: noun | the end of the world; doomsday."
+  },
+  {
+   "headword": "chạm mặt",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is a preliminary meeting before the engagement ceremony, not the engagement ceremony itself, as recorded in this [dictionary](https://rongmotamhon.net/tu-dien_tieng-viet_pkgcclpk_rong-mo-tam-hon.html).",
+   "fix": "to meet formally before the engagement ceremony (of the prospective spouses or their families)"
+  }
+ ]
+}

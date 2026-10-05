@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "nóng chảy",
+  "một mất một còn",
+  "xếch",
+  "sự đời",
+  "tình lang",
+  "bánh ú",
+  "ngao",
+  "ịch",
+  "gây giống",
+  "lồng lộn",
+  "pho mát",
+  "dễ ợt",
+  "cảm thụ",
+  "điệu đà",
+  "thâm nhiễm",
+  "hom hem",
+  "ru rú",
+  "ong chúa",
+  "bình chân",
+  "sượng",
+  "mạo muội",
+  "ngặt",
+  "đòn gánh",
+  "lâu la",
+  "giòn tan",
+  "đan xen",
+  "vùng miền",
+  "danh phận",
+  "đường vàng",
+  "ngót",
+  "bất khuất",
+  "đèn đóm",
+  "bồi hồi",
+  "họa phúc",
+  "Anh văn",
+  "phá giá",
+  "móng vuốt",
+  "chạy chữa",
+  "cản quang",
+  "bí tích"
+ ],
+ "flags": [
+  {
+   "headword": "ngao",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The clam sense is used mainly in Northern Vietnamese and needs a regional warning.",
+   "fix": "tags: [Northern]"
+  },
+  {
+   "headword": "sượng",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an ordinary current sense, illustrated by “Câu văn còn sượng” in the [dictionary](https://vi.wiktionary.org/wiki/s%C6%B0%E1%BB%A3ng), so rare is misleading.",
+   "fix": "Remove rare."
+  },
+  {
+   "headword": "lâu la",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone lâu la disparages them as a villain's underling, as reflected in the [dictionary definition](https://vi.wiktionary.org/wiki/l%C3%A2u_la), so colloquial alone is insufficient.",
+   "fix": "tags: [colloquial, derogatory]"
+  },
+  {
+   "headword": "ngót",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The numerical sense is also used in ordinary speech and is not restricted to literary language (see the [dictionary entry](https://vi.wiktionary.org/wiki/ng%C3%B3t)).",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "phá giá",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phá giá means deliberately devaluing a currency, not its spontaneously losing value sharply, as the [dictionary definition](https://tudientv.com/?t=ph%C3%A1+gi%C3%A1) confirms.",
+   "fix": "to devalue (a currency by officially lowering its exchange rate)"
+  }
+ ]
+}

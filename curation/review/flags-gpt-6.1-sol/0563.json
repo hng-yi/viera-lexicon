@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "sơn mài",
+  "sơn mạch",
+  "sơn nữ",
+  "sơn pháo",
+  "sơn thuỷ",
+  "sơn tra",
+  "sơn vé",
+  "sơn xuyên",
+  "sư cô",
+  "sư mẫu",
+  "sư tỉ",
+  "sư tử Hà Đông",
+  "sưng húp",
+  "sương muối",
+  "sương sáo",
+  "sương sâm",
+  "sương sương",
+  "sượng trân",
+  "sạ",
+  "sạch nước cản",
+  "sạch sành sanh",
+  "sạm",
+  "sạo sục",
+  "sạt lở đất",
+  "sạu",
+  "sản giật",
+  "sản kinh",
+  "sản phụ khoa",
+  "sảo",
+  "sấu đỏ",
+  "sầm sì",
+  "sầm sập",
+  "sần sùi",
+  "sần sượng",
+  "sần sật",
+  "sầu riêng",
+  "sầu tư",
+  "sầu đâu",
+  "sầy",
+  "sẩn"
+ ],
+ "flags": [
+  {
+   "headword": "sư tử Hà Đông",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a woman a shrew or a bullying wife is derogatory, even when intended humorously.",
+   "fix": "Add derogatory: [figurative, humorous, derogatory]."
+  },
+  {
+   "headword": "sạch nước cản",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The expression describes passable female looks, rather than general satisfactory quality, as documented in this [dictionary](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1124/UserFiles/Tu-Dien-Tieng-Viet-Hoang-Long-thuviensach.vn-b6c5cba7-6d08-4fa4-aae4-6b53ec52276c.pdf).",
+   "fix": "passably pretty; reasonably good-looking (of a woman)"
+  },
+  {
+   "headword": "sạch nước cản",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The food example incorrectly applies an expression used to describe a woman's appearance ([dictionary](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1124/UserFiles/Tu-Dien-Tieng-Viet-Hoang-Long-thuviensach.vn-b6c5cba7-6d08-4fa4-aae4-6b53ec52276c.pdf)).",
+   "fix": "Cô ấy trông cũng sạch nước cản. = She is reasonably good-looking."
+  }
+ ]
+}

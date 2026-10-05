@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "hòa bình",
+  "làng",
+  "đau đớn",
+  "truyền",
+  "hiện",
+  "việc làm",
+  "thú",
+  "hôn",
+  "thanh tra",
+  "lực lượng",
+  "lập",
+  "tác dụng",
+  "đơn",
+  "đỉnh",
+  "mượn",
+  "trăm",
+  "phẫu thuật",
+  "tách",
+  "Giáng sinh",
+  "giáng sinh",
+  "tử tế",
+  "sở",
+  "giành",
+  "đại ca",
+  "mồi",
+  "ghé",
+  "cử",
+  "chứng kiến",
+  "vết thương",
+  "câm",
+  "hấp dẫn",
+  "tình dục",
+  "chứa",
+  "gan",
+  "lẫn",
+  "cút",
+  "căn hộ",
+  "tội lỗi",
+  "chảy",
+  "trung thành"
+ ],
+ "flags": [
+  {
+   "headword": "truyền",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Passing on news or information is a neutral everyday use of truyền, so the formal warning is misleading.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "việc làm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Việc làm commonly means an act or deed, which the employment gloss does not cover.",
+   "fix": "Add noun: act; deed, with example: Đó là một việc làm tốt. = That is a good deed."
+  },
+  {
+   "headword": "thú",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thú meaning pleasant or enjoyable occurs in ordinary conversation, as illustrated by the [dictionary examples](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%C3%BA), and is not restricted to literary language.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "tách",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this example, tách represents the cracking sound while nổ expresses the popping action, as the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%C3%A1ch) confirms.",
+   "fix": "Merge with sense 4: of a light snapping or cracking sound."
+  },
+  {
+   "headword": "ghé",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday sense of leaning close or towards something, documented in [ghé vào tai nói thầm](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-gh%C3%A9).",
+   "fix": "Add verb: to lean close; to lean towards, with example: Cô ấy ghé sát tai tôi nói nhỏ. = She leaned close to my ear and whispered."
+  },
+  {
+   "headword": "tội lỗi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tội lỗi does not have an established clothing sense meaning cheap-looking or tacky.",
+   "fix": "Delete this sense and its example."
+  },
+  {
+   "headword": "chảy",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Chảy describing fabric stretching or sagging is an ordinary current use, also recorded without a rarity warning in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%E1%BA%A3y).",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

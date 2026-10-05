@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "quá khích",
+  "cẩm nang",
+  "đức hạnh",
+  "hùng hồn",
+  "nghèo nàn",
+  "giao phối",
+  "thao thiết",
+  "lanh",
+  "bắt chuyện",
+  "cầm đồ",
+  "bên cạnh",
+  "tèo",
+  "mương",
+  "thúc giục",
+  "nhiếp chính",
+  "học thức",
+  "điển trai",
+  "núi non",
+  "ứ",
+  "thấu đáo",
+  "ầm",
+  "quỷ sứ",
+  "cùng đường",
+  "dong",
+  "sung",
+  "lèo",
+  "biên bản",
+  "dạy bảo",
+  "bần",
+  "hội ý",
+  "ngăn ngừa",
+  "phiền lòng",
+  "hoàng kim",
+  "dưa hấu",
+  "bộ luật",
+  "bất chợt",
+  "ai ngờ",
+  "thân ái",
+  "thú tính",
+  "ân cần"
+ ],
+ "flags": [
+  {
+   "headword": "lanh",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lanh describes quickness or sharpness, not a changeable temperament ([dictionary](https://loigiaihay.com/tu-dien-tv/lanh-e5mEifjQqruna.html)).",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "cầm đồ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Cầm đồ chiếc đồng hồ is an unnatural construction for pawning a watch.",
+   "fix": "Anh ấy phải đem chiếc đồng hồ đi cầm đồ để lấy tiền. = He had to pawn his watch to get money."
+  },
+  {
+   "headword": "sung",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Sung is the cluster fig, Ficus racemosa, whereas sycamore fig names a different species ([PROSEA](https://prosea.prota4u.org/view.aspx?id=1660)).",
+   "fix": "cluster fig (Ficus racemosa)"
+  },
+  {
+   "headword": "sung",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common colloquial adjective meaning energetic or enthusiastic.",
+   "fix": "adj [colloquial] | energetic; enthusiastic — Hôm nay anh ấy hát rất sung. = Today he sang with great energy."
+  },
+  {
+   "headword": "hội ý",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains how hội ý works instead of using the word in context.",
+   "fix": "Cô giáo yêu cầu chúng tôi tìm ba chữ hội ý. = The teacher asked us to find three compound ideographs."
+  },
+  {
+   "headword": "thân ái",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thân ái belongs chiefly to formal greetings and written expression, so leaving it untagged suggests ordinary conversational usage ([dictionary](https://vdict.com/th%C3%A2n%20%C3%A1i%2C3%2C0%2C0.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "thú tính",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thú tính denotes animal instinct or bestial urges rather than the adjective bestial ([dictionary](https://vi.wiktionary.org/wiki/th%C3%BA_t%C3%ADnh)).",
+   "fix": "noun [derogatory] | animal instinct; bestial urges"
+  }
+ ]
+}

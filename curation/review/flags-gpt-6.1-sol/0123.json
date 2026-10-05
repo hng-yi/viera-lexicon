@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "tinh tinh",
+  "rửa tiền",
+  "xoa",
+  "hãm hiếp",
+  "hôn lễ",
+  "bánh nướng",
+  "an nghỉ",
+  "se",
+  "vũ công",
+  "cọ",
+  "thở dài",
+  "khát khao",
+  "nhiệt đới",
+  "duyệt",
+  "bạch cầu",
+  "bất lợi",
+  "mẻ",
+  "thốt",
+  "thích đáng",
+  "sai sót",
+  "đao",
+  "nhả",
+  "xuôi",
+  "phê bình",
+  "sắc",
+  "cõng",
+  "lót",
+  "thấm",
+  "tàu chiến",
+  "toàn thân",
+  "vật dụng",
+  "chủ nghĩa",
+  "cà rốt",
+  "ma trận",
+  "êm",
+  "mài",
+  "tiến trình",
+  "giao chiến",
+  "báng bổ",
+  "bí"
+ ],
+ "flags": [
+  {
+   "headword": "se",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common weather sense meaning slightly chilly is missing.",
+   "fix": "adj | slightly chilly; cool — Trời se lạnh vào buổi sáng. = It is slightly chilly in the morning."
+  },
+  {
+   "headword": "nhiệt đới",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjectival meaning 'tropical' is missing.",
+   "fix": "adj | tropical — Việt Nam có khí hậu nhiệt đới. = Vietnam has a tropical climate."
+  },
+  {
+   "headword": "mẻ",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Trong cơm mẻ có những con mẻ rất nhỏ. = There are very tiny microworms in the fermented rice."
+  },
+  {
+   "headword": "xuôi",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Using xuôi for travelling downstream is ordinary Vietnamese, so the literary tag is misleading.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "sắc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday meaning referring to the Vietnamese acute tone or its written mark is missing.",
+   "fix": "noun | acute tone; acute accent — Chữ này thiếu dấu sắc. = This word is missing its acute accent."
+  }
+ ]
+}

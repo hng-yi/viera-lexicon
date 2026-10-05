@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "thủy tiên",
+  "xốc",
+  "bách tính",
+  "dây cương",
+  "công chứng viên",
+  "vướng mắc",
+  "Thường niên",
+  "thường niên",
+  "kiệt quệ",
+  "chớm",
+  "bẩy",
+  "đầy đặn",
+  "đạo cụ",
+  "thụt",
+  "ồ ạt",
+  "cổ kính",
+  "lộc",
+  "thị vệ",
+  "lẻ loi",
+  "vùi dập",
+  "thoái vị",
+  "nhợt",
+  "thiết tha",
+  "thuốc bổ",
+  "thơm tho",
+  "chấn song",
+  "dạt",
+  "kính hiển vi",
+  "ran",
+  "thánh nhân",
+  "vu oan",
+  "buồn rầu",
+  "trung lưu",
+  "pháo tay",
+  "tín",
+  "thẳng thừng",
+  "hà mã",
+  "thời bình",
+  "dỗ dành",
+  "sàn diễn"
+ ],
+ "flags": [
+  {
+   "headword": "thụt",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The punching verb is thụi, whereas thụt means to retract or move inward, among other senses ([dictionary](https://vi.wiktionary.org/wiki/th%E1%BB%A5t)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "lộc",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Velvet antler is nhung or lộc nhung; lộc alone does not mean antler ([dictionary](https://vi.wiktionary.org/wiki/l%E1%BB%99c)).",
+   "fix": "Remove this sense and its example."
+  }
+ ]
+}

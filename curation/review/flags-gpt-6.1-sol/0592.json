@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "trả lại",
+  "trả treo",
+  "trải lòng",
+  "trải qua",
+  "trảy",
+  "trấn nhậm",
+  "trầm kha",
+  "trầm luân",
+  "trầm tích",
+  "trầm tư mặc tưởng",
+  "trần ai",
+  "trần bì",
+  "trần thuật",
+  "trầng",
+  "trầu",
+  "trầu cau",
+  "trầu không",
+  "trầu quơ",
+  "trầy trật",
+  "trầy trụa",
+  "trẩy",
+  "trẫm mình",
+  "trận cầu",
+  "trận thế",
+  "trận đánh",
+  "trận đấu",
+  "trận địa pháo",
+  "trập trùng",
+  "trật lất",
+  "trắc diện",
+  "trắm",
+  "trắng bốp",
+  "trắng hếu",
+  "trắng lốp",
+  "trắng muốt",
+  "trắng mịn",
+  "trắng xoá",
+  "trắng xóa",
+  "trằm",
+  "trẻ sơ sinh"
+ ],
+ "flags": [
+  {
+   "headword": "trầm kha",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word means instead of using it to refer to an illness.",
+   "fix": "Ông mắc trầm kha đã nhiều năm. = He has suffered from a chronic illness for many years."
+  },
+  {
+   "headword": "trầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example unnaturally describes the leaves as climbing the post rather than the vine.",
+   "fix": "Dây trầu xanh mướt leo kín cột nhà. = The lush green betel vine climbs all over the house post."
+  },
+  {
+   "headword": "trằm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The pond/lake sense is regional to Quảng Trị and needs a Central tag ([Wiktionary](https://en.wiktionary.org/wiki/tr%E1%BA%B1m)).",
+   "fix": "[Central, rare]"
+  }
+ ]
+}

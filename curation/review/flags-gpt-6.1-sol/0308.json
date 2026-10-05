@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "huyền diệu",
+  "cá rô",
+  "máy điện",
+  "phù điêu",
+  "mao mạch",
+  "bạch đàn",
+  "huyết học",
+  "chiến tranh thế giới",
+  "băng thông",
+  "chai sạn",
+  "hóm hỉnh",
+  "cao tăng",
+  "đẫy",
+  "kinh sư",
+  "rượu táo",
+  "đình đám",
+  "mụt",
+  "viễn dương",
+  "tắc trách",
+  "xứng đôi",
+  "Tây Ấn",
+  "nứa",
+  "hoàng thái hậu",
+  "lột xác",
+  "phẳng lặng",
+  "môn đệ",
+  "nghị trường",
+  "đồng dạng",
+  "á hậu",
+  "este",
+  "niêm",
+  "xáo",
+  "vòi vĩnh",
+  "vẹn",
+  "phòng mạch",
+  "bắp chân",
+  "thon thả",
+  "thước kẻ",
+  "ghềnh",
+  "nơtron"
+ ],
+ "flags": [
+  {
+   "headword": "máy điện",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Máy điện denotes electrical machines generally, including motors and generators, rather than specifically a generator ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-m%C3%A1y%20%C4%91i%E1%BB%87n)).",
+   "fix": "electrical machine (such as a generator or electric motor)"
+  },
+  {
+   "headword": "mụt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This form of mụn is regional Central and Southern usage ([regional dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf)).",
+   "fix": "Add tags: Central, Southern."
+  },
+  {
+   "headword": "hoàng thái hậu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Hoàng thái hậu cho gọi nhà vua vào cung. = The empress dowager summoned the king to the palace."
+  },
+  {
+   "headword": "vẹn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Vẹn means intact or complete; in giữ vẹn lời thề, giữ supplies the meaning 'keep' ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%E1%BA%B9n)).",
+   "fix": "Remove this separate sense and merge it into sense 1."
+  },
+  {
+   "headword": "vẹn",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Sống vẹn lời thề is unnatural because vẹn does not itself mean to keep a vow.",
+   "fix": "Hai người giữ vẹn lời thề đến lúc già. = The two kept their vow into old age."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "sinh sản",
+  "đương đầu",
+  "vị thế",
+  "sức sống",
+  "danh nghĩa",
+  "phát sinh",
+  "ô uế",
+  "thò",
+  "bùng",
+  "lết",
+  "đông lạnh",
+  "năng khiếu",
+  "hòa nhạc",
+  "bản thảo",
+  "toàn quyền",
+  "bất ổn",
+  "hình dáng",
+  "tây bắc",
+  "xuồng",
+  "hú",
+  "lún",
+  "tai mắt",
+  "truy",
+  "chăm lo",
+  "tận tâm",
+  "cột sống",
+  "bất tiện",
+  "mơ mộng",
+  "ân xá",
+  "nuốt chửng",
+  "tiểu học",
+  "lận",
+  "ăn gian",
+  "hận thù",
+  "thợ rèn",
+  "tiếp tân",
+  "chưởng",
+  "tràng",
+  "thương nhân",
+  "đại gia"
+ ],
+ "flags": [
+  {
+   "headword": "ô uế",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word is literary or formal, so leaving it untagged suggests it is an ordinary conversational word for filthy.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "đông lạnh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common verb meaning to freeze food for preservation.",
+   "fix": "Add a verb sense: to freeze (food for preservation)."
+  },
+  {
+   "headword": "mơ mộng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common verb meaning to daydream.",
+   "fix": "Add a verb sense: to daydream."
+  }
+ ]
+}

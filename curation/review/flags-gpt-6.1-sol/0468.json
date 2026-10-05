@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "gạch bỏ",
+  "gạch chân",
+  "gạch dưới",
+  "gạch ngang",
+  "gạch đít",
+  "gạn đục khơi trong",
+  "gạo nếp",
+  "gạo tẻ",
+  "gạo đỏ",
+  "gạt tàn",
+  "gấc",
+  "gấp làm đôi",
+  "gấp đôi",
+  "gấu Bắc Cực",
+  "gấu chó",
+  "gấu lợn",
+  "gấu ngựa",
+  "gấu nước",
+  "gấu ó",
+  "gấy",
+  "gầm ghì",
+  "gần chùa gọi bụt bằng anh",
+  "gần mực thì đen, gần đèn thì rạng",
+  "gần mực thì đen, gần đèn thì sáng",
+  "gần xịt",
+  "gần đây",
+  "gẩm",
+  "gật đầu",
+  "gậy chống",
+  "gậy gộc",
+  "gắm",
+  "gắp lửa bỏ tay người",
+  "gắt như mắm tôm",
+  "gặc",
+  "gặp may",
+  "gặp phải",
+  "gọi bằng cụ",
+  "gọi vốn",
+  "gọn hơ",
+  "gỏi đu đủ"
+ ],
+ "flags": [
+  {
+   "headword": "gạch đít",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gạch đít means physically underlining text, not figuratively emphasising an idea.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "gạo đỏ",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Parboiled rice is gạo đồ, not gạo đỏ, as defined in the [rice standard](https://dulieuphapluat.vn/van-ban/linh-vuc-khac/van-ban/tieu-chuan-quoc-gia-tcvn-128472020-ve-gao-do-42072.html).",
+   "fix": "Remove sense 3 and its example."
+  },
+  {
+   "headword": "gấp làm đôi",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday meaning of folding something in half.",
+   "fix": "verb | to fold in half; ex: Gấp làm đôi tờ giấy này. = Fold this sheet of paper in half."
+  },
+  {
+   "headword": "gấp làm đôi",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner is most likely to encounter this phrase as an instruction to fold something in half.",
+   "fix": "Put 'to fold in half' first."
+  },
+  {
+   "headword": "gấu lợn",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The English example leaves the animal's Vietnamese name untranslated.",
+   "fix": "The sloth bear has a long snout like a pig's."
+  },
+  {
+   "headword": "gấy",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Gấy meaning 'wife' is regional Nghệ Tĩnh vocabulary, as documented in the [Nghệ Tĩnh dictionary](https://nghengu.vn/tieng-nghe-cua-toi/tu-dien-tieng-nghe-tinh-van-e-g-h-i-k-l-m-n-1184.html).",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "gắp lửa bỏ tay người",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The idiom means maliciously making false accusations to harm someone, rather than simply passing responsibility, as explained in this [dictionary](https://vi.wiktionary.org/wiki/gắp_lửa_bỏ_tay_người).",
+   "fix": "to make false accusations against someone to bring trouble upon them"
+  },
+  {
+   "headword": "gắp lửa bỏ tay người",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation adds 'He botched the job,' which the Vietnamese does not say.",
+   "fix": "He maliciously accused his colleague, blaming everything on them."
+  },
+  {
+   "headword": "gọi bằng cụ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The phrase describes acknowledging someone else's superiority, not being far superior oneself.",
+   "fix": "to acknowledge someone as far superior to oneself"
+  },
+  {
+   "headword": "gọi bằng cụ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Xịn gọi bằng cụ is not a natural way to describe a phone's quality.",
+   "fix": "Về khoản chơi cờ, tôi phải gọi anh ấy bằng cụ. = When it comes to playing chess, I have to acknowledge that he is far better than me."
+  }
+ ]
+}

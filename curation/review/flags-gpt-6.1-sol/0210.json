@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "chông",
+  "rắn hổ",
+  "khánh thành",
+  "mặc xác",
+  "trơ trẽn",
+  "ra sức",
+  "thao tác",
+  "lem",
+  "quỵ",
+  "giật gân",
+  "lu",
+  "tệp",
+  "thơ thẩn",
+  "xích mích",
+  "tâm can",
+  "nửa vời",
+  "võ sĩ đạo",
+  "nước khoáng",
+  "cãi cọ",
+  "hậu vệ",
+  "chân mày",
+  "nan giải",
+  "xao lãng",
+  "hổn hển",
+  "tính tình",
+  "cung ứng",
+  "biến chứng",
+  "vũ trường",
+  "đích xác",
+  "web",
+  "đầu quân",
+  "giòi",
+  "thiết thực",
+  "chính hiệu",
+  "cải xanh",
+  "ủi",
+  "điền kinh",
+  "phát ngôn viên",
+  "thì phải",
+  "hố xí"
+ ],
+ "flags": [
+  {
+   "headword": "tệp",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The stack-of-paper sense remains ordinary current usage, so rare is misleading ([VDict](https://vdict.com/t%E1%BB%87p%2C3%2C0%2C0.html?lang=vi)).",
+   "fix": "Remove rare; retain colloquial."
+  },
+  {
+   "headword": "tâm can",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary expression for one's innermost feelings, rather than neutral everyday vocabulary.",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "nửa vời",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common adjectival meaning incomplete or half-done, as in giải pháp nửa vời.",
+   "fix": "Add adjective: incomplete; half-done."
+  },
+  {
+   "headword": "cung ứng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This supply verb belongs to formal commercial or administrative language.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "ủi",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The guava meaning is regional to Hải Phòng and Thanh Hóa ([Wiktionary](https://en.wiktionary.org/wiki/%E1%BB%A7i)).",
+   "fix": "Add Northern and Central, specifying Hải Phòng and Thanh Hóa in a usage note."
+  },
+  {
+   "headword": "hố xí",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word also covers toilets with septic systems, so pit latrine incorrectly restricts its meaning ([official planning document](https://binhdinh.gov.vn/upload/2005340/20220304/04ttbnnptnt17.pdf)).",
+   "fix": "toilet; latrine"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "lài",
+  "nghê",
+  "hãi",
+  "chau",
+  "thủ quỹ",
+  "thụ tinh",
+  "lẩn",
+  "nhuyễn thể",
+  "hiềm khích",
+  "ra lò",
+  "bất bình",
+  "luân phiên",
+  "sui",
+  "bơ vơ",
+  "thiên tử",
+  "lí trí",
+  "chối từ",
+  "níu kéo",
+  "háu",
+  "núi lửa",
+  "du đãng",
+  "tối ưu",
+  "thâm niên",
+  "vu khống",
+  "vô thời hạn",
+  "tháng mười",
+  "tân trang",
+  "cách biệt",
+  "cuống não",
+  "lăng",
+  "bán dâm",
+  "đỏ mặt",
+  "phát quang",
+  "tăm",
+  "chúc tụng",
+  "cưu mang",
+  "hơ",
+  "cạm",
+  "đê hèn",
+  "khuôn phép"
+ ],
+ "flags": [
+  {
+   "headword": "hãi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Hãi” is not specifically Southern; [Vietnamese dictionaries](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%C3%A3i) record this fear sense without a regional restriction.",
+   "fix": "Remove the Southern tag."
+  },
+  {
+   "headword": "sui",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common family relationship meaning referring to one's child's spouse's parent, documented in [Vietnamese usage](https://tuoitre.vn/anh-sui-linh-quynh-xuong-ham-chi-sui-20171018175532695.htm).",
+   "fix": "Add noun [Southern]: parent of one's child's spouse; co-parent-in-law."
+  },
+  {
+   "headword": "sui",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter the [family relationship meaning](https://tuoitre.vn/phunuonline/tinh-sui-gia-a1482924.html) than the tree name.",
+   "fix": "Put the co-parent-in-law meaning first and the upas-tree meaning second."
+  }
+ ]
+}

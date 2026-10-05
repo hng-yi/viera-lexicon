@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "anh hùng hảo hán",
+  "anh hùng khó qua ải mĩ nhân",
+  "anh hùng không có đất dụng võ",
+  "anh hùng mạt lộ",
+  "anh hùng nghĩa hiệp",
+  "anh hùng nhất khoảnh",
+  "anh hùng rơm",
+  "anh hùng tương ngộ",
+  "anh linh",
+  "anh minh",
+  "anh nuôi",
+  "anh quân",
+  "anh rể",
+  "anh thư",
+  "anh tuấn",
+  "anh tài",
+  "anh túc xác",
+  "anh vũ",
+  "anh yêu em",
+  "anh ách",
+  "anh ấy",
+  "ankan",
+  "ankanol",
+  "ankađien",
+  "anken",
+  "ankin",
+  "anđêhit",
+  "aptomat",
+  "atatin",
+  "axetic",
+  "axeton",
+  "axit axetic",
+  "axit clohiđric",
+  "axit sunfuric",
+  "axit sunfurơ",
+  "axit đêôxiribônuclêic",
+  "axít oxalic",
+  "ađênôzin",
+  "ađênôzin triphotphat",
+  "ba ba ấp bóng"
+ ],
+ "flags": [
+  {
+   "headword": "anh hùng nhất khoảnh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The expression concerns dominance within a limited locality, not believing oneself the best in a professional field ([dictionary](https://www.sachne.com/filedownload/09092025/tu-dien-thanh-ngu-tuc-ngu-viet-nam_10152025113525.pdf)).",
+   "fix": "Merge with sense 2: a big fish in a small pond; someone dominant only within a limited area."
+  },
+  {
+   "headword": "anh linh",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The adjective belongs to formal, ceremonial usage and needs a register warning ([VDict](https://vdict.com/video-anh%20linh%2C3%2C0%2C0.html)).",
+   "fix": "[uncommon, formal]"
+  },
+  {
+   "headword": "anh thư",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary word for a heroine, unsuitable as an unmarked everyday equivalent ([dictionary](https://tudientv.com/?t=anh+th%C6%B0)).",
+   "fix": "[literary]"
+  },
+  {
+   "headword": "axit đêôxiribônuclêic",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the term's abbreviation instead of showing it in use.",
+   "fix": "Mẫu máu chứa axit đêôxiribônuclêic của người đó. = The blood sample contains that person's DNA."
+  },
+  {
+   "headword": "ađênôzin triphotphat",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the term's abbreviation instead of showing it in use.",
+   "fix": "Tế bào sử dụng ađênôzin triphotphat để cung cấp năng lượng cho nhiều hoạt động. = Cells use adenosine triphosphate to supply energy for many activities."
+  }
+ ]
+}

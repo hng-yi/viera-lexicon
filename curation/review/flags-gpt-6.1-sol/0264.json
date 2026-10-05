@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "cá hề",
+  "thường tình",
+  "phê phán",
+  "chum",
+  "bõ công",
+  "súc sắc",
+  "ngớt",
+  "toẹt",
+  "người rừng",
+  "cực quang",
+  "ban phát",
+  "noi gương",
+  "khốn cùng",
+  "ngữ pháp",
+  "nghệ nhân",
+  "phó mặc",
+  "hiếu kì",
+  "cỏ cây",
+  "tuyển tập",
+  "điều hòa",
+  "test",
+  "bất khả kháng",
+  "dưa leo",
+  "cà nhắc",
+  "phi lợi nhuận",
+  "thực khách",
+  "thành khẩn",
+  "sơ ý",
+  "đánh bóng",
+  "nghiêm nghị",
+  "pô",
+  "nữ vương",
+  "quà cáp",
+  "oan hồn",
+  "thăng trầm",
+  "kiểm điểm",
+  "trầm uất",
+  "tới lui",
+  "dấu hỏi",
+  "liên hồi"
+ ],
+ "flags": [
+  {
+   "headword": "ngữ pháp",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ngữ pháp means grammar; its use in lỗi ngữ pháp does not establish a separate meaning equivalent to grammatical.",
+   "fix": "Remove sense 2 and keep its example under the noun sense."
+  },
+  {
+   "headword": "pô",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Pô also commonly means a vehicle's exhaust pipe or muffler, a meaning learners will encounter in everyday Vietnamese.",
+   "fix": "Add noun sense: exhaust pipe; muffler (of a vehicle)."
+  },
+  {
+   "headword": "nữ vương",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nữ vương is a formal or literary title, which the untagged entry presents as ordinary conversational vocabulary.",
+   "fix": "Add the formal tag."
+  }
+ ]
+}

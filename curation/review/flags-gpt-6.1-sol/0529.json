@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "nhát nhúa",
+  "nháy nháy",
+  "nhân chưng",
+  "nhân chủng học",
+  "nhân dục",
+  "nhân giả",
+  "nhân hoà",
+  "nhân hoá",
+  "nhân khẩu học",
+  "nhân loại học",
+  "nhân quả báo ứng",
+  "nhân sinh quan",
+  "nhân sơ",
+  "nhân tai",
+  "nhân thần",
+  "nhân thực",
+  "nhân tướng học",
+  "nhân tử",
+  "nhân văn học",
+  "nhân định thắng thiên",
+  "nhã nhạc",
+  "nhãn nhục",
+  "nhèm",
+  "nhìn thấy",
+  "nhí nhảnh như con chó cảnh",
+  "nhóc con",
+  "nhóm chức",
+  "nhóm máu",
+  "nhóm nhạc",
+  "nhóm đảo",
+  "nhón chân",
+  "nhóng",
+  "nhót tây",
+  "nhôm nhựa",
+  "nhõn",
+  "nhăm nhe",
+  "nhũ chấp",
+  "nhũ danh",
+  "nhũ hoa",
+  "nhũ đá"
+ ],
+ "flags": [
+  {
+   "headword": "nhân khẩu học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines demography instead of showing the word in use.",
+   "fix": "Chị ấy đang học nhân khẩu học. = She is studying demography."
+  },
+  {
+   "headword": "nhân tướng học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains physiognomy instead of showing the word in use.",
+   "fix": "Ông ấy tin vào nhân tướng học. = He believes in physiognomy."
+  },
+  {
+   "headword": "nhõn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nhõn means only or just a very small remaining quantity, rather than a countable amount of money ([dictionary](https://vi.wiktionary.org/wiki/nh%C3%B5n)).",
+   "fix": "only; just (emphasising how little remains)"
+  },
+  {
+   "headword": "nhõn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Vài nhõn incorrectly treats nhõn as a countable noun.",
+   "fix": "Trong túi tôi còn nhõn một đồng. = I have just one đồng left in my pocket."
+  },
+  {
+   "headword": "nhũ chấp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines chyle instead of showing the word in use.",
+   "fix": "Xét nghiệm phát hiện nhũ chấp trong dịch màng phổi. = The test detected chyle in the pleural fluid."
+  }
+ ]
+}

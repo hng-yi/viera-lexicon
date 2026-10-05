@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "viết tắt",
+  "gạch đá",
+  "dè dặt",
+  "xuất xứ",
+  "kì công",
+  "cụp",
+  "tinh ý",
+  "sâu rộng",
+  "rạch ròi",
+  "rập khuôn",
+  "xác lập",
+  "viện hàn lâm",
+  "chập mạch",
+  "á đù",
+  "xơ gan",
+  "thăn",
+  "váng",
+  "hối hả",
+  "tươm tất",
+  "xèng",
+  "kiếu",
+  "đậu khấu",
+  "tuyên dương",
+  "tàn dư",
+  "lạy hồn",
+  "nhấm nháp",
+  "công xưởng",
+  "gầy gò",
+  "tôn chỉ",
+  "xê dịch",
+  "ì",
+  "đắng cay",
+  "xám xịt",
+  "tiếng Pháp",
+  "tất tần tật",
+  "đá bào",
+  "không khéo",
+  "bật mí",
+  "chuyển phát",
+  "kết tinh"
+ ],
+ "flags": [
+  {
+   "headword": "đậu khấu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đậu khấu means cardamom; nutmeg is nhục đậu khấu.",
+   "fix": "cardamom (spice)"
+  },
+  {
+   "headword": "đậu khấu",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation incorrectly renders đậu khấu as nutmeg instead of cardamom.",
+   "fix": "She adds a little cardamom to the stew."
+  }
+ ]
+}

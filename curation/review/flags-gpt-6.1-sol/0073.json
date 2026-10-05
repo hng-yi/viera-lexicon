@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "Mãn",
+  "mãn",
+  "vui mừng",
+  "ăn tối",
+  "hoang tưởng",
+  "hiền",
+  "Phật",
+  "phật",
+  "phát điên",
+  "chúng mình",
+  "gọn",
+  "tham vọng",
+  "toi",
+  "Trung Hoa",
+  "tử hình",
+  "gen",
+  "hiện diện",
+  "van",
+  "đăng",
+  "dữ dội",
+  "thẳng thắn",
+  "cảnh giác",
+  "làm trò",
+  "bảo mật",
+  "cổ điển",
+  "kinh hoàng",
+  "chôm",
+  "sai trái",
+  "chân thành",
+  "truy đuổi",
+  "nghĩ lại",
+  "khác thường",
+  "tình nghi",
+  "tiễn",
+  "miễn",
+  "sở thích",
+  "tiến bộ",
+  "bất tỉnh",
+  "kịch bản",
+  "rau"
+ ],
+ "flags": [
+  {
+   "headword": "tử hình",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tử hình means to execute someone, while sentencing someone to death is kết án tử hình.",
+   "fix": "to execute"
+  },
+  {
+   "headword": "tiến bộ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning 'progress; advancement' is missing.",
+   "fix": "noun | progress; advancement"
+  }
+ ]
+}

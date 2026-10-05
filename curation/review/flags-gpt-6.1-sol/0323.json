@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "lâm bệnh",
+  "mím",
+  "tổng đốc",
+  "liên đội",
+  "giá thành",
+  "bái phục",
+  "mưa tuyết",
+  "tin học",
+  "dày dạn",
+  "kỉ yếu",
+  "nước mắm",
+  "cộng đoàn",
+  "giong",
+  "chó săn",
+  "rộn ràng",
+  "bẩn bựa",
+  "trầm trồ",
+  "chuyên cơ",
+  "gơ",
+  "đề đốc",
+  "nối gót",
+  "kia kìa",
+  "quờ quạng",
+  "huỵch",
+  "nghiêm trị",
+  "hồ tiêu",
+  "phóng sinh",
+  "ưu phiền",
+  "da màu",
+  "đặm",
+  "ghệt",
+  "ăn bận",
+  "danh lam thắng cảnh",
+  "rối ren",
+  "đại ý",
+  "quái ác",
+  "tạp phẩm",
+  "nhà giáo",
+  "hao mòn",
+  "cho biết"
+ ],
+ "flags": [
+  {
+   "headword": "giong",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Giong means a detached bamboo branch, not a bamboo pole ([dictionary](https://www.rung.vn/dict/vn_vn/Giong)).",
+   "fix": "bamboo branch; example: Người ta lấy cành giong làm bờ giậu. = People use bamboo branches to make fences."
+  },
+  {
+   "headword": "giong",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The verb for sounding a drum or gong is gióng, which is a different word ([dictionary](https://www.rung.vn/dict/vn_vn/Gi%C3%B3ng)).",
+   "fix": "Remove this sense from giong and place it under gióng; example: Dân làng gióng trống mở hội."
+  },
+  {
+   "headword": "gơ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gơ means to propagate sweet-potato vines or vegetables, not to train yam vines onto supports ([dictionary](https://vi.wiktionary.org/wiki/g%C6%A1)).",
+   "fix": "to propagate sweet-potato vines or vegetables; example: Bà gơ dây khoai lang để lấy giống. = Grandma propagated sweet-potato vines for planting."
+  },
+  {
+   "headword": "đề đốc",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This naval rank belonged to the former Republic of Vietnam navy and is not the current Vietnamese name for rear admiral ([rank explanation](https://www.sggp.org.vn/do-doc-pho-do-doc-chuan-do-doc-de-doc-tuong-duong-voi-cac-chuc-danh-nao-trong-quan-doi-nhan-dan-viet-nam-post122996.html)).",
+   "fix": "[historical] rear admiral in the former Republic of Vietnam navy"
+  },
+  {
+   "headword": "đề đốc",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The imperial military title is the meaning learners are most likely to encounter today.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "nghiêm trị",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nghiêm trị is formal language for severe punishment and should not be presented as neutral casual wording.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "ưu phiền",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ưu phiền is literary wording for sorrow and worry, so the untagged noun encourages inappropriate casual use.",
+   "fix": "[literary]"
+  }
+ ]
+}

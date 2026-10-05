@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "boóc-đô",
+  "brom",
+  "bu-lô",
+  "bung xung",
+  "buôn dưa lê",
+  "buông lơi",
+  "buông lời",
+  "buông tuồng",
+  "buồm lòng",
+  "buồm ưng",
+  "buổi chiều",
+  "buổi họp",
+  "buổi lễ",
+  "buổi sáng",
+  "buổi tiệc",
+  "buổi trưa",
+  "buổi tối",
+  "buổi đực buổi cái",
+  "bà Mụ nặn nhầm",
+  "bà bầu",
+  "bà chúa",
+  "bà chằn",
+  "bà cô",
+  "bà hoàng",
+  "bà ngoại",
+  "bà nội",
+  "bà nội trợ",
+  "bà phước",
+  "bà tám",
+  "bà ấy",
+  "bài bác",
+  "bài chòi",
+  "bài giải",
+  "bài làm",
+  "bài ngoại",
+  "bài thơ",
+  "bài tập về nhà",
+  "bài viết",
+  "bài xích",
+  "bài đăng"
+ ],
+ "flags": [
+  {
+   "headword": "bà chúa",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains who receives the title instead of using it in a situation.",
+   "fix": "Bà chúa sai người hầu mang trà lên. = The lord's wife ordered a servant to bring tea."
+  },
+  {
+   "headword": "bà cô",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common use referring to a paternal aunt, which can carry a dismissive tone ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/b%C3%A0_c%C3%B4)).",
+   "fix": "paternal aunt (dismissive reference) [colloquial, derogatory]"
+  },
+  {
+   "headword": "bà cô",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense insults a woman as difficult or spiteful and needs a derogatory warning ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/b%C3%A0_c%C3%B4)).",
+   "fix": "[colloquial, derogatory]"
+  }
+ ]
+}

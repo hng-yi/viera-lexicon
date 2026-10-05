@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "chất dẻo",
+  "trạnh",
+  "trực hệ",
+  "kiến lập",
+  "đầu đinh",
+  "ựa",
+  "ngữ điệu",
+  "tôn quý",
+  "vùng trời",
+  "thịt cầy",
+  "ngữ âm",
+  "cùi chỏ",
+  "thể lệ",
+  "dân ca",
+  "nín thinh",
+  "thường vụ",
+  "ẳng",
+  "tự khắc",
+  "mãn ý",
+  "xiểng",
+  "quốc pháp",
+  "biểu ngữ",
+  "bút pháp",
+  "lông măng",
+  "đoản mạch",
+  "bất đắc kì tử",
+  "thiên thần sa ngã",
+  "yến sào",
+  "lẩu",
+  "lịch pháp",
+  "làm lụng",
+  "đen sì",
+  "ú ớ",
+  "chíu",
+  "dung thứ",
+  "ban mai",
+  "mù màu",
+  "ỉm",
+  "bục giảng",
+  "phét lác"
+ ],
+ "flags": [
+  {
+   "headword": "trực hệ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal genealogical or legal term, so leaving it untagged suggests ordinary conversational usage.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tôn quý",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This elevated literary adjective needs a register warning to prevent learners from treating it as an ordinary conversational word.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "cùi chỏ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This term for elbow is used mainly in Southern Vietnamese and needs a regional label ([dictionary](https://loigiaihay.com/tu-dien-tv/cui-cho-eOV3Qt2NQaUth.html)).",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

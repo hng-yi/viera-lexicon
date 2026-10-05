@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "phần trăm",
+  "từng trải",
+  "thuần khiết",
+  "đường băng",
+  "vùi",
+  "tham chiến",
+  "đồ dùng",
+  "tín dụng",
+  "buồn ngủ",
+  "cận vệ",
+  "xúc xích",
+  "hiệp hội",
+  "trông nom",
+  "tình cảnh",
+  "vắt",
+  "tuyển dụng",
+  "cai",
+  "anh chị em",
+  "đồng cỏ",
+  "giới nghiêm",
+  "nhẹ nhõm",
+  "thái quá",
+  "tạt",
+  "nhảy nhót",
+  "quyền hạn",
+  "choáng",
+  "săn bắn",
+  "tươi sáng",
+  "dột",
+  "cháo",
+  "dương vật",
+  "đẫm",
+  "thể xác",
+  "nấy",
+  "cổ tích",
+  "căn cước",
+  "triệu phú",
+  "nam cực",
+  "ngon miệng",
+  "xỏ"
+ ],
+ "flags": [
+  {
+   "headword": "cai",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This title for an overseer belongs to older usage and is misleading as an unmarked modern job title ([dictionary](https://vi.wiktionary.org/wiki/cai)).",
+   "fix": "Add the tag dated."
+  },
+  {
+   "headword": "tạt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning describing rain blowing into somewhere is missing ([dictionary](https://vi.wiktionary.org/wiki/tạt)).",
+   "fix": "verb | to blow or drive against or into (of rain, wind, etc.); ex: Mưa tạt vào nhà. = Rain blew into the house."
+  },
+  {
+   "headword": "choáng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday meaning 'dizzy; light-headed' is missing and is not conveyed by emotional shock or medical shock.",
+   "fix": "adj | dizzy; light-headed; ex: Đứng dậy đột ngột, tôi thấy choáng. = When I stood up suddenly, I felt dizzy."
+  },
+  {
+   "headword": "dương vật",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Bệnh nhân bị đau ở dương vật. = The patient has pain in his penis."
+  },
+  {
+   "headword": "nam cực",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Penguins inhabit the Antarctic region rather than the geographic South Pole, so the example does not illustrate the stated sense accurately.",
+   "fix": "Đoàn thám hiểm đã đến Nam Cực. = The expedition reached the South Pole."
+  }
+ ]
+}

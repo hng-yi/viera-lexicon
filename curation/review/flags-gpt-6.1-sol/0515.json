@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "mẫm bóng",
+  "mẫn tiệp",
+  "mẫu câu",
+  "mẫu hệ",
+  "mẫu quốc",
+  "mẫu số",
+  "mẫu tự",
+  "mẫu âm",
+  "mận bắc",
+  "mật mã học",
+  "mật ngọt chết ruồi",
+  "mật phục",
+  "mắc cười",
+  "mắc cọp",
+  "mắc dịch",
+  "mắc khén",
+  "mắc mật",
+  "mắc mỏ",
+  "mắc phải",
+  "mắm nhĩ",
+  "mắm ruốc",
+  "mắm sặc",
+  "mắm sặt",
+  "mắn",
+  "mắn đẻ",
+  "mắng mỏ",
+  "mắng vốn",
+  "mắt chữ O mồm chữ A",
+  "mắt cá",
+  "mắt mèo",
+  "mắt nhắm mắt mở",
+  "mẳn",
+  "mặc tình",
+  "mặn nồng",
+  "mặt búng ra sữa",
+  "mặt chữ điền",
+  "mặt dày mày dạn",
+  "mặt đứng",
+  "mẹ ghẻ",
+  "mẹ nó"
+ ],
+ "flags": [
+  {
+   "headword": "mẫm bóng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "For a cricket, càng refers to the hind legs, not pincers, as illustrated in [Wiktionary](https://en.wiktionary.org/wiki/mẫm_bóng).",
+   "fix": "This cricket has plump, firm hind legs."
+  },
+  {
+   "headword": "mật phục",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Mật phục means to lie in wait secretly to catch someone, not an undercover police officer, as shown in [police reporting](https://congan.com.vn/vu-an/thua-thien-hue-cong-an-phuong-mat-phuc-bat-doi-tuong-tang-tru-ma-tuy_136423.html).",
+   "fix": "verb | to lie in wait secretly; to stake out"
+  },
+  {
+   "headword": "mắn đẻ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Remove sense 2's definitional example."
+  },
+  {
+   "headword": "mắt cá",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The skin lesion called mắt cá is a corn, not a plantar wart, as explained by [Nguyễn Tri Phương Hospital](https://bvnguyentriphuong.com.vn/kham-da-lieu-chuyen-sau/mat-ca-va-vet-chai).",
+   "fix": "corn (a small, painful area of thickened skin, usually on the foot)"
+  },
+  {
+   "headword": "mắt cá",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Mắt cá in this example means a corn rather than a plantar wart.",
+   "fix": "I have a corn on my foot, so walking hurts."
+  },
+  {
+   "headword": "mẹ nó",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This use is a vulgar curse, and colloquial alone does not warn the learner.",
+   "fix": "tags: [colloquial, vulgar]"
+  }
+ ]
+}

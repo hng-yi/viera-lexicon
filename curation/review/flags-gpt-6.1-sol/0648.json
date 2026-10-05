@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ảnh ảo",
+  "ảo tưởng sức mạnh",
+  "ảo tượng",
+  "Ấn Đụ",
+  "Ấn-Âu",
+  "ấm lòng",
+  "ấn chuột",
+  "ấn chương",
+  "ấn hành",
+  "ấp ôm",
+  "ấu chủ",
+  "ấu nhi",
+  "ấu trĩ viên",
+  "ầm vang",
+  "ầu ơ",
+  "ẩm thực phân tử",
+  "ẩm trà",
+  "ẩn hoạ",
+  "ẩn họa",
+  "ậm ừ",
+  "ập ã",
+  "ậu",
+  "ắc ê",
+  "ắc-coóc-đê-ông",
+  "ắc-quy",
+  "ắng",
+  "ắp",
+  "ẵm bồng",
+  "ẹp",
+  "ếch giun",
+  "ếch ngồi đáy giếng",
+  "ềnh",
+  "ễnh",
+  "ỉa chảy",
+  "ỉa ra quần",
+  "ỉu",
+  "ọc",
+  "ọp à ọp ẹp",
+  "ốc anh vũ",
+  "ốc bươu"
+ ],
+ "flags": [
+  {
+   "headword": "ấu nhi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ấu nhi belongs to formal or specialized usage rather than ordinary casual speech, as noted in [VDict](https://vdict.com/%E1%BA%A5u%20nhi%2C3%2C0%2C0.html).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "ấu trĩ viên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word means instead of using it to refer to a kindergarten.",
+   "fix": "Hồi nhỏ, bà tôi học ở một ấu trĩ viên gần nhà. = As a child, my grandmother attended a kindergarten near her home."
+  }
+ ]
+}

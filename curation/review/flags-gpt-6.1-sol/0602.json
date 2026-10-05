@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tường vi",
+  "tườu",
+  "tưởng bở",
+  "tượng thanh",
+  "tạ thế",
+  "tạ từ",
+  "tạc đạn",
+  "tại chức",
+  "tại gia",
+  "tại hạ",
+  "tại ngoại hậu cứu",
+  "tại vì",
+  "tại vị",
+  "tạm dịch",
+  "tạo hoá",
+  "tạo nên",
+  "tạo phản",
+  "tạo thành",
+  "tạp hoá",
+  "tạp pín lù",
+  "tạp trở",
+  "tả chân",
+  "tả khuynh",
+  "tả ngạn",
+  "tả phái",
+  "tả pín lù",
+  "tải xuống",
+  "tản mạn",
+  "tản văn",
+  "tảng sáng",
+  "tảo hôn",
+  "tảo mộ",
+  "tảo tần",
+  "tấc đất tấc vàng",
+  "tấm tắc",
+  "tấn tới",
+  "tấp ta tấp tểnh",
+  "tấp tểnh",
+  "tất tả",
+  "tất tất tả tả"
+ ],
+ "flags": [
+  {
+   "headword": "tạp trở",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word denotes a newspaper or magazine section of miscellaneous short items, not an opinion piece ([source](https://nguyenduyxuan.net/kho-tri-thuc/chu-nghia-tren-bao-chi-xua-12069.html)).",
+   "fix": "a newspaper or magazine column of miscellaneous short items"
+  },
+  {
+   "headword": "tấp tểnh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The older emotional sense means being secretly pleased or excited, not feeling uneasy ([dictionary](https://vi.wiktionary.org/wiki/tấp_tểnh)).",
+   "fix": "to be secretly pleased; to feel inwardly excited"
+  },
+  {
+   "headword": "tấp tểnh",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example portrays anxious restlessness rather than the older sense of inward pleasure ([dictionary](https://vi.wiktionary.org/wiki/tấp_tểnh)).",
+   "fix": "Nghe tin sắp được đi hội, cô tấp tểnh mừng thầm. = Hearing that she would soon get to attend the festival, she was secretly delighted."
+  }
+ ]
+}

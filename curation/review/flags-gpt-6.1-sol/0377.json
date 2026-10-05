@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "bánh giò",
+  "giội",
+  "khất thực",
+  "săn đón",
+  "ngất ngư",
+  "bủng",
+  "lõng",
+  "máy ủi",
+  "chơi điện tử",
+  "rả rích",
+  "sầm uất",
+  "thuyền máy",
+  "nị",
+  "tập quyền",
+  "nguyệt báo",
+  "bống",
+  "mẽ",
+  "sục",
+  "xoay chiều",
+  "thâm độc",
+  "nường",
+  "trượng phu",
+  "lêu lổng",
+  "dây thun",
+  "giun sán",
+  "há cảo",
+  "nguyên xi",
+  "kiếm đạo",
+  "ba gác",
+  "cù nhây",
+  "vôi bột",
+  "bập bẹ",
+  "tập tin",
+  "đấu đá",
+  "minh chủ",
+  "elip",
+  "ngũ giới",
+  "tròn xoe",
+  "chủ nghĩa lãng mạn",
+  "cách tân"
+ ],
+ "flags": [
+  {
+   "headword": "ngất ngư",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "In this construction, ngất ngư should follow cười.",
+   "fix": "Cả nhà cười ngất ngư vì câu chuyện của bố."
+  },
+  {
+   "headword": "lõng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This denotes a historical boat serving pleasure seekers, rather than an ordinary recreational boat ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%C3%B5ng)).",
+   "fix": "small boat formerly used for courtesan entertainment"
+  },
+  {
+   "headword": "lõng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The boat sense is obsolete, so rare alone does not adequately label it ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%C3%B5ng)).",
+   "fix": "Replace rare with historical."
+  },
+  {
+   "headword": "lõng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses lõng for a modern sightseeing boat ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%C3%B5ng)).",
+   "fix": "Ông ấy xuống lõng nghe hát. = He boarded the courtesan boat to listen to singing."
+  },
+  {
+   "headword": "bống",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Bống remains ordinary fish vocabulary and is not archaic or confined to literature ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BB%91ng)).",
+   "fix": "Remove archaic and literary."
+  },
+  {
+   "headword": "cách tân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cách tân has a formal register that the entry leaves unmarked ([dictionary](https://loigiaihay.com/tu-dien-tv/cach-tan-exuKiwUMstFNZ.html)).",
+   "fix": "Add formal."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "kinh truyện",
+  "kinh tuyến",
+  "kinh tế chính trị",
+  "kinh tế học cổ điển",
+  "kinh tế học tài chính",
+  "kinh tế học tân cổ điển",
+  "kinh tế học vi mô",
+  "kinh tế học vĩ mô",
+  "kinh tế số",
+  "kinh tế tuần hoàn",
+  "kinh tế xã hội",
+  "kiêm nhiệm",
+  "kiêm ái",
+  "kiêng dè",
+  "kiêng kị",
+  "kiêu bạc",
+  "kiêu kì",
+  "kiêu ngoa",
+  "kiếm khách",
+  "kiếm sống",
+  "kiếm tiền",
+  "kiếm tìm",
+  "kiến ba khoang",
+  "kiến quốc",
+  "kiến trúc máy tính",
+  "kiến trúc thượng tầng",
+  "kiến tập",
+  "kiềm toả",
+  "kiền kiền",
+  "kiều bào",
+  "kiều hối",
+  "kiều mạch",
+  "kiều vụ",
+  "kiểm kê dân số",
+  "kiểm ngân",
+  "kiểu chữ",
+  "kiểu cách",
+  "kiểu gõ",
+  "kiểu thơm",
+  "kiễng"
+ ],
+ "flags": [
+  {
+   "headword": "kiêng kị",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss teaches unrestricted avoidance, whereas kiêng kị means avoidance because of taboo, superstition or customary prohibitions.",
+   "fix": "to avoid something considered taboo or unlucky"
+  },
+  {
+   "headword": "kiến trúc thượng tầng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Sinh viên tranh luận về mối quan hệ giữa kinh tế và kiến trúc thượng tầng. = The students debate the relationship between the economy and the superstructure."
+  },
+  {
+   "headword": "kiền kiền",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kiền kiền names a timber tree, especially Hopea pierrei, rather than the entire genus Hopea, as documented by the [IUCN](https://doi.org/10.2305/IUCN.UK.2017-3.RLTS.T33095A2832477.en).",
+   "fix": "a tropical timber tree (Hopea pierrei)"
+  },
+  {
+   "headword": "kiều bào",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Kiều bào is a formal collective term for compatriots living abroad and needs a register warning.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "kiểu thơm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kiểu thơm refers to a valued literary work or manuscript, not scented writing paper, as explained in the [Truyện Kiều notes](https://thuviensach.vn/img/pdf/12987-truyen-thuy-kieu-nguyen-du-thuviensach.vn.pdf).",
+   "fix": "a fine literary work; a treasured book or manuscript"
+  }
+ ]
+}

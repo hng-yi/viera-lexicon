@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ngoại sinh",
+  "ngoại sử",
+  "ngoại thất",
+  "ngoại tiếp",
+  "ngoại truyện",
+  "ngoại vụ",
+  "ngoại độc tố",
+  "ngoại động từ",
+  "ngoải",
+  "ngoảnh đi ngoảnh lại",
+  "ngoảy",
+  "ngoắt ngoéo",
+  "ngoặc vuông",
+  "ngoặc đơn",
+  "ngu dân",
+  "ngu trung",
+  "nguyên cám",
+  "nguyên hàm",
+  "nguyên niên",
+  "nguyên quán",
+  "nguyên thuỷ",
+  "nguyên thủ quốc gia",
+  "nguyên tiêu",
+  "nguyên tắc vàng",
+  "nguyên tố hoá học",
+  "nguyên tổ",
+  "nguyên tội",
+  "nguyên tử lực",
+  "nguyên uỷ",
+  "nguyên âm đôi",
+  "nguyên âm đơn",
+  "nguyên đán",
+  "nguyên ủy",
+  "nguyệt cầm",
+  "nguýt",
+  "nguồn cơn",
+  "nguồn mở",
+  "nguỵ",
+  "nguỵ biện",
+  "nguỵ khoa học"
+ ],
+ "flags": [
+  {
+   "headword": "ngoại động từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a transitive verb is instead of using the term in context.",
+   "fix": "Bài kiểm tra yêu cầu học sinh gạch chân các ngoại động từ. = The test asks students to underline the transitive verbs."
+  },
+  {
+   "headword": "ngoải",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Ngoải” already means “out there” and cannot replace “ngoài” in “ngoài trời.”",
+   "fix": "Ở ngoải mưa lớn lắm, đừng đi. = It's raining hard out there; don't go."
+  }
+ ]
+}

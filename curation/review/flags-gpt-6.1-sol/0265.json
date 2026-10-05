@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "siêu hình",
+  "nhỏ nhen",
+  "toan",
+  "đổ xô",
+  "nguyên sơ",
+  "quây quần",
+  "thư pháp",
+  "thể diện",
+  "vạn năng",
+  "đoàn thể",
+  "đề kháng",
+  "hào hùng",
+  "tiền nhân",
+  "mặt tiền",
+  "yết kiến",
+  "chực",
+  "họa tiết",
+  "phi đoàn",
+  "đờm",
+  "sĩ",
+  "tồn kho",
+  "trót",
+  "chết đứng",
+  "ruột già",
+  "thôn quê",
+  "quát tháo",
+  "ma mút",
+  "lảo đảo",
+  "lạnh ngắt",
+  "Trung Á",
+  "thụ phấn",
+  "trẻ thơ",
+  "ngẫm",
+  "lẳng lặng",
+  "thít",
+  "văn vẻ",
+  "trầm tư",
+  "can hệ",
+  "trọng thể",
+  "lắp ghép"
+ ],
+ "flags": [
+  {
+   "headword": "toan",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Standalone toan meaning acid is dated, so the colloquial tag misleadingly presents it as current conversational vocabulary.",
+   "fix": "Replace colloquial with dated."
+  },
+  {
+   "headword": "ma mút",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines mammoths instead of showing the word in use.",
+   "fix": "Các nhà khoa học tìm thấy bộ xương ma mút trong băng. = Scientists found a mammoth skeleton in the ice."
+  }
+ ]
+}

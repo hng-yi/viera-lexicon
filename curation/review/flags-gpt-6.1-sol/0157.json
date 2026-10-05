@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "ti vi",
+  "trung niên",
+  "hắc",
+  "đảm nhận",
+  "thượng sĩ",
+  "dốt",
+  "quặc",
+  "khăm",
+  "vừa lòng",
+  "giặc",
+  "quên lãng",
+  "bất tận",
+  "tôn thờ",
+  "nhà ăn",
+  "iPad",
+  "nhỏ nhoi",
+  "lã",
+  "Chăm",
+  "chăm",
+  "khuynh hướng",
+  "ăn hiếp",
+  "mũ bảo hiểm",
+  "sa ngã",
+  "minh mẫn",
+  "lo nghĩ",
+  "máu me",
+  "gạc",
+  "phát thanh",
+  "luồn",
+  "quế",
+  "nhái",
+  "phương trình",
+  "cẩu thả",
+  "leo thang",
+  "yểm",
+  "lượng tử",
+  "cấm túc",
+  "bực tức",
+  "lươn",
+  "mất công"
+ ],
+ "flags": [
+  {
+   "headword": "hắc",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hắc does not mean wearing an expression of extreme pain; its established senses concern pungency, strictness, difficulty and an imposing appearance. [Dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%E1%BA%AFc)",
+   "fix": "Remove sense 4."
+  },
+  {
+   "headword": "dốt",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The fruit-ripeness usage, especially in me dốt, is Southern and needs a regional label. [Usage](https://voer.edu.vn/m/cay-me/1ac61d7c)",
+   "fix": "Add Southern to the tags."
+  },
+  {
+   "headword": "khăm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khăm describes concealed nastiness and is not a countable noun meaning a dirty trick, so một cái khăm teaches a false usage. [Dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-kh%C4%83m)",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "ăn hiếp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Ăn hiếp is chiefly Southern usage and lacks the corresponding regional warning. [Nam Bộ dictionary](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html)",
+   "fix": "Use tags: colloquial, Southern."
+  },
+  {
+   "headword": "nhái",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nhái means a small frog generally, rather than having a separate meaning specifically identifying a tree frog. [Dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-nh%C3%A1i)",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "lươn",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The road-divider meaning, usually expressed as con lươn, remains ordinary colloquial usage and is misleadingly tagged rare. [Current usage](https://hongmen.com.vn/tin-tuc/tin-tuc-khac/con-luon-tren-duong-la-gi-dai-phan-cach-hongmen.html)",
+   "fix": "Remove rare; retain colloquial."
+  }
+ ]
+}

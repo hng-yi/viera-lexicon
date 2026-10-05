@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bóng loáng",
+  "sởn",
+  "nhợt nhạt",
+  "Âu",
+  "âu",
+  "rượu bia",
+  "súng cối",
+  "cứng cáp",
+  "bớ",
+  "quái thai",
+  "mùa vụ",
+  "thực lực",
+  "đường biên",
+  "vầng",
+  "lẫy",
+  "kế tục",
+  "chóp",
+  "chức danh",
+  "lập pháp",
+  "ma nữ",
+  "tiếng vọng",
+  "ngấu nghiến",
+  "công sở",
+  "đau nhức",
+  "mỏm",
+  "lưu huỳnh",
+  "mẫu thân",
+  "cá mòi",
+  "vẻ vang",
+  "thai nhi",
+  "lên men",
+  "xắc",
+  "hé lộ",
+  "quá đỗi",
+  "cưỡng ép",
+  "lỗi lạc",
+  "láng",
+  "nghênh",
+  "khêu",
+  "hoan hỉ"
+ ],
+ "flags": [
+  {
+   "headword": "âu",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The bowl sense is more useful in everyday Vietnamese than the archaic verb meaning 'to worry'.",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "quái thai",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the insulting sense referring to a bizarre or objectionable person or thing, recorded in [Wiktionary](https://vi.wiktionary.org/wiki/qu%C3%A1i_thai).",
+   "fix": "Add noun [derogatory]: freak; monstrosity (a person or thing)."
+  },
+  {
+   "headword": "lẫy",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense describes a tooth growing out of alignment, not general misalignment of objects such as doors, as recorded in [this dictionary](https://loigiaihay.com/tu-dien-tv/lay-eEfSUZ51KjbWd.html).",
+   "fix": "adj [rare] | growing out of alignment (of a tooth); example: Cậu bé có cái răng cửa hơi lẫy. = The boy has a slightly misaligned front tooth."
+  },
+  {
+   "headword": "kế tục",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Kế tục is a formal verb, as described in [this dictionary](https://loigiaihay.com/tu-dien-tv/ke-tuc-edAjiXl8iyXUA.html), and needs a register warning.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "quá đỗi",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The positional restriction is false because quá đỗi also precedes adjectives, as in quá đỗi quen thuộc in [this usage](https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-tuc-ngu-nao-an-sau-rung-tre-xanh-nay-5051395.html).",
+   "fix": "extremely; exceedingly (before or after an adjective)"
+  }
+ ]
+}

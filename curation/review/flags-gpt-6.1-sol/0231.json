@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "đi đôi",
+  "khinh suất",
+  "thán phục",
+  "tự quyết",
+  "xót",
+  "ù",
+  "lay động",
+  "gở",
+  "bán đảo",
+  "thuyên giảm",
+  "vật tư",
+  "cấp dưỡng",
+  "bát đĩa",
+  "giả danh",
+  "thể tích",
+  "tùng",
+  "đò",
+  "trả góp",
+  "ân tình",
+  "âm tiết",
+  "đính ước",
+  "jun",
+  "coi sóc",
+  "mỏi",
+  "hỗn mang",
+  "phát tác",
+  "phích",
+  "liệm",
+  "nham thạch",
+  "thượng cổ",
+  "méc",
+  "riêng lẻ",
+  "rành rành",
+  "sử thi",
+  "hiếu động",
+  "ngập ngừng",
+  "bồng bột",
+  "báo ứng",
+  "lữ hành",
+  "bào ngư"
+ ],
+ "flags": [
+  {
+   "headword": "xót",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Xót commonly expresses distress over losing or wasting something valuable, especially money.",
+   "fix": "to feel pained at losing or wasting something; example: Tôi xót tiền quá. = It pains me to waste that money."
+  },
+  {
+   "headword": "gở",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gở means ominous or inauspicious, not a demon or monster ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-g%E1%BB%9F)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "vật tư",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Vật tư refers to materials and supplies for work or production, not personal belongings.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "cấp dưỡng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cấp dưỡng means providing someone's livelihood, not nourishing the body through food ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BA%A5p%20d%C6%B0%E1%BB%A1ng)).",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "phích",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The standalone word phích is most commonly encountered meaning a thermos flask, while the electrical sense usually appears as phích điện or phích cắm.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "riêng lẻ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Riêng lẻ means separate or individual, not private in the sense of personal or confidential.",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

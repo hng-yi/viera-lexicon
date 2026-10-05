@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "bo mạch",
+  "diễu binh",
+  "đếm xỉa",
+  "mùa xuân",
+  "ác thú",
+  "tuồng",
+  "hoạn",
+  "thớ",
+  "truyền miệng",
+  "tinh tướng",
+  "đầu đảng",
+  "mịt mù",
+  "thủy lợi",
+  "thời báo",
+  "rây",
+  "bộc bạch",
+  "nhàn",
+  "nơm nớp",
+  "độc đắc",
+  "hào kiệt",
+  "hậu hĩ",
+  "hợp âm",
+  "lính mới",
+  "ngoại trú",
+  "tác gia",
+  "đích đáng",
+  "cổ quái",
+  "rạo rực",
+  "hun",
+  "chuyển mạch",
+  "tưởng thưởng",
+  "nhẹm",
+  "muộn màng",
+  "công đức",
+  "khảm",
+  "thợ ảnh",
+  "sạp",
+  "phản biện",
+  "tất thắng",
+  "cơm bữa"
+ ],
+ "flags": [
+  {
+   "headword": "tuồng",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Nhìn tuồng mặt nó” is unnatural for this sense, which occurs in constructions such as “xem tuồng” ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-tu%E1%BB%93ng)).",
+   "fix": "Xem tuồng mọi việc đã ổn. = It looks as though everything has been settled."
+  },
+  {
+   "headword": "hun",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning “to kiss” ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-hun)).",
+   "fix": "Add first: verb [colloquial, Central, Southern] | to kiss; ex: Bé hun má mẹ. = The child kisses Mum's cheek."
+  },
+  {
+   "headword": "chuyển mạch",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Chuyển mạch” means switching generally, including packet switching, whereas circuit switching is “chuyển mạch kênh” ([university teaching material](https://kcntt.duytan.edu.vn/bai-viet-suu-tam/mang-may-tinh-va-mang-internet)).",
+   "fix": "switching (in telephone and data networks)"
+  },
+  {
+   "headword": "chuyển mạch",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Chuyển mạch” does not itself specify circuit switching rather than another form of switching ([university teaching material](https://kcntt.duytan.edu.vn/bai-viet-suu-tam/mang-may-tinh-va-mang-internet)).",
+   "fix": "switched; relating to switching"
+  },
+  {
+   "headword": "chuyển mạch",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Chuyển mạch” has no meaning “transitional” or “temporary,” so the example teaches a nonexistent usage.",
+   "fix": "Delete this sense and its example."
+  },
+  {
+   "headword": "công đức",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common use referring to donations to temples and other religious sites ([source](https://thuvienphapluat.vn/hoi-dap-phap-luat/tien-cong-duc-la-gi-tien-cong-duc-duoc-quan-ly-nhu-the-nao-138016745.html)).",
+   "fix": "Add: verb | to donate to a temple or other religious site; ex: Bà công đức một triệu đồng cho chùa. = She donated one million dong to the pagoda."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bánh su kem",
+  "bánh sừng bò",
+  "bánh sừng trâu",
+  "bánh tiêu",
+  "bánh tráng nướng",
+  "bánh tây",
+  "bánh tét",
+  "bánh tẻ",
+  "bánh vẽ",
+  "bánh xếp",
+  "bánh đa",
+  "bánh đa cua",
+  "bánh đa nướng",
+  "bánh đa đỏ",
+  "bánh đúc",
+  "bánh đậu xanh",
+  "bánh ướt",
+  "báo bờm",
+  "báo công",
+  "báo ghê-pa",
+  "báo hoa mai",
+  "báo lá cải",
+  "báo săn",
+  "báo sư tử",
+  "báo tin",
+  "báo tường",
+  "báo ân",
+  "báo đáp",
+  "báo động giả",
+  "bát chính đạo",
+  "bát cực quyền",
+  "bát giác",
+  "bát hương",
+  "bát niết bàn",
+  "bát âm",
+  "bát ô tô",
+  "bát độ",
+  "bát-nhã",
+  "bát-nhã-ba-la-mật-đa",
+  "bâng khuâng"
+ ],
+ "flags": [
+  {
+   "headword": "bánh đa",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The example refers to a mixed rice-noodle dish, so it does not establish a separate meaning ‘dish made from rice crackers’ ([source](https://vov.gov.vn/hoc-cach-lam-mon-banh-da-tron-sieu-ngon-la-mieng-ngay-tai-nha-dtnew-208856)).",
+   "fix": "Remove sense 3 and move its example to sense 1."
+  },
+  {
+   "headword": "bánh đa",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "‘Bánh đa trộn’ here means mixed rice noodles, rather than a mixed rice-cracker dish ([source](https://vov.gov.vn/hoc-cach-lam-mon-banh-da-tron-sieu-ngon-la-mieng-ngay-tai-nha-dtnew-208856)).",
+   "fix": "This shop sells mixed rice noodles and is always crowded."
+  },
+  {
+   "headword": "bát âm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "‘Bát âm’ denotes a traditional instrumental ensemble or its music, rather than any musical octet ([source](https://bktt.vn/B%C3%A1t_%C3%A2m)).",
+   "fix": "traditional Vietnamese instrumental ensemble used for ceremonial music; the music played by such an ensemble"
+  }
+ ]
+}

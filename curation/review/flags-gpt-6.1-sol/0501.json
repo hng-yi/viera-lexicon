@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "lú lẫn",
+  "lúa Chiêm",
+  "lúa miến",
+  "lúa nước",
+  "lúc la lúc lắc",
+  "lúc lắc",
+  "lúc lỉu",
+  "lúc đó",
+  "lúc ấy",
+  "lúi húi",
+  "lúm khúm",
+  "lúm đồng tiền",
+  "lún phún",
+  "lúng búng",
+  "lúp xúp",
+  "lăm le",
+  "lăng trụ đứng",
+  "lĩnh thổ",
+  "lũ ống",
+  "lơ láo",
+  "lơ thơ",
+  "lơ tơ mơ",
+  "lơ vơ",
+  "lơ xe",
+  "lơ xê mi",
+  "lưu chiếu",
+  "lưu cầu",
+  "lưu cữu",
+  "lưu lượng kế",
+  "lưu tệ",
+  "lương khô",
+  "lương y",
+  "lương y như từ mẫu",
+  "lưới lửa",
+  "lưới trời",
+  "lướt mướt",
+  "lười chảy thây",
+  "lường trước",
+  "lưỡi câu",
+  "lưỡi gà"
+ ],
+ "flags": [
+  {
+   "headword": "lăng trụ đứng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the defining property of a right prism instead of using the word in context.",
+   "fix": "Em hãy tính thể tích của hình lăng trụ đứng này. = Calculate the volume of this right prism."
+  },
+  {
+   "headword": "lơ xe",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for a bus conductor is mainly Southern Vietnamese and needs a regional label ([source](https://baomai.blogspot.com/2025/01/vi-sao-nguoi-mien-nam-goi-la-xe-o-lo-xe.html)).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "lơ xê mi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines leukaemia instead of showing the word used in context.",
+   "fix": "Anh ấy đang điều trị bệnh lơ xê mi. = He is being treated for leukaemia."
+  },
+  {
+   "headword": "lưu cầu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The historical sword sense refers to a sharp sword associated with the Ryukyu Islands, not a jade-inlaid sword ([dictionary](https://hanzi.live/hanvi/l%C6%B0u%20c%E1%BA%A7u)).",
+   "fix": "a sharp sword associated with the Ryukyu Islands"
+  },
+  {
+   "headword": "lưu lượng kế",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a flowmeter does instead of using the word in context.",
+   "fix": "Kỹ thuật viên đã lắp lưu lượng kế vào đường ống. = The technician installed a flowmeter in the pipe."
+  },
+  {
+   "headword": "lương khô",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss incorrectly includes any packaged dry food, whereas the word denotes prepared dry provisions stored for later consumption ([dictionary](https://tudientv.com/?t=l%C6%B0%C6%A1ng+kh%C3%B4)).",
+   "fix": "prepared dry provisions that can be stored for later consumption"
+  },
+  {
+   "headword": "lương y như từ mẫu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example quotes and explains the proverb instead of applying it to a situation.",
+   "fix": "Bác sĩ chăm sóc mẹ tôi tận tình, đúng là lương y như từ mẫu. = The doctor cared for my mother devotedly, truly like a loving mother."
+  }
+ ]
+}

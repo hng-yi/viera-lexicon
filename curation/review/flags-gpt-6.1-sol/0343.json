@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bội ước",
+  "dưa lê",
+  "ruộng đất",
+  "bi bô",
+  "chuột túi",
+  "bảng mã",
+  "e hèm",
+  "tiến thủ",
+  "thông tín viên",
+  "tất niên",
+  "vị hôn phu",
+  "ngàn xưa",
+  "tuần tự",
+  "nhốn nháo",
+  "đằm",
+  "lạc đường",
+  "nhíu",
+  "khó xử",
+  "sắm vai",
+  "im ỉm",
+  "thiên cơ",
+  "tham tàn",
+  "thạch sùng",
+  "tia tử ngoại",
+  "rao giảng",
+  "sĩ diện",
+  "to tác",
+  "flex",
+  "lò đúc",
+  "thiền sư",
+  "cậu bé",
+  "ổ điện",
+  "rành rẽ",
+  "đứng tuổi",
+  "ịn",
+  "vị chi",
+  "riêng rẽ",
+  "hình thoi",
+  "đuôi sam",
+  "nem"
+ ],
+ "flags": [
+  {
+   "headword": "bội ước",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Bội ước is formal language, so leaving it untagged presents it as an ordinary casual expression.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "đằm",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Suốt buổi trưa means throughout the midday period, not all afternoon.",
+   "fix": "The buffalo wallowed in the pond throughout the midday period."
+  },
+  {
+   "headword": "tham tàn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tham tàn is literary language, so leaving it untagged misleadingly suggests ordinary conversational use.",
+   "fix": "Add the tag literary."
+  }
+ ]
+}

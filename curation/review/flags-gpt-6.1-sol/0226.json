@@ -1,0 +1,74 @@
+{
+ "headwords": [
+  "ngải",
+  "luận",
+  "múi",
+  "kỉ",
+  "chữ nổi",
+  "đối nghịch",
+  "kiểu dáng",
+  "tột độ",
+  "sát trùng",
+  "phô diễn",
+  "kiểm nghiệm",
+  "lễ nghi",
+  "nô",
+  "sắc tộc",
+  "dí dỏm",
+  "sậy",
+  "hồng ngọc",
+  "natri",
+  "phù phiếm",
+  "công văn",
+  "thành niên",
+  "ngư phủ",
+  "tiến thân",
+  "ma cà rồng",
+  "úa",
+  "lí lẽ",
+  "động trời",
+  "nhiệt liệt",
+  "áy náy",
+  "trường phái",
+  "bỡn",
+  "mẫu mực",
+  "lĩnh hội",
+  "sách lược",
+  "thui",
+  "lập nghiệp",
+  "hải phận",
+  "bàng quang",
+  "luyến ái",
+  "quang học"
+ ],
+ "flags": [
+  {
+   "headword": "múi",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this sense, múi refers to an individual defined abdominal muscle, not an entire pack of muscles.",
+   "fix": "a defined abdominal muscle (one of the muscles in a six-pack)"
+  },
+  {
+   "headword": "lĩnh hội",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Lĩnh hội is a formal word for comprehending knowledge or ideas, so the missing tag could encourage inappropriate casual use.",
+   "fix": [
+    "formal"
+   ]
+  },
+  {
+   "headword": "sách lược",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Sách lược belongs to formal discussion of tactics or policy rather than ordinary casual talk about plans.",
+   "fix": [
+    "formal"
+   ]
+  }
+ ]
+}

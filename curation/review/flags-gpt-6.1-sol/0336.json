@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "ngứa mắt",
+  "bút lông",
+  "phế phẩm",
+  "chuột nhảy",
+  "anh kiệt",
+  "ghẽ",
+  "hình cầu",
+  "hàng quán",
+  "bắt tai",
+  "danh gia",
+  "da liễu",
+  "ăn lót dạ",
+  "ngoại khoa",
+  "tai nghe",
+  "lênh láng",
+  "hối đoái",
+  "uất hận",
+  "nhân tế bào",
+  "lông tơ",
+  "móng tay",
+  "ưu tư",
+  "bọ gậy",
+  "xế hộp",
+  "thủy tức",
+  "phụ tử",
+  "cách ngôn",
+  "mưa phùn",
+  "dìu dắt",
+  "rền",
+  "bệnh lí",
+  "tóp",
+  "tõm",
+  "chói lóa",
+  "dầu lửa",
+  "sạt",
+  "giáng thế",
+  "cọc cạch",
+  "xanh lam",
+  "mong ngóng",
+  "âu phục"
+ ],
+ "flags": [
+  {
+   "headword": "ưu tư",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The adjective has a literary or formal register that the untagged gloss hides ([reference](https://tudientiengviet.org/uu-tu/)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "phụ tử",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Using phụ tử for a father and son is literary rather than ordinary conversational Vietnamese ([dictionary](https://vdict.com/ph%E1%BB%A5%20t%E1%BB%AD%2C3%2C0%2C0.html)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "cách ngôn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cách ngôn belongs mainly to formal writing and speech, which the entry leaves unmarked ([dictionary](https://loigiaihay.com/tu-dien-tv/cach-ngon-eh6ZeYNsOhdoZ.html)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "bệnh lí",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning 'disease; medical condition', encountered in expressions such as bệnh lý nền ([usage](https://www.vinmec.com/vie/bai-viet/nhung-benh-nao-goi-la-benh-nen-vi)).",
+   "fix": "Add a noun sense: disease; medical condition."
+  },
+  {
+   "headword": "tóp",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The noun means the bits left after rendering fat, not any shrivelled chunk ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%C3%B3p)).",
+   "fix": "crackling; crispy bits left after rendering fat"
+  },
+  {
+   "headword": "tóp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning 'to shrivel or become shrunken', as in gầy tóp or tóp lại ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%C3%B3p)).",
+   "fix": "Add a sense: to shrivel; to become shrunken from drying out or losing weight."
+  }
+ ]
+}

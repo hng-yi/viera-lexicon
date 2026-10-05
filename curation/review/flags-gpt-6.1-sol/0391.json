@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "cải xoong",
+  "bao cao su",
+  "pít tông",
+  "lũ quét",
+  "hải quỳ",
+  "rừng mưa",
+  "chính đại",
+  "tủ kính",
+  "vỡ lẽ",
+  "bóng đái",
+  "bất tất",
+  "nón bảo hiểm",
+  "tập san",
+  "thợ nề",
+  "sai biệt",
+  "xếp bằng",
+  "phiếm định",
+  "muỗm",
+  "cấp phát",
+  "tái sản xuất",
+  "lửng lơ",
+  "soạn giả",
+  "san sát",
+  "lim dim",
+  "nên chăng",
+  "ngón út",
+  "khăng khít",
+  "sáng ngời",
+  "điều hợp",
+  "bang bang",
+  "nhễ nhại",
+  "binh nhất",
+  "đốn mạt",
+  "đỏ gay",
+  "xí muội",
+  "cổ tử cung",
+  "nhiệm kì",
+  "trân quý",
+  "lững lờ",
+  "cho thuê"
+ ],
+ "flags": [
+  {
+   "headword": "bất tất",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The meaning learners are more likely to encounter today is 'need not; have no need to', as reflected in this [dictionary entry](https://loigiaihay.com/tu-dien-tv/bat-tat-eOtXHCLfSH1RC.html).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "muỗm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The fruit name is mainly Northern, as explained by a textbook author in [this interview](https://vnexpress.net/khong-nen-dung-ky-nang-hoc-van-ngay-xua-de-day-tre-4179905.html).",
+   "fix": "Add the Northern tag."
+  },
+  {
+   "headword": "lửng lơ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common physical meaning 'hanging or floating in midair', illustrated by 'lửng lơ treo trước nhà' in [this teaching material](https://m.hoc247.net/tulieu/2022/20221024/157330294230_20221024_100946.pdf?r=4446).",
+   "fix": "Add: adj | hanging or floating in midair; suspended. Example: Những đám mây lửng lơ trên đỉnh núi. = Clouds float above the mountain peak."
+  },
+  {
+   "headword": "đốn mạt",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Đốn mạt is a strongly derogatory condemnation that can insult someone, as described in this [dictionary entry](https://loigiaihay.com/tu-dien-tv/don-mat-e9zcvceEgMnzU.html).",
+   "fix": "Add the derogatory tag."
+  }
+ ]
+}

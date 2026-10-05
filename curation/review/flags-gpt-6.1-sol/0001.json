@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "tôi",
+  "không",
+  "là",
+  "Anh",
+  "anh",
+  "có",
+  "của",
+  "đã",
+  "đi",
+  "sẽ",
+  "đó",
+  "được",
+  "gì",
+  "và",
+  "ta",
+  "một",
+  "phải",
+  "cô",
+  "rồi",
+  "này",
+  "Người",
+  "người",
+  "cho",
+  "đây",
+  "làm",
+  "ở",
+  "nó",
+  "em",
+  "biết",
+  "ông",
+  "con",
+  "cậu",
+  "với",
+  "nói",
+  "chúng ta",
+  "lại",
+  "để",
+  "ấy",
+  "ra",
+  "cái"
+ ],
+ "flags": [
+  {
+   "headword": "có",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In có thật không?, thật means 'really' or 'true', while có helps form the yes-no question.",
+   "fix": "Remove this sense; the example belongs under sense 3."
+  },
+  {
+   "headword": "người",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Người meaning 'others' is also used in ordinary everyday speech, so the literary tag is misleading.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "nó",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Using nó for an animal or a young person is ordinary usage and does not become literary when it occurs in a story.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "em",
+   "sense": 5,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Adults commonly refer to children and pupils as em in everyday speech, so this meaning is not restricted to formal usage.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "con",
+   "sense": 7,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Using con for an adult woman can be derogatory, and the informal tag alone does not warn the learner of that risk.",
+   "fix": "Add the derogatory tag."
+  },
+  {
+   "headword": "cái",
+   "sense": 12,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the use of cái rather than using it to refer to a girl or woman.",
+   "fix": "Replace the example with: Nhà ấy sinh được hai trai, một cái. = That family had two boys and one girl."
+  }
+ ]
+}

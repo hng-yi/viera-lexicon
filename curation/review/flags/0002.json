@@ -1,0 +1,85 @@
+{
+ "headwords": [
+  "đang",
+  "sao",
+  "muốn",
+  "trong",
+  "vậy",
+  "mà",
+  "nhưng",
+  "có thể",
+  "những",
+  "đến",
+  "nào",
+  "đâu",
+  "khi",
+  "về",
+  "họ",
+  "còn",
+  "thôi",
+  "cũng",
+  "chỉ",
+  "các",
+  "thì",
+  "vào",
+  "đấy",
+  "thấy",
+  "hắn",
+  "thế",
+  "AI",
+  "ai",
+  "chuyện",
+  "nếu",
+  "nghĩ",
+  "rất",
+  "mình",
+  "như",
+  "cần",
+  "hay",
+  "ngũ tạng",
+  "hiệu nghiệm",
+  "cánh",
+  "lán"
+ ],
+ "flags": [
+  {
+   "headword": "các",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss and example describe the word \"cạc\" (card), not \"các\".",
+   "fix": "Remove this sense or change the headword to \"cạc\"."
+  },
+  {
+   "headword": "mình",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "\"Mình\" is not used as a polite pronoun for shop staff to address customers; it is used for intimates or spouses.",
+   "fix": "Remove this sense or change the gloss to \"you (intimate, to a spouse or close friend)\"."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 8437,
+  "completion_tokens": 6421,
+  "total_tokens": 14858,
+  "cost": 0.01091872,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.01091872,
+   "upstream_inference_prompt_cost": 0.00269984,
+   "upstream_inference_completions_cost": 0.00821888
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 6258,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ }
+}

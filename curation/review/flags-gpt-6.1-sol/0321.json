@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "chán đời",
+  "lừng",
+  "khí tài",
+  "sặc sụa",
+  "ngói",
+  "rỗ",
+  "li kì",
+  "nòng cốt",
+  "lò nung",
+  "bất cập",
+  "cảnh sắc",
+  "mưu sinh",
+  "phân số",
+  "huống hồ",
+  "máy rung",
+  "nhà cầu",
+  "phòng tránh",
+  "ngắm nghía",
+  "muôn tâu",
+  "nội thương",
+  "khóc thét",
+  "trố",
+  "cao kiến",
+  "cưỡng đoạt",
+  "meo",
+  "hoán cải",
+  "sứ thần",
+  "sàm sỡ",
+  "âm ti",
+  "nhã ý",
+  "nhí nhảnh",
+  "phóng uế",
+  "kèn túi",
+  "dồ",
+  "hương liệu",
+  "chào mời",
+  "nhi khoa",
+  "luận cứ",
+  "bụ bẫm",
+  "hò hẹn"
+ ],
+ "flags": [
+  {
+   "headword": "lừng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The meaning 'great; big' applies specifically to waves, not to size or greatness generally ([Wiktionary](https://en.wiktionary.org/wiki/l%E1%BB%ABng)).",
+   "fix": "great; big (of waves)"
+  },
+  {
+   "headword": "lừng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Lừng lẫy in this example means glorious or resounding and illustrates sense 1 rather than the wave-related sense ([Wiktionary](https://en.wiktionary.org/wiki/l%E1%BB%ABng)).",
+   "fix": "Move this example to sense 1."
+  },
+  {
+   "headword": "nội thương",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner is more likely to encounter the internal-injury meaning than the specialist domestic-trade meaning.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "phóng uế",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phóng uế includes both urinating and defecating in an inappropriate place, including indoors ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/ph%C3%B3ng_u%E1%BA%BF)).",
+   "fix": "to urinate or defecate in an inappropriate place"
+  },
+  {
+   "headword": "phóng uế",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The prohibition covers urination as well as defecation, whereas the English translation mentions only defecation ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/ph%C3%B3ng_u%E1%BA%BF)).",
+   "fix": "Urinating or defecating indiscriminately in public places is forbidden."
+  }
+ ]
+}

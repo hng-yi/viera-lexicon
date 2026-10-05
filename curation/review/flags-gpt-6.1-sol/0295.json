@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "nghệ danh",
+  "độc chiếm",
+  "chuộng",
+  "ụ",
+  "đưa tình",
+  "áo ấm",
+  "ỷ lại",
+  "nhỏ nhẹ",
+  "tức tốc",
+  "lâng lâng",
+  "rúm",
+  "thiển ý",
+  "oai nghiêm",
+  "mạch nha",
+  "lợn lòi",
+  "lẻo",
+  "nghĩa vụ quân sự",
+  "tiềm lực",
+  "cứu nạn",
+  "xấc xược",
+  "chiêu bài",
+  "xông xáo",
+  "châu lục",
+  "vũ đài",
+  "xộc",
+  "hồ điệp",
+  "chan hòa",
+  "lội bộ",
+  "dầu mỡ",
+  "nguyên cáo",
+  "tổng động viên",
+  "lìa đời",
+  "ám khí",
+  "minh triết",
+  "vữa",
+  "bấu",
+  "vô giác",
+  "trữ tình",
+  "mưa gió",
+  "bới móc"
+ ],
+ "flags": [
+  {
+   "headword": "áo ấm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Áo ấm means a warm upper-body garment, not winter clothing generally.",
+   "fix": "warm coat, jacket or sweater"
+  },
+  {
+   "headword": "lâng lâng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lâng lâng describes a light, pleasantly buoyant feeling, not light spreading over an area ([dictionary](https://vi.wiktionary.org/wiki/l%C3%A2ng_l%C3%A2ng)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "lâng lâng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lâng lâng does not mean clean, smooth or limpid ([dictionary](https://vi.wiktionary.org/wiki/l%C3%A2ng_l%C3%A2ng)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "mạch nha",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar cooking ingredient, a thick sweet syrup containing maltose ([manufacturer](https://vedan.com.vn/wp-content/uploads/2026/03/0104.26.CV-VDN-Sua-nhan-maltose.pdf)).",
+   "fix": "Add: malt syrup; maltose syrup, used in sweets and cooking."
+  },
+  {
+   "headword": "mạch nha",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the headword instead of showing it in use.",
+   "fix": "Loại đường này chứa nhiều maltose, còn gọi là đường mạch nha. = This sugar contains a lot of maltose, also called malt sugar."
+  },
+  {
+   "headword": "chan hòa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common interpersonal meaning found in sống chan hòa với mọi người ([dictionary](https://vi.wiktionary.org/wiki/chan_h%C3%B2a)).",
+   "fix": "Add: friendly and harmonious in one's relations with others."
+  },
+  {
+   "headword": "lội bộ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Lội bộ meaning walking on land is mainly Southern usage ([Báo Cần Thơ](https://baocantho.com.vn/net-dac-trung-cua-nam-bo-qua-ngon-tu--a108699.html)).",
+   "fix": "Tags: colloquial, Southern."
+  },
+  {
+   "headword": "dầu mỡ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits cooking oils and fats, a common meaning in discussions of food ([usage example](https://vnexpress.net/doi-song-cooking-meo-chien-ran-khong-bi-sat-chao-4892855.html)).",
+   "fix": "Add: cooking oils and fats; grease in food."
+  }
+ ]
+}

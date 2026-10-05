@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "giảm sút",
+  "đúp",
+  "nói thầm",
+  "chuột đồng",
+  "cấy ghép",
+  "vô giá trị",
+  "nhát gan",
+  "tạp dề",
+  "lệ phí",
+  "sân cỏ",
+  "ân sủng",
+  "ươi",
+  "ưỡn",
+  "thành tâm",
+  "vả",
+  "vô trùng",
+  "máy quay",
+  "quắc",
+  "thư thái",
+  "tuyệt thực",
+  "qua loa",
+  "bìu",
+  "giản đơn",
+  "phỉnh",
+  "xưng hô",
+  "kháng cáo",
+  "ngộp",
+  "ăn hàng",
+  "đốt phá",
+  "mê đắm",
+  "khoát",
+  "đơn lẻ",
+  "vọc",
+  "thịnh soạn",
+  "mệt nhọc",
+  "biến số",
+  "xén",
+  "cầu cơ",
+  "độ lượng",
+  "vỉ"
+ ],
+ "flags": [
+  {
+   "headword": "vả",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The pronoun refers to a man, rather than a woman or any distant person, as recorded in the [dictionary](https://tudientv.com/?t=v%E1%BA%A3).",
+   "fix": "he; that man (a man of similar age or slightly older than the speaker)"
+  },
+  {
+   "headword": "ngộp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is mainly Southern usage and needs a regional label ([source](https://www.vjol.info/ngop-la-gi)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "ăn hàng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The eating sense is also used in Northern Vietnamese, so the Central and Southern restriction is misleading ([dictionary](https://loigiaihay.com/tu-dien-tv/an-hang-eWtW3fDV7O9QM.html)).",
+   "fix": "Remove Central and Southern."
+  },
+  {
+   "headword": "vọc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Giờ làm cảm” is not natural Vietnamese for saying that someone has caught a cold.",
+   "fix": "Nó ngồi vọc nước cả buổi, giờ bị cảm."
+  }
+ ]
+}

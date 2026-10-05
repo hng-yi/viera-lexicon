@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "hành động",
+  "dài",
+  "nghỉ",
+  "hệ thống",
+  "Áo",
+  "áo",
+  "tiệc",
+  "đuổi",
+  "bao lâu",
+  "thịt",
+  "cướp",
+  "hay là",
+  "già",
+  "lửa",
+  "sức mạnh",
+  "trò",
+  "trừ",
+  "lão",
+  "lo lắng",
+  "giải quyết",
+  "cuộc đời",
+  "dây",
+  "thề",
+  "một cách",
+  "thực hiện",
+  "tóc",
+  "tấm",
+  "theo dõi",
+  "khỉ",
+  "đen",
+  "đối với",
+  "thuyền",
+  "điện",
+  "cuốn",
+  "vui vẻ",
+  "tương lai",
+  "xác",
+  "chung",
+  "bóng",
+  "thở"
+ ],
+ "flags": [
+  {
+   "headword": "nghỉ",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nghỉ is the archaic third-person pronoun in this example; làm lấy expresses doing something oneself.",
+   "fix": "Remove sense 5."
+  },
+  {
+   "headword": "trò",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common noun meaning pupil or student is missing, although it occurs in everyday expressions about teachers and students.",
+   "fix": "Add noun sense: pupil; student. Example: Thầy có nhiều trò giỏi. = The teacher has many good students."
+  },
+  {
+   "headword": "thề",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thề does not mean swear words or profanity as a noun; chửi thề is the expression meaning to swear or use profanity.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "tấm",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tấm in expressions such as tấm lòng is ordinary contemporary usage, so the literary tag mislabels the example.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "bóng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Bóng commonly means a light bulb, an everyday sense missing from the entry.",
+   "fix": "Add noun sense: light bulb. Example: Tôi cần thay bóng đèn này. = I need to replace this light bulb."
+  },
+  {
+   "headword": "lão",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The disparaging use illustrated by lão ta needs a derogatory warning rather than only an informal tag.",
+   "fix": "Use tags: informal, derogatory."
+  }
+ ]
+}

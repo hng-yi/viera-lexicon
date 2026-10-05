@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "họ hàng",
+  "tất",
+  "thống nhất",
+  "cấu trúc",
+  "đích thân",
+  "bắt gặp",
+  "cảnh cáo",
+  "tuyển",
+  "hạn",
+  "hiệu trưởng",
+  "ngoại tình",
+  "đoàn kết",
+  "hòng",
+  "hài",
+  "cập nhật",
+  "ý chí",
+  "khu phố",
+  "vô danh",
+  "khổ",
+  "sáo",
+  "nấp",
+  "khủng hoảng",
+  "trốn tránh",
+  "tiểu thuyết",
+  "điện tử",
+  "tối cao",
+  "tiềm năng",
+  "thì thầm",
+  "sâu sắc",
+  "chết chóc",
+  "bịa",
+  "tham quan",
+  "rót",
+  "lẹ",
+  "bầm",
+  "lao động",
+  "nguy cơ",
+  "trăng",
+  "mơ ước",
+  "châm"
+ ],
+ "flags": [
+  {
+   "headword": "cập nhật",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cập nhật does not mean submitting something on time or by its deadline.",
+   "fix": "Remove sense 4."
+  },
+  {
+   "headword": "điện tử",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common everyday use in chơi điện tử means playing video games, as in this [usage example](https://vnexpress.net/lam-gi-khi-tre-gu-lung-do-ngoi-choi-dien-tu-nhieu-4638318.html).",
+   "fix": "noun [colloquial] | video games; ex: Em trai tôi thích chơi điện tử. = My younger brother likes playing video games."
+  },
+  {
+   "headword": "điện tử",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an electron instead of showing the word in use.",
+   "fix": "Các điện tử chuyển động qua dây dẫn. = Electrons move through the conductor."
+  },
+  {
+   "headword": "chết chóc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Căn phòng im lặng đến chết chóc is not a natural Vietnamese way to describe deathly silence.",
+   "fix": "Đó là một loại vũ khí chết chóc. = That is a deadly weapon."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tì vị",
+  "tìm thấy",
+  "tình chung",
+  "tình mẫu tử",
+  "tình một đêm",
+  "tình ngay lí gian",
+  "tình nương",
+  "tình phụ tử",
+  "tí ta tí tởn",
+  "tí tách",
+  "tí tị",
+  "tía má ơi",
+  "tích chập",
+  "tích có hướng",
+  "tích luỹ",
+  "tích lượng",
+  "tích phân",
+  "tích trượng",
+  "tích vô hướng",
+  "tím biếc",
+  "tín chấp",
+  "tín chỉ",
+  "tính lậm",
+  "tính nhẩm",
+  "tính rợ",
+  "tính tiền",
+  "tính ý",
+  "tíu tít",
+  "tò he",
+  "tòa sen",
+  "tòa án nhân dân",
+  "tòa đại sứ",
+  "tòm tem",
+  "tòng chinh",
+  "tóc sâu",
+  "tóc tiên",
+  "tóc xanh",
+  "tóc đuôi gà",
+  "tóc đuôi ngựa",
+  "tóp tép"
+ ],
+ "flags": [
+  {
+   "headword": "tính lậm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression for miscalculating is regional to Nghệ An–Hà Tĩnh and needs a Central tag ([Nghệ ngữ](https://nghengu.vn/tieng-nghe-cua-toi/lam-la-gi-1255.html)).",
+   "fix": "Add Central to the tags."
+  },
+  {
+   "headword": "tính ý",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The adjective meaning 'perceptive' belongs to tinh ý, not tính ý ([dictionary](https://vi.wiktionary.org/wiki/tinh_%C3%BD)).",
+   "fix": "Remove this sense from tính ý and place it under tinh ý, with the example: Chị ấy rất tinh ý nên luôn biết mọi người cần gì."
+  },
+  {
+   "headword": "tòm tem",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tòm tem refers to making sexual advances, so the gloss 'to flirt' misleadingly suggests ordinary romantic attention ([dictionary](https://vi.wiktionary.org/wiki/t%C3%B2m_tem)).",
+   "fix": "to make sexual advances"
+  },
+  {
+   "headword": "tóc sâu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tóc sâu denotes abnormal hairs associated with itching, rather than grey or white hair generally ([Tuổi Trẻ](https://tuoitre.vn/go-o-cua-cai-ve-ve-20180115182528237.htm)).",
+   "fix": "coarse, unusually curly hairs associated with scalp itching"
+  }
+ ]
+}

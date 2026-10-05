@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "sứt môi",
+  "sử kí",
+  "sử liệu",
+  "sử thần",
+  "sử xanh",
+  "sửu nhi",
+  "sữa bột",
+  "sự biến",
+  "ta luy",
+  "ta thán",
+  "ta đây",
+  "tai - mũi - họng",
+  "tai chua",
+  "tai hoạ",
+  "tai qua nạn khỏi",
+  "tai quái",
+  "tai to mặt lớn",
+  "tai vách mạch dừng",
+  "tai ách",
+  "tam bảo",
+  "tam cúc",
+  "tam cương",
+  "tam cương ngũ thường",
+  "tam giác cân",
+  "tam giác long",
+  "tam giác nhọn",
+  "tam giác tù",
+  "tam giác đều",
+  "tam giáo",
+  "tam khôi",
+  "tam nhật",
+  "tam quan",
+  "tam sao thất bản",
+  "tam tai",
+  "tam thập lục",
+  "tam thức",
+  "tam tiêu",
+  "tam tòng",
+  "tam âm la",
+  "tam đoạn luận"
+ ],
+ "flags": [
+  {
+   "headword": "tam cương",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines tam cương instead of showing it in use.",
+   "fix": "Quan niệm tam cương từng chi phối đời sống gia đình. = The concept of the three Confucian bonds once governed family life."
+  },
+  {
+   "headword": "tam giác cân",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an isosceles triangle instead of showing the term in use.",
+   "fix": "Em hãy vẽ một tam giác cân. = Draw an isosceles triangle."
+  },
+  {
+   "headword": "tam giác nhọn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an acute triangle instead of showing the term in use.",
+   "fix": "Trong hình này có bao nhiêu tam giác nhọn? = How many acute triangles are there in this diagram?"
+  },
+  {
+   "headword": "tam giác tù",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an obtuse triangle instead of showing the term in use.",
+   "fix": "Em hãy tìm tam giác tù trong hình này. = Find the obtuse triangle in this diagram."
+  },
+  {
+   "headword": "tam giác đều",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an equilateral triangle instead of showing the term in use.",
+   "fix": "Cô giáo yêu cầu chúng tôi vẽ một tam giác đều. = The teacher asked us to draw an equilateral triangle."
+  },
+  {
+   "headword": "tam giáo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example lists the three teachings to explain the term instead of showing it in use.",
+   "fix": "Ông nghiên cứu ảnh hưởng của tam giáo đối với văn hóa Việt Nam. = He studies the influence of the three teachings on Vietnamese culture."
+  },
+  {
+   "headword": "tam khôi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example lists the three examination ranks to explain the term instead of showing it in use.",
+   "fix": "Tên tuổi các vị tam khôi được ghi lại trong sử sách. = The names of the three top graduates are recorded in historical works."
+  },
+  {
+   "headword": "tam tiêu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the components of tam tiêu instead of showing the term in use.",
+   "fix": "Thầy thuốc cho rằng bệnh này có liên quan đến tam tiêu. = The practitioner believes this illness is related to the triple burner."
+  },
+  {
+   "headword": "tam âm la",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The frame is metal, not wooden, according to the [Vietnamese Institute of Musicology](https://vienamnhac.vn/bai-viet/nhac-co/nha-nhac-trieu-nguyen).",
+   "fix": "tam âm la (set of three small gongs suspended in a handheld metal frame, used in court music)"
+  },
+  {
+   "headword": "tam đoạn luận",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the structure of a syllogism instead of showing the term in use.",
+   "fix": "Anh ấy dùng tam đoạn luận để chứng minh quan điểm của mình. = He used a syllogism to prove his point."
+  }
+ ]
+}

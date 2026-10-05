@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bồi dưỡng",
+  "mặc định",
+  "tân gia",
+  "tí ti",
+  "quy chuẩn",
+  "kị",
+  "chờ mong",
+  "mảy may",
+  "tay vịn",
+  "đinh hương",
+  "tạp âm",
+  "dượt",
+  "gia dụng",
+  "niên đại",
+  "bèo",
+  "vũ phu",
+  "chật cứng",
+  "tài tử",
+  "nuột",
+  "tan tác",
+  "gian hàng",
+  "chủ định",
+  "lạnh nhạt",
+  "thực dân",
+  "lãnh hải",
+  "quần thể",
+  "hoàn lương",
+  "thuần phục",
+  "tê tê",
+  "giậm",
+  "đồng thanh",
+  "hám",
+  "thứ hạng",
+  "bóng chuyền",
+  "quân cờ",
+  "hạ tầng",
+  "đảm đương",
+  "bí đao",
+  "khuây",
+  "CPU"
+ ],
+ "flags": [
+  {
+   "headword": "bồi dưỡng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "A common everyday use means giving someone extra money for their work or help.",
+   "fix": "verb | to give extra pay; to give a gratuity"
+  },
+  {
+   "headword": "mặc định",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "In everyday speech, mặc định also means assuming something is true or taking it for granted.",
+   "fix": "verb | to assume; to take for granted"
+  },
+  {
+   "headword": "tài tử",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Tài tử remains a current word for a film actor or star, especially a male one.",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "tài tử",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Calling performers of đờn ca tài tử tài tử is still current in this living musical tradition.",
+   "fix": "Remove the archaic tag."
+  },
+  {
+   "headword": "hoàn lương",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hoàn lương can describe reforming after crime or other disreputable activities, so it does not necessarily imply prostitution.",
+   "fix": "to reform and return to an honest life (after crime, prostitution, or other disreputable activities)"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "choa",
+  "choe choé",
+  "choi choi",
+  "choài",
+  "choé",
+  "choại",
+  "chu kì bán rã",
+  "chu kì tế bào",
+  "chu niên",
+  "chu sa",
+  "chung chiêng",
+  "chung khảo",
+  "chung sức",
+  "chung thuỷ",
+  "chuyên chính",
+  "chuyên chính tư sản",
+  "chuyên chính vô sản",
+  "chuyên cần",
+  "chuyên khảo",
+  "chuyên viên lưu trữ",
+  "chuyến bay",
+  "chuyến đi",
+  "chuyển bụng",
+  "chuyển chú",
+  "chuyển hoá",
+  "chuyển hoá chất",
+  "chuyển tự",
+  "chuyển đổi số",
+  "chuyển động học",
+  "chuyện cổ tích",
+  "chuyện thường ngày ở huyện",
+  "chuyện đâu còn có đó",
+  "chuyện đó",
+  "chuyện ấy",
+  "chuôm",
+  "chuông gió",
+  "chuẩn hoá",
+  "chuẩn không cần chỉnh",
+  "chuẩn tướng",
+  "chuẩn đô đốc"
+ ],
+ "flags": [
+  {
+   "headword": "choa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This pronoun is characteristic of Central Vietnamese, especially Nghệ–Tĩnh, but lacks a regional tag ([Vinh University](https://khoaspnv.vinhuni.edu.vn/nghien-cuu-khoa-hoc/ly-luan-ngon-ngu/seo/ve-dep-cua-vi-giam-nghe-tinh-tu-goc-nhin-ngon-ngu-67108)).",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "choé",
+   "sense": 5,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The teapot or kettle meaning is specifically associated with Hải Phòng and needs a Northern warning ([Wiktionary](https://en.wiktionary.org/wiki/cho%C3%A9)).",
+   "fix": "Tags: rare, Northern; gloss: teapot; kettle (Hải Phòng dialect)."
+  },
+  {
+   "headword": "chu sa",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines chu sa instead of showing it in use.",
+   "fix": "Người thợ dùng chu sa để pha màu đỏ. = The artisan uses cinnabar to make red pigment."
+  },
+  {
+   "headword": "chuyển chú",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the classification of chuyển chú instead of showing it in use.",
+   "fix": "Thầy yêu cầu chúng tôi tìm hai chữ Hán minh hoạ cho chuyển chú. = The teacher asked us to find two Chinese characters illustrating chuyển chú."
+  },
+  {
+   "headword": "chuyển động học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what field chuyển động học belongs to instead of showing it in use.",
+   "fix": "Sinh viên đang làm bài tập chuyển động học. = The students are doing kinematics exercises."
+  },
+  {
+   "headword": "chuyện đó",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Mai means tomorrow, whereas another day leaves the day unspecified.",
+   "fix": "Let's continue talking about that tomorrow, okay?"
+  },
+  {
+   "headword": "chuẩn không cần chỉnh",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The expression remains informal when it means spot on, so leaving this sense untagged misleadingly suggests neutral usage.",
+   "fix": "Add the informal tag."
+  }
+ ]
+}

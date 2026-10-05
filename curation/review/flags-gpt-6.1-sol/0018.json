@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thư",
+  "toàn",
+  "kiểm soát",
+  "chăm sóc",
+  "hủy",
+  "sinh",
+  "mạng",
+  "chào mừng",
+  "thật ra",
+  "quà",
+  "tiếp theo",
+  "thay",
+  "tường",
+  "một số",
+  "lái",
+  "phát hiện",
+  "đống",
+  "tổ chức",
+  "điều tra",
+  "tù",
+  "nắm",
+  "khó khăn",
+  "may",
+  "quen",
+  "kiếp",
+  "cho phép",
+  "cưới",
+  "văn phòng",
+  "rơi",
+  "quan hệ",
+  "thuê",
+  "đập",
+  "bản",
+  "giây",
+  "trở nên",
+  "rừng",
+  "đô",
+  "hồi",
+  "lớp",
+  "thẳng"
+ ],
+ "flags": [
+  {
+   "headword": "quan hệ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common use of quan hệ to mean having sex is missing, creating a risk of embarrassing misunderstandings ([source](https://thethaovanhoa.vn/chu-va-nghia-quan-he-quan-he-tinh-duc-20210324064036704.htm)).",
+   "fix": "verb [euphemistic] | to have sex"
+  },
+  {
+   "headword": "lớp",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In drama, lớp is a scene within an act, whereas hồi is an act ([source](https://tailieugiaovien.edu.vn/wp-content/uploads/2020/03/Gi%C3%A1o-%C3%A1n-V%C4%83n-9-ph%C3%A1t-tri%E1%BB%83n-n%C4%83ng-l%E1%BB%B1c-so%E1%BA%A1n-theo-5-ho%E1%BA%A1t-%C4%91%E1%BB%99ng.pdf)).",
+   "fix": "scene (a subdivision of an act in a play)"
+  },
+  {
+   "headword": "lớp",
+   "sense": 6,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example incorrectly translates lớp as Act.",
+   "fix": "Hồi 1, Lớp 1 = Act 1, Scene 1"
+  }
+ ]
+}

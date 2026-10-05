@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "dự",
+  "hiếm",
+  "robot",
+  "tủ",
+  "bảo hiểm",
+  "cư xử",
+  "Do Thái",
+  "sự nghiệp",
+  "thang máy",
+  "đồng nghiệp",
+  "pha",
+  "lui",
+  "tập hợp",
+  "Đài",
+  "đài",
+  "hầu như",
+  "ra tay",
+  "bé nhỏ",
+  "nhện",
+  "tướng quân",
+  "nick",
+  "bể",
+  "chết tiệt",
+  "chui",
+  "sửa chữa",
+  "tra tấn",
+  "thường xuyên",
+  "sa thải",
+  "gậy",
+  "nắng",
+  "hài hước",
+  "giải cứu",
+  "thời tiết",
+  "phổi",
+  "nhỏ bé",
+  "liều",
+  "hành vi",
+  "bẩn thỉu",
+  "nỗ lực",
+  "ốm"
+ ],
+ "flags": [
+  {
+   "headword": "Do Thái",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Do Thái means Jewish, not Israeli, and the example does not establish Israeli nationality.",
+   "fix": "Remove this sense; the example belongs under sense 1 and translates as “She is Jewish and currently lives in Tel Aviv.”"
+  },
+  {
+   "headword": "đài",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Đài meaning a radio set is mainly Northern usage.",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "bể",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bể meaning to break or be smashed is regional Southern usage, just like the adjective in sense 3.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "sửa chữa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Sửa chữa also commonly means to correct mistakes or remedy faults, rather than repair a physical object.",
+   "fix": "Add a verb sense: “to correct; to remedy (mistakes or faults)”; example: “Anh ấy đang cố sửa chữa sai lầm của mình.” = “He is trying to correct his mistake.”"
+  }
+ ]
+}

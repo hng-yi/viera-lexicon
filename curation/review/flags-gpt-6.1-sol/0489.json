@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "khật khà khật khừ",
+  "khật khưỡng",
+  "khắc cốt ghi tâm",
+  "khắc cốt minh tâm",
+  "khắc kỉ",
+  "khằng",
+  "khằng khặc",
+  "khẳng khái",
+  "khặc khè",
+  "khặc khặc",
+  "khặc khừ",
+  "khế kinh",
+  "khề khà",
+  "khể thủ",
+  "khểnh",
+  "khệ nệ",
+  "khỉ không đuôi",
+  "khỉ mặt chó",
+  "khỉ đầu chó",
+  "khọm rọm",
+  "khọn",
+  "khọt khẹt",
+  "khỏe mạnh",
+  "khỏe như voi",
+  "khỏe như vâm",
+  "khỏe re",
+  "khối núi",
+  "khống chỉ",
+  "khổ công",
+  "khổ dịch",
+  "khổ nhục kế",
+  "khổ não",
+  "khổ qua",
+  "khớp xương",
+  "khở",
+  "khởi hấn",
+  "khủng hoảng bản sắc",
+  "khủng hoảng danh tính",
+  "khủng hoảng tài chính",
+  "khủng long bạo chúa"
+ ],
+ "flags": [
+  {
+   "headword": "khể thủ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khể thủ requires the forehead to touch the ground, rather than rest on crossed hands ([Buddhist dictionary](https://phatgiao.org.vn/tu-dien-phat-hoc-online/khe-thu-k35309.html)).",
+   "fix": "to kowtow with one's forehead touching the ground (a deeply respectful form of homage)"
+  },
+  {
+   "headword": "khỏe re",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common everyday meaning of feeling carefree or having little effort to expend is missing ([linguistic study](https://scholar.dlu.edu.vn/thuvienso/bitstream/DLU123456789/168513/1/CTv75S32021026.pdf)).",
+   "fix": "[colloquial] carefree; relaxed; requiring little effort"
+  },
+  {
+   "headword": "khỏe re",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly associated with Southern Vietnamese and needs a regional label ([Southern Vietnamese teaching reference](https://svff.online/blog/vietnamese-sports-exercise-vocabulary-southern)).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "khống chỉ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss omits that the otherwise blank document already bears a signature or stamp ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/kh%E1%BB%91ng_ch%E1%BB%89)).",
+   "fix": "signed or stamped but otherwise blank (of a document or form)"
+  }
+ ]
+}

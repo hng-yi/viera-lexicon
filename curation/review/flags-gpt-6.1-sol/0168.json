@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "bai",
+  "mất lòng",
+  "Na Uy",
+  "tiên sư",
+  "thuyết",
+  "tay áo",
+  "xanh dương",
+  "lao công",
+  "nhậm chức",
+  "cách chức",
+  "kìm",
+  "suy nhược",
+  "kiêu căng",
+  "người người",
+  "mòng",
+  "tinh linh",
+  "hấp",
+  "nôn nóng",
+  "ăn ý",
+  "lứa",
+  "trực diện",
+  "chứng chỉ",
+  "lành lặn",
+  "son",
+  "liếc",
+  "súng lục",
+  "nhân hậu",
+  "hất",
+  "túi tiền",
+  "thứ ba",
+  "vỉa hè",
+  "hạm trưởng",
+  "đông đúc",
+  "úy",
+  "cụng",
+  "bất tài",
+  "suy tính",
+  "nhà thổ",
+  "toàn vẹn",
+  "khép kín"
+ ],
+ "flags": [
+  {
+   "headword": "mất lòng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The first example incorrectly places the offended person as the subject of mất lòng, which means to cause displeasure ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-m%E1%BA%A5t%20l%C3%B2ng)).",
+   "fix": "Nói thẳng như vậy dễ làm mất lòng người ta. = Speaking so bluntly can easily offend people."
+  },
+  {
+   "headword": "mất lòng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This reverses the meaning: mất lòng means to offend someone, not to feel offended ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-m%E1%BA%A5t%20l%C3%B2ng)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "tiên sư",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The respectful meaning refers to a deceased teacher, not generally to scholars of former times ([dictionary](https://www.hanzi.live/hanvi/ti%C3%AAn%20s%C6%B0)).",
+   "fix": "noun [honorific, uncommon] | one's deceased teacher"
+  },
+  {
+   "headword": "thuyết",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the grammatical term instead of showing it in use.",
+   "fix": "Cô giáo yêu cầu chúng tôi xác định phần thuyết trong từng câu. = The teacher asked us to identify the comment in each sentence."
+  },
+  {
+   "headword": "kìm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common verb meaning to restrain or hold back is missing ([dictionary](https://loigiaihay.com/tu-dien-tv/kim-e1gaJrzCJXAuV.html)).",
+   "fix": "verb | to restrain; to hold back"
+  },
+  {
+   "headword": "hấp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday insulting adjective meaning crazy or daft is missing ([dictionary](https://vi.wiktionary.org/wiki/h%E1%BA%A5p)).",
+   "fix": "adj [colloquial, derogatory] | crazy; daft"
+  },
+  {
+   "headword": "son",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The familiar meaning of not yet having children, as in vợ chồng son, is missing ([dictionary](https://www.caodaism.org/e-book-pdf/TuNgu-DienCo-CaoDai%28v2018_0%29_Q2.pdf)).",
+   "fix": "adj | not yet having children (of a married person or couple)"
+  },
+  {
+   "headword": "súng lục",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The Vietnamese says pistol without specifying that it is a revolver.",
+   "fix": "The museum displays an old pistol."
+  },
+  {
+   "headword": "hất",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains how the stroke is drawn instead of showing the term in use.",
+   "fix": "Em viết sai nét hất trong chữ này. = You wrote the rising stroke incorrectly in this character."
+  },
+  {
+   "headword": "khép kín",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning describing a person who avoids social interaction or sharing feelings is missing ([dictionary](https://vi.wiktionary.org/wiki/kh%C3%A9p_k%C3%ADn)).",
+   "fix": "adj | withdrawn; emotionally closed off"
+  }
+ ]
+}

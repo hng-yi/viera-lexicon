@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "nguyên",
+  "thỉnh thoảng",
+  "trang",
+  "ho",
+  "tốn",
+  "thể hiện",
+  "lưỡi",
+  "xứ",
+  "động",
+  "can đảm",
+  "diễn viên",
+  "tuyên bố",
+  "mù",
+  "xã hội",
+  "đồ chơi",
+  "tan",
+  "tốt lành",
+  "hít",
+  "ngắn",
+  "trôi",
+  "công nghệ",
+  "dầu",
+  "quỳ",
+  "hội đồng",
+  "bộ phận",
+  "gỗ",
+  "cơ quan",
+  "rắn",
+  "tiêm",
+  "bỏ cuộc",
+  "dự án",
+  "hộ",
+  "xoay",
+  "công viên",
+  "chúng nó",
+  "buồn cười",
+  "mộ",
+  "hài lòng",
+  "kinh doanh",
+  "hủy hoại"
+ ],
+ "flags": [
+  {
+   "headword": "tốn",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines Tốn instead of showing it in use.",
+   "fix": "Ông ấy gieo được quẻ Tốn. = He cast the Xun trigram."
+  },
+  {
+   "headword": "dầu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a dầu tree is instead of showing the word in use.",
+   "fix": "Chúng tôi nghỉ dưới gốc cây dầu. = We rested under a dipterocarp tree."
+  },
+  {
+   "headword": "rắn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The restriction 'non-constricting' is false because snakes called rắn can also kill by constriction, as illustrated by [rắn ráo](https://tudien.dolenglish.vn/ran-rao-tieng-anh-la-gi).",
+   "fix": "snake"
+  }
+ ]
+}

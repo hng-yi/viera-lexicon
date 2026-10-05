@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "kiên cường",
+  "ve vãn",
+  "thân nhiệt",
+  "nhật kí",
+  "rồ",
+  "đầu lâu",
+  "quyết liệt",
+  "phương diện",
+  "tối thượng",
+  "ngõ",
+  "đăng nhập",
+  "dư luận",
+  "bánh lái",
+  "thây ma",
+  "râm",
+  "phòng ngừa",
+  "hầu gái",
+  "phím",
+  "nhiếp ảnh gia",
+  "ẩm",
+  "trà trộn",
+  "đô thị",
+  "lặt vặt",
+  "ầm ĩ",
+  "thuở",
+  "gào",
+  "bỗng dưng",
+  "sơ sinh",
+  "thô bạo",
+  "thượng hạng",
+  "hợp chủng quốc",
+  "chép",
+  "đệ nhất",
+  "tẩm",
+  "khó tính",
+  "lớn tiếng",
+  "vô trách nhiệm",
+  "lố",
+  "không trung",
+  "ráp"
+ ],
+ "flags": [
+  {
+   "headword": "ngõ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The alley sense is used mainly in Northern Vietnamese, as documented by [An Chi](https://petrotimes.vn/tu-nguyen-cua-hem-ngo-434676.html).",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "thây ma",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The corpse sense remains current and is not archaic; see [VDict](https://vdict.com/th%C3%A2y%20ma%2C3%2C0%2C0.html).",
+   "fix": "Remove the tag archaic."
+  },
+  {
+   "headword": "thây ma",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a corpse 'thây ma' can express contempt and is unsuitable for respectful reference to the deceased; see [the dictionary definition](https://loigiaihay.com/tu-dien-tv/thay-ma-erdaZTrXwIgK6.html).",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "râm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common weather use meaning overcast, where clouds block the sunshine; see [ZIM Dictionary](https://dictionary.zim.vn/viet-anh/ram-tieng-anh-la-gi-8).",
+   "fix": "Add: adj | overcast (of the weather); ex: Hôm nay trời râm. = It is overcast today."
+  }
+ ]
+}

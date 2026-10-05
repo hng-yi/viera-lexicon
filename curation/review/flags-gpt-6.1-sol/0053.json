@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "ruột",
+  "cạo",
+  "triệu chứng",
+  "cài",
+  "giai đoạn",
+  "tranh cãi",
+  "đại sứ",
+  "chuỗi",
+  "đắt",
+  "trường học",
+  "ăn mặc",
+  "hợp pháp",
+  "lò",
+  "duy trì",
+  "cừu",
+  "ngại",
+  "qua đời",
+  "nốt",
+  "ngày xưa",
+  "bỏ phiếu",
+  "thưởng thức",
+  "phân biệt",
+  "thẩm phán",
+  "nổi loạn",
+  "mổ",
+  "người lớn",
+  "môi trường",
+  "cũng nên",
+  "tài chính",
+  "xuân",
+  "lộn xộn",
+  "hoàn tất",
+  "khớp",
+  "nguyên tắc",
+  "tạp chí",
+  "thế mà",
+  "phiếu",
+  "nhằm",
+  "người thân",
+  "chiến"
+ ],
+ "flags": [
+  {
+   "headword": "ruột",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning ‘inner part’ of an object or food is missing, as documented in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ru%E1%BB%99t).",
+   "fix": "noun | inner part; interior; flesh (of fruit) — ex: Quả thanh long này có ruột màu đỏ. = This dragon fruit has red flesh."
+  },
+  {
+   "headword": "ruột",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Using ruột for a tyre’s inner tube is mainly Southern usage.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "lò",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This dialectal verb is used in the Thanh–Nghệ area and needs a Central warning, as described in this [regional usage discussion](https://baomoi.com/ve-mot-so-tu-lay-thap-tho-the-le-tho-lo-thoi-loi-c52617723.epi).",
+   "fix": "Add the tag Central."
+  },
+  {
+   "headword": "cừu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cừu denotes a wooden gymnastics vaulting apparatus rather than an athletics hurdle, according to the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BB%ABu).",
+   "fix": "vaulting buck (a gymnastics apparatus)"
+  },
+  {
+   "headword": "cừu",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example refers to vaulting over a gymnastics apparatus, which the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BB%ABu) identifies as cừu, rather than jumping over a hurdle.",
+   "fix": "to vault over a buck with legs spread wide"
+  }
+ ]
+}

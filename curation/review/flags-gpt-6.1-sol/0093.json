@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đắm",
+  "điều khoản",
+  "phụ huynh",
+  "trì hoãn",
+  "mỏng",
+  "văng",
+  "kiêu ngạo",
+  "tái sinh",
+  "đồng thời",
+  "rìu",
+  "bộ mặt",
+  "lựu đạn",
+  "kích thước",
+  "mê cung",
+  "thu dọn",
+  "o",
+  "ị",
+  "tai họa",
+  "háo hức",
+  "rụi",
+  "bực",
+  "biệt thự",
+  "y hệt",
+  "sấm",
+  "công tử",
+  "nín",
+  "cho rồi",
+  "trung tá",
+  "nhịn",
+  "thể",
+  "mặt nước",
+  "mô",
+  "nhào",
+  "mép",
+  "mộng",
+  "chỉnh sửa",
+  "úp",
+  "giới tính",
+  "cô lập",
+  "vỗ tay"
+ ],
+ "flags": [
+  {
+   "headword": "văng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Trúng cửa kính xe” means the stone hit the car window, rather than flew into it.",
+   "fix": "A stone flew off and hit the car window."
+  },
+  {
+   "headword": "o",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This sense belongs to North Central Vietnamese, so the Northern tag incorrectly treats North Central as two separate regions ([dictionary](https://en.wiktionary.org/wiki/o#Vietnamese)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "o",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The female-teacher sense is North Central Vietnamese, which falls under Central rather than Northern ([dictionary](https://en.wiktionary.org/wiki/o#Vietnamese)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "o",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This pronoun use is North Central Vietnamese, which falls under Central rather than Northern ([dictionary](https://en.wiktionary.org/wiki/o#Vietnamese)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "công tử",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what “công tử” means instead of using it to refer to someone.",
+   "fix": "Vị công tử ấy sống trong một phủ lớn. = That duke's son lived in a large mansion."
+  }
+ ]
+}

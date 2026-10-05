@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ước muốn",
+  "mè",
+  "đường kính",
+  "gấu bông",
+  "vượn",
+  "thiếu thốn",
+  "gượng",
+  "li hôn",
+  "chạm trán",
+  "pháo binh",
+  "mát mẻ",
+  "mưu mẹo",
+  "khai mạc",
+  "mác",
+  "bị động",
+  "loạn trí",
+  "thá",
+  "lạ thường",
+  "giỏi giang",
+  "ưu thế",
+  "lâu lâu",
+  "nóng giận",
+  "tập sự",
+  "vuông",
+  "dung",
+  "phệ",
+  "amen",
+  "hồng quân",
+  "ghi danh",
+  "vất",
+  "phước",
+  "bằng cấp",
+  "chảnh",
+  "tương tác",
+  "phù",
+  "bạo loạn",
+  "cảm tưởng",
+  "sóng thần",
+  "gặm",
+  "điểm số"
+ ],
+ "flags": [
+  {
+   "headword": "mát mẻ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common sense referring to sarcastic or snide speech, as in nói mát mẻ, is missing ([dictionary](https://loigiaihay.com/tu-dien-tv/mat-me-eqb4mAEvnzVaj.html)).",
+   "fix": "Add: adj | sarcastic; snide (of speech); example: Anh ấy nói mát mẻ tôi. = He made snide remarks about me."
+  },
+  {
+   "headword": "thá",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Thá expresses contempt in these constructions, so colloquial alone does not warn learners that it can insult someone ([dictionary](https://tudientv.com/?t=th%C3%A1)).",
+   "fix": "Tags: colloquial, derogatory."
+  }
+ ]
+}

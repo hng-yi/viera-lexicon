@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "viện",
+  "tuyết",
+  "cấp cứu",
+  "tuyệt đối",
+  "tư cách",
+  "khiêu vũ",
+  "thị trưởng",
+  "hang",
+  "gốc",
+  "tế bào",
+  "mong đợi",
+  "địa phương",
+  "nhà máy",
+  "tội ác",
+  "sa mạc",
+  "mớ",
+  "thà",
+  "kịch",
+  "xăng",
+  "hành lang",
+  "áo khoác",
+  "xem ra",
+  "bến",
+  "phép thuật",
+  "đường hầm",
+  "kim cương",
+  "quảng cáo",
+  "năm ngoái",
+  "phạt",
+  "hình dung",
+  "chiếu",
+  "đường phố",
+  "ông bà",
+  "chọc",
+  "phân",
+  "chảy máu",
+  "y tế",
+  "kế tiếp",
+  "két",
+  "tiền mặt"
+ ],
+ "flags": [
+  {
+   "headword": "tuyệt đối",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adverbial use, especially in emphatic prohibitions, is missing.",
+   "fix": "Add an adverb sense: absolutely; under any circumstances (with a negative), as in 'Tuyệt đối không hút thuốc ở đây.' = 'Do not smoke here under any circumstances.'"
+  },
+  {
+   "headword": "mớ",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Talking in one's sleep does not specifically mean having bad dreams or nightmares.",
+   "fix": "Remove this sense; sleep-talking is already covered by sense 2."
+  },
+  {
+   "headword": "phân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Phân is an ordinary neutral word for faeces or dung, so the formal tag misleadingly discourages everyday use.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "phân",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phân does not mean an inch, and the example would ordinarily describe a plank two centimetres thick.",
+   "fix": "Remove the inch sense; the example belongs under sense 5 and translates as 'This plank is two centimetres thick.'"
+  }
+ ]
+}

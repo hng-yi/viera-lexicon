@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "cá nóc mít",
+  "cá nược",
+  "cá phổi",
+  "cá quả",
+  "cá rô phi",
+  "cá rô đồng",
+  "cá răng đao",
+  "cá sặc",
+  "cá tai tượng",
+  "cá thia",
+  "cá thiều",
+  "cá tháng tư",
+  "cá thát lát",
+  "cá thính",
+  "cá thờn bơn",
+  "cá tra",
+  "cá tràu",
+  "cá trắm",
+  "cá trắm cỏ",
+  "cá trứng",
+  "cá tầm",
+  "cá voi lưng gù",
+  "cá voi sát thủ",
+  "cá vền",
+  "cá ông chuông",
+  "cá đao",
+  "cá điêu hồng",
+  "cá đù",
+  "cá đối",
+  "các hạ",
+  "các kiểu",
+  "các tông",
+  "các-ten",
+  "cách cách",
+  "cách mạng màu",
+  "cách mạng tư sản",
+  "cách mạng vô sản",
+  "cách quãng",
+  "cách thuỷ",
+  "cách điện"
+ ],
+ "flags": [
+  {
+   "headword": "cá nược",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Chúng tôi thấy một đàn cá nược ở cửa sông. = We saw a pod of Irrawaddy dolphins at the river mouth."
+  },
+  {
+   "headword": "cá tra",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses họ cá tra as a family name rather than cá tra to refer to a fish belonging to that family.",
+   "fix": "Bể này nuôi nhiều loài cá tra khác nhau. = This tank contains several different species of pangasiid catfish."
+  },
+  {
+   "headword": "cá đao",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the fish is instead of showing the word in use.",
+   "fix": "Ngư dân bắt được một đàn cá đao trong lưới. = The fishermen caught a school of wolf herring in their net."
+  },
+  {
+   "headword": "cách cách",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Trong phim, vị cách cách ấy được hoàng đế yêu quý. = In the film, that princess is cherished by the emperor."
+  }
+ ]
+}

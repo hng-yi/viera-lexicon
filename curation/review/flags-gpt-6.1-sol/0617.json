@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "vọi",
+  "vọng ngoại",
+  "vỏ chuối",
+  "vỏ lãi",
+  "vỏ quýt dày có móng tay nhọn",
+  "vốn từ",
+  "vốt",
+  "vồ vập",
+  "vồn vã",
+  "vỗ yên",
+  "vội vội vàng vàng",
+  "với chẳng",
+  "với nhau",
+  "vờ vĩnh",
+  "vờ vịt",
+  "vỡ chợ",
+  "vỡ giọng",
+  "vợ bé",
+  "vợ lớn",
+  "vợ vua",
+  "vụ kiện",
+  "vụ mùa",
+  "vụng chèo khéo chống",
+  "vừa miệng",
+  "vừa mắt",
+  "vừa sức",
+  "vừa ăn cướp vừa la làng",
+  "vừa đánh trống vừa ăn cướp",
+  "vực dậy",
+  "wibu",
+  "word by word",
+  "xa giá",
+  "xa lắc",
+  "xa lắc xa lơ",
+  "xa pô chê",
+  "xa vắng",
+  "xa xỉ phẩm",
+  "xa-lông",
+  "xa-phia",
+  "xa-tanh"
+ ],
+ "flags": [
+  {
+   "headword": "vợ vua",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a king's wife is called instead of showing the phrase in use.",
+   "fix": "Vợ vua ngồi bên cạnh ông trong buổi lễ. = The king's wife sat beside him during the ceremony."
+  },
+  {
+   "headword": "wibu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone wibu in the stated obsessive-fan sense can be derogatory ([source](https://viettelstore.vn/tin-tuc/wibu-la-gi)).",
+   "fix": "[slang, Internet, derogatory]"
+  }
+ ]
+}

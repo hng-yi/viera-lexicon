@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bất khả thi",
+  "suôn sẻ",
+  "từ biệt",
+  "thời cơ",
+  "rìa",
+  "vận mệnh",
+  "ngó",
+  "tiếp diễn",
+  "xì trum",
+  "tĩnh mạch",
+  "thập tự",
+  "chữ cái",
+  "chuyển đổi",
+  "ướp",
+  "bộ lạc",
+  "trị",
+  "vô vọng",
+  "long",
+  "cắt cổ",
+  "đột quỵ",
+  "gián",
+  "nhân lực",
+  "ngày kia",
+  "cọc",
+  "vĩnh hằng",
+  "tư pháp",
+  "ý đồ",
+  "sáng tỏ",
+  "mỏng manh",
+  "quá giang",
+  "mở đầu",
+  "bảo trì",
+  "bê",
+  "thổ dân",
+  "dòng họ",
+  "thân mật",
+  "cây cối",
+  "vỗ",
+  "lập phương",
+  "bao phủ"
+ ],
+ "flags": [
+  {
+   "headword": "ngó",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Using ngó to mean taking a peek is not specifically Northern usage.",
+   "fix": "Remove the Northern tag."
+  },
+  {
+   "headword": "cọc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common noun meaning 'deposit', used in tiền cọc and mất cọc, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BB%8Dc)).",
+   "fix": "noun | deposit (money paid in advance to secure a purchase, rental or booking)"
+  },
+  {
+   "headword": "quá giang",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The literal river-crossing sense is dated rather than ordinary present-day usage ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-qu%C3%A1%20giang)).",
+   "fix": "Add the dated tag."
+  },
+  {
+   "headword": "bê",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bê is not a conventional Vietnamese representation of a calf's cry; be is the word representing a goat's bleat ([dictionary](https://loigiaihay.com/tu-dien-tv/be-erUT3AUS6h2E8.html)).",
+   "fix": "Delete this sense and its example."
+  },
+  {
+   "headword": "bê",
+   "sense": 5,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This figurative use is current colloquial Vietnamese, commonly occurring in bê nguyên and bê nguyên xi, rather than rare ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C3%AA)).",
+   "fix": "Remove rare; retain colloquial."
+  }
+ ]
+}

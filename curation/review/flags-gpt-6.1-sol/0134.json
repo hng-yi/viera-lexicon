@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cá ngừ",
+  "thư kí",
+  "thuyết trình",
+  "lẫn lộn",
+  "ngượng",
+  "tiếng tăm",
+  "chứng thực",
+  "đỡ đầu",
+  "hùng",
+  "lên ngôi",
+  "pao",
+  "bản xứ",
+  "súng ngắn",
+  "phá thai",
+  "cuốn hút",
+  "hàn gắn",
+  "ăn thua",
+  "tương đương",
+  "cưỡng bức",
+  "cằm",
+  "hoắc",
+  "cứu vãn",
+  "tưới",
+  "tổ sư",
+  "đậm",
+  "trần gian",
+  "rình rập",
+  "cùi",
+  "xước",
+  "vạch trần",
+  "sành điệu",
+  "khoe khoang",
+  "tái diễn",
+  "nện",
+  "xoa dịu",
+  "huyết thống",
+  "bạo chúa",
+  "khuất phục",
+  "bói",
+  "thông suốt"
+ ],
+ "flags": [
+  {
+   "headword": "đỡ đầu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đỡ đầu describes the godparent role in cha đỡ đầu or mẹ đỡ đầu; it does not itself mean the person 'godparent' ([dictionary](https://dilib.vn/img/pdf/6762-tu-dien-tieng-viet-thuviensach.vn.pdf)).",
+   "fix": "acting as a godparent (in cha đỡ đầu, godfather, and mẹ đỡ đầu, godmother)"
+  },
+  {
+   "headword": "đỡ đầu",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The general meaning of sponsoring and looking after someone is more commonly encountered than the specifically religious meaning.",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "hùng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's meaning instead of using it.",
+   "fix": "Trên tranh, đôi gà thư hùng đứng cạnh nhau. = In the painting, the male and female chickens stand side by side."
+  },
+  {
+   "headword": "hoắc",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Hoắc is an everyday colloquial intensifier in expressions such as lạ hoắc and thối hoắc, so rare is misleading.",
+   "fix": "[colloquial]"
+  },
+  {
+   "headword": "xước",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Gai hoa hồng xước vào tay tôi is unnatural because the thorns cause the scratch rather than perform an action expressed as xước vào.",
+   "fix": "Gai hoa hồng làm xước tay tôi. = The rose thorns scratched my hand."
+  }
+ ]
+}

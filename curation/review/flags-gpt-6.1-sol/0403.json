@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "biến trở",
+  "biến điệu",
+  "biến đổi khí hậu",
+  "biết chết liền",
+  "biết chữ",
+  "biết rồi, khổ lắm, nói mãi",
+  "biết tay",
+  "biết thì thưa thốt, không biết thì dựa cột mà nghe",
+  "biết thế",
+  "biết tuốt",
+  "biết tỏng",
+  "biếu xén",
+  "biền ngẫu",
+  "biển hồ",
+  "biển lận",
+  "biển người",
+  "biểu hiện gen",
+  "biểu kiến",
+  "biểu lí",
+  "biện biệt",
+  "biện bác",
+  "biện chứng",
+  "biện chứng duy vật",
+  "biện giải",
+  "biện luận",
+  "biện lí",
+  "biệt dược",
+  "biệt li",
+  "biệt đãi",
+  "bo bo",
+  "bo mạch chủ",
+  "bo mạch in",
+  "bo xì",
+  "bohri",
+  "bom ba càng",
+  "bom chìm",
+  "bom tấn",
+  "bom xịt",
+  "bong vụ",
+  "boong-ke"
+ ],
+ "flags": [
+  {
+   "headword": "biết tay",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Biết tay means to experience someone's prowess; the meaning 'to show people what one is capable of' requires cho người ta biết tay.",
+   "fix": "to experience what someone is capable of"
+  },
+  {
+   "headword": "biển lận",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Biển lận means stingy or miserly, rather than greedy ([dictionary](https://tudien.dolenglish.vn/bien-lan-tieng-anh-la-gi)).",
+   "fix": "stingy; miserly"
+  },
+  {
+   "headword": "biển lận",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example describes a miserly man, rather than a greedy man ([dictionary](https://tudien.dolenglish.vn/bien-lan-tieng-anh-la-gi)).",
+   "fix": "He is known as a miserly man."
+  },
+  {
+   "headword": "biện bác",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Biện bác is formal vocabulary and needs a warning against using it as an ordinary conversational equivalent of 'argue against'.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "biện giải",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Biện giải is formal vocabulary rather than an everyday conversational word for explaining or justifying something.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "biện luận",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Biện luận denotes formal argumentation and is misleading as an unmarked conversational equivalent of 'argue'.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "biệt đãi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Biệt đãi is formal vocabulary for giving preferential treatment.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "biệt đãi",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun use of biệt đãi is also formal vocabulary.",
+   "fix": "Add formal."
+  }
+ ]
+}

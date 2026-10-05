@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "chìm nổi",
+  "chí cha chí chát",
+  "chí choé",
+  "chí chát",
+  "chí chương",
+  "chí chết",
+  "chí hiếu",
+  "chí lí",
+  "chí mà phù",
+  "chí nguyện",
+  "chí phải",
+  "chí sĩ",
+  "chí thiết",
+  "chí thiện",
+  "chí thành",
+  "chí thân",
+  "chí thú",
+  "chí tình",
+  "chích bông",
+  "chích choè",
+  "chín người mười ý",
+  "chín suối",
+  "chín tới",
+  "chính biến",
+  "chính chuyên",
+  "chính cương",
+  "chính cống",
+  "chính danh",
+  "chính giới",
+  "chính giữa",
+  "chính gốc",
+  "chính hãng",
+  "chính lưu",
+  "chính mình",
+  "chính phái",
+  "chính phạm",
+  "chính phủ lưu vong",
+  "chính quốc",
+  "chính ra",
+  "chính sử"
+ ],
+ "flags": [
+  {
+   "headword": "chí mà phù",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for black sesame soup is used mainly in Southern Vietnamese, especially around Saigon–Chợ Lớn ([source](https://afamily.vn/che-hoa-o-sai-gon-20220820092205931.chn)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "chí sĩ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal term typically used for respected patriotic or historical figures ([dictionary](https://vdict.com/ch%C3%AD%20s%C4%A9%2C3%2C0%2C0.html?lang=vi)).",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "chích choè",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The broader taxonomic usage refers to the traditional thrush group Turdidae, rather than any Old World flycatcher ([source](https://vjs.ac.vn/vjbio/article/download/5456/5020/19785)).",
+   "fix": "a bird of the traditional thrush group (Turdidae in older classifications)"
+  },
+  {
+   "headword": "chính danh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The older naming sense means identifying someone explicitly by name, rather than a thing's proper name ([dictionary](https://tudientv.com/?t=ch%C3%ADnh+danh)).",
+   "fix": "Gloss: by name; explicitly identifying the person concerned; tags: dated; example: Bài báo nêu chính danh ông giám đốc. = The article names the director explicitly."
+  }
+ ]
+}

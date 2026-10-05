@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "thanh nặng",
+  "thanh nữ",
+  "thanh sắc",
+  "thanh thiên",
+  "thanh trùng",
+  "thanh trừng sắc tộc",
+  "thanh vọng",
+  "thanh yên",
+  "thanh điệu",
+  "thao giảng",
+  "thao lao",
+  "thao luyện",
+  "thao láo",
+  "thao thao bất tuyệt",
+  "thay lòng đổi dạ",
+  "thay phiên",
+  "thay trời hành đạo",
+  "thay vào đó",
+  "theo dõi liên lạc",
+  "theo gót",
+  "theo đòi",
+  "thi hành án",
+  "thi phú",
+  "thi đậu",
+  "thinh",
+  "thiên biến vạn hoá",
+  "thiên biến vạn hóa",
+  "thiên cư",
+  "thiên cầu",
+  "thiên cực",
+  "thiên di",
+  "thiên hoa",
+  "thiên hoá",
+  "thiên hình vạn trạng",
+  "thiên hướng tình dục",
+  "thiên hạ đệ nhất",
+  "thiên la địa võng",
+  "thiên lí",
+  "thiên lương",
+  "thiên lệch"
+ ],
+ "flags": [
+  {
+   "headword": "thi đậu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is mainly Southern usage, whereas the Northern form is thi đỗ, as distinguished in [Wiktionary](https://en.wiktionary.org/wiki/thi_%C4%91%E1%BA%ADu).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "thiên cầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Trong giờ thiên văn, chúng tôi học cách xác định vị trí các sao trên thiên cầu. = In astronomy class, we learned how to locate stars on the celestial sphere."
+  },
+  {
+   "headword": "thiên di",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thiên di is a formal or literary term rather than a neutral word for everyday conversation.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "thiên hướng tình dục",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese says that nobody is treated differently, while the English adds a recommendation with should.",
+   "fix": "No one is treated differently because of their sexual orientation."
+  },
+  {
+   "headword": "thiên lí",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thiên lí meaning a great distance or long road is literary rather than ordinary conversational vocabulary.",
+   "fix": "Add the literary tag."
+  }
+ ]
+}

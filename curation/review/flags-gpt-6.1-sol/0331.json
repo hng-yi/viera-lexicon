@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "chất phác",
+  "trình làng",
+  "bất minh",
+  "dự cảm",
+  "cu li",
+  "cơ hoành",
+  "chập choạng",
+  "niệu đạo",
+  "diệu",
+  "nhũ mẫu",
+  "mõ",
+  "còm",
+  "chán vạn",
+  "cướp giật",
+  "mạch lạc",
+  "vọng tưởng",
+  "xực",
+  "chiêu đãi viên",
+  "xã hội học",
+  "bốc đồng",
+  "hiểm hóc",
+  "bài hát",
+  "trung đại",
+  "tổ bố",
+  "lịm",
+  "ngang tàng",
+  "an tử",
+  "cuống cuồng",
+  "phá bĩnh",
+  "rộn rã",
+  "ước hẹn",
+  "súp lơ",
+  "cô quạnh",
+  "học lực",
+  "hộ pháp",
+  "hộ khẩu",
+  "bom nguyên tử",
+  "án phí",
+  "cứu nguy",
+  "cắt đặt"
+ ],
+ "flags": [
+  {
+   "headword": "cu li",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone cu li in this sense is derogatory, even though speakers also use it about themselves.",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "nhũ mẫu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nhũ mẫu means a wet nurse, whereas nanny includes caregivers who do not breastfeed the child.",
+   "fix": "wet nurse (a woman employed to breastfeed another woman's child)"
+  },
+  {
+   "headword": "còm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common sense meaning paltry or meagre, as in đồng lương còm, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%C3%B2m)).",
+   "fix": "adj [colloquial] | paltry; meagre (of money or earnings)"
+  },
+  {
+   "headword": "hiểm hóc",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In sports, hiểm hóc describes something difficult for an opponent to counter, rather than generally bold or impressive ([example usage](https://thethao.vtv.vn/ngoai-hang-anh/lacazette-xu-tinh-te-go-hoa-cho-arsenal-truoc-liverpool-20181104022421323.htm)).",
+   "fix": "tricky; difficult to counter or stop (of a shot or move in sports)"
+  },
+  {
+   "headword": "hiểm hóc",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Really impressive omits the move's difficulty for the opponent, which is what hiểm hóc conveys.",
+   "fix": "That move was really difficult to counter!"
+  },
+  {
+   "headword": "học lực",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Giỏi denotes an excellent academic rating here, so translating it as good understates the stated grade.",
+   "fix": "Her academic performance is rated excellent."
+  },
+  {
+   "headword": "hộ pháp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines hộ pháp instead of showing it in use.",
+   "fix": "Trên bàn thờ có hình một vị hộ pháp. = There is an image of a dharmapala on the altar."
+  },
+  {
+   "headword": "hộ pháp",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the title instead of using it in context.",
+   "fix": "Đức Hộ Pháp chủ trì buổi lễ. = The Hộ Pháp presided over the ceremony."
+  }
+ ]
+}

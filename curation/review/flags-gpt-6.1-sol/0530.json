@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nhũ ảnh",
+  "nhũn nhặn",
+  "nhơi",
+  "như cá gặp nước",
+  "như gió",
+  "như nhau",
+  "như nước đổ lá khoai",
+  "như nước đổ đầu vịt",
+  "như đúng rồi",
+  "nhướn",
+  "nhược bằng",
+  "nhược cơ",
+  "nhược thán",
+  "nhược thị",
+  "nhược trương",
+  "nhạc chế",
+  "nhạc lí",
+  "nhạc mẫu",
+  "nhạc sống",
+  "nhạc trẻ",
+  "nhạc vàng",
+  "nhạc đỏ",
+  "nhạt nhoà",
+  "nhạt nhùng",
+  "nhả chữ",
+  "nhảy chân sáo",
+  "nhảy cừu",
+  "nhảy dây",
+  "nhảy mũi",
+  "nhảy ngựa",
+  "nhấn chuột",
+  "nhấp chuột",
+  "nhấp nhỏm",
+  "nhất canh trì, nhị canh viên, tam canh điền",
+  "nhất cử lưỡng tiện",
+  "nhất cử nhất động",
+  "nhất cự li, nhì tốc độ",
+  "nhất dáng, nhì da, thứ ba khuôn mặt",
+  "nhất gái hơn hai, nhì trai hơn một",
+  "nhất nam viết hữu, thập nữ viết vô"
+ ],
+ "flags": [
+  {
+   "headword": "nhất cự li, nhì tốc độ",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The courtship sense is the usual everyday use and should come first, as illustrated in [Tuổi Trẻ](https://tuoitre.vn/audio-vhgt-255-nha-nang-o-canh-nha-toi-572665.htm).",
+   "fix": "Put meaning 2 before meaning 1."
+  },
+  {
+   "headword": "nhất nam viết hữu, thập nữ viết vô",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The saying devalues daughters, so the dated tag alone does not warn learners that using it approvingly is offensive.",
+   "fix": "tags: [dated, offensive]"
+  }
+ ]
+}

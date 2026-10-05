@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "hồng lâu",
+  "bết",
+  "mãn nguyện",
+  "thục mạng",
+  "chửi rủa",
+  "xỉa",
+  "phóng khoáng",
+  "năm xưa",
+  "mặt hàng",
+  "quả nhân",
+  "thẳng đứng",
+  "cự",
+  "vi mạch",
+  "tổng biên tập",
+  "hến",
+  "xôn xao",
+  "xức",
+  "sắc tố",
+  "đen đủi",
+  "thủ quân",
+  "chòm sao",
+  "xà quyền",
+  "nhấm",
+  "gặt",
+  "xúc tiến",
+  "sẫm",
+  "đương đại",
+  "thuần thục",
+  "vạm vỡ",
+  "phèo",
+  "hóc búa",
+  "chuôi",
+  "cute",
+  "làng mạc",
+  "tương",
+  "hồn nhiên",
+  "đóng kịch",
+  "kính râm",
+  "di căn",
+  "hòa giải"
+ ],
+ "flags": [
+  {
+   "headword": "chửi rủa",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Suốt buổi” means the whole session or period and does not specify the morning.",
+   "fix": "She stood outside the gate cursing the whole time."
+  },
+  {
+   "headword": "xúc tiến",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Xúc tiến” belongs to formal business or administrative language, so leaving it untagged suggests it is neutral casual vocabulary.",
+   "fix": "[formal]"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ác cảm",
+  "tự lực",
+  "đấu thầu",
+  "tán thưởng",
+  "đồng loạt",
+  "hưởng ứng",
+  "tươi tắn",
+  "đom đóm",
+  "tạm bợ",
+  "tứ chi",
+  "bên nguyên",
+  "nhiệt hạch",
+  "thai nghén",
+  "queo",
+  "thông dụng",
+  "bèn",
+  "ngợm",
+  "bỏ dở",
+  "lò nướng",
+  "lợp",
+  "thập phân",
+  "cao ngạo",
+  "áp tải",
+  "săm soi",
+  "làm lành",
+  "mềm mỏng",
+  "bay hơi",
+  "chửi bới",
+  "bào mòn",
+  "lỏng lẻo",
+  "thất truyền",
+  "tiến thoái",
+  "chí hướng",
+  "trệch",
+  "khúc mắc",
+  "hình chiếu",
+  "án treo",
+  "đặc sản",
+  "toàn tập",
+  "nương náu"
+ ],
+ "flags": [
+  {
+   "headword": "queo",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Nói queo sự việc” is unnatural Vietnamese; the established construction for distorting a story is “bẻ queo” ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-queo)).",
+   "fix": "Họ bẻ queo câu chuyện để đổ lỗi cho tôi. = They twisted the story to put the blame on me."
+  },
+  {
+   "headword": "mềm mỏng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Mềm mỏng” describes gentle, tactful speech or behaviour, not the physical pliancy of branches or materials ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-m%E1%BB%81m%20m%E1%BB%8Fng)).",
+   "fix": "Remove sense 2 and its example."
+  }
+ ]
+}

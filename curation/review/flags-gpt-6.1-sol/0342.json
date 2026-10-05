@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "nhuốc",
+  "tác nghiệp",
+  "kì thú",
+  "thâm trầm",
+  "tòa lãnh sự",
+  "chấn hưng",
+  "quyện",
+  "kì học",
+  "phụ lão",
+  "nắng ấm",
+  "bui",
+  "đon",
+  "xen kẽ",
+  "am tường",
+  "ban tặng",
+  "vía",
+  "đậu tây",
+  "quấy phá",
+  "hao tổn",
+  "chữ nghĩa",
+  "kịch câm",
+  "cà khịa",
+  "chơ",
+  "dát",
+  "Nữ Chân",
+  "lãng nhách",
+  "chính tắc",
+  "rác rến",
+  "hải vị",
+  "diệu kế",
+  "cương thi",
+  "bát ngát",
+  "ngẫu",
+  "cận giáp",
+  "tương hỗ",
+  "gằn",
+  "tú cầu",
+  "nước nôi",
+  "khuynh diệp",
+  "đường đường"
+ ],
+ "flags": [
+  {
+   "headword": "nhuốc",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The dirty or smeared sense in nhem nhuốc remains current, so archaic misleadingly labels ordinary modern usage.",
+   "fix": "Remove archaic; retain in-compounds."
+  },
+  {
+   "headword": "kì học",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Kì học commonly means an academic term or semester, a sense also used in [university admissions materials](https://cn.knu.ac.kr/download/gra_guide_vie2024-1.pdf).",
+   "fix": "Add as the first sense: noun | academic term; semester. Example: Kì học này tôi học năm môn. = I'm taking five subjects this semester."
+  },
+  {
+   "headword": "kì học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines kì học instead of showing it in use.",
+   "fix": "Anh ấy nghiên cứu kì học và sưu tầm cờ các nước. = He studies vexillology and collects flags from different countries."
+  },
+  {
+   "headword": "vía",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Vía tốt means she is believed to bring good luck to others, whereas She is lucky describes her own luck.",
+   "fix": "She is believed to bring good luck, so everyone asks her to be the first customer of the year."
+  },
+  {
+   "headword": "cương thi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines cương thi instead of showing it in use.",
+   "fix": "Trong truyện, một con cương thi đuổi theo dân làng. = In the story, a reanimated corpse chases the villagers."
+  },
+  {
+   "headword": "tương hỗ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tương hỗ belongs to formal or technical language, so leaving it untagged misrepresents its suitability for casual conversation.",
+   "fix": "Add formal."
+  }
+ ]
+}

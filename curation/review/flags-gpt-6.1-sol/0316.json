@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bắt bẻ",
+  "ho he",
+  "inh ỏi",
+  "cố đô",
+  "đánh răng",
+  "cá trê",
+  "bạch hầu",
+  "đảng cộng sản",
+  "giao tế",
+  "sênh",
+  "cá mú",
+  "thần trí",
+  "cụt hứng",
+  "dẹt",
+  "trùng tu",
+  "tàn quân",
+  "bố cục",
+  "đúng điệu",
+  "trối chết",
+  "rảnh rang",
+  "bổ dưỡng",
+  "bích họa",
+  "bình thân",
+  "khí công",
+  "thầm thì",
+  "quốc khố",
+  "mướp",
+  "viện dẫn",
+  "màng cứng",
+  "đứt gãy",
+  "gá",
+  "ba ba",
+  "mua dâm",
+  "tự tôn",
+  "náu",
+  "máu cam",
+  "nạc",
+  "tua bin",
+  "hăng",
+  "lỉnh kỉnh"
+ ],
+ "flags": [
+  {
+   "headword": "thần trí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to formal or literary usage, so leaving it untagged suggests it is ordinary conversational vocabulary ([dictionary](https://loigiaihay.com/tu-dien-tv/than-tri-ewaN199aLvRY9.html)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "màng cứng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Bác sĩ phát hiện một vết rách ở màng cứng. = The doctor discovered a tear in the dura mater."
+  },
+  {
+   "headword": "lỉnh kỉnh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The word describes an awkward or cluttered assortment of items, which need not be bulky or being carried ([dictionary](https://vi.wiktionary.org/wiki/l%E1%BB%89nh_k%E1%BB%89nh)).",
+   "fix": "cluttered; cumbersome (because of numerous miscellaneous items)"
+  }
+ ]
+}

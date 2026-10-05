@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "giờ Tuất",
+  "giờ Tí",
+  "giờ Tị",
+  "giờ cao su",
+  "giờ cao điểm",
+  "giờ dây thun",
+  "giờ tối",
+  "giời leo",
+  "giở quẻ",
+  "giủi",
+  "giữ chỗ",
+  "giữ nguyên",
+  "giữ trẻ",
+  "giữ vững",
+  "giữa đường đứt gánh",
+  "glucozơ",
+  "goá",
+  "goá bụa",
+  "goá phụ",
+  "gu dông",
+  "guồi",
+  "guột",
+  "gà công nghiệp",
+  "gà gô",
+  "gà lôi",
+  "gà móng đỏ",
+  "gà nhà",
+  "gà nước",
+  "gà qué",
+  "gà ri",
+  "gà rừng",
+  "gà sao",
+  "gà ta",
+  "gà trống Gô-loa",
+  "gà trống nuôi con",
+  "gà ác",
+  "gà Đông Tảo",
+  "gà đẻ trứng vàng",
+  "gà đồng",
+  "gàn bát sách"
+ ],
+ "flags": [
+  {
+   "headword": "glucozơ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines glucose instead of showing the word in use.",
+   "fix": "Trong thí nghiệm này, chúng tôi dùng dung dịch glucozơ. = In this experiment, we use a glucose solution."
+  },
+  {
+   "headword": "gà lôi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This meaning refers to turkey generally, including domestic turkeys, rather than specifically to wild turkey.",
+   "fix": "turkey"
+  },
+  {
+   "headword": "gà lôi",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The use of gà lôi to mean turkey is mainly Southern Vietnamese.",
+   "fix": "Replace rare with Southern."
+  },
+  {
+   "headword": "gà lôi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The forest example suggests the pheasant meaning rather than demonstrating the Southern meaning turkey.",
+   "fix": "Nhà tôi nuôi gà lôi để bán lấy thịt. = My family raises turkeys to sell for meat."
+  },
+  {
+   "headword": "gà trống Gô-loa",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the symbol instead of showing the expression in use.",
+   "fix": "Trên chiếc huy hiệu có hình gà trống Gô-loa. = There is a Gallic rooster on the badge."
+  },
+  {
+   "headword": "gà đồng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bird instead of showing the word in use.",
+   "fix": "Tôi thấy một con gà đồng kiếm ăn trong ruộng lúa. = I saw a watercock feeding in a rice field."
+  }
+ ]
+}

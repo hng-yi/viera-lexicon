@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "lan truyền",
+  "đài phát thanh",
+  "kiến nghị",
+  "trinh",
+  "ngất xỉu",
+  "hậu duệ",
+  "phát huy",
+  "hiển thị",
+  "nốc",
+  "đăng quang",
+  "diễn đạt",
+  "rặn",
+  "diễn biến",
+  "thức tỉnh",
+  "chư",
+  "chảo",
+  "lăng mạ",
+  "ngòi nổ",
+  "xếp hạng",
+  "rầy",
+  "nuôi nấng",
+  "hẻo lánh",
+  "trình báo",
+  "thạch",
+  "ngần ngại",
+  "than vãn",
+  "thống lĩnh",
+  "nước ngọt",
+  "thứ thiệt",
+  "quạt",
+  "muỗng",
+  "điều động",
+  "ban công",
+  "ứng biến",
+  "năm học",
+  "chiến xa",
+  "phản ánh",
+  "ngõ cụt",
+  "chọc giận",
+  "trào"
+ ],
+ "flags": [
+  {
+   "headword": "kiến nghị",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal verb for making recommendations or petitions, rather than an ordinary conversational verb for proposing something.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "kiến nghị",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun belongs to formal or administrative language and needs a register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "hậu duệ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal or literary word for a descendant and is misleading as unmarked everyday vocabulary.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "chiến xa",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a war chariot instead of showing the word in use.",
+   "fix": "Những chiến xa tiến về phía thành. = The war chariots advanced toward the citadel."
+  }
+ ]
+}

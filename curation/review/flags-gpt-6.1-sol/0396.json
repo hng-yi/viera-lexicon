@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "Mô-na-cô",
+  "Môn-đa-vi",
+  "Môn-đô-va",
+  "Mĩ hoá",
+  "Mĩ kim",
+  "Mặc gia",
+  "Mặc giáo",
+  "Mẹc-xe-đét",
+  "NDT",
+  "Nam Kì",
+  "Nam mô A Di Đà Phật",
+  "Nam Âu",
+  "Nam Úc",
+  "Nga La Tư",
+  "Nghệ ngữ",
+  "Nguyễn Thị B",
+  "Nguyễn Văn A",
+  "Nho học",
+  "Nhật Bản học",
+  "Nhật Lùn",
+  "Nhật Nhĩ Man",
+  "Ni-giê-ri-a",
+  "Nê-an-đéc-tan",
+  "Nô-en",
+  "Nùng",
+  "Nụy Khấu",
+  "Pa-ki-xtan",
+  "Pa-le-xtin",
+  "Pha-ren-hét",
+  "Phi Luật Tân",
+  "Phi-li-tinh",
+  "Pháp ngữ",
+  "Pháp thuộc",
+  "Pháp-Hoa",
+  "Phù Lá",
+  "Phật Đà",
+  "Poóc-tô Ri-cô",
+  "Pu Péo",
+  "Pà Thẻn",
+  "Pô-dê-i-đông"
+ ],
+ "flags": [
+  {
+   "headword": "Mĩ kim",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The term remains in ordinary use among overseas Vietnamese, so an unqualified dated tag is misleading ([usage example](https://www.voatiengviet.com/a/nghien-cuu-khoa-hoc-250-ty-my-kim/5923825.html)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "Phi Luật Tân",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains an old country name instead of using it to refer to the country.",
+   "fix": "Ông ấy từng sống ở Phi Luật Tân. = He once lived in the Philippines."
+  }
+ ]
+}

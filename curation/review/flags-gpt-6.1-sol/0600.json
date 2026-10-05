@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tô mộc",
+  "tô nô",
+  "tô vẽ",
+  "tôi có một câu hỏi",
+  "tôi là người Việt",
+  "tôi suy nghĩ, vậy nên tôi tồn tại",
+  "tôi tư duy, nên tôi tồn tại",
+  "tôi tớ",
+  "tôm càng xanh",
+  "tôm sú",
+  "tôm tít",
+  "tôn giáo học",
+  "tôn hiệu",
+  "tôn sợ",
+  "tôn ti trật tự",
+  "tông giáo",
+  "tông hiến",
+  "tông huấn",
+  "tông miếu",
+  "tông sắc",
+  "tông thư",
+  "tông-đơ",
+  "tù mù",
+  "tù nhân lương tâm",
+  "tùm lum tà la",
+  "tùng cúc",
+  "tùng cúc trúc mai",
+  "tùng xẻo",
+  "tùy bút",
+  "tùy theo",
+  "tùy thời",
+  "tú lơ khơ",
+  "túc cầu",
+  "túc nho",
+  "túc trái tiền oan",
+  "túc từ",
+  "túi bóng",
+  "túi ngủ",
+  "túi ngực",
+  "túi nôn"
+ ],
+ "flags": [
+  {
+   "headword": "tôn hiệu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tôn hiệu is a conferred honorific title, rather than a regnal name ([source](https://vnexpress.net/phan-biet-ten-vua-viet-nam-nhu-the-nao-3797852.html)).",
+   "fix": "honorific title of a monarch"
+  },
+  {
+   "headword": "tù nhân lương tâm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Tổ chức này kêu gọi trả tự do cho các tù nhân lương tâm. = This organization calls for the release of prisoners of conscience."
+  },
+  {
+   "headword": "tùm lum tà la",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern usage and needs a regional label ([source](https://nghengu.vn/chuyen-nguoi-nghe-ke/tu-dien-tieng-mien-nam-2032.html)).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "tú lơ khơ",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Tú lơ khơ remains an everyday Northern term for playing cards, so dated misleadingly suggests it has fallen out of use.",
+   "fix": "[Northern]"
+  }
+ ]
+}

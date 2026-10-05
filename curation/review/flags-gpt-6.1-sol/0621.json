@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "xách tay",
+  "xán lạn",
+  "xáo động",
+  "xáp",
+  "xáp lá cà",
+  "xát muối vào vết thương",
+  "xáy",
+  "xâm đoạt",
+  "xây đắp",
+  "xã giao",
+  "xã hội hoá",
+  "xã hội hóa",
+  "xã tắc",
+  "xã đoàn",
+  "xèo",
+  "xé xác",
+  "xén tóc",
+  "xéo xắt",
+  "xét lại",
+  "xét nét",
+  "xê-ri",
+  "xê-tôn",
+  "xêm xêm",
+  "xênh xang",
+  "xì dách",
+  "xì trây",
+  "xì xụp",
+  "xì-căng-đan",
+  "xì-gà",
+  "xì-tin",
+  "xì-trét",
+  "xí ngầu",
+  "xí quách",
+  "xí xoá",
+  "xí xớn",
+  "xích kinh",
+  "xích lô",
+  "xích vĩ",
+  "xíu mại",
+  "xóa bỏ"
+ ],
+ "flags": [
+  {
+   "headword": "xáp lá cà",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The sexual use also applies to established couples, so defining it as casual sex wrongly restricts its meaning ([usage example](https://www.phunuonline.com.vn/tu-dung-mat-hung-ngang-hong-a1573034.html)).",
+   "fix": "to have sex"
+  },
+  {
+   "headword": "xênh xang",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The clothing sense is the usual modern meaning and should precede the swaggering sense ([dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-x%C3%AAnh%20xang)).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "xí ngầu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This word for dice is used mainly in Southern Vietnamese and needs a regional label ([regional usage](https://en.wikipedia.org/wiki/Vietnamese_language)).",
+   "fix": "Add the Southern tag."
+  }
+ ]
+}

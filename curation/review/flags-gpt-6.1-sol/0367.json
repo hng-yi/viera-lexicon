@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "trong trẻo",
+  "hải sư",
+  "rưới",
+  "bít tết",
+  "địa cực",
+  "quần bò",
+  "hên xui",
+  "bánh canh",
+  "ôm đồm",
+  "chụp hình",
+  "nghĩa đệ",
+  "bãi cỏ",
+  "thiện nguyện",
+  "bồ nông",
+  "chống chế",
+  "ghế bành",
+  "sư bá",
+  "vắng lặng",
+  "chua lè",
+  "binh biến",
+  "tổng lãnh thiên thần",
+  "tiểu vùng",
+  "tụ hội",
+  "bí đỏ",
+  "khét lẹt",
+  "sạt nghiệp",
+  "tiết hạnh",
+  "núc",
+  "lật mặt",
+  "sùm sụp",
+  "nức",
+  "quấn quýt",
+  "gia thanh",
+  "chinh phụ",
+  "lăng quăng",
+  "Hẹ",
+  "hẹ",
+  "quàn",
+  "vô ý thức",
+  "cự thạch"
+ ],
+ "flags": [
+  {
+   "headword": "bánh canh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The ingredient restriction excludes bánh canh made entirely from rice flour, a common variety ([reference](https://www.banhcanhbotgao.com/tu-lam-banh-canh-bot-gao-ngon-chat-luong-tai-nha-cho-mua-dich.html)).",
+   "fix": "thick noodle soup (with noodles made from rice flour, tapioca flour, or a mixture)"
+  },
+  {
+   "headword": "bánh canh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Bánh canh noodles can also be made entirely from rice flour ([reference](https://www.banhcanhbotgao.com/tu-lam-banh-canh-bot-gao-ngon-chat-luong-tai-nha-cho-mua-dich.html)).",
+   "fix": "thick noodle made from rice flour, tapioca flour, or a mixture"
+  },
+  {
+   "headword": "chống chế",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chống chế means to make excuses or offer a defensive explanation, not to fend off a physical condition ([dictionary](https://vi.wiktionary.org/wiki/ch%E1%BB%91ng_ch%E1%BA%BF)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "tụ hội",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tụ hội has a literary register that the untagged entry conceals ([dictionary](https://loigiaihay.com/tu-dien-tv/tu-hoi-eQsRQEMp7xhvQ.html)).",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "núc",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example confuses núc, meaning to entwine or squeeze tightly, with rúc, used for burying one's head against someone ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%C3%BAc)).",
+   "fix": "Con trăn núc chặt con mồi. = The python coils tightly around its prey."
+  }
+ ]
+}

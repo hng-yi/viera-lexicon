@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "hoà tấu",
+  "hoà vốn",
+  "hoà đồng",
+  "hoàn bị",
+  "hoàng lan",
+  "hoàng oanh",
+  "hoàng thiên",
+  "hoàng đản",
+  "hoành phi",
+  "hoành độ",
+  "hoá",
+  "hoá chất",
+  "hoá công",
+  "hoá dầu",
+  "hoá dục",
+  "hoá học",
+  "hoá học hữu cơ",
+  "hoá học vô cơ",
+  "hoá học vật lí",
+  "hoá hợp",
+  "hoá năng",
+  "hoá ra",
+  "hoá sinh",
+  "hoá sinh học",
+  "hoá thân",
+  "hoá thạch",
+  "hoá trang",
+  "hoá trị",
+  "hoá tệ học",
+  "hoá đơn",
+  "hoá độ",
+  "hoán dụ",
+  "hoán tỉnh",
+  "hoáy",
+  "hoè",
+  "hoóc môn",
+  "hoạ",
+  "hoạ báo",
+  "hoạ may",
+  "hoạ nô"
+ ],
+ "flags": [
+  {
+   "headword": "hoá",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common short form meaning chemistry, especially the school subject, is missing ([dictionary](https://vi.wiktionary.org/wiki/h%C3%B3a)).",
+   "fix": "noun | chemistry (short for hoá học); ex: Em học giỏi môn hoá. = I am good at chemistry."
+  },
+  {
+   "headword": "hoá thân",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Hoá thân cho sự xảo quyệt is not a natural Vietnamese construction for personifying cunning.",
+   "fix": "Trong truyện, con cáo là hoá thân của sự xảo quyệt. = In the story, the fox is the embodiment of cunning."
+  },
+  {
+   "headword": "hoá thân",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines hoá thân instead of using it in context.",
+   "fix": "Bức tượng này mô tả hoá thân của Đức Phật. = This statue depicts the Buddha's Nirmanakaya."
+  },
+  {
+   "headword": "hoá trang",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The disguise sense remains current, including in contemporary [police usage](https://congan.camau.gov.vn/ch40/5350.prt).",
+   "fix": "Remove archaic; tags: []."
+  },
+  {
+   "headword": "hoạ",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This conditional or unlikely-chance use is still current, as in hoạ có trời hiểu, and is not archaic ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%E1%BB%8Da)).",
+   "fix": "Remove archaic; tags: []."
+  }
+ ]
+}

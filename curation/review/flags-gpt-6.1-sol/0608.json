@@ -1,0 +1,158 @@
+{
+ "headwords": [
+  "tự sự",
+  "tự thân vận động",
+  "tự tung tự tác",
+  "tự tại",
+  "tự viện",
+  "tự điền",
+  "tự động hoá",
+  "tự động từ",
+  "tựa hồ",
+  "tựu trung",
+  "u du",
+  "u là trời",
+  "u minh",
+  "u ẩn",
+  "ui da",
+  "unbibi",
+  "unbihexi",
+  "unbinili",
+  "unbipenti",
+  "unbiquadi",
+  "unbitri",
+  "unbiuni",
+  "ung thư cổ tử cung",
+  "ung thư gan",
+  "ununenni",
+  "urani",
+  "uyên áo",
+  "uyển ngữ",
+  "uôn",
+  "uý",
+  "uý lạo",
+  "uýt-ki",
+  "uống nước nhớ nguồn",
+  "uỷ",
+  "uỷ ban",
+  "uỷ ban nhân dân",
+  "uỷ mị",
+  "uỷ nhiệm",
+  "uỷ nhiệm chi",
+  "uỷ viên"
+ ],
+ "flags": [
+  {
+   "headword": "tựu trung",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tựu trung introduces a summary meaning 'in sum' or 'overall', rather than functioning as the verb 'to boil down to' ([reference](https://giaophanphucuong.org/bai-viet/tieng-viet-online/moi-tuan-mot-tu-ngu-bai-4-tuu-chung-hay-tuu-trung)).",
+   "fix": "adv | in sum; overall"
+  },
+  {
+   "headword": "tựu trung",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use belongs mainly to formal speech and writing and needs a register warning ([reference](https://vdict.com/t%E1%BB%B1u%20trung%2C3%2C0%2C0.html)).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "tựu trung",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The older sense means 'among them' or 'within that group', rather than the verb 'to include' ([reference](https://luom.tv/2024/01/20/tuu-trung-khong-phai-tuu-chung/)).",
+   "fix": "adv [literary] | among them; within that group"
+  },
+  {
+   "headword": "u du",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the plant instead of using its name in context.",
+   "fix": "U du mọc đầy bên bờ mương. = Sedge grows all along the ditch."
+  },
+  {
+   "headword": "unbibi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Các nhà nghiên cứu đang tìm cách tổng hợp unbibi. = Researchers are trying to synthesize unbibium."
+  },
+  {
+   "headword": "unbihexi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Bài báo trình bày những dự đoán về tính chất của unbihexi. = The article presents predictions about the properties of unbihexium."
+  },
+  {
+   "headword": "unbinili",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Các nhà nghiên cứu đang tìm cách tổng hợp unbinili. = Researchers are trying to synthesize unbinilium."
+  },
+  {
+   "headword": "unbipenti",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Bài báo trình bày những dự đoán về tính chất của unbipenti. = The article presents predictions about the properties of unbinpentium."
+  },
+  {
+   "headword": "unbiquadi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Bài báo trình bày những dự đoán về tính chất của unbiquadi. = The article presents predictions about the properties of unbiquadium."
+  },
+  {
+   "headword": "unbitri",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Bài báo trình bày những dự đoán về tính chất của unbitri. = The article presents predictions about the properties of unbitrium."
+  },
+  {
+   "headword": "unbiuni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the element instead of using its name in context.",
+   "fix": "Các nhà nghiên cứu đang tìm cách tổng hợp unbiuni. = Researchers are trying to synthesize unbiunium."
+  },
+  {
+   "headword": "ununenni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the element's temporary name instead of using it in context.",
+   "fix": "Các nhà nghiên cứu đang tìm cách tổng hợp ununenni. = Researchers are trying to synthesize ununennium."
+  },
+  {
+   "headword": "urani",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines uranium instead of using the word in context.",
+   "fix": "Mỏ này có trữ lượng urani lớn. = This mine has large uranium reserves."
+  },
+  {
+   "headword": "uỷ ban",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday Vietnamese also uses uỷ ban as shorthand for the local people's committee or its offices ([reference](https://vi.wiktionary.org/wiki/%E1%BB%A7y_ban)).",
+   "fix": "noun | local people's committee; its offices; ex: Tôi đến uỷ ban phường để làm giấy tờ. = I went to the ward people's committee offices to handle some paperwork."
+  }
+ ]
+}

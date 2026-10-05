@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "tầng",
+  "bố mẹ",
+  "Viên",
+  "viên",
+  "ờ",
+  "cạnh",
+  "vùng",
+  "ê",
+  "đổi",
+  "tắt",
+  "tập trung",
+  "quanh",
+  "muộn",
+  "đặc vụ",
+  "mừng",
+  "quân đội",
+  "đỏ",
+  "giao",
+  "thiếu",
+  "bốn",
+  "nợ",
+  "nỗi",
+  "bệnh viện",
+  "trách nhiệm",
+  "chụp",
+  "sai lầm",
+  "tỉnh",
+  "sâu",
+  "biết điều",
+  "dù sao",
+  "bánh",
+  "ném",
+  "hỏng",
+  "chặt",
+  "giường",
+  "thú vị",
+  "đổ",
+  "chim",
+  "tập",
+  "trưởng"
+ ],
+ "flags": [
+  {
+   "headword": "Viên",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Viên names Vienna but does not mean a Viennese person or the adjective Viennese.",
+   "fix": "Vienna"
+  },
+  {
+   "headword": "ờ",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ờ does not mean no; in this example, không supplies the negation and ờ is a hesitation ([dictionary](https://vdict.com/ờ,3,0,0.html)).",
+   "fix": "Remove sense 3; its example belongs under sense 2."
+  },
+  {
+   "headword": "giao",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Giao bóng means to serve the ball into play, rather than pass it to a teammate ([physical education textbook](https://ydmekong.edu.vn/public/upload/files/Library/Giao%20duc%20the%20chat_TC.pdf)).",
+   "fix": "to serve (a ball)"
+  },
+  {
+   "headword": "giao",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses giao bóng for an ordinary football pass.",
+   "fix": "Cô ấy giao bóng rất mạnh. = She serves the ball very powerfully."
+  },
+  {
+   "headword": "hỏng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common everyday meaning of food having gone bad.",
+   "fix": "adj | spoiled; gone bad (of food). Ex: Thức ăn này hỏng rồi. = This food has gone bad."
+  },
+  {
+   "headword": "tập",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Tập meaning an exercise book is chiefly Southern usage and needs a regional warning ([dictionary](https://vi.wiktionary.org/wiki/tập)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "tập",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tập denotes a bundle of paper without specifying the fixed quantity implied by ream ([dictionary](https://vi.wiktionary.org/wiki/tập)).",
+   "fix": "bundle; stack (of paper)"
+  },
+  {
+   "headword": "tập",
+   "sense": 6,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Năm tập giấy specifies five bundles of paper, not necessarily five reams.",
+   "fix": "The office has just bought five bundles of A4 paper."
+  },
+  {
+   "headword": "tập",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tập means an instalment and does not itself mean prequel or sequel.",
+   "fix": "instalment (of a film or series)"
+  }
+ ]
+}

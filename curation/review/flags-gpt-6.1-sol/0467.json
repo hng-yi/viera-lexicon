@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "gàu sòng",
+  "gác bút",
+  "gác-măng-giê",
+  "gác-đờ-bu",
+  "gác-đờ-sen",
+  "gái bao",
+  "gái bán hoa",
+  "gái già",
+  "gái gọi",
+  "gái mại dâm",
+  "gái nhảy",
+  "gái đứng đường",
+  "gán cho",
+  "gánh nặng",
+  "gây quỹ",
+  "gãy gọn",
+  "gét gô",
+  "gìn",
+  "góc bù nhau",
+  "góc bẹt",
+  "góc kề nhau",
+  "góc nhìn",
+  "góc nhọn",
+  "góc phương vị",
+  "góc phụ nhau",
+  "góc tù",
+  "góc vuông",
+  "góc đối đỉnh",
+  "góp tay",
+  "gót chân",
+  "gót chân A-sin",
+  "gô cổ",
+  "gôm xịt tóc",
+  "gùi",
+  "gùn",
+  "gút mắc",
+  "găm bi",
+  "gương chiếu hậu",
+  "gương vỡ lại lành",
+  "gượng gạo"
+ ],
+ "flags": [
+  {
+   "headword": "gác-đờ-sen",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a chainguard does instead of showing the word in use.",
+   "fix": "Cái gác-đờ-sen của xe tôi bị lỏng rồi. = My bicycle's chainguard has come loose."
+  },
+  {
+   "headword": "gái đứng đường",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression is derogatory, so the euphemistic tag alone does not warn learners adequately.",
+   "fix": "tags: [euphemistic, idiomatic, derogatory]"
+  },
+  {
+   "headword": "góc bù nhau",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines supplementary angles instead of using the term in context.",
+   "fix": "Em hãy tìm hai góc bù nhau trong hình này. = Find two supplementary angles in this diagram."
+  },
+  {
+   "headword": "góc bẹt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a straight angle instead of using the term in context.",
+   "fix": "Em hãy vẽ một góc bẹt vào vở. = Draw a straight angle in your notebook."
+  },
+  {
+   "headword": "góc nhọn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the defining property of an acute angle instead of using the term in context.",
+   "fix": "Tam giác này có ba góc nhọn. = This triangle has three acute angles."
+  },
+  {
+   "headword": "góc phụ nhau",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines complementary angles instead of using the term in context.",
+   "fix": "Em hãy tìm hai góc phụ nhau trong hình này. = Find two complementary angles in this diagram."
+  },
+  {
+   "headword": "góc tù",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an obtuse angle instead of using the term in context.",
+   "fix": "Em hãy dùng thước đo góc để đo góc tù này. = Use a protractor to measure this obtuse angle."
+  }
+ ]
+}

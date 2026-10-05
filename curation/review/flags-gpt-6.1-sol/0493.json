@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "kính chắn gió",
+  "kính coong",
+  "kính cáo",
+  "kính gửi",
+  "kính lão đắc thọ",
+  "kính mắt",
+  "kính nhi viễn chi",
+  "kính nhường",
+  "kính quý",
+  "kính vạn hoa",
+  "kính áp tròng",
+  "kính đeo mắt",
+  "ký nhi viện",
+  "kăng-gu-ru",
+  "kĩ nghệ",
+  "kĩ thuật cơ khí",
+  "kĩ thuật phần mềm",
+  "kĩ thuật số",
+  "kĩ thuật điện",
+  "kĩ trị",
+  "kĩ xảo",
+  "kĩu kịt",
+  "kơ nia",
+  "kẹo bông gòn",
+  "kẹo bơ cứng",
+  "kẹo cu đơ",
+  "kẹo dừa",
+  "kẹo sô-cô-la",
+  "kẹo đồng",
+  "kẹp giấy",
+  "kẹt xe",
+  "kẻ chợ",
+  "kẻ cả",
+  "kẻ hầu người hạ",
+  "kẻ sĩ",
+  "kẻ đắp chăn bông kẻ lạnh lùng",
+  "kẻng tam giác",
+  "kẽ hở",
+  "kẽo cà kẽo kẹt",
+  "kẽo kẹt"
+ ],
+ "flags": [
+  {
+   "headword": "kính cáo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kính cáo means to announce respectfully, rather than simply respectfully, as documented in the [Cao Đài dictionary](https://www.banthedaohaingoai.org/uploadfiles/CaoDaiTuDien%28v2012%29%20Q2.pdf).",
+   "fix": "to respectfully announce (also used as a closing formula in a notice)"
+  },
+  {
+   "headword": "kính gửi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal written salutation and needs a formal register tag.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "kĩ trị",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Nhiều người means many people, whereas the translation says some people.",
+   "fix": "Many people believe that technocracy helps govern a country more efficiently."
+  },
+  {
+   "headword": "kĩ xảo",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kĩ xảo is a noun meaning skill or technique, not an adjective meaning highly skilful.",
+   "fix": "Remove sense 2; retain the noun meaning in sense 3."
+  },
+  {
+   "headword": "kẻ chợ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical name instead of using it to refer to a place.",
+   "fix": "Ngày ấy, ông lên Kẻ Chợ buôn bán. = In those days, he went to the capital to trade."
+  },
+  {
+   "headword": "kẻ cả",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The neutral meaning referring to a person of high standing belongs to older usage, as noted by [VDict](https://vdict.com/k%E1%BA%BB%20c%E1%BA%A3%2C3%2C0%2C0.html).",
+   "fix": "Add dated."
+  }
+ ]
+}

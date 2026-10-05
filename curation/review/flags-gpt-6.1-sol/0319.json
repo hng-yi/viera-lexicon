@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "giẫm đạp",
+  "vứt bỏ",
+  "bộ hạ",
+  "phụ gia",
+  "thấm thía",
+  "đìa",
+  "nướu",
+  "lôgic",
+  "truyền đạo",
+  "phả hệ",
+  "bàu",
+  "tinh thành",
+  "dặt",
+  "quy tụ",
+  "khóm",
+  "thấu cảm",
+  "bao bì",
+  "thụ tạo",
+  "thu dung",
+  "núi rừng",
+  "trảng",
+  "làm thân",
+  "rặt",
+  "mọi vật",
+  "răn đe",
+  "huơ",
+  "cạn chén",
+  "rắp tâm",
+  "quang hợp",
+  "hít thở",
+  "xảo ngôn",
+  "ảm",
+  "đại trượng phu",
+  "bưng bít",
+  "đinh vít",
+  "làm cỏ",
+  "thăng hoa",
+  "đá quý",
+  "biến thiên",
+  "hoạt cảnh"
+ ],
+ "flags": [
+  {
+   "headword": "lôgic",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjective meaning 'logical' is missing ([dictionary](https://dictionary.zim.vn/viet-anh/logic-tieng-anh-la-gi-1)).",
+   "fix": "adj | logical; ex: Lập luận của anh ấy rất lôgic. = His reasoning is very logical."
+  },
+  {
+   "headword": "biến thiên",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use belongs to formal or technical language, so leaving it untagged suggests it is ordinary casual wording.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "biến thiên",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun belongs to formal or technical language and needs a register label.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

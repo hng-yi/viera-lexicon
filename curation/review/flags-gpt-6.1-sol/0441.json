@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "cân thăng bằng",
+  "câng",
+  "câu chấp",
+  "câu cú",
+  "câu cấu",
+  "câu cửa miệng",
+  "câu giờ",
+  "câu lưu",
+  "câu nói",
+  "câu rút",
+  "câu thúc",
+  "câu vui",
+  "cây Nô-el",
+  "cây Nô-en",
+  "cây gỗ",
+  "cây mắc cỡ",
+  "cây nhiệt đới",
+  "cây nước",
+  "cây trinh nữ",
+  "cây xấu hổ",
+  "cây-lô-mét",
+  "cãi chày cãi cối",
+  "cò cò",
+  "cò mỏ giày",
+  "còn lại",
+  "còn nguyên",
+  "còn nước còn tát",
+  "có ... không thì bảo",
+  "có bầu",
+  "có bệnh thì vái tứ phương",
+  "có chửa",
+  "có cánh",
+  "có công",
+  "có công mài sắt có ngày nên kim",
+  "có gì đâu",
+  "có hại",
+  "có là",
+  "có lợi",
+  "có thửa",
+  "có vú"
+ ],
+ "flags": [
+  {
+   "headword": "cây nước",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example describes water coming out of a spout, not a waterspout occurring over a body of water.",
+   "fix": "Ngư dân nhìn thấy một cây nước ngoài khơi. = The fishermen saw a waterspout offshore."
+  },
+  {
+   "headword": "cò mỏ giày",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bird instead of showing the word in use.",
+   "fix": "Chúng tôi thấy một con cò mỏ giày đứng bên bờ hồ. = We saw a shoebill standing beside the lake."
+  }
+ ]
+}

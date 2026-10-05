@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tinh trùng",
+  "khối lượng",
+  "rữa",
+  "bào",
+  "tung tích",
+  "tà",
+  "trung ương",
+  "nhớt",
+  "thần tượng",
+  "nấc",
+  "hôi hám",
+  "tích tắc",
+  "huề",
+  "ca tụng",
+  "đại thụ",
+  "tiến độ",
+  "bất khả chiến bại",
+  "gánh chịu",
+  "cốt",
+  "nhất quyết",
+  "thời sự",
+  "bựa",
+  "chối cãi",
+  "ứng cử",
+  "nặc danh",
+  "sơ suất",
+  "kiêm",
+  "mươi",
+  "tiêu thụ",
+  "san",
+  "mê tín",
+  "thẳm",
+  "nghỉ hè",
+  "khả quan",
+  "xương sống",
+  "hứa hôn",
+  "tiền vệ",
+  "lòi",
+  "tính chuyện",
+  "lâu đời"
+ ],
+ "flags": [
+  {
+   "headword": "mươi",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Mươi” does not mean frost; its meanings concern tens and approximately ten ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-m%C6%B0%C6%A1i)).",
+   "fix": "Delete sense 3."
+  },
+  {
+   "headword": "nấc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use meaning to sob, as in “khóc nấc lên,” is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%E1%BA%A5c)).",
+   "fix": "Add: verb | to sob; to gasp while crying."
+  },
+  {
+   "headword": "cốt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common purpose use in expressions such as “cốt để giúp nhau” is not covered by the noun meanings ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BB%91t)).",
+   "fix": "Add: mainly to; with the main aim of — Tôi đến đây cốt để gặp anh. = I came here mainly to see you."
+  },
+  {
+   "headword": "san",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "In a match, the trailing team levels the score, so attributing that action jointly to both teams is misleading.",
+   "fix": "Đội khách san bằng tỉ số ở phút cuối. = The visiting team levelled the score in the last minute."
+  }
+ ]
+}

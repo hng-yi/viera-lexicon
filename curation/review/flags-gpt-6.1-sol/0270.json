@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tư lợi",
+  "na ná",
+  "điều tiết",
+  "rụt",
+  "lần mò",
+  "chen lấn",
+  "rách nát",
+  "tung hô",
+  "lính canh",
+  "thở phào",
+  "hoan lạc",
+  "phúc thẩm",
+  "cổ sinh vật học",
+  "mãng xà",
+  "ăn vặt",
+  "xắt",
+  "đụ má",
+  "quần vợt",
+  "áp chế",
+  "gia quyến",
+  "quy cách",
+  "điêu luyện",
+  "thi triển",
+  "hùm",
+  "cội",
+  "hòa tan",
+  "chia xẻ",
+  "công đoạn",
+  "tung hứng",
+  "áy",
+  "mặt đường",
+  "truất",
+  "đầm lầy",
+  "ăn cỏ",
+  "đương nhiệm",
+  "hậu đậu",
+  "phượt",
+  "nhũn",
+  "canh tác",
+  "xông pha"
+ ],
+ "flags": [
+  {
+   "headword": "quần vợt",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Quần vợt is a standard name for tennis that can be used in ordinary conversation, so the formal tag is misleading.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "thi triển",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thi triển has a literary register, especially associated with descriptions of martial arts or extraordinary abilities, rather than neutral everyday speech.",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "hùm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Hùm is a general literary word for tiger rather than a specifically Central regional word ([dictionary entry](https://vdict.com/h%C3%B9m,3,0,0.html)).",
+   "fix": "Remove Central; retain literary."
+  },
+  {
+   "headword": "tung hứng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common conversational and entertainment sense of exchanging remarks and playing off another speaker ([usage example](https://vov.vn/van-hoa-giai-tri/on-gioi-tap-7-day-doi-truong-giang-duc-phuc-lam-hoai-linh-than-phuc-718562.vov)).",
+   "fix": "Add: verb | to exchange witty remarks; to play off one another in conversation. Example: Hai MC tung hứng rất ăn ý. = The two hosts play off each other very well."
+  }
+ ]
+}

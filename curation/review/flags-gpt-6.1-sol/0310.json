@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "lấm lem",
+  "tái cử",
+  "âm điệu",
+  "cải xoăn",
+  "tổng bí thư",
+  "luống",
+  "trển",
+  "huỵch toẹt",
+  "đoan trang",
+  "dược liệu",
+  "min",
+  "răng cửa",
+  "Phật tử",
+  "nhây",
+  "khai tâm",
+  "ban thưởng",
+  "gớm ghiếc",
+  "vòm họng",
+  "cạch",
+  "thấu suốt",
+  "vô thanh",
+  "đề huề",
+  "linh kiện",
+  "ganh ghét",
+  "sai vặt",
+  "lời hứa",
+  "hà cớ",
+  "sụ",
+  "dằn mặt",
+  "thật tâm",
+  "dồn nén",
+  "tuyền",
+  "thết",
+  "sa thạch",
+  "vần vũ",
+  "giở chứng",
+  "chải chuốt",
+  "Quan thoại",
+  "ngoại tệ",
+  "ti hí"
+ ],
+ "flags": [
+  {
+   "headword": "tái cử",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tái cử describes being elected again, not the voter's action of re-electing someone.",
+   "fix": "to be re-elected"
+  },
+  {
+   "headword": "tổng bí thư",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Tổng bí thư phát biểu tại hội nghị. = The general secretary spoke at the conference."
+  },
+  {
+   "headword": "vòm họng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Vòm họng is the nasopharynx behind the nose, whereas the palate is the roof of the mouth ([anatomical reference](https://tamanhhospital.vn/co-the-nguoi/vom-hong/)).",
+   "fix": "nasopharynx (the upper part of the throat behind the nose)"
+  },
+  {
+   "headword": "vòm họng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation incorrectly replaces the child's nasopharynx with the palate.",
+   "fix": "The doctor saw that the child's nasopharynx was red and inflamed."
+  },
+  {
+   "headword": "tuyền",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar meaning of entirely one color, as in đen tuyền ([dictionary reference](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-tuy%E1%BB%81n)).",
+   "fix": "pure; uniformly one color — Con mèo có bộ lông đen tuyền. = The cat has jet-black fur."
+  },
+  {
+   "headword": "tuyền",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the expression hoàng tuyền instead of using it in context.",
+   "fix": "Nàng đã về chốn hoàng tuyền. = She has departed to the realm of the dead."
+  }
+ ]
+}

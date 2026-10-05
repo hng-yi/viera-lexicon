@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "phụ đề",
+  "kín",
+  "tình cảm",
+  "vô dụng",
+  "đẹp trai",
+  "xét nghiệm",
+  "danh dự",
+  "thay thế",
+  "giơ",
+  "bão",
+  "ý định",
+  "khởi động",
+  "hứng thú",
+  "bình",
+  "gấu",
+  "giới hạn",
+  "cúi",
+  "Nhật",
+  "tám",
+  "hạ cánh",
+  "tên lửa",
+  "thợ",
+  "tình",
+  "cứng",
+  "lượng",
+  "vô địch",
+  "bỏ rơi",
+  "con số",
+  "bốc",
+  "xưa",
+  "điều kiện",
+  "Phi",
+  "phi",
+  "cản",
+  "cốc",
+  "ăn cắp",
+  "điều hành",
+  "tâm thần",
+  "thử nghiệm",
+  "hôn nhân"
+ ],
+ "flags": [
+  {
+   "headword": "kín",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning 'full, with no space left' is missing, as in a room filled with people or a fully booked schedule ([dictionary](https://www.rung.vn/dict/vn_vn/K%C3%ADn)).",
+   "fix": "adj | full; completely occupied; fully booked. Ex: Lịch tuần này của tôi kín rồi. = My schedule is fully booked this week."
+  },
+  {
+   "headword": "tình cảm",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this example, tình cảm refers to goodwill or affection, not to the watch or money itself.",
+   "fix": "Remove this sense; the example belongs under affection or goodwill."
+  },
+  {
+   "headword": "bình",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bình means to comment on or critically discuss poetry; reciting is expressed by ngâm in the example.",
+   "fix": "to comment on; to critically discuss (poetry)"
+  },
+  {
+   "headword": "bốc",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bốc thuốc means preparing or dispensing herbal medicine according to a prescription, rather than making the prescription ([dictionary](https://www.rung.vn/dict/vn_vn/B%E1%BB%91c)).",
+   "fix": "to prepare; to dispense (traditional herbal medicine)"
+  },
+  {
+   "headword": "bốc",
+   "sense": 13,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is an enema vessel used to irrigate the bowel, not a container for cleaning butchered intestines ([dictionary](https://www.rung.vn/dict/vn_vn/B%E1%BB%91c)).",
+   "fix": "noun [rare] | enema vessel; enema irrigator"
+  },
+  {
+   "headword": "bốc",
+   "sense": 13,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly presents the enema vessel as equipment for washing pig offal.",
+   "fix": "Y tá chuẩn bị bốc để thụt rửa cho bệnh nhân. = The nurse prepared the enema irrigator for the patient."
+  },
+  {
+   "headword": "phi",
+   "sense": 8,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Vị hoàng tử ấy cùng vương phi dự buổi lễ. = The prince attended the ceremony with his consort."
+  },
+  {
+   "headword": "cốc",
+   "sense": 6,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains that cốc is an old plant name instead of using it to refer to the plant.",
+   "fix": "Ông chỉ cho tôi cây cốc bên đường. = He showed me the cốc plant beside the road."
+  }
+ ]
+}

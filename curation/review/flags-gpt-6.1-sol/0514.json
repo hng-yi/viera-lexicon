@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "mường",
+  "mượn cớ",
+  "mượn gió bẻ măng",
+  "mạ lị",
+  "mạch núi",
+  "mạch tích hợp",
+  "mại bản",
+  "mại vô",
+  "mạn hoạ",
+  "mạn họa",
+  "mạn ngược",
+  "mạn tính",
+  "mạn đà la",
+  "mạng lưới xã hội",
+  "mạng lệnh",
+  "mạng mẽo",
+  "mạng thần kinh",
+  "mạng xã hội",
+  "mạnh khoẻ",
+  "mạo từ",
+  "mạt cưa mướp đắng",
+  "mạt gà",
+  "mạt sát",
+  "mạt thế",
+  "mạt trà",
+  "mạy tèo",
+  "mả cha",
+  "mả mẹ",
+  "mảnh tước",
+  "mấn",
+  "mấp máy",
+  "mấp mé",
+  "mất bò mới lo làm chuồng",
+  "mất cả chì lẫn chài",
+  "mất hút con mẹ hàng lươn",
+  "mất mùa",
+  "mất nước",
+  "mất sổ gạo",
+  "mấy chốc",
+  "mấy hồi"
+ ],
+ "flags": [
+  {
+   "headword": "mại bản",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Mại bản means a comprador, not a financier, investor or stock trader generally ([dictionary](https://vi.wiktionary.org/wiki/m%E1%BA%A1i_b%E1%BA%A3n)).",
+   "fix": "Delete sense 3 and its example."
+  },
+  {
+   "headword": "mấn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The skirt meaning belongs to North Central dialects such as Nghệ An–Hà Tĩnh, rather than Northern Vietnamese ([regional explanation](https://nghengu.vn/tieng-nghe-cua-toi/tray-khu-man-la-gi-1115.html)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "mấn",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Mấn remains a current name for headwear worn with áo dài at weddings and festivals, so rare is misleading ([current usage](https://aodaiviett.vn/collections/phu-kien-ao-dai)).",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "mấn",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner today is more likely to encounter the áo dài headwear meaning than the regional skirt meaning ([current usage](https://aodaiviett.vn/collections/phu-kien-ao-dai)).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "mất cả chì lẫn chài",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The idiom means losing the invested capital without making a profit, rather than losing capital and gains already made ([idiom dictionary](https://nguyenvietkhoa.edu.vn/tu-dien-thanh-ngu-tuc-ngu/?dir=1&name_directory_startswith=M)).",
+   "fix": "He invested in that project and lost his entire investment."
+  }
+ ]
+}

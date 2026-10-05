@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "mày",
+  "Mẹ",
+  "mẹ",
+  "từ",
+  "hãy",
+  "tìm",
+  "nên",
+  "tốt",
+  "tớ",
+  "việc",
+  "nhiều",
+  "không thể",
+  "tao",
+  "quá",
+  "giờ",
+  "nhà",
+  "trên",
+  "tên",
+  "trước",
+  "bà",
+  "cháu",
+  "nhìn",
+  "vẫn",
+  "bọn",
+  "sau",
+  "khác",
+  "gặp",
+  "lắm",
+  "xem",
+  "tất cả",
+  "đưa",
+  "Ngài",
+  "ngài",
+  "ngay",
+  "bố",
+  "tin",
+  "mới",
+  "rằng",
+  "lấy",
+  "xin lỗi"
+ ],
+ "flags": [
+  {
+   "headword": "từ",
+   "sense": 6,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Ông ấy nghiên cứu những bài từ của Tô Đông Pha. = He studies Su Dongpo's ci poems."
+  },
+  {
+   "headword": "tên",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This classifier expresses contempt or hostility toward the person and needs a derogatory warning.",
+   "fix": "Add the tag derogatory."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bác ái",
+  "khuyến nghị",
+  "dổi",
+  "cọn",
+  "vĩ tuyến",
+  "sơn tặc",
+  "luận điệu",
+  "chong chóng",
+  "khôn lanh",
+  "sốt sắng",
+  "nhạc phụ",
+  "bẽn lẽn",
+  "nhân giống",
+  "ăn thịt",
+  "sản lượng",
+  "trơ trụi",
+  "kim khí",
+  "kè kè",
+  "trình duyệt",
+  "bình luận viên",
+  "đen thui",
+  "sáo rỗng",
+  "mầu",
+  "hồng vệ binh",
+  "vĩ mô",
+  "tầm bậy",
+  "bánh gạo",
+  "biểu đạt",
+  "cá tuyết",
+  "ý thức hệ",
+  "đẽo",
+  "ngờ ngợ",
+  "đản",
+  "thụ hưởng",
+  "hồ hởi",
+  "học đường",
+  "thư phòng",
+  "sà lan",
+  "vỡ lở",
+  "thịnh hành"
+ ],
+ "flags": [
+  {
+   "headword": "sáo rỗng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The meaning 'hollow' is an everyday use of sáo rỗng, so the rare tag is misleading.",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "sáo rỗng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Sáo rỗng does not mean 'comical'; it describes something clichéd and lacking substance.",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "mầu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Mầu is also a spelling variant of màu meaning 'colour', a common meaning missing from the entry.",
+   "fix": "Add a noun sense: colour (variant spelling of màu)."
+  }
+ ]
+}

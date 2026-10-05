@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "réo rắt",
+  "rét lộc",
+  "rét nàng Bân",
+  "rét đài",
+  "rên xiết",
+  "rì-mốt",
+  "rình rang",
+  "rích bố cu",
+  "ríp pê",
+  "ríu",
+  "ríu ra ríu rít",
+  "ròm",
+  "róc rách",
+  "rô-bi-nê",
+  "rô-ti",
+  "rù quến",
+  "rù rì",
+  "rùn",
+  "rùng",
+  "rú ga",
+  "rúm ró",
+  "rút cục",
+  "rút gọn",
+  "răng cấm",
+  "răng sữa",
+  "răng vĩnh viễn",
+  "rũ rượi",
+  "rũ xuống",
+  "rũa",
+  "rơ-moóc",
+  "rơi rớt",
+  "rơm rác",
+  "rơn",
+  "rơzơfođi",
+  "rưa rứa",
+  "rươi",
+  "rước lễ",
+  "rường",
+  "rường cột",
+  "rượi"
+ ],
+ "flags": [
+  {
+   "headword": "rét nàng Bân",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The cold snap occurs around the third lunar month, often its beginning, rather than specifically its end ([school textbook](https://schoolbird.vn/textbooks/Ngu%CC%9B%CC%83%20Va%CC%86n%207%20ta%CC%A3%CC%82p%202-CTST.pdf)).",
+   "fix": "late-spring cold snap around the third lunar month"
+  },
+  {
+   "headword": "rô-ti",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Vietnamese rô-ti also includes meat browned in a pan, so defining it exclusively as meat roasted whole in an oven or on a spit teaches a false restriction ([Vietnamese cookbook](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/2/506/UserFiles/Nhung-mon-an-mien-nam-duoc-ua-chuong-nguyen-thi-dieu-thao-5647fa18-9f84-4e3f-94c5-d98bd3ca75ac.pdf)).",
+   "fix": "meat prepared rô-ti style, by roasting or pan-browning"
+  },
+  {
+   "headword": "rù quến",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use is Southern Vietnamese and needs a regional label ([dictionary entry](https://vi.wiktionary.org/wiki/r%C3%B9_qu%E1%BA%BFn)).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "rù quến",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Southern regional label also applies to this use of rù quến ([dictionary entry](https://vi.wiktionary.org/wiki/r%C3%B9_qu%E1%BA%BFn)).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "rường cột",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This figurative expression has a formal, rhetorical register that the existing tag does not indicate ([dictionary entry](https://vdict.com/r%C6%B0%E1%BB%9Dng%20c%E1%BB%99t%2C3%2C0%2C0.html)).",
+   "fix": "[formal, figurative]"
+  }
+ ]
+}

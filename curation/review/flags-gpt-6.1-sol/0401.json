@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "ba bảy hai mốt ngày",
+  "ba chân bốn cẳng",
+  "ba chìm bảy nổi",
+  "ba chĩa",
+  "ba chỉ",
+  "ba con sói",
+  "ba cái",
+  "ba gai",
+  "ba hồn bảy vía",
+  "ba hồn chín vía",
+  "ba khía",
+  "ba kích",
+  "ba láp",
+  "ba lăm",
+  "ba mươi chưa phải là Tết",
+  "ba phải",
+  "ba que",
+  "ba que xỏ lá",
+  "ba quân",
+  "ba rem",
+  "ba rọi",
+  "ba toong",
+  "ba đường",
+  "ba-dan",
+  "ba-la-mật-đa",
+  "ba-rê",
+  "ba-đờ-xuy",
+  "ban bí thư",
+  "ban khen",
+  "ban trưa",
+  "bang giao",
+  "bang liên",
+  "bang đỏ",
+  "banh đũa",
+  "bao biếm",
+  "bao báp",
+  "bao chiếm",
+  "bao cấp",
+  "bao dương vật",
+  "bao hoa"
+ ],
+ "flags": [
+  {
+   "headword": "ba chìm bảy nổi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This idiom describes hardship and an unsettled life, rather than a literal count of sinking and floating ([dictionary](https://thuvien.vietnamthuquan.eu/TacPham/tu-dien-tieng-viet-1713/chuong-2)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "ba lăm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The everyday shortened numeral meaning 'thirty-five' is missing.",
+   "fix": "Add: numeral [colloquial] | thirty-five; ex: Cái này giá ba lăm nghìn. = This costs thirty-five thousand dong."
+  },
+  {
+   "headword": "ba lăm",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The sense is explicitly a rude insult but lacks a derogatory warning.",
+   "fix": "Tags: Southern, slang, derogatory."
+  },
+  {
+   "headword": "ba que",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what people called the soldiers instead of directly using the word to describe them.",
+   "fix": "Ông ấy từng là lính ba que. = He used to be a 'ba que' soldier."
+  },
+  {
+   "headword": "ban bí thư",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the institution instead of showing the term in use.",
+   "fix": "Ban Bí thư đã họp sáng nay. = The Secretariat met this morning."
+  },
+  {
+   "headword": "ban khen",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Ban khen' means to commend someone below one's rank, rather than a separate sense 'to congratulate' ([dictionary](https://tudientv.com/?t=ban+khen)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "banh đũa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "'Banh đũa' is mainly the Southern name for this game ([regional names](https://thuvientrochoi.com/dong-dao.html)).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "bao hoa",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the perianth instead of showing the term in use.",
+   "fix": "Cô ấy dùng kính lúp quan sát bao hoa. = She used a magnifying glass to examine the perianth."
+  }
+ ]
+}

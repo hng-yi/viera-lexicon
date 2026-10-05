@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "loạn li",
+  "loạn ngôn",
+  "loạn thị",
+  "loạng quạng",
+  "loắt choắt",
+  "lung ta lung tung",
+  "lutexi",
+  "luyện thi",
+  "luyện đan",
+  "luân lí học",
+  "luân lưu",
+  "luân thường đạo lí",
+  "luýt",
+  "luận chiến",
+  "luận chứng",
+  "luận cương",
+  "luận lí",
+  "luận lí học",
+  "luận đề",
+  "luật gia",
+  "luật học",
+  "luật quốc tế",
+  "luốc",
+  "luồn ống",
+  "luỵ",
+  "luỹ",
+  "luỹ tiến",
+  "là đà",
+  "làm bộ làm tịch",
+  "làm cao",
+  "làm cho",
+  "làm công ăn lương",
+  "làm cảm",
+  "làm duyên",
+  "làm dâu",
+  "làm dâu trăm họ",
+  "làm dấu",
+  "làm dầm",
+  "làm hư",
+  "làm lễ"
+ ],
+ "flags": [
+  {
+   "headword": "loạn li",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word has a literary register that the untagged entry does not indicate.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "loạng quạng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The word describes clumsy or unsteady movement, rather than dawdling ([dictionary](https://en.wiktionary.org/wiki/lo%E1%BA%A1ng_qu%E1%BA%A1ng)).",
+   "fix": "to move clumsily or unsteadily"
+  },
+  {
+   "headword": "luỵ",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In whale-worship usage, luỵ means to die, rather than to become beached ([heritage source](https://hoianheritage.danang.gov.vn/uploads/download/files/ban-tin-2-2020.pdf)).",
+   "fix": "to die (of a whale, in whale-worship traditions)"
+  },
+  {
+   "headword": "luỵ",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example refers to a whale dying at the shore, which 'was beached' does not convey ([heritage source](https://hoianheritage.danang.gov.vn/uploads/download/files/ban-tin-2-2020.pdf)).",
+   "fix": "A whale died at the shore, and the whole village held a funeral for it."
+  },
+  {
+   "headword": "luỹ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Quân giặc means enemy troops, whereas the translation reduces it to neutral 'soldiers'.",
+   "fix": "The enemy troops built a rampart to block their opponent's advance."
+  },
+  {
+   "headword": "luỹ tiến",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Luỹ tiến means progressively increasing and does not specify exponential growth ([dictionary](https://www.thuvienlamdong.org.vn/Files/Books/53119.pdf)).",
+   "fix": "progressive; increasing progressively"
+  },
+  {
+   "headword": "làm dâu trăm họ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The supposed literal sense is an invented meaning of an idiom about satisfying many people's demands ([idiom dictionary](https://huyenbi.net/Tu-dien-Thanh-ngu-Tuc-ngu-Viet-Nam/Y-nghia-cua-tu-Lam-dau-tram-ho-1733.html)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "tải lên",
+  "thứ nguyên",
+  "khuyên lơn",
+  "hùng cường",
+  "thiên ba",
+  "đơn ca",
+  "thơm ngát",
+  "bức bối",
+  "râu dê",
+  "bản ngã",
+  "năm mới",
+  "kiêng nể",
+  "sữa tắm",
+  "dẫn thân",
+  "rề",
+  "gôm",
+  "hạc quyền",
+  "lụt lội",
+  "công nông",
+  "lớn lên",
+  "oằn oại",
+  "công nghệ thông tin",
+  "thiểu não",
+  "dọi",
+  "chất trắng",
+  "xuân thu",
+  "mẫu tử",
+  "đại kị",
+  "rồ dại",
+  "uy nghiêm",
+  "kinh kì",
+  "nội tiết tố",
+  "ứ đọng",
+  "sớt",
+  "ngạt thở",
+  "giờ Dậu",
+  "dây giày",
+  "dân luật",
+  "ơn nghĩa",
+  "hữu tình"
+ ],
+ "flags": [
+  {
+   "headword": "thiên ba",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Máy thu bắt được tín hiệu thiên ba vào ban đêm. = The receiver picked up a sky-wave signal at night."
+  },
+  {
+   "headword": "gôm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common everyday meaning referring to a hair-styling product is missing ([dictionary](https://vdict.com/g%C3%B4m%2C3%2C0%2C0.html)).",
+   "fix": "noun | hair gel; hairspray (for holding hair in place)"
+  },
+  {
+   "headword": "hạc quyền",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the martial art instead of showing the term in use.",
+   "fix": "Anh ấy đã tập hạc quyền được ba năm. = He has practised crane-style kung fu for three years."
+  },
+  {
+   "headword": "công nông",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday vehicle meaning is missing ([source](https://vnn.vietnamnet.vn/kinhte/2004/03/53894/)).",
+   "fix": "noun | small tractor or improvised farm truck used to haul goods"
+  },
+  {
+   "headword": "thiểu não",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This literary word is untagged, suggesting it is neutral conversational vocabulary ([dictionary](https://loigiaihay.com/tu-dien-tv/thieu-nao-eeX8X7MvOJVTk.html)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "mẫu tử",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Mẫu tử means mother and child, whereas maternal love is tình mẫu tử ([source](https://giaophandalat.com/hien-mau-tu-mau.html)).",
+   "fix": "Remove sense 1 and retain sense 2, 'mother and child (together)'."
+  },
+  {
+   "headword": "sớt",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The Internet borrowing sớt means to search online, not to share a post ([dictionary](https://en.wiktionary.org/wiki/s%E1%BB%9Bt)).",
+   "fix": "verb [Internet, colloquial] | to search online; example: Bạn sớt trên Google thử xem. = Try searching on Google."
+  },
+  {
+   "headword": "giờ Dậu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the time interval instead of showing the expression in use.",
+   "fix": "Đoàn khách đến vào giờ Dậu. = The visitors arrived during the hour of the Rooster."
+  }
+ ]
+}

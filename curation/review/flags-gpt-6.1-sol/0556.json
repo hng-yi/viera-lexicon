@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "rếch",
+  "rều",
+  "rệ",
+  "rệ đường",
+  "rệu rạo",
+  "rỉa rói",
+  "rịn",
+  "rịt",
+  "rọc rọc",
+  "rọi bóng",
+  "rỏng",
+  "rốt lòng",
+  "rồng Komodo",
+  "rồng bay phụng múa",
+  "rồng rắn lên mây",
+  "rồng rồng",
+  "rồng đến nhà tôm",
+  "rỗng như đít Bụt",
+  "rộ",
+  "rộc",
+  "rộn rịp",
+  "rộng cẳng",
+  "rộng rinh",
+  "rộng thênh thang",
+  "rột",
+  "rớm",
+  "rờ rẫm",
+  "rờ rệt",
+  "rời khỏi",
+  "rờn",
+  "rỡ",
+  "rục rịch",
+  "rủ rỉ",
+  "rủ rỉ rù rì",
+  "rủn",
+  "rủn chí",
+  "rủng rỉnh",
+  "rứt ruột",
+  "rừng khộp",
+  "rừng ngập mặn"
+ ],
+ "flags": [
+  {
+   "headword": "rỉa rói",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Rỉa rói means to nag or make persistent cutting remarks, not to peck or nibble ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-r%E1%BB%89a%20r%C3%B3i)).",
+   "fix": "to nag; to make persistent cutting remarks"
+  },
+  {
+   "headword": "rỉa rói",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses rỉa rói for birds feeding rather than persistent verbal criticism ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-r%E1%BB%89a%20r%C3%B3i)).",
+   "fix": "Anh ấy cứ rỉa rói tôi suốt ngày. = He keeps making cutting remarks at me all day."
+  },
+  {
+   "headword": "rộ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In cười rộ, rộ describes laughter erupting collectively, rather than an adjective meaning noisy or loud ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-r%E1%BB%99)).",
+   "fix": "all together; in a collective burst (as in cười rộ, to burst out laughing together)"
+  }
+ ]
+}

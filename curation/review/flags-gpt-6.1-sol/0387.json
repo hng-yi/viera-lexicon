@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "propan",
+  "cơm nước",
+  "đích tôn",
+  "thung",
+  "bươi",
+  "thần khí",
+  "oxit",
+  "luân lí",
+  "sả",
+  "góc cạnh",
+  "thanh ngang",
+  "cặp táp",
+  "thiên thai",
+  "kì thủ",
+  "chả giò",
+  "thuê mướn",
+  "thoáng khí",
+  "lấp liếm",
+  "đạc",
+  "hình thang",
+  "ve sầu",
+  "chợ búa",
+  "cáp quang",
+  "hội kiến",
+  "Tây y",
+  "cặm cụi",
+  "ráy tai",
+  "hội ái hữu",
+  "phân ưu",
+  "ngậm ngùi",
+  "trở lên",
+  "bỏ mặc",
+  "chất đốt",
+  "bách phân",
+  "quýnh",
+  "đầu ruồi",
+  "liếm láp",
+  "xoi mói",
+  "vô đáy",
+  "bao xa"
+ ],
+ "flags": [
+  {
+   "headword": "bươi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use is characteristic of Central and Southern Vietnamese, but has no regional tag.",
+   "fix": "Add tags: Central, Southern."
+  },
+  {
+   "headword": "bươi",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use is characteristic of Central and Southern Vietnamese, but has no regional tag.",
+   "fix": "Add tags: Central, Southern."
+  },
+  {
+   "headword": "sả",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Sả hành” incorrectly teaches ordinary onion chopping, whereas this sense means cutting or chopping into large pieces ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-s%E1%BA%A3)).",
+   "fix": "Anh ấy sả thịt lợn thành từng mảng lớn. = He chopped the pork into large pieces."
+  },
+  {
+   "headword": "quýnh",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Quýnh” meaning to hit or beat is Southern usage and needs a regional tag.",
+   "fix": "Tags: colloquial, Southern."
+  }
+ ]
+}

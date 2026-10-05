@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "cầm tay",
+  "khinh nhờn",
+  "võ phục",
+  "nặng trịch",
+  "dung dưỡng",
+  "danh thủ",
+  "khoa học xã hội",
+  "ở không",
+  "khựng",
+  "hưng cảm",
+  "vỏn vẹn",
+  "cảm thán",
+  "bội thu",
+  "ông chủ",
+  "gấm vóc",
+  "rợp",
+  "báo quyền",
+  "ra rả",
+  "ngũ sắc",
+  "bạ",
+  "mô tê",
+  "nhược tiểu",
+  "uất",
+  "xiêu lòng",
+  "dư âm",
+  "địa y",
+  "phè",
+  "máu nóng",
+  "sòng bạc",
+  "vi lượng",
+  "đồ án",
+  "thực hư",
+  "tĩnh vật",
+  "chứng thư",
+  "giáo khu",
+  "mặc khải",
+  "dớp",
+  "bạc má",
+  "lu bu",
+  "quạu quọ"
+ ],
+ "flags": [
+  {
+   "headword": "cầm tay",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common verbal meaning of holding someone's hand is missing.",
+   "fix": "verb | to hold someone's hand; ex: Mẹ cầm tay con qua đường. = The mother holds her child's hand while crossing the road."
+  },
+  {
+   "headword": "báo quyền",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what leopard style is instead of showing the word in use.",
+   "fix": "Anh ấy đang tập báo quyền. = He is practising leopard-style kung fu."
+  },
+  {
+   "headword": "bạ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Bạ lấy is unnatural here because bạ expresses indiscriminate action rather than grabbing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%A1)).",
+   "fix": "Đừng bạ gì cũng bỏ vào miệng. = Don't put just anything into your mouth."
+  },
+  {
+   "headword": "nhược tiểu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nhược tiểu normally describes small, weak nations rather than a person's puny physique ([dictionary](https://vi.wiktionary.org/wiki/nh%C6%B0%E1%BB%A3c_ti%E1%BB%83u)).",
+   "fix": "small and weak (of a nation)"
+  },
+  {
+   "headword": "nhược tiểu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Using nhược tiểu to describe a boy's physical build is unnatural.",
+   "fix": "Các nước nhược tiểu dễ bị các cường quốc lấn át. = Small, weak nations are easily dominated by major powers."
+  },
+  {
+   "headword": "quạu quọ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Quạu quọ is mainly Southern usage and needs a regional tag ([source](https://baovannghe.vn/mot-cay-but-mo-duong-cho-the-loai-truyen-ngan-o-nam-bo-4954.html)).",
+   "fix": "tags: [Southern]"
+  }
+ ]
+}

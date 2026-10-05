@@ -1,0 +1,101 @@
+{
+ "headwords": [
+  "tôi",
+  "không",
+  "là",
+  "Anh",
+  "anh",
+  "có",
+  "của",
+  "đã",
+  "đi",
+  "sẽ",
+  "đó",
+  "được",
+  "gì",
+  "và",
+  "ta",
+  "một",
+  "phải",
+  "cô",
+  "rồi",
+  "này",
+  "Người",
+  "người",
+  "cho",
+  "đây",
+  "làm",
+  "ở",
+  "nó",
+  "em",
+  "biết",
+  "ông",
+  "con",
+  "cậu",
+  "với",
+  "nói",
+  "chúng ta",
+  "lại",
+  "để",
+  "ấy",
+  "ra",
+  "cái"
+ ],
+ "flags": [
+  {
+   "headword": "không",
+   "sense": 11,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example 'Việc dễ không' is not correct Vietnamese; native speakers would say 'Việc dễ như không' or 'Việc dễ ợt'.",
+   "fix": "Change example to 'Việc dễ như không mà cũng không làm được.'"
+  },
+  {
+   "headword": "của",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss 'wretched thing' describes the compound 'của nợ', not the word 'của' alone.",
+   "fix": "Remove this sense or change gloss to 'property (in compounds like của nợ)'"
+  },
+  {
+   "headword": "cô",
+   "sense": 11,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This describes the Sino-Vietnamese word 'cô' (孤) used in Chinese historical contexts, not the native Vietnamese pronoun 'cô'.",
+   "fix": "Remove this sense"
+  },
+  {
+   "headword": "cái",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "In the example 'cái mở nắp chai', 'cái' functions as a classifier, not a noun meaning 'thing for'.",
+   "fix": "Change gloss to 'classifier (before a verb, names a tool)'"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 13191,
+  "completion_tokens": 11305,
+  "total_tokens": 24496,
+  "cost": 0.01869152,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.01869152,
+   "upstream_inference_prompt_cost": 0.00422112,
+   "upstream_inference_completions_cost": 0.0144704
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 10987,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ }
+}

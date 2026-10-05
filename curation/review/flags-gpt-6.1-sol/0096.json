@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "ẩn náu",
+  "xéo",
+  "không tưởng",
+  "gia",
+  "bày",
+  "đột kích",
+  "khiêm tốn",
+  "gầy",
+  "ngần",
+  "băn khoăn",
+  "tập thể",
+  "chớp",
+  "giao kèo",
+  "kháng chiến",
+  "gây mê",
+  "lây",
+  "bè",
+  "cán",
+  "kinh dị",
+  "biểu tình",
+  "bổn phận",
+  "chen",
+  "hãnh diện",
+  "nghỉ việc",
+  "tay lái",
+  "tái tạo",
+  "cớ",
+  "cóng",
+  "con cháu",
+  "bẩm sinh",
+  "động mạch",
+  "đề cử",
+  "thuận",
+  "phát sóng",
+  "đồ lót",
+  "gai",
+  "cô giáo",
+  "nói năng",
+  "thương vong",
+  "tí hon"
+ ],
+ "flags": [
+  {
+   "headword": "ẩn náu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Ẩn náu describes hiding in a concealed refuge, so ordinary sheltering from rain under eaves does not illustrate this sense ([dictionary](https://v2.rung.vn/dict/vn_vn/%E1%BA%A8n_n%C3%A1u)).",
+   "fix": "Tên trộm ẩn náu trong một ngôi nhà bỏ hoang. = The thief hid out in an abandoned house."
+  },
+  {
+   "headword": "bày",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of showing someone how to do something, as in bày cách, is missing ([dictionary](https://vi.wiktionary.org/wiki/b%C3%A0y)).",
+   "fix": "verb | to show someone how; to instruct"
+  },
+  {
+   "headword": "bày",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday meaning of devising or initiating something, as in bày trò, is missing ([dictionary](https://vi.wiktionary.org/wiki/b%C3%A0y)).",
+   "fix": "verb | to devise; to come up with (a plan, trick or activity)"
+  },
+  {
+   "headword": "chớp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use in chớp lấy cơ hội means to seize an opportunity and is not covered by the listed meanings.",
+   "fix": "verb | to seize; to grab (an opportunity)"
+  },
+  {
+   "headword": "tay lái",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday expressions such as tay lái còn yếu refer to driving ability rather than the steering equipment.",
+   "fix": "noun | driving skill; ability to control a vehicle"
+  },
+  {
+   "headword": "thuận",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thuận means following the normal or specified direction, while clockwise comes from chiều kim đồng hồ and rightward is not inherent in thuận ([dictionary](https://vi.wiktionary.org/wiki/thu%E1%BA%ADn)).",
+   "fix": "following the normal or specified direction; in the same direction as"
+  },
+  {
+   "headword": "thuận",
+   "sense": 5,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The directional use illustrated by thuận chiều kim đồng hồ is ordinary current Vietnamese, so rare is misleading ([dictionary](https://vi.wiktionary.org/wiki/thu%E1%BA%ADn)).",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

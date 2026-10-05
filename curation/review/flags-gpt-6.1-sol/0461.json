@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "gia tiên",
+  "gia đình trị",
+  "giai cấp vô sản",
+  "giai phẩm",
+  "giai thừa",
+  "gian ngoan",
+  "giang cư mận",
+  "giang hồ mạng",
+  "giang sơn dễ đổi, bản tính khó dời",
+  "giao hoà",
+  "giao hàng",
+  "giao long",
+  "giao mùa",
+  "giao thông công cộng",
+  "giao tuyến",
+  "giao tử",
+  "gieo gió, gặt bão",
+  "gieo nhân nào gặt quả nấy",
+  "gieo sạ",
+  "gioăng",
+  "giun chỉ",
+  "giun dẹp",
+  "giun kim",
+  "giun lươn",
+  "giun đũa",
+  "giun đất",
+  "giun đốt",
+  "giuýp",
+  "giuống",
+  "già chơi trống bỏi",
+  "già cốc đế",
+  "già cỗi",
+  "già giặn",
+  "già khú",
+  "già lam",
+  "già đòn non lẽ",
+  "giàn giụa",
+  "giàu vì bạn, sang vì vợ",
+  "giày bata",
+  "giày cao gót"
+ ],
+ "flags": [
+  {
+   "headword": "giai cấp vô sản",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the proletariat instead of showing the term in use.",
+   "fix": "Ông ấy viết một cuốn sách về giai cấp vô sản. = He wrote a book about the proletariat."
+  },
+  {
+   "headword": "giao thông công cộng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Using bằng directly with giao thông công cộng is unnatural here because the sentence needs a means of transport.",
+   "fix": "Đi làm bằng phương tiện giao thông công cộng rẻ hơn lái xe. = Going to work by public transport is cheaper than driving."
+  },
+  {
+   "headword": "giao tuyến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what an intersection line is instead of showing the term in use.",
+   "fix": "Hãy tìm giao tuyến của hai mặt phẳng này. = Find the line of intersection of these two planes."
+  },
+  {
+   "headword": "giun chỉ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Giun chỉ includes several filarial worm species, so identifying it exclusively as Wuchereria bancrofti is incorrect ([Vinmec](https://www.vinmec.com/vie/benh/giun-chi-3144)).",
+   "fix": "filarial worm"
+  },
+  {
+   "headword": "già chơi trống bỏi",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression disparages older people for interests or behaviour deemed inappropriate for their age ([linguistic study](https://dulieu.itrithuc.vn/media/dataset/2020_08/4230-73-7930-1-10-20180316.pdf)).",
+   "fix": "[idiomatic, derogatory]"
+  },
+  {
+   "headword": "già chơi trống bỏi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "An old man literally playing a toy drum is a compositional description of the idiom's imagery, not a separate dictionary meaning.",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

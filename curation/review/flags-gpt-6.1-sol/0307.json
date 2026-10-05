@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "nhền nhện",
+  "trước nhất",
+  "nòng nọc",
+  "mù tạc",
+  "tiểu vương quốc",
+  "sư thúc",
+  "thơm phức",
+  "trui rèn",
+  "ấp úng",
+  "lộ tẩy",
+  "trầm tính",
+  "mếu",
+  "máu lạnh",
+  "mạnh giỏi",
+  "bứt phá",
+  "tỉnh bơ",
+  "cắt xén",
+  "biên cương",
+  "nghịch lí",
+  "máy may",
+  "mangan",
+  "tha thẩn",
+  "bùi",
+  "đằng đẵng",
+  "niềm nở",
+  "chí cốt",
+  "bóc mẽ",
+  "biếc",
+  "bặt",
+  "ghi sổ",
+  "đàm tiếu",
+  "vô tội vạ",
+  "nheo",
+  "tham số",
+  "so tài",
+  "è",
+  "mưu toan",
+  "vô phúc",
+  "rạng ngời",
+  "giải tích"
+ ],
+ "flags": [
+  {
+   "headword": "sư thúc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the kinship term instead of showing it in use.",
+   "fix": "Sư thúc đã dạy tôi bài quyền này. = My master's junior fellow disciple taught me this martial arts form."
+  },
+  {
+   "headword": "tha thẩn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tha thẩn is also used naturally in everyday speech, so the literary tag misleadingly restricts its register.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "đằng đẵng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Đằng đẵng is natural in everyday speech about time that feels very long, so the literary tag is misleading.",
+   "fix": "Remove the literary tag."
+  }
+ ]
+}

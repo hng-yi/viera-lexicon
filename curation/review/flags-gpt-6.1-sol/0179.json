@@ -1,0 +1,134 @@
+{
+ "headwords": [
+  "bê bối",
+  "lẩm bẩm",
+  "mưu đồ",
+  "phân phát",
+  "giao ước",
+  "quý mến",
+  "úi",
+  "gội",
+  "hình nộm",
+  "chuẩn mực",
+  "lung lay",
+  "bữa nay",
+  "che phủ",
+  "say đắm",
+  "mường tượng",
+  "ưu ái",
+  "sắc sảo",
+  "khuôn mẫu",
+  "thợ xây",
+  "gượm",
+  "dũng",
+  "tổng số",
+  "chuyển tiếp",
+  "AIDS",
+  "chạm khắc",
+  "guốc",
+  "điềm tĩnh",
+  "nguy cấp",
+  "trắng trợn",
+  "biến chất",
+  "tía",
+  "ẻo lả",
+  "mẫu hậu",
+  "hoại tử",
+  "thiêng",
+  "nấu nướng",
+  "tấc",
+  "đồ đệ",
+  "đơ",
+  "vẹo"
+ ],
+ "flags": [
+  {
+   "headword": "úi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This interjection is also common in Northern speech and is not restricted to Central and Southern Vietnamese ([dictionary](https://vdict.com/úi,3,0,0.html)).",
+   "fix": "Remove Central and Southern."
+  },
+  {
+   "headword": "lung lay",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common use for wavering resolve, confidence or beliefs.",
+   "fix": "to waver; to become unsettled (of resolve, confidence or beliefs); ex: Tôi bắt đầu lung lay quyết tâm. = My resolve is beginning to waver."
+  },
+  {
+   "headword": "bữa nay",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression for today is used mainly in Southern and Central Vietnamese.",
+   "fix": "Tags: colloquial, Southern, Central."
+  },
+  {
+   "headword": "bữa nay",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression for today is used mainly in Southern and Central Vietnamese.",
+   "fix": "Tags: colloquial, Southern, Central."
+  },
+  {
+   "headword": "sắc sảo",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Sắc sảo means sharp or perceptive, not morally upright, which is expressed by ngay thẳng in the example ([dictionary](https://vi.wiktionary.org/wiki/sắc_sảo)).",
+   "fix": "Delete sense 2."
+  },
+  {
+   "headword": "chuyển tiếp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday meaning of forwarding a message or email.",
+   "fix": "to forward (a message or email); ex: Tôi chuyển tiếp email này cho bạn. = I'll forward this email to you."
+  },
+  {
+   "headword": "tía",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tía addresses one's father and is not a general respectful pronoun for an older man.",
+   "fix": "Dad; you (when addressing one's father)."
+  },
+  {
+   "headword": "ẻo lả",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Applied to a man as in this example, ẻo lả disparages his perceived weakness or femininity.",
+   "fix": "Add derogatory."
+  },
+  {
+   "headword": "thiêng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thiêng means sacred or spiritually powerful, not simply precious ([dictionary](https://vi.wiktionary.org/wiki/thiêng)).",
+   "fix": "Delete sense 2."
+  },
+  {
+   "headword": "tấc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday modern measurement of ten centimetres ([dictionary](https://vi.wiktionary.org/wiki/tấc)).",
+   "fix": "decimetre; ten centimetres; ex: Tấm ván này rộng hai tấc. = This plank is twenty centimetres wide."
+  },
+  {
+   "headword": "tấc",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The approximately four-centimetre unit is historical and needs a warning distinguishing it from modern usage ([dictionary](https://vi.wiktionary.org/wiki/tấc)).",
+   "fix": "Add historical."
+  }
+ ]
+}

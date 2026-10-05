@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cộng sản",
+  "bà con",
+  "văn bản",
+  "xuất",
+  "cồn",
+  "trái phiếu",
+  "ẩn nấp",
+  "nói láo",
+  "bù đắp",
+  "thiên thạch",
+  "rượu vang",
+  "quân phục",
+  "tự xưng",
+  "nhân cách",
+  "tắc",
+  "quan chức",
+  "cố định",
+  "cam đoan",
+  "thứ tự",
+  "ảo",
+  "phản kháng",
+  "men",
+  "niêm phong",
+  "sạc",
+  "khen ngợi",
+  "phắn",
+  "chạy đua",
+  "bỏng",
+  "lằn",
+  "hương vị",
+  "vả lại",
+  "ki",
+  "bóng rổ",
+  "bức xạ",
+  "dáng",
+  "li dị",
+  "tương đối",
+  "cổ phần",
+  "thăng bằng",
+  "đốm"
+ ],
+ "flags": [
+  {
+   "headword": "xuất",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meanings of releasing goods for use and exporting goods, both distinct from paying money ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-xu%E1%BA%A5t)).",
+   "fix": "Add meanings: to issue or release (goods from stock); to export (goods)."
+  },
+  {
+   "headword": "cồn",
+   "sense": 7,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cồn denotes a mound or hillock, not a mountain ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BB%93n)).",
+   "fix": "mound; hillock"
+  },
+  {
+   "headword": "bỏng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bỏng meaning burnt or scalded is standard Vietnamese used nationwide, not restricted to Northern speech.",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "ki",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The pin sense refers to a skittle or bowling pin, not a pin fastened to clothing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ki)).",
+   "fix": "Quả bóng làm đổ cả mười ki. = The ball knocked down all ten bowling pins."
+  },
+  {
+   "headword": "bức xạ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Irradiance is a measure of radiant power per unit area, whereas bức xạ means radiation itself.",
+   "fix": "radiation"
+  }
+ ]
+}

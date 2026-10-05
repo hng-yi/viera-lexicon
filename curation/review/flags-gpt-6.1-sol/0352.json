@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "khổ nỗi",
+  "ái ngại",
+  "ton hót",
+  "lưu loát",
+  "nghi án",
+  "mất dạy",
+  "nặng lòng",
+  "chuyên sâu",
+  "quốc thể",
+  "thanh đạm",
+  "cần tây",
+  "cá vược",
+  "mặt dày",
+  "cơ trí",
+  "đán",
+  "buông thõng",
+  "cung cấm",
+  "đứt quãng",
+  "xì tố",
+  "tự phong",
+  "thỏ thẻ",
+  "cường đại",
+  "bụng dạ",
+  "kì ảo",
+  "khía",
+  "xưng hiệu",
+  "vện",
+  "sổ đỏ",
+  "thi đua",
+  "trái phá",
+  "ngụ cư",
+  "giao hoán",
+  "rep",
+  "bộc trực",
+  "thơm lừng",
+  "cổ cầm",
+  "cá nhồng",
+  "thậm thụt",
+  "thui thủi",
+  "đồng thau"
+ ],
+ "flags": [
+  {
+   "headword": "mặt dày",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone mặt dày is derogatory and can offend them, so this sense needs a warning tag.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "cơ trí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cơ trí belongs to literary or formal usage, so leaving it untagged encourages unnatural casual speech.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "cường đại",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cường đại is a literary word rather than an ordinary casual description of something powerful.",
+   "fix": "Add the tag literary."
+  }
+ ]
+}

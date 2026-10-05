@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "minh chứng",
+  "tăng trưởng",
+  "hoàn",
+  "tiêu hóa",
+  "tiện thể",
+  "phiền toái",
+  "Phục sinh",
+  "phục sinh",
+  "sinh tử",
+  "tham nhũng",
+  "chán ngắt",
+  "nội các",
+  "mại dâm",
+  "thực địa",
+  "rước",
+  "nội địa",
+  "tha tội",
+  "titan",
+  "khắt khe",
+  "phớt lờ",
+  "trầy",
+  "tư liệu",
+  "nháy",
+  "đường thẳng",
+  "thiếu nữ",
+  "hời",
+  "nới",
+  "tem",
+  "ăn mày",
+  "hên",
+  "tiên tiến",
+  "sôi",
+  "dương",
+  "nói xấu",
+  "ngu đần",
+  "trung lập",
+  "trăng tròn",
+  "nguyên tố",
+  "sơ mi",
+  "lặng lẽ"
+ ],
+ "flags": [
+  {
+   "headword": "sinh tử",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The construction 'giữa sinh tử' needs 'và' between the two things being contrasted.",
+   "fix": "Ranh giới giữa sinh và tử thật mong manh. = The line between life and death is so thin."
+  },
+  {
+   "headword": "nháy",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this sexual slang use, 'nháy' means a round of sex and does not specifically involve a prostitute.",
+   "fix": "noun [slang, vulgar] | a round of sex; a quickie"
+  },
+  {
+   "headword": "nới",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of making something wider or more spacious.",
+   "fix": "verb | to widen; to enlarge — Họ nới rộng căn bếp. = They enlarged the kitchen."
+  },
+  {
+   "headword": "tem",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday meaning of a label or sticker attached to a product.",
+   "fix": "noun | label; sticker (on a product) — Đừng bóc tem bảo hành. = Don't peel off the warranty sticker."
+  }
+ ]
+}

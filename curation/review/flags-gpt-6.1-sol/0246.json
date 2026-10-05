@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "lâm chung",
+  "hoang mạc",
+  "xương sườn",
+  "vỡ tan",
+  "giả tưởng",
+  "can trường",
+  "san sẻ",
+  "uổng phí",
+  "mồn một",
+  "uyên bác",
+  "bực dọc",
+  "ke",
+  "tương ớt",
+  "doanh số",
+  "châm chọc",
+  "kiểm",
+  "đới",
+  "dây leo",
+  "ọp ẹp",
+  "sào",
+  "ân",
+  "thường trực",
+  "cãi lộn",
+  "ní",
+  "tiêu dùng",
+  "lãnh cảm",
+  "tắc xi",
+  "ngữ",
+  "hạ sĩ quan",
+  "quy thuận",
+  "nối dõi",
+  "ngụy biện",
+  "tạp nham",
+  "chúc lành",
+  "vững mạnh",
+  "bút danh",
+  "bạch phiến",
+  "sư thầy",
+  "hình nón",
+  "hộc"
+ ],
+ "flags": [
+  {
+   "headword": "ní",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This traditional noun is mainly Southern usage, especially in the Mekong Delta, as recorded in [Wiktionary](https://vi.wiktionary.org/wiki/n%C3%AD).",
+   "fix": "[colloquial, dated, Southern]"
+  },
+  {
+   "headword": "ní",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The sworn-sibling meaning belongs to the Southern tradition of [kết ní](https://maistelevisao.pt/ket-ni-la-gi-ma-nguoi-mien-tay-coi-nhau-nhu-ruot-thit-185260807092121421.htm).",
+   "fix": "[colloquial, dated, Southern]"
+  },
+  {
+   "headword": "bạch phiến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what heroin is instead of showing the word in use.",
+   "fix": "Cảnh sát tìm thấy bạch phiến trong túi của hắn. = The police found heroin in his bag."
+  },
+  {
+   "headword": "hộc",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The drawer meaning is Central and Southern usage, documented in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf).",
+   "fix": "[Central, Southern]"
+  }
+ ]
+}

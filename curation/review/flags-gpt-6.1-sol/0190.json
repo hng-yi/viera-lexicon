@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "bưởi",
+  "lập luận",
+  "mênh mông",
+  "chốc",
+  "lôi thôi",
+  "ngừa",
+  "ấu trĩ",
+  "di vật",
+  "nhập cuộc",
+  "của nợ",
+  "tòng phạm",
+  "khét",
+  "ngoi",
+  "công lực",
+  "dòm",
+  "dò hỏi",
+  "đại thần",
+  "thương binh",
+  "bụi bặm",
+  "tít",
+  "kinh phí",
+  "Phổ",
+  "phổ",
+  "bóp méo",
+  "tích trữ",
+  "giám ngục",
+  "hình học",
+  "chênh lệch",
+  "trấn an",
+  "dòm ngó",
+  "lấn",
+  "kép",
+  "kì vọng",
+  "thằn lằn",
+  "phi tiêu",
+  "bao quát",
+  "vinh",
+  "danh bạ",
+  "trợ thủ",
+  "bại trận"
+ ],
+ "flags": [
+  {
+   "headword": "lập luận",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning 'argument; reasoning' is missing, as in 'lập luận của cô ấy'.",
+   "fix": "noun | argument; reasoning"
+  },
+  {
+   "headword": "bụi bặm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning describing a rugged appearance or style is missing, as illustrated by [everyday fashion usage](https://yody.vn/post/phong-cach-workwear).",
+   "fix": "adj | rugged; rough-looking (of a person's appearance or style)"
+  },
+  {
+   "headword": "giám ngục",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old term for a jailer and needs a dated label, as recorded in [ZIM Dictionary](https://dictionary.zim.vn/viet-anh/giam-nguc-tieng-anh-la-gi).",
+   "fix": "tags: [dated]"
+  },
+  {
+   "headword": "kép",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The gloss incorrectly restricts the male performer to chèo, although it also covers tuồng, as recorded in [the Vietnamese dictionary entry](https://vi.wiktionary.org/wiki/k%C3%A9p).",
+   "fix": "male performer in traditional Vietnamese theatre, such as chèo or tuồng"
+  },
+  {
+   "headword": "kép",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense refers to a male musician accompanying ca trù singers, rather than a chèo instrumentalist, as recorded in [the Vietnamese dictionary entry](https://vi.wiktionary.org/wiki/k%C3%A9p).",
+   "fix": "noun | male instrumentalist accompanying ca trù singers; example: Ông ấy là kép đàn trong một nhóm ca trù. = He is the instrumental accompanist in a ca trù group."
+  },
+  {
+   "headword": "vinh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Standalone 'vinh' belongs to literary usage and fixed sayings, so leaving it untagged suggests ordinary casual usage.",
+   "fix": "tags: [literary]"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "phẩm chất",
+  "nhân đạo",
+  "thiệt tình",
+  "tàng hình",
+  "hận",
+  "đậu phộng",
+  "dấu ấn",
+  "tam giác",
+  "chót",
+  "thế chấp",
+  "dừa",
+  "rèn luyện",
+  "dượng",
+  "diễn thuyết",
+  "quái đản",
+  "trí óc",
+  "loanh quanh",
+  "đầu thú",
+  "lòng vòng",
+  "lượm",
+  "ô nhiễm",
+  "bìa",
+  "xăm",
+  "tụy",
+  "khéo léo",
+  "ôn",
+  "phạm nhân",
+  "đánh lừa",
+  "giáo phái",
+  "lớn tuổi",
+  "đạo luật",
+  "khung cảnh",
+  "điềm",
+  "chậu",
+  "neo",
+  "đan",
+  "ảo ảnh",
+  "ngai vàng",
+  "phản quốc",
+  "trẫm"
+ ],
+ "flags": [
+  {
+   "headword": "tam giác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a triangle instead of showing the word in use.",
+   "fix": "Em vẽ một hình tam giác vào vở. = I drew a triangle in my notebook."
+  },
+  {
+   "headword": "hận",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter the verb meaning 'to hate or resent bitterly' than the literary noun.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

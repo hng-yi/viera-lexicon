@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "say xỉn",
+  "chào hỏi",
+  "nồng độ",
+  "kè",
+  "lôi cuốn",
+  "blu",
+  "giẻ",
+  "khủng",
+  "thất lạc",
+  "thịnh vượng",
+  "lưu manh",
+  "ngư dân",
+  "đâu đâu",
+  "suy yếu",
+  "soạn",
+  "đồ tể",
+  "chế ngự",
+  "không chừng",
+  "ngoạn mục",
+  "đồng bộ",
+  "hưng phấn",
+  "thể dục",
+  "rộng mở",
+  "bề",
+  "đặc trưng",
+  "thôi thúc",
+  "tôn kính",
+  "góc độ",
+  "quần đảo",
+  "hợp lệ",
+  "giám định",
+  "dư",
+  "địa hình",
+  "tinh vi",
+  "buồn tẻ",
+  "giam cầm",
+  "dân cư",
+  "phô",
+  "đù",
+  "gập"
+ ],
+ "flags": [
+  {
+   "headword": "phô",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning 'off-key', encountered when discussing singing, as in [hát chênh phô](https://dantri.com.vn/tim-kiem/h%C3%A1t%2Bch%C3%AAnh%2Bph%C3%B4.htm).",
+   "fix": "adj | off-key; out of tune\nex: Anh ấy hát phô. = He sings off-key."
+  },
+  {
+   "headword": "đù",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This interjection is vulgar and needs an explicit warning tag, as recorded in [Wiktionary](https://en.wiktionary.org/wiki/%C4%91%C3%B9).",
+   "fix": "[Southern, colloquial, vulgar]"
+  },
+  {
+   "headword": "đù",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone đù disparages their intelligence, so the meaning needs a derogatory warning.",
+   "fix": "[colloquial, rare, derogatory]"
+  },
+  {
+   "headword": "gập",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the stroke instead of showing the word in use.",
+   "fix": "Em viết sai nét gập trong chữ này. = You wrote the turning stroke in this character incorrectly."
+  }
+ ]
+}

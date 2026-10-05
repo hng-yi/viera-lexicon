@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "tre già măng mọc",
+  "tre pheo",
+  "trend",
+  "treo giò",
+  "treo đầu dê bán thịt chó",
+  "tri châu",
+  "tri ngôn",
+  "tri thức luận",
+  "tri-phốt-phát",
+  "triphotphat",
+  "triti",
+  "triều kém",
+  "triều phục",
+  "triện",
+  "triện thư",
+  "triệu chứng học",
+  "tro tàn",
+  "trong chớp mắt",
+  "trong cái rủi có cái may",
+  "trong khi",
+  "trong khi đó",
+  "trong trắng",
+  "trong xanh",
+  "tru di tam tộc",
+  "trui",
+  "trung cuộc",
+  "trung du",
+  "trung hoà",
+  "trung học cơ sở",
+  "trung học phổ thông",
+  "trung hữu",
+  "trung não",
+  "trung quân ái quốc",
+  "trung thứ",
+  "trung trinh",
+  "trung tuần",
+  "trung tâm ngữ",
+  "trung uý",
+  "trung vị",
+  "trung điểm"
+ ],
+ "flags": [
+  {
+   "headword": "tru di tam tộc",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tam tộc refers to three family lines or three generations, not three degrees of kinship ([dictionary](https://v2.rung.vn/dict/vn_vn/Tru_di_tam_t%E1%BB%99c)).",
+   "fix": "execution of an offender together with three family lines (paternal, maternal and marital), or three generations of the family (historical punishment)"
+  },
+  {
+   "headword": "trui",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In metalworking, trui means to harden by quenching, whereas annealing softens the metal.",
+   "fix": "to quench; to harden (metal)"
+  },
+  {
+   "headword": "trui",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses figurative trui rèn rather than the stated metalworking sense.",
+   "fix": "Người thợ trui lưỡi dao bằng cách nhúng nó vào nước khi còn nóng. = The craftsman quenches the blade by plunging it into water while it is still hot."
+  },
+  {
+   "headword": "trui",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nướng trui means roasting directly in fire, commonly burning straw, rather than specifically grilling on charcoal ([Vĩnh Long tourism](https://vinhlongtourist.vn/vi/detailnews/?id=news_11186&t=ca-loc-nuong-trui-dac-san-vinh-long-niu-chan-du-khach)).",
+   "fix": "to roast directly in fire, typically burning straw (especially a whole fish)"
+  },
+  {
+   "headword": "trui",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation misrepresents nướng trui as ember grilling and miền Tây as a generic western region.",
+   "fix": "Snakehead fish roasted in a straw fire is a specialty of the Mekong Delta."
+  }
+ ]
+}

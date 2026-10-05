@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "liên miên",
+  "yêu nước",
+  "an phận",
+  "hóa thân",
+  "phần nhiều",
+  "hỗn láo",
+  "hạ cấp",
+  "giao thoa",
+  "điều răn",
+  "chầu trời",
+  "lì xì",
+  "tạc",
+  "cacbon",
+  "tham chiếu",
+  "nghi hoặc",
+  "dè",
+  "phi tang",
+  "tiêu hao",
+  "ruột non",
+  "cửa sông",
+  "chạng vạng",
+  "tửu lượng",
+  "dằn",
+  "tươi trẻ",
+  "bổ ích",
+  "tổng duyệt",
+  "đối địch",
+  "mạt chược",
+  "chuyên dụng",
+  "trọng thương",
+  "tinh thông",
+  "thuốc thang",
+  "trìu mến",
+  "khéo tay",
+  "trầm",
+  "độn thổ",
+  "hai bàn tay trắng",
+  "tiêu điểm",
+  "mẫu đơn",
+  "mập mạp"
+ ],
+ "flags": [
+  {
+   "headword": "an phận",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The negative reading is ordinary use of [an phận](https://vi.wiktionary.org/wiki/an_ph%E1%BA%ADn), not a rare meaning.",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "lì xì",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Lì xì is now widely used across Vietnam, including in [Northern usage](https://duochoalinh.vn/thong-bao-the-le-chuong-trinh-li-xi-may-man-va-than-tai-go-cua-pham-vi-ap-dung-kenh-tieu-dung-mien-bac/), so these regional tags mislead.",
+   "fix": "Remove the Central and Southern tags."
+  },
+  {
+   "headword": "tham chiếu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use belongs chiefly to formal or technical contexts, rather than ordinary casual conversation.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "tham chiếu",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun belongs chiefly to formal or technical contexts and needs a register warning.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "mẫu đơn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning 'application form; application template', used in everyday [university administration](https://www.oude.edu.vn/student/m%E1%BA%ABu-%C4%91%C6%A1n-22/), is missing.",
+   "fix": "Add: noun | application form; application template. Example: Bạn điền thông tin vào mẫu đơn này. = Fill in your details on this application form."
+  }
+ ]
+}

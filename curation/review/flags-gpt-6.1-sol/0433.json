@@ -1,0 +1,198 @@
+{
+ "headwords": [
+  "chủ chứa",
+  "chủ khảo",
+  "chủ lưu",
+  "chủ nghĩa Do Thái phục quốc",
+  "chủ nghĩa Lê-nin",
+  "chủ nghĩa Mác-Lê-nin",
+  "chủ nghĩa Xi-ôn",
+  "chủ nghĩa Xi-ôn-nít",
+  "chủ nghĩa bài Do Thái",
+  "chủ nghĩa bài Hoa Kì",
+  "chủ nghĩa bài Trung Quốc",
+  "chủ nghĩa bài Việt Nam",
+  "chủ nghĩa bảo thủ",
+  "chủ nghĩa chiết trung",
+  "chủ nghĩa chủng tộc",
+  "chủ nghĩa cá nhân",
+  "chủ nghĩa công lợi",
+  "chủ nghĩa cấp tiến",
+  "chủ nghĩa duy vật",
+  "chủ nghĩa duy vật biện chứng",
+  "chủ nghĩa duy vật lịch sử",
+  "chủ nghĩa dân tuý",
+  "chủ nghĩa dân tộc",
+  "chủ nghĩa hiện sinh",
+  "chủ nghĩa hoài nghi",
+  "chủ nghĩa khu vực",
+  "chủ nghĩa khủng bố",
+  "chủ nghĩa kinh nghiệm",
+  "chủ nghĩa nam nữ bình quyền",
+  "chủ nghĩa ngoại lệ",
+  "chủ nghĩa nhân văn",
+  "chủ nghĩa nữ quyền",
+  "chủ nghĩa phân biệt chủng tộc",
+  "chủ nghĩa phục quốc Do Thái",
+  "chủ nghĩa quốc gia",
+  "chủ nghĩa quốc tế",
+  "chủ nghĩa thế tục",
+  "chủ nghĩa thực dân",
+  "chủ nghĩa thực dân mới",
+  "chủ nghĩa thực dân định cư"
+ ],
+ "flags": [
+  {
+   "headword": "chủ nghĩa bài Trung Quốc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Bài báo nói về chủ nghĩa bài Trung Quốc ở một số nước. = The article discusses anti-Chinese sentiment in some countries."
+  },
+  {
+   "headword": "chủ nghĩa bảo thủ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains conservatism instead of showing the term in use.",
+   "fix": "Ông ấy viết một cuốn sách về chủ nghĩa bảo thủ. = He wrote a book about conservatism."
+  },
+  {
+   "headword": "chủ nghĩa chiết trung",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains eclecticism instead of showing the term in use.",
+   "fix": "Bài giảng hôm nay nói về chủ nghĩa chiết trung. = Today's lecture is about eclecticism."
+  },
+  {
+   "headword": "chủ nghĩa cá nhân",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains individualism instead of showing the term in use.",
+   "fix": "Hai người tranh luận về chủ nghĩa cá nhân. = The two people debated individualism."
+  },
+  {
+   "headword": "chủ nghĩa công lợi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains utilitarianism instead of showing the term in use.",
+   "fix": "Cô ấy đang đọc một cuốn sách về chủ nghĩa công lợi. = She is reading a book about utilitarianism."
+  },
+  {
+   "headword": "chủ nghĩa cấp tiến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains radicalism instead of showing the term in use.",
+   "fix": "Luận văn của anh ấy nghiên cứu chủ nghĩa cấp tiến ở châu Âu. = His thesis studies radicalism in Europe."
+  },
+  {
+   "headword": "chủ nghĩa duy vật",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example states the defining principle of materialism instead of showing the term in use.",
+   "fix": "Trong giờ triết học, chúng tôi thảo luận về chủ nghĩa duy vật. = In philosophy class, we discussed materialism."
+  },
+  {
+   "headword": "chủ nghĩa duy vật lịch sử",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains historical materialism instead of showing the term in use.",
+   "fix": "Giáo sư dành hai buổi giảng cho chủ nghĩa duy vật lịch sử. = The professor devoted two lectures to historical materialism."
+  },
+  {
+   "headword": "chủ nghĩa dân tộc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains nationalism instead of showing the term in use.",
+   "fix": "Cuốn sách phân tích sự phát triển của chủ nghĩa dân tộc ở châu Âu. = The book analyzes the development of nationalism in Europe."
+  },
+  {
+   "headword": "chủ nghĩa hiện sinh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains existentialism instead of showing the term in use.",
+   "fix": "Cô ấy bắt đầu quan tâm đến chủ nghĩa hiện sinh khi học đại học. = She became interested in existentialism while at university."
+  },
+  {
+   "headword": "chủ nghĩa hoài nghi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains skepticism instead of showing the term in use.",
+   "fix": "Bài luận của cô ấy bàn về chủ nghĩa hoài nghi. = Her essay discusses skepticism."
+  },
+  {
+   "headword": "chủ nghĩa kinh nghiệm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example states the defining principle of empiricism instead of showing the term in use.",
+   "fix": "Chúng tôi học về chủ nghĩa kinh nghiệm trong môn triết học. = We study empiricism in our philosophy course."
+  },
+  {
+   "headword": "chủ nghĩa ngoại lệ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains exceptionalism instead of showing the term in use.",
+   "fix": "Tác giả phê phán chủ nghĩa ngoại lệ trong chính sách đối ngoại. = The author criticizes exceptionalism in foreign policy."
+  },
+  {
+   "headword": "chủ nghĩa nhân văn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains humanism instead of showing the term in use.",
+   "fix": "Tác phẩm này chịu ảnh hưởng của chủ nghĩa nhân văn. = This work is influenced by humanism."
+  },
+  {
+   "headword": "chủ nghĩa nữ quyền",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains feminism instead of showing the term in use.",
+   "fix": "Cô ấy viết nhiều bài báo về chủ nghĩa nữ quyền. = She writes many articles about feminism."
+  },
+  {
+   "headword": "chủ nghĩa quốc tế",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains internationalism instead of showing the term in use.",
+   "fix": "Bài viết phân tích ảnh hưởng của chủ nghĩa quốc tế. = The article analyzes the influence of internationalism."
+  },
+  {
+   "headword": "chủ nghĩa thế tục",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains secularism instead of showing the term in use.",
+   "fix": "Họ tranh luận về chủ nghĩa thế tục trên truyền hình. = They debated secularism on television."
+  },
+  {
+   "headword": "chủ nghĩa thực dân mới",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains neocolonialism instead of showing the term in use.",
+   "fix": "Bài báo lên án chủ nghĩa thực dân mới. = The article condemns neocolonialism."
+  },
+  {
+   "headword": "chủ nghĩa thực dân định cư",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains settler colonialism instead of showing the term in use.",
+   "fix": "Cuốn sách nghiên cứu lịch sử của chủ nghĩa thực dân định cư. = The book studies the history of settler colonialism."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "chịt",
+  "chịu lửa",
+  "chịu nhiệt",
+  "chịu phép",
+  "chọc lét",
+  "chỏi",
+  "chỏng",
+  "chốc lở",
+  "chống báng",
+  "chống giữ",
+  "chống lưng",
+  "chống lại",
+  "chống nạnh",
+  "chống phát xít",
+  "chống án",
+  "chống đẩy",
+  "chồn nâu",
+  "chổng kềnh",
+  "chỗ ngồi",
+  "chỗ phạm",
+  "chỗ ở",
+  "chộ",
+  "chộn rộn",
+  "chột bụng",
+  "chới với",
+  "chớp bóng",
+  "chớt nhả",
+  "chờ chực",
+  "chờn vờn",
+  "chợ cóc",
+  "chợ nổi",
+  "chợ xanh",
+  "chợ xổm",
+  "chợ đêm",
+  "chợ đầu mối",
+  "chợn",
+  "chụp mũ",
+  "chụp ảnh",
+  "chụp ếch",
+  "chủ biên"
+ ],
+ "flags": [
+  {
+   "headword": "chống đẩy",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Southern tag is incorrect: chống đẩy is standard usage and is common in the North, as illustrated by [this report from Hanoi](https://vietnamnet.vn/ret-te-tai-nguoi-ha-noi-xuong-long-dat-chong-day-chay-bo-2243341.html).",
+   "fix": "Remove Southern."
+  },
+  {
+   "headword": "chộn rộn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is mainly Southern usage and needs a regional label, consistent with its treatment in [research on Southern Vietnamese](https://vjol.info.vn/index.php/tdm/article/download/73905/62832/).",
+   "fix": "Add Southern."
+  }
+ ]
+}

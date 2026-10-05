@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bố đời",
+  "khải hoàn",
+  "kết giao",
+  "tiền phương",
+  "vương hậu",
+  "vườn ươm",
+  "hổ sư",
+  "siêu phẩm",
+  "sứt",
+  "vu vơ",
+  "ngông",
+  "ổ cắm",
+  "ném bom",
+  "di chứng",
+  "ma lanh",
+  "thời vận",
+  "xả láng",
+  "thưa kiện",
+  "vô can",
+  "súng máy",
+  "danh vị",
+  "xuất gia",
+  "rày",
+  "vun đắp",
+  "vong",
+  "xâu chuỗi",
+  "khệnh khạng",
+  "bàn ủi",
+  "lũng đoạn",
+  "bãi nhiệm",
+  "mê mệt",
+  "dịch tễ",
+  "khinh công",
+  "đồ sứ",
+  "tụt hậu",
+  "đỏ tía",
+  "đèn điện",
+  "ì ạch",
+  "sỏi mật",
+  "hạ chí"
+ ],
+ "flags": [
+  {
+   "headword": "hổ sư",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Con hổ sư đang nằm nghỉ dưới bóng cây. = The tigon is resting in the shade of a tree."
+  },
+  {
+   "headword": "ma lanh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ma lanh describes crafty cleverness rather than simply being intelligent or knowledgeable ([dictionary](https://loigiaihay.com/tu-dien-tv/ma-lanh-ejLM4YtWKyHPK.html)).",
+   "fix": "Remove sense 2; its meaning is already covered by sense 1."
+  },
+  {
+   "headword": "xâu chuỗi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The linking action expressed by xâu chuỗi has been incorrectly presented as the noun meaning 'a series of events'.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "dịch tễ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this usage, dịch tễ concerns epidemiology rather than naming a disease outbreak ([medical reference](https://bsgdtphcm.vn/api/fullcontent.php?id=15173)).",
+   "fix": "epidemiology; patterns of disease occurrence and spread"
+  },
+  {
+   "headword": "dịch tễ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Tình hình dịch tễ means the epidemiological situation, which the translation incorrectly narrows to an epidemic ([medical reference](https://bsgdtphcm.vn/api/fullcontent.php?id=15173)).",
+   "fix": "The Ministry of Health is monitoring the epidemiological situation in the provinces."
+  }
+ ]
+}

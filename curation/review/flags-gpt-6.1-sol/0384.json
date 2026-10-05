@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "thảm trạng",
+  "bô bô",
+  "mặn chát",
+  "đỏ quạch",
+  "nỡm",
+  "cá kiếm",
+  "chen chân",
+  "phân quyền",
+  "chí tôn",
+  "dép lào",
+  "khê",
+  "khuỵu",
+  "mừng húm",
+  "kinh lạc",
+  "đan điền",
+  "dẹp yên",
+  "chanh leo",
+  "dợn",
+  "đĩ thõa",
+  "dâm dật",
+  "tinh lực",
+  "sẻ chia",
+  "giun tròn",
+  "veo",
+  "đại lượng",
+  "lằn ranh",
+  "trung liên",
+  "tênh",
+  "xó xỉnh",
+  "khoáng vật",
+  "lẫm liệt",
+  "ngoại chất",
+  "lâm tặc",
+  "đại thể",
+  "dò dẫm",
+  "kí giả",
+  "chân lí",
+  "vi phân",
+  "tiệm cận",
+  "cưới hỏi"
+ ],
+ "flags": [
+  {
+   "headword": "thảm trạng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary or formal word, so leaving it untagged misleadingly suggests ordinary conversational usage.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "cá kiếm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common slang meaning of making money or profiting from something, documented in [this definition](https://lazi.vn/qa/d/ca-kiem-la-gi).",
+   "fix": "verb [slang] | to make money; to turn a profit"
+  },
+  {
+   "headword": "ngoại chất",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example merely mentions an explanation of the word rather than showing its meaning in use.",
+   "fix": "Các nhà nghiên cứu quan sát ngoại chất dưới kính hiển vi. = The researchers observe ectoplasm under a microscope."
+  },
+  {
+   "headword": "đại thể",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use belongs to formal discourse, and the missing tag suggests it is ordinary casual speech.",
+   "fix": "[formal]"
+  }
+ ]
+}

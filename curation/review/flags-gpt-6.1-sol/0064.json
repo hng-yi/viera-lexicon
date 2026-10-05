@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bồ",
+  "tàn",
+  "quầy",
+  "giao tiếp",
+  "để dành",
+  "dày",
+  "đĩ",
+  "thích thú",
+  "sư tử",
+  "kết",
+  "phê",
+  "hiểu biết",
+  "tỉ",
+  "dán",
+  "chấn thương",
+  "Kinh Thánh",
+  "ra đời",
+  "câu hỏi",
+  "giấy phép",
+  "trang bị",
+  "tâm trạng",
+  "truyền thuyết",
+  "bảo tàng",
+  "đại bàng",
+  "trụ sở",
+  "cá voi",
+  "rẻ",
+  "hông",
+  "phủ nhận",
+  "kinh tế",
+  "sắp đặt",
+  "dâng",
+  "cực kì",
+  "kèm",
+  "nghèo",
+  "trân trọng",
+  "tè",
+  "phương tiện",
+  "sản phẩm",
+  "liều lĩnh"
+ ],
+ "flags": [
+  {
+   "headword": "tàn",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“To fall apart” misrepresents tàn, which describes withering or dying away in this sense ([dictionary](https://vi.wiktionary.org/wiki/t%C3%A0n)).",
+   "fix": "to fade; to wither; to die away"
+  },
+  {
+   "headword": "đĩ",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word supposedly meant instead of using it to refer to someone.",
+   "fix": "Replace the explanatory sentence with an attested historical example using đĩ to refer to a performer."
+  },
+  {
+   "headword": "tỉ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The sentence explains the word instead of using it and incorrectly identifies the Vietnamese reading tỉ tỉ as Cantonese.",
+   "fix": "Tỉ tỉ đang đợi muội. = Elder sister is waiting for you, little sister."
+  },
+  {
+   "headword": "kinh tế",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjective meaning “economical; cost-effective” is missing.",
+   "fix": "adj | economical; cost-effective\nex: Đi xe buýt kinh tế hơn đi taxi. = Taking the bus is more economical than taking a taxi."
+  }
+ ]
+}

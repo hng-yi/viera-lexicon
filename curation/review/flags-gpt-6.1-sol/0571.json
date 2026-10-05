@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "thuê bao",
+  "thuần Việt",
+  "thuần chất",
+  "thuần hoá",
+  "thuần phong mĩ tục",
+  "thuẫn",
+  "thuận buồm xuôi gió",
+  "thuận hòa",
+  "thuận từ",
+  "thuận vợ thuận chồng, tát Biển Đông cũng cạn",
+  "thuật chiêm tinh",
+  "thuật giả kim",
+  "thuật lại",
+  "thuế giá trị gia tăng",
+  "thuế gián thu",
+  "thuế khoá",
+  "thuế quan",
+  "thuế trực thu",
+  "thuốc bắc",
+  "thuốc cao",
+  "thuốc cá",
+  "thuốc lào",
+  "thuốc lá điện tử",
+  "thuốc lắc",
+  "thuốc mỡ",
+  "thuốc nam",
+  "thuốc súng",
+  "thuốc tiên",
+  "thuốc tím",
+  "thuốc đánh răng",
+  "thuốc đắng giã tật, sự thật mất lòng",
+  "thuốc đắng đã tật, sự thật mất lòng",
+  "thuốc đỏ",
+  "thuồng luồng",
+  "thuộc hạ",
+  "thuở bé",
+  "thuở nhỏ",
+  "thuỳ",
+  "thuỳ mị",
+  "thuỳ trán"
+ ],
+ "flags": [
+  {
+   "headword": "thuê bao",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The colloquial use means being unreachable by phone, not simply failing to pick up.",
+   "fix": "to be unreachable by phone (colloquial)"
+  },
+  {
+   "headword": "thuốc đánh răng",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This term remains in everyday use and is misleadingly tagged dated, as illustrated by [current usage](https://bnews.vn/cuu-tro-phai-nhanh-kha-thi-co-trong-tam-truc-tiep/347514.html).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "thuốc đỏ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thuốc đỏ refers to mercurochrome (merbromin), not povidone-iodine, as identified in the [government drug list](https://congbao.chinhphu.vn/tai-ve-van-ban-so-23-2014-tt-byt-12180-7722?format=pdf).",
+   "fix": "mercurochrome (merbromin); a red antiseptic liquid for wounds"
+  },
+  {
+   "headword": "thuồng luồng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's historical meaning instead of using it to refer to a crocodile.",
+   "fix": "Con thuồng luồng há mõm, để lộ hàm răng sắc nhọn. = The crocodile opened its mouth, revealing sharp teeth."
+  },
+  {
+   "headword": "thuộc hạ",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The historical tag misleadingly restricts a word still used for modern underlings, including in [contemporary reporting](https://vnexpress.net/biet-thu-noi-trum-ma-tuy-mexico-tu-thu-5043784.html).",
+   "fix": "Remove the historical tag; gloss: subordinate; underling (under a leader or boss)."
+  }
+ ]
+}

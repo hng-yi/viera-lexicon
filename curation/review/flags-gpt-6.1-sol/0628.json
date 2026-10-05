@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "âu vàng",
+  "ây da",
+  "è cổ",
+  "é",
+  "éc-pét",
+  "ép phê",
+  "ép xung",
+  "ét-sì",
+  "ét-xăng",
+  "ê a",
+  "ê hề",
+  "ê-ke",
+  "ê-kíp",
+  "ê-líp-xô-ít",
+  "êtanol",
+  "ì oạp",
+  "ì à ì ạch",
+  "ích-xì",
+  "ít khi",
+  "ít nói",
+  "ò ó o",
+  "ó cá",
+  "óc chó",
+  "óp",
+  "ót ét",
+  "ô doa",
+  "ô dù",
+  "ô dề",
+  "ô môi",
+  "ô rô",
+  "ô ten",
+  "ô tác",
+  "ô tô buýt",
+  "ô văng",
+  "ô ăn quan",
+  "ô-boa",
+  "ô-lim-pích",
+  "ô-liu",
+  "ô-đờ-cô-lôn",
+  "ôm cây đợi thỏ"
+ ],
+ "flags": [
+  {
+   "headword": "ép phê",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means effect or effectiveness, rather than general enjoyment or awesomeness ([dictionary](https://vi.wiktionary.org/wiki/ép_phê)).",
+   "fix": "effect; effectiveness (from French effet)"
+  },
+  {
+   "headword": "ép phê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The bubble-tea example uses ép phê as a general expression of enjoyment rather than an effect.",
+   "fix": "Thuốc này uống vào chẳng có ép phê gì, vẫn đau đầu. = This medicine has no effect; I still have a headache."
+  },
+  {
+   "headword": "ét-sì",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is a Vietnamese name for S derived from French, not the letter's English name ([dictionary](https://en.wiktionary.org/wiki/ét-sì)).",
+   "fix": "the letter S"
+  },
+  {
+   "headword": "ét-xăng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses the word itself instead of using it to refer to petrol.",
+   "fix": "Chiếc xe đã hết ét-xăng. = The car has run out of petrol."
+  },
+  {
+   "headword": "ích-xì",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is a Vietnamese name for X derived from French, not the letter's English name ([dictionary](https://vi.wiktionary.org/wiki/ích-xì)).",
+   "fix": "the letter X"
+  },
+  {
+   "headword": "ô dù",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ô dù refers to influential protection or a protector, not a separate adjective meaning cliquish or given to cronyism ([dictionary](https://vi.wiktionary.org/wiki/ô_dù)).",
+   "fix": "Remove sense 2; its use refers to the protection described in sense 1."
+  },
+  {
+   "headword": "ô dề",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "North Central Vietnam belongs to the Central dialect region, so treating it as both Northern and Central mislabels the distribution ([dictionary](https://en.wiktionary.org/wiki/ô_dề)).",
+   "fix": "[Central, colloquial]"
+  },
+  {
+   "headword": "ô dề",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The widespread Internet sense 'over-the-top' is the meaning learners are most likely to encounter today ([dictionary](https://en.wiktionary.org/wiki/ô_dề)).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "ô tác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the bird instead of showing the word in use.",
+   "fix": "Một con ô tác đang kiếm ăn trên đồng cỏ. = A bustard is foraging on the grassland."
+  },
+  {
+   "headword": "ô tô buýt",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means bus without a distinct minibus sense; nhỏ supplies the size distinction in the example ([dictionary](https://tudientv.com/?t=ô+tô+buýt)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

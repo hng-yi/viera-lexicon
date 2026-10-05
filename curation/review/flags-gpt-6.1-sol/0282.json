@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tâm nhĩ",
+  "đính chính",
+  "kiết xác",
+  "tài cán",
+  "phái viên",
+  "khá giả",
+  "phong thanh",
+  "snack",
+  "êm ả",
+  "quý nhân",
+  "sột soạt",
+  "dẽ",
+  "nông sản",
+  "ngọng",
+  "bố khỉ",
+  "lủi thủi",
+  "phụ sản",
+  "cự phách",
+  "đa vũ trụ",
+  "cầm cố",
+  "đồ thị",
+  "tung hoành",
+  "rời rạc",
+  "rạ",
+  "chao đảo",
+  "ghen ghét",
+  "đùn",
+  "yêu kiều",
+  "khẩn thiết",
+  "diễn giả",
+  "chơi trội",
+  "bốn phương",
+  "chu toàn",
+  "vật vờ",
+  "mai sau",
+  "bá vơ",
+  "cầu kì",
+  "nhắn nhủ",
+  "lưỡi liềm",
+  "phơ"
+ ],
+ "flags": [
+  {
+   "headword": "quý nhân",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The benefactor sense is the usual contemporary meaning and should precede the dated high-ranking-person sense.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "dẽ",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gentle meaning occurs in expressions such as dẽ tính and dẽ dàng, not as the standalone adverb illustrated by Mẹ dẽ bảo ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-d%E1%BA%BD)).",
+   "fix": "Remove sense 4; retain the gentle meaning under sense 3."
+  },
+  {
+   "headword": "rạ",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Trái rạ is mainly Southern usage and needs a regional label ([dictionary](https://loigiaihay.com/tu-dien-tv/ra-ev88eYEo8XB0m.html)).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "đùn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of shifting unwanted work or responsibility onto someone else ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91%C3%B9n)).",
+   "fix": "verb | to pass the buck; to shift unwanted work or responsibility onto someone else"
+  }
+ ]
+}

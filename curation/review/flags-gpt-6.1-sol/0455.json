@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "dê trên",
+  "dê xồm",
+  "dê-rô",
+  "dì ghẻ",
+  "dìa",
+  "dích dắc",
+  "dòng biển",
+  "dòng kẻ phụ",
+  "dòng triều",
+  "dông dài",
+  "dông tố",
+  "dõi theo",
+  "dù dì",
+  "dù lượn",
+  "dù mặc",
+  "dùng dằng",
+  "dăm bữa nửa tháng",
+  "dĩ chí",
+  "dĩ hoà vi quý",
+  "dĩa bay",
+  "dĩa cân",
+  "dĩn",
+  "dĩnh ngộ",
+  "dũng cảm có thừa",
+  "dơ hì",
+  "dơi quạ",
+  "dư dật",
+  "dư luận viên",
+  "dư địa",
+  "dưa chuột",
+  "dưa chuột biển",
+  "dưa gang",
+  "dưa góp",
+  "dưa lưới",
+  "dưa vàng",
+  "dưa đỏ",
+  "dương cực",
+  "dương mai",
+  "dương đào",
+  "dương đông kích tây"
+ ],
+ "flags": [
+  {
+   "headword": "dê trên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it in context.",
+   "fix": "Tên em viết bằng dê trên hay đê? = Is your name spelled with D or Đ?"
+  },
+  {
+   "headword": "dõi theo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means following someone or something with one's eyes or attention, whereas 'watch over' implies protective supervision ([VDict](https://vdict.com/d%C3%B5i%2C3%2C0%2C0.html)).",
+   "fix": "to follow with one's eyes; to watch attentively"
+  },
+  {
+   "headword": "dư địa",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense belongs to formal discussion, especially business and policy, rather than ordinary casual speech.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "dưa gang",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common Southern meaning referring to the soft-fleshed dessert melon called dưa bở in the North ([Ngôn ngữ & Đời sống](https://vci.vnu.edu.vn/upload/15022/pdf/5763a3387f8b9af0d88b45b0.pdf)).",
+   "fix": "noun [Southern] | a melon with soft, crumbly flesh when ripe, commonly eaten with sugar"
+  },
+  {
+   "headword": "dưa lưới",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The gloss incorrectly restricts the flesh to greenish, although common dưa lưới varieties also have yellow or orange flesh ([grower's description](https://dualuoi.vn/blog/dua-luoi-vang/)).",
+   "fix": "netted melon (a sweet melon with a net-patterned rind)"
+  }
+ ]
+}

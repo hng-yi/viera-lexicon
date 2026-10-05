@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "phà",
+  "đánh đổi",
+  "trông đợi",
+  "truyện tranh",
+  "giữ gìn",
+  "hiếp",
+  "súng trường",
+  "ăn chay",
+  "dó",
+  "xứ sở",
+  "tên tuổi",
+  "du thuyền",
+  "màng",
+  "tráng",
+  "diều",
+  "nhà trọ",
+  "khinh",
+  "bất đồng",
+  "tóm lại",
+  "khoan dung",
+  "điện ảnh",
+  "ngâm",
+  "mơ hồ",
+  "hù",
+  "hỏa hoạn",
+  "hậu",
+  "tả",
+  "thắt lưng",
+  "tự trọng",
+  "dược",
+  "khóc lóc",
+  "phơi",
+  "cao cả",
+  "cá heo",
+  "tu sĩ",
+  "tín đồ",
+  "va",
+  "nhà ngươi",
+  "lật đổ",
+  "võ thuật"
+ ],
+ "flags": [
+  {
+   "headword": "hiếp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common standalone meaning 'to rape' is missing ([dictionary](https://vi.wiktionary.org/wiki/hi%E1%BA%BFp)).",
+   "fix": "Add: verb | to rape."
+  },
+  {
+   "headword": "dó",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example describes dó paper rather than using dó to refer to the tree.",
+   "fix": "Vỏ cây dó được dùng để làm giấy. = The bark of the dó tree is used to make paper."
+  },
+  {
+   "headword": "tráng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Tráng means spreading or pouring a thin layer, and does not require cooking in a pan ([dictionary](https://vi.wiktionary.org/wiki/tr%C3%A1ng)).",
+   "fix": "to spread or pour (batter, beaten egg) into a thin layer for cooking"
+  },
+  {
+   "headword": "khinh",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the old term instead of using it.",
+   "fix": "Người ta bơm khinh khí vào quả bóng. = They pumped hydrogen into the balloon."
+  },
+  {
+   "headword": "hù",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use is mainly Southern and lacks a regional label ([regional dictionary](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html)).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "hậu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines hoàng hậu instead of using the word in a situation.",
+   "fix": "Hoàng hậu bước vào cung điện. = The queen entered the palace."
+  },
+  {
+   "headword": "thắt lưng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The meaning 'to economise' belongs to the full idiom thắt lưng buộc bụng, not thắt lưng alone ([idiom dictionary](https://loigiaihay.com/tu-dien-tv/that-lung-buoc-bung-eCfFVPquzMeFo.html)).",
+   "fix": "Remove this sense and place it under thắt lưng buộc bụng."
+  }
+ ]
+}

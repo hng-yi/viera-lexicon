@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đời",
+  "bộ",
+  "bay",
+  "tránh",
+  "bác sĩ",
+  "biến",
+  "mau",
+  "do",
+  "kiểm tra",
+  "chịu",
+  "bao nhiêu",
+  "bởi",
+  "phụ nữ",
+  "trở thành",
+  "ư",
+  "đặt",
+  "rời",
+  "công việc",
+  "đàn ông",
+  "kết thúc",
+  "mở",
+  "khá",
+  "kiếm",
+  "loại",
+  "bài",
+  "tuổi",
+  "sớm",
+  "giữa",
+  "mời",
+  "mắt",
+  "tiệt",
+  "kế hoạch",
+  "tiếp tục",
+  "con người",
+  "cao",
+  "ổng",
+  "gây",
+  "chuẩn bị",
+  "thành phố",
+  "sếp"
+ ],
+ "flags": [
+  {
+   "headword": "ư",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This question-final particle is mainly literary and would sound affected in ordinary casual conversation.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "đặt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday meaning of giving or assigning a name.",
+   "fix": "Add: verb | to name; to give a name. Example: Họ đặt tên con là An. = They named their child An."
+  },
+  {
+   "headword": "rời",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjective meaning separate or loose is missing.",
+   "fix": "Add: adj | separate; loose; detached. Example: Tôi ghi số điện thoại vào một tờ giấy rời. = I wrote the phone number on a loose sheet of paper."
+  },
+  {
+   "headword": "mời",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning of treating someone by paying for their food or drink.",
+   "fix": "Add: verb | to treat (pay for someone's food or drink). Example: Bữa này tôi mời. = This meal is on me."
+  },
+  {
+   "headword": "tiệt",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tiệt nòi giống means to wipe out a lineage, not to sterilise someone or make them unable to reproduce.",
+   "fix": "to wipe out; to eradicate completely"
+  }
+ ]
+}

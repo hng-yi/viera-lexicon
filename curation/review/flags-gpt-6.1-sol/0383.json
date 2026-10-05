@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "trúng thực",
+  "đa đoan",
+  "vững bền",
+  "anh đào",
+  "tủa",
+  "suy tôn",
+  "biếm họa",
+  "loang",
+  "tập tễnh",
+  "lũ lượt",
+  "danh tướng",
+  "chạ",
+  "gật gù",
+  "cốt tủy",
+  "tươi rói",
+  "đến chốn",
+  "bức bách",
+  "chò",
+  "ý trí",
+  "đương sự",
+  "chim lợn",
+  "chuột chù",
+  "ngon mắt",
+  "đa ngành",
+  "cơm cháo",
+  "kiến bò",
+  "bôi bác",
+  "nhà tranh",
+  "tần ngần",
+  "tự điển",
+  "đỏ ửng",
+  "hung thần",
+  "bình nhật",
+  "hàm oan",
+  "vãi lồn",
+  "hàn the",
+  "Do Thái giáo",
+  "lúc nhúc",
+  "bò lê",
+  "ngượng nghịu"
+ ],
+ "flags": [
+  {
+   "headword": "chạ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Gạo trộn lẫn chạ nhiều loại” is not a natural Vietnamese construction.",
+   "fix": "Quần áo của mọi người để chung chạ trong một cái tủ. = Everyone's clothes are mixed together in one cupboard."
+  },
+  {
+   "headword": "suy tôn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs to formal contexts of public honour or elevation, as described in the [dictionary entry](https://loigiaihay.com/tu-dien-tv/suy-ton-eX77CwhNmPIja.html).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "đến chốn",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Chốn an toàn” means a safe place, whereas the translation makes safety describe the journey.",
+   "fix": "The passengers reached a safe place."
+  },
+  {
+   "headword": "đương sự",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Đương sự” is a formal administrative or legal term rather than an ordinary casual label for someone involved.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "chim lợn",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The human label is disparaging rather than a neutral word for a spotter or informant, consistent with the usage described by [VTC News](https://vtcnews.vn/thuc-hu-quan-niem-dan-gian-ve-tieng-chim-lon-keu-ar767193.html).",
+   "fix": "Use tags figurative, slang, derogatory."
+  },
+  {
+   "headword": "chim lợn",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone “chim lợn” for spreading gossip is derogatory.",
+   "fix": "Use tags figurative, slang, derogatory."
+  },
+  {
+   "headword": "bôi bác",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of doing work carelessly or perfunctorily, recorded in the [dictionary entry](https://v2.rung.vn/dict/vn_en/B%C3%B4i_b%C3%A1c).",
+   "fix": "to do carelessly or perfunctorily; shoddy — Đừng làm ăn bôi bác như thế. = Don't do such shoddy work."
+  }
+ ]
+}

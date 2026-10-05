@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "chè",
+  "lễ phục",
+  "cán cân",
+  "hèn chi",
+  "hiệu lệnh",
+  "ruộng",
+  "xô đẩy",
+  "hậu trường",
+  "thảm khốc",
+  "gia cố",
+  "dang dở",
+  "nỏ",
+  "trụ cột",
+  "đối ngoại",
+  "chi phiếu",
+  "tơi bời",
+  "vại",
+  "lạ lẫm",
+  "khốc liệt",
+  "hạ lệnh",
+  "chứng bệnh",
+  "máy sấy",
+  "nội tâm",
+  "Bắc Hàn",
+  "hờ",
+  "luẩn quẩn",
+  "hốc",
+  "chuyên khoa",
+  "liên đoàn",
+  "thể lực",
+  "nhà xí",
+  "lồn",
+  "tái lập",
+  "nóng vội",
+  "chùn",
+  "ế",
+  "dưỡng lão",
+  "cừ khôi",
+  "dữ tợn",
+  "biên lai"
+ ],
+ "flags": [
+  {
+   "headword": "liên đoàn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This confuses liên đoàn with liên chi đoàn, the body linking youth-union chapters ([Youth Union charter](https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Dieu-le-Doan-Thanh-nien-Cong-san-Ho-Chi-Minh-khoa-X-204237.aspx)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "lồn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses lồn as a profane intensifier rather than referring to genitalia.",
+   "fix": "Đừng sờ vào lồn tao. = Don't touch my cunt."
+  },
+  {
+   "headword": "cừ khôi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cừ khôi is colloquial praise, so the literary tag teaches the wrong register ([Vietnamese dictionary](https://www.rung.vn/dict/vn_vn/C%E1%BB%AB_kh%C3%B4i)).",
+   "fix": "Replace literary with colloquial."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "săn sóc",
+  "gương mẫu",
+  "xanh tươi",
+  "dể",
+  "tệ nạn",
+  "lật tẩy",
+  "truồng",
+  "thiên văn học",
+  "chật hẹp",
+  "phu quân",
+  "bảo vật",
+  "cất tiếng",
+  "cánh gà",
+  "nội quy",
+  "thông thạo",
+  "biến động",
+  "xúi giục",
+  "lụt",
+  "dã thú",
+  "giao thiệp",
+  "hồi sức",
+  "gút",
+  "tại ngoại",
+  "lan can",
+  "mờ nhạt",
+  "khựa",
+  "viễn tưởng",
+  "tảo",
+  "quỷ thần",
+  "bình dân",
+  "lịch lãm",
+  "chuột nhắt",
+  "trang trải",
+  "quý hiếm",
+  "đô vật",
+  "khuẩn",
+  "vô cực",
+  "sấy",
+  "khoét",
+  "lưu vong"
+ ],
+ "flags": [
+  {
+   "headword": "gương mẫu",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The noun sense meaning a model to follow is dated, as recorded in [Wiktionary](https://vi.wiktionary.org/wiki/gương_mẫu), but has no currency tag.",
+   "fix": "Add the tag dated."
+  },
+  {
+   "headword": "gút",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The knot sense is regional to Central and Southern Vietnamese, as recorded in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/Từ-Điển-Phương-Ngữ-Huế-Trần-Ngọc-Bảo.pdf), but lacks region tags.",
+   "fix": "Add the tags Central and Southern."
+  }
+ ]
+}

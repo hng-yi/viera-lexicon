@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "chứng lí",
+  "chứng nghiệm",
+  "chửa hoang",
+  "chửa trâu",
+  "chữ Hán",
+  "chữ Nho",
+  "chữ Nôm",
+  "chữ Trung Quốc",
+  "chữ Tàu",
+  "chữ cứng",
+  "chữ hành",
+  "chữ khải",
+  "chữ khẩu",
+  "chữ kép",
+  "chữ mềm",
+  "chữ số có nghĩa",
+  "chữ thảo",
+  "chữ vạn",
+  "chữ đơn",
+  "chữa bệnh",
+  "chữa lợn lành thành lợn què",
+  "clohiđric",
+  "clorua",
+  "clây-mo",
+  "coi mắt",
+  "coi trời bằng vung",
+  "com-lê",
+  "com-pa",
+  "come out",
+  "comment",
+  "con Lạc cháu Hồng",
+  "con có cha như nhà có nóc",
+  "con dại cái mang",
+  "con ghẻ",
+  "con gái",
+  "con gái con đứa",
+  "con gái rượu",
+  "con hư tại mẹ, cháu hư tại bà",
+  "con mẹ",
+  "con một"
+ ],
+ "flags": [
+  {
+   "headword": "chửa hoang",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression disparages unmarried pregnant women and needs a derogatory warning ([VOV](https://amp.vov.vn/tinh-yeu-gia-dinh/dung-de-phu-nu-them-dau-long-voi-hai-tieng-chua-hoang-454989.vov)).",
+   "fix": "[colloquial, derogatory]"
+  },
+  {
+   "headword": "chửa trâu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The expression means being overdue without specifying a 42-week threshold ([source](https://dicungcon.vn/danh-cho-ban/chua-trau-la-gi-article1338)).",
+   "fix": "overdue (of a pregnancy continuing well beyond the expected due date)"
+  },
+  {
+   "headword": "chữ kép",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the character category instead of showing it in use.",
+   "fix": "Trong bản Nôm này, tiếng “sang” được ghi bằng một chữ kép. = In this Nôm text, the word “sang” is written with a compound phonogram."
+  },
+  {
+   "headword": "con mẹ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This contemptuous expression refers to an adult woman and does not require her to be old ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-con%20m%E1%BA%B9)).",
+   "fix": "woman (a contemptuous, insulting term)"
+  },
+  {
+   "headword": "con một",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense denotes the numeral one or a score of one, not an ordinal meaning “the first one” ([dictionary](https://vi.wiktionary.org/wiki/con_m%E1%BB%99t)).",
+   "fix": "the numeral one; a score of one"
+  },
+  {
+   "headword": "con một",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses “con một” as an ordinal instead of the numeral or score sense ([dictionary](https://vi.wiktionary.org/wiki/con_m%E1%BB%99t)).",
+   "fix": "Không học bài nên nó bị con một. = It got a score of one because it hadn't studied."
+  }
+ ]
+}

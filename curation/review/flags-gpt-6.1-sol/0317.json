@@ -1,0 +1,83 @@
+{
+ "headwords": [
+  "thiếu vắng",
+  "thâm hụt",
+  "ngỡ ngàng",
+  "chót vót",
+  "làm biếng",
+  "truy xuất",
+  "nguyên lí",
+  "mĩ phẩm",
+  "cất bước",
+  "kế nghiệp",
+  "phu thê",
+  "niken",
+  "điềm đạm",
+  "tú tài",
+  "bội",
+  "gian manh",
+  "bún",
+  "tía tô",
+  "lung lạc",
+  "huyết tương",
+  "thưa thớt",
+  "chơi vơi",
+  "chà là",
+  "gian ác",
+  "vèo",
+  "tiết chế",
+  "sự tình",
+  "vải vóc",
+  "bắp ngô",
+  "kiêng cữ",
+  "bất hủ",
+  "khả dụng",
+  "thiên tướng",
+  "xà cừ",
+  "SIDA",
+  "eng",
+  "văn phòng phẩm",
+  "trăng hoa",
+  "gấm",
+  "trận vong"
+ ],
+ "flags": [
+  {
+   "headword": "tía tô",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "In this dish, hành means spring onion or scallion, not bulb onion.",
+   "fix": "Mom makes rice porridge with scallions and perilla for my little sibling, who has a cold."
+  },
+  {
+   "headword": "huyết tương",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines huyết tương instead of showing the word in use.",
+   "fix": "Bác sĩ chỉ định truyền huyết tương cho bệnh nhân. = The doctor ordered a plasma transfusion for the patient."
+  },
+  {
+   "headword": "khả dụng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Khả dụng belongs to formal or technical usage and is not an ordinary casual equivalent of usable or available.",
+   "fix": [
+    "formal"
+   ]
+  },
+  {
+   "headword": "eng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Eng as a dialect form of anh belongs to Central Vietnamese rather than Northern Vietnamese.",
+   "fix": [
+    "Central",
+    "rare"
+   ]
+  }
+ ]
+}

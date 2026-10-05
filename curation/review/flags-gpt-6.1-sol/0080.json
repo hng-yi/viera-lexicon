@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "giết hại",
+  "ngất",
+  "vẫy",
+  "thông cảm",
+  "cảm động",
+  "mới đây",
+  "buồm",
+  "liều mạng",
+  "trục trặc",
+  "bảnh",
+  "khờ",
+  "co giật",
+  "tô",
+  "đề xuất",
+  "bắt chước",
+  "nhai",
+  "gõ",
+  "nhà hát",
+  "quỹ đạo",
+  "trục xuất",
+  "dỡ",
+  "thúc đẩy",
+  "hôi",
+  "người mẫu",
+  "nôn",
+  "nổi dậy",
+  "hỏi thăm",
+  "động đất",
+  "lượn",
+  "diện",
+  "nhất thiết",
+  "tởm",
+  "chỉ thị",
+  "sinh mạng",
+  "tiến hóa",
+  "cảm",
+  "gợi",
+  "vách",
+  "thiên nhiên",
+  "linh tinh"
+ ],
+ "flags": [
+  {
+   "headword": "nôn",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example describes amusement rather than the physical ticklish sensation of this sense ([dictionary](https://vi.wiktionary.org/wiki/n%C3%B4n)).",
+   "fix": "Nó thấy nôn khi bị cù vào nách. = Being tickled under the arm makes him feel ticklish."
+  },
+  {
+   "headword": "lượn",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Diều hâu means hawk, whereas “kite hawk” incorrectly combines two bird names ([Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english-vietnamese/hawk)).",
+   "fix": "The hawk glides across the sky."
+  },
+  {
+   "headword": "chỉ thị",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This noun belongs to formal administrative language and needs a formal tag ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%E1%BB%89%20th%E1%BB%8B)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "chỉ thị",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb describes an authoritative instruction in formal administrative language and needs a formal tag ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%E1%BB%89%20th%E1%BB%8B)).",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

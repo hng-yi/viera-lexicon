@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "mâm",
+  "biểu",
+  "tĩnh lặng",
+  "tiêu tùng",
+  "võ đường",
+  "lành mạnh",
+  "kích",
+  "nơ",
+  "rong",
+  "sáng sủa",
+  "băng giá",
+  "thuyên chuyển",
+  "thiếu sót",
+  "chủ mưu",
+  "năn nỉ",
+  "cậy",
+  "tuyên chiến",
+  "cấp bách",
+  "dân quân",
+  "mủ",
+  "tức thì",
+  "độc hại",
+  "láng giềng",
+  "du kích",
+  "dẻo",
+  "vật liệu",
+  "Nam Phi",
+  "chôn vùi",
+  "mộc lan",
+  "xâm lăng",
+  "bịp",
+  "an",
+  "chứng minh thư",
+  "sứa",
+  "lau chùi",
+  "vấp",
+  "tốn kém",
+  "nguyên thủy",
+  "ngóc ngách",
+  "hợp chất"
+ ],
+ "flags": [
+  {
+   "headword": "kích",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Vị giác” means the sense of taste, not appetite.",
+   "fix": "The aroma of the food stimulates the sense of taste."
+  },
+  {
+   "headword": "chủ mưu",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Chủ mưu” means a mastermind or masterminding an act, not a deliberate scheme or premeditated plan.",
+   "fix": "Remove sense 3."
+  }
+ ]
+}

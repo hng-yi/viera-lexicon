@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "phương châm",
+  "ràng",
+  "khoái khẩu",
+  "trân",
+  "vô phương",
+  "khờ dại",
+  "rạn nứt",
+  "khuyến cáo",
+  "tượng đài",
+  "thái bình",
+  "tiếp thu",
+  "cốt yếu",
+  "vay mượn",
+  "cố chấp",
+  "chà đạp",
+  "yên lành",
+  "bền",
+  "trường quay",
+  "kiểu mẫu",
+  "dương cầm",
+  "hung",
+  "gắt",
+  "liên hoàn",
+  "duyên phận",
+  "noi",
+  "rủi",
+  "cử hành",
+  "nhép",
+  "đương kim",
+  "mập mờ",
+  "khởi sự",
+  "tẩy não",
+  "ấn định",
+  "trương",
+  "phong tước",
+  "bất luận",
+  "chọt",
+  "lải nhải",
+  "cần sa",
+  "sinh sôi"
+ ],
+ "flags": [
+  {
+   "headword": "thái bình",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use is literary or elevated rather than neutral everyday speech, as reflected in [VDict](https://vdict.com/th%E1%BB%9Di%20b%C3%ACnh%2C3%2C0%2C0.html).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "ấn định",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb belongs to formal or official usage, so leaving it untagged misrepresents its register.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

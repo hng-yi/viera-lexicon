@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "làm màu",
+  "làm mối",
+  "làm ra vẻ",
+  "làm reo",
+  "làm theo",
+  "làm thinh",
+  "làm trâu làm ngựa",
+  "làm ơn làm phước",
+  "làm ơn mắc oán",
+  "làn điệu",
+  "làng nghề",
+  "làu táu",
+  "lá cây",
+  "lá gai",
+  "lá lành đùm lá rách",
+  "lá lốt",
+  "lá mía",
+  "lá ngón",
+  "lách chách",
+  "lách tách",
+  "láng mướt",
+  "lánh xa",
+  "láp báp",
+  "láu cá",
+  "láu lỉnh",
+  "láy rền",
+  "lâm ba",
+  "lâm li",
+  "lâm nghiệp",
+  "lâm râm",
+  "lâm sản",
+  "lâm viên",
+  "lân bang",
+  "lân la",
+  "lân quang",
+  "lâng",
+  "lâu ngày",
+  "lã chã",
+  "lão hoá",
+  "lão hóa"
+ ],
+ "flags": [
+  {
+   "headword": "làm màu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Làm màu refers to putting on a show or being pretentious, not simply overcomplicating something.",
+   "fix": "Remove sense 2 and merge its example into sense 1, translating it as: \"It's a simple matter, but you keep putting on a show.\""
+  },
+  {
+   "headword": "lách chách",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation replaces the boy's small stature with a trotting movement that the Vietnamese does not specify.",
+   "fix": "The tiny little boy followed behind his mother."
+  },
+  {
+   "headword": "lâm râm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common use describing mild, dull pain, as in đau bụng lâm râm ([usage examples](https://www.vinmec.com/vie/chu-de/dau-bung-lam-ram)).",
+   "fix": "Add: adj | mild and dull (of pain). Example: Tôi bị đau bụng lâm râm. = I have a mild, dull stomachache."
+  }
+ ]
+}

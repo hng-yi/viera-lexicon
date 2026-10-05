@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "nước đôi",
+  "chiến khu",
+  "cà tím",
+  "thân não",
+  "thùy trán",
+  "bất khả",
+  "sực nức",
+  "rầm rộ",
+  "choãi",
+  "cao niên",
+  "lai rai",
+  "trùng điệp",
+  "ấm ức",
+  "lử",
+  "sinh đồ",
+  "tò vò",
+  "giao thời",
+  "khu công nghiệp",
+  "phe phẩy",
+  "phụ âm",
+  "địa lí",
+  "chợ phiên",
+  "kiều",
+  "nhận thức luận",
+  "xạ hương",
+  "lọi",
+  "phong cấp",
+  "dân quyền",
+  "độc đạo",
+  "ngón chân",
+  "cá mè",
+  "lơ ngơ",
+  "lí thú",
+  "quang lâm",
+  "tiếng vang",
+  "tam cấp",
+  "phom",
+  "trễ tràng",
+  "khuỷu tay",
+  "ngơ ngẩn"
+ ],
+ "flags": [
+  {
+   "headword": "kiều",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kiều means invoking a deity or deceased spirit to possess a living person, rather than ordinary prayer for protection ([dictionary](https://vi.wiktionary.org/wiki/kiều)).",
+   "fix": "to invoke a deity or deceased spirit to possess a living person for questioning or supplication"
+  },
+  {
+   "headword": "kiều",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example describes ordinary ancestor worship and does not demonstrate the spirit-invocation meaning of kiều ([dictionary](https://vi.wiktionary.org/wiki/kiều)).",
+   "fix": "Họ làm lễ kiều vong. = They performed a ritual to summon a deceased spirit."
+  },
+  {
+   "headword": "lọi",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lọi means to remain or be left over, rather than to exclude someone from a group ([dictionary](https://vi.wiktionary.org/wiki/lọi)).",
+   "fix": "to remain; to be left over"
+  },
+  {
+   "headword": "lọi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Chẳng lọi một ai incorrectly uses lọi as a verb meaning to omit someone ([dictionary](https://vi.wiktionary.org/wiki/lọi)).",
+   "fix": "Tiêu hết tiền, chẳng lọi một đồng. = All the money was spent, with not a penny left."
+  },
+  {
+   "headword": "lí thú",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lí thú describes something interesting or enjoyable and does not have the stated noun meaning of pleasure taken in an activity ([dictionary](https://vi.wiktionary.org/wiki/lý_thú)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

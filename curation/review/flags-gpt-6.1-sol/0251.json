@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "mấu",
+  "hờn",
+  "đầu cơ",
+  "nước thải",
+  "tàn nhang",
+  "vái",
+  "vừa vặn",
+  "Thánh Thể",
+  "thánh thể",
+  "trang chủ",
+  "bươm bướm",
+  "tĩnh điện",
+  "châm cứu",
+  "thảm thiết",
+  "mần",
+  "lỗ chỗ",
+  "ươm",
+  "khổ hạnh",
+  "miết",
+  "xê",
+  "căm hờn",
+  "chăn gối",
+  "cao cường",
+  "gẫu",
+  "yên giấc",
+  "phẩy",
+  "bện",
+  "đũng",
+  "cận chiến",
+  "bông tuyết",
+  "tiếu lâm",
+  "phúc âm",
+  "ion",
+  "trắng bệch",
+  "đố kị",
+  "cải tổ",
+  "sinh trưởng",
+  "tán loạn",
+  "chồng chất",
+  "Mẹc"
+ ],
+ "flags": [
+  {
+   "headword": "đầu cơ",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Đầu cơ cơ hội” is not a natural Vietnamese expression for exploiting opportunities for personal gain.",
+   "fix": "Anh ta đầu cơ chính trị để kiếm lợi cho mình. = He exploits political opportunities for his own gain."
+  },
+  {
+   "headword": "vái",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Các sư thầy” refers to Buddhist monks here, not nuns.",
+   "fix": "She pressed her palms together and bowed to the monks."
+  },
+  {
+   "headword": "ươm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Ươm” does not mean a silkworm producing silk; “ươm tơ” refers to extracting silk from cocoons.",
+   "fix": "Remove sense 3."
+  }
+ ]
+}

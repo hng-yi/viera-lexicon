@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tua",
+  "bàn chân",
+  "đê tiện",
+  "nguy",
+  "xe lăn",
+  "đần độn",
+  "nền tảng",
+  "tuyệt hảo",
+  "chút xíu",
+  "man",
+  "tiêu cực",
+  "chân trời",
+  "nhục",
+  "hạnh",
+  "lậu",
+  "rải",
+  "giáo chủ",
+  "ói",
+  "nhanh nhẹn",
+  "danh thiếp",
+  "hấp hối",
+  "túi xách",
+  "bồi bàn",
+  "chùm",
+  "thiếu niên",
+  "hiệu lực",
+  "điền",
+  "muỗi",
+  "khiêu khích",
+  "nằm mơ",
+  "nòng",
+  "tiền lương",
+  "hoài nghi",
+  "xiếc",
+  "nội tạng",
+  "cám",
+  "nghiêm ngặt",
+  "hang động",
+  "tiểu bang",
+  "độc đáo"
+ ],
+ "flags": [
+  {
+   "headword": "tua",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Here tua means a round or circuit, rather than the activity of strolling ([dictionary](https://vdict.com/tua%2C3%2C0%2C0.html)).",
+   "fix": "round; circuit"
+  },
+  {
+   "headword": "man",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what man means instead of using it as a number.",
+   "fix": "Quân giặc có một man người. = The enemy army numbers ten thousand men."
+  },
+  {
+   "headword": "hạnh",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This fruit name is regional usage in southwestern Vietnam and needs a Southern tag ([source](https://tuoitre.vn/quat-mien-bac-quat-mien-trung-tac-mien-nam-mien-tay-goi-hanh-20180206115519014.htm)).",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "hạnh",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Hạnh is an everyday fruit name in parts of southwestern Vietnam, so rare misrepresents its local currency ([source](https://tuoitre.vn/quat-mien-bac-quat-mien-trung-tac-mien-nam-mien-tay-goi-hanh-20180206115519014.htm)).",
+   "fix": "Remove rare; use [Southern]."
+  }
+ ]
+}

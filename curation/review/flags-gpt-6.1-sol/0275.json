@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "ngoại thành",
+  "biểu trưng",
+  "nguy nga",
+  "vô nhân đạo",
+  "nhòm",
+  "biếm",
+  "nóng nực",
+  "cứu độ",
+  "lễ nghĩa",
+  "sần",
+  "hoài bão",
+  "láy",
+  "tuyệt nhiên",
+  "nhiệt kế",
+  "cổ nhân",
+  "ngu muội",
+  "kí kết",
+  "chất đạm",
+  "đinh ba",
+  "tà dâm",
+  "nòi",
+  "tốc",
+  "đổng",
+  "sởi",
+  "khắc chế",
+  "kích thích tố",
+  "khái quát",
+  "triệt sản",
+  "thông hiểu",
+  "thoái thác",
+  "quần sịp",
+  "nhà thuốc",
+  "Đức ông",
+  "đức ông",
+  "bánh bèo",
+  "dại khờ",
+  "an ninh mạng",
+  "điện trường",
+  "giễu",
+  "mù mịt"
+ ],
+ "flags": [
+  {
+   "headword": "nhòm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use of nhòm is mainly Northern Vietnamese, but the entry has no regional tag.",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "ngu muội",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ngu muội is derogatory and can insult them, rather than neutrally describe their lack of knowledge.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "khắc chế",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Khắc chế meaning to restrain one's feelings is formal language, which the untagged entry presents as suitable for ordinary casual speech.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "bánh bèo",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This meaning disparages people for perceived feminine weakness or effeminacy, and the slang tag does not warn learners that it is derogatory.",
+   "fix": "Keep slang and add derogatory."
+  }
+ ]
+}

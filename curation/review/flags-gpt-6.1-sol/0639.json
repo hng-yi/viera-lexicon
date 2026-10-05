@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "đường phân giác",
+  "đường phèn",
+  "đường phên",
+  "đường phổi",
+  "đường ranh",
+  "đường sinh",
+  "đường sắt cao tốc",
+  "đường sắt nhẹ",
+  "đường sữa",
+  "đường thuỷ",
+  "đường thốt nốt",
+  "đường tiêu hoá",
+  "đường trung bình",
+  "đường trung trực",
+  "đường tròn",
+  "đường tròn bàng tiếp",
+  "đường tròn ngoại tiếp",
+  "đường tròn nội tiếp",
+  "đường tỉnh",
+  "đường đường chính chính",
+  "được làm vua, thua làm giặc",
+  "được voi đòi tiên",
+  "được ăn cả, ngã về không",
+  "đượm đà",
+  "đạc điền",
+  "đại công quốc",
+  "đại danh từ",
+  "đại giáo đường",
+  "đại hoạ",
+  "đại học đường",
+  "đại hồng thuỷ",
+  "đại kiện tướng",
+  "đại lượng tỉ lệ nghịch",
+  "đại mạch",
+  "đại nghị",
+  "đại nhạc hội",
+  "đại não",
+  "đại quy mô",
+  "đại số học",
+  "đại số tuyến tính"
+ ],
+ "flags": [
+  {
+   "headword": "đường sinh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a generatrix is instead of showing the word in use.",
+   "fix": "Hãy tính độ dài đường sinh của hình nón này. = Calculate the slant height of this cone."
+  },
+  {
+   "headword": "đường đường chính chính",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression is also normal in everyday speech, so the literary tag misleadingly restricts its use.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "được làm vua, thua làm giặc",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Winner takes all” replaces the proverb's meaning that victory determines who is considered right with a claim about taking everything ([reference](https://en.wiktionary.org/wiki/thắng_làm_vua,_thua_làm_giặc)).",
+   "fix": "The two companies compete fiercely; it really is a case of the winner being deemed right and the loser wrong."
+  },
+  {
+   "headword": "đại giáo đường",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Xếp hàng dài” describes a long queue, not a long waiting time.",
+   "fix": "Visitors form a long queue to visit this grand cathedral."
+  }
+ ]
+}

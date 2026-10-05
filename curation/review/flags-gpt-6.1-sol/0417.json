@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bồ hòn",
+  "bồ kết",
+  "bồ nhí",
+  "bồ đào cầu khuẩn",
+  "bồ đề tâm",
+  "bồi bút",
+  "bồi bếp",
+  "bồi tự",
+  "bồm bộp",
+  "bồn binh",
+  "bồn địa",
+  "bồng chanh",
+  "bồng cốt",
+  "bổ chính",
+  "bổ dụng",
+  "bổ khuyết",
+  "bổ nghĩa",
+  "bổ ngữ",
+  "bổ thể",
+  "bổ tử",
+  "bổ đề",
+  "bổi hổi",
+  "bổn cũ soạn lại",
+  "bổng",
+  "bỗ bã",
+  "bộ Anh",
+  "bộ ba",
+  "bộ bài",
+  "bộ bài Tây",
+  "bộ bảy",
+  "bộ chế hoà khí",
+  "bộ gõ",
+  "bộ luật dân sự",
+  "bộ nhớ truy cập ngẫu nhiên",
+  "bộ nhớ đệm",
+  "bộ nhớ ảo",
+  "bộ năm",
+  "bộ sáu",
+  "bộ sậu",
+  "bộ thủ"
+ ],
+ "flags": [
+  {
+   "headword": "bồ hòn",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bồ hòn does not mean to have no worries, so this sense teaches an invented meaning.",
+   "fix": "Delete sense 2 and its example."
+  },
+  {
+   "headword": "bồng cốt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is local to Hải Phòng and needs a Northern warning, as recorded in [Wiktionary](https://en.wiktionary.org/wiki/bồng_cốt).",
+   "fix": "Add the tag Northern."
+  },
+  {
+   "headword": "bổng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning referring to a high-pitched voice or sound is missing, as documented in [Wiktionary](https://vi.wiktionary.org/wiki/bổng).",
+   "fix": "Add an adjective sense: high-pitched (of a voice or sound)."
+  },
+  {
+   "headword": "bộ nhớ truy cập ngẫu nhiên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the abbreviation RAM instead of showing the headword in use.",
+   "fix": "Máy tính này có tám gigabyte bộ nhớ truy cập ngẫu nhiên. = This computer has eight gigabytes of random access memory."
+  }
+ ]
+}

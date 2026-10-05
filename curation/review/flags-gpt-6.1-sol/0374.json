@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "hải chiến",
+  "cố hữu",
+  "lừ lừ",
+  "bộ điệu",
+  "nóng sốt",
+  "bách hợp",
+  "thao diễn",
+  "xâm thực",
+  "ngát",
+  "đồng rúp",
+  "truy thu",
+  "kì khôi",
+  "cô bé",
+  "đá hoa cương",
+  "Mã Lai",
+  "thủ thỉ",
+  "ăn mặn",
+  "đĩ đực",
+  "siêu virus",
+  "túy quyền",
+  "tháng mười hai",
+  "bổ củi",
+  "ăn lương",
+  "phim trường",
+  "lộp bộp",
+  "quạt trần",
+  "bất thành văn",
+  "bộ luật hình sự",
+  "danh thần",
+  "bia ôm",
+  "chủy thủ",
+  "chầu rìa",
+  "thố",
+  "chi cục",
+  "rối rít",
+  "thương tình",
+  "phòi",
+  "cứt ráy",
+  "giao cắt",
+  "nghĩa hiệp"
+ ],
+ "flags": [
+  {
+   "headword": "ăn mặn",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "In this sense, “Mình không ăn mặn” excludes fish as well as meat, whereas the translation excludes only meat.",
+   "fix": "I don't eat meat or fish."
+  },
+  {
+   "headword": "siêu virus",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation uses “supervirus,” which belongs to sense 1 rather than the ordinary-virus meaning specified for sense 2.",
+   "fix": "The whole world is afraid of the new virus."
+  }
+ ]
+}

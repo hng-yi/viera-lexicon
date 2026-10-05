@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "trùng",
+  "tha ma",
+  "thôn",
+  "đội ngũ",
+  "riêng biệt",
+  "dịu",
+  "mở màn",
+  "láo",
+  "chòng",
+  "băng bó",
+  "hồng ngoại",
+  "vương gia",
+  "một chiều",
+  "nghèo khổ",
+  "dứt",
+  "môi giới",
+  "gieo",
+  "chính nghĩa",
+  "man rợ",
+  "phát ốm",
+  "mốt",
+  "lây lan",
+  "chíp",
+  "khai báo",
+  "đảo lộn",
+  "giờ phút",
+  "trật",
+  "sen",
+  "siêu năng lực",
+  "tiện nghi",
+  "hình sự",
+  "trực giác",
+  "biệt kích",
+  "huyền bí",
+  "san hô",
+  "chuyên ngành",
+  "khan",
+  "quấy",
+  "chữ viết",
+  "gian"
+ ],
+ "flags": [
+  {
+   "headword": "thôn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Northern tag excludes ordinary Central Vietnamese usage, including official usage in Quảng Nam ([source](https://xaydungchinhsach.chinhphu.vn/toan-van-quy-hoach-tinh-quang-nam-thoi-ky-2021-2030-tam-nhin-den-nam-2050-119240118185302026.htm)).",
+   "fix": "Tags: Northern, Central."
+  },
+  {
+   "headword": "láo",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example needs nói láo to express lying; láo với mẹ alone means being insolent toward one's mother.",
+   "fix": "Nó nói láo với mẹ rằng nó đã đi học. = He lied to his mother, saying he'd gone to school."
+  },
+  {
+   "headword": "vương gia",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The title refers to someone holding the rank of prince and is not restricted to a ruler's brother ([source](https://www.vjol.info/vuong-gia-la-gi)).",
+   "fix": "prince (a man holding the title vương)"
+  },
+  {
+   "headword": "man rợ",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a people man rợ is derogatory, as the example itself illustrates.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "phát ốm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday literal meaning of becoming ill.",
+   "fix": "to get sick; to fall ill"
+  },
+  {
+   "headword": "trật",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Trật meaning incorrect or wrong is chiefly Southern usage.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "sen",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Sen as a term for a maidservant is disparaging, especially in con sen.",
+   "fix": "Tags: dated, derogatory."
+  },
+  {
+   "headword": "trực giác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines intuition instead of showing the word in use.",
+   "fix": "Tôi làm theo trực giác của mình. = I followed my intuition."
+  },
+  {
+   "headword": "quấy",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Quấy meaning morally wrong is characteristic of Southern usage ([source](https://www.tapchisonglam.vn/van-vuong-voi-phuong-ngu/)).",
+   "fix": "Tags: uncommon, Southern."
+  }
+ ]
+}

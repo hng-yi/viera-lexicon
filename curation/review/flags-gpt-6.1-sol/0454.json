@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "dâm bụt",
+  "dâm dê",
+  "dâm phụ",
+  "dân binh",
+  "dân chủ hoá",
+  "dân chủ hóa",
+  "dân chủ tập trung",
+  "dân chủ xã hội chủ nghĩa",
+  "dân cày",
+  "dân công",
+  "dân mạng",
+  "dân sinh",
+  "dân trí",
+  "dân trị",
+  "dân tuý",
+  "dân tộc chủ nghĩa",
+  "dân tộc học",
+  "dân vận",
+  "dân vệ",
+  "dân ý",
+  "dân đen",
+  "dâu trắng",
+  "dâu tằm",
+  "dây an toàn",
+  "dây gắm",
+  "dây mơ rễ má",
+  "dây nói",
+  "dây thường xuân",
+  "dây tóc",
+  "dã man con ngan",
+  "dã sử",
+  "dã tràng",
+  "dãy núi",
+  "dãy đồng đẳng",
+  "dè bỉu",
+  "dép lốp",
+  "dép tổ ong",
+  "dét",
+  "dê cụ",
+  "dê hoang dã"
+ ],
+ "flags": [
+  {
+   "headword": "dân trị",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's meaning instead of using it to refer to democracy.",
+   "fix": "Họ đấu tranh để thiết lập chế độ dân trị. = They struggled to establish a democratic system."
+  },
+  {
+   "headword": "dân trị",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains an old expression instead of using dân trị to describe something democratic.",
+   "fix": "Họ mong muốn xây dựng một quốc gia dân trị. = They hoped to build a democratic country."
+  },
+  {
+   "headword": "dây nói",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses what someone calls a telephone instead of using dây nói to refer to one.",
+   "fix": "Ông báo tin cho tôi qua dây nói. = He gave me the news over the telephone."
+  },
+  {
+   "headword": "dét",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter's name instead of using that name.",
+   "fix": "Hãy viết chữ dét ở cuối dòng. = Write the letter Z at the end of the line."
+  }
+ ]
+}

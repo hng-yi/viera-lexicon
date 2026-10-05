@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "thích khách",
+  "gấp khúc",
+  "lời khuyên",
+  "mắc mưu",
+  "phi cảng",
+  "ngoại xâm",
+  "lăng trì",
+  "nồi niêu",
+  "tráp",
+  "quần què",
+  "lươn lẹo",
+  "nguyên tác",
+  "sởn gáy",
+  "mộc mạc",
+  "nhẩn nha",
+  "tày đình",
+  "hồi quy",
+  "giáng hạ",
+  "bịt mắt",
+  "thuổng",
+  "nui",
+  "tài sắc",
+  "phong thấp",
+  "nội tiết",
+  "loà",
+  "cột buồm",
+  "sản khoa",
+  "dằng dặc",
+  "phép toán",
+  "chi li",
+  "ngọc nữ",
+  "bình quyền",
+  "nước ối",
+  "quyệt",
+  "trà đá",
+  "chủ nghĩa duy tâm",
+  "Đông Á",
+  "tòi",
+  "nhong nhong",
+  "công ước"
+ ],
+ "flags": [
+  {
+   "headword": "lăng trì",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the punishment instead of showing the word in use.",
+   "fix": "Tên tội phạm bị kết án lăng trì. = The criminal was sentenced to execution by slow slicing."
+  },
+  {
+   "headword": "quần què",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This expression is used as vulgar swearing, so slang and informal do not provide the necessary warning ([source](https://vanviet.info/tren-facebook/ci-quan-qu/)).",
+   "fix": "Add vulgar to the tags."
+  },
+  {
+   "headword": "quần què",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The literal expression does not mean ragged trousers with a leg torn off ([source](https://voh.com.vn/song-dep/quan-que-la-gi-438345.html)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "thuổng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar colloquial verb meaning to steal ([dictionary](https://vi.wiktionary.org/wiki/thu%E1%BB%95ng)).",
+   "fix": "verb [colloquial, humorous] | to steal; to swipe"
+  },
+  {
+   "headword": "nhong nhong",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation omits the jingling sound expressed by the headword ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-nhong%20nhong)).",
+   "fix": "With its harness bells jingling, the man's horse has returned."
+  },
+  {
+   "headword": "nhong nhong",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The everyday wandering sense is more useful first than the horse-bell sense associated with traditional verse.",
+   "fix": "Place sense 2 before sense 1."
+  }
+ ]
+}

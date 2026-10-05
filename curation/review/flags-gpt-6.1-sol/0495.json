@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "lang ben",
+  "lang bạt kì hồ",
+  "lanh lảnh",
+  "lantan",
+  "lao tố",
+  "lao xao",
+  "lao động phổ thông",
+  "lau chau",
+  "lau lách",
+  "lay phay",
+  "le le",
+  "lem nha lem nhem",
+  "leo cây",
+  "leo lét",
+  "li hương",
+  "li khai",
+  "lin-sơ",
+  "linh diệu",
+  "linh dương hoẵng",
+  "linh hồn mồ côi",
+  "linh ngữ",
+  "linh ta linh tinh",
+  "linh đinh",
+  "linh địa",
+  "liu điu",
+  "livermori",
+  "livestream",
+  "liên Triều",
+  "liên ba",
+  "liên chi",
+  "liên cầu khuẩn",
+  "liên khúc",
+  "liên kiều",
+  "liên kết cộng hóa trị",
+  "liên luỵ",
+  "liên minh cá nhân",
+  "liên tiểu bang",
+  "liên tỉnh",
+  "liên từ",
+  "liên đảng"
+ ],
+ "flags": [
+  {
+   "headword": "lantan",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what lanthanum is instead of showing the word in use.",
+   "fix": "Mẫu này chứa lantan. = This sample contains lanthanum."
+  },
+  {
+   "headword": "leo cây",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common literal meaning 'to climb a tree' is missing.",
+   "fix": "Add: verb | to climb a tree; ex: Bọn trẻ thích leo cây. = The children like climbing trees."
+  },
+  {
+   "headword": "li khai",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal political or organisational term whose untagged presentation suggests ordinary casual usage.",
+   "fix": "tags: [formal]"
+  },
+  {
+   "headword": "linh diệu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The word belongs to literary or elevated language and needs a warning against ordinary casual usage.",
+   "fix": "tags: [literary]"
+  },
+  {
+   "headword": "linh dương hoẵng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Chúng tôi nhìn thấy một con linh dương hoẵng trong rừng. = We saw a duiker in the forest."
+  },
+  {
+   "headword": "livermori",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the element by its atomic number instead of showing the word in use.",
+   "fix": "Các nhà khoa học đã tổng hợp được livermori. = Scientists have synthesised livermorium."
+  },
+  {
+   "headword": "liên ba",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example presents a triplet as one note, although it is a group of three notes ([music textbook](https://dbvietcatholic.info/CaDoan/tailieu/Nhac_Ly_Dien_Giai.pdf)).",
+   "fix": "Đoạn nhạc này có một nhóm liên ba. = This passage of music has a triplet."
+  },
+  {
+   "headword": "liên kiều",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what liên kiều is instead of showing the word in use.",
+   "fix": "Thầy thuốc cho thêm liên kiều vào bài thuốc. = The practitioner added forsythia to the medicinal formula."
+  }
+ ]
+}

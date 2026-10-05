@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "nhấp nhổm",
+  "vây cánh",
+  "đào hoa",
+  "cơ yếu",
+  "phép nhân",
+  "lom khom",
+  "tu hú",
+  "buýt",
+  "vẳng",
+  "bọ que",
+  "an trí",
+  "thân phụ",
+  "nhà tư tưởng",
+  "nghẹ",
+  "sấm sét",
+  "dềnh",
+  "cát cứ",
+  "sinh bệnh",
+  "ịt",
+  "cặp đôi",
+  "lễ trọng",
+  "định lí",
+  "bưu cục",
+  "tác thành",
+  "bác học",
+  "trường chinh",
+  "tử ngoại",
+  "thúc phụ",
+  "chia tách",
+  "mãi dâm",
+  "vỉa",
+  "mặt cắt",
+  "bôn ba",
+  "thượng vị",
+  "kẹo kéo",
+  "thướt tha",
+  "vẩn đục",
+  "đăng xuất",
+  "lai thế",
+  "kháy"
+ ],
+ "flags": [
+  {
+   "headword": "ịt",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ịt denotes a pig's grunt, not a dog's snarl or growl ([dictionary](https://vi.wiktionary.org/wiki/%E1%BB%8Bt)).",
+   "fix": "to grunt (of a pig)"
+  },
+  {
+   "headword": "ịt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The dog example uses ịt for the wrong animal sound ([dictionary](https://vi.wiktionary.org/wiki/%E1%BB%8Bt)).",
+   "fix": "Con lợn kêu ịt ịt trong chuồng. = The pig grunted in its pen."
+  },
+  {
+   "headword": "thúc phụ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thúc phụ means one's father's younger brother and does not include his younger sister's husband ([dictionary](https://vi.wiktionary.org/wiki/th%C3%BAc_ph%E1%BB%A5)).",
+   "fix": "uncle (father's younger brother)"
+  },
+  {
+   "headword": "thúc phụ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the kinship term instead of demonstrating its use.",
+   "fix": "Thúc phụ tôi vừa từ quê lên thăm gia đình. = My paternal uncle has just come from the countryside to visit the family."
+  },
+  {
+   "headword": "vỉa",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Vỉa is an introductory sung passage before the main melody in chèo, rather than an aria generally ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%E1%BB%89a)).",
+   "fix": "introductory sung passage in chèo"
+  },
+  {
+   "headword": "thượng vị",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In the example, thượng vị identifies the epigastric region, not a general meaning of upper or higher ([medical usage](https://bvnguyentriphuong.com.vn/tin-tu-cac-co-so-y-te/dau-bung-sau-an-nguyen-nhan-thuong-gap-va-dinh-huong-lam-sang)).",
+   "fix": "epigastric; relating to the upper central abdomen"
+  },
+  {
+   "headword": "kẹo kéo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The usual kẹo kéo has a crisp pulled-sugar exterior, so describing it as soft, chewy candy gives the wrong expectation ([Vietnamese Language Studies](https://vlstudies.wordpress.com/2021/07/20/vietnamese-culture-keo-keo/)).",
+   "fix": "pulled-sugar candy, usually with a peanut filling"
+  }
+ ]
+}

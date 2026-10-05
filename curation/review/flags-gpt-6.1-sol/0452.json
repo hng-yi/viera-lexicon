@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "da-ua",
+  "danh bất hư truyền",
+  "danh ca",
+  "danh chính ngôn thuận",
+  "danh cách",
+  "danh hoạ",
+  "danh lam",
+  "danh nhân",
+  "danh pháp",
+  "danh tài",
+  "danh tác",
+  "danh từ chung",
+  "danh từ hoá",
+  "danh từ hóa",
+  "danh từ riêng",
+  "danh tự",
+  "danh y",
+  "danh động từ",
+  "dao cau",
+  "dao rọc giấy",
+  "darmstadti",
+  "debate",
+  "debut",
+  "decimet",
+  "di chiếu",
+  "di cảo",
+  "di duệ",
+  "di hài",
+  "di lí",
+  "di thực",
+  "di truyền học",
+  "dinh tê",
+  "dinh-tê",
+  "diêm dân",
+  "diên vĩ",
+  "diêu bông",
+  "diếp cá",
+  "diễn biến hoà bình",
+  "diễn biến hòa bình",
+  "diễn ca"
+ ],
+ "flags": [
+  {
+   "headword": "danh pháp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses danh pháp to mean an individual scientific name, whereas it means a naming system ([reference](https://tudien.dolenglish.vn/danh-phap-tieng-anh-la-gi)).",
+   "fix": "Chúng tôi sử dụng danh pháp quốc tế để đặt tên cho các loài cây. = We use international nomenclature to name plant species."
+  },
+  {
+   "headword": "danh từ hoá",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines nominalisation instead of showing the word in use.",
+   "fix": "Cô giáo yêu cầu chúng tôi tìm các trường hợp danh từ hoá trong đoạn văn. = The teacher asked us to find instances of nominalisation in the passage."
+  },
+  {
+   "headword": "danh từ hóa",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines nominalisation instead of showing the word in use.",
+   "fix": "Cô giáo yêu cầu chúng tôi tìm các trường hợp danh từ hóa trong đoạn văn. = The teacher asked us to find instances of nominalisation in the passage."
+  },
+  {
+   "headword": "diêu bông",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Diêu bông originated as an imaginary plant in Hoàng Cầm's poetry, rather than in a folk song and tale ([Vietnam Literature Museum](https://baotangvanhoc.vn/cau-chuyen-nha-van/hoang-cam-hon-tho-doc-dao/)).",
+   "fix": "imaginary plant in Hoàng Cầm's poem Lá diêu bông, whose leaf a girl challenges others to find"
+  }
+ ]
+}

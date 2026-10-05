@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ăn bốc",
+  "ăn bớt",
+  "ăn cháo đá bát",
+  "ăn cháo đái bát",
+  "ăn chín uống sôi",
+  "ăn chắc mặc bền",
+  "ăn chặn",
+  "ăn chẹt",
+  "ăn chịu",
+  "ăn cơm",
+  "ăn cơm quốc gia, thờ ma cộng sản",
+  "ăn cơm trước kẻng",
+  "ăn cưới",
+  "ăn dầm nằm dề",
+  "ăn dặm",
+  "ăn dỗ",
+  "ăn giỗ",
+  "ăn hoa hồng",
+  "ăn hỏi",
+  "ăn khao",
+  "ăn không ngồi rồi",
+  "ăn lông ở lỗ",
+  "ăn lậm",
+  "ăn lồn",
+  "ăn miếng trả miếng",
+  "ăn mảnh",
+  "ăn nhờ ở đậu",
+  "ăn nằm",
+  "ăn phở",
+  "ăn quả nhớ kẻ trồng cây",
+  "ăn sóng nói gió",
+  "ăn sống",
+  "ăn thùng uống vại",
+  "ăn to nói lớn",
+  "ăn tráng miệng",
+  "ăn trưa",
+  "ăn trắng mặc trơn",
+  "ăn tàn phá hại",
+  "ăn tết",
+  "ăn tục nói phét"
+ ],
+ "flags": [
+  {
+   "headword": "ăn dặm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The word describes eating supplementary foods alongside milk, rather than specifically starting to eat them ([Vinmec](https://www.vinmec.com/vie/bai-viet/tap-cho-be-dam-nhu-nao-vi)).",
+   "fix": "(of a baby) to eat supplementary foods in addition to milk"
+  },
+  {
+   "headword": "ăn nằm",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The sexual sense is the usual contemporary meaning and should precede the cohabitation sense ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/ăn_nằm)).",
+   "fix": "Put sense 2 first, followed by senses 1 and 3."
+  }
+ ]
+}

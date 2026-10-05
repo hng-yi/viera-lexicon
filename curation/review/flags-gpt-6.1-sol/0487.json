@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "khóc than",
+  "khóc thuê",
+  "khói bụi",
+  "khô cạn",
+  "khô máu",
+  "khô queo",
+  "khôi giáp",
+  "khôi nguyên",
+  "khôi vĩ",
+  "khôn ba năm, dại một giờ",
+  "khôn nhà dại chợ",
+  "không ai",
+  "không bao giờ",
+  "không bào",
+  "không cánh mà bay",
+  "không có bông tuyết nào trong sạch",
+  "không có chi",
+  "không có gì",
+  "không có lửa làm sao có khói",
+  "không dám",
+  "không gian tên",
+  "không hề",
+  "không không",
+  "không kể xiết",
+  "không lưu",
+  "không mấy",
+  "không mời mà đến",
+  "không ngờ",
+  "không ngừng",
+  "không no",
+  "không quốc gia",
+  "không quốc tịch",
+  "không sao",
+  "không thành kế",
+  "không thầy đố mày làm nên",
+  "không thủ",
+  "không thủ đạo",
+  "không tặc",
+  "không vào hang cọp sao bắt được cọp con",
+  "không xương sống"
+ ],
+ "flags": [
+  {
+   "headword": "khóc thuê",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khóc thuê denotes mourning for payment, while a hired mourner is người khóc thuê ([usage](https://vnexpress.net/nghe-thuat-khoc-thue-2059643.html)).",
+   "fix": "verb | to mourn for payment at a funeral"
+  },
+  {
+   "headword": "không gian tên",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A namespace is a space containing names, not an individual domain name, which is tên miền ([VNNIC](https://vnnic.vn/sites/default/files/ten%20mien%20cuoi%207-6-2018%20%282%29.pdf)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

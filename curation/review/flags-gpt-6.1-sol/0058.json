@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "thủ tục",
+  "nhận thức",
+  "bảo trọng",
+  "yểm trợ",
+  "đàm phán",
+  "đầu mối",
+  "chúng tao",
+  "dê",
+  "khen",
+  "hoài",
+  "vô nghĩa",
+  "hàng rào",
+  "luật lệ",
+  "ngon lành",
+  "ngẫu nhiên",
+  "hàng đầu",
+  "phun",
+  "mức độ",
+  "kĩ",
+  "phán xét",
+  "đề cập",
+  "hỗn loạn",
+  "chẳng là",
+  "hoàn cảnh",
+  "bồn",
+  "giao dịch",
+  "nhạy cảm",
+  "mạch",
+  "ướt",
+  "thời đại",
+  "thuốc lá",
+  "tạ",
+  "muối",
+  "xuất phát",
+  "đối phó",
+  "tác động",
+  "bình minh",
+  "thống đốc",
+  "hô",
+  "nhân loại"
+ ],
+ "flags": [
+  {
+   "headword": "bảo trọng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This farewell sounds literary or ceremonious rather than like an ordinary casual goodbye.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "dê",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter's name instead of using that name in context.",
+   "fix": "Tên tôi bắt đầu bằng chữ dê. = My name starts with the letter D."
+  },
+  {
+   "headword": "ngon lành",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial meaning 'smoothly; without problems' is missing, as illustrated by everyday usage in this [example](https://huynhkhang.com/sua-may-tinh/sua-may-tinh-phuong-cau-ong-lanh/).",
+   "fix": "adv [colloquial] | smoothly; without problems. Ex: Máy vẫn chạy ngon lành. = The machine still runs without any problems."
+  },
+  {
+   "headword": "nhạy cảm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Sensuous' describes sensory pleasure and is not a meaning of nhạy cảm.",
+   "fix": "sensitive (of content: explicit or likely to disturb)"
+  },
+  {
+   "headword": "hô",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hô describes protruding front teeth, as defined in [Wiktionary](https://vi.wiktionary.org/wiki/h%C3%B4), whereas an underbite is called móm.",
+   "fix": "having protruding front teeth or an overbite"
+  }
+ ]
+}

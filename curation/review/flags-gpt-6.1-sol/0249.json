@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tự giác",
+  "chủ đạo",
+  "khế",
+  "phọt",
+  "kiêu",
+  "nội lực",
+  "vốn liếng",
+  "cột trụ",
+  "độc đoán",
+  "ướt nhẹp",
+  "nhão",
+  "trêu chọc",
+  "tiếp ứng",
+  "tới tấp",
+  "hỗn",
+  "nửa chừng",
+  "truyền đơn",
+  "quá độ",
+  "thiểu số",
+  "hối",
+  "dạ vâng",
+  "ba má",
+  "thụ động",
+  "điêu",
+  "giáo xứ",
+  "đái dầm",
+  "con bạc",
+  "ngáp",
+  "tiểu hổ",
+  "thượng thận",
+  "biên niên sử",
+  "phật lòng",
+  "mờ ảo",
+  "tái ngộ",
+  "máy chiếu",
+  "cá chép",
+  "hải mã",
+  "nhảy dựng",
+  "mo",
+  "tra cứu"
+ ],
+ "flags": [
+  {
+   "headword": "hối",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Standalone hối meaning to hurry someone is mainly Southern usage and needs a regional label ([source](https://vannghiep.vn/wp-content/uploads/2018/07/Truy%E1%BB%87n-N%C3%B4m-trong-s%C3%A1ng-t%C3%A1c-c%E1%BB%A7a-Nguy%E1%BB%85n-%C4%90%C3%ACnh-Chi%E1%BB%83u.pdf)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "tiểu hổ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Đầu ngõ means the entrance to the lane, whereas the translation places the restaurant at its end.",
+   "fix": "The place at the entrance to the lane serves \"little tiger\"."
+  },
+  {
+   "headword": "hải mã",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a seahorse instead of showing the word in use.",
+   "fix": "Tôi thấy một con hải mã bám vào rong biển. = I saw a seahorse clinging to seaweed."
+  }
+ ]
+}

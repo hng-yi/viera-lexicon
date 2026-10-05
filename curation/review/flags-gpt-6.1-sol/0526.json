@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "ngồi tù",
+  "ngồi yên",
+  "ngỗ ngược",
+  "ngộ ái nị",
+  "ngộ độc thực phẩm",
+  "ngột",
+  "ngớp",
+  "ngờ kép",
+  "ngờ đơn",
+  "ngời ngời",
+  "ngục thất",
+  "ngục tốt",
+  "ngụy khoa học",
+  "ngụy quân tử",
+  "ngụy đời",
+  "ngủ chay",
+  "ngủ gục",
+  "ngủ ngày",
+  "ngủ quên",
+  "ngủ say",
+  "ngủm củ tỏi",
+  "ngủng nghỉnh",
+  "ngứa chân",
+  "ngứa miệng",
+  "ngứa mồm",
+  "ngứa nghề",
+  "ngứa tai",
+  "ngứa tay",
+  "ngữ dụng học",
+  "ngữ hệ",
+  "ngữ học",
+  "ngữ khí",
+  "ngữ liệu",
+  "ngữ nghĩa học",
+  "ngữ nguyên",
+  "ngữ nguyên học",
+  "ngữ ngôn",
+  "ngữ tộc",
+  "ngữ văn",
+  "ngữ vực"
+ ],
+ "flags": [
+  {
+   "headword": "ngờ kép",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the name of ngh instead of showing the term in use.",
+   "fix": "Em viết thiếu chữ h trong ngờ kép rồi. = You left out the h in ngh."
+  },
+  {
+   "headword": "ngờ đơn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the name of ng instead of showing the term in use.",
+   "fix": "Từ này bắt đầu bằng ngờ đơn. = This word starts with ng."
+  },
+  {
+   "headword": "ngụy đời",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is a Central regional expression, recorded in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf), but it lacks a regional warning.",
+   "fix": "Add Central."
+  },
+  {
+   "headword": "ngữ dụng học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines pragmatics instead of showing the term in use.",
+   "fix": "Học kỳ này tôi học ngữ dụng học. = I'm studying pragmatics this semester."
+  },
+  {
+   "headword": "ngữ khí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ngữ khí is a formal or literary term for someone's tone, so the untagged entry misleadingly presents it as ordinary casual vocabulary.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "ngữ nghĩa học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines semantics instead of showing the term in use.",
+   "fix": "Cô ấy đang đọc một cuốn sách về ngữ nghĩa học. = She is reading a book about semantics."
+  },
+  {
+   "headword": "ngữ nguyên học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what etymology does instead of showing the term in use.",
+   "fix": "Ông ấy chuyên nghiên cứu ngữ nguyên học. = He specializes in etymology."
+  },
+  {
+   "headword": "ngữ tộc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the classification term instead of showing it in use.",
+   "fix": "Hai ngôn ngữ này thuộc cùng một ngữ tộc. = These two languages belong to the same language branch."
+  },
+  {
+   "headword": "ngữ văn",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines philology instead of showing the term in use.",
+   "fix": "Ông ấy là một học giả có nhiều đóng góp cho ngành ngữ văn. = He is a scholar who has made many contributions to philology."
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "banh",
+  "ban ngày",
+  "máy móc",
+  "thảm",
+  "tu",
+  "dị ứng",
+  "truyền hình",
+  "chợ",
+  "công thức",
+  "cẩn",
+  "sét",
+  "trang phục",
+  "búp bê",
+  "hở",
+  "thị trường",
+  "xe đạp",
+  "tải",
+  "tính mạng",
+  "làn",
+  "căng",
+  "tươi",
+  "danh tiếng",
+  "đề phòng",
+  "vai trò",
+  "còi",
+  "đo",
+  "pháo đài",
+  "thiết lập",
+  "thứ sáu",
+  "độc thân",
+  "canh chừng",
+  "la hét",
+  "danh tính",
+  "phong cách",
+  "hằng",
+  "yên tĩnh",
+  "nhân dân",
+  "ồn",
+  "rủi ro",
+  "đột biến"
+ ],
+ "flags": [
+  {
+   "headword": "dị ứng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday Vietnamese also uses dị ứng to mean strongly disliking or reacting negatively to something.",
+   "fix": "to have a strong aversion to; to strongly dislike"
+  },
+  {
+   "headword": "sét",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Sét meaning 'rust' is mainly Southern usage.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "làn",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Làn meaning a shopping basket is mainly Northern usage.",
+   "fix": "Add Northern."
+  },
+  {
+   "headword": "căng",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what căng means instead of demonstrating its use.",
+   "fix": "Con căng chuyền từ cành này sang cành khác. = The macaque swung from one branch to another."
+  },
+  {
+   "headword": "tươi",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tươi contrasts fresh or unpreserved food with dried or preserved food, but does not mean uncooked.",
+   "fix": "fresh; not dried or preserved"
+  },
+  {
+   "headword": "tươi",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Cá tươi means fresh fish here, whereas 'raw fish' incorrectly specifies that it is uncooked.",
+   "fix": "He sells both dried fish and fresh fish."
+  },
+  {
+   "headword": "nhân dân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nhân dân is a formal collective term used especially in official and political language.",
+   "fix": "Add formal."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "headwords": [
+  "du côn",
+  "viên chức",
+  "chiêm ngưỡng",
+  "dã ngoại",
+  "nhiếp ảnh",
+  "nguy kịch",
+  "phong tục",
+  "thời buổi",
+  "thú cưng",
+  "tuần hoàn",
+  "thái tử",
+  "triển vọng",
+  "điên dại",
+  "cao thượng",
+  "cơ khí",
+  "bái",
+  "phong độ",
+  "nệm",
+  "tin nhắn",
+  "thích ứng",
+  "sổ tay",
+  "tuổi tác",
+  "nóng nảy",
+  "bất cẩn",
+  "lắng",
+  "gả",
+  "trung gian",
+  "rà soát",
+  "hẵng",
+  "bốt",
+  "boa",
+  "ẩm ướt",
+  "trướng",
+  "rát",
+  "tính chất",
+  "tranh đấu",
+  "thanh bình",
+  "lâm nguy",
+  "e ngại",
+  "hải đăng"
+ ],
+ "flags": [
+  {
+   "headword": "du côn",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Đầu phố” means the beginning of the street, not the end.",
+   "fix": "The whole neighbourhood is afraid of the thugs at the beginning of the street."
+  },
+  {
+   "headword": "bái",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Bái” is formal or literary language for bowing in worship or respect.",
+   "fix": [
+    "formal"
+   ]
+  },
+  {
+   "headword": "nệm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Nệm” is mainly Southern usage for a mattress.",
+   "fix": [
+    "Southern"
+   ]
+  },
+  {
+   "headword": "trướng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Both examples use “dưới trướng” to mean being under someone's command rather than referring to a canopy or curtain.",
+   "fix": "Bức trướng che quanh giường. = The curtain hangs around the bed."
+  },
+  {
+   "headword": "lâm nguy",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Lâm nguy” is formal or literary language for being in peril.",
+   "fix": [
+    "formal"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "chiếu tướng",
+  "xua đuổi",
+  "tự lập",
+  "trước sau",
+  "dâng hiến",
+  "tín nhiệm",
+  "cao đẳng",
+  "dữ kiện",
+  "thành đạt",
+  "phô trương",
+  "lở",
+  "khai sáng",
+  "bu",
+  "thói",
+  "thính",
+  "giao du",
+  "ít ỏi",
+  "sáp",
+  "chất béo",
+  "như ý",
+  "cư trú",
+  "văn",
+  "vận dụng",
+  "nam châm",
+  "đối đãi",
+  "thiền",
+  "hệ quả",
+  "ám",
+  "bành",
+  "phận sự",
+  "truyền nhiễm",
+  "đột",
+  "nhừ tử",
+  "chịu khó",
+  "hoàn trả",
+  "chiến sự",
+  "cợt",
+  "đãng trí",
+  "nam giới",
+  "tráo"
+ ],
+ "flags": [
+  {
+   "headword": "dâng hiến",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is solemn, literary language, so leaving it untagged invites inappropriate use in ordinary casual speech.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "bu",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner today is more likely to encounter the verb meaning 'to crowd around' than the regional word for 'mother'.",
+   "fix": "Put sense 2 first, followed by senses 1 and 3."
+  },
+  {
+   "headword": "khai sáng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The sense 'to enlighten' belongs to formal discourse and needs a register warning.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

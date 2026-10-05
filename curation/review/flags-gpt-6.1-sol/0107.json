@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "nhập cư",
+  "mưu sát",
+  "thực tại",
+  "đục",
+  "bại",
+  "cảm biến",
+  "diễu hành",
+  "rung động",
+  "xạo",
+  "tự nhủ",
+  "trưng bày",
+  "tuân thủ",
+  "côn đồ",
+  "hiểm",
+  "số mệnh",
+  "đại biểu",
+  "bảo quản",
+  "trinh nữ",
+  "biệt đội",
+  "xoắn",
+  "trại giam",
+  "mã số",
+  "suy",
+  "chậm trễ",
+  "vội vã",
+  "mút",
+  "tặc",
+  "tàn ác",
+  "tịch thu",
+  "nhất trí",
+  "tụt",
+  "giả dối",
+  "nội dung",
+  "đa tạ",
+  "quẩy",
+  "gia tài",
+  "đón tiếp",
+  "dụ dỗ",
+  "huy hoàng",
+  "phản hồi"
+ ],
+ "flags": [
+  {
+   "headword": "nhập cư",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nhập cư denotes immigration, not the immigrants themselves, who are người nhập cư.",
+   "fix": "immigration"
+  },
+  {
+   "headword": "hiểm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Hiểm meaning dangerous terrain is also used in ordinary speech and is not restricted to literary language ([dictionary](https://www.rung.vn/dict/vn_vn/Hi%E1%BB%83m)).",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "xoắn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday verb meaning to twist something is missing ([VOV](https://vovgiaothong.vn/newsaudio/xoan-d31097.html)).",
+   "fix": "verb | to twist; to twist together"
+  },
+  {
+   "headword": "xoắn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common slang meaning worried or scared, as in Đừng xoắn, is missing ([VOV](https://vovgiaothong.vn/newsaudio/xoan-d31097.html)).",
+   "fix": "adj [slang] | worried; scared"
+  },
+  {
+   "headword": "gia tài",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Gia tài commonly means someone's total wealth or possessions without implying inheritance ([dictionary](https://loigiaihay.com/tu-dien-tv/gia-tai-etHiBOqLvlwIR.html)).",
+   "fix": "noun | fortune; wealth; all someone's possessions"
+  }
+ ]
+}

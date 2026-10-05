@@ -1,0 +1,87 @@
+{"b":"0008","h":"bên","op":"drop","i":7,"reason":"an aspect of a matter is mặt, not bên"}
+{"b":"0009","h":"đầu","op":"ex","i":4,"v":["Nhà tôi ở đầu ngõ.","My house is at the mouth of the lane."]}
+{"b":"0009","h":"bé","op":"tags","i":1,"v":["Northern"]}
+{"b":"0009","h":"lời","op":"tags","i":3,"v":["Southern"]}
+{"b":"0009","h":"nhận","op":"tags","i":5,"v":["Southern"]}
+{"b":"0009","h":"số","op":"drop","i":8,"reason":"no established standalone meaning 'tough-looking' (that is số má)"}
+{"b":"0010","h":"ba","op":"ex","i":3,"v":["Chị Ba nhà tôi bán bánh mì ở đầu hẻm.","My sister Ba, our family's second child, sells bánh mì at the end of the alley."]}
+{"b":"0010","h":"tại","op":"tags","i":1,"v":["formal"]}
+{"b":"0011","h":"kể","op":"add","i":2,"key":"list","pos":"verb","gloss":"to list; to name (one by one)","ex":["Em hãy kể tên ba loại trái cây.","Name three kinds of fruit."]}
+{"b":"0011","h":"thực sự","op":"add","i":2,"key":"real","pos":"adj","gloss":"real; genuine","ex":["Đây mới là vấn đề thực sự.","This is the real problem."]}
+{"b":"0012","h":"ư","op":"tags","i":1,"v":["literary"]}
+{"b":"0012","h":"đặt","op":"add","i":3,"key":"give-name","pos":"verb","gloss":"to give (a name or title); to make up (a sentence or question)","ex":["Họ đặt tên con là An.","They named their child An."]}
+{"b":"0012","h":"rời","op":"add","i":2,"key":"separate","pos":"adj","gloss":"separate; loose; detached","ex":["Tôi ghi số điện thoại vào một tờ giấy rời.","I wrote the phone number on a loose sheet of paper."]}
+{"b":"0013","h":"mời","op":"add","i":2,"key":"treat","pos":"verb","gloss":"to treat (pay for someone's food or drink)","ex":["Bữa này để tôi mời.","This meal is on me."]}
+{"b":"0013","h":"tiệt","op":"gloss","i":4,"v":"wiped out; exterminated (as in tiệt nòi, to wipe out a bloodline)"}
+{"b":"0013","h":"tiệt","op":"tags","i":4,"v":["uncommon"]}
+{"b":"0013","h":"cây","op":"add","i":6,"key":"kilometre","pos":"noun","tags":["colloquial"],"gloss":"kilometre (short for cây số)","ex":["Từ đây ra chợ chỉ khoảng hai cây thôi.","It's only about two kilometres from here to the market."]}
+{"b":"0013","h":"cây","op":"add","i":7,"key":"tael-of-gold","pos":"noun","gloss":"tael of gold (37.5 grams; cây vàng)","ex":["Ngày cưới, bố mẹ cho hai vợ chồng một cây vàng.","On their wedding day, her parents gave the couple a tael of gold."]}
+{"b":"0013","h":"quyết định","op":"add","i":3,"key":"decisive","pos":"adj","gloss":"decisive (of a role or factor)","ex":["Giáo viên có vai trò quyết định trong việc học của trẻ.","Teachers play a decisive role in children's learning."]}
+{"b":"0013","h":"ảnh","op":"tags","i":1,"v":[]}
+{"b":"0014","h":"bác","op":"gloss","i":2,"v":"uncle or aunt (an elder brother or sister of either parent)"}
+{"b":"0014","h":"bác","op":"ex","i":2,"v":["Bác tôi từ quê lên thăm nhà hôm qua.","My uncle came up from the countryside to visit us yesterday."]}
+{"b":"0014","h":"bác","op":"gloss","i":7,"v":"to scramble (eggs, stirring them in the pan)"}
+{"b":"0014","h":"bác","op":"ex","i":7,"v":["Mẹ đang bác trứng trong chảo.","Mum is scrambling eggs in the pan."]}
+{"b":"0014","h":"bác","op":"add","i":2,"key":"i-elder","pos":"pron","gloss":"I, me (an uncle, aunt or older adult speaking to someone who calls them bác)","ex":["Bác cho cháu cái kẹo này nhé.","Here, have this sweet from me."]}
+{"b":"0014","h":"thầy","op":"gloss","i":6,"v":"master; mentor (one who teaches a skill or a way of life)"}
+{"b":"0014","h":"thầy","op":"tags","i":6,"v":[]}
+{"b":"0014","h":"nàng","op":"tags","i":1,"v":["endearing","literary"]}
+{"b":"0014","h":"nàng","op":"ex","i":1,"v":["Chàng hoàng tử đã cứu nàng công chúa khỏi tòa tháp.","The prince rescued the princess from the tower."]}
+{"b":"0014","h":"yên","op":"tags","i":2,"v":[]}
+{"b":"0014","h":"thắng","op":"drop","i":7,"reason":"the meaning 'goal' belongs to bàn thắng, not thắng"}
+{"b":"0015","h":"thường","op":"drop","i":5,"reason":"unattested; its example only shows the everyday habitual sense"}
+{"b":"0015","h":"chả","op":"gloss","i":2,"v":"grilled or fried meat or fish, minced or in pieces (bún chả, chả cá)"}
+{"b":"0015","h":"phá","op":"add","i":2,"key":"make-mischief","pos":"verb","gloss":"to make mischief; to be a nuisance (of children)","ex":["Đừng phá nữa, để mẹ làm việc.","Stop being a nuisance and let Mum work."]}
+{"b":"0015","h":"quả","op":"tags","i":6,"v":["Southern","uncommon"]}
+{"b":"0016","h":"dám","op":"drop","i":3,"reason":"unattested ('to weep')"}
+{"b":"0016","h":"bàn","op":"tags","i":3,"v":["dated"]}
+{"b":"0016","h":"bàn","op":"gloss","i":4,"v":"classifier for goals scored"}
+{"b":"0016","h":"kéo","op":"add","i":2,"key":"last","pos":"verb","gloss":"to last; to go on (of an event, until a time)","ex":["Buổi họp kéo đến tận chiều.","The meeting went on until the afternoon."]}
+{"b":"0016","h":"cầm","op":"add","i":2,"key":"pawn","pos":"verb","gloss":"to pawn (leave an item as security for a loan)","ex":["Anh ấy cầm chiếc xe máy để vay tiền.","He pawned his motorbike to borrow money."]}
+{"b":"0017","h":"đám","op":"add","i":2,"key":"family-occasion","pos":"noun","gloss":"family occasion (a wedding, funeral or memorial feast)","ex":["Hôm nay nhà bên có đám nên đông người lắm.","The neighbours have a family do today, so it's very crowded."]}
+{"b":"0017","h":"thuộc","op":"tags","i":1,"v":[]}
+{"b":"0017","h":"hoạt động","op":"drop","i":3,"reason":"not an established adjective; 'active' is năng động or the verb (đang hoạt động)"}
+{"b":"0017","h":"trái","op":"tags","i":7,"v":[]}
+{"b":"0017","h":"nổ","op":"add","i":2,"key":"engine-start","pos":"verb","gloss":"to start; to run (of an engine)","ex":["Trời lạnh quá, xe đề mãi máy không nổ.","It was so cold the engine just wouldn't start."]}
+{"b":"0017","h":"nghỉ","op":"drop","i":5,"reason":"in its example 'by oneself' comes from lấy; nghỉ there is the archaic pronoun (sense 4)"}
+{"b":"0018","h":"trò","op":"add","i":2,"key":"pupil","pos":"noun","gloss":"pupil; student (as in thầy trò, teacher and pupil)","ex":["Thầy rất quý những trò chăm chỉ.","The teacher is very fond of his hard-working pupils."]}
+{"b":"0018","h":"thề","op":"drop","i":2,"reason":"the meaning 'swear words' belongs to chửi thề; thề is not a noun"}
+{"b":"0018","h":"tấm","op":"tags","i":2,"v":[]}
+{"b":"0018","h":"bóng","op":"add","i":3,"key":"light-bulb","pos":"noun","gloss":"light bulb (bóng đèn)","ex":["Bóng nhà vệ sinh cháy rồi, mai phải thay.","The toilet bulb has blown; I need to change it tomorrow."]}
+{"b":"0019","h":"buồn","op":"add","i":2,"key":"bored","pos":"adj","gloss":"bored (with nothing to do)","ex":["Ở nhà một mình chẳng có gì làm, buồn quá.","Home alone with nothing to do, I'm so bored."]}
+{"b":"0019","h":"mức","op":"ex","i":2,"v":["Chúng tôi thấy một cây mức ở bìa rừng.","We saw a mức tree at the edge of the forest."]}
+{"b":"0020","h":"quan hệ","op":"add","i":2,"key":"have-sex","pos":"verb","tags":["euphemistic"],"gloss":"to have sex (euphemism, short for quan hệ tình dục)","ex":["Họ chưa từng quan hệ trước khi cưới.","They never slept together before they married."]}
+{"b":"0020","h":"lớp","op":"gloss","i":6,"v":"scene (a subdivision of an act in a traditional play)"}
+{"b":"0020","h":"lớp","op":"ex","i":6,"v":["Hồi một, lớp hai","Act 1, Scene 2"]}
+{"b":"0020","h":"Viên","op":"gloss","i":1,"v":"Vienna"}
+{"b":"0020","h":"ờ","op":"drop","i":3,"reason":"in its example the 'no' is không; ờ is the hesitation of sense 2"}
+{"b":"0020","h":"giao","op":"gloss","i":2,"v":"to serve (a ball, in tennis or volleyball); to kick off (in football)"}
+{"b":"0020","h":"giao","op":"ex","i":2,"v":["Cô ấy giao bóng rất mạnh.","She serves the ball very hard."]}
+{"b":"0021","h":"tập","op":"tags","i":4,"v":["Southern"]}
+{"b":"0021","h":"tập","op":"gloss","i":6,"v":"bundle; stack (of paper)"}
+{"b":"0021","h":"tập","op":"ex","i":6,"v":["Văn phòng vừa mua năm tập giấy A4.","The office has just bought five bundles of A4 paper."]}
+{"b":"0021","h":"tập","op":"gloss","i":8,"v":"part; instalment (of a film series)"}
+{"b":"0021","h":"tập","op":"ex","i":8,"v":["Nghe nói phim đó sắp có tập hai.","I hear that film is getting a part two."]}
+{"b":"0021","h":"hỏng","op":"add","i":3,"key":"gone-bad","pos":"adj","gloss":"gone bad; spoiled (of food)","ex":["Để ngoài cả đêm nên thức ăn hỏng hết rồi.","It was left out all night, so the food has gone bad."]}
+{"b":"0021","h":"chà","op":"tags","i":3,"v":["Southern"]}
+{"b":"0021","h":"khẩu","op":"gloss","i":3,"v":"classifier for short pieces (of sugarcane) and quids (of betel)"}
+{"b":"0021","h":"khẩu","op":"tags","i":3,"v":[]}
+{"b":"0021","h":"khẩu","op":"ex","i":3,"v":["Bà mua cho cháu mấy khẩu mía đã róc vỏ.","Grandma bought the kids a few peeled pieces of sugarcane."]}
+{"b":"0022","h":"luật sư","op":"gloss","i":2,"v":"Vinaya master (a Buddhist monk specialising in monastic discipline)"}
+{"b":"0022","h":"luật sư","op":"ex","i":2,"v":["Vị luật sư giảng về giới luật cho các tăng sinh.","The Vinaya master teaches monastic discipline to the student monks."]}
+{"b":"0022","h":"loài","op":"tags","i":2,"v":[]}
+{"b":"0022","h":"xanh","op":"ex","i":5,"v":["Xuống bếp, Vịnh đổ mỡ vào xanh. Mỡ chảy ra trong những tiếng xèo xèo.","Going down to the kitchen, Vịnh put fat into the pan. It melted with a sizzle."]}
+{"b":"0022","h":"tự nhiên","op":"move","i":2,"to":1}
+{"b":"0022","h":"sống sót","op":"gloss","i":1,"v":"to survive (an accident, a disaster or other danger)"}
+{"b":"0022","h":"tầm","op":"ex","i":2,"v":["Để thuốc xa tầm tay trẻ em.","Keep medicines out of children's reach."]}
+{"b":"0022","h":"khốn kiếp","op":"tags","i":2,"v":["colloquial","derogatory"]}
+{"b":"0022","h":"khốn kiếp","op":"drop","i":3,"reason":"not an attested noun; its example is unnatural"}
+{"b":"0022","h":"ừm","op":"drop","i":3,"reason":"in its example the 'no' is không; ừm is the hesitation of sense 2"}
+{"b":"0022","h":"chiều","op":"gloss","i":1,"v":"afternoon; early evening"}
+{"b":"0023","h":"kêu","op":"add","i":3,"key":"complain","pos":"verb","gloss":"to complain; to moan (kêu ca)","ex":["Làm có tí việc mà cứ kêu mệt suốt.","He's done barely any work and keeps moaning that he's tired."]}
+{"b":"0023","h":"đảo","op":"gloss","i":3,"v":"to dart; to move quickly around (of the eyes)"}
+{"b":"0023","h":"chừng","op":"drop","i":4,"reason":"confused with chững (to falter); unattested for chừng"}
+{"b":"0024","h":"ả","op":"gloss","i":2,"v":"woman (contemptuous: that woman)"}
+{"b":"0024","h":"đón","op":"add","i":2,"key":"catch-transport","pos":"verb","gloss":"to catch (a bus, taxi or other transport)","ex":["Tôi ra đầu đường đón xe buýt.","I went to the end of the street to catch the bus."]}
+{"b":"0024","h":"bò","op":"ex","i":5,"v":["Vay vài bò gạo.","Borrow a few cans' worth of rice."]}
+{"b":"0024","h":"để ý","op":"add","i":2,"key":"fancy","pos":"verb","gloss":"to fancy; to have one's eye on (someone, romantically)","ex":["Hình như anh ấy để ý em lâu rồi đấy.","I think he's had his eye on you for a while."]}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "huý",
+  "huý kị",
+  "huấn hỗ",
+  "huấn hỗ học",
+  "huấn lệnh",
+  "huấn độc",
+  "huống",
+  "huống gì",
+  "huỳnh huỵch",
+  "huỷ",
+  "huỷ bỏ",
+  "huỷ diệt",
+  "huỷ hoại",
+  "hypebol",
+  "hà chính",
+  "hà cớ gì",
+  "hà hiếp",
+  "hà thủ ô",
+  "hài hoà",
+  "hài đồng",
+  "hài độc thoại",
+  "hàm hằng",
+  "hàm hợp",
+  "hàm lượng giác",
+  "hàm mũ",
+  "hàm ngôn",
+  "hàm súc",
+  "hàn lâm viện",
+  "hàn tà",
+  "hàn vi",
+  "hàn đới",
+  "hàng chợ",
+  "hàng hoá",
+  "hàng không mẫu hạm",
+  "hàng không vũ trụ",
+  "hàng ngày",
+  "hàng tướng",
+  "hành cung",
+  "hành khất",
+  "hành lang pháp lí"
+ ],
+ "flags": [
+  {
+   "headword": "huấn hỗ học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the discipline studies instead of showing the term in context.",
+   "fix": "Ông dành nhiều năm nghiên cứu huấn hỗ học. = He spent many years studying the exegesis of Hán texts."
+  },
+  {
+   "headword": "huấn độc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines huấn độc instead of using it in context.",
+   "fix": "Cuốn sách này bàn về lối huấn độc của người Việt xưa. = This book discusses the semantic reading of Chinese characters by Vietnamese people in the past."
+  },
+  {
+   "headword": "huấn độc",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what kundoku is instead of showing the term in context.",
+   "fix": "Ông đang nghiên cứu phương pháp huấn độc trong các tự viện Nhật Bản. = He is studying the kundoku method in Japanese Buddhist monasteries."
+  }
+ ]
+}

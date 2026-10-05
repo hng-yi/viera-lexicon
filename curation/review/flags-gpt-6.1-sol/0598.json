@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tân lịch",
+  "tân ngữ",
+  "tân niên",
+  "tân tinh",
+  "tân tạo",
+  "tân tổng thống",
+  "tân văn",
+  "tân xuân",
+  "tâng bốc",
+  "tây ban cầm",
+  "tèm lem",
+  "té giếng",
+  "téc",
+  "tê giác xám",
+  "tê giác đen",
+  "tê rần",
+  "tê thấp",
+  "tê-lếch",
+  "tên Nôm",
+  "tên chính",
+  "tên chữ",
+  "tên cúng cơm",
+  "tên gọi",
+  "tên hiệu",
+  "tên huý",
+  "tên hèm",
+  "tên húy",
+  "tên họ",
+  "tên lót",
+  "tên miền",
+  "tên tục",
+  "tên tự",
+  "tên đệm",
+  "tênh hênh",
+  "têooc",
+  "tì bà",
+  "tì hưu",
+  "tì kheo",
+  "tì kheo ni",
+  "tì tích"
+ ],
+ "flags": [
+  {
+   "headword": "tân tổng thống",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The phrase means a new president and also applies after taking office, so “president-elect” incorrectly implies that inauguration is still pending ([usage](https://baochinhphu.vn/tan-tong-thong-han-quoc-yoon-suk-yeol-tuyen-the-nham-chuc-102220510115546933.htm)).",
+   "fix": "new president; newly elected or newly inaugurated president"
+  },
+  {
+   "headword": "tên hèm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A tên hèm is a posthumous name used in ancestral prayers, rather than a dead person's name that is never spoken ([reference](https://www.namkyluctinh.org/a-vh-vminh/tvchi/tvchi-tangche.pdf)).",
+   "fix": "posthumous name used in ancestral rites"
+  },
+  {
+   "headword": "tên lót",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Tên lót” is primarily the Southern term for a middle name and needs a regional label ([reference](https://tenhay.vn/ten-dem-ten-lot-hay)).",
+   "fix": "[Southern]"
+  }
+ ]
+}

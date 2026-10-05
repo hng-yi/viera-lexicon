@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "phương thức cấu âm",
+  "phương thức sản xuất",
+  "phương tiện giao thông",
+  "phương trình hoá học",
+  "phương trình tham số",
+  "phương trình tổng quát",
+  "phương trình vi phân",
+  "phương án B",
+  "phướn",
+  "phường hội",
+  "phượng vĩ",
+  "phạm huý",
+  "phạm thượng",
+  "phải cái",
+  "phải gió",
+  "phải không",
+  "phải lòng",
+  "phản anh hùng",
+  "phản chiến",
+  "phản chứng",
+  "phản hạt",
+  "phản lưới nhà",
+  "phản lực cơ",
+  "phản tư",
+  "phản tỉnh",
+  "phản đế",
+  "phản đề",
+  "phản địa đàng",
+  "phản ứng cộng",
+  "phản ứng hoá học",
+  "phản ứng hóa học",
+  "phản ứng thế",
+  "phảng",
+  "phấn tiên",
+  "phất phơ",
+  "phần mềm có hại",
+  "phần mềm xấu",
+  "phần phụ",
+  "phẩm cách",
+  "phẩm hàm"
+ ],
+ "flags": [
+  {
+   "headword": "phạm huý",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what constitutes phạm huý instead of showing someone committing it.",
+   "fix": "Ông bị phạt vì phạm huý khi viết tên vua. = He was punished for breaking the naming taboo by writing the king's name."
+  },
+  {
+   "headword": "phảng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A phảng is a broad-bladed grass-clearing tool, whereas 'sickle' teaches a different tool ([description](https://baocantho.com.vn/cong-cu-lao-dong-xua-o-nam-bo-a121153.html)).",
+   "fix": "long-handled, broad-bladed cutting tool for clearing grass"
+  },
+  {
+   "headword": "phẩm cách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Phẩm cách belongs to formal or literary usage, so leaving it untagged suggests ordinary conversational vocabulary ([usage reference](https://loigiaihay.com/tu-dien-tv/pham-cach-ebRbjWjavqu29.html)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "phẩm hàm",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This sense refers to the old system of official ranks and needs a historical warning ([dictionary](https://v2.rung.vn/dict/vn_vn/Ph%E1%BA%A9m_h%C3%A0m)).",
+   "fix": "Add the tag historical."
+  }
+ ]
+}

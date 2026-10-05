@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thiên sứ",
+  "trọng tội",
+  "bở",
+  "nông thôn",
+  "binh lực",
+  "đợi chờ",
+  "tân hôn",
+  "đề bạt",
+  "mic",
+  "đảm nhiệm",
+  "chân vịt",
+  "thờ ơ",
+  "cấp tính",
+  "giá lạnh",
+  "hảo",
+  "bao bọc",
+  "gia truyền",
+  "mô tô",
+  "việt quất",
+  "đầu não",
+  "tì",
+  "suy thoái",
+  "chan",
+  "chay",
+  "đồng trinh",
+  "kền kền",
+  "nản lòng",
+  "kịch liệt",
+  "kiên cố",
+  "lằng nhằng",
+  "cương quyết",
+  "nọc độc",
+  "tình tiết",
+  "ghẹo",
+  "lập trường",
+  "tối ngày",
+  "khó dễ",
+  "vận tải",
+  "chủ chốt",
+  "cho hay"
+ ],
+ "flags": [
+  {
+   "headword": "ghẹo",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Standalone ghẹo meaning ‘to tease’ is mainly Southern usage, which needs a regional label ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-gh%E1%BA%B9o)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "cho hay",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cho hay meaning ‘let someone know’ is also natural in casual conversation, including the supplied example.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "cho hay",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This literary expression introduces an inference or conclusion, whereas ‘as a result’ incorrectly expresses a consequence ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-cho%20hay)).",
+   "fix": "it goes to show that; as one can infer"
+  }
+ ]
+}

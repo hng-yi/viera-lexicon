@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "quần",
+  "xu",
+  "thích hợp",
+  "thám tử",
+  "trả giá",
+  "thiệt",
+  "mặt nạ",
+  "kệ",
+  "sân",
+  "phe",
+  "rác",
+  "thiên thần",
+  "lãnh đạo",
+  "xây",
+  "vùng đất",
+  "vỏ",
+  "trung úy",
+  "lâu đài",
+  "loài người",
+  "đồ ăn",
+  "cỗ",
+  "đoàn",
+  "đương nhiên",
+  "chở",
+  "cô đơn",
+  "miền",
+  "đáp",
+  "cờ",
+  "sát thủ",
+  "tuy nhiên",
+  "hạt",
+  "lầu",
+  "điều trị",
+  "tài khoản",
+  "biết đâu",
+  "phó",
+  "tương tự",
+  "lầm",
+  "rửa",
+  "bông"
+ ],
+ "flags": [
+  {
+   "headword": "vỏ",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The tyre sense is mainly Southern usage, as documented in this [dialect study](https://docview.dlib.vn/tvs/2019/20190423/thuvienbrvt/tailieu_thuvienbrvt/39287_125493_1_pb_0582.pdf?rand=754329).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "hạt",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Hạt mưa and hạt sương are ordinary expressions used in everyday Vietnamese, so the literary tag misleadingly restricts this sense.",
+   "fix": "Remove the literary tag."
+  }
+ ]
+}

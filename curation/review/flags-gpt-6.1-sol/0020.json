@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tưởng tượng",
+  "chà",
+  "hộp",
+  "chúc mừng",
+  "tội",
+  "tiến sĩ",
+  "trước đây",
+  "ngạc nhiên",
+  "tin tưởng",
+  "mùa",
+  "hôm",
+  "trắng",
+  "thỏa thuận",
+  "Hoa",
+  "hoa",
+  "lá",
+  "lạnh",
+  "lùi",
+  "khu vực",
+  "tồn tại",
+  "hoàn hảo",
+  "não",
+  "dễ dàng",
+  "cháy",
+  "ngàn",
+  "quỷ",
+  "trộm",
+  "giả",
+  "đề nghị",
+  "quán",
+  "đảm bảo",
+  "đói",
+  "cuộc chiến",
+  "tăng",
+  "mở cửa",
+  "làm ơn",
+  "khẩu",
+  "ma",
+  "luật sư",
+  "hồ sơ"
+ ],
+ "flags": [
+  {
+   "headword": "chà",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The use of chà răng for brushing teeth is mainly Southern, as documented in [this discussion of Southern vocabulary](https://nguoihanoi.vn/doc-dao-phuong-ngu-mien-nam-73332.html).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "khẩu",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Một khẩu cơm is unnatural here because this classifier has restricted uses such as pieces of sugarcane or betel, documented in [the dictionary entry](https://vi.wiktionary.org/wiki/kh%E1%BA%A9u).",
+   "fix": "Mía được tiện thành từng khẩu. = The sugarcane is cut into bite-sized pieces."
+  },
+  {
+   "headword": "luật sư",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The religious sense denotes a Buddhist master of monastic discipline, rather than a village ritual priest, as defined in [this Buddhist dictionary](https://blog2.phapthihoi.org/tu-dien-phat-giao/luat-su/).",
+   "fix": "Buddhist monk specialising in monastic discipline (Vinaya)."
+  },
+  {
+   "headword": "luật sư",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Performing rites for villagers does not illustrate the documented [Buddhist discipline-master sense](https://blog2.phapthihoi.org/tu-dien-phat-giao/luat-su/).",
+   "fix": "Vị luật sư giảng về giới luật cho các tăng sinh. = The Vinaya master teaches monastic discipline to the student monks."
+  }
+ ]
+}

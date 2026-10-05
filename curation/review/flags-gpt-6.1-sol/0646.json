@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "đổ dầu vào lửa",
+  "đổ sập",
+  "đổ thêm dầu vào lửa",
+  "đổ thừa",
+  "đổ đốn",
+  "đổi chủ dịch nô",
+  "đỗi",
+  "độ C",
+  "độ F",
+  "độ K",
+  "độ Rích-te",
+  "độ phân giải",
+  "độc bản",
+  "độc huyền cầm",
+  "độc mồm độc miệng",
+  "đội lốt",
+  "đội quân",
+  "động danh từ",
+  "động lực học",
+  "động mạch chủ",
+  "động mạch cảnh",
+  "động mạch phổi",
+  "động phòng",
+  "động thực vật",
+  "động từ",
+  "động vật nguyên sinh",
+  "động đực",
+  "đột khởi",
+  "đớ",
+  "đớp thính",
+  "đớt",
+  "đời cha ăn mặn, đời con khát nước",
+  "đời nào",
+  "đờn ca tài tử",
+  "đợ",
+  "đụ mẹ",
+  "đụn cát",
+  "đụng đít",
+  "đủ ăn",
+  "đủ đầy"
+ ],
+ "flags": [
+  {
+   "headword": "động danh từ",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The term remains in current grammar teaching, so labeling it dated is misleading ([EF](https://www.ef.com.vn/tai-lieu-tieng-anh/ngu-phap-tieng-anh/dong-danh-tu/)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "động danh từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses the term's name instead of using it to refer to a gerund.",
+   "fix": "Cô giáo yêu cầu chúng tôi tìm động danh từ trong câu. = The teacher asked us to find the gerund in the sentence."
+  },
+  {
+   "headword": "động lực học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the discipline instead of showing the word in use.",
+   "fix": "Học kỳ này tôi học môn động lực học. = This semester I am taking dynamics."
+  },
+  {
+   "headword": "đụ mẹ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This curse uses the chiefly Central and Southern verb đụ but lacks regional labels ([Wiktionary](https://en.wiktionary.org/wiki/đụ)).",
+   "fix": "[vulgar, offensive, Central, Southern]"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "lân",
+  "trái lại",
+  "trôi chảy",
+  "bối cảnh",
+  "đắt đỏ",
+  "rã",
+  "sinh linh",
+  "kiểm dịch",
+  "tai tiếng",
+  "bon",
+  "ngời",
+  "bồn tắm",
+  "hoạt hình",
+  "hài kịch",
+  "cầm quyền",
+  "che chắn",
+  "đấm bóp",
+  "nói riêng",
+  "bưu kiện",
+  "bọ chét",
+  "nội trợ",
+  "giảng dạy",
+  "lạc hậu",
+  "ngân",
+  "phiền hà",
+  "quyền hành",
+  "công nghệ cao",
+  "panh",
+  "lò mổ",
+  "dày đặc",
+  "vụt",
+  "ẩn dật",
+  "vui thú",
+  "tiếc nuối",
+  "lưỡng lự",
+  "nịt",
+  "móc túi",
+  "giản dị",
+  "chuẩn đoán",
+  "quẹt"
+ ],
+ "flags": [
+  {
+   "headword": "lân",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Lân remains current in everyday discussion of fertilisers and plant nutrients.",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "lân",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Lân cận means neighbouring and does not illustrate the verb meaning to encroach.",
+   "fix": "Anh ấy ngồi lân sang chỗ của tôi. = He encroached on my space while sitting."
+  },
+  {
+   "headword": "đắt đỏ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Đắt đỏ is used throughout Vietnam, rather than mainly in the North.",
+   "fix": "Remove the Northern tag."
+  },
+  {
+   "headword": "nội trợ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning housework or homemaking is missing and is the meaning used in the first example.",
+   "fix": "Add noun: housework; homemaking."
+  },
+  {
+   "headword": "ẩn dật",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Ẩn dật is a literary expression for living in seclusion and needs a register warning.",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "ẩn dật",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The adjective retains the literary register of the word.",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "quẹt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of scraping against or sideswiping something, especially in traffic, is missing.",
+   "fix": "Add verb: to scrape against; to sideswipe."
+  }
+ ]
+}

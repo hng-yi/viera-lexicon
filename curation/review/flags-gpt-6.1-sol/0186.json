@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "lĩnh",
+  "đường cong",
+  "co thắt",
+  "oanh tạc",
+  "văn tự",
+  "hứng tình",
+  "trơ",
+  "lưu tâm",
+  "cân đối",
+  "nữ giới",
+  "công công",
+  "khinh miệt",
+  "đại lục",
+  "tráng miệng",
+  "khẩu phần",
+  "nhào lộn",
+  "gò",
+  "sâu đậm",
+  "quảng đại",
+  "cụm",
+  "vây hãm",
+  "khôn lỏi",
+  "uốn",
+  "dồi dào",
+  "đả thương",
+  "bước đầu",
+  "cầu nối",
+  "ca nhạc",
+  "đổi chác",
+  "hỏi cung",
+  "phức hợp",
+  "giả dụ",
+  "thẹo",
+  "cánh quạt",
+  "sát hạch",
+  "xuất tinh",
+  "tán dương",
+  "thạo",
+  "tiểu hành tinh",
+  "ác ý"
+ ],
+ "flags": [
+  {
+   "headword": "oanh tạc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal military term, so leaving it untagged misrepresents its register.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "văn tự",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The writing-system sense remains current in scholarly usage and is not archaic; see [the dictionary entry](https://hvdic.thivien.net/hv/v%C4%83n%20t%E1%BB%B1).",
+   "fix": "Replace archaic with formal."
+  },
+  {
+   "headword": "văn tự",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners today are more likely to encounter the writing-system sense than the old property-deed sense.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "trơ",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses the separate word trơ trọi rather than demonstrating trơ itself.",
+   "fix": "Mọi người đã về hết, chỉ còn trơ lại một mình anh ấy. = Everyone has gone home, leaving him all alone."
+  },
+  {
+   "headword": "lưu tâm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression belongs to formal or careful speech and needs a register label.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "gò",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gò means a raised mound of land, not an island; see [the dictionary entry](https://www.rung.vn/dict/vn_vn/G%C3%B2).",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "gò",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common sense of forcing someone or oneself into constraints is missing; see [the dictionary entry](https://www.rung.vn/dict/vn_vn/G%C3%B2).",
+   "fix": "Add a verb sense: to constrain; to force into a prescribed pattern; example: Tôi không muốn gò mình theo ý người khác. = I don't want to force myself to conform to other people's wishes."
+  },
+  {
+   "headword": "ca nhạc",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ca nhạc does not mean musicality, and the rare tag cannot make this invented sense valid; see [the dictionary entry](https://www.rung.vn/dict/vn_vn/Ca_nh%E1%BA%A1c).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "phức hợp",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phức hợp is not a verb meaning to mix ingredients; see [the dictionary entry](https://www.rung.vn/dict/vn_vn/Ph%E1%BB%A9c_h%E1%BB%A3p).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

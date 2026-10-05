@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "lưu vực",
+  "dẫn nhập",
+  "quánh",
+  "trò hề",
+  "luống tuổi",
+  "thân mẫu",
+  "lưỡng cực",
+  "nham nhở",
+  "tối giản",
+  "quyên sinh",
+  "truy tặng",
+  "tầm nhìn",
+  "hầm hố",
+  "bỏ ngỏ",
+  "vẻ mặt",
+  "hừng hực",
+  "trớ",
+  "thẳng góc",
+  "tinh mơ",
+  "mon men",
+  "bản tin",
+  "đạm bạc",
+  "sản vật",
+  "thiên kiến",
+  "âm li",
+  "bổ túc",
+  "băng trôi",
+  "thê tử",
+  "đại trà",
+  "trong vắt",
+  "phân minh",
+  "dame",
+  "bề bộn",
+  "cầu lông",
+  "loạn thần",
+  "cây ăn quả",
+  "vậy hả",
+  "liti",
+  "hổ quyền",
+  "phẩm"
+ ],
+ "flags": [
+  {
+   "headword": "dẫn nhập",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use of dẫn nhập belongs to formal or academic writing and needs a register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "dẫn nhập",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The verb dẫn nhập is formal or academic rather than ordinary conversational vocabulary.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tinh mơ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Tinh mơ is natural in everyday speech, especially in sáng tinh mơ and sớm tinh mơ, so the literary tag misleadingly restricts its use.",
+   "fix": "Remove the tag literary."
+  }
+ ]
+}

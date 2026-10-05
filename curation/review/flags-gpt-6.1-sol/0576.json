@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thơ con cóc",
+  "thơ phú",
+  "thơ thất ngôn tứ tuyệt",
+  "thơ Đường",
+  "thư hoạ",
+  "thư hùng",
+  "thư lại",
+  "thư pháp gia",
+  "thư thể",
+  "thư tịch",
+  "thưng",
+  "thương cho roi cho vọt, ghét cho ngọt cho bùi",
+  "thương cảng",
+  "thương hải tang điền",
+  "thương hồ",
+  "thương người như thể thương thân",
+  "thương pháp",
+  "thương số",
+  "thương đội",
+  "thước đo góc",
+  "thườn thượt",
+  "thường hay",
+  "thường kì",
+  "thường trú dân",
+  "thường xanh",
+  "thưởng trăng",
+  "thược dược",
+  "thượng cẳng chân, hạ cẳng tay",
+  "thượng lộ bình an",
+  "thượng nghị viện",
+  "thượng thặng",
+  "thượng toạ",
+  "thượng tọa",
+  "thượng uý",
+  "thạch anh",
+  "thạch bản",
+  "thạch dừa",
+  "thạch lựu",
+  "thạch nhũ",
+  "thạch quyển"
+ ],
+ "flags": [
+  {
+   "headword": "thượng toạ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This title is used for senior monks; the corresponding title for nuns is ni sư ([source](https://phattuvn.org/cach-xung-ho-trong-phat-giao.html)).",
+   "fix": "Venerable; senior Buddhist monk (honorific title)"
+  },
+  {
+   "headword": "thượng tọa",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This title is used for senior monks; the corresponding title for nuns is ni sư ([source](https://phattuvn.org/cach-xung-ho-trong-phat-giao.html)).",
+   "fix": "Venerable; senior Buddhist monk (honorific title; variant spelling of thượng toạ)"
+  },
+  {
+   "headword": "thạch quyển",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Các nhà khoa học nghiên cứu sự chuyển động của các mảng thạch quyển. = Scientists study the movement of lithospheric plates."
+  }
+ ]
+}

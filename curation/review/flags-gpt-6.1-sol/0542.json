@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "phiếu bầu",
+  "pho tượng",
+  "phong ba bão táp không bằng ngữ pháp Việt Nam",
+  "phong cầm",
+  "phong hoá",
+  "phong hóa",
+  "phong sát",
+  "phong sương",
+  "phong thuỷ",
+  "phong thần",
+  "phong thổ",
+  "phong toả",
+  "phong tục tập quán",
+  "phong vị",
+  "photphat",
+  "photpho",
+  "photphua",
+  "phoóc-măng",
+  "phu phen",
+  "phu phụ",
+  "phu xe",
+  "phu-la",
+  "phuốc-sét",
+  "phàm ăn tục uống",
+  "phành phạch",
+  "phá bản",
+  "phá cỗ",
+  "phá gia chi tử",
+  "phá huỷ",
+  "phá lấu",
+  "phá nước",
+  "phá rừng",
+  "phá đám",
+  "phá đảo",
+  "phác hoạ",
+  "phách",
+  "phái mạnh",
+  "phái sinh",
+  "phái yếu",
+  "phái đẹp"
+ ],
+ "flags": [
+  {
+   "headword": "phuốc-sét",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word means instead of using it to refer to a fork.",
+   "fix": "Ông dùng phuốc-sét để ăn. = He used a fork to eat."
+  },
+  {
+   "headword": "phá gia chi tử",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory label for a child who ruins the family fortune, as confirmed by [VOH](https://voh.com.vn/song-dep/y-nghia-cau-noi-pha-gia-chi-tu-la-gi-545114.html), but it lacks a warning tag.",
+   "fix": "tags: [idiomatic, derogatory]"
+  }
+ ]
+}

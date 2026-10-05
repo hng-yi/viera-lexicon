@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bà đỡ",
+  "hối thúc",
+  "chủ trương",
+  "tô điểm",
+  "hệ số",
+  "dân lành",
+  "đặc thù",
+  "bách",
+  "khả ái",
+  "thoi thóp",
+  "tái giá",
+  "ám hại",
+  "sinh ra",
+  "si tình",
+  "nguyệt thực",
+  "cao tay",
+  "ren",
+  "vô phép",
+  "dúm",
+  "giáo điều",
+  "đước",
+  "trặc",
+  "thủy quái",
+  "hành thích",
+  "khen thưởng",
+  "soi rọi",
+  "ngân quỹ",
+  "phân rã",
+  "càu nhàu",
+  "kính nể",
+  "hạn hẹp",
+  "tiền thưởng",
+  "sài",
+  "cửa ngõ",
+  "chào cờ",
+  "cờ vua",
+  "án binh bất động",
+  "xà beng",
+  "mịn màng",
+  "tiếng lóng"
+ ],
+ "flags": [
+  {
+   "headword": "sinh ra",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning ‘to cause; to give rise to’ is missing ([dictionary](https://vdict.com/sinh%20ra%2C3%2C0%2C0.html)).",
+   "fix": "Add: verb | to cause; to give rise to. Example: Thiếu ngủ sinh ra nhiều vấn đề sức khỏe. = Lack of sleep causes many health problems."
+  },
+  {
+   "headword": "vô phép",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "‘Vô phép’ concerns disrespect or an apologetic breach of etiquette, rather than simply lacking permission ([dictionary](https://loigiaihay.com/tu-dien-tv/vo-phep-eWuucnxHOGR8L.html)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "sài",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The verb meaning ‘to use; to spend’ is correctly spelled ‘xài’, so this card teaches the wrong word ([spelling explanation](https://nghengu.vn/tieng-nghe-cua-toi/sai-tien-hay-xai-tien-1793.html)).",
+   "fix": "Move this sense to headword ‘xài’, retaining Southern and colloquial; correct the example to: Cậu xài điện thoại gì vậy?"
+  }
+ ]
+}

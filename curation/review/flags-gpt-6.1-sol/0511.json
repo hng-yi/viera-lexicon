@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "máy điều hòa không khí",
+  "máy điều hòa nhiệt độ",
+  "máy đánh chữ",
+  "máy đèn",
+  "mâm cỗ",
+  "mâm xôi",
+  "mân côi",
+  "mân mó",
+  "mã bưu chính",
+  "mã cầu",
+  "mã hoá",
+  "mã lặc",
+  "mã não",
+  "mã tà",
+  "mã đầu cầm",
+  "mãn nhãn",
+  "mãng cầu",
+  "mãng cầu ta",
+  "mãng cầu tây",
+  "mãng cầu xiêm",
+  "mãnh lực",
+  "mèm",
+  "mèn mén",
+  "mèng đéc ơi",
+  "mèng ơi",
+  "mèo báo",
+  "mèo già hoá cáo",
+  "mèo khen mèo dài đuôi",
+  "mèo mướp",
+  "mèo mả gà đồng",
+  "mèo rừng",
+  "mèo tam thể",
+  "mê hồn trận",
+  "mê mải",
+  "mê-tơ-rô",
+  "mênh",
+  "mênh mang",
+  "mì Quảng",
+  "mì chính",
+  "mì căn"
+ ],
+ "flags": [
+  {
+   "headword": "mã cầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains how polo is played instead of showing the word in ordinary use.",
+   "fix": "Anh ấy thích chơi mã cầu. = He likes playing polo."
+  },
+  {
+   "headword": "mèo rừng",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners in Vietnam are more likely to encounter the leopard-cat meaning, which is used by [Vietnamese wildlife authorities](https://kiemlamangiang.gov.vn/index.php?matin=108&page=front&tuychon=tintuc).",
+   "fix": "Put sense 2, leopard cat (Prionailurus bengalensis), before sense 1, wildcat (Felis silvestris)."
+  }
+ ]
+}

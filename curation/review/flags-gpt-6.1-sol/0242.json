@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "hết hồn",
+  "nở rộ",
+  "thăm viếng",
+  "năng",
+  "amoniac",
+  "đánh bật",
+  "cơ giới",
+  "xếp đặt",
+  "biệt tài",
+  "gốc gác",
+  "nhạc nhẽo",
+  "xung kích",
+  "diễn đàn",
+  "mom",
+  "bon chen",
+  "đung đưa",
+  "hoạt náo",
+  "ẩm thấp",
+  "cuốc bộ",
+  "nôn nao",
+  "lê la",
+  "nhăn nhó",
+  "tích tụ",
+  "nham hiểm",
+  "hành tây",
+  "Chiêm",
+  "tư sản",
+  "địch thủ",
+  "đạm",
+  "á phiện",
+  "cam tâm",
+  "cấp thiết",
+  "no nê",
+  "sững sờ",
+  "hồ đồ",
+  "đú",
+  "công binh",
+  "trêu ngươi",
+  "hành chính",
+  "tì vết"
+ ],
+ "flags": [
+  {
+   "headword": "hết hồn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common standalone meaning 'to be startled or frightened' is missing, as in 'Anh làm tôi hết hồn.'",
+   "fix": "verb | to be startled; to be scared out of one's wits"
+  },
+  {
+   "headword": "mom",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Online 'mom' can address people regardless of gender or parenthood, as documented by [Znews](https://lifestyle.zingnews.vn/vi-sao-ai-cung-goi-nhau-la-mom-post1496578.html).",
+   "fix": "you (a playful online form of address)"
+  },
+  {
+   "headword": "Chiêm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This denotes a crop season spanning the cold-season planting and early hot-season harvest, rather than the fifth lunar month or summer generally ([dictionary](https://thuviensach.vn/img/pdf/6762-tu-dien-tieng-viet-thuviensach.vn.pdf)).",
+   "fix": "adj | of the rice or crop season planted at the beginning of the cold season and harvested at the beginning of the hot season in northern Vietnam"
+  },
+  {
+   "headword": "địch thủ",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This meaning remains current in sports reporting and is misleadingly tagged dated ([example](https://tuoitre.vn/nam-kho-quen-cua-lang-bong-da-dinh-cao-20251231070044458.htm)).",
+   "fix": "Remove dated."
+  },
+  {
+   "headword": "đạm",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The agricultural nitrogen sense remains current in ordinary discussions of fertiliser and plant nutrition ([example](https://doc.edu.vn/tai-lieu/sang-kien-kinh-nghiem-su-dung-cac-ki-thuat-day-hoc-tich-cuc-vao-day-chu-de-tich-hop-nito-voi-thuc-vat-cho-hoc-sinh-khoi-111756/)).",
+   "fix": "Remove dated; retain in-compounds."
+  },
+  {
+   "headword": "á phiện",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old term for opium and needs a dated label ([dictionary](https://tudientv.com/?t=%C3%A1+phi%E1%BB%87n)).",
+   "fix": "Add dated."
+  },
+  {
+   "headword": "đú",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This use disparages someone for copying others and needs a derogatory warning ([usage explanation](https://diachishophoa.com/du-nghia-la-gi-bv2122.htm)).",
+   "fix": "Tags: colloquial, derogatory."
+  }
+ ]
+}

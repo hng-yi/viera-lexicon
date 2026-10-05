@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "ngoại trừ",
+  "hoàng tử",
+  "hợp đồng",
+  "chia sẻ",
+  "nha",
+  "đậu",
+  "động cơ",
+  "khám phá",
+  "chuẩn",
+  "đối xử",
+  "ngờ",
+  "chúng mày",
+  "yếu",
+  "phố",
+  "đòi",
+  "phù hợp",
+  "giam",
+  "báo động",
+  "hiện tại",
+  "phí",
+  "sát",
+  "ung thư",
+  "tiêu",
+  "căng thẳng",
+  "Thần Kinh",
+  "thần kinh",
+  "liên bang",
+  "nâng",
+  "dấu vết",
+  "vứt",
+  "chịu đựng",
+  "đột nhập",
+  "kem",
+  "phu nhân",
+  "nhốt",
+  "cấm",
+  "ghê",
+  "xuyên",
+  "độc",
+  "chiến binh"
+ ],
+ "flags": [
+  {
+   "headword": "đậu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common everyday meaning 'tofu', as in đậu rán or một bìa đậu, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91%E1%BA%ADu)).",
+   "fix": "noun | tofu"
+  },
+  {
+   "headword": "đậu",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Đậu meaning 'park a vehicle' is mainly Southern usage.",
+   "fix": "tags: [Southern]"
+  },
+  {
+   "headword": "đậu",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đậu phộng means 'peanut', but đậu does not independently mean nuts in general.",
+   "fix": "Remove this sense; đậu phộng belongs under the bean/legume sense."
+  },
+  {
+   "headword": "chuẩn",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chuẩn does not mean 'suitable' in the construction chuẩn với dáng của anh.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "sát",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Sát chồng attributes a husband's premature death to his wife's fate, rather than simply predicting widowhood ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-s%C3%A1t)).",
+   "fix": "The fortune teller said her fate would cause her husband to die prematurely."
+  },
+  {
+   "headword": "thần kinh",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone thần kinh meaning 'crazy' is derogatory and can offend.",
+   "fix": "tags: [informal, derogatory]"
+  },
+  {
+   "headword": "kem",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kem does not have a separate meaning 'smoothie' or 'frozen drink' ([dictionary](https://thuvienvh.online/tu-dien-tv/kem/)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "phu nhân",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The respectful use of phu nhân for a high-status man's wife remains current and is not restricted to historical settings ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-phu%20nh%C3%A2n)).",
+   "fix": "Replace [historical] with [formal, honorific]."
+  },
+  {
+   "headword": "độc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The everyday colloquial meaning 'only; just', as in độc một người, is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91%E1%BB%99c)).",
+   "fix": "adv [colloquial] | only; just"
+  }
+ ]
+}

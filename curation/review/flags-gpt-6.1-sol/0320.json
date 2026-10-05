@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "nhấp nhô",
+  "beo",
+  "nông phu",
+  "phi thân",
+  "tiêu pha",
+  "bình phẩm",
+  "đàm",
+  "bội tín",
+  "nề nếp",
+  "bức xúc",
+  "thương nghiệp",
+  "cỗ xe",
+  "công ơn",
+  "ríu rít",
+  "mật thư",
+  "nháo nhào",
+  "ống hút",
+  "tang tóc",
+  "bugi",
+  "hớ hênh",
+  "ngữ nghĩa",
+  "mã tấu",
+  "đường chim bay",
+  "tu dưỡng",
+  "ngân nga",
+  "roi vọt",
+  "khăn tắm",
+  "hiền nhân",
+  "lãng xẹt",
+  "đạo Phật",
+  "khướu",
+  "đồng ruộng",
+  "biểu mẫu",
+  "phong vương",
+  "báo danh",
+  "tuần tiễu",
+  "biến chuyển",
+  "lông mi",
+  "chung tình",
+  "động dục"
+ ],
+ "flags": [
+  {
+   "headword": "thương nghiệp",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sector-level term belongs mainly to formal economic writing and needs a register label ([dictionary](https://loigiaihay.com/tu-dien-tv/thuong-nghiep-e28OcJJgEHxqB.html)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "phong vương",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The title could also be conferred on meritorious officials, so restricting recipients to royal relatives is false ([historical study](https://thanhdiavietnamhoc.com/dinh-che-phong-vuong-o-viet-nam-thoi-quan-chu/)).",
+   "fix": "to confer the title of vương (prince or king)"
+  },
+  {
+   "headword": "báo danh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Báo danh does not mean a list of registered candidates; its dictionary meaning is a verb concerning reporting candidates' names ([dictionary](https://www.rung.vn/dict/vn_vn/B%C3%A1o_danh)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

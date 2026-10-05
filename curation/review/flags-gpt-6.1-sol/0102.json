@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "phi cơ",
+  "sương mù",
+  "dự tính",
+  "định cư",
+  "phân phối",
+  "di cư",
+  "ứng dụng",
+  "nghĩa trang",
+  "kết bạn",
+  "đoàn tụ",
+  "chừa",
+  "hòm",
+  "bệnh dịch",
+  "dịu dàng",
+  "lạnh lẽo",
+  "xâm chiếm",
+  "xu hướng",
+  "tã",
+  "dĩa",
+  "châu báu",
+  "tuyệt diệu",
+  "sung sướng",
+  "cay",
+  "lúa",
+  "phòng khám",
+  "hoan hô",
+  "vi",
+  "điện thoại di động",
+  "hạm đội",
+  "tê liệt",
+  "thắng lợi",
+  "mọt",
+  "giúp việc",
+  "hưởng thụ",
+  "xơi",
+  "rèn",
+  "pháo hoa",
+  "vận",
+  "cào",
+  "đặc quyền"
+ ],
+ "flags": [
+  {
+   "headword": "nghĩa trang",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nghĩa trang is an ordinary word used in everyday speech, so the formal tag is misleading.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "lạnh lẽo",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The sense meaning desolate or cheerless is also used in everyday speech and is not restricted to literary language.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "lạnh lẽo",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Vắng chủ means the owner is absent, not that the house has been abandoned.",
+   "fix": "The house looks desolate and forlorn with its owner away."
+  },
+  {
+   "headword": "dĩa",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Dĩa meaning a disc or record remains current in Southern Vietnamese.",
+   "fix": "Keep Southern and remove dated."
+  },
+  {
+   "headword": "vận",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Vận meaning to wear clothes is literary rather than an ordinary casual verb.",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "vận",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter vận meaning luck or fortune than its literary clothing sense.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

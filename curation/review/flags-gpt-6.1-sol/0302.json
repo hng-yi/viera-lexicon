@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "phân bố",
+  "bư",
+  "ăn nhẹ",
+  "đạn pháo",
+  "thánh chỉ",
+  "khẩu trang",
+  "múa may",
+  "bép xép",
+  "líp",
+  "dị nghị",
+  "tuấn mã",
+  "đồng áng",
+  "măm",
+  "hối cải",
+  "ăn học",
+  "vui tươi",
+  "tán tụng",
+  "tinh tươm",
+  "tràn trề",
+  "hoi",
+  "tình duyên",
+  "giắt",
+  "kháu",
+  "bánh trái",
+  "chao ôi",
+  "cao vút",
+  "bán độ",
+  "ngụ ngôn",
+  "ái mộ",
+  "che mờ",
+  "dung nhan",
+  "ót",
+  "rui",
+  "âm vang",
+  "giết mổ",
+  "khóc nhè",
+  "bà mụ",
+  "clorat",
+  "phản ảnh",
+  "nhao"
+ ],
+ "flags": [
+  {
+   "headword": "bư",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone bư disparages their intelligence and needs a derogatory warning ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C6%B0)).",
+   "fix": "Tags: rare, derogatory."
+  },
+  {
+   "headword": "ăn nhẹ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In đồ ăn nhẹ, đồ ăn means food and nhẹ means light; ăn nhẹ itself is not a noun meaning a snack.",
+   "fix": "Remove sense 2; retain the verb sense."
+  },
+  {
+   "headword": "măm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Măm is baby talk for eating, not an exclamation meaning that food tastes good ([dictionary](https://vi.wiktionary.org/wiki/m%C4%83m)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "kháu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kháu means cute or pretty, not precious in the sense of a valuable possession ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-kh%C3%A1u)).",
+   "fix": "Remove sense 2."
+  }
+ ]
+}

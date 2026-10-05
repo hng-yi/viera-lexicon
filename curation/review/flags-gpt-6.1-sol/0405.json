@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bàm bàm",
+  "bàn chải đánh răng",
+  "bàn mổ",
+  "bàn tay vô hình",
+  "bàn thoạ",
+  "bàn thạch",
+  "bàn toạ",
+  "bàn ăn",
+  "bàng bạc",
+  "bàng hệ",
+  "bàng thính",
+  "bành tô",
+  "bá chiếm",
+  "bá chứng",
+  "bá cáo",
+  "bá quyền",
+  "bá quốc",
+  "bác bẻ",
+  "bác sĩ chuyên khoa",
+  "bác sĩ nhi",
+  "bách bộ",
+  "bách chu niên",
+  "bách hoá",
+  "bách khoa toàn thư",
+  "bách niên giai lão",
+  "bách niên hảo hợp",
+  "bách phát bách trúng",
+  "bách thảo",
+  "bách tuế",
+  "bái tạ",
+  "bái vật giáo",
+  "bái vật giáo hàng hoá",
+  "bái vật giáo hàng hóa",
+  "bám đất",
+  "bán anh em xa mua láng giềng gần",
+  "bán chác",
+  "bán chạy như tôm tươi",
+  "bán dẫn",
+  "bán hoá thạch",
+  "bán hóa thạch"
+ ],
+ "flags": [
+  {
+   "headword": "bàn toạ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bàn toạ means buttocks, not the seat of a chair, as recorded in the [Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C3%A0n%20t%E1%BB%8Da).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "bá quyền",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Chính phủ phản đối chính sách bá quyền của nước láng giềng. = The government opposes its neighbour's policy of hegemony."
+  },
+  {
+   "headword": "bái vật giáo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Cuốn sách có một chương nói về bái vật giáo. = The book has a chapter about fetishism."
+  }
+ ]
+}

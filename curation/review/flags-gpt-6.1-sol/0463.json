@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "giê dưới",
+  "giò cháo quẩy",
+  "giò lụa",
+  "giò thủ",
+  "giòn giã",
+  "giòn rụm",
+  "gió Lào",
+  "gió chiều nào theo chiều ấy",
+  "gió chướng",
+  "gió mậu dịch",
+  "gió táp mưa sa",
+  "gió vàng",
+  "gióc",
+  "giùi",
+  "giúp lễ",
+  "giăm-bông",
+  "giơ cao đánh khẽ",
+  "giại",
+  "giạng",
+  "giả cách",
+  "giả câm giả điếc",
+  "giả cầy",
+  "giả khoa học",
+  "giả kim thuật",
+  "giả nhân giả nghĩa",
+  "giả như",
+  "giả thử",
+  "giả tá",
+  "giải nguyên",
+  "giải ngân",
+  "giải ngố",
+  "giải phẫu bệnh lí",
+  "giải quyết nỗi buồn",
+  "giải thuật",
+  "giải toả",
+  "giải trãi",
+  "giải âm",
+  "giảm bớt",
+  "giảm hình",
+  "giảm nhiệt"
+ ],
+ "flags": [
+  {
+   "headword": "giê dưới",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it in context.",
+   "fix": "Em viết nhầm giê dưới thành xê. = I mistakenly wrote G instead of C."
+  },
+  {
+   "headword": "giò cháo quẩy",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name is mainly Southern and needs a regional label, as documented by [Phụ Nữ & Gia Đình](https://www.phunuvagiadinh.vn/nau-gi-hom-nay-17/me-dam-va-hanh-trinh-di-tim-cach-lam-banh-quay-chuan-vi-tuoi-tho-398052).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "giải trãi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the mythical animal instead of using the word in context.",
+   "fix": "Trên chiếc bình có hình một con giải trãi. = There is an image of a xiezhi on the vase."
+  }
+ ]
+}

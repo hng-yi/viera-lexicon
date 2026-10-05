@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đại thực bào",
+  "bển",
+  "khổ chủ",
+  "chóp bu",
+  "sõi",
+  "chuyên trị",
+  "thẫn thờ",
+  "xướng ngôn viên",
+  "thương xá",
+  "dài hơi",
+  "đắc ý",
+  "khai hoang",
+  "nải",
+  "tín thác",
+  "xuất thần",
+  "yên trí",
+  "lật lọng",
+  "mệ",
+  "moóc",
+  "quặp",
+  "nõ",
+  "nhập cảng",
+  "nóng máy",
+  "khôn nguôi",
+  "kết duyên",
+  "gầy guộc",
+  "tướng tá",
+  "đến nơi đến chốn",
+  "chí tuyến",
+  "văn xuôi",
+  "bặm trợn",
+  "cháu chắt",
+  "đại từ",
+  "sở tại",
+  "nhễu",
+  "lặng im",
+  "trách mắng",
+  "thính giả",
+  "thần kinh học",
+  "diếp"
+ ],
+ "flags": [
+  {
+   "headword": "xuất thần",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The sense 'lost in thought' belongs to literary narration and is misleading without a register warning.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "khôn nguôi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary expression for a feeling that does not fade, rather than neutral everyday speech.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "sở tại",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs to formal administrative usage, as described in the [dictionary entry](https://loigiaihay.com/tu-dien-tv/so-tai-e7bf6nku2kaJl.html), and needs a warning for casual use.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

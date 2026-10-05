@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đặc phái viên",
+  "tạo lập",
+  "thị phần",
+  "biện",
+  "ngoại tuyến",
+  "quá tay",
+  "phim sex",
+  "biên đạo",
+  "trăn trở",
+  "dây nịt",
+  "bình dị",
+  "khảo",
+  "tráo đổi",
+  "hen suyễn",
+  "đôi mươi",
+  "lay",
+  "ăn cỗ",
+  "thất thoát",
+  "liêm sỉ",
+  "triền miên",
+  "quắp",
+  "tiêu cự",
+  "yêu đời",
+  "quần xì",
+  "sức hút",
+  "ái quốc",
+  "hộp quẹt",
+  "giao cấu",
+  "yểu",
+  "rinh",
+  "khuếch trương",
+  "giày vò",
+  "thành lũy",
+  "êu",
+  "da cam",
+  "duy",
+  "trịch thượng",
+  "Đoàn viên",
+  "đoàn viên",
+  "dâm ô"
+ ],
+ "flags": [
+  {
+   "headword": "tạo lập",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb is formal, so leaving it untagged presents it as suitable for ordinary casual speech ([VDict](https://vdict.com/t%E1%BA%A1o%20l%E1%BA%ADp%2C3%2C0%2C0.html?lang=en)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "đoàn viên",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The organisational membership meaning is the ordinary modern use and should precede the literary reunion meaning ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91o%C3%A0n%20vi%C3%AAn)).",
+   "fix": "Place sense 2 first and sense 1 second."
+  },
+  {
+   "headword": "đoàn viên",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The meaning 'to reunite' is literary and needs a warning against treating it as an ordinary conversational verb ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%C4%91o%C3%A0n%20vi%C3%AAn)).",
+   "fix": "Add the tag literary."
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "headwords": [
+  "làm tình",
+  "buộc tội",
+  "thợ săn",
+  "ván",
+  "xác chết",
+  "ban đầu",
+  "Kinh",
+  "kinh",
+  "nhét",
+  "đần",
+  "ăn mừng",
+  "bận rộn",
+  "công dân",
+  "cảm kích",
+  "tòa án",
+  "phụ thuộc",
+  "truyền thống",
+  "nhá",
+  "quân sự",
+  "lao",
+  "lịch sự",
+  "cu",
+  "kế",
+  "sốt",
+  "giùm",
+  "nhập",
+  "gương mặt",
+  "cơ sở",
+  "tạm thời",
+  "đền",
+  "đánh cắp",
+  "thủ lĩnh",
+  "tâm hồn",
+  "tức",
+  "nạp",
+  "báo chí",
+  "dẹp",
+  "luật pháp",
+  "xích",
+  "béo"
+ ],
+ "flags": [
+  {
+   "headword": "kinh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning referring to menstruation, as in có kinh or trễ kinh, is missing.",
+   "fix": "menstruation; menstrual period"
+  },
+  {
+   "headword": "đần",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone đần is derogatory, and the informal tag does not warn the learner of this.",
+   "fix": [
+    "informal",
+    "derogatory"
+   ]
+  },
+  {
+   "headword": "nhập",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of combining separate things into one, as in nhập hai nhóm lại, is missing.",
+   "fix": "to merge; to combine into one"
+  },
+  {
+   "headword": "tức",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common physical meaning of uncomfortable tightness or pressure, as in tức ngực or tức bụng, is missing.",
+   "fix": "to feel uncomfortable tightness or pressure (especially in the chest or abdomen)"
+  },
+  {
+   "headword": "dẹp",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Dẹp meaning flat or flattened is primarily Southern usage and lacks a regional tag.",
+   "fix": [
+    "Southern"
+   ]
+  }
+ ]
+}

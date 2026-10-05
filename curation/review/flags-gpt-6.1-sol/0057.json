@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "dịp",
+  "vô ích",
+  "quy định",
+  "rối loạn",
+  "thủ tướng",
+  "đôi lúc",
+  "ngoại",
+  "cúp",
+  "báo thù",
+  "chế độ",
+  "đồng chí",
+  "hoàng đế",
+  "khám",
+  "ngưỡng mộ",
+  "nón",
+  "nhà vệ sinh",
+  "hoang dã",
+  "rảnh",
+  "thái độ",
+  "đường dây",
+  "thu thập",
+  "đối đầu",
+  "rớt",
+  "tập luyện",
+  "tối đa",
+  "xinh",
+  "đánh dấu",
+  "thông",
+  "trần",
+  "biến đổi",
+  "thông thường",
+  "di động",
+  "bản chất",
+  "thảm họa",
+  "nhân",
+  "tiến triển",
+  "ước mơ",
+  "kí",
+  "tác phẩm",
+  "phần lớn"
+ ],
+ "flags": [
+  {
+   "headword": "thủ tướng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the office instead of showing the word in use.",
+   "fix": "Thủ tướng sẽ phát biểu vào chiều nay. = The prime minister will speak this afternoon."
+  },
+  {
+   "headword": "rớt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The meaning 'to fall; to drop' is mainly Central and Southern usage, as documented in this [linguistic study](https://www.thuvienlamdong.org.vn/Files/Books/163080.pdf).",
+   "fix": "Add Central and Southern tags."
+  },
+  {
+   "headword": "thông",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Thông' does not mean 'to be sufficient', and 'Lúa gạo thông ăn cả năm' is not valid Vietnamese.",
+   "fix": "Remove sense 8."
+  },
+  {
+   "headword": "nhân",
+   "sense": 7,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "'Nhân trời mưa' cannot naturally express rain forcing a trip to be postponed, because 'nhân' introduces an occasion or opportunity for an action.",
+   "fix": "Remove this example and merge sense 7 into sense 3."
+  }
+ ]
+}

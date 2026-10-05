@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cắn răng",
+  "đậu mùa",
+  "biến tính",
+  "hữu tuyến",
+  "bất quá",
+  "ốc vít",
+  "chết ngất",
+  "đậu hủ",
+  "lời tựa",
+  "lão sư",
+  "nạ",
+  "tá tràng",
+  "phân vùng",
+  "tê dại",
+  "chồm hỗm",
+  "thuốc tây",
+  "mục sở thị",
+  "nhũ hương",
+  "thổ huyết",
+  "Lão giáo",
+  "xói",
+  "trở về",
+  "cù lũ",
+  "túc tắc",
+  "báo hiếu",
+  "mất ăn mất ngủ",
+  "sưa",
+  "du di",
+  "cơm hộp",
+  "tắc kè",
+  "mĩ vị",
+  "kì đà",
+  "mol",
+  "thân sĩ",
+  "ăn vã",
+  "liến thoắng",
+  "tản mát",
+  "vối",
+  "phụ bạc",
+  "áp chót"
+ ],
+ "flags": [
+  {
+   "headword": "đậu hủ",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The dessert sense is an everyday regional usage, not rare, as documented in [Huế food reporting](https://tuoitre.vn/dulichtphcm/an-gi/thom-ngon-chen-dau-hu-xu-hue-c12a43355.html).",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "đậu hủ",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This dessert name is characteristic of Central Vietnamese, particularly Huế, and needs a regional label ([source](https://khamphahue.com.vn/en-us/Tourism/Detail/tid/Tofu-Pudding-in-Hue.html/pid/15922/cid/493)).",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "nhũ hương",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines nhũ hương instead of showing it in use.",
+   "fix": "Người thợ dùng nhũ hương để làm vecni. = The craftsman uses mastic to make varnish."
+  },
+  {
+   "headword": "thân sĩ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thân sĩ does not have a separate derogatory meaning of someone concerned only with literary pursuits ([dictionary](https://vi.wiktionary.org/wiki/th%C3%A2n_s%C4%A9)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "thổ huyết",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Literal thổ huyết is a formal or literary expression for vomiting blood, rather than ordinary conversational wording ([dictionary](https://loigiaihay.com/tu-dien-tv/tho-huyet-eQdhTmvwFslQM.html)).",
+   "fix": "Add the formal tag."
+  }
+ ]
+}

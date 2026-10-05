@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cẳng",
+  "địa thế",
+  "huệ",
+  "trầm lặng",
+  "lỉnh",
+  "đãy",
+  "mẹ kế",
+  "vòng hoa",
+  "đường huyết",
+  "đo đạc",
+  "khí đốt",
+  "định luật",
+  "thiệt thòi",
+  "địa ốc",
+  "bất tín",
+  "mỉa",
+  "nhảy vọt",
+  "dự liệu",
+  "cao trào",
+  "tà giáo",
+  "ma vương",
+  "đồng lương",
+  "cấp tốc",
+  "tương thích",
+  "nhan sắc",
+  "lưu danh",
+  "xổ",
+  "công cuộc",
+  "gọng",
+  "cắc",
+  "vè",
+  "chọc trời",
+  "thông lệ",
+  "xấu số",
+  "xuể",
+  "thu ngân",
+  "nản chí",
+  "dâm đãng",
+  "vĩ",
+  "sịp"
+ ],
+ "flags": [
+  {
+   "headword": "cẳng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cẳng is colloquial Vietnamese used across regions, including the North, rather than specifically Central or Southern ([dictionary](https://www.rung.vn/dict/vn_vn/C%E1%BA%B3ng)).",
+   "fix": "[colloquial]"
+  },
+  {
+   "headword": "dự liệu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Dự liệu belongs to formal usage and needs a warning against treating it as ordinary casual vocabulary.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "tà giáo",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Tà giáo disparages a religion as false or evil and is not a neutral label for a religious group ([dictionary](https://www.rung.vn/dict/vn_vn/T%C3%A0_%C4%91%E1%BA%A1o)).",
+   "fix": "[derogatory]"
+  },
+  {
+   "headword": "công cuộc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Công cuộc is a formal word for a substantial undertaking, so leaving it untagged misrepresents its suitability for casual speech.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "vè",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A vè marks a location in water, especially a shallow or deep spot, rather than measuring the water level ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%C3%A8)).",
+   "fix": "Gloss: pole or stake placed as a marker in water; example: Họ cắm một cây vè để đánh dấu chỗ nước cạn. = They set a pole to mark the shallow spot."
+  }
+ ]
+}

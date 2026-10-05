@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thắt lưng buộc bụng",
+  "thắt tha thắt thẻo",
+  "thắt thẻo",
+  "thằn lằn bóng",
+  "thằng chột làm vua xứ mù",
+  "thằng này",
+  "thẳng băng",
+  "thẳng cẳng",
+  "thẳng như ruột ngựa",
+  "thẳng rẵng",
+  "thẻ ghi nợ",
+  "thẽ thọt",
+  "thế chân",
+  "thế cuộc",
+  "thế giới quan",
+  "thế giới thứ ba",
+  "thế hoán",
+  "thế hệ cợt nhả",
+  "thế mạnh",
+  "thế nhưng",
+  "thế năng",
+  "thế thiên hành đạo",
+  "thế thái",
+  "thế tập",
+  "thế đại",
+  "thếch",
+  "thề cá trê chui ống",
+  "thều thào",
+  "thể chế hoá",
+  "thể chế hóa",
+  "thể cách",
+  "thể dục dụng cụ",
+  "thể dục nghệ thuật",
+  "thể dục thể hình",
+  "thể dục thể thao",
+  "thể khảm",
+  "thể thao gia",
+  "thể thuật",
+  "thể tình",
+  "thệ nguyện"
+ ],
+ "flags": [
+  {
+   "headword": "thế giới thứ ba",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This usage refers to gay people or, more broadly, the LGBT community, rather than specifically to non-binary people ([source](https://baotintuc.vn/xa-hoi/trong-the-gioi-trai-goi-chinh-sach-nao-cho-nguoi-dong-tinh-20130724004424655.htm)).",
+   "fix": "gay people; the LGBT community"
+  },
+  {
+   "headword": "thể dục nghệ thuật",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This names rhythmic gymnastics, whose apparatus includes hoops, balls, clubs and ribbons, rather than artistic gymnastics ([source](https://tdtt.gov.vn/Portals/0/EasyDNNNewsDocuments/77216/QUYET%20DINH%20chuan%2025.8.2022%20BAN%20HANH%20DIEU%20LE%20KHUNG_2.pdf)).",
+   "fix": "rhythmic gymnastics"
+  },
+  {
+   "headword": "thể dục nghệ thuật",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example says she trains in rhythmic gymnastics, not artistic gymnastics ([source](https://tdtt.gov.vn/Portals/0/EasyDNNNewsDocuments/77216/QUYET%20DINH%20chuan%2025.8.2022%20BAN%20HANH%20DIEU%20LE%20KHUNG_2.pdf)).",
+   "fix": "She has trained in rhythmic gymnastics since she was eight."
+  }
+ ]
+}

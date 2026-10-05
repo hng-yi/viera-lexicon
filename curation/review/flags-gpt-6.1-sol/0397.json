@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "Quốc âm",
+  "Ra Glai",
+  "Ru-ma-ni",
+  "Rơ Măm",
+  "Sán Chay",
+  "Sán Dìu",
+  "Sừng châu Phi",
+  "Thiên Can",
+  "Thuỵ Sĩ",
+  "Thuỵ Điển",
+  "Thánh truyền",
+  "Thế Tôn",
+  "Tiểu Á",
+  "Trung Quốc hoá",
+  "Trung Quốc hóa",
+  "Trần Thị B",
+  "Tuy-ni-di",
+  "Tà Ôi",
+  "Tào Tháo rượt",
+  "Tàu Chợ Lớn",
+  "Tác ta",
+  "Táo quân",
+  "Tân Gia Ba",
+  "Tây ba lô",
+  "Tây du kí",
+  "Tây hoá",
+  "Tây lông",
+  "Tây lịch kỉ nguyên",
+  "Tây Á",
+  "Tích Lan",
+  "Tô Cách Lan",
+  "Tết Công-gô",
+  "Tết Dương lịch",
+  "Tết Ma-rốc",
+  "Tết Thanh minh",
+  "Tết Trung thu",
+  "Tết Tây",
+  "U Cà",
+  "U Minh",
+  "Vinahouse"
+ ],
+ "flags": [
+  {
+   "headword": "Tây lông",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Tây lông” is a derogatory term for Westerners, not a claim that the particular people are hairy.",
+   "fix": "A few Westerners were drinking beer in the Old Quarter."
+  },
+  {
+   "headword": "Tích Lan",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the former name rather than showing it used to refer to the country.",
+   "fix": "Ông tôi từng sống ở Tích Lan. = My grandfather once lived in Ceylon."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "giám mục",
+  "nhẹ tay",
+  "mặc cả",
+  "biến mất",
+  "vượt trội",
+  "trống trải",
+  "trùng khớp",
+  "sân chơi",
+  "thóc",
+  "độc tài",
+  "sử",
+  "chống trả",
+  "tổ hợp",
+  "xoay xở",
+  "truy tố",
+  "cải tiến",
+  "trọc",
+  "đường mòn",
+  "bàn chải",
+  "nhể",
+  "khéo",
+  "đặc",
+  "chân thật",
+  "học phí",
+  "sủa",
+  "ti",
+  "máy phát điện",
+  "nhiễm độc",
+  "đồng phạm",
+  "kiểm chứng",
+  "chung quanh",
+  "đế quốc",
+  "bậy bạ",
+  "bật lửa",
+  "nghiệp dư",
+  "xiên",
+  "doanh nghiệp",
+  "hội chứng",
+  "đấu vật",
+  "tiêu khiển"
+ ],
+ "flags": [
+  {
+   "headword": "tổ hợp",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A combination counts ways of selecting students, not the number of students to select.",
+   "fix": "Số cách chọn 3 học sinh từ 7 học sinh là số tổ hợp chập 3 của 7. = The number of ways to choose 3 students from 7 is the number of combinations of 3 from 7."
+  },
+  {
+   "headword": "ti",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday meaning referring to a nipple or breast, especially in speech involving babies.",
+   "fix": "noun [colloquial, childish] | nipple; breast"
+  },
+  {
+   "headword": "chung quanh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning 'around; surrounding' is missing and is the meaning used in the supplied example.",
+   "fix": "preposition | around; surrounding"
+  },
+  {
+   "headword": "bậy bạ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Standing alone, bậy bạ refers to improper behavior generally rather than specifically saying rude things or talking nonsense.",
+   "fix": "to behave improperly; to do improper things"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "rau tập tàng",
+  "rađon",
+  "reni",
+  "review",
+  "ri đô",
+  "rim",
+  "riu riu",
+  "riêu",
+  "riết siết",
+  "riềng",
+  "roentgeni",
+  "rong kinh",
+  "rođi",
+  "ru hời",
+  "rua",
+  "rubiđi",
+  "ruteni",
+  "ruy-băng",
+  "ruồi bâu kiến đậu",
+  "ruồi lằng",
+  "ruồi muỗi",
+  "ruồi nhuế",
+  "ruồi trâu",
+  "ruồi xanh",
+  "ruổi rong",
+  "ruột gà",
+  "ruột tượng",
+  "ruột để ngoài da",
+  "ràn",
+  "ràn rạt",
+  "ràng ràng",
+  "rào trước đón sau",
+  "rái cá",
+  "ráng chiều",
+  "ráng sức",
+  "ráo trọi",
+  "râm bụt",
+  "rân rấn",
+  "râu ông nọ cắm cằm bà kia",
+  "rã rời"
+ ],
+ "flags": [
+  {
+   "headword": "rađon",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines radon instead of showing the word in use.",
+   "fix": "Họ đo nồng độ rađon trong nhà. = They measured the radon concentration in the house."
+  },
+  {
+   "headword": "reni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example describes what rhenium is instead of showing the word in use.",
+   "fix": "Phòng thí nghiệm vừa nhận một mẫu reni. = The laboratory has just received a sample of rhenium."
+  },
+  {
+   "headword": "roentgeni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines roentgenium instead of showing the word in use.",
+   "fix": "Nhóm nghiên cứu đang tìm hiểu tính chất của roentgeni. = The research team is investigating the properties of roentgenium."
+  },
+  {
+   "headword": "rođi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what rhodium is and what it is used for instead of showing the word in use.",
+   "fix": "Chiếc nhẫn này được mạ rođi. = This ring is plated with rhodium."
+  },
+  {
+   "headword": "ru hời",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Ru hời” means to lull someone by singing, whereas “lullaby” names the song, as confirmed by this [dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ru%20h%E1%BB%9Di).",
+   "fix": "verb | to sing lullabies; to lull someone to sleep by singing"
+  },
+  {
+   "headword": "rubiđi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines rubidium instead of showing the word in use.",
+   "fix": "Họ đang nghiên cứu tính chất của rubiđi. = They are studying the properties of rubidium."
+  },
+  {
+   "headword": "ruteni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines ruthenium instead of showing the word in use.",
+   "fix": "Mẫu này có chứa ruteni. = This sample contains ruthenium."
+  }
+ ]
+}

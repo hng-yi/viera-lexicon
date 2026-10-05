@@ -1,0 +1,150 @@
+{
+ "headwords": [
+  "cá chuối",
+  "cá chuồn",
+  "cá cháy",
+  "cá chét",
+  "cá chẽm",
+  "cá chốt",
+  "cá cóc",
+  "cá cóc Tam Đảo",
+  "cá cúi",
+  "cá cơm",
+  "cá diêu hồng",
+  "cá giếc",
+  "cá gỗ",
+  "cá hẻn",
+  "cá hố",
+  "cá hồng",
+  "cá hổ kình",
+  "cá kho tộ",
+  "cá kèo",
+  "cá leo",
+  "cá linh",
+  "cá lác",
+  "cá lìm kìm",
+  "cá lòng tong",
+  "cá lóc",
+  "cá lăng",
+  "cá lạc",
+  "cá lớn nuốt cá bé",
+  "cá mang rổ",
+  "cá mè một lứa",
+  "cá măng",
+  "cá mặt trăng",
+  "cá mối",
+  "cá mực",
+  "cá ngát",
+  "cá ngão",
+  "cá ngừ đại dương",
+  "cá nheo",
+  "cá nhà táng",
+  "cá nhám"
+ ],
+ "flags": [
+  {
+   "headword": "cá chẽm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name is mainly Southern, while Northern speakers generally call the fish cá vược. [Source](https://tepbac.com/tin-tuc/full/di-cho-tu-mien-bac-den-mien-nam-co-nhung-con-ca-chi-doi-ten-co-con-lai-bi-goi-nham-ca-loai-39125.html)",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "cá cóc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal rather than showing the word in use.",
+   "fix": "Chúng tôi thấy một con cá cóc bên bờ suối. = We saw a salamander beside the stream."
+  },
+  {
+   "headword": "cá diêu hồng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Northern label is incorrect for a name widely used in Southern Vietnam. [Source](https://vtcnews.vn/cach-lam-ca-dieu-hong-tam-bot-chien-xu-don-gian-ar903833.html)",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "cá gỗ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Anh ta cá gỗ lắm is unnatural because cá gỗ normally labels a miser as a noun. [Source](https://vdict.com/c%C3%A1%20g%E1%BB%97%2C3%2C0%2C0.html)",
+   "fix": "Anh ta là một tay cá gỗ, chẳng bao giờ mời ai ly nước. = He is a miser; he never buys anyone a drink."
+  },
+  {
+   "headword": "cá hẻn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "North Central Vietnam belongs to the Central dialect region, so Northern is an incorrect additional label. [Source](https://en.wiktionary.org/wiki/c%C3%A1_h%E1%BA%BBn)",
+   "fix": "Central"
+  },
+  {
+   "headword": "cá kho tộ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The dish can use snakehead and other fish, so defining it specifically as catfish teaches a false restriction. [Source](https://hdspices.com.vn/cach-nau-ca-kho-to-dam-vi)",
+   "fix": "fish braised in caramel sauce in a clay pot (a southern dish)"
+  },
+  {
+   "headword": "cá leo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the fish rather than showing the word in use.",
+   "fix": "Ngư dân bắt được một con cá leo rất lớn. = The fishermen caught a very large helicopter catfish."
+  },
+  {
+   "headword": "cá lác",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for mudskipper is regional to Hải Phòng and needs a Northern label. [Source](https://kaikki.org/dictionary/Vietnamese/meaning/c/c%C3%A1/c%C3%A1%20l%C3%A1c.html)",
+   "fix": "Add Northern; retain uncommon."
+  },
+  {
+   "headword": "cá măng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the fish is rather than showing the word in use.",
+   "fix": "Anh ấy câu được một con cá măng lớn. = He caught a large yellowcheek."
+  },
+  {
+   "headword": "cá măng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The intended fish is pike, and its genus is Esox, not Ecox. [Source](https://www.fishbase.se/identification/SpeciesList.php?genus=Esox)",
+   "fix": "pike (fish of the genus Esox)"
+  },
+  {
+   "headword": "cá măng",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation omits cá măng and says only fish.",
+   "fix": "The market is selling fresh pike today."
+  },
+  {
+   "headword": "cá nhà táng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example supplies a zoological definition rather than showing the word in use.",
+   "fix": "Chúng tôi nhìn thấy một con cá nhà táng ngoài khơi. = We saw a sperm whale out at sea."
+  },
+  {
+   "headword": "cá nhám",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Great shark is not the English meaning of cá mập, and the Vietnamese compares categories rather than two individual fish.",
+   "fix": "Small sharks are smaller than large sharks."
+  }
+ ]
+}

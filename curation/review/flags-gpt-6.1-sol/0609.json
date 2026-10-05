@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "va ni",
+  "va-li",
+  "van vỉ",
+  "van-xơ",
+  "vanađi",
+  "vang lừng",
+  "ve vẩy",
+  "vectơ pháp tuyến",
+  "vectơ-không",
+  "ven biển",
+  "vi hiến",
+  "vi khuẩn học",
+  "vi lô",
+  "vi lượng đồng căn",
+  "vi mạch tích hợp",
+  "vi nhung mao",
+  "vi phạm kỷ luật",
+  "vi phạm pháp luật",
+  "vi sinh vật học",
+  "vi trùng corona",
+  "vi tích phân",
+  "vi tảo",
+  "vi xử lí",
+  "vi-rút",
+  "vi-ta-min",
+  "vi-xin",
+  "vi-ô-lông",
+  "vi-ô-lông-xen",
+  "virus corona",
+  "vitamin gâu gâu",
+  "viêm cơ tim",
+  "viêm da",
+  "viêm gan",
+  "viêm họng",
+  "viêm khớp dạng thấp",
+  "viêm màng não",
+  "viêm màng não mủ",
+  "viêm màng túi",
+  "viêm mũi",
+  "viêm não Nhật Bản"
+ ],
+ "flags": [
+  {
+   "headword": "vanađi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what vanadium is instead of showing the word in use.",
+   "fix": "Hợp kim này có chứa vanađi. = This alloy contains vanadium."
+  },
+  {
+   "headword": "vectơ pháp tuyến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a normal vector instead of showing the term in use.",
+   "fix": "Hãy tìm một vectơ pháp tuyến của mặt phẳng này. = Find a normal vector of this plane."
+  },
+  {
+   "headword": "vectơ-không",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the defining property of the zero vector instead of showing the term in use.",
+   "fix": "Tổng của hai vectơ này là vectơ-không. = The sum of these two vectors is the zero vector."
+  }
+ ]
+}

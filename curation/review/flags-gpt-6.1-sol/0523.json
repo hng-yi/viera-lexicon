@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "ngãng",
+  "ngò gai",
+  "ngò rí",
+  "ngò ôm",
+  "ngóe",
+  "ngón giữa",
+  "ngón tay cái",
+  "ngón tay thối",
+  "ngón tay trỏ",
+  "ngón áp út",
+  "ngóng đợi",
+  "ngót nghét",
+  "ngô nghê",
+  "ngô đồng",
+  "ngôi vị",
+  "ngôn lù",
+  "ngôn ngữ hình thể",
+  "ngôn ngữ học",
+  "ngôn ngữ kí hiệu",
+  "ngôn ngữ lập trình",
+  "ngôn ngữ tự nhiên",
+  "ngôn tình",
+  "ngôn điệu",
+  "ngõ hầu",
+  "ngõi",
+  "ngùi",
+  "ngùn ngụt",
+  "ngúc",
+  "ngúc ngắc",
+  "ngũ cung",
+  "ngũ cốc nguyên cám",
+  "ngũ gia bì",
+  "ngũ luân",
+  "ngũ mã phanh thây",
+  "ngũ ngôn",
+  "ngũ ngôn tuyệt cú",
+  "ngũ ngôn tứ tuyệt",
+  "ngũ quan",
+  "ngũ quả",
+  "ngũ thường"
+ ],
+ "flags": [
+  {
+   "headword": "ngón tay thối",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense denotes an offensive gesture, so colloquial alone is insufficient warning.",
+   "fix": "tags: colloquial, offensive"
+  },
+  {
+   "headword": "ngôn điệu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ngôn điệu means prosody, which includes intonation rather than being equivalent to it ([Hanoi University](https://journals.hanu.edu.vn/tckhnn/article/view/887)).",
+   "fix": "prosody; the rhythm, stress and intonation of speech"
+  },
+  {
+   "headword": "ngôn điệu",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The example refers to each language's prosody, not just its intonation ([Hanoi University](https://journals.hanu.edu.vn/tckhnn/article/view/887)).",
+   "fix": "Every language has its own prosody."
+  },
+  {
+   "headword": "ngũ luân",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what ngũ luân is instead of showing it in use.",
+   "fix": "Ông thường nhắc đến ngũ luân khi dạy con. = He often mentions the five cardinal relationships when teaching his children."
+  },
+  {
+   "headword": "ngũ ngôn tuyệt cú",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the poetic form instead of showing the term in use.",
+   "fix": "Cô ấy vừa viết một bài ngũ ngôn tuyệt cú. = She has just written a five-syllable jueju."
+  },
+  {
+   "headword": "ngũ ngôn tứ tuyệt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the poetic form instead of showing the term in use.",
+   "fix": "Anh ấy đọc một bài ngũ ngôn tứ tuyệt cho chúng tôi nghe. = He read us a five-syllable jueju."
+  },
+  {
+   "headword": "ngũ quả",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ngũ quả denotes the five kinds of fruit, while mâm ngũ quả denotes the tray or arrangement ([Báo Nhân Dân](https://nhandan.vn/tuc-don-xuan-dac-sac-moi-vung-post602142.html)).",
+   "fix": "five kinds of fruit (traditionally offered on the ancestral altar at Tet)"
+  },
+  {
+   "headword": "ngũ thường",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example lists the virtues to define ngũ thường instead of showing it in use.",
+   "fix": "Ông dạy con sống theo ngũ thường. = He teaches his children to live by the five Confucian virtues."
+  }
+ ]
+}

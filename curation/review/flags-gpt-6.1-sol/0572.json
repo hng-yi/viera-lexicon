@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "thuỵ",
+  "thuỵ hiệu",
+  "thuỷ",
+  "thuỷ binh",
+  "thuỷ chiến",
+  "thuỷ chung",
+  "thuỷ cung",
+  "thuỷ cầm",
+  "thuỷ giải",
+  "thuỷ lôi",
+  "thuỷ lợi",
+  "thuỷ lực",
+  "thuỷ lực học",
+  "thuỷ mặc",
+  "thuỷ ngân",
+  "thuỷ năng",
+  "thuỷ phi cơ",
+  "thuỷ phân",
+  "thuỷ phủ",
+  "thuỷ quyển",
+  "thuỷ quái",
+  "thuỷ quân",
+  "thuỷ quân lục chiến",
+  "thuỷ sinh",
+  "thuỷ sản",
+  "thuỷ thần",
+  "thuỷ thổ",
+  "thuỷ thủ",
+  "thuỷ tinh",
+  "thuỷ tinh thể",
+  "thuỷ tiên",
+  "thuỷ triều",
+  "thuỷ triều đỏ",
+  "thuỷ táng",
+  "thuỷ tạ",
+  "thuỷ tặc",
+  "thuỷ tề",
+  "thuỷ tộc",
+  "thuỷ tức",
+  "thuỷ văn"
+ ],
+ "flags": [
+  {
+   "headword": "thuỷ chung",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This ordinary adjective is used in everyday speech, so marking it literary misleadingly restricts its use.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "thuỷ chung",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Placing thuỷ chung directly before yêu in this sentence is unnatural Vietnamese.",
+   "fix": "Cô ấy yêu anh và luôn thuỷ chung với anh suốt đời. = She loved him and remained faithful to him all her life."
+  },
+  {
+   "headword": "thuỷ tinh",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains a property of glass instead of showing the proposed scientific sense in use.",
+   "fix": "Các nhà nghiên cứu chế tạo một loại thuỷ tinh kim loại mới. = The researchers produced a new type of metallic glass."
+  },
+  {
+   "headword": "thuỷ tề",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thuỷ Tề refers to the mythical ruler of the waters, not his underwater realm, as illustrated in this [dictionary entry](https://phatgiao.org.vn/tu-dien-phat-hoc-online/thuy-cung-k5607.html).",
+   "fix": "water god; mythical king of the waters"
+  },
+  {
+   "headword": "thuỷ tề",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Xuống thuỷ tề incorrectly treats the name of the water god as a place.",
+   "fix": "Truyện kể rằng chàng xuống thuỷ cung gặp vua Thuỷ Tề. = The story says the young man went down to the underwater palace to meet the king of the waters."
+  }
+ ]
+}

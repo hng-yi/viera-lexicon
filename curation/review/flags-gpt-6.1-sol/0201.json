@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "dai dẳng",
+  "dông",
+  "y phục",
+  "loan",
+  "dôi",
+  "cao điểm",
+  "nhuốm",
+  "nhân tài",
+  "vô duyên",
+  "nhúm",
+  "mê man",
+  "nà",
+  "cận cảnh",
+  "giông",
+  "bắp rang",
+  "giặt giũ",
+  "sầu",
+  "khác nào",
+  "thu phục",
+  "hèm",
+  "dà",
+  "bím",
+  "trịnh trọng",
+  "co giãn",
+  "chấn chỉnh",
+  "luận văn",
+  "tướng lĩnh",
+  "cục bộ",
+  "quỷ quyệt",
+  "tương quan",
+  "trọng yếu",
+  "rúc",
+  "nứng",
+  "dệt",
+  "chuốt",
+  "thành ý",
+  "trai tân",
+  "bảng hiệu",
+  "chết ngạt",
+  "cuồng phong"
+ ],
+ "flags": [
+  {
+   "headword": "vô duyên",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The expression vô duyên vô cớ is common in everyday speech, so the literary tag is misleading.",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "thu phục",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The territorial recovery sense is an old usage, as marked in [Rung's dictionary](https://v2.rung.vn/dict/vn_vn/Thu_ph%E1%BB%A5c).",
+   "fix": "Add dated; retain formal."
+  },
+  {
+   "headword": "chấn chỉnh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Chấn chỉnh belongs to formal corrective or administrative language rather than neutral casual speech.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "chấn chỉnh",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This organisational sense also belongs to formal administrative language.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "tương quan",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to formal analytical or scientific language, as noted in [VDict](https://vdict.com/t%C6%B0%C6%A1ng%20quan%2C3%2C0%2C0.html).",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "chuốt",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chuốt describes smoothing or refining, not applying a ceramic glaze; [Rung's definition](https://www.rung.vn/dict/vn_vn/Chu%E1%BB%91t) specifies smoothing with a sharp blade.",
+   "fix": "to smooth by shaving or scraping"
+  },
+  {
+   "headword": "bảng hiệu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bảng hiệu is mainly Southern usage, while Northern speakers generally use biển hiệu, consistent with the regional distinction described [here](https://www.toiyeutiengnuoctoi.com/ban-bang-hay-bien/).",
+   "fix": "Add Southern."
+  }
+ ]
+}

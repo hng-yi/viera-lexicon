@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tưởng niệm",
+  "giật mình",
+  "đặt hàng",
+  "tạo dựng",
+  "yêu dấu",
+  "súc vật",
+  "tiên đoán",
+  "xem thường",
+  "rãnh",
+  "đánh vần",
+  "siêu nhiên",
+  "đẳng cấp",
+  "lùng",
+  "mốc",
+  "vò",
+  "trọ",
+  "hợp lí",
+  "chậm chạp",
+  "khuất",
+  "tiêu đề",
+  "hiến pháp",
+  "nguyên do",
+  "mầm",
+  "giun",
+  "phịch",
+  "sò",
+  "bản án",
+  "ố",
+  "ăn kiêng",
+  "vật lộn",
+  "trỗi",
+  "bộ dạng",
+  "lười",
+  "góp",
+  "phơi bày",
+  "ra mắt",
+  "học bổng",
+  "trá",
+  "rậm",
+  "nội thất"
+ ],
+ "flags": [
+  {
+   "headword": "vò",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Rolling something into a ball is a meaning of vo, whereas vò means rubbing or crumpling it ([VDict](https://vdict.com/vo%2C3%2C0%2C0.html)).",
+   "fix": "Move this sense to vo and correct the example to: Bà vo bột thành những viên nhỏ để nấu chè."
+  },
+  {
+   "headword": "hiến pháp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the headword instead of demonstrating its use in context.",
+   "fix": "Quốc hội đã thông qua hiến pháp mới. = The National Assembly adopted a new constitution."
+  },
+  {
+   "headword": "trá",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Trá means cleaning gold objects to restore their colour and shine, rather than covering something with gold ([Wiktionary](https://vi.wiktionary.org/wiki/tr%C3%A1)).",
+   "fix": "to clean and polish gold objects; example: Người thợ trá đôi hoa tai bằng vàng. = The craftsman cleans and polishes the gold earrings."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "múc",
+  "soạn thảo",
+  "phông",
+  "day",
+  "nắn",
+  "đày",
+  "nhân nhượng",
+  "nhọt",
+  "lan tràn",
+  "tổng hành dinh",
+  "phá phách",
+  "hoang tàn",
+  "khổ đau",
+  "quáng",
+  "khởi điểm",
+  "thất hứa",
+  "chán ngấy",
+  "chuyển khoản",
+  "nhược điểm",
+  "biệt lập",
+  "cần cẩu",
+  "máy vi tính",
+  "cà chớn",
+  "bi quan",
+  "rõ rệt",
+  "ủy mị",
+  "bướu",
+  "sất",
+  "rốn",
+  "lò xo",
+  "lượn lờ",
+  "lừa lọc",
+  "nhà kính",
+  "an bài",
+  "chi tiêu",
+  "đồ hộp",
+  "cưỡng chế",
+  "nghĩ ngợi",
+  "số hiệu",
+  "dường"
+ ],
+ "flags": [
+  {
+   "headword": "cà chớn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone cà chớn is derogatory, so the colloquial tag alone does not adequately warn the learner.",
+   "fix": "[Central, Southern, colloquial, derogatory]"
+  },
+  {
+   "headword": "rốn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Rốn is standard Vietnamese used nationwide, although Southern speech also uses rún, as documented in this [dialect study](https://www.slideshare.net/slideshow/luan-van-tu-ngu-dia-phuong-trong-tac-pham-cua-binh-nguyen-loc/169807428).",
+   "fix": "Remove the Northern tag."
+  }
+ ]
+}

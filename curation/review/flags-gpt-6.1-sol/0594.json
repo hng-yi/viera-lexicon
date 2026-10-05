@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "trục cao",
+  "trục hoành",
+  "trục số",
+  "trục tung",
+  "trụng",
+  "trứng chấy",
+  "trứng cá",
+  "trứng dái",
+  "trứng dái đánh lô tô",
+  "trứng gà",
+  "trứng khôn hơn vịt",
+  "trứng ngỗng",
+  "trứng nước",
+  "trứng rán",
+  "trứng rận",
+  "trứng vịt lộn",
+  "trứng ốp la",
+  "trừ bị",
+  "trừu tượng hoá",
+  "trừu tượng hóa",
+  "trực chuẩn",
+  "trực giao cảm",
+  "trực khuẩn mủ xanh",
+  "trực thu",
+  "trực tâm",
+  "tu chí",
+  "tu chính",
+  "tu chính án",
+  "tu huýt",
+  "tu hài",
+  "tu nghiệp",
+  "tu sức",
+  "tu thành chính quả",
+  "tu từ",
+  "tu từ học",
+  "tu xuất",
+  "tu-líp",
+  "tu-đa-la",
+  "tuli",
+  "tung tẩy"
+ ],
+ "flags": [
+  {
+   "headword": "trục tung",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Tại điểm hai” does not naturally identify a point on the y-axis; the sentence should specify its y-coordinate.",
+   "fix": "Đường thẳng này cắt trục tung tại điểm có tung độ bằng 2. = This line intersects the y-axis at a point with y-coordinate 2."
+  },
+  {
+   "headword": "trứng cá",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common standalone meaning “acne; acne pimple,” also recorded in [Wiktionary](https://en.wiktionary.org/wiki/tr%E1%BB%A9ng_c%C3%A1).",
+   "fix": "noun | acne; acne pimple"
+  },
+  {
+   "headword": "trực tâm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the orthocentre instead of showing the word in use.",
+   "fix": "Hãy tìm trực tâm của tam giác ABC. = Find the orthocentre of triangle ABC."
+  }
+ ]
+}

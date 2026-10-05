@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "hàm",
+  "phổ thông",
+  "thủ phủ",
+  "mới lạ",
+  "văn học",
+  "luộc",
+  "nhập viện",
+  "Đài Loan",
+  "khôi hài",
+  "ác độc",
+  "quản trị",
+  "lịch thiệp",
+  "quản gia",
+  "bừng",
+  "huy động",
+  "sáng kiến",
+  "yêu tinh",
+  "nhân bản",
+  "cai quản",
+  "cánh tay phải",
+  "cao độ",
+  "tròng",
+  "hoàng tộc",
+  "uy tín",
+  "khăng khăng",
+  "trụi",
+  "chuyên viên",
+  "kinh điển",
+  "công suất",
+  "khách quan",
+  "công kích",
+  "vị thành niên",
+  "ăn năn",
+  "khảo sát",
+  "nguyên lão",
+  "trái ngược",
+  "sánh",
+  "ngáng",
+  "bã",
+  "thím"
+ ],
+ "flags": [
+  {
+   "headword": "nguyên lão",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The elder or veteran statesman meaning is more likely today than the ancient Roman senator meaning ([definition](https://www.vjol.info/nguyen-lao-la-gi)).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "tròng",
+   "sense": 6,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The small-boat meaning is regional vocabulary associated with Huế and needs a Central tag ([Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf)).",
+   "fix": "tags: [rare, Central]"
+  },
+  {
+   "headword": "thím",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This joking address is widely used among forum participants regardless of sexual orientation, so defining it by gay identity teaches a false association ([forum discussion](https://voz.vn/t/thac-mac-ve-cach-xung-ho-tren-voz.43337/page-4)).",
+   "fix": "humorous, familiar form of address to another person, especially on Internet forums"
+  }
+ ]
+}

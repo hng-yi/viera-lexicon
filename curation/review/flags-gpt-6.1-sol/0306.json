@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "chiến tướng",
+  "xa tít",
+  "vằn thắn",
+  "vô khối",
+  "đầm ấm",
+  "liên thanh",
+  "huyết cầu",
+  "dồi",
+  "niên thiếu",
+  "bươn chải",
+  "mòn mỏi",
+  "bàn thắng",
+  "khiếm thị",
+  "mắm muối",
+  "rông",
+  "sò điệp",
+  "khôi ngô",
+  "xao xuyến",
+  "bị gậy",
+  "nhạc viện",
+  "cát lún",
+  "mực nang",
+  "chủ xị",
+  "ủ rũ",
+  "lầm lì",
+  "cung cầu",
+  "bách thú",
+  "náo nức",
+  "ghét bỏ",
+  "tán đồng",
+  "nhắc lại",
+  "trội",
+  "đốc thúc",
+  "tém",
+  "xuất cảnh",
+  "táy máy",
+  "mũ miện",
+  "bài giảng",
+  "ù tai",
+  "dãi"
+ ],
+ "flags": [
+  {
+   "headword": "chiến tướng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Chiến tướng” means a general who commands in battle, whereas “warlord” adds independent political power that the word does not express ([dictionary](https://loigiaihay.com/tu-dien-tv/chien-tuong-emCaHqtvJsWZy.html)).",
+   "fix": "general; military commander"
+  },
+  {
+   "headword": "chủ xị",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Chủ xị” is a colloquial expression, so the untagged gloss misleadingly presents it as a neutral term for a host ([dictionary](https://v2.rung.vn/dict/vn_vn/Ch%E1%BB%A7_quy%E1%BB%81n)).",
+   "fix": "Add colloquial."
+  },
+  {
+   "headword": "chủ xị",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Chủ xị” is chiefly Southern usage and lacks its regional label ([Bình Định newspaper](https://baobinhdinh.vn/viewer.aspx?mabb=146944&macm=6&macmp=7)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "chủ xị",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The meal or drinking-party sense of “chủ xị” is chiefly Southern usage and lacks its regional label ([Bình Định newspaper](https://baobinhdinh.vn/viewer.aspx?mabb=146944&macm=6&macmp=7)).",
+   "fix": "Add Southern."
+  }
+ ]
+}

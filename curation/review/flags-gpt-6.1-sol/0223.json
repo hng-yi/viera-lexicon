@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "trượng",
+  "tháo dỡ",
+  "dành dụm",
+  "tư thục",
+  "thiên tai",
+  "vợt",
+  "đa năng",
+  "sổng",
+  "huyết",
+  "mạt",
+  "cơ sở hạ tầng",
+  "bá tánh",
+  "bào tử",
+  "mười một",
+  "nhà chứa",
+  "bi đát",
+  "nặn",
+  "sếu",
+  "trinh tiết",
+  "dân biểu",
+  "ngoái",
+  "thậm",
+  "nha môn",
+  "chủ quan",
+  "hoài niệm",
+  "suyễn",
+  "quyết chiến",
+  "quốc lộ",
+  "gọi hồn",
+  "thế thân",
+  "ưu điểm",
+  "cả tin",
+  "hướng dương",
+  "cầu chúc",
+  "nghiên",
+  "ẩu",
+  "lì lợm",
+  "cầu khẩn",
+  "cực nhọc",
+  "sỉ"
+ ],
+ "flags": [
+  {
+   "headword": "trượng",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This kinship usage belongs to North Central Vietnam, which is part of the Central region, so the Northern tag is misleading ([Wiktionary](https://en.wiktionary.org/wiki/trượng)).",
+   "fix": "Tags: [uncommon, Central]."
+  },
+  {
+   "headword": "huyết",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The food meaning is used chiefly in Central and Southern Vietnamese and needs regional labels.",
+   "fix": "Tags: [Central, Southern]."
+  },
+  {
+   "headword": "hoài niệm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The verb has a literary register that the untagged entry fails to convey ([Vietnamese dictionary](https://www.rung.vn/dict/vn_vn/Hoài_niệm)).",
+   "fix": "Tags: [literary]."
+  }
+ ]
+}

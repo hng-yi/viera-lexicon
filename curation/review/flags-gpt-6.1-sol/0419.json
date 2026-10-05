@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bụi hồng",
+  "bụm",
+  "bụng chân",
+  "bụng cấp",
+  "bụp giấm",
+  "bủn rủn",
+  "bứa",
+  "bức bí",
+  "bức rút",
+  "bức thiết",
+  "bức xạ điện từ",
+  "bứt tốc",
+  "bữa cơm",
+  "bữa diếp",
+  "bữa hổm",
+  "bữa ăn",
+  "bự đùng",
+  "ca dao",
+  "ca dé",
+  "ca kíp",
+  "ca mắc",
+  "ca trù",
+  "ca từ",
+  "ca vũ",
+  "ca-ki",
+  "ca-lo",
+  "ca-lo-ri",
+  "ca-lô",
+  "ca-nuyn",
+  "ca-ra",
+  "ca-rô",
+  "ca-tê-te",
+  "cacbon đioxit",
+  "cai cơ",
+  "cai sữa",
+  "cai đội",
+  "califoni",
+  "cam nhông",
+  "cam sành",
+  "cam vắt"
+ ],
+ "flags": [
+  {
+   "headword": "bữa diếp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression belongs to North Central Vietnamese, so the Northern tag is misleading ([Wiktionary](https://en.wiktionary.org/wiki/b%E1%BB%AFa_di%E1%BA%BFp)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "bữa hổm",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation reverses the visitor and host: chị visited tui's home.",
+   "fix": "The other day you came by my place, but I wasn't in."
+  },
+  {
+   "headword": "ca trù",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what ca trù is instead of showing it in use.",
+   "fix": "Tối qua, chúng tôi đi nghe ca trù. = Last night, we went to listen to ca trù."
+  },
+  {
+   "headword": "califoni",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what califoni is instead of showing it in use.",
+   "fix": "Các nhà khoa học đo lượng califoni trong mẫu. = The scientists measured the amount of californium in the sample."
+  }
+ ]
+}

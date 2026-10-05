@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "dấu sóng",
+  "dấu sắc",
+  "dấu trăng",
+  "dấu viết lược",
+  "dấu vạch ngang",
+  "dầu cháo quẩy",
+  "dầu gan cá",
+  "dầu giun",
+  "dầu gội đầu",
+  "dầu hoả",
+  "dầu hàu",
+  "dầu luyn",
+  "dầu mè",
+  "dầu nhẹ",
+  "dầu vậy",
+  "dầu xăng",
+  "dầu ăn",
+  "dầu đồng",
+  "dẩu",
+  "dẫn giải",
+  "dẫn truyền",
+  "dẫu rằng",
+  "dẫy dàng",
+  "dậm doạ",
+  "dập dìu",
+  "dập dềnh",
+  "dập ghim",
+  "dập tắt",
+  "dật sĩ",
+  "dật sử",
+  "dật sự",
+  "dậy dàng",
+  "dắng dỏi",
+  "dắt díu",
+  "dắt mũi",
+  "dằn túi",
+  "dặt dìu",
+  "dặt dẹo",
+  "dẹp tiệm",
+  "dế mèn"
+ ],
+ "flags": [
+  {
+   "headword": "dấu sóng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the symbol's function instead of showing the word in use.",
+   "fix": "Hãy đặt dấu sóng giữa hai con số này. = Put a tilde between these two numbers."
+  },
+  {
+   "headword": "dấu sắc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the tone instead of showing the word in use.",
+   "fix": "Em đọc lại những tiếng có dấu sắc nhé. = Read the syllables with the sắc tone again."
+  },
+  {
+   "headword": "dẫy dàng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The historical word means resplendent, rather than arrogant, according to the [Nôm dictionary](https://nomfoundation.org/nom-tools/Tu-Dien-Chu-Nom-Dan_Giai?nom=%F0%B1%BB%8C&radicalNum=123&strokeCt=7&uiLang=vn).",
+   "fix": "resplendent; radiant"
+  },
+  {
+   "headword": "dẫy dàng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses dẫy dàng to describe arrogance, which is not its attested meaning.",
+   "fix": "Mình mặc áo giáp quang hoa dẫy dàng. = Clad in brilliantly shining armor."
+  }
+ ]
+}

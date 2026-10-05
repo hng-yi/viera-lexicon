@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "quang minh",
+  "lí",
+  "tuyệt thế",
+  "loét",
+  "hão huyền",
+  "xét đoán",
+  "diệt trừ",
+  "vô thức",
+  "tái hiện",
+  "tâm huyết",
+  "đối",
+  "tép",
+  "thanh thiếu niên",
+  "cao ốc",
+  "phụ giúp",
+  "cấm vận",
+  "trọn gói",
+  "phóng túng",
+  "kĩ lưỡng",
+  "phong thủy",
+  "tọng",
+  "cổ chân",
+  "bắt bớ",
+  "thật lòng",
+  "vé số",
+  "vang vọng",
+  "ngôn",
+  "trảm",
+  "chườm",
+  "đưa đẩy",
+  "thủ thư",
+  "chừng nào",
+  "bài trừ",
+  "day dứt",
+  "tróc",
+  "dở ẹc",
+  "nhởn nhơ",
+  "chỉnh hình",
+  "flo",
+  "thoa"
+ ],
+ "flags": [
+  {
+   "headword": "tọng",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The eating sense is crude and disparaging, so colloquial alone does not warn learners adequately ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%E1%BB%8Dng)).",
+   "fix": "[colloquial, vulgar]"
+  },
+  {
+   "headword": "chừng nào",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Chừng nào in this sense is also normal conversational Vietnamese, so the literary tag misleadingly restricts its use.",
+   "fix": "Remove the literary tag."
+  }
+ ]
+}

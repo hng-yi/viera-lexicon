@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ăn vụng",
+  "ăn xổi",
+  "ăn xổi ở thì",
+  "ăn yến",
+  "ăn đong",
+  "ăn đêm",
+  "ăng-bra-i-a",
+  "Đường thi",
+  "Đạo giáo",
+  "Đạt-lại Lạt-ma",
+  "Địa Chi",
+  "đ!t",
+  "đa chiều",
+  "đa di năng",
+  "đa dạng hoá",
+  "đa giác",
+  "đa mưu túc trí",
+  "đa nghi như Tào Tháo",
+  "đa ngôn ngữ",
+  "đa nền",
+  "đa phương",
+  "đa phương hoá",
+  "đa phương hóa",
+  "đa phương tiện",
+  "đa quốc gia",
+  "đa ta",
+  "đa tiết",
+  "đa tạng",
+  "đa xơ cứng",
+  "đa âm",
+  "đa đa",
+  "đai an toàn",
+  "đam",
+  "đan sĩ",
+  "đan viện",
+  "đang không",
+  "đang thì",
+  "đanh thép",
+  "đanh đá",
+  "đao to búa lớn"
+ ],
+ "flags": [
+  {
+   "headword": "ăn vụng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of having a secret affair, attested in this [dictionary](https://vtudien.com/viet-trung/dictionary/nghia-cua-tu-%C4%83n%20v%E1%BB%A5ng).",
+   "fix": "Add: verb [colloquial, euphemistic] | to have a secret affair; to cheat on one's partner."
+  },
+  {
+   "headword": "đam",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "For field crabs, đam is a Central Vietnamese regional word, specifically documented in [North Central usage](https://cadao.me/oc-dong-nao-oc-ngon-oc-beo/), rather than a Northern term.",
+   "fix": "Replace [Central, Northern] with [Central]."
+  }
+ ]
+}

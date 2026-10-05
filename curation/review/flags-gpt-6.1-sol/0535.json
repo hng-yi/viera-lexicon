@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nông nghiệp thông minh",
+  "nông nhàn",
+  "nông sợt",
+  "nông thôn mới",
+  "nôốc",
+  "nõn",
+  "núc nác",
+  "núi cao còn có núi cao hơn",
+  "núi ngầm",
+  "núi sông",
+  "núm vú giả",
+  "núng thế",
+  "nút bấm",
+  "nút bần",
+  "năm Thìn bão lụt",
+  "năm châu bốn bể",
+  "năm mười",
+  "năm nhuận",
+  "năm thì mười hoạ",
+  "năm thì mười họa",
+  "năm tài chính",
+  "năm ánh sáng",
+  "năn ngọt",
+  "năng nhặt chặt bị",
+  "nơ bướm",
+  "nơi chốn",
+  "nơi nơi",
+  "nơi sinh",
+  "nơm",
+  "nưa",
+  "nương long",
+  "nước Bắc",
+  "nước Gia-ven",
+  "nước Nam",
+  "nước Tàu",
+  "nước bước",
+  "nước chanh",
+  "nước chè",
+  "nước chảy đá mòn",
+  "nước chấm"
+ ],
+ "flags": [
+  {
+   "headword": "nôốc",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "'Tún ni' is not the Huế expression for 'tonight'; the intended phrase is 'túi ni'.",
+   "fix": "Túi ni lên nôốc ngắm kiểng. = Tonight we'll get on the boat to look at the scenery. ([Huế dictionary](https://langhue.org/index.php/bien-khao/vien-tai-lieu-trau-cau/7284-tvhb-tu-dien-tieng-hue-ho-van-hien.html))"
+  },
+  {
+   "headword": "năm mười",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for hide-and-seek is mainly Southern Vietnamese and lacks a regional tag.",
+   "fix": "Add Southern. ([Regional usage](https://muctim.tuoitre.vn/choi-nam-muoi-bang-dien-thoai-69971.htm))"
+  }
+ ]
+}

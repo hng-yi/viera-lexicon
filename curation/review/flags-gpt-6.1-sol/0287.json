@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tan hoang",
+  "rau cải",
+  "tháng ngày",
+  "hợp ca",
+  "góp mặt",
+  "mưa bão",
+  "sản",
+  "xế chiều",
+  "nhân thể",
+  "khoái chí",
+  "cách trở",
+  "gỏi",
+  "gầu",
+  "đất đá",
+  "tiền đồ",
+  "cây trồng",
+  "rướn",
+  "organ",
+  "nép",
+  "chủ nợ",
+  "xuất cảng",
+  "chào thua",
+  "giũa",
+  "sém",
+  "phô bày",
+  "đỏ rực",
+  "vô bờ",
+  "đại đa số",
+  "miệt thị",
+  "cấp vốn",
+  "câu kết",
+  "phát kiến",
+  "trào lưu",
+  "tươi tốt",
+  "gươm giáo",
+  "hoàn mĩ",
+  "ăn vạ",
+  "quân sĩ",
+  "dụng ý",
+  "tiên lượng"
+ ],
+ "flags": [
+  {
+   "headword": "nhân thể",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression is used naturally in casual speech, so the formal tag misrepresents its register.",
+   "fix": "Remove the formal tag."
+  },
+  {
+   "headword": "gầu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of a container used to draw or scoop water.",
+   "fix": "noun | bucket or scoop for drawing water"
+  },
+  {
+   "headword": "phát kiến",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal word for a discovery or new finding, rather than an ordinary conversational term.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "quân sĩ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs mainly to literary or historical narration and would sound out of place in ordinary conversation about soldiers.",
+   "fix": "Add the literary tag."
+  }
+ ]
+}

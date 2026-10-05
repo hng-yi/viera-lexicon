@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tẹo",
+  "nhận xét",
+  "bỗng nhiên",
+  "ngụy",
+  "tấp",
+  "giáng",
+  "nhậu",
+  "xác minh",
+  "nhánh",
+  "dòng chảy",
+  "Xô viết",
+  "thách đấu",
+  "thái hậu",
+  "đổ nát",
+  "lìa",
+  "mứt",
+  "hành hung",
+  "điều trần",
+  "chải",
+  "né",
+  "trăm năm",
+  "đồ vật",
+  "cộng tác",
+  "bình phục",
+  "lít",
+  "con rối",
+  "thương tiếc",
+  "sở thú",
+  "nghiêm chỉnh",
+  "bồi thẩm đoàn",
+  "bực bội",
+  "bổ sung",
+  "ra mặt",
+  "vô hạn",
+  "thương yêu",
+  "thét",
+  "tùy ý",
+  "đề tài",
+  "ngốc nghếch",
+  "toán"
+ ],
+ "flags": [
+  {
+   "headword": "Xô viết",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Các đại biểu được bầu vào Xô viết. = The delegates were elected to the soviet."
+  },
+  {
+   "headword": "thái hậu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Nhà vua đến thăm thái hậu. = The king visited the queen mother."
+  }
+ ]
+}

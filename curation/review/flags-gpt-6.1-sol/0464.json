@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "giảm phân",
+  "giảm đau",
+  "giản lược",
+  "giản thể",
+  "giản đồ",
+  "giảng dụ",
+  "giảng hoà",
+  "giảng đạo",
+  "giảnh",
+  "giảo hoạt",
+  "giấc hoè",
+  "giấc mơ Mĩ",
+  "giấc điệp",
+  "giấm trắng",
+  "giấu như mèo giấu cứt",
+  "giấu nhẹm",
+  "giấy bồi",
+  "giấy can",
+  "giấy chứng nhận",
+  "giấy dó",
+  "giấy nhám",
+  "giấy nến",
+  "giấy phép lái xe",
+  "giấy rô-ki",
+  "giấy sáp",
+  "giấy than",
+  "giấy thông hành",
+  "giấy trắng mực đen",
+  "giấy vệ sinh",
+  "giấy xuất cảnh",
+  "giấy ướt",
+  "giần",
+  "giậm chân",
+  "giậm chân tại chỗ",
+  "giận cá chém thớt",
+  "giập giờn",
+  "giắc-két",
+  "giằm",
+  "giằng",
+  "giặc cỏ"
+ ],
+ "flags": [
+  {
+   "headword": "giảnh",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old, little-used word, but the entry presents it as current neutral vocabulary ([dictionary](https://loigiaihay.com/tu-dien-tv/gianh-efxzM6qnIYvKj.html)).",
+   "fix": "Add tags: dated, uncommon."
+  },
+  {
+   "headword": "giấu như mèo giấu cứt",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression contains the vulgar word cứt, so informal alone does not adequately warn the learner.",
+   "fix": "Add the vulgar tag."
+  },
+  {
+   "headword": "giập giờn",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old form of dập dờn, and literary alone does not convey its dated status ([dictionary](https://v2.rung.vn/dict/vn_vn/Gi%E1%BA%ADp_gi%E1%BB%9Dn)).",
+   "fix": "Add the dated tag."
+  }
+ ]
+}

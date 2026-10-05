@@ -1,0 +1,174 @@
+{
+ "headwords": [
+  "sắc chỉ",
+  "sắc phục",
+  "sắc tố đen",
+  "sắn",
+  "sắp tới",
+  "sắt son",
+  "sắt từ",
+  "sẵn có",
+  "sặt",
+  "sẹc",
+  "sến sẩm",
+  "sệt",
+  "sịa",
+  "sọi sặng",
+  "sọt rác",
+  "sỏ",
+  "sỏi thận",
+  "số bị chia",
+  "số bị trừ",
+  "số chia",
+  "số chính phương",
+  "số dách",
+  "số dây nói",
+  "số hoá",
+  "số hóa",
+  "số học",
+  "số hữu tỉ",
+  "số không",
+  "số khối",
+  "số lẻ",
+  "số nguyên",
+  "số nguyên tố",
+  "số nhiều",
+  "số phôn",
+  "số phức",
+  "số pi",
+  "số thập phân",
+  "số thực",
+  "số trừ",
+  "số từ"
+ ],
+ "flags": [
+  {
+   "headword": "sắt từ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Sắt từ” does not mean ferromagnetism, which is “tính sắt từ” or “hiện tượng sắt từ.”",
+   "fix": "ferromagnetic; ferromagnetic material"
+  },
+  {
+   "headword": "số hóa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common verb meaning “to digitize” is missing.",
+   "fix": "verb | to digitize; ex: Thư viện đang số hóa toàn bộ sách cũ. = The library is digitizing all its old books."
+  },
+  {
+   "headword": "số bị chia",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which number is the dividend instead of using the term in context.",
+   "fix": "Lấy số bị chia chia cho số chia. = Divide the dividend by the divisor."
+  },
+  {
+   "headword": "số bị trừ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the minuend instead of using the term in context.",
+   "fix": "Em đã viết nhầm số bị trừ. = You wrote the minuend incorrectly."
+  },
+  {
+   "headword": "số chia",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the divisor instead of using the term in context.",
+   "fix": "Số chia trong bài này quá lớn. = The divisor in this problem is too large."
+  },
+  {
+   "headword": "số chính phương",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains why a number is a square number instead of using the term in context.",
+   "fix": "Hãy tìm các số chính phương nhỏ hơn một trăm. = Find the square numbers less than one hundred."
+  },
+  {
+   "headword": "số hữu tỉ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains a mathematical category instead of using the term in context.",
+   "fix": "Hôm nay chúng em học cách cộng hai số hữu tỉ. = Today we learned how to add two rational numbers."
+  },
+  {
+   "headword": "số khối",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines mass number instead of using the term in context.",
+   "fix": "Hãy tính số khối của nguyên tử này. = Calculate the mass number of this atom."
+  },
+  {
+   "headword": "số lẻ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies an odd number instead of using the term in context.",
+   "fix": "Hãy khoanh tròn các số lẻ trong danh sách. = Circle the odd numbers in the list."
+  },
+  {
+   "headword": "số nguyên",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which numbers count as integers instead of using the term in context.",
+   "fix": "Bạn phải nhập một số nguyên. = You must enter an integer."
+  },
+  {
+   "headword": "số nguyên tố",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies a prime number instead of using the term in context.",
+   "fix": "Hãy tìm tất cả các số nguyên tố nhỏ hơn hai mươi. = Find all the prime numbers less than twenty."
+  },
+  {
+   "headword": "số phức",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the structure of a complex number instead of using the term in context.",
+   "fix": "Bài này yêu cầu nhân hai số phức. = This problem asks you to multiply two complex numbers."
+  },
+  {
+   "headword": "số pi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the approximate value of pi instead of using the term in context.",
+   "fix": "Em quên nhân với số pi khi tính diện tích. = I forgot to multiply by pi when calculating the area."
+  },
+  {
+   "headword": "số thập phân",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies a decimal number instead of using the term in context.",
+   "fix": "Máy tính hiển thị kết quả dưới dạng số thập phân. = The calculator displays the result as a decimal."
+  },
+  {
+   "headword": "số trừ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the subtrahend instead of using the term in context.",
+   "fix": "Em đã chép sai số trừ. = You copied the subtrahend incorrectly."
+  },
+  {
+   "headword": "số từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which words are numerals instead of using the term in context.",
+   "fix": "Hãy gạch chân các số từ trong đoạn văn. = Underline the numerals in the passage."
+  }
+ ]
+}

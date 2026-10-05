@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "toác",
+  "tiên nữ",
+  "khó nhọc",
+  "trăn",
+  "nghiêm cấm",
+  "máng",
+  "dã tâm",
+  "nước miếng",
+  "che kín",
+  "xuất chúng",
+  "khí trời",
+  "tuy rằng",
+  "thân quen",
+  "mới tinh",
+  "đệ nhị",
+  "khúc khích",
+  "đại tài",
+  "thần tốc",
+  "bửa",
+  "sàng lọc",
+  "lố lăng",
+  "hiền hòa",
+  "bánh răng",
+  "na",
+  "liên đới",
+  "kể lể",
+  "té ra",
+  "sẻ",
+  "cỏn con",
+  "chủ nghĩa tư bản",
+  "đồng hóa",
+  "tiện dụng",
+  "văn chương",
+  "hợm hĩnh",
+  "đích thị",
+  "cấp tiến",
+  "đoạn tuyệt",
+  "chủ nghĩa cộng sản",
+  "Mãn Châu",
+  "nuối tiếc"
+ ],
+ "flags": [
+  {
+   "headword": "na",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The sentence-final particle is nà, not na, as recorded in the [dictionary entry for nà](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-n%C3%A0).",
+   "fix": "Remove this sense from na; it belongs under nà."
+  },
+  {
+   "headword": "liên đới",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Liên đới remains formal when it means interconnected or interrelated, so the untagged sense misleadingly suggests ordinary casual usage.",
+   "fix": "Add the formal tag."
+  }
+ ]
+}

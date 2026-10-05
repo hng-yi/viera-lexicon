@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "tiền nước",
+  "tiền phạt",
+  "tiền sản giật",
+  "tiền trao cháo múc",
+  "tiền truyện",
+  "tiền trảm hậu tấu",
+  "tiền tệ dự trữ",
+  "tiền vàng mã",
+  "tiền âm phủ",
+  "tiền đình",
+  "tiền đúc",
+  "tiền đạo",
+  "tiểu bang tím",
+  "tiểu bang xanh",
+  "tiểu bang đỏ",
+  "tiểu cảnh",
+  "tiểu dẫn",
+  "tiểu hình",
+  "tiểu hồi hương",
+  "tiểu mạch",
+  "tiểu nhi",
+  "tiểu não",
+  "tiểu phẩm",
+  "tiểu phẫu",
+  "tiểu tam",
+  "tiểu thuỳ",
+  "tiểu thùy",
+  "tiểu thương",
+  "tiểu thương nghiệp",
+  "tiểu tràng",
+  "tiểu tâm",
+  "tiểu từ",
+  "tiểu tự",
+  "tiểu xá",
+  "tiểu đối",
+  "tiệm buôn",
+  "tiệm tiến",
+  "tiệm tạp hoá",
+  "tiệm ăn",
+  "tiệt quyền đạo"
+ ],
+ "flags": [
+  {
+   "headword": "tiểu nhi",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This literary and traditional-medical term is not an ordinary conversational word for a child.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "tiểu nhi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Modern Vietnamese hospitals call the paediatrics ward khoa nhi, while tiểu nhi occurs in contexts such as [traditional medicine](https://dongythoxuanduong.com.vn/tintuc/nhung-bai-thuoc-chua-tre-em-cam-tich/vi-VN-10825-225.aspx).",
+   "fix": "Bài thuốc này dùng để chữa ho ở tiểu nhi. = This traditional remedy is used to treat coughs in children."
+  },
+  {
+   "headword": "tiểu từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which grammatical category nhé belongs to instead of showing the word in use.",
+   "fix": "Cô giáo yêu cầu chúng tôi bỏ tiểu từ cuối câu này. = The teacher asked us to remove the particle at the end of this sentence."
+  },
+  {
+   "headword": "tiệm buôn",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Đầu phố means the beginning of the street, whereas the translation says the end.",
+   "fix": "He opened a small shop at the beginning of the street."
+  },
+  {
+   "headword": "tiệt quyền đạo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines Jeet Kune Do instead of showing the name in use.",
+   "fix": "Anh ấy đã tập tiệt quyền đạo được ba năm. = He has practised Jeet Kune Do for three years."
+  }
+ ]
+}

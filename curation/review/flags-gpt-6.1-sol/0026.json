@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "công chúa",
+  "vẽ",
+  "ấn tượng",
+  "tung",
+  "kịp",
+  "tự hào",
+  "mũi",
+  "cho dù",
+  "mãi mãi",
+  "cảnh báo",
+  "trải",
+  "án",
+  "thông báo",
+  "người dân",
+  "ý kiến",
+  "cà phê",
+  "chữ",
+  "dao",
+  "giải",
+  "bắc",
+  "giày",
+  "lí do",
+  "dọa",
+  "có khi",
+  "mông",
+  "mục đích",
+  "chán",
+  "thời",
+  "kết hôn",
+  "quý vị",
+  "đại tá",
+  "gấp",
+  "khuyên",
+  "ảnh hưởng",
+  "dọn",
+  "bất ngờ",
+  "xây dựng",
+  "đóng cửa",
+  "lỡ",
+  "e"
+ ],
+ "flags": [
+  {
+   "headword": "tung",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of releasing or putting news, images or products into circulation.",
+   "fix": "to release; to put into circulation"
+  },
+  {
+   "headword": "đại tá",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The equivalent naval rank is captain, whereas commodore is a higher rank.",
+   "fix": "colonel (in a navy, captain)"
+  },
+  {
+   "headword": "khuyên",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Khuyên is an everyday word for an earring or piercing ornament, so the uncommon tag is misleading.",
+   "fix": "Remove the uncommon tag."
+  },
+  {
+   "headword": "giải",
+   "sense": 7,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Con giải bơi dưới nước. = The giant soft-shell turtle swims underwater."
+  }
+ ]
+}

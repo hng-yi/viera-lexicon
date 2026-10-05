@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tinh thể học",
+  "tinh tinh lùn",
+  "tinh tuý",
+  "tinh đời",
+  "tiu nghỉu",
+  "tiêm nhiễm",
+  "tiên chim",
+  "tiên dung",
+  "tiên giới",
+  "tiên hiệp",
+  "tiên học lễ, hậu học văn",
+  "tiên mao",
+  "tiên nga",
+  "tiên nghiệm",
+  "tiên nho",
+  "tiên đề",
+  "tiên đồng ngọc nữ",
+  "tiêu chuẩn hoá",
+  "tiêu chuẩn hóa",
+  "tiêu chuẩn kép",
+  "tiêu dao",
+  "tiêu hoá",
+  "tiêu lốt",
+  "tiêu ma",
+  "tiêu ngữ",
+  "tiêu thạch",
+  "tiêu thất",
+  "tiêu thổ",
+  "tiêu ớt",
+  "tiếm quyền",
+  "tiến bộ chủ nghĩa",
+  "tiến hoá",
+  "tiến khả dĩ công, thoái khả dĩ thủ",
+  "tiến lên",
+  "tiến thoái lưỡng nan",
+  "tiến tới",
+  "tiếng Bắc",
+  "tiếng Do Thái",
+  "tiếng Hoa",
+  "tiếng Hàn"
+ ],
+ "flags": [
+  {
+   "headword": "tiên đề",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Chứng minh này dựa trên tiên đề đã nêu. = This proof relies on the stated axiom."
+  },
+  {
+   "headword": "tiêu thổ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means destroying buildings and resources to deny their use to an enemy, rather than specifically burning everything along one's path ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ti%C3%AAu%20th%E1%BB%95)).",
+   "fix": "to destroy buildings and resources so an enemy cannot use them (scorched-earth tactic)"
+  }
+ ]
+}

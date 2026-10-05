@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "hải đảo",
+  "chèo kéo",
+  "khò khè",
+  "da bọc xương",
+  "pín",
+  "hậu viện",
+  "ba lê",
+  "bão cát",
+  "điều tiếng",
+  "bần hàn",
+  "chai lì",
+  "tây tây",
+  "trương mục",
+  "dung tha",
+  "cha cố",
+  "bồ bịch",
+  "phi nghĩa",
+  "bồ hóng",
+  "manga",
+  "thị chính",
+  "ông cụ",
+  "lẽ thường",
+  "bắt máy",
+  "nhân văn",
+  "cầu gai",
+  "bóng bàn",
+  "đáy lòng",
+  "thất thần",
+  "tĩnh mịch",
+  "lờ đờ",
+  "hiện đại hóa",
+  "phi phàm",
+  "dịch giả",
+  "mòi",
+  "phù trợ",
+  "u mê",
+  "nám",
+  "chống phá",
+  "đá lửa",
+  "tồn đọng"
+ ],
+ "flags": [
+  {
+   "headword": "bồ bịch",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Here, bịch means a woven bamboo grain container, not a sack ([dictionary](https://vi.wiktionary.org/wiki/b%E1%BB%8Bch)).",
+   "fix": "The storeroom is piled full of woven baskets and bins for storing rice."
+  },
+  {
+   "headword": "thị chính",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thị chính means municipal administration, while the building called city hall is tòa thị chính ([dictionary](https://vi.wiktionary.org/wiki/th%E1%BB%8B_ch%C3%ADnh)).",
+   "fix": "municipal administration"
+  },
+  {
+   "headword": "mòi",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The meaning 'wave' is local to Phú Lộc in Huế and needs a Central region tag ([dictionary](https://en.wiktionary.org/wiki/m%C3%B2i)).",
+   "fix": "Add Central."
+  }
+ ]
+}

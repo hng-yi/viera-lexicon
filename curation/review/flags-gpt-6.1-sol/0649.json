@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ốc len",
+  "ốc mượn hồn",
+  "ốc nha",
+  "ốc quế",
+  "ốc vú nàng",
+  "ốm nheo",
+  "ốm nhách",
+  "ốm o",
+  "ống bơ",
+  "ống bơm",
+  "ống chích",
+  "ống nhổ",
+  "ống pô",
+  "ống quyển",
+  "ống xì đồng",
+  "ốp-lết",
+  "ốt dột",
+  "ồm",
+  "ồm ồm",
+  "ổ dịch",
+  "ổ khoá",
+  "ổ mắt",
+  "ổ nhóm",
+  "ổ đĩa cứng",
+  "ổ đĩa mềm",
+  "ổ đĩa quang",
+  "ổn thoả",
+  "ổn áp",
+  "ộ ệ",
+  "ộc",
+  "ộp",
+  "ớt bột",
+  "ớt chuông",
+  "ớt chỉ thiên",
+  "ớt hiểm",
+  "ớt xanh",
+  "ớt đỏ",
+  "ở chưng",
+  "ở giá",
+  "ở lại"
+ ],
+ "flags": [
+  {
+   "headword": "ổ nhóm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Ổ nhóm” refers to a group of criminals, not their hideout ([dictionary](https://dictionary.zim.vn/viet-anh/o-nhom-tieng-anh-la-gi)).",
+   "fix": "criminal gang; crime ring"
+  },
+  {
+   "headword": "ổ nhóm",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Ổ nhóm đánh bạc” identifies the gambling group, not the premises ([dictionary](https://dictionary.zim.vn/viet-anh/o-nhom-tieng-anh-la-gi)).",
+   "fix": "The police broke up the gambling ring."
+  }
+ ]
+}

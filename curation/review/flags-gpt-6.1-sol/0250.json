@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "ăng ten",
+  "chủ lực",
+  "tàn độc",
+  "non nớt",
+  "giác mạc",
+  "ngành nghề",
+  "răn dạy",
+  "ròng rọc",
+  "búi",
+  "khướt",
+  "hạ bộ",
+  "uốn ván",
+  "thông dịch",
+  "tày trời",
+  "thè",
+  "hôn thú",
+  "chuyên tâm",
+  "hồng tâm",
+  "uể oải",
+  "buồn lòng",
+  "cao kều",
+  "hiệu năng",
+  "tối om",
+  "giằng xé",
+  "cơ nghiệp",
+  "thượng thư",
+  "khắc tinh",
+  "cao to",
+  "trên dưới",
+  "chung cuộc",
+  "nguyệt",
+  "sinh thái",
+  "hiếu thảo",
+  "cà lăm",
+  "tài hoa",
+  "hắt xì",
+  "rườm rà",
+  "ưu",
+  "tha bổng",
+  "tuyệt phẩm"
+ ],
+ "flags": [
+  {
+   "headword": "trên dưới",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example puts the approximation phrase in an unnatural position; it normally precedes the quantity ([dictionary](https://loigiaihay.com/tu-dien-tv/tren-duoi-eZl1Zeq8JBCDl.html)).",
+   "fix": "Gloss: about; give or take (before a number). Example: Ông ấy trên dưới bốn mươi tuổi. = He is forty or so."
+  },
+  {
+   "headword": "cà lăm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This word is used mainly in Southern Vietnamese and needs a regional label ([source](https://www.netabooks.vn/tieng-viet-phuong-nam-ke-ve-phuong-ngu-nam-bo)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "cà lăm",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The verb has the same predominantly Southern usage and needs a regional label ([source](https://www.netabooks.vn/tieng-viet-phuong-nam-ke-ve-phuong-ngu-nam-bo)).",
+   "fix": "Add Southern."
+  }
+ ]
+}

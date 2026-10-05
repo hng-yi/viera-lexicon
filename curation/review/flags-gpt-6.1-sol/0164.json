@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "một trăm",
+  "làn sóng",
+  "hội viên",
+  "diện tích",
+  "cuồng",
+  "ưu tú",
+  "kịp thời",
+  "giao thừa",
+  "tuần lộc",
+  "quả cảm",
+  "phận",
+  "sắc lệnh",
+  "dái",
+  "tận tay",
+  "mầy",
+  "tức khắc",
+  "ẩn giấu",
+  "sản sinh",
+  "hóng",
+  "khinh thường",
+  "rệp",
+  "nợ nần",
+  "mẫu giáo",
+  "quang cảnh",
+  "hiện thân",
+  "nhột",
+  "nam nữ",
+  "nước bọt",
+  "sùng đạo",
+  "toàn cảnh",
+  "yên ắng",
+  "đầu thai",
+  "lên án",
+  "vảy",
+  "tuýp",
+  "chuyển giới",
+  "mời gọi",
+  "sọc",
+  "hiện vật",
+  "ước lượng"
+ ],
+ "flags": [
+  {
+   "headword": "dái",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This body-part term is vulgar in ordinary conversation, so colloquial alone is insufficient ([Wiktionary](https://en.wiktionary.org/wiki/d%C3%A1i)).",
+   "fix": "Tags: colloquial, vulgar."
+  },
+  {
+   "headword": "mầy",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This variant of mày is mainly Southern and needs a regional label ([Vietnamese dialect comparison](https://en.wikipedia.org/wiki/Vietnamese_language)).",
+   "fix": "Tags: informal, Southern."
+  },
+  {
+   "headword": "rệp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Giường bị rệp cắn says the bed was bitten by bedbugs, instead of saying it was infested.",
+   "fix": "Giường có rệp nên tôi bị cắn, ngứa cả đêm. = The bed had bedbugs, so I was bitten and itched all night."
+  },
+  {
+   "headword": "nhột",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The guilty or defensive sense is also widely used outside Central Vietnam ([Rung dictionary](https://www.rung.vn/dict/vn_vn/Nh%E1%BB%99t)).",
+   "fix": "Remove the Central tag."
+  },
+  {
+   "headword": "vảy",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning scab or crust on healing skin is missing ([Rung dictionary](https://www.rung.vn/dict/vn_vn/V%E1%BA%A3y)).",
+   "fix": "noun | scab; crust on the skin"
+  },
+  {
+   "headword": "sọc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common noun meaning stripe is missing, so learners cannot interpret uses such as một sọc đỏ ([Rung dictionary](https://www.rung.vn/dict/vn_vn/S%E1%BB%8Dc)).",
+   "fix": "noun | stripe"
+  }
+ ]
+}

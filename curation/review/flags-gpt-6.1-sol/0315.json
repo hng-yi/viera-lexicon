@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "gầy yếu",
+  "nghè",
+  "hướng nghiệp",
+  "sít",
+  "ực",
+  "thẳng tính",
+  "hòa tấu",
+  "tối nghĩa",
+  "phụng mệnh",
+  "sững",
+  "phần mộ",
+  "sũng",
+  "đối sách",
+  "dỏng",
+  "oi bức",
+  "đảm đang",
+  "trắc",
+  "kếch xù",
+  "đơn giản hóa",
+  "chiêng",
+  "quặn",
+  "quai",
+  "thăng thiên",
+  "tử huyệt",
+  "sơn ca",
+  "bút bi",
+  "gian thần",
+  "tri giác",
+  "xem bói",
+  "máy sưởi",
+  "ào ào",
+  "bẹ",
+  "khởi",
+  "chân đất",
+  "sự tích",
+  "trữ lượng",
+  "trực thuộc",
+  "thiếu úy",
+  "bản sắc",
+  "rướm"
+ ],
+ "flags": [
+  {
+   "headword": "phần mộ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Phần mộ” is a formal term for a grave, so the untagged gloss suggests a more neutral everyday word than it is.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "đối sách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Đối sách” belongs to formal discussion of strategies and responses rather than ordinary casual talk about solving a problem.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tri giác",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Tri giác” is used in technical or formal discussion of perception and consciousness rather than ordinary casual speech.",
+   "fix": "Add the tag formal."
+  }
+ ]
+}

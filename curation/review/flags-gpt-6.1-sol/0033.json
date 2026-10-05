@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tốc độ",
+  "khắp nơi",
+  "trung sĩ",
+  "thừa nhận",
+  "ánh",
+  "quan sát",
+  "đơn vị",
+  "hòa",
+  "cảm xúc",
+  "phóng",
+  "suýt",
+  "Trung Quốc",
+  "tù nhân",
+  "xem xét",
+  "thu",
+  "mệt",
+  "bàn tay",
+  "thi",
+  "khai",
+  "thổi",
+  "chiến dịch",
+  "nhắm",
+  "bảng",
+  "phức tạp",
+  "trượt",
+  "tha",
+  "giả vờ",
+  "chôn",
+  "hân hạnh",
+  "kết nối",
+  "mũ",
+  "gãy",
+  "mười",
+  "như thể",
+  "chấm dứt",
+  "lôi",
+  "xe tải",
+  "đệ",
+  "khoa học",
+  "ngăn chặn"
+ ],
+ "flags": [
+  {
+   "headword": "ánh",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "[Ánh](https://vi.wiktionary.org/wiki/ánh) denotes a clove or an offset section of certain bulbs or tubers, rather than a sprout.",
+   "fix": "clove; offset or branch of certain bulbs or tubers"
+  },
+  {
+   "headword": "ánh",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example refers to branches or sections of the ginger rhizome, not newly growing sprouts.",
+   "fix": "This piece of ginger has many branches."
+  },
+  {
+   "headword": "thu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning [to record sound or images](https://vi.wiktionary.org/wiki/thu), also used independently in expressions such as thu một bài hát, is missing.",
+   "fix": "verb | to record (sound or images); ex: Tôi vừa thu một bài hát. = I have just recorded a song."
+  }
+ ]
+}

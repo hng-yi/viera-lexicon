@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "ngắn ngủn",
+  "điển",
+  "luân thường",
+  "oát",
+  "duy tu",
+  "bánh chưng",
+  "giú",
+  "nhà hảo tâm",
+  "nhuôm",
+  "sữa đặc",
+  "phép cộng",
+  "dấy loạn",
+  "bá quan",
+  "kim tiêm",
+  "thiêu thân",
+  "đại đức",
+  "áo bào",
+  "tầm ma",
+  "duy vật",
+  "đả thông",
+  "thợ sơn",
+  "công đồng",
+  "gỏi cuốn",
+  "lác mắt",
+  "sư phạm",
+  "bá cháy",
+  "lem nhem",
+  "cơi",
+  "dùi mài",
+  "sá",
+  "ca ri",
+  "hạ thế",
+  "phụ phẩm",
+  "đơn sơ",
+  "te tua",
+  "phân li",
+  "trau chuốt",
+  "vô tư lự",
+  "hạ nguồn",
+  "nhướng"
+ ],
+ "flags": [
+  {
+   "headword": "luân thường",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word has a formal register that the uncommon tag does not convey, as described in the [dictionary](https://loigiaihay.com/tu-dien-tv/luan-thuong-eOfC1K2MZxmv7.html).",
+   "fix": "[formal, uncommon]"
+  },
+  {
+   "headword": "nhuôm",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The entry confuses nhuôm with nhuốm, which means to become tinged with a colour rather than grayish, as shown in the [dictionary](https://vi.wiktionary.org/wiki/nhu%E1%BB%91m).",
+   "fix": "Replace with headword nhuốm: verb | to become tinged with a colour; example: Bức tường cũ nhuốm màu xám. = The old wall has taken on a grey tinge."
+  },
+  {
+   "headword": "te tua",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common sense of being badly beaten or defeated, illustrated by thua te tua in [everyday sports commentary](https://vnexpress.net/vong-tron-doc-hai-cua-bong-da-viet-4378589.html).",
+   "fix": "adj [colloquial] | badly beaten; soundly defeated; example: Đội tôi thua te tua. = Our team suffered a crushing defeat."
+  }
+ ]
+}

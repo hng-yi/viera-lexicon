@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "can chi",
+  "can khương",
+  "can liên",
+  "can qua",
+  "canh chua",
+  "canh cánh",
+  "canh ki na",
+  "canh nông",
+  "canh tân",
+  "cao chạy xa bay",
+  "cao danh quý tính",
+  "cao huyết áp",
+  "cao hổ cốt",
+  "cao khảo",
+  "cao lương",
+  "cao lương mỹ vị",
+  "cao lầu",
+  "cao nhã",
+  "cao phú soái",
+  "cao sang",
+  "cao tay ấn",
+  "cao trình",
+  "cao tần",
+  "cao viễn",
+  "cao địa",
+  "cao-lanh",
+  "cađimi",
+  "cha ghẻ",
+  "cha mẹ sinh con, trời sinh tính",
+  "cha nào con nấy",
+  "cha truyền con nối",
+  "chan hoà",
+  "chang bang",
+  "chang chang",
+  "chanh chua",
+  "chanh chách",
+  "chanh dây",
+  "chanh muối",
+  "chanh tây",
+  "chat sex"
+ ],
+ "flags": [
+  {
+   "headword": "canh chua",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The gloss restricts canh chua to a southern tamarind recipe, although [regional versions](https://openlanguage.org.au/wp-content/uploads/2023/05/UoW-am-thuc-VN_May25.pdf) use other souring ingredients.",
+   "fix": "Vietnamese sour soup"
+  },
+  {
+   "headword": "chan hoà",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning 'flooded with; suffused with', especially in [descriptions of sunlight](https://englishsticky.com/tu-dien-viet-anh/chan%20ho%C3%A0.html).",
+   "fix": "adj | flooded with; suffused with (especially light); ex: Căn phòng chan hoà ánh nắng. = The room is flooded with sunlight."
+  },
+  {
+   "headword": "chang bang",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chang bang is a [Southern regional word](https://vannghemoi.com.vn/phuong-ngu-nam-bo-trong-sang-tac-cua-nguyen-thi/) but has no regional tag.",
+   "fix": "[uncommon, Southern]"
+  },
+  {
+   "headword": "chanh chách",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The gecko sense belongs to [coastal Northern dialects](https://en.wiktionary.org/wiki/chanh_ch%C3%A1ch) but lacks a regional tag.",
+   "fix": "[rare, Northern]"
+  }
+ ]
+}

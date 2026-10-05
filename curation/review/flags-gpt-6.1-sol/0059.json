@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tuần tra",
+  "người nhà",
+  "giả thuyết",
+  "gài",
+  "bầy",
+  "phái",
+  "vất vả",
+  "nhiễm",
+  "lọ",
+  "quốc hội",
+  "chém",
+  "điên khùng",
+  "trùng hợp",
+  "cầu xin",
+  "thân mến",
+  "chăn",
+  "mồ hôi",
+  "nghị sĩ",
+  "rưỡi",
+  "thế hệ",
+  "dụ",
+  "nông trại",
+  "sườn",
+  "phòng thủ",
+  "nhiễm trùng",
+  "dụng cụ",
+  "thiệt hại",
+  "cựu",
+  "hồi phục",
+  "nông dân",
+  "màn hình",
+  "hệ",
+  "bùa",
+  "buôn bán",
+  "thú nhận",
+  "thung lũng",
+  "truy nã",
+  "cố vấn",
+  "bản năng",
+  "dập"
+ ],
+ "flags": [
+  {
+   "headword": "nhiễm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means to acquire a habit, trait or influence, rather than to get carried away by a hobby or fandom.",
+   "fix": "to pick up or be influenced by habits, traits or ways of behaving"
+  },
+  {
+   "headword": "thân mến",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example describes the letter closing instead of using it to close a letter.",
+   "fix": "Hẹn sớm gặp lại bạn. Thân mến, Lan. = Hope to see you soon. Best wishes, Lan."
+  }
+ ]
+}

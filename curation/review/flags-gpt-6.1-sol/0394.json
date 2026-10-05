@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "Can Chi",
+  "Chu Ru",
+  "Chúa nhật",
+  "Chơ Ro",
+  "Các Thánh",
+  "Cơ Ho",
+  "Cơ Tu",
+  "Cần Vương",
+  "Cốt Đi-voa",
+  "Cờ Lao",
+  "Cục Điều tra Liên bang",
+  "DCT",
+  "Di Lặc",
+  "Di-gan",
+  "Do Thái phục quốc",
+  "Ghi-nê",
+  "Ghi-nê Bít-xao",
+  "Ghi-nê Xích Đạo",
+  "Gia Nã Đại",
+  "Gia Tô giáo",
+  "Giu-dêu",
+  "Giáng sinh vui vẻ",
+  "Giáy",
+  "Giéc-man",
+  "Giêsu Maria",
+  "Giẻ Triêng",
+  "Gru-di-a",
+  "Gô-loa",
+  "Ha-mai-ca",
+  "Hi Hoàng",
+  "Hin-đi",
+  "Hoa ngữ",
+  "Hoà chế Hán ngữ",
+  "Hoạn thư",
+  "Hrê",
+  "Hy-La",
+  "Hà Nhì",
+  "Hàn lưu",
+  "Hán Nôm",
+  "Hán Việt"
+ ],
+ "flags": [
+  {
+   "headword": "Chơ Ro",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the ethnic group instead of showing the name in use.",
+   "fix": "Chúng tôi đến thăm một ngôi làng của người Chơ Ro. = We visited a Cho Ro village."
+  },
+  {
+   "headword": "Cơ Tu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the ethnic group instead of showing the name in use.",
+   "fix": "Tôi có một người bạn Cơ Tu. = I have a Co Tu friend."
+  },
+  {
+   "headword": "Cờ Lao",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the ethnic group instead of showing the name in use.",
+   "fix": "Chúng tôi đến thăm một gia đình người Cờ Lao. = We visited a Gelao family."
+  },
+  {
+   "headword": "Di Lặc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which city the name denotes instead of showing the name in use.",
+   "fix": "Chúng tôi ở Di Lặc hai ngày. = We stayed in Mile for two days."
+  },
+  {
+   "headword": "Gia Nã Đại",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses the old country name instead of using it in the stated Canadian sense.",
+   "fix": "Ông ấy mang quốc tịch Gia Nã Đại. = He holds Canadian citizenship."
+  },
+  {
+   "headword": "Gia Tô giáo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the old term instead of using it to refer to the religion.",
+   "fix": "Ông ấy theo Gia Tô giáo. = He follows Christianity."
+  },
+  {
+   "headword": "Giu-dêu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word means instead of using it to refer to a person.",
+   "fix": "Ông ấy là một người Giu-dêu. = He is a Jew."
+  },
+  {
+   "headword": "Hi Hoàng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hi Hoàng names Fuxi alone, rather than an age associated with both Fuxi and the Yellow Emperor, as documented in this [account of Fuxi’s names](https://www.chuonghung.com/2021/07/dich-thuat-tam-hoang-ngu-e-ki-2.html).",
+   "fix": "Fuxi (a legendary Chinese ruler)"
+  },
+  {
+   "headword": "Hi Hoàng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation adds the Yellow Emperor, although Hi Hoàng refers to Fuxi alone ([source](https://www.chuonghung.com/2021/07/dich-thuat-tam-hoang-ngu-e-ki-2.html)).",
+   "fix": "The age of Fuxi survives only in legend."
+  }
+ ]
+}

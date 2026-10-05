@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "tọc mạch",
+  "nguyên văn",
+  "nghèo khó",
+  "hoàng đạo",
+  "liên doanh",
+  "nhô",
+  "thành ngữ",
+  "chường",
+  "chỉ tiêu",
+  "quang",
+  "ganh đua",
+  "phủ quyết",
+  "thuộc cấp",
+  "ngoại hạng",
+  "linh vật",
+  "đón đầu",
+  "kinh sợ",
+  "cấu thành",
+  "kích dục",
+  "toáng",
+  "đẩy mạnh",
+  "nạng",
+  "nhượng",
+  "trơn tru",
+  "giao diện",
+  "nao núng",
+  "gấp gáp",
+  "sóng gió",
+  "bĩnh",
+  "chú trọng",
+  "thể chế",
+  "vôi",
+  "hoang sơ",
+  "lảng",
+  "lưu động",
+  "khan hiếm",
+  "húp",
+  "tỉnh lẻ",
+  "chuyên chở",
+  "tích sự"
+ ],
+ "flags": [
+  {
+   "headword": "thuộc cấp",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word for a subordinate belongs to formal usage and needs a register warning.",
+   "fix": "tags: [formal]"
+  },
+  {
+   "headword": "cấu thành",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This verb belongs to formal usage rather than ordinary casual conversation.",
+   "fix": "tags: [formal]"
+  },
+  {
+   "headword": "cấu thành",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This use meaning 'constituent' also belongs to formal usage.",
+   "fix": "tags: [formal]"
+  },
+  {
+   "headword": "nhượng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nhượng denotes the hollow behind the knee, rather than the knee or heel joint ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-nh%C6%B0%E1%BB%A3ng)).",
+   "fix": "the hollow behind the knee"
+  },
+  {
+   "headword": "nhượng",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation incorrectly renders nhượng as the knee joint rather than the hollow behind it.",
+   "fix": "The doctor examined the hollow behind my knee."
+  },
+  {
+   "headword": "giao diện",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Using giao diện for a person's appearance is slang and should not be presented as register-neutral vocabulary.",
+   "fix": "tags: [figurative, uncommon, slang]"
+  }
+ ]
+}

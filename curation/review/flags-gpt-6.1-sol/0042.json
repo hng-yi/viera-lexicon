@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "khô",
+  "khoảnh khắc",
+  "trừng phạt",
+  "lặn",
+  "thiên tài",
+  "hoàng hậu",
+  "đe dọa",
+  "quét",
+  "hỏa",
+  "hét",
+  "đồi",
+  "khí",
+  "học sinh",
+  "la",
+  "khuôn mặt",
+  "canh",
+  "trưởng thành",
+  "thận",
+  "đánh thức",
+  "chính trị",
+  "bảo đảm",
+  "rút lui",
+  "liên hệ",
+  "ngầm",
+  "thử thách",
+  "hàng xóm",
+  "cực",
+  "tận hưởng",
+  "quá trình",
+  "gục",
+  "đội trưởng",
+  "chuông",
+  "thiên đường",
+  "khoang",
+  "ngược lại",
+  "hướng dẫn",
+  "cơ bản",
+  "xâm nhập",
+  "yêu thương",
+  "nghìn"
+ ],
+ "flags": [
+  {
+   "headword": "khô",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The noun meaning dried meat or fish is mainly Southern, but the entry does not identify the region.",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "canh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday meaning of timing an action to catch the right moment.",
+   "fix": "verb | to time an action; to choose the right moment\nex: Canh lúc đường vắng rồi hãy sang. = Wait until the road is clear before crossing."
+  },
+  {
+   "headword": "canh",
+   "sense": 6,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses canh cửi meaning weaving rather than canh meaning warp threads, as distinguished in [Rung's dictionary](https://www.rung.vn/dict/vn_vn/Canh).",
+   "fix": "Sợi canh trên khung cửi bị đứt. = A warp thread on the loom broke."
+  },
+  {
+   "headword": "canh",
+   "sense": 7,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Canh is not an independently usable Vietnamese word for classics or scripture, and đọc canh does not mean reading such texts.",
+   "fix": "Remove this sense."
+  }
+ ]
+}

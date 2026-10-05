@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ập",
+  "vầy",
+  "tổng",
+  "không những",
+  "chân chính",
+  "cầm cự",
+  "thức giấc",
+  "thu hoạch",
+  "năm tháng",
+  "cải tạo",
+  "táo bạo",
+  "cực đoan",
+  "hấp thụ",
+  "bưu điện",
+  "hành hình",
+  "tuế",
+  "hệt",
+  "yên ổn",
+  "suy luận",
+  "phấn",
+  "vùng biển",
+  "chia rẽ",
+  "toàn thể",
+  "thân hình",
+  "rợ",
+  "phiến",
+  "ra hiệu",
+  "trượt tuyết",
+  "vũng",
+  "thợ máy",
+  "tộc trưởng",
+  "nhãn",
+  "giả định",
+  "bỉ",
+  "thi thoảng",
+  "ngẩng",
+  "Tết",
+  "tết",
+  "nén",
+  "nhập ngũ"
+ ],
+ "flags": [
+  {
+   "headword": "hành hình",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hành hình means execution, not carrying out punishments generally ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%C3%A0nh%20h%C3%ACnh)).",
+   "fix": "to execute (a condemned person); to carry out a death sentence"
+  },
+  {
+   "headword": "tết",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The festival meaning of tết is not restricted to foreign festivals or use in quotation marks ([dictionary](https://loigiaihay.com/tu-dien-tv/tet-ewuZYf7i8N7aU.html)).",
+   "fix": "Merge this sense with Tết sense 2 and remove the rare tag and the restrictions about foreign festivals and quotation marks."
+  }
+ ]
+}

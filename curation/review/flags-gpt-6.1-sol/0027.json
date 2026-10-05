@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "cảnh",
+  "thất vọng",
+  "tôn trọng",
+  "trưa",
+  "sức",
+  "đối mặt",
+  "trúng",
+  "nữ",
+  "ô",
+  "phiền",
+  "dấu hiệu",
+  "tình hình",
+  "mãi",
+  "tổn thương",
+  "cho nên",
+  "vật",
+  "bỏ qua",
+  "quá khứ",
+  "vui lòng",
+  "hẹn hò",
+  "lừa",
+  "chuột",
+  "chặn",
+  "hết sức",
+  "ra lệnh",
+  "bẫy",
+  "linh hồn",
+  "dạ",
+  "chất",
+  "bận",
+  "địa ngục",
+  "nổi tiếng",
+  "cảm nhận",
+  "rồng",
+  "tùy",
+  "xung quanh",
+  "vừa mới",
+  "ca",
+  "đếm",
+  "tây"
+ ],
+ "flags": [
+  {
+   "headword": "ô",
+   "sense": 9,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ô means a city gateway, short for cửa ô, rather than a quarter outside the citadel ([dictionary](https://thuviensach.vn/img/pdf/6762-tu-dieng-tieng-viet-thuviensach.vn.pdf)).",
+   "fix": "city gate; gateway (especially those of old Hanoi)"
+  },
+  {
+   "headword": "phiền",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The speaker asks permission to ask for directions, rather than asking the listener to ask for directions.",
+   "fix": "Excuse me, may I ask you for directions?"
+  },
+  {
+   "headword": "lừa",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Lừa bóng is ordinary current football vocabulary, so rare is misleading ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%E1%BB%ABa)).",
+   "fix": "Remove rare."
+  },
+  {
+   "headword": "bận",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Bận meaning an occasion or time also occurs in ordinary speech and is not restricted to literary language ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%ADn)).",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "ca",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A ca used for measuring has variable capacity, rather than necessarily holding about a quarter litre ([dictionary](https://vi.wiktionary.org/wiki/ca#Tiếng_Việt)).",
+   "fix": "mugful; a measure equal to the contents of a measuring mug"
+  },
+  {
+   "headword": "ca",
+   "sense": 7,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it in context.",
+   "fix": "Em viết chữ ca vào ô đầu tiên. = Write the letter K in the first box."
+  },
+  {
+   "headword": "ca",
+   "sense": 10,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ca is not a Vietnamese preposition meaning at or in, and the purported archaic construction is invalid ([dictionary](https://vi.wiktionary.org/wiki/ca#Tiếng_Việt)).",
+   "fix": "Delete this sense."
+  },
+  {
+   "headword": "ca",
+   "sense": 11,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ca does not have the claimed Vietnamese meaning place ([dictionary](https://vi.wiktionary.org/wiki/ca#Tiếng_Việt)).",
+   "fix": "Delete this sense."
+  },
+  {
+   "headword": "tây",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the very common use of Tây to refer to a Western person.",
+   "fix": "noun | Westerner; Western person"
+  }
+ ]
+}

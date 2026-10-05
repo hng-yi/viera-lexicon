@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "xẻng",
+  "tranh giành",
+  "nhơ",
+  "lá chắn",
+  "làm vườn",
+  "cốt lõi",
+  "axit",
+  "đổ vỡ",
+  "trầm trọng",
+  "xảo quyệt",
+  "tế nhị",
+  "trung đội",
+  "hót",
+  "tượng trưng",
+  "sâu bọ",
+  "vằn",
+  "tang",
+  "tuyên truyền",
+  "ốc",
+  "tây nam",
+  "mu",
+  "quá đáng",
+  "tự ý",
+  "phí phạm",
+  "trọng tài",
+  "cảm tình",
+  "tội danh",
+  "rượt",
+  "đồng loại",
+  "đóa",
+  "cởi mở",
+  "ổ đĩa",
+  "thô",
+  "tài nguyên",
+  "âm đạo",
+  "tay trong",
+  "phòng không",
+  "kĩ sư",
+  "đánh bạc",
+  "hiếu khách"
+ ],
+ "flags": [
+  {
+   "headword": "tang",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "In the second example, đi đưa ông nội means attending Grandpa's funeral procession, which 'see Grandpa off' leaves unclear.",
+   "fix": "The whole family wore mourning headbands and attended Grandpa's funeral procession."
+  },
+  {
+   "headword": "tang",
+   "sense": 4,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This contemptuous reference to a person is derogatory, but the informal tag does not warn the learner.",
+   "fix": "Tags: informal, derogatory."
+  },
+  {
+   "headword": "ốc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The everyday meaning 'screw' is missing, although it is recorded in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-%E1%BB%91c).",
+   "fix": "Add: noun | screw; bolt."
+  },
+  {
+   "headword": "rượt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Rượt meaning 'chase' is mainly Southern usage and needs a regional tag.",
+   "fix": "Tags: Southern."
+  },
+  {
+   "headword": "thô",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning describing rude or tactless speech is missing, as confirmed by the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%C3%B4).",
+   "fix": "Add: adj | rude; tactless; coarse (of speech or behaviour)."
+  },
+  {
+   "headword": "âm đạo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the vagina is instead of showing the word in use.",
+   "fix": "Bệnh nhân bị đau ở âm đạo. = The patient has pain in her vagina."
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "suy xét",
+  "ngà",
+  "di dân",
+  "kê khai",
+  "nĩa",
+  "ngước",
+  "đi lạc",
+  "mun",
+  "ngoáy",
+  "lả",
+  "rạng rỡ",
+  "tu sửa",
+  "đồng thuận",
+  "cha xứ",
+  "nhậu nhẹt",
+  "dùi cui",
+  "xiết",
+  "cố thủ",
+  "xóm",
+  "hình hài",
+  "uy lực",
+  "mề",
+  "xâu",
+  "mía",
+  "cùn",
+  "phát điện",
+  "đường bộ",
+  "trắng tay",
+  "vượt biên",
+  "Mạ",
+  "mạ",
+  "kiểm toán",
+  "thương tích",
+  "quý trọng",
+  "hong",
+  "chủ trì",
+  "bất kính",
+  "hoảng hốt",
+  "sai khiến",
+  "định hình"
+ ],
+ "flags": [
+  {
+   "headword": "nĩa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This word for a fork is mainly Central and Southern usage ([regional vocabulary table](https://en.wikipedia.org/wiki/Vietnamese_language#Vocabulary)).",
+   "fix": "Add tags: Central, Southern."
+  },
+  {
+   "headword": "xiết",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning describing fast, strong water flow is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-xi%E1%BA%BFt)).",
+   "fix": "verb | to flow fast and strongly (of water); ex: Nước sông chảy xiết. = The river water flows fast and strongly."
+  },
+  {
+   "headword": "xiết",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Xiết here means 'able to', with inability supplied by không, so the gloss incorrectly builds the negative into the word ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-xi%E1%BA%BFt)).",
+   "fix": "to be able to; can (dialectal, usually following a verb under negation)"
+  },
+  {
+   "headword": "xiết",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Khiêng không xiết means they cannot carry it, rather than that they can barely carry it ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-xi%E1%BA%BFt)).",
+   "fix": "This stone is too heavy; even two people cannot carry it."
+  },
+  {
+   "headword": "xiết",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means rubbing or moving forcefully against a surface and does not require a tube or roller ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-xi%E1%BA%BFt)).",
+   "fix": "to rub or scrape forcefully against a surface"
+  },
+  {
+   "headword": "cùn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial meaning of being obstinate and disregarding reason is missing ([dictionary](https://vi.wiktionary.org/wiki/c%C3%B9n)).",
+   "fix": "adj [colloquial] | obstinate; impervious to reason; ex: Đừng cãi cùn nữa. = Stop arguing without regard for reason."
+  },
+  {
+   "headword": "cùn",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cùn meaning trousers is a regional form used in North Central Vietnam, including Nghệ An and Hà Tĩnh ([regional usage](https://nghengu.vn/tieng-nghe-cua-toi/hoc-tieng-nghe-an-ha-tinh-van-o-p-q-r-s-t-u-v-x-y-841.html)).",
+   "fix": "Add tag: Central."
+  }
+ ]
+}

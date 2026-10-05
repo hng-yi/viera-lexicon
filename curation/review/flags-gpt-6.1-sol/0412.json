@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bưởi chùm",
+  "bượp",
+  "bạ đầu",
+  "bạc bẽo",
+  "bạc nhược",
+  "bạc nhạc",
+  "bạc xỉu",
+  "bạch biến",
+  "bạch cập",
+  "bạch huyết cầu",
+  "bạch nguyệt quang",
+  "bạch thoại",
+  "bạch thỏ",
+  "bạn gái",
+  "bạn trai",
+  "bạn đời",
+  "bả vai",
+  "bản chí",
+  "bản thổ",
+  "bản vị",
+  "bản địa hoá",
+  "bảng biểu",
+  "bảng chọn",
+  "bảng chữ cái",
+  "bảng cửu chương",
+  "bảng mẫu tự phiên âm quốc tế",
+  "bảng nhãn",
+  "bảng tuần hoàn các nguyên tố hoá học",
+  "bảng tuần hoàn các nguyên tố hóa học",
+  "bảng vàng",
+  "bảnh mắt",
+  "bảo chứng",
+  "bảo sinh viện",
+  "bảo thủ chủ nghĩa",
+  "bảy bảy bốn chín ngày",
+  "bảy đáp",
+  "bấm chuột",
+  "bấm chí",
+  "bấm đàn",
+  "bất bằng"
+ ],
+ "flags": [
+  {
+   "headword": "bạc xỉu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "Bạc xỉu can be served hot or iced, so “iced” incorrectly restricts its meaning ([café usage](https://www.virginsaigon.com/blog/what-is-bac-xiu/)).",
+   "fix": "milk coffee (a little coffee in a lot of condensed milk)"
+  },
+  {
+   "headword": "bảnh mắt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses “sáng bảnh mắt” to mean broad daylight rather than using “bảnh mắt” to mean waking up ([attested usage](https://nhandan.vn/buoi-sang-mua-he-post365452.html)).",
+   "fix": "Vừa bảnh mắt, anh ấy đã đi làm. = As soon as he woke up, he went to work."
+  },
+  {
+   "headword": "bảy bảy bốn chín ngày",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Nhà nào cũng” means every household, whereas the translation says only “a family.”",
+   "fix": "For the whole forty-nine days, every household offers meals for the deceased."
+  }
+ ]
+}

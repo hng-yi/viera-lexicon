@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "dâu",
+  "sập",
+  "tiên",
+  "chủ đề",
+  "ghê tởm",
+  "hiển nhiên",
+  "hoãn",
+  "cam",
+  "nuốt",
+  "đàng hoàng",
+  "truyền thông",
+  "an ủi",
+  "kích động",
+  "vú",
+  "nước mắt",
+  "cai trị",
+  "lo sợ",
+  "phủ",
+  "đẹp đẽ",
+  "vồ",
+  "chuộc",
+  "ghi chép",
+  "thói quen",
+  "trước mắt",
+  "nhát",
+  "sờ",
+  "vòng tay",
+  "công nhân",
+  "thi hành",
+  "cộng hòa",
+  "bất hợp pháp",
+  "lớp học",
+  "công nhận",
+  "bùm",
+  "chuyển động",
+  "săn đuổi",
+  "ghi nhớ",
+  "giết chóc",
+  "lắc",
+  "tỏa"
+ ],
+ "flags": [
+  {
+   "headword": "cam",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In nước cam, cam names the fruit and does not have a separate adjectival meaning of made from or flavoured with oranges.",
+   "fix": "Remove sense 3; nước cam illustrates sense 1, orange (the fruit)."
+  },
+  {
+   "headword": "trước mắt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common literal meaning of being before someone's eyes or in their sight.",
+   "fix": "Add: before one's eyes; in front of one. Example: Cảnh đẹp hiện ra trước mắt tôi. = A beautiful scene appeared before my eyes."
+  },
+  {
+   "headword": "vòng tay",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Vòng tay meaning to fold one's arms is also used outside Southern Vietnamese.",
+   "fix": "Remove the Southern tag."
+  }
+ ]
+}

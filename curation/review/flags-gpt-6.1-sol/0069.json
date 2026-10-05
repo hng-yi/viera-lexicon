@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "nấm",
+  "tạ ơn",
+  "vòng quanh",
+  "độc ác",
+  "phong",
+  "sưu tập",
+  "nâu",
+  "gần gũi",
+  "hoảng loạn",
+  "mực",
+  "bàn bạc",
+  "lô",
+  "chục",
+  "vô hình",
+  "chương",
+  "khơi",
+  "sau cùng",
+  "phàn nàn",
+  "tự vệ",
+  "xả",
+  "nét",
+  "ngoài ra",
+  "làm chứng",
+  "tím",
+  "ý thức",
+  "hồi sinh",
+  "kết cục",
+  "trải nghiệm",
+  "bà già",
+  "tranh cử",
+  "yên bình",
+  "dân tộc",
+  "ghen",
+  "bùn",
+  "bài tập",
+  "tủ lạnh",
+  "phần thưởng",
+  "tá",
+  "bơ",
+  "nhu cầu"
+ ],
+ "flags": [
+  {
+   "headword": "tự vệ",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This militia sense remains current, so the historical tag is misleading ([current legislation](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/141-vbhn-vpqh.pdf)).",
+   "fix": "Remove historical."
+  },
+  {
+   "headword": "ghen",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Người khác means someone else and does not specify other men.",
+   "fix": "He gets jealous when he sees her talking to someone else."
+  },
+  {
+   "headword": "tá",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tá is an old literary question-final particle expressing compassionate questioning, rather than an opening exclamation of surprise ([dictionary](https://vi.wiktionary.org/wiki/t%C3%A1)).",
+   "fix": "particle [archaic, literary] | question-final particle expressing sympathy or wistfulness"
+  },
+  {
+   "headword": "tá",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Placing tá at the beginning as an exclamation does not demonstrate its actual question-final use ([dictionary](https://vi.wiktionary.org/wiki/t%C3%A1)).",
+   "fix": "Người xưa đâu tá? = Where are the people of old?"
+  }
+ ]
+}

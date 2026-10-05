@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "bình bát",
+  "điêu đứng",
+  "chững chạc",
+  "bóng mềm",
+  "thư ngỏ",
+  "đạo hàm",
+  "ti thể",
+  "guồng máy",
+  "kênh rạch",
+  "cô bác",
+  "đa sắc",
+  "phôn",
+  "tuyển sinh",
+  "lìa trần",
+  "tỉ giá",
+  "mộng tinh",
+  "antimon",
+  "ampe",
+  "vạn thọ",
+  "lay ơn",
+  "trung tiện",
+  "thấu thị",
+  "quyết sách",
+  "bất nhất",
+  "hõm",
+  "ngoại thương",
+  "bể cá",
+  "xô bồ",
+  "đĩnh",
+  "đạo lí",
+  "đồ họa",
+  "đua tranh",
+  "cường hào",
+  "vồn",
+  "nhoi",
+  "cận đại",
+  "thênh",
+  "mà cả",
+  "tĩnh trí",
+  "chân nhân"
+ ],
+ "flags": [
+  {
+   "headword": "ti thể",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what mitochondria do instead of showing the word in use.",
+   "fix": "Chúng tôi quan sát ti thể dưới kính hiển vi điện tử. = We observed mitochondria under an electron microscope."
+  },
+  {
+   "headword": "antimon",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines antimony instead of showing the word in use.",
+   "fix": "Hợp kim này có chứa antimon. = This alloy contains antimony."
+  },
+  {
+   "headword": "trung tiện",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Trung tiện is a formal medical expression, and the euphemistic tag alone does not warn learners about its register.",
+   "fix": "tags: formal, euphemistic"
+  },
+  {
+   "headword": "quyết sách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Quyết sách belongs to formal policy and institutional language and needs a register warning.",
+   "fix": "tags: formal"
+  },
+  {
+   "headword": "cận đại",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cận đại extends into the early twentieth century, so it does not correspond to the narrower English period called early modern ([reference](https://en.wiktionary.org/wiki/cận_đại)).",
+   "fix": "modern (historical period preceding hiện đại, roughly the late sixteenth century to 1917)"
+  },
+  {
+   "headword": "cận đại",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Early modern history narrows the period covered by lịch sử cận đại ([reference](https://en.wiktionary.org/wiki/cận_đại)).",
+   "fix": "This part of the book covers modern history up to 1917."
+  }
+ ]
+}

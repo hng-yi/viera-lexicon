@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "phen",
+  "tinh hoa",
+  "hành hương",
+  "ăn mòn",
+  "vô tâm",
+  "gia hạn",
+  "si mê",
+  "nhãn hiệu",
+  "khởi nguồn",
+  "thiếu gì",
+  "vĩ cầm",
+  "bất cần",
+  "lai lịch",
+  "lược",
+  "hào hiệp",
+  "mắc cỡ",
+  "sáng dạ",
+  "có lí",
+  "học kì",
+  "điểm tâm",
+  "xâm lấn",
+  "phim tài liệu",
+  "nhụt chí",
+  "thối nát",
+  "thun",
+  "mặc cảm",
+  "kali",
+  "bình thản",
+  "hào nhoáng",
+  "thớt",
+  "tiền tuyến",
+  "tùm lum",
+  "phiền nhiễu",
+  "đại chiến",
+  "rượu chè",
+  "tháo vát",
+  "minh họa",
+  "đại dịch",
+  "dễ tính",
+  "hàu"
+ ],
+ "flags": [
+  {
+   "headword": "phen",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Phen is used in ordinary speech, especially in expressions such as một phen sợ hú vía, so the literary tag is misleading.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "vĩ cầm",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Vĩ cầm remains a current term for the violin, particularly in musical contexts, so dated misleadingly suggests it has fallen out of use.",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "nhụt chí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nhụt chí is normal in everyday speech, including encouragement such as đừng nhụt chí, and is not restricted to literary language.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "tùm lum",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Tùm lum is predominantly Southern usage and needs a regional label.",
+   "fix": "Use tags: colloquial, Southern."
+  }
+ ]
+}

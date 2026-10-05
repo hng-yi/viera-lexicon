@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "khi dễ",
+  "khi nào",
+  "khi nào cũng",
+  "khi và chỉ khi",
+  "khi ấy",
+  "khinh bạc",
+  "khinh khi",
+  "khinh khí cầu",
+  "khinh lờn",
+  "khinh thị",
+  "khinh tội",
+  "khiêm cung",
+  "khiên cưỡng",
+  "khiêu dâm trẻ em",
+  "khiền",
+  "kho dữ liệu",
+  "khoa bảng",
+  "khoa cấp cứu",
+  "khoa cử",
+  "khoa học luận",
+  "khoa học máy tính",
+  "khoa học máy tính lí thuyết",
+  "khoa học nhân văn",
+  "khoa học thần kinh",
+  "khoa học thực phẩm",
+  "khoa học tự nhiên",
+  "khoa học vũ trụ",
+  "khoa học ứng dụng",
+  "khoai mì",
+  "khoai môn",
+  "khoai nước",
+  "khoai sọ",
+  "khoai tây chiên",
+  "khoai từ",
+  "khoan thai",
+  "khoeo",
+  "khoá",
+  "khoá học",
+  "khoá kéo",
+  "khoác áo"
+ ],
+ "flags": [
+  {
+   "headword": "khinh tội",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old legal term rather than an ordinary current formal term, as noted in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-khinh%20t%E1%BB%99i).",
+   "fix": "tags: [formal, dated]"
+  },
+  {
+   "headword": "khoa bảng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khoa bảng refers to the imperial examination system or its successful candidates, not the physical notice board ([dictionary](https://vi.wiktionary.org/wiki/khoa_b%E1%BA%A3ng)).",
+   "fix": "Remove sense 3."
+  },
+  {
+   "headword": "khoa học luận",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the field instead of showing the expression in use.",
+   "fix": "Anh ấy đang nghiên cứu khoa học luận. = He is studying epistemology."
+  },
+  {
+   "headword": "khoa học ứng dụng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains applied science instead of showing the expression in use.",
+   "fix": "Cô ấy muốn theo học ngành khoa học ứng dụng. = She wants to study applied science."
+  }
+ ]
+}

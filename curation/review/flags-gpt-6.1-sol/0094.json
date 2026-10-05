@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "che chở",
+  "tẩu thoát",
+  "hoàng hôn",
+  "thứ bảy",
+  "công tố viên",
+  "nhà nghỉ",
+  "phán quyết",
+  "bôi",
+  "ám chỉ",
+  "kê",
+  "tóm tắt",
+  "vô số",
+  "ăn ở",
+  "boong",
+  "mồ",
+  "vô gia cư",
+  "việc gì",
+  "ngân sách",
+  "quẳng",
+  "cà chua",
+  "bầu dục",
+  "gà tây",
+  "đấu giá",
+  "yên nghỉ",
+  "vương",
+  "đồng tình",
+  "kháng cự",
+  "vắng mặt",
+  "cách thức",
+  "gôn",
+  "hô hấp",
+  "công sức",
+  "quân lính",
+  "kĩ năng",
+  "trung đoàn",
+  "khí hậu",
+  "sừng",
+  "khí quyển",
+  "vô tận",
+  "bất công"
+ ],
+ "flags": [
+  {
+   "headword": "bôi",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The use of bôi for wiping a board is mainly Southern, but the entry gives no regional warning.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "mồ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Mồ is also used in ordinary speech for a grave, so the literary tag misleadingly restricts its use.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "bầu dục",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bầu dục for an animal's kidney as food is mainly Northern usage.",
+   "fix": "Add the Northern tag."
+  }
+ ]
+}

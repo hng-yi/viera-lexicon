@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "vị",
+  "tất nhiên",
+  "cơ",
+  "hứa",
+  "dậy",
+  "cây",
+  "cơ hội",
+  "dù",
+  "máu",
+  "tấn công",
+  "điện thoại",
+  "tuyệt vời",
+  "khó",
+  "nhóc",
+  "chọn",
+  "chân",
+  "con bé",
+  "giỏi",
+  "quyết định",
+  "tưởng",
+  "đọc",
+  "nằm",
+  "trả lời",
+  "lũ",
+  "kiểu",
+  "cửa",
+  "điên",
+  "định",
+  "hề",
+  "viết",
+  "tụi",
+  "ảnh",
+  "sự thật",
+  "lỗi",
+  "tạo",
+  "thoát",
+  "khỏe",
+  "tệ",
+  "gửi",
+  "đá"
+ ],
+ "flags": [
+  {
+   "headword": "cây",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial meaning 'kilometre' is missing, leaving everyday distance expressions such as 'cách đây hai cây' unexplained.",
+   "fix": "noun [colloquial] | kilometre"
+  },
+  {
+   "headword": "cây",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common gold measurement in expressions such as 'một cây vàng' is missing.",
+   "fix": "noun | tael of gold (37.5 grams)"
+  },
+  {
+   "headword": "quyết định",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common adjective meaning 'decisive', as in 'vai trò quyết định', is missing.",
+   "fix": "adj | decisive"
+  },
+  {
+   "headword": "ảnh",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "'Ảnh' meaning 'photograph' is standard Vietnamese used nationwide, so the Northern tag misleadingly marks it as regional.",
+   "fix": "Remove the Northern tag."
+  }
+ ]
+}

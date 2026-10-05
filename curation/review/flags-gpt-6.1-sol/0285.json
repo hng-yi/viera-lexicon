@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "đọi",
+  "bích chương",
+  "tây phương",
+  "chứng nhân",
+  "cung nữ",
+  "trò trống",
+  "thặng dư",
+  "thừ",
+  "gâu",
+  "quá cảnh",
+  "mẫu mã",
+  "diễm phúc",
+  "lao lực",
+  "cay nghiệt",
+  "sung mãn",
+  "uy nghi",
+  "háo sắc",
+  "đệ tam",
+  "Sở Khanh",
+  "tâm thất",
+  "kim hoàn",
+  "phát giác",
+  "điện áp",
+  "hiển hiện",
+  "ngày ngày",
+  "mướp tây",
+  "bất hợp tác",
+  "hờ hững",
+  "tác hợp",
+  "cây ăn trái",
+  "râm ran",
+  "kí lô",
+  "tinh anh",
+  "cồ",
+  "sơ lược",
+  "phản cách mạng",
+  "tả tơi",
+  "chính sự",
+  "giả dược",
+  "thông gia"
+ ],
+ "flags": [
+  {
+   "headword": "bất hợp tác",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is a current word for uncooperative behaviour, including in [educational writing](https://pes.htu.edu.vn/pes.htu.edu.vn/pes.htu.edu.vn/nghien-cuu/109-phối-hợp-giữa-nhà-trường-và-gia-đình-trong-tư-vấn-hỗ-trợ-học-tập-cho-học-sinh-tiểu-học-hiện-nay).",
+   "fix": "Remove dated."
+  },
+  {
+   "headword": "bất hợp tác",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Refusing to cooperate is a current use, not a dated one, as illustrated by [parents refusing to cooperate with teachers](https://cadn.com.vn/phu-huynh-ca-biet-post148105.html).",
+   "fix": "Remove dated."
+  },
+  {
+   "headword": "bất hợp tác",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The noun denotes ordinary non-cooperation today, so dated and rare misleadingly discourage its use.",
+   "fix": "Remove dated and rare."
+  },
+  {
+   "headword": "kí lô",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Kí lô is used nationwide, and a [dialect study](https://daotao.ued.udn.vn/wp-content/uploads/2023/11/LUAN-AN_sao-mai_BAN-IN-BV-CAP-TRUONG-28.11.pdf) explicitly treats ki lô as the national form.",
+   "fix": "Remove Southern."
+  },
+  {
+   "headword": "cồ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In the rooster comparison, cồ means large, while lóng ngóng supplies the clumsiness; [the dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-cồ) does not support this supposed sense.",
+   "fix": "Delete sense 2."
+  },
+  {
+   "headword": "phản cách mạng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means counterrevolutionary or opposed to the revolution, rather than naming a counterrevolution, as shown by [its dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-phản%20cách%20mạng).",
+   "fix": "adj | counterrevolutionary; opposed to the revolution"
+  },
+  {
+   "headword": "phản cách mạng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the headword instead of showing it in use.",
+   "fix": "Họ bị buộc tội hoạt động phản cách mạng. = They were accused of counterrevolutionary activities."
+  },
+  {
+   "headword": "thông gia",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Hai ông bà refers to two people, whereas two sets of parents implies four people.",
+   "fix": "The two parents related through their children's marriage sat chatting happily."
+  }
+ ]
+}

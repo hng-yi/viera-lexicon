@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đất phù sa",
+  "đất sỏi",
+  "đất thịt",
+  "đất tổ",
+  "đấu củng",
+  "đấu tố",
+  "đấu xảo",
+  "đầu buồi",
+  "đầu bạc răng long",
+  "đầu chôm chôm",
+  "đầu cua tai nheo",
+  "đầu nước",
+  "đầu phiếu",
+  "đầu rìu",
+  "đầu sóng ngọn gió",
+  "đầu trâu mặt ngựa",
+  "đầu têu",
+  "đầu voi đuôi chuột",
+  "đầu óc ngu si, tứ chi phát triển",
+  "đầu đạn",
+  "đầu đất",
+  "đầu đọc",
+  "đầy bụng",
+  "đầy nhóc",
+  "đầy tháng",
+  "đầy tớ",
+  "đẩy tạ",
+  "đẫm máu",
+  "đậm nét",
+  "đập hộp",
+  "đập vỡ",
+  "đậu Hà Lan",
+  "đậu Lima",
+  "đậu cô ve",
+  "đậu dải",
+  "đậu dải áo",
+  "đậu hoà lan",
+  "đậu hòa lan",
+  "đậu ngự",
+  "đậu phộng rau má"
+ ],
+ "flags": [
+  {
+   "headword": "đầu buồi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses the figurative vulgar dismissal in sense 2 rather than referring to the glans.",
+   "fix": "Đầu buồi của hắn bị sưng. = The head of his dick is swollen."
+  },
+  {
+   "headword": "đầu phiếu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal term for voting that would sound unnatural in ordinary casual conversation.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "đầu óc ngu si, tứ chi phát triển",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The phrase insults someone's intelligence, so humorous alone does not adequately warn the learner.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "đậu hoà lan",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This alternative name remains in contemporary use and is not archaic, as shown in this [producer's article](https://tantanngon.com/blogs/cam-nang-dinh-duong/dau-hoa-lan-cuc-tot-cho-nguoi-bi-benh-tieu-duong).",
+   "fix": "Remove archaic and '(old name)'."
+  },
+  {
+   "headword": "đậu hòa lan",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This spelling remains in contemporary use and is not archaic, as shown in this [producer's article](https://tantanngon.com/blogs/cam-nang-dinh-duong/dau-hoa-lan-cuc-tot-cho-nguoi-bi-benh-tieu-duong).",
+   "fix": "Remove archaic and '(old name)'."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bòn",
+  "chủ tâm",
+  "xối xả",
+  "tập tục",
+  "đũa thần",
+  "trí khôn",
+  "tò te",
+  "soái",
+  "đầm đìa",
+  "sun",
+  "ô hô",
+  "tuyệt kĩ",
+  "số dư",
+  "gọt",
+  "sa lầy",
+  "khịt",
+  "vietsub",
+  "con nợ",
+  "bứt",
+  "phụ lục",
+  "tí xíu",
+  "xiềng xích",
+  "xẻo",
+  "sơ khai",
+  "lùm",
+  "con nước",
+  "tứ tung",
+  "mống",
+  "lãng",
+  "quang đãng",
+  "cầu vượt",
+  "bồi thẩm",
+  "dè chừng",
+  "cola",
+  "thứ nhất",
+  "ý tứ",
+  "kìm kẹp",
+  "vinh hiển",
+  "đơn thân",
+  "tình nghĩa"
+ ],
+ "flags": [
+  {
+   "headword": "chủ tâm",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This intentional-action sense remains current and should not be labelled dated ([dictionary](https://vdict.com/ch%E1%BB%A7%20t%C3%A2m%2C3%2C0%2C0.html)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "chủ tâm",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The noun meaning deliberate intention remains current and should not be labelled dated ([dictionary](https://vi.wiktionary.org/wiki/ch%E1%BB%A7_t%C3%A2m)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "quang đãng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the ordinary use describing a bright, open space rather than weather ([dictionary](https://dictionary.zim.vn/viet-anh/quang-dang-tieng-anh-la-gi)).",
+   "fix": "adj | bright and spacious; open and unobstructed (of a place)"
+  },
+  {
+   "headword": "đơn thân",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Being a single parent concerns raising children alone and does not simply mean unmarried ([study](https://journalofscience.ou.edu.vn/index.php/soci-vi/article/download/596/1268)).",
+   "fix": "single (of a parent raising children alone)"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "headwords": [
+  "quốc tịch",
+  "xanh xao",
+  "lắc lư",
+  "vọng",
+  "công trường",
+  "võ lâm",
+  "lời lẽ",
+  "phồng",
+  "khôn khéo",
+  "đánh hơi",
+  "kẽ",
+  "binh đoàn",
+  "vô thần",
+  "luận án",
+  "hạ gục",
+  "nhảy dù",
+  "quê mùa",
+  "âu yếm",
+  "nông nghiệp",
+  "thâm tâm",
+  "tẻ nhạt",
+  "nhị ca",
+  "bất thình lình",
+  "khuyến mãi",
+  "hậu môn",
+  "bồn chồn",
+  "hoang vu",
+  "công chuyện",
+  "thú thật",
+  "xó",
+  "ghen tuông",
+  "dị thường",
+  "nhật thực",
+  "cá hồi",
+  "mặn",
+  "chệch",
+  "lảm nhảm",
+  "trình tự",
+  "nung",
+  "nói nhỏ"
+ ],
+ "flags": [
+  {
+   "headword": "phồng",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bare phồng describes swelling or blistering rather than naming a blister.",
+   "fix": "verb | to blister (of skin)"
+  },
+  {
+   "headword": "phồng",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Nổi phồng is unnatural in this sentence.",
+   "fix": "Tay anh ấy bị phồng vì cầm cuốc cả ngày. = His hands blistered from holding a hoe all day."
+  },
+  {
+   "headword": "binh đoàn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the unit's composition instead of showing it in use.",
+   "fix": "Binh đoàn này đóng quân ở miền Trung. = This corps is stationed in central Vietnam."
+  },
+  {
+   "headword": "quê mùa",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Quê mùa disparages someone's appearance or sophistication and can offend when applied to a person ([dictionary](https://loigiaihay.com/tu-dien-tv/que-mua-ebbwtUz4TpnlR.html)).",
+   "fix": "Add derogatory."
+  },
+  {
+   "headword": "hậu môn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the anatomical term instead of showing it in use.",
+   "fix": "Bệnh nhân bị đau ở hậu môn. = The patient has pain in the anus."
+  },
+  {
+   "headword": "công chuyện",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Công chuyện is used mainly in Southern Vietnamese.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "nhật thực",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a solar eclipse is instead of showing the word in use.",
+   "fix": "Chúng tôi đã xem nhật thực sáng nay. = We watched the solar eclipse this morning."
+  },
+  {
+   "headword": "cá hồi",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This pun is used disparagingly for Muslims and needs a warning beyond slang and Internet ([usage example](https://www.reddit.com/r/VietNamNation/comments/1qspfku/ae_ngh%C4%A9_sao_v%E1%BB%81_c%C3%A1i_c%C3%B2m_n%C3%A0y/)).",
+   "fix": "Add derogatory."
+  },
+  {
+   "headword": "mặn",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Mặn meaning funny or witty is common in contemporary informal usage, so rare is misleading.",
+   "fix": "Remove rare."
+  },
+  {
+   "headword": "mặn",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Mặn expressing ardent affection belongs to literary usage rather than ordinary colloquial speech.",
+   "fix": "Replace colloquial with literary."
+  },
+  {
+   "headword": "mặn",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Tình yêu của hai người rất mặn is unnatural for the intended sense of ardent affection.",
+   "fix": "Hai người vẫn mặn tình với nhau. = The two remain deeply attached to each other."
+  }
+ ]
+}

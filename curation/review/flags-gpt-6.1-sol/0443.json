@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "công vụ viên",
+  "công xa",
+  "công xéc tô",
+  "công án",
+  "công điện",
+  "công-te-nơ",
+  "công-xoóc-xi-om",
+  "công-xéc-tô",
+  "côsin",
+  "côtang",
+  "cõi tạm",
+  "cõi vĩnh hằng",
+  "cõng chữ lên non",
+  "cù bơ cù bất",
+  "cù kì",
+  "cù lao",
+  "cù lần",
+  "cùi bắp",
+  "cùi dìa",
+  "cùm kẹp",
+  "cùng cha khác mẹ",
+  "cùng chung",
+  "cùng khổ",
+  "cùng mẹ khác cha",
+  "cùng nhau",
+  "cú có gai",
+  "cú lợn",
+  "cú muỗi",
+  "cú mèo",
+  "cú pháp",
+  "cú pháp học",
+  "cú vọ",
+  "cú đêm",
+  "cúc cung tận tuỵ",
+  "cúc cung tận tụy",
+  "cúc vu",
+  "cúc vạn thọ",
+  "cúc đá",
+  "cúm núm",
+  "cúng cơm"
+ ],
+ "flags": [
+  {
+   "headword": "cù lần",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The adjective belongs mainly to Southern Vietnamese, as documented in [Thanh Niên](https://thanhnien.vn/lat-leo-chu-nghia-cu-lan-va-cu-lan-lua-185916850.htm).",
+   "fix": "[Southern, colloquial]"
+  },
+  {
+   "headword": "cùi bắp",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The literal word for corncob is Southern usage, as recorded in [Wiktionary](https://vi.wiktionary.org/wiki/c%C3%B9i_b%E1%BA%AFp).",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "cùi dìa",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is an old colloquial term for spoon, so the Northern tag alone misleadingly presents it as current everyday vocabulary; see [Wiktionary](https://vi.wiktionary.org/wiki/c%C3%B9i_d%C3%ACa).",
+   "fix": "[Northern, dated, colloquial]"
+  },
+  {
+   "headword": "cú pháp học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines what syntax studies instead of showing the term in use.",
+   "fix": "Học kỳ này tôi học môn cú pháp học. = This semester I am taking a course in syntax."
+  }
+ ]
+}

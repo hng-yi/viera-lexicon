@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thảm kịch",
+  "tư lệnh",
+  "giám hộ",
+  "chào đời",
+  "chật",
+  "trả đũa",
+  "hụt",
+  "đai",
+  "sâu thẳm",
+  "phòng vệ",
+  "rỉ",
+  "bộ tộc",
+  "tay sai",
+  "phải chăng",
+  "định hướng",
+  "thuộc địa",
+  "nhuộm",
+  "vững chắc",
+  "khẩn trương",
+  "tôm",
+  "nhàm chán",
+  "giai điệu",
+  "đền bù",
+  "nội chiến",
+  "thấu",
+  "thao túng",
+  "chán nản",
+  "cứu tinh",
+  "chi trả",
+  "nảy",
+  "đường sắt",
+  "coi trọng",
+  "nãy giờ",
+  "phát âm",
+  "bóng chày",
+  "tràn ngập",
+  "chân dung",
+  "âm",
+  "bảo tồn",
+  "mắng"
+ ],
+ "flags": [
+  {
+   "headword": "giám hộ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Giám hộ denotes guardianship, while a legal guardian is người giám hộ.",
+   "fix": "guardianship"
+  },
+  {
+   "headword": "hụt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of being short of an expected or required amount.",
+   "fix": "to fall short; to be short of an amount"
+  },
+  {
+   "headword": "khẩn trương",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter khẩn trương meaning promptly or with haste than describing an urgent situation.",
+   "fix": "Put sense 2 before sense 1."
+  }
+ ]
+}

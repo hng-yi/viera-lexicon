@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "bún thang",
+  "bún thịt nướng",
+  "bún đậu mắm tôm",
+  "bún ốc",
+  "bút chiến",
+  "bút chì",
+  "bút chì bấm",
+  "bút chì kim",
+  "bút chì màu",
+  "bút lông dầu",
+  "bút mực",
+  "bút nghiên",
+  "bút nguyên tử",
+  "bút tích học",
+  "bút đàm",
+  "băng ghế",
+  "băng huyết",
+  "băng keo cá nhân",
+  "băng khẩu",
+  "băng qua",
+  "băng quyển",
+  "băng vệ sinh",
+  "băng-đô",
+  "bĩ",
+  "bĩ cực thái lai",
+  "bơ phờ",
+  "bơ thực vật",
+  "bơi chó",
+  "bơm cho",
+  "bưng biền",
+  "bưng bô",
+  "bưu",
+  "bưu chính viễn thông",
+  "bưu phiếu",
+  "bưu phí",
+  "bươn",
+  "bương",
+  "bươu",
+  "bước sóng",
+  "bướm đêm"
+ ],
+ "flags": [
+  {
+   "headword": "bút nguyên tử",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the name of the pen instead of using it to refer to a pen.",
+   "fix": "Ông tôi viết thư bằng bút nguyên tử. = My grandfather writes letters with a ballpoint pen."
+  },
+  {
+   "headword": "bước sóng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines wavelength through a formula instead of showing the word in use.",
+   "fix": "Hai sóng này có cùng bước sóng. = These two waves have the same wavelength."
+  }
+ ]
+}

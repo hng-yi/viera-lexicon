@@ -1,0 +1,88 @@
+{
+ "headwords": [
+  "ứa",
+  "biểu thức",
+  "bi hài",
+  "giáo dưỡng",
+  "suy nhược thần kinh",
+  "đánh đu",
+  "nhà binh",
+  "dịch thuật",
+  "ứng nghiệm",
+  "bĩu",
+  "đàng điếm",
+  "lề lối",
+  "sử học",
+  "sưu",
+  "khả kính",
+  "bạch dương",
+  "li thân",
+  "nghiệt chủng",
+  "chú hề",
+  "éc",
+  "tổng thư kí",
+  "Anh ngữ",
+  "cẩm chướng",
+  "chiều cao",
+  "giáo lí",
+  "thượng sách",
+  "tổng quan",
+  "Hợi",
+  "mồm mép",
+  "cõi âm",
+  "da dẻ",
+  "hải lí",
+  "hoành thánh",
+  "chủ bút",
+  "lượng giác",
+  "nhân trung",
+  "cung phụng",
+  "cơ duyên",
+  "thuộc tính",
+  "khốn đốn"
+ ],
+ "flags": [
+  {
+   "headword": "suy nhược thần kinh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A nervous breakdown is not the same condition as suy nhược thần kinh.",
+   "fix": "neurasthenia; nervous exhaustion"
+  },
+  {
+   "headword": "bĩu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bĩu means to stick out or pout the lips, rather than purse them.",
+   "fix": "to pout one's lips in scorn or disdain"
+  },
+  {
+   "headword": "Anh ngữ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Anh ngữ is a formal term for English that needs a register warning.",
+   "fix": [
+    "formal"
+   ]
+  },
+  {
+   "headword": "nhân trung",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Anh ấy có một nốt ruồi ở nhân trung. = He has a mole on his philtrum."
+  },
+  {
+   "headword": "cung phụng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cung phụng does not require a powerful recipient or a motive of winning favour.",
+   "fix": "to wait on and supply lavishly"
+  }
+ ]
+}

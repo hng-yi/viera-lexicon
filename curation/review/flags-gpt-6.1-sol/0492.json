@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "kiệm",
+  "kiện khang",
+  "kiện toàn",
+  "kripton",
+  "kèm nhèm",
+  "kèm theo",
+  "kèn bầu",
+  "kèn cựa",
+  "kèn fagôt",
+  "kèn ôboa",
+  "kèo nèo",
+  "kém tắm",
+  "kén chọn",
+  "kéo co",
+  "kê đơn",
+  "kênh xáng",
+  "kêu nài",
+  "kì dư",
+  "kì giông",
+  "kì hạm",
+  "kì khu",
+  "kì lân biển",
+  "kì nam",
+  "kì ngộ",
+  "kì nhông",
+  "kì phùng địch thủ",
+  "kì sau",
+  "kì tài",
+  "kì tôm",
+  "kì đảo",
+  "kình chống",
+  "kình nghê",
+  "kình ngư",
+  "kí pháp khoa học",
+  "kí sinh trùng học",
+  "kí sự",
+  "kí thác",
+  "kí tên",
+  "kích bác",
+  "kích ứng"
+ ],
+ "flags": [
+  {
+   "headword": "kripton",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines krypton instead of showing the word in use.",
+   "fix": "Bóng đèn này chứa khí kripton. = This light bulb contains krypton gas."
+  },
+  {
+   "headword": "kém tắm",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense disparages someone as incompetent or useless and needs a derogatory warning tag.",
+   "fix": "[Northern, colloquial, derogatory]"
+  },
+  {
+   "headword": "kí thác",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Kí thác is literary language, so leaving it untagged misleadingly presents it as suitable for ordinary casual speech.",
+   "fix": "[literary]"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cửng",
+  "la lối",
+  "gồng",
+  "quý danh",
+  "khai giảng",
+  "nối liền",
+  "suy kiệt",
+  "sụn",
+  "đát",
+  "chế tác",
+  "xúi quẩy",
+  "cù",
+  "vút",
+  "diều hâu",
+  "ngoại khóa",
+  "tựa đề",
+  "tốc hành",
+  "tiểu liên",
+  "đuối",
+  "sông suối",
+  "nô tì",
+  "phì nhiêu",
+  "đĩ điếm",
+  "ồ ồ",
+  "thế à",
+  "cứng ngắc",
+  "bí thư",
+  "trang mạng",
+  "trung nghĩa",
+  "bét nhè",
+  "mất nết",
+  "le lói",
+  "dịch hạch",
+  "hồng hạc",
+  "trọng tải",
+  "thực trạng",
+  "eo hẹp",
+  "nhân ngư",
+  "xuất giá",
+  "lên lớp"
+ ],
+ "flags": [
+  {
+   "headword": "diều hâu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The genus identification is wrong: diều hâu specifically names the black kite, Milvus migrans ([IUCN identification guide](https://portals.iucn.org/library/sites/library/files/documents/2009-101.pdf)).",
+   "fix": "black kite (Milvus migrans); loosely, hawk"
+  },
+  {
+   "headword": "tốc hành",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tốc hành is not an established interjection meaning “hurry up!”.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "trọng tải",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Trọng tải refers to a transport vehicle's carrying capacity, not a bridge's load capacity ([terminology discussion](https://www.khcn.vimaru.edu.vn/sites/khcn.vimaru.edu.vn/files/tap_chi_khcnhh_51-8-2017_final.pdf)).",
+   "fix": "carrying capacity; the maximum weight a vehicle or ship can carry"
+  },
+  {
+   "headword": "trọng tải",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses trọng tải for a bridge's capacity.",
+   "fix": "Chiếc xe tải này có trọng tải mười tấn. = This truck has a carrying capacity of ten tonnes."
+  },
+  {
+   "headword": "lên lớp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common classroom meaning of teaching or attending lessons ([dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%C3%AAn%20l%E1%BB%9Bp)).",
+   "fix": "to teach a class; to attend lessons in class"
+  }
+ ]
+}

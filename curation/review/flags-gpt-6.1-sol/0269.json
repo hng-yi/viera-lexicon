@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "mạnh thường quân",
+  "áng",
+  "đại chúng",
+  "phụ trợ",
+  "chạn",
+  "não nề",
+  "bờm",
+  "luyên thuyên",
+  "cự li",
+  "quan lại",
+  "chín muồi",
+  "bâu",
+  "đắm đuối",
+  "ẩn số",
+  "bất nhân",
+  "nhập tâm",
+  "tích hợp",
+  "quặt",
+  "tù và",
+  "chin",
+  "rú",
+  "bài trí",
+  "lủi",
+  "nội ứng",
+  "axít",
+  "rảo",
+  "người dưng",
+  "đánh thắng",
+  "lạch bạch",
+  "trung chuyển",
+  "thân thích",
+  "tần suất",
+  "nhẩm",
+  "cao học",
+  "tăm hơi",
+  "ăn khớp",
+  "trá hình",
+  "ưa chuộng",
+  "tiếp cứu",
+  "phố tàu"
+ ],
+ "flags": [
+  {
+   "headword": "đại chúng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The noun meaning 'the general public' is still current and should not be tagged dated.",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "bờm",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The headband meaning is used mainly in Northern Vietnamese.",
+   "fix": "Add the Northern tag."
+  },
+  {
+   "headword": "bâu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This verb is used across regions, rather than being specifically Northern, as illustrated in the [dictionary entry](https://loigiaihay.com/tu-dien-tv/bau-erMufy8mc8LuY.html).",
+   "fix": "Remove the Northern tag."
+  }
+ ]
+}

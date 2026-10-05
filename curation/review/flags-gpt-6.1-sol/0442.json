@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "có đôi có cặp",
+  "cóc nhảy",
+  "cót ca cót két",
+  "cô em",
+  "cô liêu",
+  "cô nhi",
+  "cô nhi viện",
+  "cô thế",
+  "cô đặc",
+  "cô đọng",
+  "cô ấy",
+  "côi cút",
+  "côn nhị khúc",
+  "côn trùng học",
+  "công binh xưởng",
+  "công cha nghĩa mẹ",
+  "công dung ngôn hạnh",
+  "công hàm",
+  "công hầu bá tử nam",
+  "công hữu",
+  "công khố",
+  "công lênh",
+  "công lịch",
+  "công lợi",
+  "công nghiệp hoá",
+  "công nghiệp hóa",
+  "công nhân quý tộc",
+  "công nữ",
+  "công quốc",
+  "công sản",
+  "công ta",
+  "công thành danh toại",
+  "công thái học",
+  "công thương",
+  "công thức hoá học",
+  "công thức máu",
+  "công thự",
+  "công tơ",
+  "công tử bột",
+  "công viên giải trí"
+ ],
+ "flags": [
+  {
+   "word": "cóc nhảy",
+   "meaning": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The dictionary sense describes disconnected speech or writing, rather than physical hopping ([VDict](https://vdict.com/c%C3%B3c%20nh%E1%BA%A3y%2C3%2C0%2C0.html)).",
+   "fix": "disjointedly; skipping from one point to another"
+  },
+  {
+   "word": "cóc nhảy",
+   "meaning": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "“Bước cóc nhảy” is unnatural and does not illustrate the disconnected-expression sense.",
+   "fix": "Bài văn viết cóc nhảy, ý nọ xọ ý kia. = The essay jumps disjointedly from one idea to another."
+  },
+  {
+   "word": "công hầu bá tử nam",
+   "meaning": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the five ranks instead of using the expression.",
+   "fix": "Ông coi thường cả công hầu bá tử nam. = He held dukes, marquises, earls, viscounts and barons alike in contempt."
+  },
+  {
+   "word": "công nhân quý tộc",
+   "meaning": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of using it.",
+   "fix": "Bài viết phân tích vai trò của công nhân quý tộc trong phong trào lao động. = The article analyses the role of the labour aristocracy in the labour movement."
+  },
+  {
+   "word": "công nữ",
+   "meaning": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The title denotes a ruler's or prince's daughter, especially a Nguyễn lord's daughter, rather than specifically a duke's daughter ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%C3%B4ng%20n%E1%BB%AF)).",
+   "fix": "daughter of a lord or prince (historical title)"
+  },
+  {
+   "word": "công nữ",
+   "meaning": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Duke's daughter” assigns a specific paternal rank that “công nữ” does not establish.",
+   "fix": "That lord's daughter was married to a prince of a neighbouring country."
+  }
+ ]
+}

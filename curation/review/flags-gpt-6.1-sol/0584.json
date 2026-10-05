@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tiếng Hán",
+  "tiếng Kinh",
+  "tiếng Lưu Cầu",
+  "tiếng Mĩ",
+  "tiếng Mễ Tây Cơ",
+  "tiếng Nam",
+  "tiếng Nga",
+  "tiếng Nhật",
+  "tiếng Triều Tiên",
+  "tiếng Trung",
+  "tiếng Trung Quốc",
+  "tiếng Tây",
+  "tiếng Tây Ban Nha",
+  "tiếng Việt",
+  "tiếng Việt Nam",
+  "tiếng sét ái tình",
+  "tiếng thơm",
+  "tiếng đồn",
+  "tiếng ồn",
+  "tiếp khách",
+  "tiếp tuyến",
+  "tiếp viên hàng không",
+  "tiếp vĩ ngữ",
+  "tiếp điểm",
+  "tiếp đầu ngữ",
+  "tiết khí",
+  "tiết liệt",
+  "tiết tháo",
+  "tiết tấu",
+  "tiết độ sứ",
+  "tiềm phục",
+  "tiền biên",
+  "tiền cà phê",
+  "tiền lâm sàng",
+  "tiền lãi",
+  "tiền lệ pháp",
+  "tiền mê",
+  "tiền mất tật mang",
+  "tiền nhuận bút",
+  "tiền nào của đó"
+ ],
+ "flags": [
+  {
+   "headword": "tiếng Nam",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical name instead of using it to mean Vietnamese.",
+   "fix": "Ông dịch cuốn sách từ tiếng Hán sang tiếng Nam. = He translated the book from Chinese into Vietnamese."
+  },
+  {
+   "headword": "tiếng Nam",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The Southern-dialect meaning is still used today, so the historical tag is misleading.",
+   "fix": "Remove historical."
+  },
+  {
+   "headword": "tiếng Nam",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner today is more likely to encounter the Southern-dialect meaning than the historical name for Vietnamese.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "tiếng sét ái tình",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The construction 'anh cảm thấy như tiếng sét ái tình' is unnatural because it compares the person directly to the thunderbolt.",
+   "fix": "Ngay lần đầu gặp cô ấy, anh đã bị tiếng sét ái tình đánh trúng. = He fell in love with her at first sight."
+  }
+ ]
+}

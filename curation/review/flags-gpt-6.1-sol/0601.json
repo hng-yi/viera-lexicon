@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "túi tiết",
+  "túm năm tụm ba",
+  "tăm xỉa răng",
+  "tăng già",
+  "tăng ni",
+  "tăng sản",
+  "tăng trưởng kinh tế",
+  "tăng trọng",
+  "tăng xông",
+  "tăng đoàn",
+  "tĩn",
+  "tĩnh mạch chủ",
+  "tĩnh mạch cửa",
+  "tĩnh tại",
+  "tơ cơ",
+  "tơ hồng",
+  "tơ-rớt",
+  "tư biện",
+  "tư bản bất biến",
+  "tư bản chủ nghĩa",
+  "tư bản cố định",
+  "tư bản khả biến",
+  "tư bản lưu động",
+  "tư duy phản biện",
+  "tư dục",
+  "tư hữu",
+  "tư liệu sản xuất",
+  "tư lự",
+  "tư nhân hoá",
+  "tư sản mại bản",
+  "tưng hửng",
+  "tưng tiu",
+  "tươm",
+  "tương khắc",
+  "tương kị",
+  "tương sinh",
+  "tương thân tương ái",
+  "tương đen",
+  "tường lửa",
+  "tường minh"
+ ],
+ "flags": [
+  {
+   "headword": "tăng già",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the headword instead of showing it in use.",
+   "fix": "Chư tăng cùng họp bàn công việc của tăng già. = The monks met to discuss the sangha's affairs."
+  },
+  {
+   "headword": "tăng sản",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Tế bào niêm mạc means cells of the mucosal lining, rather than mucus-producing cells.",
+   "fix": "Cells of the mucosal lining undergo hyperplasia during prolonged inflammation."
+  },
+  {
+   "headword": "tương kị",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Incompatibility between medicines differs from contraindication, which the [Ministry of Health](https://ydct.moh.gov.vn/static/files/uploads/b6449d75410bc5e95467fe74a38ad5898c26fb6d7cfefe065df19063f0edcde3.pdf) lists separately.",
+   "fix": "incompatible"
+  },
+  {
+   "headword": "tương kị",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tương kị means incompatibility, whereas contraindication is chống chỉ định, a separate category in [Ministry of Health documentation](https://ydct.moh.gov.vn/static/files/uploads/b6449d75410bc5e95467fe74a38ad5898c26fb6d7cfefe065df19063f0edcde3.pdf).",
+   "fix": "incompatibility (especially between medicines)"
+  },
+  {
+   "headword": "tương kị",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation substitutes contraindications for incompatibilities, which [Ministry of Health documentation](https://ydct.moh.gov.vn/static/files/uploads/b6449d75410bc5e95467fe74a38ad5898c26fb6d7cfefe065df19063f0edcde3.pdf) treats separately.",
+   "fix": "Read the section on incompatibilities carefully before using the medicine."
+  }
+ ]
+}

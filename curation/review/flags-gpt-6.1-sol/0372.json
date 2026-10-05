@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "lạt",
+  "Síp",
+  "đạo tặc",
+  "vật kính",
+  "mủi",
+  "tóm lược",
+  "thông tấn xã",
+  "hậu tố",
+  "nịnh thần",
+  "thoát ý",
+  "chầy",
+  "Trung Âu",
+  "bút máy",
+  "lưu học sinh",
+  "gấu túi",
+  "gà trống",
+  "tòng",
+  "xáng",
+  "nhà nhà",
+  "bất đẳng thức",
+  "hồ cá",
+  "thể thống",
+  "bí ngòi",
+  "bồ công anh",
+  "bách chiến bách thắng",
+  "tali",
+  "binh gia",
+  "đấm bốc",
+  "bầu phiếu",
+  "luống cuống",
+  "chạc",
+  "phố Tây",
+  "rôm",
+  "rửa ráy",
+  "ngù",
+  "búa liềm",
+  "sunfua",
+  "tháu",
+  "xanh biếc",
+  "tong tong"
+ ],
+ "flags": [
+  {
+   "headword": "lưu học sinh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Lưu học sinh” belongs mainly to formal educational and administrative usage, so leaving it untagged encourages inappropriate casual use.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tháu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example restates the definition and models an unnatural standalone use instead of the established attributive use illustrated by [trâu tháu](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-th%C3%A1u).",
+   "fix": "Nhà tôi nuôi một con trâu tháu. = My family keeps a half-grown buffalo."
+  }
+ ]
+}

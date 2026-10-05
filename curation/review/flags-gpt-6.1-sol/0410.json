@@ -1,0 +1,134 @@
+{
+ "headwords": [
+  "bóng ném",
+  "bóng nước",
+  "bóng tròn",
+  "bóng đè",
+  "bóp chẹt",
+  "bóp cổ nhận nước",
+  "bô lão",
+  "bô lô ba la",
+  "bôi tro trát trấu",
+  "bôi đen",
+  "bôm",
+  "bôn tẩu",
+  "bông bụp",
+  "bông cải trắng",
+  "bông cải xanh",
+  "bông giấy",
+  "bông gòn",
+  "bông gạo",
+  "bông lông",
+  "bông phèng",
+  "bù lu bù loa",
+  "bù nhìn",
+  "bù tọt",
+  "bùa yêu",
+  "bùi ngùi",
+  "bùm bụp",
+  "bú cu",
+  "bú fame",
+  "búa khoan",
+  "búa la xua",
+  "búa và liềm",
+  "bún bò Huế",
+  "bún chả",
+  "bún cua",
+  "bún măng vịt",
+  "bún mắm",
+  "bún mẹ",
+  "bún mọc",
+  "bún riêu",
+  "bún sông"
+ ],
+ "flags": [
+  {
+   "headword": "bôi đen",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Selecting or highlighting text is the everyday sense learners are most likely to encounter today.",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "bôm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means balsam, an aromatic plant resin, rather than tar ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C3%B4m)).",
+   "fix": "balsam; aromatic plant resin"
+  },
+  {
+   "headword": "bôm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example treats bôm as boat-sealing tar rather than balsam.",
+   "fix": "Bôm này có mùi thơm. = This balsam has a pleasant smell."
+  },
+  {
+   "headword": "bôn tẩu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Bôn tẩu is literary vocabulary and would sound marked in ordinary casual conversation.",
+   "fix": "Add the literary tag."
+  },
+  {
+   "headword": "bù lu bù loa",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Cả buổi does not specify that the crying happened in the morning.",
+   "fix": "The child wailed loudly for hours."
+  },
+  {
+   "headword": "bù nhìn",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a person or government bù nhìn is derogatory.",
+   "fix": "Add the derogatory tag."
+  },
+  {
+   "headword": "bú cu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses saying the expression instead of using it to describe the action.",
+   "fix": "Anh ta đòi cô ấy bú cu. = He demanded that she give him a blowjob."
+  },
+  {
+   "headword": "búa la xua",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression belongs mainly to Southern usage ([linguistic study](https://vci.vnu.edu.vn/upload/15022/pdf/5763a4317f8b9af0d88b45d5.pdf)).",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "bún mẹ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is a local Đà Nẵng name rather than a nationwide term ([dictionary](https://kaikki.org/viwiktionary/Ti%E1%BA%BFng%20Vi%E1%BB%87t/meaning/b/b%C3%BA/b%C3%BAn%20m%E1%BA%B9.html)).",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "bún mẹ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the local name instead of using it to refer to the animal.",
+   "fix": "Con bún mẹ này đang đẻ trứng. = This sea hare is laying eggs."
+  },
+  {
+   "headword": "bún sông",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name is local to the Cu Đê River area in Đà Nẵng ([report](https://thanhnien.vn/nghe-la-bun-song-la-gi-ma-nhieu-nguoi-deo-chi-ngup-lan-duoi-day-song-de-mo-185240426224609244.htm)).",
+   "fix": "Add the Central tag."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "áo Nhật Bình",
+  "áo ba lỗ",
+  "áo bà ba",
+  "áo bù long",
+  "áo chíp",
+  "áo dầu",
+  "áo gấm",
+  "áo may ô",
+  "áo ngủ",
+  "áo nậu",
+  "áo sát nách",
+  "áo tràng vạt",
+  "áo trấn thủ",
+  "áo tơi",
+  "áo tấc",
+  "áo tắm hai mảnh",
+  "áo tứ thân",
+  "áo vải",
+  "áp kế",
+  "áp phe",
+  "áp-xe",
+  "át-lát",
+  "âm ba",
+  "âm chủ",
+  "âm cực",
+  "âm cực dương hồi",
+  "âm giai",
+  "âm hạch",
+  "âm nhạc học",
+  "âm phụt",
+  "âm quặt lưỡi",
+  "âm thịnh dương suy",
+  "âm tắc",
+  "âm tố",
+  "âm vị",
+  "âm vị học",
+  "âm đọc",
+  "âm ấm",
+  "ân nghĩa",
+  "âu là"
+ ],
+ "flags": [
+  {
+   "headword": "áo may ô",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for a sleeveless undershirt is mainly Northern Vietnamese ([regional comparison](https://thuvienhoasen.org/p54a36226/mot-so-su-khac-biet-giua-tieng-bac-va-tieng-nam)).",
+   "fix": "Add the Northern tag."
+  },
+  {
+   "headword": "âm hạch",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the anatomical term instead of showing it in use.",
+   "fix": "Bác sĩ kiểm tra vùng quanh âm hạch. = The doctor examined the area around the clitoris."
+  }
+ ]
+}

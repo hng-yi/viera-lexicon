@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "lợn",
+  "xe",
+  "mã",
+  "chúa",
+  "cắn",
+  "bến cảng",
+  "game",
+  "đẹp",
+  "quận",
+  "lục phủ",
+  "oải",
+  "cook",
+  "bi",
+  "go",
+  "ao",
+  "đồng",
+  "qua",
+  "rang",
+  "thảo khấu",
+  "chứ",
+  "nữa",
+  "bị",
+  "chúng tôi",
+  "à",
+  "tới",
+  "cả",
+  "thật",
+  "chưa",
+  "lên",
+  "đúng",
+  "chúng",
+  "thứ",
+  "mọi",
+  "vì",
+  "bạn",
+  "nghe",
+  "đừng",
+  "hơn",
+  "chết",
+  "điều"
+ ],
+ "flags": [
+  {
+   "headword": "lợn",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone a pig because of their weight can be insulting, even when intended as teasing.",
+   "fix": "Add derogatory to the existing tags."
+  },
+  {
+   "headword": "mã",
+   "sense": 9,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the unit instead of showing it in use.",
+   "fix": "Tôi mua ba mã vải để may rèm. = I bought three yards of fabric to make curtains."
+  },
+  {
+   "headword": "mã",
+   "sense": 11,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense denotes the crossbar of a harrow, not a rake ([dictionary](https://vi.wiktionary.org/wiki/m%C3%A3)).",
+   "fix": "crossbar of a harrow (holding the teeth); example: Mã bừa bị gãy nên phải thay. = The harrow's crossbar broke and needs replacing."
+  },
+  {
+   "headword": "mã",
+   "sense": 12,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means a batch weighed in one weighing, rather than any object placed on a scale ([dictionary](https://v2.rung.vn/dict/vn_vn/M%C3%A3)).",
+   "fix": "batch weighed in a single weighing; example: Phải cân hai mã mới hết số thóc này. = It takes two weighings to weigh all this paddy."
+  },
+  {
+   "headword": "cắn",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Using cắn for hostile verbal attacks online is current colloquial usage, not dated.",
+   "fix": "Remove dated; retain Internet."
+  },
+  {
+   "headword": "lục phủ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The first example explains the traditional classification instead of showing the term in ordinary use.",
+   "fix": "Remove the first example and retain: Uống rượu nhiều hại cả lục phủ ngũ tạng. = Heavy drinking harms all your internal organs."
+  },
+  {
+   "headword": "cook",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This spelling preserves the insulting force of cút when used to tell someone to get lost.",
+   "fix": "Add offensive to the existing tags."
+  },
+  {
+   "headword": "rang",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Learners frequently encounter rang meaning to fry rice, which the roasting gloss does not cover ([usage](https://congan.baclieu.gov.vn/ch10/465-Kinh-nghiem-lam-mon-com-rang-ngon.mhtml)).",
+   "fix": "to fry (rice, stirring it in a pan); example: Tôi đang rang cơm với trứng. = I'm frying rice with eggs."
+  },
+  {
+   "headword": "lên",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday use after adjectives to express or urge an increase in degree.",
+   "fix": "more; indicates an increase in the preceding quality, often in requests; example: Nói to lên một chút nhé. = Speak a little louder, please."
+  },
+  {
+   "headword": "chúng",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The explicitly contemptuous use for people lacks a derogatory warning tag.",
+   "fix": "Add derogatory for the contemptuous use referring to people; the animal use is neutral."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đại tinh tinh",
+  "đại tiểu tiện",
+  "đại tràng",
+  "đại từ nghi vấn",
+  "đại từ nhân xưng",
+  "đại từ sở hữu",
+  "đại uý",
+  "đại đoàn kết",
+  "đại đoàn kết dân tộc",
+  "đại để",
+  "đại đồng",
+  "đạo Cơ Đốc",
+  "đạo Do Thái",
+  "đạo Gia Tô",
+  "đạo Khổng",
+  "đạo Nho",
+  "đạo Tin Lành",
+  "đạo nhân",
+  "đạo đức giả",
+  "đạo đức học",
+  "đạp xe",
+  "đạt lỗ hoa xích",
+  "đạt-ma",
+  "đả nữ",
+  "đảm bảo phá huỷ lẫn nhau",
+  "đảm bảo phá hủy lẫn nhau",
+  "đảm phụ",
+  "đảng bộ",
+  "đảng phí",
+  "đảng uỷ",
+  "đảng đối lập",
+  "đất bồi",
+  "đất chật người đông",
+  "đất có lề quê có thói",
+  "đất hiếm",
+  "đất khách quê người",
+  "đất lành chim đậu",
+  "đất lề quê thói",
+  "đất mặn",
+  "đất phèn"
+ ],
+ "flags": [
+  {
+   "headword": "đại từ nghi vấn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies an interrogative pronoun instead of using the headword in context.",
+   "fix": "Bài tập này yêu cầu học sinh gạch chân các đại từ nghi vấn. = This exercise asks students to underline the interrogative pronouns."
+  },
+  {
+   "headword": "đại từ nhân xưng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies a personal pronoun instead of using the headword in context.",
+   "fix": "Cô giáo yêu cầu chúng tôi tìm các đại từ nhân xưng trong đoạn văn. = The teacher asked us to find the personal pronouns in the passage."
+  },
+  {
+   "headword": "đại từ sở hữu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies a possessive pronoun instead of using the headword in context.",
+   "fix": "Tôi thường nhầm các đại từ sở hữu trong tiếng Anh. = I often confuse the possessive pronouns in English."
+  },
+  {
+   "headword": "đảng bộ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đảng bộ is the whole party organisation at a given level, whereas its governing committee is the đảng uỷ, a distinction reflected in [official Party documents](https://dangcongsan.vn/upload/2006988/20260529/HD_05_VPTW_e1550.pdf).",
+   "fix": "party organisation (at a given administrative level or within an institution)"
+  },
+  {
+   "headword": "đảng uỷ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss incorrectly restricts đảng uỷ to local bodies, although it also names national bodies such as the [Đảng uỷ Quốc hội](https://www.mof.gov.vn/bo-tai-chinh/van-ban-moi-dang/bo-chinh-tri-quy-dinh-chuc-nang-nhiem-vu-to-chuc-bo-may-cua-dang-uy-quoc-hoi).",
+   "fix": "party committee (the governing committee of a party organisation)"
+  }
+ ]
+}

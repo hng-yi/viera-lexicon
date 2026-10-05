@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "thầm kín",
+  "thần bí học",
+  "thần giao cách cảm",
+  "thần hồn nát thần tính",
+  "thần nanh đỏ mỏ",
+  "thần số học",
+  "thần trụ trời",
+  "thần tình",
+  "thần y",
+  "thần đằng",
+  "thần đồng",
+  "thầu dầu",
+  "thầy bói",
+  "thầy bói xem voi",
+  "thầy cãi",
+  "thầy kiện",
+  "thầy lang",
+  "thầy mo",
+  "thầy phán",
+  "thầy sáu",
+  "thầy thông",
+  "thầy tào",
+  "thầy đồ",
+  "thẩm mĩ viện",
+  "thẩu",
+  "thập giác",
+  "thập lục phân",
+  "thập phương",
+  "thập thò",
+  "thập tự giá",
+  "thập ác",
+  "thật lực",
+  "thật sự mà nói",
+  "thắc thỏm",
+  "thắng dền",
+  "thắng làm vua, thua làm giặc",
+  "thắng như chẻ tre",
+  "thắng về nội, thối về ngoại",
+  "thắng đái",
+  "thắt chặt"
+ ],
+ "flags": [
+  {
+   "headword": "thần đằng",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone a fool or idiot is derogatory, but the tags present it only as humorous.",
+   "fix": "Add derogatory to the existing tags."
+  },
+  {
+   "headword": "thầy sáu",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This remains a current Catholic term for a deacon, as shown in [contemporary diocesan usage](https://tgpsaigon.net/bai-viet/giao-xu-thanh-nguyen-duy-khang-hanh-huong-nam-thanh-77525).",
+   "fix": "Remove dated; retain informal."
+  },
+  {
+   "headword": "thập giác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a decagon instead of showing the word in use.",
+   "fix": "Em vẽ một hình thập giác trên giấy. = I drew a decagon on paper."
+  },
+  {
+   "headword": "thập phương",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the ten directions are instead of using the word in context.",
+   "fix": "Ông thành kính lễ bái chư Phật thập phương. = He reverently bowed to the Buddhas of the ten directions."
+  },
+  {
+   "headword": "thập ác",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses the word as an old name rather than using it to refer to a cross.",
+   "fix": "Ông quỳ trước cây thập ác trong nhà nguyện. = He knelt before the cross in the chapel."
+  },
+  {
+   "headword": "thắng về nội, thối về ngoại",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example paraphrases the proverb instead of applying it to a situation.",
+   "fix": "Con giỏi thì anh bảo giống mình, con hư thì anh bảo giống vợ, đúng là thắng về nội, thối về ngoại. = When the child does well, you say they take after you; when they misbehave, you say they take after your wife—credit to the father's side, blame to the mother's."
+  }
+ ]
+}

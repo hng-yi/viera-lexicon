@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "niềm",
+  "vĩ đại",
+  "ánh sáng",
+  "giọng",
+  "hút",
+  "dì",
+  "nhưng mà",
+  "dòng",
+  "quái vật",
+  "trung tâm",
+  "sửa",
+  "đảo",
+  "giấy",
+  "hôm qua",
+  "xứng đáng",
+  "dặm",
+  "tội phạm",
+  "vết",
+  "hơn nữa",
+  "nghĩa",
+  "khách sạn",
+  "anh hùng",
+  "nghi ngờ",
+  "bệnh nhân",
+  "chừng",
+  "trường hợp",
+  "bao",
+  "sợ hãi",
+  "ban",
+  "hi vọng",
+  "thua",
+  "quần áo",
+  "tín hiệu",
+  "chứng minh",
+  "ý nghĩa",
+  "ả",
+  "dính",
+  "nhẫn",
+  "ngân hàng",
+  "đeo"
+ ],
+ "flags": [
+  {
+   "headword": "đảo",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this sense, đảo describes rapid movement around or back and forth, especially of the eyes, rather than generic shaking or wagging ([dictionary](https://tudientv.com/?t=đảo)).",
+   "fix": "to move rapidly around or back and forth; to dart (the eyes)"
+  },
+  {
+   "headword": "chừng",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chừng does not mean to pause or slow down halfway; the entry confuses it with chững ([dictionary](https://tudientv.com/?t=chừng)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "bao",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Tôi bao anh sẽ thích món này is not a natural Vietnamese construction for guaranteeing that someone will like something.",
+   "fix": "Giá này bao vận chuyển. = This price includes shipping at no extra cost."
+  },
+  {
+   "headword": "bao",
+   "sense": 8,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Bao before an adjective is current colloquial usage, so rare misleadingly discourages a familiar modern expression ([usage example](https://www.reddit.com/r/VietNamNation/comments/1eybgyw)).",
+   "fix": "Remove rare; retain colloquial."
+  },
+  {
+   "headword": "ả",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ả refers contemptuously to a woman and does not itself mean that she is a villain or schemer ([dictionary](https://v2.rung.vn/dict/vn_vn/%E1%BA%A2)).",
+   "fix": "woman (contemptuous)"
+  }
+ ]
+}

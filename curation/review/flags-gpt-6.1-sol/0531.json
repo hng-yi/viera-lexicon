@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "nhất ngôn ký xuất, tứ mã nan truy",
+  "nhất nhì",
+  "nhất nhật vi sư, chung thân vi phụ",
+  "nhất nước, nhì phân, tam cần, tứ giống",
+  "nhất thành bất biến",
+  "nhất tiếu thiên kim",
+  "nhất tiễn song điêu",
+  "nhất tề",
+  "nhận chân",
+  "nhận ra",
+  "nhận thấy",
+  "nhập gia tuỳ tục",
+  "nhập gia tuỳ tục, nhập giang tuỳ khúc",
+  "nhập gia tùy tục",
+  "nhập siêu",
+  "nhập thành",
+  "nhập thân",
+  "nhập đề",
+  "nhật kì",
+  "nhật kí web",
+  "nhật san",
+  "nhật triều",
+  "nhật tâm",
+  "nhắm mắt nhắm mũi",
+  "nhắn gửi",
+  "nhằm nhò",
+  "nhằn",
+  "nhặt lá đá ống bơ",
+  "nhẹ hều",
+  "nhẹ như lông hồng",
+  "nhẹ tênh",
+  "nhẻm nhèm nhem",
+  "nhễu nhụa",
+  "nhện nước",
+  "nhị cái",
+  "nhị khúc côn",
+  "nhị phân",
+  "nhị thập bát tú",
+  "nhị thức",
+  "nhị trùng âm"
+ ],
+ "flags": [
+  {
+   "headword": "nhật kì",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This means a date fixed in advance, rather than any particular day ([dictionary](https://loigiaihay.com/tu-dien-tv/nhat-ki-eH90l4cZfSW7T.html)).",
+   "fix": "appointed date; a day fixed in advance"
+  },
+  {
+   "headword": "nhẹ hều",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is characteristic of Southern Vietnamese and needs a regional label ([source](https://khcn.tdmu.edu.vn/Data/files/1_%20Ky%20yeu%20Hoc%20vien%281%29.pdf)).",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "nhẻm nhèm nhem",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This is a children's teasing exclamation when displaying food to tempt another child, not an adjective meaning grimy ([dictionary](https://vi.wiktionary.org/wiki/nhẻm_nhèm_nhem)).",
+   "fix": "an exclamation children use to tease another child by showing food they have"
+  },
+  {
+   "headword": "nhẻm nhèm nhem",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly uses a teasing exclamation as an adjective describing a dirty face ([dictionary](https://vi.wiktionary.org/wiki/nhẻm_nhèm_nhem)).",
+   "fix": "Nó giơ cái bánh lên trêu bạn: \"Nhẻm nhèm nhem!\" = He held up the cake to tease his friend: \"Look what I've got!\""
+  }
+ ]
+}

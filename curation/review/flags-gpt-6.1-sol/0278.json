@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "linh miêu",
+  "lườm",
+  "thạch cao",
+  "buột miệng",
+  "nhuyễn",
+  "thau",
+  "nhật trình",
+  "tố tụng",
+  "hổ phách",
+  "rau câu",
+  "thô bỉ",
+  "cựa",
+  "sình",
+  "câm họng",
+  "sùng",
+  "sự vật",
+  "lang bạt",
+  "nước sôi",
+  "bến xe",
+  "vị giác",
+  "gan lì",
+  "cay độc",
+  "bất định",
+  "hài nhi",
+  "xi nhê",
+  "chắt",
+  "nam mô",
+  "trượt ván",
+  "cá trích",
+  "bài vị",
+  "san phẳng",
+  "thiên hoàng",
+  "sách báo",
+  "thi ca",
+  "bro",
+  "cây xăng",
+  "duy tâm",
+  "tét",
+  "âm dương",
+  "bố ráp"
+ ],
+ "flags": [
+  {
+   "headword": "thau",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The use of thau for a washbasin is mainly Southern and needs a regional label.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "rau câu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines rau câu instead of showing it in use.",
+   "fix": "Người dân thu hoạch rau câu để làm thạch. = Local people harvest the seaweed to make agar jelly."
+  },
+  {
+   "headword": "sình",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This muddy-place sense shares the Southern regional restriction of the mud sense.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "câm họng",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Câm họng can be an insulting command to shut up, but colloquial does not warn learners of its offensiveness.",
+   "fix": "Add offensive."
+  },
+  {
+   "headword": "sự vật",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Sự vật belongs to abstract or formal discussion rather than ordinary casual references to things.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "sùng",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter nổi sùng in everyday Vietnamese than the bound reverence sense.",
+   "fix": "Put sense 3 first."
+  },
+  {
+   "headword": "cá trích",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cá trích means herring, whereas sardines are cá mòi.",
+   "fix": "herring"
+  },
+  {
+   "headword": "cá trích",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation incorrectly identifies cá trích as sardines.",
+   "fix": "Mum bought herring to fry until crisp."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "rùng mình",
+  "bảo bối",
+  "tiến công",
+  "vớt",
+  "máy chủ",
+  "binh",
+  "khảo cổ học",
+  "tầm phào",
+  "sân vận động",
+  "tiền nhiệm",
+  "vệ",
+  "nóng tính",
+  "nhịp điệu",
+  "dầu mỏ",
+  "phấn đấu",
+  "nghỉ dưỡng",
+  "dị giáo",
+  "rận",
+  "ứng",
+  "đề cao",
+  "khiếp sợ",
+  "nguyên chất",
+  "nhà nguyện",
+  "khiếm khuyết",
+  "thanh tẩy",
+  "tường trình",
+  "thanh minh",
+  "tập kích",
+  "hào quang",
+  "gân",
+  "tiểu nhân",
+  "giăng",
+  "thòng lọng",
+  "đông bắc",
+  "xiềng",
+  "nhà quê",
+  "ngự",
+  "dị hợm",
+  "thổi phồng",
+  "dài hạn"
+ ],
+ "flags": [
+  {
+   "headword": "vớt",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The gloss incorrectly requires a tool, although vớt also covers retrieving someone or something from water by hand ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%E1%BB%9Bt)).",
+   "fix": "to fish out; to scoop out; to retrieve from water or liquid"
+  },
+  {
+   "headword": "binh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common regional verb meaning to defend someone or take their side ([regional dictionary](https://www.art2all.net/chantran/chantran_tho/tranngocbao/tudienphuongnguhue/tudienphuongnguhue_B.htm)).",
+   "fix": "verb [Southern, Central] | to defend someone; to take someone's side"
+  },
+  {
+   "headword": "dị giáo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Dị giáo means heresy, while a heretic is a person who follows it ([Cambridge dictionary](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/heresy)).",
+   "fix": "heresy"
+  },
+  {
+   "headword": "thanh minh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thanh minh means explaining to clear oneself or someone else of blame or suspicion, rather than neutrally clarifying a misunderstanding ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-thanh%20minh)).",
+   "fix": "to explain in order to clear oneself or someone else of blame or suspicion"
+  },
+  {
+   "headword": "ngự",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ngự describes stately sitting or royal activities and does not itself mean to rule or govern ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ng%E1%BB%B1)).",
+   "fix": "to sit enthroned; to be seated in a stately manner (of a king or deity)"
+  }
+ ]
+}

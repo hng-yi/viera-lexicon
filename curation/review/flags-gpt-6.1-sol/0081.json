@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cổ họng",
+  "ô tô",
+  "tái",
+  "đau đầu",
+  "phần nào",
+  "yếu tố",
+  "phi vụ",
+  "ưa thích",
+  "dân chủ",
+  "chức",
+  "cún",
+  "đồng bọn",
+  "phiên bản",
+  "xoáy",
+  "cầu hôn",
+  "thật tình",
+  "thời trang",
+  "võ",
+  "vệ sĩ",
+  "thương hại",
+  "vụ việc",
+  "che đậy",
+  "cổ phiếu",
+  "nhúng",
+  "cơ bắp",
+  "phanh",
+  "fan",
+  "hạn chế",
+  "nhiệt",
+  "thoáng",
+  "gian lận",
+  "vắng",
+  "nghiền",
+  "bé bỏng",
+  "hình thức",
+  "ngập",
+  "bào chữa",
+  "đích",
+  "đóng góp",
+  "roi"
+ ],
+ "flags": [
+  {
+   "headword": "xoáy",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The word xoáy for a hair whorl is used nationwide, including in Northern Vietnamese.",
+   "fix": "Remove the Central and Southern tags."
+  },
+  {
+   "headword": "phanh",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common verb meaning 'to brake'.",
+   "fix": "Add: verb [Northern] | to brake; ex: Tài xế phanh gấp. = The driver braked suddenly."
+  },
+  {
+   "headword": "nhiệt",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Nhiệt in this example is the noun 'heat', not the compound element meaning 'thermal'.",
+   "fix": "Nhà máy nhiệt điện này sử dụng than. = This thermal power plant uses coal."
+  },
+  {
+   "headword": "hình thức",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common noun meaning 'outward appearance'.",
+   "fix": "Add: noun | outward appearance; ex: Đừng chỉ đánh giá qua hình thức bên ngoài. = Don't judge solely by outward appearance."
+  },
+  {
+   "headword": "bào chữa",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Bào chữa commonly means making excuses for someone's actions outside a courtroom.",
+   "fix": "Add: verb | to make excuses for; to justify; ex: Đừng bào chữa cho hành động của anh ấy. = Don't make excuses for his actions."
+  }
+ ]
+}

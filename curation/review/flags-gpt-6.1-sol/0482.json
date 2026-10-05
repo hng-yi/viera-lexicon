@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "hỡi ôi",
+  "hợp chúng quốc",
+  "hợp chất hữu cơ",
+  "hợp long",
+  "hợp lưu",
+  "hợp pháp hoá",
+  "hợp pháp hóa",
+  "hợp quần",
+  "hợp số",
+  "hợp âm rải",
+  "hợp đồng bảo hiểm",
+  "hụi",
+  "hủ hoá",
+  "hủ lô",
+  "hủ lậu",
+  "hủ nam",
+  "hủ nho",
+  "hủ nữ",
+  "hủ tiếu",
+  "hủ tục",
+  "hủy bỏ",
+  "hứa lèo",
+  "hức",
+  "hứng chí",
+  "hững hờ",
+  "hữu danh vô thực",
+  "hữu dũng vô mưu",
+  "hữu khuynh",
+  "hữu lí",
+  "hữu ngạn",
+  "hữu nhũ",
+  "hữu phái",
+  "hữu quan",
+  "hữu sản",
+  "hữu thanh",
+  "hữu thuỷ vô chung",
+  "hữu tính",
+  "hữu tỉ",
+  "hữu xạ tự nhiên hương",
+  "i cờ-rét"
+ ],
+ "flags": [
+  {
+   "headword": "hủ hoá",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hủ hoá refers to moral corruption, not the physical rotting of rubbish, as documented in this [linguist’s explanation](https://nguoidothi.net.vn/khi-ngu-la-su-thoai-hoa-bien-chat-cua-con-nguoi-41834.html).",
+   "fix": "to become morally corrupt [dated]; example: Ông ta bị tiền bạc làm cho hủ hoá. = Money corrupted him."
+  },
+  {
+   "headword": "hữu lí",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Hữu lí belongs to formal written usage, so leaving it untagged suggests it is ordinary conversational vocabulary.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "hữu ngạn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Hữu ngạn is formal geographical vocabulary rather than ordinary conversational wording, as described in this [dictionary entry](https://loigiaihay.com/tu-dien-tv/huu-ngan-ena81evRVNlkS.html).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "hữu tỉ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines rational numbers instead of showing the term in a concrete use.",
+   "fix": "Trong bài này, em phải so sánh hai số hữu tỉ. = In this exercise, I have to compare two rational numbers."
+  },
+  {
+   "headword": "i cờ-rét",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the old letter name instead of showing someone using it.",
+   "fix": "Tên cô ấy viết bằng i cờ-rét ở cuối. = Her name is written with a Y at the end."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "thuỷ văn học",
+  "thuỷ vận",
+  "thuỷ âm",
+  "thuỷ điện",
+  "thuỷ đậu",
+  "thuỷ động lực học",
+  "thài lài",
+  "thành hoàng",
+  "thành hệ",
+  "thành luỹ",
+  "thành phố thuộc thành phố trực thuộc trung ương",
+  "thành phố thuộc tỉnh",
+  "thành phố trực thuộc trung ương",
+  "thành quách",
+  "thành thử",
+  "thành tín",
+  "thành uỷ",
+  "thành văn",
+  "thành đoàn",
+  "thành ủy",
+  "thày lay",
+  "thác nước",
+  "thái cực quyền",
+  "thái dương quyển",
+  "thái dụng",
+  "thái hoà",
+  "thái hoàng thái hậu",
+  "thái trưởng công chúa",
+  "thám hoa",
+  "thán khí",
+  "thán từ",
+  "tháng ba",
+  "tháng bảy",
+  "tháng chín",
+  "tháng chạp",
+  "tháng hai",
+  "tháng mười một",
+  "tháng một",
+  "tháng sáu",
+  "tháng tư"
+ ],
+ "flags": [
+  {
+   "headword": "thuỷ động lực học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines hydrodynamics instead of showing the term in use.",
+   "fix": "Học kỳ này tôi học môn thuỷ động lực học. = I am taking hydrodynamics this semester."
+  },
+  {
+   "headword": "thái hoàng thái hậu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the title instead of using it in a situation.",
+   "fix": "Nhà vua đến thăm thái hoàng thái hậu. = The king visited the grand empress dowager."
+  },
+  {
+   "headword": "thán khí",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the old term by naming its modern equivalent instead of using it.",
+   "fix": "Trong sách cũ, tác giả viết rằng cây hấp thụ thán khí. = In the old book, the author writes that plants absorb carbon dioxide."
+  }
+ ]
+}

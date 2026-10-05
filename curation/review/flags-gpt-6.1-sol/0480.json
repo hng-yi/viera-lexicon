@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "học bá",
+  "học chay",
+  "học chế",
+  "học hiệu",
+  "học hàm",
+  "học khu",
+  "học liệu",
+  "học máy",
+  "học sâu",
+  "học thuộc",
+  "học thêm",
+  "học vụ",
+  "hỏa châu",
+  "hỏa diệm sơn",
+  "hỏa xa",
+  "hố phân",
+  "hố đen",
+  "hốt nhiên",
+  "hồ cầm",
+  "hồ cừu",
+  "hồ li",
+  "hồ lô",
+  "hồ thuỷ",
+  "hồ thủy",
+  "hồ trăn",
+  "hồ tư loạn tưởng",
+  "hồ đồng",
+  "hồi báo",
+  "hồi hưu",
+  "hồi tràng",
+  "hồi tỉnh",
+  "hồi xuân",
+  "hồn nước",
+  "hồn phi phách tán",
+  "hồn xiêu phách lạc",
+  "hồng hoàng",
+  "hồng huyết cầu",
+  "hồng mao",
+  "hồng nhan",
+  "hồng nhan hoạ thuỷ"
+ ],
+ "flags": [
+  {
+   "headword": "học sâu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what deep learning is instead of showing the term in use.",
+   "fix": "Công ty này dùng học sâu để nhận dạng giọng nói. = This company uses deep learning to recognize speech."
+  },
+  {
+   "headword": "hồi hưu",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The adjective retains the dated usage of hồi hưu and should carry the same warning as the verb ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-h%E1%BB%93i%20h%C6%B0u)).",
+   "fix": "Add the tag dated."
+  },
+  {
+   "headword": "hồi tràng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example repeats the definition instead of showing the word in use.",
+   "fix": "Bác sĩ phát hiện một vết loét ở hồi tràng. = The doctor found an ulcer in the ileum."
+  },
+  {
+   "headword": "hồi xuân",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense denotes renewed vitality or sexual desire in middle age, rather than a hormonal surge or mood swings ([usage](https://tuoitre.vn/phunuonline/bong-nhien-muon-yeu-o-tuoi-hoi-xuan-a131985.html)).",
+   "fix": "to experience renewed sexual desire in middle age"
+  }
+ ]
+}

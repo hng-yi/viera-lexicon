@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "dộng",
+  "phong lưu",
+  "quốc tang",
+  "can ngăn",
+  "tạch",
+  "an lạc",
+  "trấn thủ",
+  "đạo Thiên Chúa",
+  "đại cục",
+  "ới",
+  "khởi nghĩa",
+  "toàn cục",
+  "rách rưới",
+  "đốc",
+  "luận tội",
+  "tâm chấn",
+  "lấp ló",
+  "bình phương",
+  "ngoặt",
+  "bệ rạc",
+  "bứt rứt",
+  "chi đội",
+  "manh",
+  "khấm khá",
+  "bài tiết",
+  "sổ mũi",
+  "cơ quan chức năng",
+  "tang thương",
+  "hiện hành",
+  "du dương",
+  "bốc thăm",
+  "cao minh",
+  "tượng hình",
+  "vũ đạo",
+  "sắc phong",
+  "lằng",
+  "xối",
+  "nhi đồng",
+  "dẻ",
+  "chiến tranh lạnh"
+ ],
+ "flags": [
+  {
+   "headword": "phong lưu",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The amorous or womanising sense remains in contemporary use, so dated is misleading ([usage source](https://chuthapdoquangninh.org.vn/phong-luu-la-gi/)).",
+   "fix": "Remove dated."
+  },
+  {
+   "headword": "ới",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The verb meaning to call or alert someone is the ordinary modern use learners are most likely to encounter ([dictionary](https://vi.wiktionary.org/wiki/ới)).",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "luận tội",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Presenting the prosecution's case in court is the usual Vietnamese sense and should precede impeachment ([legal dictionary](https://www.tudienphapluat.com/tong-hop/luan-toi)).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "tâm chấn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "An epicentre is on the Earth's surface, whereas a location beneath the seabed describes the earthquake's focus ([USGS](https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes)).",
+   "fix": "Tâm chấn của trận động đất nằm ngoài khơi. = The earthquake's epicentre was offshore."
+  },
+  {
+   "headword": "cao minh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cao minh belongs to literary or elevated usage and would sound affected in ordinary casual speech ([dictionary](https://www.rung.vn/dict/vn_vn/Cao_minh)).",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "tượng hình",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tượng hình describes writing that represents shapes; chữ tượng hình is the pictogram itself ([dictionary](https://www.rung.vn/dict/vn_vn/Tượng_hình)).",
+   "fix": "pictographic; representing objects through their shapes"
+  },
+  {
+   "headword": "tượng hình",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains pictographic writing instead of showing the word in use.",
+   "fix": "Người Ai Cập cổ đại dùng chữ tượng hình. = The ancient Egyptians used pictographic writing."
+  },
+  {
+   "headword": "nhi đồng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Nhi đồng is an institutional or formal designation for children rather than an ordinary casual term.",
+   "fix": "Add formal."
+  }
+ ]
+}

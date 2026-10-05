@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bị Tào Tháo đuổi",
+  "bị chú",
+  "bị cảm",
+  "bị hại",
+  "bị thịt",
+  "bịn rịn",
+  "bịt miệng",
+  "bịt mắt bắt dê",
+  "bịt tai trộm chuông",
+  "bọ chét mèo",
+  "bọ chó",
+  "bọ cánh cứng",
+  "bọ dừa",
+  "bọ xít",
+  "bọt biển",
+  "bỏ bớt",
+  "bỏ chạy",
+  "bỏ mẹ",
+  "bỏ mứa",
+  "bỏ ngang",
+  "bỏ ngoài tai",
+  "bỏ nhỏ",
+  "bỏ quên",
+  "bỏ trốn",
+  "bỏ tù",
+  "bỏ việc",
+  "bỏ về",
+  "bỏm bẻm",
+  "bỏng ngô",
+  "bố nó",
+  "bố phòng",
+  "bố đường",
+  "bốc cháy",
+  "bốc hoả",
+  "bốc đầu",
+  "bốn bề",
+  "bốn bể",
+  "bốn mắt",
+  "bốt đờ sô",
+  "bồ các"
+ ],
+ "flags": [
+  {
+   "headword": "bỏ nhỏ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The established sports meaning is a drop shot or soft tip near the net, rather than a short football pass ([textbook](https://www.sachgiaokhoa.online/lop-12-15/ket-noi-tri-thuc-voi-cuoc-song-3/phan-ii-chu-de-2-ki-thuat-bo-nho-3381/bai-1-ki-thuat-bo-nho-cheo-thuan-tay-12441.html)).",
+   "fix": "to play a drop shot (badminton or tennis); to tip the ball softly over the net (volleyball)"
+  },
+  {
+   "headword": "bỏ nhỏ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The football example does not demonstrate the established meaning of playing a soft shot near the net.",
+   "fix": "Anh ấy bỏ nhỏ khiến đối thủ không kịp lên lưới. = He played a drop shot that his opponent could not reach in time."
+  },
+  {
+   "headword": "bỏ nhỏ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Scoring a quick football goal is not a meaning of bỏ nhỏ.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "bốn bể",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bốn bể does not designate the Pacific, Indian, Atlantic and Arctic oceans; its literal origin is the ancient four seas already covered by sense 3 ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BB%91n%20b%E1%BB%83)).",
+   "fix": "Remove sense 2 and retain the historical four-seas meaning in sense 3."
+  }
+ ]
+}

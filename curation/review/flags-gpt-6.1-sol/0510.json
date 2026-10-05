@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "mán",
+  "mánh khoé",
+  "mát mặt",
+  "mát rượi",
+  "mát-xa",
+  "máu Hoạn thư",
+  "máu trắng",
+  "máu đen",
+  "máu đỏ",
+  "máy bay bà già",
+  "máy bay lên thẳng",
+  "máy bay ném bom",
+  "máy bay tiêm kích",
+  "máy bán hàng",
+  "máy chiếu hình",
+  "máy chạy bộ",
+  "máy chụp hình",
+  "máy cơ",
+  "máy hút bụi",
+  "máy hút mùi",
+  "máy khách",
+  "máy khâu",
+  "máy kéo tạ",
+  "máy nước",
+  "máy phát thanh",
+  "máy quay đĩa",
+  "máy rút tiền tự động",
+  "máy rửa bát",
+  "máy rửa chén",
+  "máy sấy quần áo",
+  "máy sấy tóc",
+  "máy tính bảng",
+  "máy tính bảng đồ hoạ",
+  "máy tính bảng đồ họa",
+  "máy tính cá nhân",
+  "máy tính tiền",
+  "máy tính để bàn",
+  "máy xay sinh tố",
+  "máy điều hoà không khí",
+  "máy điều hoà nhiệt độ"
+ ],
+ "flags": [
+  {
+   "headword": "máu đen",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the term instead of showing it in use.",
+   "fix": "Máu đen rỉ ra từ vết thương. = Dark, deoxygenated blood oozed from the wound."
+  },
+  {
+   "headword": "máy bay lên thẳng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example discusses the name instead of using it to refer to a helicopter.",
+   "fix": "Một chiếc máy bay lên thẳng hạ cánh trên sân thượng. = A helicopter landed on the rooftop."
+  },
+  {
+   "headword": "máy chụp hình",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is used mainly in Southern Vietnamese and lacks a region tag.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "máy cơ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this sense, máy cơ refers to a film camera, which need not be purely mechanical.",
+   "fix": "film camera"
+  },
+  {
+   "headword": "máy nước",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss misleadingly includes fire hydrants and drinking fountains, whereas this sense denotes a public water tap.",
+   "fix": "public water tap; standpipe"
+  }
+ ]
+}

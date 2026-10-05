@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đánh máy",
+  "sáng tác",
+  "lãnh tụ",
+  "độc tố",
+  "quào",
+  "khét tiếng",
+  "khắc phục",
+  "ó",
+  "bừa bãi",
+  "cụm từ",
+  "lúng túng",
+  "chất vấn",
+  "quả tang",
+  "sưu tầm",
+  "hoàn chỉnh",
+  "sub",
+  "lộ diện",
+  "phong trào",
+  "chiến công",
+  "cúng",
+  "đố",
+  "kháng thể",
+  "ủa",
+  "rải rác",
+  "sóc",
+  "hân hoan",
+  "thổi kèn",
+  "cất giấu",
+  "đường dẫn",
+  "bạch tuộc",
+  "bí danh",
+  "can",
+  "nghiêm khắc",
+  "bong",
+  "dân sự",
+  "da thịt",
+  "phàm",
+  "kế vị",
+  "rối trí",
+  "lần lượt"
+ ],
+ "flags": [
+  {
+   "headword": "lãnh tụ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The Iranian title is lãnh tụ tối cao, not a separate meaning of lãnh tụ alone.",
+   "fix": "Remove sense 2; lãnh tụ tối cao means 'Supreme Leader'."
+  },
+  {
+   "headword": "đố",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Đố denotes a crossbar in a frame, not a stake driven into the ground.",
+   "fix": "Gloss: 'crossbar (in a door or window frame)'; example: 'Thanh đố ngang của cửa đã bị mục.' = 'The door's horizontal crossbar has rotted.'"
+  },
+  {
+   "headword": "sóc",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines sóc instead of showing it in use.",
+   "fix": "Anh ấy sống trong một sóc ở Trà Vinh. = He lives in a Khmer village in Trà Vinh."
+  },
+  {
+   "headword": "sóc",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the meaning of sóc instead of using it naturally.",
+   "fix": "Vào ngày sóc, bà thường đi chùa. = On the first day of the lunar month, she usually visits a pagoda."
+  },
+  {
+   "headword": "thổi kèn",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Đòi expresses demanding or insisting, but does not say that he kept asking repeatedly.",
+   "fix": "He demanded that his girlfriend give him a blowjob."
+  }
+ ]
+}

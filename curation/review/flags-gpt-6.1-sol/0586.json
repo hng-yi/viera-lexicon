@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "to gan lớn mật",
+  "toa thuốc",
+  "toa-lét",
+  "toang hoang",
+  "tong teo",
+  "tong tả",
+  "toà",
+  "toà lãnh sự",
+  "toà nhà",
+  "toà sen",
+  "toà soạn",
+  "toà án",
+  "toà án nhân dân",
+  "toà đại sứ",
+  "toàn bích",
+  "toàn cầu hoá",
+  "toàn cầu hóa",
+  "toàn dân",
+  "toàn trình",
+  "toàn tâm toàn ý",
+  "toàn văn",
+  "toàn đạc",
+  "toán tử",
+  "toé",
+  "toét",
+  "toóc-xi",
+  "toạ lạc",
+  "toạ thiền",
+  "toạ đàm",
+  "toạ độ",
+  "toạ độ Đề-các",
+  "toả",
+  "toả sáng",
+  "trai bao",
+  "trai lí",
+  "trai lơ",
+  "trang nhà",
+  "tranh truyện",
+  "trao đổi chất",
+  "trau"
+ ],
+ "flags": [
+  {
+   "headword": "toả",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common sense of people spreading out in different directions is missing; see [dictionary](https://loigiaihay.com/tu-dien-tv/toa-e2hQC8Jmw5SJ1.html).",
+   "fix": "verb | to disperse; to spread out in different directions. Example: Mọi người toả đi tìm đứa bé. = Everyone spread out to look for the child."
+  },
+  {
+   "headword": "trai lí",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Garcinia fagraeoides is a large tree, not a shrub; see [botanical research](https://jst.tnu.edu.vn/jst/article/view/10486/0).",
+   "fix": "trai lí (Garcinia fagraeoides), a large tree native to Vietnam"
+  },
+  {
+   "headword": "trai lí",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The translation incorrectly calls cây trai lí a shrub, although this species is a large tree.",
+   "fix": "The trai lí tree grows in the forests of the north."
+  },
+  {
+   "headword": "trai lơ",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense disparages someone's sexual conduct and needs a derogatory warning; see [dictionary](https://vdict.com/trai%20l%C6%A1%2C2%2C0%2C0.html).",
+   "fix": "[uncommon, derogatory]"
+  }
+ ]
+}

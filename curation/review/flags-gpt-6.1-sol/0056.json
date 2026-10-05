@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "viêm",
+  "tiên tri",
+  "ảo thuật",
+  "lều",
+  "xưởng",
+  "sân khấu",
+  "pin",
+  "nhảm",
+  "tự động",
+  "mây",
+  "thể thao",
+  "nước ngoài",
+  "trình diễn",
+  "khoai tây",
+  "phương pháp",
+  "thắt",
+  "chĩa",
+  "thời khắc",
+  "phạm tội",
+  "quyền năng",
+  "bột",
+  "chính quyền",
+  "gỡ",
+  "trí nhớ",
+  "ma thuật",
+  "tán",
+  "bọc",
+  "chiến trường",
+  "đạo",
+  "ơ",
+  "bệ",
+  "đạp",
+  "thỏa",
+  "can thiệp",
+  "thẩm vấn",
+  "tài",
+  "đợt",
+  "đê",
+  "gián điệp",
+  "suỵt"
+ ],
+ "flags": [
+  {
+   "headword": "viêm",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Viêm họng means throat inflammation and does not necessarily imply an infection.",
+   "fix": "The doctor says you have inflammation of the throat."
+  },
+  {
+   "headword": "sân khấu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "medium",
+   "why": "The obsolete sense refers to a royal courtyard, not an indoor hall ([reference](https://en.wiktionary.org/wiki/s%C3%A2n_kh%E1%BA%A5u)).",
+   "fix": "royal courtyard where mandarins prostrated before the king"
+  },
+  {
+   "headword": "thời khắc",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Thời khắc is literary and needs a warning against treating it as an ordinary conversational word for moment ([reference](https://en.wiktionary.org/wiki/th%E1%BB%9Di_kh%E1%BA%AFc)).",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "bột",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Bột also commonly means dough or batter, which learners will encounter in everyday cooking.",
+   "fix": "noun | dough; batter. Example: Nhào bột cho đến khi mịn. = Knead the dough until smooth."
+  },
+  {
+   "headword": "bọc",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bọc meaning a bag or packet, as in một bọc đường, is mainly Southern usage.",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

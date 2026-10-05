@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "hỏa mai",
+  "hương thảo",
+  "phớt",
+  "công chính",
+  "yêu thuật",
+  "mé",
+  "khè",
+  "ngay ngắn",
+  "bông tai",
+  "ung nhọt",
+  "quạu",
+  "ô hợp",
+  "cồn cào",
+  "bỏ lỡ",
+  "làm tròn",
+  "lóc",
+  "đau ốm",
+  "thương tâm",
+  "Hoa kiều",
+  "chìm xuồng",
+  "ám muội",
+  "ngoảnh",
+  "lóng ngóng",
+  "tinh quái",
+  "nhân sư",
+  "khom",
+  "giáo trình",
+  "ân sư",
+  "nuôi cấy",
+  "ồn ã",
+  "khuếch",
+  "viển vông",
+  "thổ tả",
+  "bùa chú",
+  "dãn",
+  "típ",
+  "mặt bằng",
+  "tiệt trùng",
+  "phụ phí",
+  "xích đu"
+ ],
+ "flags": [
+  {
+   "headword": "bông tai",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This word for earrings is used mainly in Southern Vietnamese.",
+   "fix": "tags: [Southern]"
+  },
+  {
+   "headword": "ô hợp",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a group ô hợp disparages its members as a rabble rather than neutrally describing its organisation.",
+   "fix": "tags: [derogatory]"
+  },
+  {
+   "headword": "chìm xuồng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Chiếc thuyền nhỏ bị chìm xuồng unnaturally repeats the boat as both the subject and part of the predicate.",
+   "fix": "Sóng to làm chìm xuồng. = The big waves sank the small boat."
+  },
+  {
+   "headword": "chìm xuồng",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Chìm describes sinking, whereas capsize describes overturning and does not necessarily imply sinking.",
+   "fix": "The big waves made the little boat sink."
+  },
+  {
+   "headword": "viển vông",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Describing hopes as viển vông is an ordinary current use, consistent with the dictionary's unmarked sense of being unrealizable ([Wiktionary](https://vi.wiktionary.org/wiki/vi%E1%BB%83n_v%C3%B4ng)).",
+   "fix": "Remove the uncommon tag."
+  },
+  {
+   "headword": "viển vông",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Chờ đợi những hy vọng unnaturally means waiting for hopes rather than holding them.",
+   "fix": "Đừng nuôi những hy vọng viển vông. = Don't harbour unrealistic hopes."
+  },
+  {
+   "headword": "thổ tả",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "A learner today is more likely to encounter the disparaging adjective than the dated name for cholera.",
+   "fix": "Place current sense 2 first, followed by current sense 1, then senses 3 and 4."
+  }
+ ]
+}

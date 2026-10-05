@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "trấn áp",
+  "duyên số",
+  "hiểm độc",
+  "nước lã",
+  "măng tây",
+  "thân tín",
+  "xuống cấp",
+  "tạm trú",
+  "thẩm mĩ",
+  "khai chiến",
+  "thực tiễn",
+  "luân chuyển",
+  "bành trướng",
+  "tương truyền",
+  "biết chừng",
+  "hùn",
+  "nấn ná",
+  "đầu đuôi",
+  "thụ án",
+  "ổi",
+  "xí nghiệp",
+  "ngữ cảnh",
+  "ngồi xổm",
+  "le",
+  "đồng vị",
+  "óng",
+  "cánh hữu",
+  "giãi bày",
+  "khí thải",
+  "máy bay phản lực",
+  "đồng tâm",
+  "thiên bẩm",
+  "mù chữ",
+  "tấu",
+  "nẻo",
+  "thoi",
+  "ân ái",
+  "thốn",
+  "dung túng",
+  "ngây"
+ ],
+ "flags": [
+  {
+   "headword": "thẩm mĩ",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The transitive construction “thẩm mĩ một bức tranh” is not natural Vietnamese.",
+   "fix": "Cô giáo giúp các em phát triển khả năng thẩm mĩ. = The teacher helps the children develop their ability to appreciate beauty."
+  },
+  {
+   "headword": "tương truyền",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Tương truyền” belongs to literary storytelling and needs a warning against treating it as ordinary conversational “it is said that”.",
+   "fix": "tags: [literary]"
+  },
+  {
+   "headword": "hùn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use is mainly Southern, as documented in the [dictionary of Southern Vietnamese](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html).",
+   "fix": "tags: [Southern]"
+  },
+  {
+   "headword": "thụ án",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese says he agreed to serve the sentence, not that he actually served it.",
+   "fix": "He agreed to serve his sentence without appealing."
+  },
+  {
+   "headword": "đồng tâm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines concentric circles instead of showing the word in use.",
+   "fix": "Cô ấy vẽ ba đường tròn đồng tâm trên giấy. = She drew three concentric circles on the paper."
+  }
+ ]
+}

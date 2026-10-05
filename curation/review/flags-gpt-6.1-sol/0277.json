@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "đồng điệu",
+  "cân não",
+  "sớ",
+  "đại hồng thủy",
+  "bình ổn",
+  "khác lạ",
+  "chiếm dụng",
+  "thượng phong",
+  "cầu viện",
+  "giảng đường",
+  "bén mảng",
+  "hậu họa",
+  "bạo dạn",
+  "lăng kính",
+  "chiều chuộng",
+  "tiếng mẹ đẻ",
+  "thu nhặt",
+  "vô bổ",
+  "bát quái",
+  "ngơ",
+  "lậm",
+  "mang máng",
+  "giận hờn",
+  "phác",
+  "tằn tiện",
+  "ỉn",
+  "dăm ba",
+  "chét",
+  "ứng cứu",
+  "xuyến",
+  "trường ca",
+  "sục sạo",
+  "tuần báo",
+  "lật đật",
+  "cửi",
+  "nhớ nhung",
+  "mười bảy",
+  "trau dồi",
+  "thừa thãi",
+  "chấu"
+ ],
+ "flags": [
+  {
+   "headword": "bát quái",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what bát quái is instead of showing its use.",
+   "fix": "Ông treo một chiếc gương bát quái trước cửa nhà. = He hung a bagua mirror in front of the house."
+  },
+  {
+   "headword": "ngơ",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common conversational adjective meaning bewildered or clueless.",
+   "fix": "adj [colloquial] | bewildered; clueless — ex: Sao trông anh ngơ thế? = Why do you look so bewildered?"
+  },
+  {
+   "headword": "lậm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lậm expresses deep involvement or obsession, rather than generally overdoing an activity, as reflected in the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-l%E1%BA%ADm).",
+   "fix": "Remove sense 3; obsession is already covered by sense 1."
+  },
+  {
+   "headword": "ỉn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Ỉn meaning pig or piggy is mainly Northern usage and needs a regional label.",
+   "fix": "tags: [colloquial, humorous, Northern]"
+  }
+ ]
+}

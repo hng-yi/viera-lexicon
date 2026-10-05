@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "củ cải đỏ",
+  "củ khởi",
+  "củ mài",
+  "củ soát",
+  "củ sát",
+  "củ từ",
+  "củ đậu",
+  "củ ấu",
+  "của ít lòng nhiều",
+  "của đâu",
+  "củi lửa",
+  "củng điểm",
+  "cứ liệu",
+  "cứng miệng",
+  "cứt lợn",
+  "cứt mũi",
+  "cứu hoả",
+  "cừu hận",
+  "cừu thị",
+  "cừu địch",
+  "cửa hàng bách hoá",
+  "cửa hàng bách hóa",
+  "cửa hàng tạp hoá",
+  "cửa mình",
+  "cửa quyền",
+  "cửa xoay",
+  "cửa ô",
+  "cửu giác",
+  "cửu tuyền",
+  "cửu vĩ hồ",
+  "cửu vạn",
+  "cự nự",
+  "cự đà",
+  "cực chẳng đã",
+  "cực thịnh",
+  "cực tiểu",
+  "cực trị",
+  "cực tím",
+  "cực tím sâu",
+  "da thuộc"
+ ],
+ "flags": [
+  {
+   "headword": "củ cải đỏ",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The carrot sense is an established Southern usage, so rare is misleading ([reference](https://en.wiktionary.org/wiki/củ_cải_đỏ)).",
+   "fix": "Tags: [Southern]."
+  },
+  {
+   "headword": "củ cải đỏ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The English translation leaves the headword untranslated.",
+   "fix": "Mum bought some carrots to make soup."
+  },
+  {
+   "headword": "củng điểm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which points are apsides instead of showing the term in use.",
+   "fix": "Hãy đánh dấu hai củng điểm trên sơ đồ quỹ đạo. = Mark the two apsides on the orbit diagram."
+  },
+  {
+   "headword": "cứ liệu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Cứ liệu belongs to formal or academic usage and needs a register warning.",
+   "fix": "Tags: [formal]."
+  },
+  {
+   "headword": "cứt mũi",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The expression is coarse and needs a vulgar warning beyond informal ([reference](https://ykhoa.org/chia-se-ngoay-mui-gi-mui/)).",
+   "fix": "Tags: [informal, vulgar]."
+  },
+  {
+   "headword": "cừu hận",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cừu hận means hatred or enmity, not a person who is an enemy ([reference](https://hvdic.thivien.net/hv/cừu%20hận)).",
+   "fix": "Remove sense 3 and its example."
+  },
+  {
+   "headword": "cửu giác",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a nonagon instead of showing the word in use.",
+   "fix": "Em vẽ một hình cửu giác vào vở. = I drew a nonagon in my notebook."
+  },
+  {
+   "headword": "cực trị",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines an extremum instead of showing the term in use.",
+   "fix": "Hãy tìm các điểm cực trị của hàm số này. = Find the extrema of this function."
+  }
+ ]
+}

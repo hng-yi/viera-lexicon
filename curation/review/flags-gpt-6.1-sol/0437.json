@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "cà gỉ",
+  "cà khổ",
+  "cà kê",
+  "cà lem",
+  "cà là gỉ",
+  "cà na",
+  "cà nông",
+  "cà pháo",
+  "cà phê cà pháo",
+  "cà phê sữa đá",
+  "cà phê trứng",
+  "cà phê ôm",
+  "cà phê đá",
+  "cà ra",
+  "cà ràng",
+  "cà rá",
+  "cà rỡn",
+  "cà sáy",
+  "cà trật cà vuột",
+  "cà tum",
+  "cà uồm",
+  "cà vom",
+  "cà vẹo",
+  "cà vẹt",
+  "cà xỉu",
+  "cà độc dược",
+  "cà-mèn",
+  "cài áo",
+  "càm ràm",
+  "càn khôn",
+  "càng cuốc",
+  "càng đông càng vui",
+  "càng đước",
+  "cành nhánh",
+  "cá ba đuôi",
+  "cá biển",
+  "cá bông lau",
+  "cá bống",
+  "cá bột",
+  "cá chiên"
+ ],
+ "flags": [
+  {
+   "headword": "cà độc dược",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what cà độc dược is instead of showing the word in use.",
+   "fix": "Đừng hái hoa cà độc dược trong vườn. = Don't pick the datura flowers in the garden."
+  },
+  {
+   "headword": "càn khôn",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains which hexagrams càn khôn denotes instead of showing the term in use.",
+   "fix": "Ông đang nghiên cứu hai quẻ càn khôn. = He is studying the qian and kun hexagrams."
+  },
+  {
+   "headword": "càng đước",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines càng đước instead of showing the word in use.",
+   "fix": "Chúng tôi thấy một con càng đước bên bờ ao. = We saw a yellow-headed temple turtle beside the pond."
+  }
+ ]
+}

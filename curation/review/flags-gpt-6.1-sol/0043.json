@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "mặt trăng",
+  "thiếu tá",
+  "thương",
+  "lông",
+  "xuất sắc",
+  "kim",
+  "hạt nhân",
+  "bài học",
+  "vội",
+  "thanh",
+  "nướng",
+  "in",
+  "liên kết",
+  "đĩa",
+  "tập đoàn",
+  "đối tượng",
+  "thiếp",
+  "thông qua",
+  "có ích",
+  "gia nhập",
+  "hè",
+  "vườn",
+  "the",
+  "cuộn",
+  "nội",
+  "chủ nhân",
+  "bận tâm",
+  "phân tích",
+  "cỏ",
+  "bẩn",
+  "biên giới",
+  "mọc",
+  "siêu",
+  "alô",
+  "tháp",
+  "nối",
+  "ngưng",
+  "khối",
+  "phản đối",
+  "miễn phí"
+ ],
+ "flags": [
+  {
+   "headword": "thanh",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The literary tag misleadingly excludes ordinary uses describing a clear voice, such as giọng nói rất thanh ([dictionary](https://tudientv.com/?t=thanh)).",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "nội",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning domestic or locally produced, as in hàng nội, is missing ([dictionary](https://tudientv.com/?t=n%E1%BB%99i)).",
+   "fix": "adj | domestic; produced within the country. Example: Tôi thích dùng hàng nội. = I prefer using domestically produced goods."
+  },
+  {
+   "headword": "khối",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Khối means a solid generally, while khối lập phương specifically means a cube ([dictionary](https://tudientv.com/?t=kh%E1%BB%91i)).",
+   "fix": "solid (a three-dimensional geometric body)"
+  }
+ ]
+}

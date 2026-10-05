@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "quẻ",
+  "lang chạ",
+  "hoài cổ",
+  "trấn lột",
+  "nhịp nhàng",
+  "thông tấn",
+  "luồn lách",
+  "bàn giao",
+  "lề mề",
+  "nghĩa bóng",
+  "hình vuông",
+  "mặt trái",
+  "chếch",
+  "chim cút",
+  "ngạo",
+  "bạch kim",
+  "kiểm sát viên",
+  "bánh sinh nhật",
+  "phán xử",
+  "nhám",
+  "mãnh",
+  "tà ma",
+  "bày đặt",
+  "sẩy thai",
+  "loạn lạc",
+  "chu trình",
+  "chập chững",
+  "súc tích",
+  "chồn hôi",
+  "thụi",
+  "lưu truyền",
+  "rành mạch",
+  "rợn",
+  "đầu tay",
+  "nghiệm",
+  "vương vấn",
+  "bất nghĩa",
+  "tịt",
+  "nối nghiệp",
+  "dài dài"
+ ],
+ "flags": [
+  {
+   "headword": "luồn lách",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The word also commonly means to evade rules or restrictions.",
+   "fix": "to evade or get around rules or restrictions"
+  },
+  {
+   "headword": "mặt trái",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of the negative side or drawbacks of something is missing.",
+   "fix": "negative side; downside; drawbacks"
+  },
+  {
+   "headword": "phán xử",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal word for judging or deciding a case, but it has no register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "mãnh",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "A deceased young man's spirit is called ông mãnh, and người mãnh is not a natural expression.",
+   "fix": "Gia đình lập bàn thờ ông mãnh. = The family set up an altar to the spirit of a male relative who died young."
+  },
+  {
+   "headword": "tịt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial meaning of being unable to answer or say anything is missing.",
+   "fix": "[colloquial] to be unable to answer; to have nothing to say"
+  }
+ ]
+}

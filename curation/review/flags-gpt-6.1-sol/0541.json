@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "phi cổ bất thành kim",
+  "phi hư cấu",
+  "phi lao",
+  "phi liên kết",
+  "phi lộ",
+  "phi mã",
+  "phi ngã",
+  "phi quốc xã hoá",
+  "phi quốc xã hóa",
+  "phi thực dân hoá",
+  "phi thực dân hóa",
+  "phi toàn cầu hoá",
+  "phi toàn cầu hóa",
+  "phi vật thể",
+  "phi xuất",
+  "phi đô la hoá",
+  "phi đô la hóa",
+  "phi-dê",
+  "phi-oóc",
+  "phim chiến tranh",
+  "phim chưởng",
+  "phim câm",
+  "phim khiêu dâm",
+  "phim kinh dị",
+  "phim ma",
+  "phim truyện",
+  "phin",
+  "phiên chế",
+  "phiên phiến",
+  "phiên thiết",
+  "phiên âm",
+  "phiêu lưu kí",
+  "phiếm chỉ",
+  "phiếm du",
+  "phiếm hàm",
+  "phiếm luận",
+  "phiếm thần",
+  "phiếm thần luận",
+  "phiếm xưng",
+  "phiếm đàm"
+ ],
+ "flags": [
+  {
+   "headword": "phi-dê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word means instead of using it in context.",
+   "fix": "Bà tôi để tóc phi-dê. = My grandmother wore her hair curled."
+  },
+  {
+   "headword": "phiếm hàm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a functional instead of showing the word in use.",
+   "fix": "Chúng tôi cần tìm giá trị nhỏ nhất của phiếm hàm này. = We need to find the minimum value of this functional."
+  },
+  {
+   "headword": "phiếm thần luận",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains pantheism instead of showing the word in use.",
+   "fix": "Ông ấy nghiên cứu phiếm thần luận trong triết học Spinoza. = He studies pantheism in Spinoza's philosophy."
+  }
+ ]
+}

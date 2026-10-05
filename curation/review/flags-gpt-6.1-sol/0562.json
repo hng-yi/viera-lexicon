@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "sóng soài",
+  "sóng sánh",
+  "sóng triều",
+  "sóng điện từ",
+  "sô-cô-la",
+  "sô-vanh",
+  "sõi sàng",
+  "sõng",
+  "sù sụ",
+  "sùi sụt",
+  "sùm soà",
+  "sùm sòa",
+  "sùng bái hàng hoá",
+  "sùng bái hàng hóa",
+  "sùng phụng",
+  "súng bắn keo",
+  "súng hoả mai",
+  "súng hỏa mai",
+  "súng liên thanh",
+  "súng nước",
+  "súng phun lửa",
+  "súng sáu",
+  "sút giảm",
+  "sút kém",
+  "săn chắc",
+  "săng",
+  "sĩ hoạn",
+  "sĩ nông công thương",
+  "sĩ phu",
+  "sĩ số",
+  "sĩ tử",
+  "sĩ đại phu",
+  "sơ cấp cứu",
+  "sơ kì",
+  "sơ mi rơ mooc",
+  "sơ-mi rơ-moóc",
+  "sơn hà",
+  "sơn hào hải vị",
+  "sơn kê tiêu",
+  "sơn lâm"
+ ],
+ "flags": [
+  {
+   "headword": "sóng triều",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example uses sóng triều for the daily tidal cycle, whereas it denotes waves produced by the rising tide ([definition](https://www.banthedaohaingoai.org/PostedInfo.aspx?CategoryID=18&PostID=579&second=44)).",
+   "fix": "Sóng triều cuồn cuộn đổ vào cửa sông. = Tidal waves surged into the river mouth."
+  },
+  {
+   "headword": "súng sáu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This regional term is used mainly in Southern Vietnamese but lacks a Southern tag ([dictionary](https://loigiaihay.com/tu-dien-tv/sung-sau-edrsPw7eMILLd.html)).",
+   "fix": "tags: [Southern]"
+  },
+  {
+   "headword": "săng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The archaic meaning refers generally to plants or wood, rather than a particular kind of tree ([dictionary](https://en.wiktionary.org/wiki/s%C4%83ng)).",
+   "fix": "plant; wood; timber"
+  }
+ ]
+}

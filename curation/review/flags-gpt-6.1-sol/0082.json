@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tư vấn",
+  "chinh phục",
+  "ủy viên",
+  "khắc nghiệt",
+  "nhúc nhích",
+  "xám",
+  "li",
+  "vận tốc",
+  "rùa",
+  "đáng kể",
+  "dân chúng",
+  "chích",
+  "tử thần",
+  "xung đột",
+  "biệt danh",
+  "áp suất",
+  "chày",
+  "bướm",
+  "phi hành đoàn",
+  "chức năng",
+  "biểu hiện",
+  "tử thi",
+  "mục",
+  "hình dạng",
+  "đề",
+  "bề ngoài",
+  "nhỡ",
+  "chính đáng",
+  "nghịch",
+  "nhãi",
+  "trị liệu",
+  "điện hạ",
+  "nội bộ",
+  "tỉ lệ",
+  "hồi hộp",
+  "xếp hàng",
+  "thiêng liêng",
+  "đặt chân",
+  "cõi",
+  "thác"
+ ],
+ "flags": [
+  {
+   "headword": "bướm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The expression ong bướm describes flirting or womanizing, but bướm alone does not mean a flirtatious or promiscuous person.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "đề",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Đề commonly means to start a vehicle's engine using its starter, a frequent everyday use missing here.",
+   "fix": "verb | to start an engine using the starter; ex: Tôi đề máy mãi mà xe không nổ. = I kept trying to start the engine, but it wouldn't start."
+  },
+  {
+   "headword": "nghịch",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nghịch means inverse or opposite; the full expression tỉ lệ nghịch means inversely proportional.",
+   "fix": "inverse; opposite"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tấu hài",
+  "tầm gửi",
+  "tầm khảo",
+  "tầm quan trọng",
+  "tầm soát",
+  "tầm sư học đạo",
+  "tầm vông",
+  "tầm xuân",
+  "tần ngự",
+  "tần tảo",
+  "tần ô",
+  "tầng ngậm nước",
+  "tầng ôzôn",
+  "tẩn mẩn",
+  "tẩu vi thượng sách",
+  "tẫn mẫu",
+  "tận số",
+  "tận tuỵ",
+  "tập hợp rỗng",
+  "tập lệnh",
+  "tập trung dân chủ",
+  "tập trung quan liêu",
+  "tập xác định",
+  "tật bệnh",
+  "tắc kè hoa",
+  "tắc te",
+  "tắc tị",
+  "tắc đường",
+  "tắp",
+  "tằng hắng",
+  "tằng tịu",
+  "tẻo tèo teo",
+  "tế bào chất",
+  "tế bào gốc",
+  "tế bào học",
+  "tế bào quang điện",
+  "tế bào sắc tố",
+  "tế tự",
+  "tết nhất",
+  "tệ nạn xã hội"
+ ],
+ "flags": [
+  {
+   "headword": "tần ô",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Tần ô” is mainly the Southern name for this vegetable and needs a regional label ([source](https://vnexpress.net/mien-nam-goi-la-tan-o-mien-bac-goi-la-gi-4777765-p2.html)).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "tết nhất",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Tết nhất” refers to the Tet holiday period, not Tet plus other holidays ([source](https://znews.vn/sao-noi-tet-nhat-ma-khong-noi-tet-nhi-tet-ba-post1453346.html)).",
+   "fix": "Tet; the Tet holiday season"
+  },
+  {
+   "headword": "tết nhất",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The translation adds other holidays that “Tết nhất” does not denote ([source](https://znews.vn/sao-noi-tet-nhat-ma-khong-noi-tet-nhi-tet-ba-post1453346.html)).",
+   "fix": "With Tet so near, every household is busy shopping."
+  }
+ ]
+}

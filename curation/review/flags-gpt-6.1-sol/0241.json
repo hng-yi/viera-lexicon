@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "chán chường",
+  "thơ mộng",
+  "dây chằng",
+  "mó",
+  "nhỏ thó",
+  "lan tỏa",
+  "chịu chơi",
+  "dởm",
+  "trùn",
+  "cuồng sát",
+  "chiến lũy",
+  "guồng",
+  "giày dép",
+  "giỗ",
+  "hội quán",
+  "bán thần",
+  "tụng",
+  "cực đại",
+  "lia",
+  "bần tiện",
+  "đeo đuổi",
+  "la làng",
+  "tằm",
+  "tự trị",
+  "nồng nặc",
+  "tràn lan",
+  "ưng ý",
+  "tìm tòi",
+  "âm lượng",
+  "khoác lác",
+  "đả",
+  "ngạnh",
+  "ngôn luận",
+  "phò mã",
+  "thanh mảnh",
+  "khoảnh",
+  "tiểu tiện",
+  "vài ba",
+  "bại liệt",
+  "Đông Âu"
+ ],
+ "flags": [
+  {
+   "headword": "cuồng sát",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Cuồng sát means killing in a frenzy; in the example, muốn supplies the desire, so this does not establish a separate meaning of feeling an urge to kill.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "bần tiện",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense expresses contempt for someone's mean, petty character, as the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%A7n%20ti%E1%BB%87n) confirms.",
+   "fix": "Tags: colloquial, derogatory."
+  },
+  {
+   "headword": "bần tiện",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The poverty sense is marked obsolete in the [dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%E1%BA%A7n%20ti%E1%BB%87n), so literary alone does not adequately label it.",
+   "fix": "Tags: literary, dated."
+  },
+  {
+   "headword": "ngạnh",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Ngạnh cổ is not a natural Vietnamese expression for remaining stubborn or refusing to submit.",
+   "fix": "Remove this example."
+  }
+ ]
+}

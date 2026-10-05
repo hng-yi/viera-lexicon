@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "di",
+  "dõi",
+  "làm chủ",
+  "mặt trận",
+  "nổi bật",
+  "được cái",
+  "ủy ban",
+  "vi khuẩn",
+  "hành quân",
+  "di sản",
+  "sa",
+  "hương",
+  "nữ thần",
+  "vướng",
+  "tổng hợp",
+  "mẩu",
+  "tàu điện ngầm",
+  "đành",
+  "vật chất",
+  "tôn",
+  "do dự",
+  "cừ",
+  "lãnh địa",
+  "gom",
+  "bù",
+  "hiệp ước",
+  "phối hợp",
+  "thâm nhập",
+  "ngoại lệ",
+  "tử vong",
+  "ràng buộc",
+  "tra",
+  "học viện",
+  "thăm dò",
+  "trọng đại",
+  "lạnh lùng",
+  "cầm đầu",
+  "tát",
+  "trình",
+  "chống cự"
+ ],
+ "flags": [
+  {
+   "headword": "bù",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bù means adding enough to make up a shortfall, not straightening or levelling something, as shown in the [dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-b%C3%B9).",
+   "fix": "Remove sense 2 and place its example under sense 1."
+  },
+  {
+   "headword": "cầm đầu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Cầm đầu implies leading people in wrongdoing, so using it for an ordinary leader can insult them ([dictionary definition](https://vi.wiktionary.org/wiki/c%E1%BA%A7m_%C4%91%E1%BA%A7u)).",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "trình",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial noun meaning skill level or ability is missing ([dictionary definition](https://vi.wiktionary.org/wiki/tr%C3%ACnh)).",
+   "fix": "noun [colloquial] | skill level; ability. ex: Trình của anh ấy cao hơn tôi. = His skill level is higher than mine."
+  }
+ ]
+}

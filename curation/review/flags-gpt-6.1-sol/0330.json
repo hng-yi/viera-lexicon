@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "mặc nhiên",
+  "thân hữu",
+  "tính từ",
+  "vương tử",
+  "mủn",
+  "hả dạ",
+  "chọc phá",
+  "đạo mạo",
+  "Đông y",
+  "nẳm",
+  "xúm",
+  "cun cút",
+  "rọ mõm",
+  "trạng",
+  "bứng",
+  "ra sao",
+  "lé",
+  "gièm pha",
+  "hướng đạo sinh",
+  "nhân khẩu",
+  "lộ liễu",
+  "lút",
+  "nhà vườn",
+  "cơ sở vật chất",
+  "nội y",
+  "kết tủa",
+  "capo",
+  "cầy",
+  "ghè",
+  "hoạn quan",
+  "tâm đắc",
+  "hàm số",
+  "tái bản",
+  "nhơn",
+  "vón",
+  "bóng vợt",
+  "bích quy",
+  "đối chứng",
+  "phát dục",
+  "tinh binh"
+ ],
+ "flags": [
+  {
+   "headword": "thân hữu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thân hữu means close friends, rather than relatives or loved ones generally, as defined in [VDict](https://vdict.com/th%C3%A2n%20h%E1%BB%AFu%2C3%2C0%2C0.html).",
+   "fix": "close friends"
+  },
+  {
+   "headword": "lé",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The cross-eyed sense is primarily Southern usage and needs a regional label; [Wiktionary](https://vi.wiktionary.org/wiki/l%C3%A9) marks this sense as dialectal.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "nhân khẩu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In the example, nhân khẩu denotes individual household members, not their number, a distinction reflected in [Wiktionary](https://vi.wiktionary.org/wiki/nh%C3%A2n_kh%E1%BA%A9u).",
+   "fix": "person counted as a member of a household or population; population"
+  },
+  {
+   "headword": "nhà vườn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common housing sense of a house with a garden, which is included in [Rung.vn](https://www.rung.vn/dict/vn_vn/Nh%C3%A0_v%C6%B0%E1%BB%9Dn).",
+   "fix": "house with a garden"
+  },
+  {
+   "headword": "cầy",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common food-related meaning referring to dog or dog meat is missing, although it is recorded in [Wiktionary](https://vi.wiktionary.org/wiki/c%E1%BA%A7y).",
+   "fix": "dog (especially as food); dog meat"
+  },
+  {
+   "headword": "phát dục",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phát dục refers to development or reaching puberty, whereas being in heat is động dục; the developmental meanings are recorded in [Vtudien](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ph%C3%A1t%20d%E1%BB%A5c).",
+   "fix": "to reach puberty; to become sexually mature"
+  }
+ ]
+}

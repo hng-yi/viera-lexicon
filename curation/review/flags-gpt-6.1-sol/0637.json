@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đình lạm",
+  "đìu hiu",
+  "đía",
+  "đính kèm",
+  "đít chai",
+  "đòi cơn",
+  "đòm",
+  "đòng đong",
+  "đòng đòng",
+  "đói cho sạch, rách cho thơm",
+  "đóng cửa dạy nhau",
+  "đóng khung",
+  "đóng thùng",
+  "đô hội",
+  "đô la hoá",
+  "đô la hóa",
+  "đô thị hoá",
+  "đô thị hóa",
+  "đô trưởng",
+  "đôi lứa",
+  "đôla hóa",
+  "đôn",
+  "đôn hậu",
+  "đông sương",
+  "đông trùng hạ thảo",
+  "đùm",
+  "đùm bọc",
+  "đùm đùm đề đề",
+  "đúc rút",
+  "đúng giờ",
+  "đúp lờ vê",
+  "đăm",
+  "đăm đăm",
+  "đăng bạ",
+  "đăng bộ",
+  "đăng lục",
+  "đăng tiêu hoa to",
+  "đĩ ngựa",
+  "đĩa bay",
+  "đĩa bán dẫn"
+ ],
+ "flags": [
+  {
+   "headword": "đòi cơn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example unnaturally treats đòi cơn as an adjective modifying pain, whereas its attested use means repeatedly, as in sụt sùi đòi cơn ([linguistic study](https://vjol.info.vn/index.php/VSS/article/download/32719/27821/)).",
+   "fix": "Nàng sụt sùi đòi cơn. = She sobbed repeatedly."
+  },
+  {
+   "headword": "đùm đùm đề đề",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern but lacks a regional tag ([usage description](https://phunumoi.net.vn/ngon-ngu-mien-tay-premium-gay-sot-cung-o-viet-nam-ma-nghe-xong-phai-di-tra-google-lien-d333060.html)).",
+   "fix": "[Southern, colloquial]"
+  },
+  {
+   "headword": "đúp lờ vê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it in context.",
+   "fix": "Mã này bắt đầu bằng đúp lờ vê. = This code starts with W."
+  }
+ ]
+}

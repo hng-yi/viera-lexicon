@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "eo",
+  "thỏi",
+  "phác thảo",
+  "phi pháp",
+  "động thái",
+  "bánh kếp",
+  "rao",
+  "giấu giếm",
+  "cao tốc",
+  "lăng mộ",
+  "quốc vương",
+  "cương",
+  "sảy",
+  "hiến binh",
+  "hạch",
+  "tê giác",
+  "gan dạ",
+  "bản tính",
+  "nghẹn",
+  "thỉnh cầu",
+  "đất sét",
+  "ăn chơi",
+  "lắp đặt",
+  "cá tính",
+  "oan",
+  "dằn vặt",
+  "thăng tiến",
+  "thiên nga",
+  "bà xã",
+  "mẹo",
+  "đình chiến",
+  "Đan Mạch",
+  "cáp",
+  "dao găm",
+  "rình mò",
+  "thủ đoạn",
+  "trừng trị",
+  "ước tính",
+  "công tố",
+  "liệu pháp"
+ ],
+ "flags": [
+  {
+   "headword": "quốc vương",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Nước bạn means a friendly country, which need not be a neighbouring country.",
+   "fix": "The king and queen visited a friendly country."
+  },
+  {
+   "headword": "cương",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The physical sense denotes swelling or engorgement from accumulated bodily fluids, rather than general stiffness or rigidity ([dictionary](https://www.rung.vn/dict/vn_vn/C%C6%B0%C6%A1ng)).",
+   "fix": "swollen; engorged (with blood, pus or milk)"
+  },
+  {
+   "headword": "cương",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "A neck stiff from cold would be described as cứng, not cương cứng.",
+   "fix": "Hai bầu vú của chị ấy bị cương vì sữa về nhiều. = Her breasts became engorged because she was producing a lot of milk."
+  },
+  {
+   "headword": "thỉnh cầu",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The verb is formal, but uncommon alone does not warn the learner about its register ([dictionary](https://vdict.com/th%E1%BB%89nh%20c%E1%BA%A7u%2C3%2C0%2C0.html?lang=en)).",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "cá tính",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday Vietnamese also uses cá tính adjectivally for someone with a strong individual personality or a distinctive style ([usage example](https://vnexpress.net/lam-sao-chinh-phuc-mot-co-gai-ca-tinh-3112834.html)).",
+   "fix": "adj | strong-minded; having a distinctive personality or style"
+  },
+  {
+   "headword": "mẹo",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the word's meaning instead of using it to refer to grammar.",
+   "fix": "Ông học mẹo tiếng Pháp ở trường. = He studied French grammar at school."
+  }
+ ]
+}

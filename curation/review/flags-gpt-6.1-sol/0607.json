@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "từ quyển",
+  "từ sông ra biển",
+  "từ trái nghĩa",
+  "từ tính",
+  "từ tạ",
+  "từ tố",
+  "từ tốn",
+  "từ vị",
+  "từ vựng",
+  "từ ái",
+  "từ đầu đến chân",
+  "từ đồng nghĩa",
+  "từa lưa",
+  "từa lưa tà la",
+  "từng lớp",
+  "tử ngữ",
+  "tử suất",
+  "tử số",
+  "tử vong học",
+  "tử vì đạo",
+  "tửa",
+  "tửu quán",
+  "tự biên tự diễn",
+  "tự cao",
+  "tự chế",
+  "tự cường",
+  "tự diễn biến",
+  "tự do báo chí",
+  "tự do chủ nghĩa",
+  "tự do hoá",
+  "tự do hóa",
+  "tự do ngôn luận",
+  "tự kỉ ám thị",
+  "tự luận",
+  "tự làm tự chịu",
+  "tự miễn",
+  "tự miễn dịch",
+  "tự ngã",
+  "tự sinh tự diệt",
+  "tự sắc"
+ ],
+ "flags": [
+  {
+   "headword": "tử vong học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the subject instead of showing the term in use.",
+   "fix": "Cô đang nghiên cứu tử vong học. = She is studying thanatology."
+  },
+  {
+   "headword": "tự chế",
+   "sense": 3,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The self-restraint sense is formal and would sound unusually bookish in casual conversation.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tự chế",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The self-control sense is formal and needs a warning against ordinary conversational use.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tự cường",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal word commonly used in elevated statements about personal or national strength.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tự miễn",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what an autoimmune disease is instead of showing the word in a situation.",
+   "fix": "Cô ấy mắc một bệnh tự miễn. = She has an autoimmune disease."
+  },
+  {
+   "headword": "tự miễn dịch",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines autoimmunity instead of using the term in context.",
+   "fix": "Nhóm nghiên cứu đang tìm hiểu cơ chế tự miễn dịch. = The research team is investigating the mechanisms of autoimmunity."
+  },
+  {
+   "headword": "tự sinh tự diệt",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss assigns the act of leaving something alone to the phrase, whereas the phrase describes what happens independently.",
+   "fix": "to arise, develop and die out on its own; to fend for itself"
+  },
+  {
+   "headword": "tự sắc",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the defining property of an idiochromatic mineral instead of using the term in context.",
+   "fix": "Cô ấy đang phân tích một mẫu khoáng vật tự sắc. = She is analyzing a sample of an idiochromatic mineral."
+  }
+ ]
+}

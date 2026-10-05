@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "chiền chiện",
+  "tranh biện",
+  "cứu chúa",
+  "lém lỉnh",
+  "mộ chí",
+  "Cơ Đốc nhân",
+  "gió lùa",
+  "gia cảnh",
+  "héo hắt",
+  "vectơ",
+  "còm nhom",
+  "chi dùng",
+  "huyết chiến",
+  "đậu lăng",
+  "dày cộp",
+  "lộng quyền",
+  "đăng cai",
+  "quân hành",
+  "bể phốt",
+  "miu",
+  "kính chúc",
+  "đặc hiệu",
+  "dưỡng chất",
+  "đất nung",
+  "cheo leo",
+  "tráo trở",
+  "lưa thưa",
+  "sơn dương",
+  "hoạt ngôn",
+  "thiên chức",
+  "thềm lục địa",
+  "gió mùa",
+  "nhài",
+  "triệt",
+  "băng rôn",
+  "lí sự",
+  "điêu ngoa",
+  "cố công",
+  "nhạc điện tử",
+  "cá chạch"
+ ],
+ "flags": [
+  {
+   "headword": "vectơ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a vector instead of showing the word in use.",
+   "fix": "Hãy vẽ vectơ AB. = Draw vector AB."
+  },
+  {
+   "headword": "quân hành",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "In “Đại quân hành”, “quân” belongs to “đại quân”, so the sentence fails to demonstrate the verb “quân hành”.",
+   "fix": "Đoàn binh quân hành về phía nam trước lúc rạng đông. = The troops marched south before dawn."
+  },
+  {
+   "headword": "bể phốt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This term is used mainly in Northern Vietnamese, as described in this [regional usage explanation](https://moitruongsachhoanglong.vn/blog/hut-be-phot-khanh-hoa-va-su-khac-biet-voi-ham-cau/).",
+   "fix": "[Northern]"
+  },
+  {
+   "headword": "điêu ngoa",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is a derogatory accusation of habitual lying, identified as disparaging in this [dictionary entry](https://loigiaihay.com/tu-dien-tv/dieu-ngoa-e1aniU1ai9b1D.html).",
+   "fix": "[derogatory]"
+  }
+ ]
+}

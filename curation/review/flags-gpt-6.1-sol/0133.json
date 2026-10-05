@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "phụng sự",
+  "phẫn nộ",
+  "phụ thân",
+  "nhăn",
+  "thợ may",
+  "ngộ",
+  "chứng nhận",
+  "tiếp tế",
+  "điều chế",
+  "bàn giấy",
+  "đắng",
+  "khâm phục",
+  "nhe",
+  "đền đáp",
+  "ống kính",
+  "áp đặt",
+  "địa cầu",
+  "tuốt",
+  "dự bị",
+  "ngập tràn",
+  "phóng thích",
+  "cấp bậc",
+  "thuần",
+  "xếp hình",
+  "lưu giữ",
+  "kì cục",
+  "lãi",
+  "hung dữ",
+  "toàn quốc",
+  "tiểu sử",
+  "thơ ấu",
+  "xa xưa",
+  "sở trường",
+  "bản lĩnh",
+  "tay trên",
+  "dội",
+  "hiểm nguy",
+  "chung kết",
+  "chần chừ",
+  "sách vở"
+ ],
+ "flags": [
+  {
+   "headword": "ngộ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This meaning also belongs to general Vietnamese and is not specifically Southern ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ng%E1%BB%99)).",
+   "fix": "Remove Southern."
+  },
+  {
+   "headword": "ngộ",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines enlightenment instead of showing the word in use.",
+   "fix": "Ông đạt tới ngộ sau nhiều năm tu tập. = He attained enlightenment after many years of Buddhist practice."
+  },
+  {
+   "headword": "ngộ",
+   "sense": 6,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ngộ does not mean hot-tempered.",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "địa cầu",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits Earth, the planet itself, a central meaning of địa cầu ([dictionary](https://vi.glosbe.com/vi/en/%C4%90%E1%BB%8Ba%20C%E1%BA%A7u)).",
+   "fix": "Add noun: Earth; the globe (the planet)."
+  },
+  {
+   "headword": "tuốt",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tuốt means stripping or pulling something out, not whittling or sharpening ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-tu%E1%BB%91t)).",
+   "fix": "Remove this sense."
+  },
+  {
+   "headword": "lãi",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The intestinal-worm meaning is Southern regional usage and needs a regional warning.",
+   "fix": "Add Southern to the tags."
+  }
+ ]
+}

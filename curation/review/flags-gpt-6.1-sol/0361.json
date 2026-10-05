@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "mảnh dẻ",
+  "lấm",
+  "nho nhã",
+  "thế cục",
+  "ứng tác",
+  "quai bị",
+  "um sùm",
+  "rađi",
+  "sạt lở",
+  "tà phái",
+  "sạo",
+  "giống như",
+  "thương phẩm",
+  "nhắm nghiền",
+  "thui chột",
+  "vung vãi",
+  "thừa thắng",
+  "oản",
+  "lữ quán",
+  "quân bình",
+  "phôi pha",
+  "đực rựa",
+  "tiền phong",
+  "khới",
+  "bạch chỉ",
+  "thị uy",
+  "rưng rưng",
+  "bia hơi",
+  "xoong",
+  "xen lẫn",
+  "dào ôi",
+  "lưng tròng",
+  "ưu sinh",
+  "kinh khủng khiếp",
+  "soóc",
+  "kiến thiết",
+  "chết yểu",
+  "Mặc Môn",
+  "lấm lét",
+  "loe"
+ ],
+ "flags": [
+  {
+   "headword": "rađi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines radium instead of showing the word in use.",
+   "fix": "Các nhà khoa học tìm thấy rađi trong mẫu quặng này. = The scientists found radium in this ore sample."
+  },
+  {
+   "headword": "oản",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Oản is made from glutinous rice flour and sugar, rather than pressed sticky rice ([traditional producer](https://tinhngoc.vn/san-pham/oan-khay-co/)).",
+   "fix": "truncated-cone-shaped sweet made from glutinous rice flour and sugar, offered at pagodas and altars"
+  },
+  {
+   "headword": "tiền phong",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The sporting sense refers to a basketball forward, not a football striker ([basketball teaching material](https://bongrotuoitre.vn/wp-content/uploads/2020/06/download-giao-an-bong-ro-bongrotuoitre.vn_.pdf)).",
+   "fix": "forward (basketball)"
+  },
+  {
+   "headword": "tiền phong",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Ghi hai bàn places the example in football rather than the basketball sense.",
+   "fix": "Anh ấy chơi ở vị trí tiền phong trong đội bóng rổ. = He plays forward on the basketball team."
+  },
+  {
+   "headword": "bạch chỉ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bạch chỉ does not mean a state of mental clarity.",
+   "fix": "Delete sense 2 and its example."
+  },
+  {
+   "headword": "lưng tròng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Bà mắt lưng tròng is an unnatural construction in this sentence.",
+   "fix": "Nghe tin dữ, mắt bà lưng tròng. = Hearing the bad news, her eyes brimmed with tears."
+  },
+  {
+   "headword": "kiến thiết",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Kiến thiết remains current in formal usage and should not be labelled dated ([dictionary entry](https://vdict.com/ki%E1%BA%BFn%20thi%E1%BA%BFt%2C3%2C0%2C0.html)).",
+   "fix": "Replace dated with formal."
+  }
+ ]
+}

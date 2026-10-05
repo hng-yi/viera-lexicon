@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "hội",
+  "bờ",
+  "thực tế",
+  "xương",
+  "so",
+  "chữa",
+  "ngón",
+  "sắt",
+  "đụng",
+  "cửa sổ",
+  "sĩ quan",
+  "bất kì",
+  "nhạc",
+  "khủng bố",
+  "đâu đó",
+  "mẹ con",
+  "vé",
+  "ngã",
+  "hình ảnh",
+  "nữ hoàng",
+  "dựa",
+  "quốc gia",
+  "dần",
+  "bả",
+  "lỗ",
+  "leo",
+  "A",
+  "a",
+  "họp",
+  "bắt cóc",
+  "xác nhận",
+  "thấp",
+  "chai",
+  "phù thủy",
+  "hỗ trợ",
+  "tiêu diệt",
+  "máy tính",
+  "kho",
+  "dạo",
+  "chiếm"
+ ],
+ "flags": [
+  {
+   "headword": "hội",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The traditional time unit is 10,800 years, not sixty years ([Hán Nôm dictionary](https://hvdic.thivien.net/whv/會)).",
+   "fix": "cycle of 10,800 years; Người xưa tính một hội là mười nghìn tám trăm năm. = In the old reckoning, one hội was 10,800 years."
+  },
+  {
+   "headword": "so",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense means to hunch or raise one's shoulders, not to square them or compare people's heights ([dictionary](https://vi.wiktionary.org/wiki/so)).",
+   "fix": "to hunch one's shoulders"
+  },
+  {
+   "headword": "so",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example describes comparing heights rather than hunching one's shoulders.",
+   "fix": "Trời lạnh, nó ngồi so vai rụt cổ. = It was cold, so he sat with his shoulders hunched and his neck tucked in."
+  },
+  {
+   "headword": "ngón",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The skill or trick sense is used in ordinary speech and is not restricted to literary language ([dictionary](https://vi.wiktionary.org/wiki/ngón)).",
+   "fix": "Remove literary."
+  },
+  {
+   "headword": "đụng",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Cột điện means an electricity pole, not a telegraph pole.",
+   "fix": "The motorbike hit an electricity pole."
+  },
+  {
+   "headword": "ngã",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Ngã does not encode staying down as a separate meaning ([dictionary](https://vi.wiktionary.org/wiki/ngã)).",
+   "fix": "Merge into sense 1: to fall down; to topple over."
+  },
+  {
+   "headword": "chai",
+   "sense": 4,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Chai meaning one million dong is established Southern slang rather than rare usage ([slang dictionary](https://www.tudientienglong.com/word/1-chai)).",
+   "fix": "Southern, slang"
+  }
+ ]
+}

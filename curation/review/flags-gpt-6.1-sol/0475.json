@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "hành thư",
+  "hành tím",
+  "hào môn",
+  "hào sảng",
+  "hàu đá",
+  "há miệng chờ sung",
+  "hán tử",
+  "háo nước",
+  "hát bội",
+  "hát chèo",
+  "hát tuồng",
+  "hát xướng",
+  "hãn hữu",
+  "hãn quốc",
+  "hãng tin",
+  "hèo",
+  "héc-ta",
+  "héo queo",
+  "héo quắt",
+  "héo ruột",
+  "héo úa",
+  "hét ra lửa",
+  "hê-rô-in",
+  "hì hục",
+  "hì hụi",
+  "hình bán nguyệt",
+  "hình bình hành",
+  "hình chóp",
+  "hình dung từ",
+  "hình hoạ",
+  "hình họa",
+  "hình hộp chữ nhật",
+  "hình lập phương",
+  "hình nhi thượng học",
+  "hình nền",
+  "hình thanh",
+  "hình thái học",
+  "hình tích",
+  "hình vị",
+  "hí ha hí hửng"
+ ],
+ "flags": [
+  {
+   "headword": "hán tử",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Trông anh ta là một…” is not a natural Vietnamese construction.",
+   "fix": "Anh ta là một hán tử vạm vỡ. = He is a big, sturdy fellow."
+  },
+  {
+   "headword": "háo nước",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The thirst sense is ordinary contemporary usage, including thirst after salty food, rather than rare ([dictionary](https://vdict.com/h%C3%A1o%2C3%2C0%2C0.html)).",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "hát bội",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "“Hát bội” is mainly the Southern name for this art form and needs a regional label ([source](https://baoquangnam.vn/hat-boi-quang-nam-3027410.html)).",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "hê-rô-in",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what heroin is instead of showing the word in use.",
+   "fix": "Cảnh sát phát hiện hê-rô-in trong túi của hắn. = The police found heroin in his bag."
+  },
+  {
+   "headword": "hình bình hành",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a parallelogram instead of using the word in context.",
+   "fix": "Em hãy tính diện tích hình bình hành này. = Calculate the area of this parallelogram."
+  },
+  {
+   "headword": "hình dung từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the old term instead of showing it in use.",
+   "fix": "Trong sách ngữ pháp cũ này, tác giả dành một chương cho hình dung từ. = In this old grammar book, the author devotes a chapter to adjectives."
+  },
+  {
+   "headword": "hình nhi thượng học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example introduces the name of the field instead of showing the word in use.",
+   "fix": "Ông dành nhiều năm nghiên cứu hình nhi thượng học. = He spent many years studying metaphysics."
+  },
+  {
+   "headword": "hình thái học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what morphology studies instead of showing the word in use.",
+   "fix": "Học kỳ này tôi học hình thái học. = I am studying morphology this semester."
+  }
+ ]
+}

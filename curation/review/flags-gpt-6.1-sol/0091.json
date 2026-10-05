@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "nhục nhã",
+  "đa số",
+  "đăng kí",
+  "khuyến khích",
+  "nắp",
+  "lốc",
+  "độn",
+  "dạy dỗ",
+  "liếm",
+  "xì",
+  "hỏa lực",
+  "dân số",
+  "hạt giống",
+  "nực",
+  "xe ngựa",
+  "trình bày",
+  "lâu dài",
+  "Thượng Hải",
+  "giả bộ",
+  "Thụy Sĩ",
+  "hi",
+  "đa",
+  "mặt khác",
+  "gia tăng",
+  "sinh tồn",
+  "mâu thuẫn",
+  "hoàn thiện",
+  "phục tùng",
+  "nêu",
+  "tối tăm",
+  "khoái",
+  "thế lực",
+  "rán",
+  "họng",
+  "han",
+  "chu đáo",
+  "nhử",
+  "cứ việc",
+  "qua mặt",
+  "đổ bộ"
+ ],
+ "flags": [
+  {
+   "headword": "nực",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Standalone nực meaning hot is mainly Central and Southern usage, as documented in this [regional vocabulary comparison](https://www.thuvienlamdong.org.vn/Files/Books/163080.pdf).",
+   "fix": "Add tags: Central, Southern."
+  },
+  {
+   "headword": "gia tăng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Gia tăng belongs mainly to formal speech and writing, so the missing warning encourages an inappropriate casual register ([dictionary usage guidance](https://vdict.com/gia%20t%C4%83ng%2C3%2C0%2C0.html)).",
+   "fix": "Add tag: formal."
+  }
+ ]
+}

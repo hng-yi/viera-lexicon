@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tắm rửa",
+  "nồi",
+  "cóc",
+  "bong bóng",
+  "yến",
+  "trợ cấp",
+  "nghiêm",
+  "chê",
+  "khiêng",
+  "hoảng",
+  "quy luật",
+  "qua lại",
+  "phản công",
+  "kim tự tháp",
+  "què",
+  "nghĩa đen",
+  "hội chợ",
+  "xuất huyết",
+  "tuyệt chủng",
+  "bàn tán",
+  "nha sĩ",
+  "triều đình",
+  "tiếp quản",
+  "bản nhạc",
+  "gắn bó",
+  "mật ong",
+  "thứ hai",
+  "yếu ớt",
+  "luồng",
+  "ngày tháng",
+  "trích dẫn",
+  "lờ",
+  "xui xẻo",
+  "phải chi",
+  "cảnh tượng",
+  "kĩ thuật",
+  "mù quáng",
+  "tay chân",
+  "căn bản",
+  "di chúc"
+ ],
+ "flags": [
+  {
+   "headword": "cóc",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example inserts an obsolete verb into modern conversational Vietnamese, where native speakers would not use it this way ([historical usage](https://en.wiktionary.org/wiki/c%C3%B3c#Etymology_4)).",
+   "fix": "Use an attested historical example: Cóc hay sự thế dữ lành được thua. = To know worldly affairs, good and bad, gain and loss."
+  },
+  {
+   "headword": "yến",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common standalone meaning 'edible swiftlet's nest' is missing, although it is distinct from the bird itself ([dictionary](https://vi.wiktionary.org/wiki/y%E1%BA%BFn)).",
+   "fix": "noun | edible swiftlet's nest (as food); ex: Mẹ chưng yến với đường phèn. = Mum steams edible bird's nest with rock sugar."
+  },
+  {
+   "headword": "qua lại",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of maintaining social contact or a relationship with someone is missing.",
+   "fix": "verb | to associate with; to maintain a relationship with; ex: Hai gia đình vẫn qua lại với nhau. = The two families still keep in touch."
+  },
+  {
+   "headword": "què",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling a person 'què' can be derogatory, but the entry lacks a warning tag.",
+   "fix": "tags: colloquial, derogatory"
+  }
+ ]
+}

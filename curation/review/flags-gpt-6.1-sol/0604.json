@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "tỉ dụ",
+  "tỉ giá hối đoái",
+  "tỉ lệ nghịch",
+  "tỉ lệ xích",
+  "tỉ như",
+  "tỉ trọng",
+  "tỉnh bang",
+  "tỉnh dậy",
+  "tỉnh lược",
+  "tỉnh lị",
+  "tỉnh lộ",
+  "tỉnh rượu",
+  "tỉnh rụi",
+  "tỉnh uỷ",
+  "tỉnh ủy",
+  "tị hiềm",
+  "tịch cốc",
+  "tịch liêu",
+  "tịch mịch",
+  "tịnh thất",
+  "tịnh tiến",
+  "tịnh xá",
+  "tịnh độ",
+  "tọa thiền",
+  "tọp",
+  "tỏ ra",
+  "tỏ ý",
+  "tố hộ",
+  "tố nga",
+  "tố nữ",
+  "tốc kí",
+  "tốc kế",
+  "tối hậu thư",
+  "tối kiến",
+  "tối kị",
+  "tối tăm mặt mũi",
+  "tối đê",
+  "tốt khoe xấu che",
+  "tốt thông",
+  "tồ tồ"
+ ],
+ "flags": [
+  {
+   "headword": "tố hộ",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This verb specifically describes a peafowl's cry, not bird calls generally ([dictionary](https://v2.rung.vn/dict/vn_vn/T%E1%BB%91_h%E1%BB%99)).",
+   "fix": "to cry; to call (of a peafowl)"
+  },
+  {
+   "headword": "tố hộ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Using tố hộ for a rooster teaches an incorrect usage.",
+   "fix": "Con công tố hộ ngoài vườn. = The peafowl cries in the garden."
+  },
+  {
+   "headword": "tố nga",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are most likely to encounter the beautiful-woman sense, notably in Truyện Kiều ([dictionary](https://vi.wiktionary.org/wiki/t%E1%BB%91_nga)).",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "tố nga",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines tố nga instead of using it to refer to the goddess.",
+   "fix": "Tố Nga ngự trên cung trăng. = Chang'e dwells in the moon palace."
+  }
+ ]
+}

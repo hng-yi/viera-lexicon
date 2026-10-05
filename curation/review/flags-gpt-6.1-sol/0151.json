@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "tiểu đội",
+  "dậy thì",
+  "đun",
+  "chống chọi",
+  "chủ ý",
+  "giở",
+  "phao",
+  "hòa thuận",
+  "thong thả",
+  "vô tư",
+  "biện minh",
+  "khuấy động",
+  "thú y",
+  "bản quyền",
+  "ngả",
+  "trinh thám",
+  "dạy học",
+  "thánh thượng",
+  "tác chiến",
+  "giải đáp",
+  "kết cấu",
+  "tâm lí",
+  "bộn",
+  "làm phép",
+  "đánh đuổi",
+  "bit",
+  "nông",
+  "gán",
+  "chu cấp",
+  "thượng lưu",
+  "cán bộ",
+  "phụ tùng",
+  "kì quái",
+  "ảm đạm",
+  "hành nghề",
+  "thuận tiện",
+  "ức chế",
+  "nam tước",
+  "động tĩnh",
+  "cày"
+ ],
+ "flags": [
+  {
+   "headword": "ngả",
+   "sense": 6,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The face-up sense is regional Central Vietnamese, as documented in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf), and needs a regional warning.",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "tâm lí",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common adjective meaning understanding of other people's feelings, recorded in [VDict](https://vdict.com/t%C3%A2m%20l%C3%AD%2C3%2C0%2C0.html).",
+   "fix": "adj | understanding; considerate (of other people's feelings) — ex: Cô ấy rất tâm lí. = She is very understanding."
+  }
+ ]
+}

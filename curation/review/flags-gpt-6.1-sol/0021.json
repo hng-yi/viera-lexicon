@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "vì vậy",
+  "hành tinh",
+  "loài",
+  "khóc",
+  "kẻ thù",
+  "hình như",
+  "vì thế",
+  "xanh",
+  "liệu",
+  "ngăn",
+  "rút",
+  "tắm",
+  "trái tim",
+  "nóng",
+  "im",
+  "tự nhiên",
+  "nhân viên",
+  "thuyền trưởng",
+  "dấu",
+  "nam",
+  "trễ",
+  "cơ thể",
+  "nửa",
+  "ý tưởng",
+  "sống sót",
+  "sư phụ",
+  "tầm",
+  "hại",
+  "giấu",
+  "thất bại",
+  "Á",
+  "á",
+  "chương trình",
+  "phục vụ",
+  "đẩy",
+  "miệng",
+  "giới thiệu",
+  "lễ",
+  "nạn nhân",
+  "luật"
+ ],
+ "flags": [
+  {
+   "headword": "loài",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This use of loài, including in loài người, is current Vietnamese rather than archaic.",
+   "fix": "Remove the archaic tag."
+  },
+  {
+   "headword": "xanh",
+   "sense": 5,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Mỡ chảy ra describes the fat melting in the pan, rather than running out of it.",
+   "fix": "Going down to the kitchen, Vịnh poured fat into the pan. The fat melted with a sizzle."
+  },
+  {
+   "headword": "tự nhiên",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The adjective meaning natural is much more common in everyday Vietnamese than the noun meaning nature.",
+   "fix": "Put sense 2 first."
+  },
+  {
+   "headword": "sống sót",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Sống sót means surviving a life-threatening situation and does not require that other people died.",
+   "fix": "to survive; to remain alive after danger, an accident or a disaster"
+  },
+  {
+   "headword": "tầm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Tránh xa tầm tay trẻ em tells someone to stay away from children's reach rather than telling them to keep an object out of reach.",
+   "fix": "Để thuốc xa tầm tay trẻ em. = Keep medicine out of children's reach."
+  }
+ ]
+}

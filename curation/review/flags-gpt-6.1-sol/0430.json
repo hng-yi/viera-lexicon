@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "chất bảo quản",
+  "chất chuyển hoá",
+  "chất cách điện",
+  "chất cản quang",
+  "chất diệp lục",
+  "chất dẫn điện",
+  "chất hoá học",
+  "chất hóa học",
+  "chất rắn",
+  "chất tẩy rửa",
+  "chất đống",
+  "chất độc da cam",
+  "chầu văn",
+  "chẩm chéo",
+  "chẩn",
+  "chẩn mạch",
+  "chẩn tế",
+  "chẫu",
+  "chậm chân",
+  "chậm tiến",
+  "chắc bụng",
+  "chắc dạ",
+  "chắc như đinh đóng cột",
+  "chắp nhặt",
+  "chắt lọc",
+  "chằng chịt",
+  "chẳng bao lâu",
+  "chẳng bõ",
+  "chẳng chóng thì chầy",
+  "chẳng cứ",
+  "chẳng thà",
+  "chặn giấy",
+  "chặn đầu",
+  "chặt đầu",
+  "chẹo",
+  "chẻo",
+  "chẽm",
+  "chẽn",
+  "chế tài",
+  "chế xuất"
+ ],
+ "flags": [
+  {
+   "headword": "chẩn mạch",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The archaic tag misleadingly marks a term still used in modern traditional medicine as obsolete ([hospital explanation](https://bvnguyentriphuong.com.vn/y-hoc-co-truyen/chan-mach-la-gi)).",
+   "fix": "Remove the archaic tag."
+  },
+  {
+   "headword": "chẩn mạch",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chẩn mạch means examining the pulse for diagnosis and does not imply diagnosing from the pulse alone ([hospital explanation](https://bvnguyentriphuong.com.vn/y-hoc-co-truyen/chan-mach-la-gi)).",
+   "fix": "Merge with sense 1: to examine a patient's pulse for diagnosis, especially in traditional medicine."
+  },
+  {
+   "headword": "chẳng bõ",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is the ordinary 'not worth the effort' use of chẳng bõ, so tagging it rare falsely distinguishes it from sense 1 ([dictionary definition](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%E1%BA%B3ng%20b%C3%B5)).",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

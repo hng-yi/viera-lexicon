@@ -1,0 +1,84 @@
+{
+ "headwords": [
+  "ai điếu",
+  "ai đó",
+  "ai đời",
+  "am thanh cảnh vắng",
+  "ambi-",
+  "amerixi",
+  "ampe kế",
+  "amply",
+  "an bần lạc đạo",
+  "an cư lạc nghiệp",
+  "an dưỡng đường",
+  "an giấc nghìn thu",
+  "an giấc ngàn thu",
+  "an khang thịnh vượng",
+  "an ninh trật tự",
+  "an phận thủ thường",
+  "an sinh xã hội",
+  "an thai",
+  "an toàn khu",
+  "an toàn là trên hết",
+  "an toạ",
+  "an trú",
+  "an tức hương",
+  "an vui",
+  "an vị",
+  "an định",
+  "an-ca-lô-ít",
+  "an-pha-bê",
+  "ancol",
+  "ang áng",
+  "anh chột làm vua xứ mù",
+  "anh em cây khế",
+  "anh em cọc chèo",
+  "anh em thúc bá",
+  "anh hoa",
+  "anh hào",
+  "anh hùng bàn phím",
+  "anh hùng chủ nghĩa",
+  "anh hùng cá nhân",
+  "anh hùng hào kiệt"
+ ],
+ "flags": [
+  {
+   "headword": "ambi-",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the prefix instead of showing it in use.",
+   "fix": "Remove the definitional example."
+  },
+  {
+   "headword": "an bần lạc đạo",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary expression rather than an ordinary way to describe being content with one's circumstances.",
+   "fix": [
+    "idiomatic",
+    "literary"
+   ]
+  },
+  {
+   "headword": "ang áng",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This remains an everyday expression for estimating roughly, so the rare tag is misleading; see [Từ điển tiếng Việt](https://medialib.qlgd.edu.vn/Uploads/THU_VIEN/shn/1/1124/UserFiles/Tu-Dien-Tieng-Viet-Hoang-Long-thuviensach.vn-b6c5cba7-6d08-4fa4-aae4-6b53ec52276c.pdf).",
+   "fix": "Remove the rare tag."
+  },
+  {
+   "headword": "anh em thúc bá",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal kinship expression that learners would not normally use in casual conversation.",
+   "fix": [
+    "idiomatic",
+    "formal"
+   ]
+  }
+ ]
+}

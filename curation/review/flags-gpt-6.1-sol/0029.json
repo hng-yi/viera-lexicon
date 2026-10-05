@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "ống",
+  "tình trạng",
+  "đào",
+  "cầu nguyện",
+  "từ bỏ",
+  "trà",
+  "chi",
+  "thuyết phục",
+  "bãi",
+  "vậy mà",
+  "mẫu",
+  "đàn",
+  "xấu hổ",
+  "tóm",
+  "chờ đợi",
+  "đạt",
+  "lát",
+  "nhà thờ",
+  "phản ứng",
+  "thành viên",
+  "trạm",
+  "đỡ",
+  "bia",
+  "trẻ con",
+  "sắp xếp",
+  "mái",
+  "kẹt",
+  "công bằng",
+  "đánh bại",
+  "xử",
+  "đại học",
+  "không gian",
+  "đánh giá",
+  "huynh",
+  "tiến hành",
+  "tờ",
+  "ngang",
+  "nghỉ ngơi",
+  "mất tích",
+  "khốn nạn"
+ ],
+ "flags": [
+  {
+   "headword": "chi",
+   "sense": 4,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Rứa” means “like that,” not “over there.”",
+   "fix": "What are you doing?"
+  },
+  {
+   "headword": "bãi",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Bãi” does not mean a charlatan or vagabond ([dictionary](https://vi.wiktionary.org/wiki/bãi)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "bãi",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning of a small pile or puddle of bodily waste, as in “bãi nôn,” is missing ([dictionary](https://vi.wiktionary.org/wiki/bãi)).",
+   "fix": "noun | pile; puddle (of bodily waste); ex: Trên sàn có một bãi nôn. = There is a puddle of vomit on the floor."
+  },
+  {
+   "headword": "tóm",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Tóm” does not mean skinny or thin ([dictionary](https://vi.wiktionary.org/wiki/tóm)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "lát",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "“Lát” names a slice but is not the verb meaning to slice ([dictionary](https://vi.wiktionary.org/wiki/lát)).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "xử",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Xử công bằng với các con” is unnatural for treating one's children fairly.",
+   "fix": "Bố mẹ phải đối xử công bằng với các con. = Parents must treat their children fairly."
+  },
+  {
+   "headword": "tiến hành",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "“Tiến hành” is formal language for conducting or carrying out an activity and needs a register label.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "khốn nạn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This sense is a strong derogatory insult and lacks a warning tag.",
+   "fix": "Add the tags derogatory and offensive."
+  }
+ ]
+}

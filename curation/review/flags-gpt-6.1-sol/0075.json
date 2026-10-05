@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "ăn uống",
+  "giải thưởng",
+  "sự cố",
+  "lén lút",
+  "tàn phá",
+  "diệp",
+  "dính dáng",
+  "cổ xưa",
+  "di truyền",
+  "thân yêu",
+  "tần số",
+  "sinh học",
+  "đất liền",
+  "tại chỗ",
+  "vạn",
+  "cống hiến",
+  "gợi ý",
+  "tiếng nói",
+  "tình bạn",
+  "giãn",
+  "bình yên",
+  "đạo diễn",
+  "xâm phạm",
+  "khung",
+  "nến",
+  "rộng lớn",
+  "ghi nhận",
+  "tận dụng",
+  "hứa hẹn",
+  "dở",
+  "cam kết",
+  "biện pháp",
+  "linh cảm",
+  "kì lạ",
+  "gay",
+  "trong sạch",
+  "nóc",
+  "sáng suốt",
+  "hoa hồng",
+  "triệu tập"
+ ],
+ "flags": [
+  {
+   "headword": "vạn",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The numeral meaning ‘ten thousand’ is used in ordinary modern Vietnamese and is not restricted to literary language.",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "giãn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of stretching or expanding, which does not imply permanently losing elasticity.",
+   "fix": "Add: to stretch; to expand; to become longer or wider."
+  }
+ ]
+}

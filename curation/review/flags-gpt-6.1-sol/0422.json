@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "chiên ngập dầu",
+  "chiêu hiền",
+  "chiêu hồi",
+  "chiêu liêu",
+  "chiêu thị",
+  "chiếm cứ",
+  "chiến cụ",
+  "chiến cục",
+  "chiến luỹ",
+  "chiến tranh thương mại",
+  "chiến tranh tiền tệ",
+  "chiến đấu cơ",
+  "chiếp",
+  "chiết cành",
+  "chiết quang",
+  "chiếu bí",
+  "chiếu bóng",
+  "chiếu chỉ",
+  "chiếu hết",
+  "chiếu khán",
+  "chiếu mở",
+  "chiếu nghỉ",
+  "chiếu nhận",
+  "chiếu rút",
+  "chiếu theo",
+  "chiếu thắt cổ",
+  "chiếu ánh",
+  "chiếu đôi",
+  "chiềng",
+  "chiều dài",
+  "chiều kích",
+  "chiều rộng",
+  "chiều sâu",
+  "chiều tím",
+  "cho không",
+  "cho là",
+  "cho rằng",
+  "cho thấy",
+  "cho tên",
+  "cho đến"
+ ],
+ "flags": [
+  {
+   "headword": "chiếu khán",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The dated tag misleadingly implies that this visa term is no longer current, although it remains in [present-day official Vietnamese usage](https://dcj.nsw.gov.au/content/dcj/dcj-website/dcj/children-and-families/family-domestic-and-sexual-violence/about-domestic-and-family-violence/coercive-control/coercive-control-vietnamese/easy-read/page-2.html).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "chiếu ánh",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In the example, chiếu is the verb and ánh nắng is its object; chiếu ánh is not a standalone verb meaning to illuminate.",
+   "fix": "Remove this sense under chiếu ánh; the illustrated verb is chiếu."
+  }
+ ]
+}

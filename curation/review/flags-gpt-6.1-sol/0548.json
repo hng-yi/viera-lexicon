@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "phụ từ",
+  "phục dựng",
+  "phục nguyên",
+  "phục quốc",
+  "phục quốc Do Thái",
+  "phục viên",
+  "phụng dưỡng",
+  "phụng phịu",
+  "phủ phê",
+  "phủ xanh",
+  "phức hợp quân sự-công nghiệp",
+  "phức thể",
+  "phức tạp hoá",
+  "pi-a-nô",
+  "pin sạc",
+  "platin",
+  "poloni",
+  "polyetylen",
+  "prazeođim",
+  "prometi",
+  "propilen",
+  "propin",
+  "protactini",
+  "prôton",
+  "pê phở",
+  "pê đê",
+  "pê-ni-xi-lin",
+  "pê-đan",
+  "pích",
+  "píp",
+  "pơ mu",
+  "qua cầu rút ván",
+  "qua khỏi",
+  "qua mắt",
+  "qua quýt",
+  "quai nón",
+  "quan chế",
+  "quan hệ sản xuất",
+  "quan hệ tình dục",
+  "quan họ"
+ ],
+ "flags": [
+  {
+   "headword": "phụng dưỡng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal, respectful word for supporting one's elders, as recorded in [VDict](https://vdict.com/ph%E1%BB%A5ng%20d%C6%B0%E1%BB%A1ng%2C3%2C0%2C0.html?lang=vi).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "phủ phê",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This word is mainly Southern usage and is listed in the [Dictionary of Southern Vietnamese](https://dokumen.pub/tu-dien-tu-ngu-nam-bo.html).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "pi-a-nô",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The word remains current in everyday educational vocabulary, including [Macmillan's learner word list](https://cdn.macmillanyounglearners.com/englishworld/public/hsc_wl2_vi.pdf), so dated misleadingly suggests it is obsolete.",
+   "fix": "Remove the tag dated."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "lồm",
+  "lồm cồm",
+  "lồng bàn",
+  "lồng đèn",
+  "lổng chổng",
+  "lỗ chân lông",
+  "lỗ châu mai",
+  "lỗ lã",
+  "lỗ mũi",
+  "lỗ tai cây",
+  "lỗ trôn",
+  "lỗ vốn",
+  "lỗ đen",
+  "lộm cộm",
+  "lộng giả thành chân",
+  "lộp bà lộp bộp",
+  "lớn bổng",
+  "lớn hơn",
+  "lớp chồi",
+  "lớp lang",
+  "lớp lá",
+  "lớp mầm",
+  "lớp phủ",
+  "lớp trưởng",
+  "lớp tớp",
+  "lớt phớt",
+  "lờ khờ",
+  "lời chào",
+  "lời chào cao hơn mâm cỗ",
+  "lời lãi",
+  "lời nói đầu",
+  "lời ong tiếng ve",
+  "lời tên",
+  "lở lói",
+  "lở mồm long móng",
+  "lở đất",
+  "lỡ làng",
+  "lỡ lầm",
+  "lỡ thời",
+  "lỡ đường"
+ ],
+ "flags": [
+  {
+   "headword": "lớp tớp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The word belongs to North Central Vietnamese, so the Northern tag incorrectly suggests use in northern Vietnam ([Wiktionary](https://en.wiktionary.org/wiki/lớp_tớp)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "lớp tớp",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The adverb likewise belongs to North Central Vietnamese rather than both Northern and Central Vietnamese ([Wiktionary](https://en.wiktionary.org/wiki/lớp_tớp)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "lỡ đường",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Lỡ đường' means being unable to continue a journey, whereas losing one's way is 'lạc đường'.",
+   "fix": "to be stranded or held up on a journey"
+  }
+ ]
+}

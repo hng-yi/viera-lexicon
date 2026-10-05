@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "bảo toàn",
+  "di tích",
+  "tục ngữ",
+  "nhân công",
+  "mong mỏi",
+  "mộng du",
+  "tuôn",
+  "thầy thuốc",
+  "tâu",
+  "binh pháp",
+  "chiêu đãi",
+  "định kiến",
+  "sửa sang",
+  "dỏm",
+  "vô tri",
+  "vật vã",
+  "siêu đẳng",
+  "thái cực",
+  "nao",
+  "rong ruổi",
+  "dạ vũ",
+  "dứa",
+  "ống tiêm",
+  "tuổi thọ",
+  "yếu điểm",
+  "vô định",
+  "chìm đắm",
+  "cục diện",
+  "thất lễ",
+  "có hạn",
+  "ghẻ",
+  "tham mưu",
+  "điệp",
+  "giải trình",
+  "đớp",
+  "tôn sùng",
+  "thó",
+  "tha hóa",
+  "vén",
+  "thỏ đế"
+ ],
+ "flags": [
+  {
+   "headword": "dỏm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Dỏm is mainly Southern usage and needs a regional label.",
+   "fix": "[colloquial, Southern]"
+  },
+  {
+   "headword": "vô định",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what an infinitive is instead of showing the term applied in context.",
+   "fix": "Giáo viên yêu cầu chúng tôi tìm các động từ ở dạng vô định trong đoạn văn. = The teacher asked us to find the verbs in the infinitive form in the passage."
+  },
+  {
+   "headword": "thất lễ",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Thất lễ remains current in courteous apologies and should not be labelled dated.",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "ghẻ",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The learner is more likely to encounter the ordinary [scabies sense](https://en.wiktionary.org/wiki/gh%E1%BA%BB) than the restricted step-parent sense.",
+   "fix": "Place sense 2 first."
+  },
+  {
+   "headword": "giải trình",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Giải trình belongs to formal administrative usage, as illustrated by its use in [official explanations](https://pbgdpl.gov.vn/Pages/nghien-cuu-trao-doi.aspx?ItemID=2660&l=Nghiencuutraodoi), and needs a formal label.",
+   "fix": "[formal]"
+  }
+ ]
+}

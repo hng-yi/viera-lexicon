@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "gia cầm",
+  "quầng",
+  "hoang phí",
+  "phốt",
+  "uốn nắn",
+  "tăng viện",
+  "sừng sỏ",
+  "dấn",
+  "lôi đình",
+  "bè bạn",
+  "hách dịch",
+  "khoan khoái",
+  "cấu xé",
+  "tiểu thuyết gia",
+  "giải khát",
+  "lò vi sóng",
+  "cận thị",
+  "kho báu",
+  "ròng",
+  "tổng quát",
+  "nghiệt ngã",
+  "máy khoan",
+  "nguôi",
+  "quyên",
+  "ngoan cường",
+  "chuyển dịch",
+  "phụ kiện",
+  "gông",
+  "chăn nuôi",
+  "xói mòn",
+  "đông chí",
+  "nhà tu",
+  "lão làng",
+  "trắng án",
+  "hậu phương",
+  "thi thố",
+  "mời chào",
+  "gia tốc",
+  "tương tư",
+  "lão luyện"
+ ],
+ "flags": [
+  {
+   "headword": "chuyển dịch",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This sense remains current in [legal usage](https://tlpl.moj.gov.vn/Pages/chi-tiet-de-tai.aspx?CategoryDT=DT&ItemID=844), so the dated tag is misleading.",
+   "fix": "Replace dated with formal."
+  },
+  {
+   "headword": "đông chí",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the winter solstice instead of showing the word in use.",
+   "fix": "Hôm nay là đông chí. = Today is the winter solstice."
+  }
+ ]
+}

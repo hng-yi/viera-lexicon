@@ -1,0 +1,134 @@
+{
+ "headwords": [
+  "tan tầm",
+  "tang chế",
+  "tang tảng",
+  "tantan",
+  "tao khang",
+  "tao phùng",
+  "tay kiếm",
+  "tay nải",
+  "tay to",
+  "tay trắng tay đen",
+  "tebi",
+  "tecnexi",
+  "teencode",
+  "telu",
+  "tennessi",
+  "tha hoá",
+  "tha phương cầu thực",
+  "tha thủi",
+  "tha động từ",
+  "thai kì",
+  "thai ngoài tử cung",
+  "tham dục",
+  "tham luận",
+  "tham sinh uý tử",
+  "tham thì thâm",
+  "tham tài",
+  "than chì",
+  "than củi",
+  "than gỗ",
+  "than hoạt tính",
+  "thang cuốn",
+  "thanh bạch",
+  "thanh ghi",
+  "thanh huyền",
+  "thanh hỏi",
+  "thanh lọc sắc tộc",
+  "thanh mai trúc mã",
+  "thanh môn",
+  "thanh ngã",
+  "thanh nhạc"
+ ],
+ "flags": [
+  {
+   "headword": "tantan",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what tantalum is instead of showing the word in use.",
+   "fix": "Nhà máy này nhập tantan để sản xuất tụ điện. = This factory imports tantalum to manufacture capacitors."
+  },
+  {
+   "headword": "tay trắng tay đen",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Palm-up does not inherently beat palm-down in this group-selection game.",
+   "fix": "hand game using palm-up or palm-down gestures to divide players into groups or select someone"
+  },
+  {
+   "headword": "tebi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the element and its symbol instead of showing the word in use.",
+   "fix": "Phòng thí nghiệm vừa nhận được một mẫu tebi. = The laboratory has just received a terbium sample."
+  },
+  {
+   "headword": "tecnexi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the element and its symbol instead of showing the word in use.",
+   "fix": "Các nhà nghiên cứu đang đo độ phóng xạ của mẫu tecnexi. = The researchers are measuring the radioactivity of the technetium sample."
+  },
+  {
+   "headword": "telu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the element and its symbol instead of showing the word in use.",
+   "fix": "Họ tìm thấy telu trong mẫu quặng này. = They found tellurium in this ore sample."
+  },
+  {
+   "headword": "tennessi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the element and its symbol instead of showing the word in use.",
+   "fix": "Nhóm nghiên cứu đã tạo ra một vài nguyên tử tennessi. = The research team produced a few atoms of tennessine."
+  },
+  {
+   "headword": "tha phương cầu thực",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The expression remains current rather than dated, including in [contemporary writing](https://quangduc.com/images/file/FTrXvleX3ggQAHls/bao-vien-giac-so-172-thang-04-nam-2026.pdf).",
+   "fix": "tags: literary"
+  },
+  {
+   "headword": "tha động từ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the grammatical term instead of showing it in use.",
+   "fix": "Bài học hôm nay phân biệt tha động từ với tự động từ. = Today's lesson distinguishes transitive verbs from intransitive verbs."
+  },
+  {
+   "headword": "tham luận",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common noun sense for a prepared conference paper or presentation, documented in [VDict](https://vdict.com/tham%20lu%E1%BA%ADn%2C3%2C0%2C0.html).",
+   "fix": "noun | conference paper; prepared presentation at a meeting or conference"
+  },
+  {
+   "headword": "tham sinh uý tử",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal expression whose register is not conveyed by the idiomatic tag, as [VDict notes](https://vdict.com/Tham%20sinh%20u%C3%BD%20t%E1%BB%AD%2C10%2C0%2C0.html).",
+   "fix": "tags: formal, idiomatic"
+  },
+  {
+   "headword": "tham tài",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression is formal rather than ordinary casual vocabulary, as described in [ZIM Dictionary](https://dictionary.zim.vn/viet-anh/tham-tai-tieng-anh-la-gi).",
+   "fix": "tags: formal"
+  }
+ ]
+}

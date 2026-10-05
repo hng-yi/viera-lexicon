@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "chùa chiền",
+  "chùm bao",
+  "chùm lé",
+  "chùm ruột",
+  "chùn bước",
+  "chùng chình",
+  "chú dẫn",
+  "chú giải",
+  "chú lùn",
+  "chú mày",
+  "chú mục",
+  "chú tiểu",
+  "chú đại bi",
+  "chúa Xuân",
+  "chúa hề",
+  "chúa sơn lâm",
+  "chúc dữ",
+  "chúc may mắn",
+  "chúc mừng năm mới",
+  "chúc mừng sinh nhật",
+  "chúc ngủ ngon",
+  "chút nào",
+  "chút éc",
+  "chăm bẵm",
+  "chăn rau",
+  "chăng là chẳng",
+  "chĩa ba",
+  "chĩnh",
+  "chũm choẹ",
+  "chơi chữ",
+  "chơi hụi",
+  "chơi khăm",
+  "chơi ngang",
+  "chơi nhởi",
+  "chơi xỏ",
+  "chơi ác",
+  "chơi đĩ",
+  "chơi đểu",
+  "chơm chởm",
+  "chưa biết mèo nào cắn mỉu nào"
+ ],
+ "flags": [
+  {
+   "headword": "chùm bao",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This name for passionflower is mainly Southern but lacks a regional label ([source](https://www.diendan.org/sang-tac/hoa-co-quanh-toi/HoaCo-QuanhToi.pdf)).",
+   "fix": "Tags: uncommon, Southern."
+  },
+  {
+   "headword": "chúa sơn lâm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the expression denotes instead of using it.",
+   "fix": "Chúa sơn lâm gầm vang giữa rừng. = The king of the jungle roared loudly in the forest."
+  },
+  {
+   "headword": "chút éc",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chút éc is mainly Southern colloquial speech but lacks the Southern tag.",
+   "fix": "Tags: colloquial, Southern."
+  },
+  {
+   "headword": "chút éc",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chút éc is mainly Southern colloquial speech but lacks the Southern tag.",
+   "fix": "Tags: colloquial, Southern."
+  },
+  {
+   "headword": "chăng là chẳng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example adds ai không after an archaic expression that already conveys the negative construction, producing an incorrect model ([attested usage](https://en.wiktionary.org/wiki/ch%C4%83ng_l%C3%A0_ch%E1%BA%B3ng)).",
+   "fix": "Rệt đấy mà dân chăng là chẳng kính. = He is seen, and all the people respect him."
+  },
+  {
+   "headword": "chăng là chẳng",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly combines the archaic expression with the modern ai khác construction ([attested usage](https://en.wiktionary.org/wiki/ch%C4%83ng_l%C3%A0_ch%E1%BA%B3ng)).",
+   "fix": "Số trời an đặt chăng là chẳng trước định. = The arrangements of heaven are none other than predetermined."
+  },
+  {
+   "headword": "chơi hụi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chơi hụi is mainly Southern usage and lacks a regional label ([source](https://baomoi.com/can-than-voi-tam-doc-khi-tham-gia-choi-hui-c51966664.epi)).",
+   "fix": "Tags: Southern."
+  },
+  {
+   "headword": "chơi nhởi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This dialect expression is associated with North Central Vietnamese but has no regional tag ([source](https://en.wiktionary.org/wiki/nh%E1%BB%9Fi)).",
+   "fix": "Tags: rare, Central."
+  }
+ ]
+}

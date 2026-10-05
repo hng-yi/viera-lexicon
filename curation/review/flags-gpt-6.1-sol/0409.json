@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "bình bầu",
+  "bình chú",
+  "bình cũ rượu mới",
+  "bình diện",
+  "bình dưỡng khí",
+  "bình nóng lạnh",
+  "bình thuỷ",
+  "bình thường hoá",
+  "bình thời",
+  "bình vôi",
+  "bình đẳng giới",
+  "bìu dái",
+  "bích hoạ",
+  "bính bong",
+  "bính boong",
+  "bính âm",
+  "bít tất",
+  "bít tất tay",
+  "bíu",
+  "bò bía",
+  "bò húc",
+  "bò kho",
+  "bò mộng",
+  "bò né",
+  "bò rừng",
+  "bò vàng",
+  "bò vẽ",
+  "bò đỏ",
+  "bòn bon",
+  "bòn rút",
+  "bòng bòng",
+  "bó hoa",
+  "bó tay chấm com",
+  "bói cá",
+  "bói ra ma, quét nhà ra rác",
+  "bón phân",
+  "bóng bay",
+  "bóng bán dẫn",
+  "bóng bầu dục",
+  "bóng gỗ"
+ ],
+ "flags": [
+  {
+   "headword": "bình cũ rượu mới",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example says the content is unchanged, contradicting the idiom's meaning of old form with new content ([dictionary](https://loigiaihay.com/tu-dien-tv/binh-cu-ruou-moi-eDyWWwpqFsddC.html)).",
+   "fix": "Cuốn sách này là bình cũ rượu mới: hình thức vẫn như trước nhưng nội dung đã đổi mới."
+  },
+  {
+   "headword": "bình cũ rượu mới",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "“Old wine in a new bottle” reverses the Vietnamese idiom's old form and new content.",
+   "fix": "This book is new wine in an old bottle: its form remains the same, but its content has been renewed."
+  },
+  {
+   "headword": "bò bía",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar sweet street snack made with coconut, maltose candy and sesame, commonly sold in northern Vietnam ([VTC News](https://vtcnews.vn/vi-sao-goi-la-mon-bo-bia-ma-khong-co-thit-bo-ar906894.html)).",
+   "fix": "sweet rice-paper roll filled with shredded coconut, maltose candy and sesame seeds"
+  }
+ ]
+}

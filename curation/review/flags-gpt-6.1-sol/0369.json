@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "đoan chính",
+  "thước tây",
+  "thợ lặn",
+  "bi tráng",
+  "công truyền",
+  "random",
+  "um tùm",
+  "khảy",
+  "hãnh tiến",
+  "mựa",
+  "nhắm chừng",
+  "lòng đường",
+  "quê quán",
+  "công quả",
+  "đá banh",
+  "lai láng",
+  "thự",
+  "nguyên phân",
+  "thiền trượng",
+  "lục cục",
+  "thập tử nhất sinh",
+  "rắn lục",
+  "ngợp",
+  "trang lứa",
+  "đình đốn",
+  "cơ man",
+  "bủa",
+  "móm",
+  "nghênh ngang",
+  "gạo lứt",
+  "khỏe khoắn",
+  "máy nổ",
+  "chiến đội",
+  "dưa muối",
+  "trọng âm",
+  "cắm trại",
+  "nín nhịn",
+  "hắc tố",
+  "bản ngữ",
+  "bâng quơ"
+ ],
+ "flags": [
+  {
+   "headword": "hãnh tiến",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The gloss substitutes unscrupulous ambition for attaining wealth or status through luck rather than ability ([dictionary](https://v2.rung.vn/dict/vn_vn/H%C3%A3nh_ti%E1%BA%BFn)).",
+   "fix": "having risen suddenly to wealth or high status through luck rather than merit"
+  },
+  {
+   "headword": "bủa",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This noun denotes a twig structure provided for silkworms to spin cocoons, rather than a bird's nest ([dictionary](https://tudientv.com/?t=b%E1%BB%A7a)).",
+   "fix": "a structure of branching twigs on which silkworms spin cocoons"
+  },
+  {
+   "headword": "bủa",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The bird-building example uses bủa for an ordinary nest, which is not this meaning ([dictionary](https://tudientv.com/?t=b%E1%BB%A7a)).",
+   "fix": "Người nuôi tằm ghép những cành cây nhỏ thành bủa cho tằm làm kén. = The silkworm farmer assembles small branches into a structure for the silkworms to spin cocoons on."
+  },
+  {
+   "headword": "móm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The common meaning describing an underbite is missing, so learners could mistakenly understand a young person described as móm to be toothless.",
+   "fix": "adj | having an underbite (the lower teeth or jaw project beyond the upper ones)"
+  },
+  {
+   "headword": "khảy",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Đàn does not specify a guitar, but the translation introduces one.",
+   "fix": "Dad sits by the porch plucking a stringed instrument."
+  },
+  {
+   "headword": "máy nổ",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese does not specify whether the engine runs on petrol or diesel.",
+   "fix": "He uses an engine to pump water into the field."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "chay tịnh",
+  "check-in",
+  "chem chép",
+  "cheo",
+  "cheo cheo",
+  "chi bằng",
+  "chi bộ",
+  "chi chiết",
+  "chi chít",
+  "chi cấp",
+  "chi họ",
+  "chi lưu",
+  "chi sau",
+  "chi thu",
+  "chi trước",
+  "chi đội trưởng",
+  "chia li",
+  "chia lửa",
+  "chia phôi",
+  "chia sớt",
+  "chia uyên rẽ thuý",
+  "chia vui",
+  "chia để trị",
+  "chia động từ",
+  "chim chuột",
+  "chim chích",
+  "chim cánh cụt",
+  "chim có tổ, người có tông",
+  "chim công",
+  "chim cắt",
+  "chim di",
+  "chim ngói",
+  "chim ong",
+  "chim sâu",
+  "chim trảu",
+  "chim điên",
+  "chiêm bao",
+  "chiêm tinh học",
+  "chiêm tinh thuật",
+  "chiên ghẻ"
+ ],
+ "flags": [
+  {
+   "headword": "cheo cheo",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Chúng tôi thấy một con cheo cheo chạy vào rừng. = We saw a mouse deer run into the forest."
+  },
+  {
+   "headword": "chi lưu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In Vietnamese geography, chi lưu carries water away from the main river, whereas a tributary feeds it ([school geography material](https://filethcs.hcm.edu.vn/data/doc/2025/thcsleanhxuanq11/2025_4/9/de-cuong-hk2_94202519.pdf)).",
+   "fix": "distributary; river branch flowing away from the main river"
+  },
+  {
+   "headword": "chia li",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chia li means parting or separation, not an adjective meaning sad or tragic.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "chim ngói",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chim ngói denotes turtle doves, while the spotted dove is chim cu gáy or cu cườm ([discussion distinguishing the birds](https://longhovinhlong.blogspot.com/2022/09/chuyen-van-gac-cu-cam-chau.html)).",
+   "fix": "turtle dove"
+  },
+  {
+   "headword": "chiêm tinh thuật",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what astrology does instead of showing the word in use.",
+   "fix": "Ông ấy rất tin vào chiêm tinh thuật. = He strongly believes in astrology."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "giàng",
+  "đại liên",
+  "ấu thơ",
+  "bẩm báo",
+  "trực khuẩn",
+  "rê",
+  "ngắt lời",
+  "phuy",
+  "chỉnh trang",
+  "phân tâm học",
+  "bấy giờ",
+  "loạng choạng",
+  "mót",
+  "hẹo",
+  "dân tộc thiểu số",
+  "đột tử",
+  "béo ú",
+  "thâm sâu",
+  "cứng họng",
+  "nung nấu",
+  "sản nghiệp",
+  "xuất chinh",
+  "im lìm",
+  "Tày",
+  "tày",
+  "tinh nghịch",
+  "phương sách",
+  "thênh thang",
+  "chí tử",
+  "cốc tai",
+  "thị phi",
+  "chói chang",
+  "vô sỉ",
+  "phấp phới",
+  "rề rà",
+  "mộc ngư",
+  "đắc chí",
+  "chui nhủi",
+  "thất học",
+  "y xì"
+ ],
+ "flags": [
+  {
+   "headword": "mót",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Mót also commonly describes an urgent need to defecate, which the entry omits ([dictionary](https://vi.wiktionary.org/wiki/m%C3%B3t)).",
+   "fix": "to need to defecate urgently; tags: colloquial"
+  },
+  {
+   "headword": "nung nấu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The literal sense means causing intense, prolonged heat, rather than a fire burning fiercely ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-nung%20n%E1%BA%A5u)).",
+   "fix": "to subject to intense, prolonged heat"
+  },
+  {
+   "headword": "nung nấu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Ngọn lửa nung nấu trong lò incorrectly uses nung nấu as an intransitive verb meaning to burn fiercely.",
+   "fix": "Cái nắng nung nấu suốt ngày. = The sun beat down intensely all day."
+  },
+  {
+   "headword": "tày",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "Tày describes a blunt point, so using it for a knife's inability to cut confuses it with a dull cutting edge ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-t%C3%A0y)).",
+   "fix": "Đầu kim này tày quá, không đâm xuyên qua vải được. = This needle's point is too blunt to pierce the fabric."
+  },
+  {
+   "headword": "tày",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are much more likely to encounter the comparison sense in expressions such as tày trời and tày đình than the blunt-point sense.",
+   "fix": "Place sense 2 before sense 1."
+  },
+  {
+   "headword": "tày",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The comparison sense remains current in common expressions such as tày trời and tày đình, so dated is misleading.",
+   "fix": "Remove dated."
+  }
+ ]
+}

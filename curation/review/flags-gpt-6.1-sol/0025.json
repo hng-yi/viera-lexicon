@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "ước",
+  "hầm",
+  "lẽ ra",
+  "gió",
+  "chính phủ",
+  "bạn bè",
+  "cần thiết",
+  "chia",
+  "xinh đẹp",
+  "cá nhân",
+  "giáo sư",
+  "cấp",
+  "săn",
+  "khắp",
+  "nuôi",
+  "cú",
+  "luôn luôn",
+  "tìm hiểu",
+  "kết quả",
+  "coi chừng",
+  "mạnh mẽ",
+  "mảnh",
+  "ngay lập tức",
+  "chìa",
+  "tận",
+  "sinh nhật",
+  "thiết bị",
+  "mai",
+  "đâm",
+  "ngực",
+  "im lặng",
+  "mèo",
+  "ngu ngốc",
+  "bơi",
+  "thời điểm",
+  "tha thứ",
+  "đồng hồ",
+  "vô cùng",
+  "dân",
+  "kể cả"
+ ],
+ "flags": [
+  {
+   "headword": "cú",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common colloquial adjective meaning resentful or annoyed after being slighted or thwarted ([dictionary](https://tudientv.com/?t=c%C3%BA)).",
+   "fix": "Add: adj [colloquial] | resentful; annoyed (after being slighted or thwarted)."
+  },
+  {
+   "headword": "cú",
+   "sense": 4,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This verb is regional Central Vietnamese usage, documented in the [Huế dialect dictionary](https://download.thuthuatphanmem.vn/uploads/2022/09/27/khotudientienghue_100441.pdf), rather than an unmarked nationwide expression.",
+   "fix": "Add the Central tag."
+  },
+  {
+   "headword": "ngu ngốc",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ngu ngốc is derogatory and can offend them, but the sense has no warning tag.",
+   "fix": "Add the derogatory tag."
+  }
+ ]
+}

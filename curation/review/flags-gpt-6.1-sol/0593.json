@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "trệ",
+  "trỉa",
+  "trị thuỷ",
+  "trị thủy",
+  "trọc lốc",
+  "trọc phú",
+  "trọng bệnh",
+  "trọng nam khinh nữ",
+  "trốc",
+  "trốc gối",
+  "trối kệ",
+  "trối thây",
+  "trốn tìm",
+  "trống chầu",
+  "trống cơm",
+  "trống prôvăng",
+  "trống trơ",
+  "trống định âm",
+  "trống đồng",
+  "trốt",
+  "trồng cây chuối",
+  "trộm nghĩ",
+  "trộm vía",
+  "trớp",
+  "trớt quớt",
+  "trời che đất chở",
+  "trời tru đất diệt",
+  "trời đánh",
+  "trời đánh thánh vật",
+  "trời đánh tránh bữa ăn",
+  "trời ạ",
+  "trở cờ",
+  "trợ chiến",
+  "trợ giá",
+  "trợ từ",
+  "trợ động từ",
+  "trợn trạo",
+  "trụ sinh",
+  "trụ thạch",
+  "trụ vững"
+ ],
+ "flags": [
+  {
+   "headword": "trớp",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This is a Central Vietnamese dialect word for unfilled grain, as recorded in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf), but it lacks a regional tag.",
+   "fix": "Add Central."
+  },
+  {
+   "headword": "trớp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what an unfilled grain is instead of showing the word in ordinary use.",
+   "fix": "Năm ni hạn, tui sợ ló trớp hết. = There is a drought this year; I’m afraid all the rice grains will be unfilled."
+  },
+  {
+   "headword": "trớt quớt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common conversational meaning 'off-topic; unrelated to what is being discussed,' documented in [this account of Southern usage](https://nghengu.vn/tieng-nghe-cua-toi/trot-quot-la-gi-2255.html).",
+   "fix": "Add: adj [Southern, colloquial] | off-topic; unrelated to what is being discussed. Example: Tui hỏi chuyện này mà ông trả lời trớt quớt. = I asked about this, but your answer was completely off-topic."
+  },
+  {
+   "headword": "trụ thạch",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Headquarters' is trụ sở, whereas trụ thạch denotes a pillar or mainstay, as explained in the [Hán–Vietnamese dictionary](https://www.hanzi.live/hanvi/tr%E1%BB%A5%20th%E1%BA%A1ch).",
+   "fix": "Delete sense 2 and its example."
+  }
+ ]
+}

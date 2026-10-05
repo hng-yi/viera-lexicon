@@ -1,0 +1,26 @@
+{"b":"0030","h":"truyền","op":"tags","i":1,"v":[]}
+{"b":"0030","h":"việc làm","op":"add","i":2,"key":"deed","pos":"noun","gloss":"act; deed","ex":["Giúp bà cụ qua đường là một việc làm tốt.","Helping the old lady across the road was a good deed."]}
+{"b":"0030","h":"thú","op":"tags","i":4,"v":[]}
+{"b":"0030","h":"tách","op":"drop","i":3,"reason":"its example shows the sound of sense 4; the popping is nổ"}
+{"b":"0031","h":"ghé","op":"add","i":2,"key":"lean-close","pos":"verb","gloss":"to lean close; to lean towards","ex":["Cô ấy ghé sát tai tôi nói nhỏ.","She leaned close to my ear and whispered."]}
+{"b":"0031","h":"tội lỗi","op":"drop","i":2,"reason":"unattested ('tacky')"}
+{"b":"0031","h":"chảy","op":"tags","i":4,"v":[]}
+{"b":"0031","h":"ánh","op":"gloss","i":3,"v":"clove; section (of garlic, ginger and some other bulbs)"}
+{"b":"0031","h":"ánh","op":"tags","i":3,"v":[]}
+{"b":"0031","h":"ánh","op":"ex","i":3,"v":["Con bóc cho mẹ mấy ánh tỏi nhé.","Peel a few cloves of garlic for me, will you?"]}
+{"b":"0031","h":"thu","op":"add","i":3,"key":"record","pos":"verb","gloss":"to record (sound or video)","ex":["Tôi vừa thu một bài hát mới.","I've just recorded a new song."]}
+{"b":"0032","h":"đậu","op":"tags","i":2,"v":["Southern"]}
+{"b":"0032","h":"đậu","op":"drop","i":6,"reason":"đậu phộng is peanut; đậu alone does not mean nut"}
+{"b":"0032","h":"đậu","op":"add","i":3,"key":"tofu","pos":"noun","gloss":"tofu (đậu phụ)","ex":["Tối nay mẹ làm món đậu sốt cà chua.","Tonight Mum is making tofu in tomato sauce."]}
+{"b":"0032","h":"chuẩn","op":"drop","i":4,"reason":"unattested ('suitable')"}
+{"b":"0032","h":"sát","op":"ex","i":3,"v":["Thầy bói bảo cô ấy số sát chồng.","The fortune teller said her fate would bring her husband an early death."]}
+{"b":"0032","h":"thần kinh","op":"tags","i":2,"v":["informal","derogatory"]}
+{"b":"0032","h":"kem","op":"drop","i":5,"reason":"no separate meaning; a blended drink is sinh tố"}
+{"b":"0032","h":"phu nhân","op":"gloss","i":2,"v":"lady; wife (of a wealthy or important man)"}
+{"b":"0032","h":"phu nhân","op":"tags","i":2,"v":["formal","honorific"]}
+{"b":"0032","h":"độc","op":"add","i":3,"key":"only","pos":"adv","tags":["colloquial"],"gloss":"only; just (one)","ex":["Trong túi tôi còn độc năm nghìn.","I've only got five thousand dong left in my pocket."]}
+{"b":"0032","h":"ép","op":"ex","i":4,"v":["Tôi gõ nhầm chữ ép thành chữ pê.","I typed P instead of F by mistake."]}
+{"b":"0033","h":"sẵn","op":"add","i":2,"key":"while-at-it","pos":"conj","tags":["colloquial"],"gloss":"since (the chance is there); while at it (sẵn tiện)","ex":["Sẵn có xe, anh chở em ra chợ luôn nhé.","Since I've got the bike, I'll take you to the market too."]}
+{"b":"0033","h":"nền","op":"ex","i":3,"v":["Họ đổ bê tông làm nền nhà.","They poured concrete to make the floor of the house."]}
+{"b":"0033","h":"vỏ","op":"tags","i":2,"v":["Southern"]}
+{"b":"0033","h":"hạt","op":"tags","i":3,"v":[]}

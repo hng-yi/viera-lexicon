@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "phá trận",
+  "Tây hóa",
+  "ăn quịt",
+  "hống hách",
+  "bản ghi",
+  "tập dượt",
+  "tin tặc",
+  "mụt ruồi",
+  "thị kính",
+  "tổng binh",
+  "làm phúc",
+  "sui gia",
+  "quốc hữu hóa",
+  "khệnh",
+  "sò huyết",
+  "cộ",
+  "giáo án",
+  "vuông vắn",
+  "hỏng hóc",
+  "nitrat",
+  "thanh nam",
+  "cương trực",
+  "nhạc phẩm",
+  "sáo ngữ",
+  "kiến sư tử",
+  "cá thu",
+  "thần quyền",
+  "thờn bơn",
+  "tiết canh",
+  "thốc",
+  "chủ thầu",
+  "bày vẽ",
+  "chiếu rọi",
+  "thuần chay",
+  "kiêu xa",
+  "toàn thư",
+  "nghén",
+  "ẩu tả",
+  "no bụng",
+  "đạo văn"
+ ],
+ "flags": [
+  {
+   "headword": "cộ",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "This adjective describes a large body or body part, so applying it to a pot teaches an inappropriate use ([dictionary](https://vi.wiktionary.org/wiki/cộ)).",
+   "fix": "Thân hình anh ấy to cộ. = He has a huge build."
+  },
+  {
+   "headword": "kiêu xa",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Kiêu xa means arrogant and extravagant; the flattering description given belongs to kiêu sa ([dictionary](https://vi.wiktionary.org/wiki/kiêu_xa)).",
+   "fix": "arrogant and extravagant"
+  },
+  {
+   "headword": "kiêu xa",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example uses kiêu xa as a compliment about beauty, confusing it with kiêu sa ([dictionary](https://vi.wiktionary.org/wiki/kiêu_xa)).",
+   "fix": "Thói kiêu xa của hắn khiến mọi người khó chịu. = His arrogance and extravagance annoy everyone."
+  },
+  {
+   "headword": "kiêu xa",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The actual meaning of kiêu xa is dated and should not be presented as ordinary current usage ([dictionary](https://vi.wiktionary.org/wiki/kiêu_xa)).",
+   "fix": "Add the tag dated."
+  }
+ ]
+}

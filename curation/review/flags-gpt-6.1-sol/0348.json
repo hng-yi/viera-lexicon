@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "e lệ",
+  "tài trí",
+  "cún con",
+  "đậu ván",
+  "bảo kiếm",
+  "chạm trổ",
+  "cơ đồ",
+  "chủ nghĩa Mác",
+  "đất đỏ",
+  "hiu",
+  "mọn",
+  "sốc nhiệt",
+  "tuần phủ",
+  "thẳng thớm",
+  "hộ lí",
+  "viễn du",
+  "bình sinh",
+  "khơi khơi",
+  "cây nhà lá vườn",
+  "liệt dương",
+  "thám sát",
+  "silic",
+  "nhảy xa",
+  "điện văn",
+  "õng ẹo",
+  "xe khách",
+  "hiu hắt",
+  "lu bù",
+  "hốc hác",
+  "triết lí",
+  "phó vương",
+  "điện giải",
+  "chủ kiến",
+  "sát nhập",
+  "Nga hoàng",
+  "vô thường",
+  "quở",
+  "gió lốc",
+  "biên chép",
+  "hoa trà"
+ ],
+ "flags": [
+  {
+   "headword": "hiu hắt",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common adjectival meaning describing a desolate, dreary scene or faint, feeble light.",
+   "fix": "adj | desolate; dreary; faint or feeble (of light)"
+  },
+  {
+   "headword": "điện giải",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Learners commonly encounter điện giải meaning electrolytes in discussions of drinks, hydration and health.",
+   "fix": "noun | electrolyte; electrolytes"
+  },
+  {
+   "headword": "xe khách",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Xe khách is also commonly used in Southern Vietnamese, so the regional restriction is misleading.",
+   "fix": "Remove Northern and Central tags."
+  },
+  {
+   "headword": "hoa trà",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Hoa trà is a standard name for camellia and is not specifically Southern Vietnamese.",
+   "fix": "Remove Southern tag."
+  }
+ ]
+}

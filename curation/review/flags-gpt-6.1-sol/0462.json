@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "giày sô",
+  "giày ống",
+  "giá biểu",
+  "giá chuộc",
+  "giá chợ",
+  "giá trị lớn nhất",
+  "giá trị nhỏ nhất",
+  "giá trị trao đổi",
+  "giá trị tuyệt đối",
+  "giá trị tổng kiểm",
+  "giá vốn",
+  "giá đỗ",
+  "giác sát",
+  "giám tỉnh",
+  "gián cách",
+  "gián hoặc",
+  "gián thu",
+  "giáng lâm",
+  "giáng thuỷ",
+  "giáng thủy",
+  "giáo cả",
+  "giáo dục học",
+  "giáo dục quốc phòng",
+  "giáo dục thể chất",
+  "giáo hạt",
+  "giáo thụ",
+  "giáo triều",
+  "giáo tỉnh",
+  "giáp cốt",
+  "giáp cốt văn",
+  "giáp lá cà",
+  "giáp trạng",
+  "giâm",
+  "giâu",
+  "giãi",
+  "giãn cách",
+  "giãn cách xã hội",
+  "giãy chết",
+  "giãy nảy",
+  "gié"
+ ],
+ "flags": [
+  {
+   "headword": "gián hoặc",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gián hoặc expresses uncertainty ('perhaps; maybe'), rather than a condition ('if by chance; in case'), as shown in this [dictionary entry](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-gi%C3%A1n%20ho%E1%BA%B7c).",
+   "fix": "perhaps; maybe"
+  },
+  {
+   "headword": "gié",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Gié denotes a rice panicle or a branch of it, whereas a spikelet is a different botanical structure ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-gi%C3%A9), [rice research](https://iasvn.org/storage/uploads/files/9TWGVPL7N0Cau%20truc%20bong%20lua.pdf)).",
+   "fix": "rice panicle; grain-bearing branch of a rice panicle"
+  },
+  {
+   "headword": "gié",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The example describes bending gié lúa, which are rice panicles rather than individual spikelets ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-gi%C3%A9)).",
+   "fix": "The ripe golden rice panicles bend downward."
+  }
+ ]
+}

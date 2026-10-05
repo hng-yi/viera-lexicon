@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "lão nam",
+  "lão ngư",
+  "lão nữ",
+  "lão suy",
+  "lão thành",
+  "lão thị",
+  "lão trượng",
+  "lè phè",
+  "lè tè",
+  "lèm bèm",
+  "lèn",
+  "léo",
+  "lép kẹp",
+  "lê-ki-ma",
+  "lên cân",
+  "lên giường",
+  "lên hương",
+  "lên mặt",
+  "lên nước",
+  "lên số",
+  "lên thớt",
+  "lên voi xuống chó",
+  "lên đơn",
+  "lên đỉnh",
+  "lên đời",
+  "lêu bêu",
+  "lêu lêu",
+  "lêu nghêu",
+  "lêu têu",
+  "lí do lí trấu",
+  "lí luận",
+  "lí lắc",
+  "lí nhí",
+  "lí tính",
+  "lính phòng không",
+  "lính quýnh",
+  "lính thuỷ",
+  "lính thuỷ đánh bộ",
+  "lính thủy đánh bộ",
+  "lính đánh thuê"
+ ],
+ "flags": [
+  {
+   "headword": "lão thành",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This respectful description belongs to formal usage and needs a register label ([usage discussion](https://baomoi.com/chu-va-nghia-lao-va-lao-thanh-c47122989.epi)).",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "lão trượng",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Lão trượng denotes a venerable elderly man, not specifically one's grandfather or an affectionate 'gramps' ([dictionary](https://dictionary.zim.vn/viet-anh/lao-truong-tieng-anh-la-gi)).",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "lèn",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The mountain sense is characteristic of North Central Vietnamese, so Northern incorrectly suggests northern dialect usage ([regional discussion](https://www.nguyenduyxuan.net/que-huong-dat-nuoc/ngu-nghia-mot-so-dia-danh-thuoc-truong-tu-vung-nui-non-o-nghe-an-3687.html)).",
+   "fix": "Replace Northern, Central with Central."
+  },
+  {
+   "headword": "lê-ki-ma",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The Vietnamese fruit is canistel (Pouteria campechiana), whereas English lucuma names a different fruit ([university research](https://huib.hueuni.edu.vn/wp-content/uploads/2024/09/1.-BAO-CAO-TOM-TAT-HN-CNSH-2024-IN-19.9.2024-FULL-chinh.pdf)).",
+   "fix": "canistel; eggfruit (a sweet, yellow-fleshed fruit)"
+  },
+  {
+   "headword": "lên đời",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use for a substantial improvement in someone's material circumstances is missing ([dictionary](https://www.rung.vn/dict/vn_vn/L%C3%AAn_%C4%91%E1%BB%9Di)).",
+   "fix": "Add: verb [colloquial] | to move up in the world; to become better off."
+  },
+  {
+   "headword": "lí luận",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday Vietnamese also uses lí luận as a verb for arguing or offering justifications, often disapprovingly ([dictionary](https://www.rung.vn/dict/vn_vn/L%C3%AD_lu%E1%BA%ADn)).",
+   "fix": "Add: verb [colloquial] | to argue; to argue one's case (often disapproving)."
+  },
+  {
+   "headword": "lính quýnh",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Lính quýnh is characteristic of Southern Vietnamese and needs a regional label ([linguistic discussion](https://vjol.info.vn/index.php/sphcm/article/download/14822/13318/)).",
+   "fix": "Add the tag Southern."
+  }
+ ]
+}

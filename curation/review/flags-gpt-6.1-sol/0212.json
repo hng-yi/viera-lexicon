@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "đào thải",
+  "quyến",
+  "thí sinh",
+  "bàng hoàng",
+  "bay bổng",
+  "thình lình",
+  "lì",
+  "cao nguyên",
+  "góp ý",
+  "suy tư",
+  "bãi bỏ",
+  "gia đinh",
+  "lẹo",
+  "bỏ túi",
+  "cấu hình",
+  "sầm",
+  "véo",
+  "đình",
+  "mả",
+  "yến mạch",
+  "màng não",
+  "võ nghệ",
+  "xì phé",
+  "nước dãi",
+  "rô",
+  "núm vú",
+  "trợn",
+  "đa khoa",
+  "thường nhật",
+  "thư điện tử",
+  "thông dịch viên",
+  "chõ",
+  "chuyên đề",
+  "trường thành",
+  "xệ",
+  "dở dang",
+  "tổng kết",
+  "khuôn khổ",
+  "la cà",
+  "rống"
+ ],
+ "flags": [
+  {
+   "headword": "quyến",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Quyến means very thin, fine silk, with no defining black colour or glossy finish ([dictionary](https://vi.wiktionary.org/wiki/quyến)).",
+   "fix": "very thin, fine silk"
+  },
+  {
+   "headword": "lì",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common meaning 'matte; non-glossy', used for cosmetics and finishes, is missing ([example usage](https://comem.vn/son-li)).",
+   "fix": "adj | matte; non-glossy; ex: Tôi thích loại son này vì màu đẹp và chất son lì. = I like this lipstick because the colour is beautiful and the finish is matte."
+  },
+  {
+   "headword": "lì",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "'Nằm lì' means remaining in bed persistently, whereas 'stuck in bed' suggests being unable to get out.",
+   "fix": "He stayed in bed all Sunday."
+  },
+  {
+   "headword": "sầm",
+   "sense": 5,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "'Sầm cao hơn' is not natural Vietnamese and treats a Sino-Vietnamese element as a freely usable adjective.",
+   "fix": "Remove this example and omit the flashcard unless an authentic example of this restricted sense is available."
+  },
+  {
+   "headword": "sầm",
+   "sense": 6,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "'Một ngọn sầm' is not natural Vietnamese and teaches the learner to use a Sino-Vietnamese element as an ordinary word for a hill.",
+   "fix": "Remove this example and omit the flashcard unless an authentic example of this restricted sense is available."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "chiến đấu",
+  "đoán",
+  "đồng ý",
+  "bữa",
+  "chàng",
+  "xấu",
+  "cười",
+  "đùa",
+  "màu",
+  "bức",
+  "yêu cầu",
+  "đầy",
+  "khoảng",
+  "tổng thống",
+  "phá",
+  "chúc",
+  "quý",
+  "khả năng",
+  "thả",
+  "tiếc",
+  "nổi",
+  "cố gắng",
+  "ngày mai",
+  "ít",
+  "bệnh",
+  "vũ khí",
+  "lính",
+  "vòng",
+  "chồng",
+  "trường",
+  "cũ",
+  "quả",
+  "tiếp",
+  "thần",
+  "chủ",
+  "khóa",
+  "sách",
+  "nhảy",
+  "một mình",
+  "quyền"
+ ],
+ "flags": [
+  {
+   "headword": "phá",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Everyday Vietnamese also uses phá for causing trouble or disrupting something without destroying it.",
+   "fix": "Add a verb sense: to cause trouble; to disrupt. Example: Đừng phá nữa, để mẹ làm việc. = Stop causing trouble and let Mom work."
+  },
+  {
+   "headword": "quả",
+   "sense": 6,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Quả for wedding gift boxes, as in bưng quả, is mainly Southern usage, not Northern.",
+   "fix": "Replace Northern with Southern; retain uncommon."
+  }
+ ]
+}

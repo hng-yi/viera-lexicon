@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "chất độc",
+  "sơ tán",
+  "võ sĩ",
+  "ngọc",
+  "hóa học",
+  "đám tang",
+  "chấm",
+  "hoàng gia",
+  "làm nên",
+  "lục soát",
+  "thực phẩm",
+  "xét xử",
+  "học hỏi",
+  "lột",
+  "chữa trị",
+  "văn minh",
+  "giáo dục",
+  "hiện đại",
+  "mạng lưới",
+  "đấng",
+  "tranh luận",
+  "phiền phức",
+  "đại hiệp",
+  "thống trị",
+  "muôn",
+  "vinh hạnh",
+  "cô dâu",
+  "phóng xạ",
+  "tước",
+  "nạn",
+  "rẻ tiền",
+  "tôn giáo",
+  "nhường",
+  "quăng",
+  "trang trại",
+  "chip",
+  "moi",
+  "Cống",
+  "cống",
+  "vận động"
+ ],
+ "flags": [
+  {
+   "headword": "đấng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This classifier belongs to solemn, reverential language and needs a register warning.",
+   "fix": "Add tags: formal, honorific."
+  },
+  {
+   "headword": "đại hiệp",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This title belongs to literary martial-arts narratives rather than ordinary casual speech.",
+   "fix": "Add tag: literary."
+  },
+  {
+   "headword": "vinh hạnh",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The noun is formal, just like the adjective in sense 2.",
+   "fix": "Add tag: formal."
+  },
+  {
+   "headword": "moi",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The shrimp name is principally Northern, as documented by [Tạp chí Biển Việt Nam](https://bienvietnam.vn/ruoc-quang-binh-thang-sau/), rather than Central or Southern.",
+   "fix": "Replace Central, Southern with Northern."
+  }
+ ]
+}

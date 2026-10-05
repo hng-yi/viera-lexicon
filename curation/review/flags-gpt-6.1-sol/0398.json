@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "Việt Nam hoá",
+  "Việt Nam hóa",
+  "Việt Nam học",
+  "Việt Võ Đạo",
+  "Việt bính",
+  "Việt gian",
+  "Việt ngữ học",
+  "Việt phục",
+  "Vovinam",
+  "Vua Tin Vịt",
+  "Vụ Nổ Lớn",
+  "Xi-ri",
+  "Xin-ga-po",
+  "Xinh Mun",
+  "Xtiêng",
+  "Xơ Đăng",
+  "a còng",
+  "a giao",
+  "a ha",
+  "a la xô",
+  "a men",
+  "a móc",
+  "a phiến",
+  "a tòng",
+  "a-crô-lê-in",
+  "a-lê-hấp",
+  "a-lô",
+  "a-ma-tơ",
+  "a-ti-sô",
+  "a-xít",
+  "a-zốt",
+  "a-đrê-na-lin",
+  "a-đê-nôm",
+  "acc",
+  "actini",
+  "agon",
+  "ai bảo",
+  "ai dè",
+  "ai khảo mà xưng",
+  "ai mượn"
+ ],
+ "flags": [
+  {
+   "headword": "Việt bính",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines Việt bính instead of showing it in use.",
+   "fix": "Tôi dùng Việt bính để tra cách phát âm tiếng Quảng Đông. = I use Jyutping to look up Cantonese pronunciation."
+  },
+  {
+   "headword": "Xơ Đăng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains who the Xơ Đăng are instead of using the name in context.",
+   "fix": "Tôi có một người bạn là người Xơ Đăng. = I have a friend who is Xơ Đăng."
+  },
+  {
+   "headword": "a còng",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The Northern tag misleadingly restricts a widely used Vietnamese name for @, as illustrated by this [usage guide](https://clavis.edu.vn/tin-tuc/chia-se/a-cong-la-gi-y-nghia-ky-hieu-va-cach-go-a-cong-tren-may-tinh-dien-thoai).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "a la xô",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The word means rushing in together and does not require starting a brawl, as the [attested examples](https://vi.wiktionary.org/wiki/a_la_x%C3%B4) demonstrate.",
+   "fix": "to rush in all together; to charge en masse"
+  }
+ ]
+}

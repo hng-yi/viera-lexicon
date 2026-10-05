@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "nhiêu",
+  "nội gián",
+  "thằng cha",
+  "lốp",
+  "nhọn",
+  "nhìn nhận",
+  "sưởi",
+  "quả thật",
+  "biển cả",
+  "sư",
+  "rương",
+  "thịnh nộ",
+  "ếch",
+  "dí",
+  "tư thế",
+  "mò",
+  "y học",
+  "bệnh tật",
+  "đụ",
+  "ngoài trời",
+  "cổ tay",
+  "nước hoa",
+  "mạch máu",
+  "dứt khoát",
+  "xuống nước",
+  "reo",
+  "khám xét",
+  "mô hình",
+  "tư nhân",
+  "diễn tả",
+  "nhỏ xíu",
+  "bố trí",
+  "que",
+  "phết",
+  "phong bì",
+  "hừm",
+  "cộng hưởng",
+  "phản xạ",
+  "chọi",
+  "cám dỗ"
+ ],
+ "flags": [
+  {
+   "headword": "nhiêu",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The use of nhiêu in nhiêu đó is mainly Southern and lacks a regional tag.",
+   "fix": "Add Southern to the tags."
+  },
+  {
+   "headword": "dí",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Dí also commonly means to press or thrust something close to or against someone or something.",
+   "fix": "Add: to press or thrust something close to or against; example: Anh ta dí súng vào đầu tôi. = He pressed a gun against my head."
+  },
+  {
+   "headword": "đụ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example mentions the word đụ instead of using it as a verb meaning to have sex.",
+   "fix": "Anh ta chỉ muốn đụ chứ không muốn yêu. = He only wants to fuck, not to love."
+  },
+  {
+   "headword": "chọi",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Chọi meaning to throw something at a target is mainly Southern usage and needs a regional tag.",
+   "fix": "Add Southern to the tags."
+  }
+ ]
+}

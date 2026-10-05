@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "lớn lao",
+  "kín đáo",
+  "nhà tắm",
+  "ca sĩ",
+  "vui chơi",
+  "thường dân",
+  "trọn",
+  "trở ngại",
+  "toa",
+  "thám hiểm",
+  "lợi hại",
+  "nứt",
+  "khiếp",
+  "nhân tạo",
+  "me",
+  "lõi",
+  "xâm lược",
+  "với lại",
+  "kế toán",
+  "chút ít",
+  "quá sức",
+  "ngụy trang",
+  "bồi thường",
+  "gián đoạn",
+  "quyền lợi",
+  "bất động sản",
+  "cá sấu",
+  "trái phép",
+  "tâm sự",
+  "hóa trang",
+  "dơi",
+  "điếc",
+  "ngứa",
+  "an thần",
+  "tẩy",
+  "khôn",
+  "chối",
+  "hành hạ",
+  "quy trình",
+  "bó"
+ ],
+ "flags": [
+  {
+   "headword": "trở ngại",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example unnaturally uses trở ngại as a transitive verb meaning 'hinder'.",
+   "fix": "Mưa lớn gây trở ngại cho việc đi lại của mọi người. = Heavy rain hindered everyone's travel."
+  },
+  {
+   "headword": "toa",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The prescription meaning is mainly Southern usage, as noted in [VDict](https://vdict.com/toa,3,0,0.html).",
+   "fix": "Add the tag Southern."
+  },
+  {
+   "headword": "với lại",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The example uses ordinary everyday coordination, so uncommon misleadingly labels a common usage.",
+   "fix": "Replace uncommon with colloquial."
+  },
+  {
+   "headword": "cá sấu",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Ugly duckling adds a potentially sympathetic implication of later beauty that the Vietnamese insult does not express.",
+   "fix": "In high school they called her a crocodile, meaning she was ugly."
+  },
+  {
+   "headword": "tẩy",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The example concerns removing intestinal worms, whereas the gloss suggests bowel purging rather than the removal of harmful substances or parasites described in [VDict](https://vdict.com/t%E1%BA%A9y,3,0,0.html).",
+   "fix": "to remove harmful substances or parasites from the body"
+  },
+  {
+   "headword": "bó",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common clothing meaning 'tight; close-fitting' is missing.",
+   "fix": "adj | tight; close-fitting (of clothing). Ex: Chiếc áo này bó quá. = This shirt is too tight."
+  }
+ ]
+}

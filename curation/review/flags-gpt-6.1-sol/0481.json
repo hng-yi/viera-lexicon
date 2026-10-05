@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "hồng phiến",
+  "hồng quần",
+  "hồng thuỷ",
+  "hồng trà",
+  "hồng táo",
+  "hồng xiêm",
+  "hổ báo",
+  "hổ khẩu",
+  "hổ phụ sinh hổ tử",
+  "hổm",
+  "hổm rày",
+  "hổn ha hổn hển",
+  "hỗ huệ",
+  "hỗ tương",
+  "hỗn hào",
+  "hỗn số",
+  "hộ tịch",
+  "hộc máu",
+  "hộc tốc",
+  "hội chứng suy giảm miễn dịch mắc phải",
+  "hội chứng sợ",
+  "hội chứng sợ chú hề",
+  "hội hoạ",
+  "hội khuyến học",
+  "hội nghị thượng đỉnh",
+  "hội nhập",
+  "hội thao",
+  "hội thẩm nhân dân",
+  "hội tuyển",
+  "hội âm",
+  "hội đoàn",
+  "hội đồng xét xử",
+  "hộp đêm",
+  "hột le",
+  "hột vịt lộn",
+  "hột xoàn",
+  "hớt hải",
+  "hờn giận",
+  "hờn tủi",
+  "hở hàm ếch"
+ ],
+ "flags": [
+  {
+   "headword": "hồng phiến",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Hồng phiến refers to methamphetamine tablets, rather than amphetamine generally ([source](https://www.cbqqo.edu.vn/cach-nhan-dien-cac-loai-ma-tuy-phan-2.html)).",
+   "fix": "methamphetamine tablets (an illegal stimulant drug)"
+  },
+  {
+   "headword": "hồng phiến",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what hồng phiến is instead of showing it in use.",
+   "fix": "Cảnh sát thu giữ một túi hồng phiến. = The police seized a bag of methamphetamine tablets."
+  },
+  {
+   "headword": "hồng quần",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the historical term instead of using it to refer to a woman.",
+   "fix": "Hồng quân với khách hồng quần, đã xoay đến thế còn vần chưa tha. = Heaven has tormented this beauty so much, yet still will not spare her."
+  },
+  {
+   "headword": "hồng xiêm",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Hồng xiêm is mainly the Northern name for this fruit and needs a regional label ([source](https://tuoitre.vn/phunuonline/cung-mot-mon-an-nguoi-mien-bac-goi-khac-nguoi-mien-nam-ra-sao-110108307.htm)).",
+   "fix": "[Northern]"
+  },
+  {
+   "headword": "hội chứng suy giảm miễn dịch mắc phải",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the name and abbreviation instead of using the term in context.",
+   "fix": "Anh ấy được chẩn đoán mắc hội chứng suy giảm miễn dịch mắc phải. = He was diagnosed with acquired immune deficiency syndrome."
+  },
+  {
+   "headword": "hội âm",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the anatomical location instead of showing the word in use.",
+   "fix": "Bác sĩ kiểm tra vùng hội âm. = The doctor examined the perineal area."
+  },
+  {
+   "headword": "hội âm",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the character-forming method instead of using its name in context.",
+   "fix": "Tác giả dành một chương để phân tích phép hội âm trong chữ Nôm. = The author devotes a chapter to analyzing compound phonograms in chữ Nôm."
+  }
+ ]
+}

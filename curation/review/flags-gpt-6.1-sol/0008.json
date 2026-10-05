@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tối",
+  "dừng",
+  "đánh",
+  "chút",
+  "nhỉ",
+  "dưới",
+  "câu",
+  "ba",
+  "hoặc",
+  "tại",
+  "rõ",
+  "hôm nay",
+  "lo",
+  "đêm",
+  "phía",
+  "súng",
+  "hàng",
+  "trông",
+  "đáng",
+  "uống",
+  "sẵn sàng",
+  "xong",
+  "có vẻ",
+  "như thế",
+  "đợi",
+  "trả",
+  "sáng",
+  "cuối cùng",
+  "nhỏ",
+  "Tàu",
+  "tàu",
+  "gia đình",
+  "làm sao",
+  "gã",
+  "bảo vệ",
+  "thành",
+  "xa",
+  "trẻ",
+  "bất cứ",
+  "sắp"
+ ],
+ "flags": [
+  {
+   "headword": "ba",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "The Southern family title Ba indicates the second-born child, not necessarily the second-eldest sister.",
+   "fix": "My sister Ba, the second-born child in our family, sells bánh mì at the end of the alley."
+  },
+  {
+   "headword": "tại",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The locative sense is formal, as the gloss itself notes, but lacks the formal warning tag.",
+   "fix": "Add the formal tag."
+  },
+  {
+   "headword": "Tàu",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "The gloss explicitly identifies potentially derogatory usage, but the tags do not warn the learner.",
+   "fix": "Use tags: informal, derogatory."
+  }
+ ]
+}

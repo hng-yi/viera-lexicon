@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "lung linh",
+  "con giáp",
+  "cam go",
+  "bán kết",
+  "tự ti",
+  "lí giải",
+  "ngạn ngữ",
+  "hạ giới",
+  "au",
+  "nhân ái",
+  "bình chọn",
+  "tri kỉ",
+  "thân thế",
+  "chỏm",
+  "mắm",
+  "nhã",
+  "tác hại",
+  "xấp",
+  "ống thông",
+  "mới đầu",
+  "mềm dẻo",
+  "nhân sâm",
+  "tự vấn",
+  "láo xược",
+  "hoạch định",
+  "dò la",
+  "áo quan",
+  "mở toang",
+  "nhỏ lẻ",
+  "chu kì",
+  "thư mục",
+  "hấp thu",
+  "xót thương",
+  "trân châu",
+  "miếu",
+  "trạc",
+  "ửng",
+  "chập",
+  "nhún",
+  "hảo tâm"
+ ],
+ "flags": [
+  {
+   "headword": "au",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Au is commonly used in đỏ au, so the rare tag misrepresents its everyday currency.",
+   "fix": "Remove the rare tag; retain in-compounds."
+  },
+  {
+   "headword": "tri kỉ",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Tri kỉ does not mean to confide or open one's heart, and the example incorrectly uses it as that verb.",
+   "fix": "Remove sense 2 and its example."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "xóm làng",
+  "xóm nhà lá",
+  "xô rạp",
+  "xô đùa",
+  "xô-nát",
+  "xô-đa",
+  "xôi cadé",
+  "xôi vò",
+  "xông nhà",
+  "xông đất",
+  "xõng",
+  "xù lông nhím",
+  "xùm xòa",
+  "xú uế",
+  "xú xuân",
+  "xúc than",
+  "xúi hẻo",
+  "xúm xít",
+  "xúng xính",
+  "xúp cua",
+  "xút",
+  "xăm xăm",
+  "xăng nhớt",
+  "xăng xái",
+  "xăng-ti-mét",
+  "xăng-đan",
+  "xơ cua",
+  "xơ cứng rải rác",
+  "xơ hoá",
+  "xơ rơ",
+  "xưa kia",
+  "xưa lắc xưa lơ",
+  "xưng bá",
+  "xưng hùng",
+  "xưng xưng",
+  "xương bàn đạp",
+  "xương búa",
+  "xương cùng",
+  "xương cả",
+  "xương dăm"
+ ],
+ "flags": [
+  {
+   "headword": "xơ rơ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is dialectal everyday speech rather than a literary expression, as recorded in [Rung.vn](https://v2.rung.vn/dict/vn_vn/X%C6%A1_r%C6%A1).",
+   "fix": "Remove the literary tag."
+  },
+  {
+   "headword": "xương bàn đạp",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains an anatomical fact about the word instead of showing its use in context.",
+   "fix": "Bác sĩ phát hiện xương bàn đạp của cô ấy bị tổn thương. = The doctor found that her stapes was damaged."
+  },
+  {
+   "headword": "xương cả",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example identifies the bone by definition instead of showing its use in context.",
+   "fix": "Anh ấy bị gãy xương cả sau khi ngã xe. = He fractured his capitate bone after falling off his bike."
+  }
+ ]
+}

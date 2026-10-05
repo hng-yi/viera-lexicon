@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "bao kiếm",
+  "bao lì xì",
+  "bao nả",
+  "bao quanh",
+  "bao quy đầu",
+  "bao sân",
+  "bao đồng",
+  "bay bướm",
+  "bay màu",
+  "bay não",
+  "bazơ",
+  "beckeli",
+  "beri",
+  "bi ba bi bô",
+  "bi ca",
+  "bi chí",
+  "bi hoan",
+  "bi phẫn",
+  "bi tâm",
+  "bi-a",
+  "bi-tum",
+  "bi-đông",
+  "bia miệng",
+  "binh bông",
+  "binh bị",
+  "binh chế",
+  "binh lửa",
+  "binh vận",
+  "bismut",
+  "biên chung",
+  "biên khánh",
+  "biên thuỳ",
+  "biếm hoạ",
+  "biến cách",
+  "biến cải",
+  "biến hoá",
+  "biến hoán",
+  "biến nhiệt",
+  "biến thành",
+  "biến thái hoàn toàn"
+ ],
+ "flags": [
+  {
+   "headword": "bao quy đầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Bác sĩ kiểm tra bao quy đầu cho bệnh nhân. = The doctor examined the patient's foreskin."
+  },
+  {
+   "headword": "bay bướm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common meaning describing a man who is flirtatious with women.",
+   "fix": "adj | flirtatious (of a man)"
+  },
+  {
+   "headword": "beckeli",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the element is instead of showing the word in use.",
+   "fix": "Các nhà khoa học chỉ tạo ra được một lượng rất nhỏ beckeli. = Scientists could produce only a very small amount of berkelium."
+  },
+  {
+   "headword": "biên khánh",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the instrument's construction instead of showing the word in use.",
+   "fix": "Bảo tàng trưng bày một bộ biên khánh cổ. = The museum displays an ancient set of stone chimes."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "ép",
+  "tiệm",
+  "màn",
+  "sữa",
+  "nhẹ",
+  "hiệp sĩ",
+  "hiện trường",
+  "sinh vật",
+  "trẻ em",
+  "tội nghiệp",
+  "đe",
+  "bảy",
+  "tin tức",
+  "đến nơi",
+  "ngắm",
+  "tiếp cận",
+  "vương quốc",
+  "hư",
+  "vớ",
+  "cứu mạng",
+  "trả thù",
+  "nút",
+  "gác",
+  "sói",
+  "sẵn",
+  "số phận",
+  "không khí",
+  "ấm",
+  "đấm",
+  "tướng",
+  "mồm",
+  "đau khổ",
+  "nhân chứng",
+  "nền",
+  "thiết kế",
+  "tổ",
+  "quyển",
+  "ổn định",
+  "sàn",
+  "cát"
+ ],
+ "flags": [
+  {
+   "headword": "ép",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter's name instead of using it in context.",
+   "fix": "Tôi gõ nhầm chữ ép thành chữ pê. = I accidentally typed P instead of F."
+  },
+  {
+   "headword": "sẵn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common colloquial meaning 'since the opportunity is there; while at it' is missing ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-s%E1%BA%B5n)).",
+   "fix": "conjunction [colloquial] | since the opportunity is there; while at it. Example: Sẵn có xe, mời anh cùng đi. = Since we have a vehicle available, come along with us."
+  },
+  {
+   "headword": "nền",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "In this example, nền nhà means the house's floor, whereas its structural foundation is móng nhà.",
+   "fix": "They poured concrete to make the floor of the house."
+  }
+ ]
+}

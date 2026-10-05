@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "nhu yếu",
+  "nhum",
+  "nhung mao",
+  "nhuần",
+  "nhuốc nha",
+  "nhuỵ",
+  "nhà bè",
+  "nhà bạt",
+  "nhà chọc trời",
+  "nhà dây thép",
+  "nhà dòng",
+  "nhà giàu mới nổi",
+  "nhà giả kim",
+  "nhà giữ trẻ",
+  "nhà là phải có nóc",
+  "nhà lá",
+  "nhà lầu",
+  "nhà máy lọc dầu",
+  "nhà máy điện",
+  "nhà nông",
+  "nhà quân",
+  "nhà rường",
+  "nhà sạch thì mát, bát sạch ngon cơm",
+  "nhà táng",
+  "nhà vàng",
+  "nhà vô địch",
+  "nhà văn hoá",
+  "nhà để xe",
+  "nhàn cư vi bất thiện",
+  "nhàu",
+  "nhàu nhĩ",
+  "nhá máy",
+  "nhá nhem",
+  "nhác",
+  "nhác thấy",
+  "nhách",
+  "nháo",
+  "nháo nhác",
+  "nhát gái",
+  "nhát ma"
+ ],
+ "flags": [
+  {
+   "headword": "nhà giàu mới nổi",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This label disparages newly wealthy people as lacking taste or social refinement and can insult someone.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "nhà quân",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This pronoun belongs to certain North Central dialects, as recorded in [Wiktionary](https://en.wiktionary.org/wiki/nh%C3%A0_qu%C3%A2n), so rare alone misses the regional restriction.",
+   "fix": "Tags: [rare, Central]."
+  },
+  {
+   "headword": "nhà quân",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This plural pronoun also belongs to certain North Central dialects, as recorded in [Wiktionary](https://en.wiktionary.org/wiki/nh%C3%A0_qu%C3%A2n).",
+   "fix": "Tags: [rare, Central]."
+  },
+  {
+   "headword": "nhàn cư vi bất thiện",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the proverb instead of applying it to a situation.",
+   "fix": "Ông thấy đám thanh niên rảnh rỗi suốt ngày tụ tập đánh bạc, bèn lắc đầu: \"Nhàn cư vi bất thiện.\" = Seeing the idle young men gathering to gamble all day, he shook his head: \"Idle hands do mischief.\""
+  },
+  {
+   "headword": "nhác",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The lazy sense remains current in Central Vietnamese; [Wiktionary](https://en.wiktionary.org/wiki/nh%C3%A1c) restricts its archaic status to other dialects.",
+   "fix": "Tags: [Central]."
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "vùng vằng",
+  "vùng đặc quyền kinh tế",
+  "vú sữa",
+  "vú vê",
+  "văn bia",
+  "văn bản quy phạm pháp luật",
+  "văn cảnh",
+  "văn hiến",
+  "văn hoá",
+  "văn hoá phẩm",
+  "văn hào",
+  "văn khoa",
+  "văn lí",
+  "văn miếu",
+  "văn mạch",
+  "văn ngôn",
+  "văn nhân",
+  "văn pháp",
+  "văn phạm",
+  "văn sĩ",
+  "văn võ song toàn",
+  "văn vần",
+  "vĩnh tồn",
+  "vũ cầu",
+  "vũ khí huỷ diệt hàng loạt",
+  "vũ khí hạt nhân",
+  "vũ khí hủy diệt hàng loạt",
+  "vũ kế",
+  "vũ kịch",
+  "vũ lượng",
+  "vũ lượng kế",
+  "vũ nữ thoát y",
+  "vũ trụ luận",
+  "vơ đũa cả nắm",
+  "vươn mình",
+  "vươn ra biển lớn",
+  "vương phi",
+  "vương thái hậu",
+  "vương đại phi",
+  "vườn bách thú"
+ ],
+ "flags": [
+  {
+   "headword": "vú vê",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example mentions the expression itself instead of using it to refer to breasts.",
+   "fix": "Nó cứ nhìn chằm chằm vào vú vê của người ta. = He keeps staring at other people's boobs."
+  },
+  {
+   "headword": "văn hoá",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common sense of civilised behaviour or good manners, as in cư xử có văn hoá, is missing ([dictionary](https://tratu.soha.vn/dict/vn_vn/V%C4%83n_ho%C3%A1)).",
+   "fix": "civilised behaviour; good manners"
+  },
+  {
+   "headword": "vũ cầu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the word denotes instead of using it in context.",
+   "fix": "Anh ấy thích chơi vũ cầu. = He likes playing badminton."
+  },
+  {
+   "headword": "vũ cầu",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The archaic tag misleadingly suggests the term is obsolete, although it still appears in contemporary usage ([school programme](https://lsts.edu.vn/images/uploads/2026/04/02/20260402044554234_a01bcc22-bd88-4658-ba04-393b80209187.pdf)).",
+   "fix": "Remove archaic."
+  },
+  {
+   "headword": "vương thái hậu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Vương thái hậu bước vào điện. = The queen dowager entered the palace hall."
+  },
+  {
+   "headword": "vương đại phi",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the title instead of showing it in use.",
+   "fix": "Nhà vua đến thăm mẹ mình, Vương đại phi. = The king visited his mother, the queen mother."
+  },
+  {
+   "headword": "vương đại phi",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the title instead of showing it in use.",
+   "fix": "Vương đại phi vẫn sống trong cung sau khi chồng bà qua đời. = The queen dowager continued living in the palace after her husband died."
+  }
+ ]
+}

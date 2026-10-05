@@ -1,0 +1,102 @@
+{
+ "headwords": [
+  "rượn",
+  "rượt bắt",
+  "rượu cẩm",
+  "rượu cốctay",
+  "rượu mùi",
+  "rượu mời không uống, muốn uống rượu phạt",
+  "rượu nếp",
+  "rượu quốc lủi",
+  "rượu đế",
+  "rạc",
+  "rạm",
+  "rạn san hô",
+  "rạng đông",
+  "rạp chiếu bóng",
+  "rạp chiếu phim",
+  "rảnh rỗi sinh nông nổi",
+  "rấm",
+  "rấp",
+  "rất mực",
+  "rầm rập",
+  "rẩy",
+  "rậm rật",
+  "rập rình",
+  "rập rờn",
+  "rập đầu",
+  "rắn cạp nia",
+  "rắn cạp nia biển",
+  "rắn cạp nong",
+  "rắn hổ mang",
+  "rắn mối",
+  "rắn nước",
+  "rắn đuôi chuông",
+  "rắn đầu",
+  "rắp",
+  "rặc",
+  "rặng núi",
+  "rẻ rề",
+  "rẻ thối",
+  "rẻo",
+  "rế"
+ ],
+ "flags": [
+  {
+   "headword": "rượn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use belongs to Central and Southern speech, as recorded in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf), rather than Northern speech.",
+   "fix": "[Central, Southern]"
+  },
+  {
+   "headword": "rượt bắt",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The game name is mainly Southern usage and needs a regional label.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "rượt bắt",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The verb is mainly Southern usage and needs a regional label.",
+   "fix": "[Southern]"
+  },
+  {
+   "headword": "rất mực",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This intensifier belongs mainly to formal writing and speech, as described in the [dictionary usage note](https://dictionary.zim.vn/viet-anh/rat-muc-tieng-anh-la-gi).",
+   "fix": "[formal]"
+  },
+  {
+   "headword": "rắn cạp nia",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The name also denotes the many-banded krait, as documented by [Pù Luông Nature Reserve](https://baotonpuluong.vn/web/trang-chu/bao-ton-amp%3B-da-dang-sinh-hoc/bao-ton-bo-sat/ran-cap-nia-bac.html), so identifying it exclusively as the Malayan krait teaches a false species equivalence.",
+   "fix": "black-and-white-banded krait (a highly venomous snake)"
+  },
+  {
+   "headword": "rặc",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The ebbing-water sense is mainly Central and Southern usage, as noted in [VDict](https://vdict.com/r%E1%BA%B7c%2C3%2C0%2C0.html).",
+   "fix": "[Central, Southern]"
+  },
+  {
+   "headword": "rẻ rề",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is mainly Southern usage and needs a regional label.",
+   "fix": "[colloquial, Southern]"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "headwords": [
+  "quang phổ",
+  "thân thủ",
+  "bàn thảo",
+  "thí",
+  "bạn hữu",
+  "cửa tiệm",
+  "biểu dương",
+  "nước máy",
+  "bàn là",
+  "vô đạo",
+  "hồng hào",
+  "lánh",
+  "chủng loại",
+  "bách khoa",
+  "đạo sĩ",
+  "bùi nhùi",
+  "lởm chởm",
+  "gian truân",
+  "oách",
+  "nước rút",
+  "phản cảm",
+  "linh đình",
+  "rượu nho",
+  "gọn nhẹ",
+  "táo bón",
+  "văng vẳng",
+  "uẩn khúc",
+  "ba lô",
+  "tài nghệ",
+  "xã hội chủ nghĩa",
+  "bền bỉ",
+  "ngấm ngầm",
+  "tiêu phí",
+  "cung kính",
+  "nhân mã",
+  "đảng phái",
+  "chỗ kín",
+  "phồn vinh",
+  "cường quốc",
+  "sinh khí"
+ ],
+ "flags": [
+  {
+   "headword": "bàn thảo",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Bàn thảo means to discuss or deliberate and does not imply reaching a conclusion.",
+   "fix": "to discuss; to deliberate"
+  },
+  {
+   "headword": "thí",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thí can mean sacrificing a piece or person for an advantage, without being in a tight spot.",
+   "fix": "to sacrifice (a piece, a person) for a tactical advantage"
+  },
+  {
+   "headword": "bàn là",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Bàn là is mainly Northern usage and needs a regional label.",
+   "fix": [
+    "Northern"
+   ]
+  },
+  {
+   "headword": "vô đạo",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense of vô đạo belongs to literary language and would sound unusual in ordinary casual speech.",
+   "fix": [
+    "literary"
+   ]
+  },
+  {
+   "headword": "nhân mã",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a centaur instead of showing the word in use.",
+   "fix": "Con nhân mã giương cung nhắm vào mục tiêu. = The centaur raised its bow and aimed at the target."
+  }
+ ]
+}

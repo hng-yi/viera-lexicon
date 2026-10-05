@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "pháo lồng",
+  "pháo lủi",
+  "pháp danh",
+  "pháp gia",
+  "pháp luân",
+  "pháp lệnh",
+  "pháp quyền",
+  "pháp tuyến",
+  "pháp điển",
+  "pháp điển hoá",
+  "pháp điển hóa",
+  "phát bệnh",
+  "phát hoả",
+  "phát lưu",
+  "phát lộ",
+  "phân biệt vùng miền",
+  "phân biệt đối xử",
+  "phân bua",
+  "phân bì",
+  "phân công lao động",
+  "phân hiệu",
+  "phân hoá",
+  "phân hoá tố",
+  "phân huỷ",
+  "phân hóa tố",
+  "phân hội",
+  "phân khoa",
+  "phân loại học",
+  "phân loại sinh học",
+  "phân lưu",
+  "phân rã alpha",
+  "phân rã beta",
+  "phân rã hạt",
+  "phân rẽ",
+  "phân từ",
+  "phân từ hiện tại",
+  "phân từ quá khứ",
+  "phân tử khối",
+  "phân viện",
+  "phây"
+ ],
+ "flags": [
+  {
+   "headword": "phát bệnh",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Bệnh hen dễ phát bệnh” is unnatural because phát bệnh normally describes a person developing symptoms, not an illness developing an illness.",
+   "fix": "Người bị hen dễ phát bệnh khi trời trở lạnh. = People with asthma are prone to developing symptoms when the weather turns cold."
+  },
+  {
+   "headword": "phát hoả",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The catch-fire sense remains current and should not be labelled dated ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ph%C3%A1t%20h%E1%BB%8Fa)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "phát hoả",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The open-fire sense remains current in military usage and should not be labelled dated ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ph%C3%A1t%20h%E1%BB%8Fa)).",
+   "fix": "Remove the dated tag."
+  },
+  {
+   "headword": "phân bì",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Phân bì means comparing enviously, not discriminating between or against pupils ([dictionary](https://vdict.com/ph%C3%A2n%20b%C3%AC%2C3%2C0%2C0.html)).",
+   "fix": "Delete sense 2."
+  }
+ ]
+}

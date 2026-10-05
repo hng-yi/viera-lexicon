@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "phép mầu",
+  "vô học",
+  "ngơ ngác",
+  "sư đệ",
+  "vai vế",
+  "ranh mãnh",
+  "mây mù",
+  "y nguyên",
+  "khuyết",
+  "vù",
+  "đánh tráo",
+  "tiều phu",
+  "gò bó",
+  "bưu chính",
+  "tậu",
+  "chắp nối",
+  "vô song",
+  "túi mật",
+  "triết",
+  "nhớp",
+  "nồng ấm",
+  "cuồng bạo",
+  "pháp lí",
+  "thánh nữ",
+  "mưa đá",
+  "cộc",
+  "chán ngán",
+  "đông nghẹt",
+  "ngoẻo",
+  "tư chất",
+  "hút hồn",
+  "li ti",
+  "đặc cách",
+  "dan díu",
+  "thư sinh",
+  "nông nô",
+  "bươm",
+  "máy chữ",
+  "đa thê",
+  "phố xá"
+ ],
+ "flags": [
+  {
+   "headword": "khuyết",
+   "sense": 3,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This is a current regional name for a familiar food ingredient, so 'rare' is misleading ([usage](https://nongthonmoi.gov.vn/Pages/Phu-Dien-duoc-mua-khuyet-378955.aspx)).",
+   "fix": "[Central]"
+  },
+  {
+   "headword": "tiều phu",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs primarily to literary storytelling rather than ordinary conversation.",
+   "fix": "[literary]"
+  },
+  {
+   "headword": "pháp lí",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "'Pháp lí' means relating to law, not 'lawful' in the sense of permitted by law.",
+   "fix": "legal; relating to law"
+  },
+  {
+   "headword": "cộc",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the everyday meaning 'short-tempered', as in 'Tính anh ấy rất cộc'.",
+   "fix": "adj | short-tempered; easily angered"
+  },
+  {
+   "headword": "hút hồn",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common verb meaning 'to captivate', which is not restricted to following an adjective ([definition](https://vi.wiktionary.org/wiki/h%C3%BAt_h%E1%BB%93n)).",
+   "fix": "verb | to captivate; to mesmerise — Giọng hát của cô ấy hút hồn người nghe. = Her singing voice captivates listeners."
+  },
+  {
+   "headword": "thư sinh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A 'thư sinh' is a student or scholar of old and need not be poor or frail.",
+   "fix": "young student or scholar of old, studying the Chinese classics"
+  }
+ ]
+}

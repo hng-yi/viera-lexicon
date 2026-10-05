@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "người ta",
+  "quấn",
+  "công tước",
+  "choàng",
+  "lo ngại",
+  "giời",
+  "vật thể",
+  "ý muốn",
+  "phấn khích",
+  "sex",
+  "dạ dày",
+  "viếng thăm",
+  "chồn",
+  "củi",
+  "Ả Rập",
+  "khe",
+  "mánh",
+  "giếng",
+  "định nghĩa",
+  "tu viện",
+  "chơi đùa",
+  "rực rỡ",
+  "trục",
+  "khiêu dâm",
+  "lê",
+  "ủy",
+  "kì diệu",
+  "gầm",
+  "Hồi giáo",
+  "dải",
+  "ghi chú",
+  "thắp",
+  "lạ lùng",
+  "nhận diện",
+  "người tình",
+  "ổ chuột",
+  "tư tưởng",
+  "trời đất",
+  "phá sản",
+  "cư dân"
+ ],
+ "flags": [
+  {
+   "headword": "choàng",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The bamboo-rope meaning belongs to chạc, not choàng ([dictionary](https://loigiaihay.com/tu-dien-tv/chac-etPQMfFCIYfGB.html)).",
+   "fix": "Remove sense 4."
+  },
+  {
+   "headword": "sex",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "Sex commonly means sexual activity or intercourse in Vietnamese, a meaning absent here ([usage](https://vnexpress.net/dieu-gi-xay-ra-khi-sex-hang-ngay-4526739.html)).",
+   "fix": "Add: noun [colloquial] | sex; sexual activity; sexual intercourse."
+  }
+ ]
+}

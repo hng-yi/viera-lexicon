@@ -1,0 +1,150 @@
+{
+ "headwords": [
+  "cắt ngang",
+  "cắt nghĩa",
+  "cắt phiên",
+  "cắt tóc",
+  "cằn nhằn cử nhử",
+  "cặp bài trùng",
+  "cặp bồ",
+  "cặp kè",
+  "cọng sả",
+  "cọt cà cọt kẹt",
+  "cỏ bợ",
+  "cỏ gà",
+  "cỏ may",
+  "cỏ máu",
+  "cỏ tranh",
+  "cố chí",
+  "cố lên",
+  "cốp pha",
+  "cốt cách",
+  "cốt cán",
+  "cốt tuỷ",
+  "cốt-lết",
+  "cồ cộ",
+  "cồm cộp",
+  "cồn cát",
+  "cồng",
+  "cồng chiêng",
+  "cổ khí hậu học",
+  "cổ kim",
+  "cổ lai hi",
+  "cổ nhân loại học",
+  "cổ phong",
+  "cổ sinh thái học",
+  "cổ sơ",
+  "cổ trang",
+  "cổ tức",
+  "cổ tự học",
+  "cổ xuý",
+  "cổ xúy",
+  "cổ địa lí học"
+ ],
+ "flags": [
+  {
+   "headword": "cắt ngang",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common physical sense of crossing or cutting across something is missing.",
+   "fix": "Add: to cross; to cut across, as in 'Con đường cắt ngang cánh đồng.' = 'The road cuts across the field.'"
+  },
+  {
+   "headword": "cắt phiên",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The phrase means assigning turns or shifts, rather than taking turns or working shifts ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%E1%BA%AFt)).",
+   "fix": "to assign turns; to allocate shifts"
+  },
+  {
+   "headword": "cắt tóc",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is used throughout Vietnam, including in Southern speech ([usage example](https://www.webtretho.vn/f/toc-nail/cac-me-oi-cho-em-hoi-o-sai-gon-cat-toc-tem-o-dau-dep-vay-a-1869383)).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "cắt tóc",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Cutting someone's hair is expressed with cắt tóc throughout Vietnam ([Southern usage](https://classic.vn/danh-sach-nhung-tiem-toc-barber-shop-cuc-chat-tai-sai-gon/)).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "cắt tóc",
+   "sense": 3,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The expression for the act or service of cutting hair is nationwide ([Southern usage](https://lamtocdepgovap.com/cat-toc/cat-toc-dep-go-vap-hair-salon-cat-toc-dep-chuyen-nghiep-sai-gon.html)).",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "cọng sả",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This political pun is commonly used to mock communists and needs a derogatory warning.",
+   "fix": "Tags: euphemistic, Internet, derogatory."
+  },
+  {
+   "headword": "cọng sả",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the spelling substitution instead of using the political meaning.",
+   "fix": "Nó lại chửi cọng sả trên mạng. = He is insulting communists online again."
+  },
+  {
+   "headword": "cốt cách",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense belongs to literary or elevated language rather than ordinary casual descriptions of someone's character.",
+   "fix": "Add literary."
+  },
+  {
+   "headword": "cổ khí hậu học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines palaeoclimatology instead of showing the term in a non-definitional context.",
+   "fix": "Cô ấy đang học cổ khí hậu học. = She is studying palaeoclimatology."
+  },
+  {
+   "headword": "cổ nhân loại học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines palaeoanthropology instead of showing the term in a non-definitional context.",
+   "fix": "Anh ấy muốn theo ngành cổ nhân loại học. = He wants to pursue palaeoanthropology."
+  },
+  {
+   "headword": "cổ sinh thái học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines palaeoecology instead of showing the term in a non-definitional context.",
+   "fix": "Cô ấy vừa xuất bản một bài báo về cổ sinh thái học. = She has just published a paper on palaeoecology."
+  },
+  {
+   "headword": "cổ tự học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what palaeography does instead of showing the term in a non-definitional context.",
+   "fix": "Tôi đang đọc một cuốn sách về cổ tự học. = I am reading a book on palaeography."
+  },
+  {
+   "headword": "cổ địa lí học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what palaeogeography does instead of showing the term in a non-definitional context.",
+   "fix": "Thư viện có nhiều tài liệu về cổ địa lí học. = The library has many resources on palaeogeography."
+  }
+ ]
+}

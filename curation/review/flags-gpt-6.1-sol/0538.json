@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "nặng tai",
+  "nặng vía",
+  "nẻo đường",
+  "nếm mật nằm gai",
+  "nếp sống",
+  "nếp than",
+  "nết na",
+  "nền nã",
+  "nền nếp",
+  "nệ",
+  "nệm hơi",
+  "nệm xe",
+  "nỉ non",
+  "nịch",
+  "nịt vú",
+  "nọng",
+  "nối chữ",
+  "nối dòng",
+  "nối lại",
+  "nối ngôi",
+  "nối từ",
+  "nốt chu sa",
+  "nốt tròn",
+  "nốt trắng",
+  "nốt đen",
+  "nồi cơm điện",
+  "nồi niêu xoong chảo",
+  "nồi nấu chảy",
+  "nồi đất",
+  "nổ não",
+  "nổi cơn tam bành",
+  "nổi cộm",
+  "nổi nênh",
+  "nổng",
+  "nội bào",
+  "nội bào tử",
+  "nội bất xuất, ngoại bất nhập",
+  "nội bệnh lí",
+  "nội chất",
+  "nội khí quản"
+ ],
+ "flags": [
+  {
+   "headword": "nặng vía",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The folk belief concerns bringing misfortune to others, rather than being prone to misfortune oneself ([source](https://vanhoatamlinh.com/via-la-gi-trom-via-la-gi-via-nang-via-nhe-la-nhu-the-nao/)).",
+   "fix": "believed to bring bad luck to others (folk belief)"
+  },
+  {
+   "headword": "nệm xe",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Nệm xe denotes the seat cushioning, whereas its covering is bọc nệm xe ([source](https://tuantuauto.com/boc-nem-xe-hoi)).",
+   "fix": "vehicle seat cushion; seat padding"
+  },
+  {
+   "headword": "nội chất",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines endoplasm instead of showing the word in use.",
+   "fix": "Các hạt nhỏ chuyển động trong nội chất. = Small particles move within the endoplasm."
+  }
+ ]
+}

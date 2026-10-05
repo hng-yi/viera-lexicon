@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "hiếu",
+  "phát thanh viên",
+  "sinh nhai",
+  "quy củ",
+  "nhành",
+  "bất biến",
+  "ức",
+  "mọt sách",
+  "nhạn",
+  "phễu",
+  "nước da",
+  "nghiến",
+  "nhen",
+  "phòng thân",
+  "than đá",
+  "thỏa thích",
+  "đình trệ",
+  "có một không hai",
+  "chà xát",
+  "lãnh đạm",
+  "phân giải",
+  "đá vôi",
+  "lòng sông",
+  "tút",
+  "thi công",
+  "hò",
+  "thản nhiên",
+  "râu mép",
+  "trơ trọi",
+  "lí lịch",
+  "gòn",
+  "chính trực",
+  "khôn lường",
+  "lắp bắp",
+  "than thở",
+  "thiết nghĩ",
+  "sến",
+  "thiên đình",
+  "vôn",
+  "lờ mờ"
+ ],
+ "flags": [
+  {
+   "headword": "hiếu",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "“Rất hiếu với cha mẹ” is unnatural here; the usual construction is “rất có hiếu với cha mẹ.”",
+   "fix": "Cô ấy là người con rất có hiếu với cha mẹ. = She is very dutiful towards her parents."
+  },
+  {
+   "headword": "nhen",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the animal instead of showing the word in use.",
+   "fix": "Chúng tôi nhìn thấy một con nhen trong rừng. = We saw a treeshrew in the forest."
+  },
+  {
+   "headword": "gòn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This use of “gòn” is mainly Southern Vietnamese, as noted in this [regional usage account](https://www.vietnam.vn/en/sai-gon-la-noi-co-nhieu-cui-gon).",
+   "fix": "Add the Southern tag."
+  }
+ ]
+}

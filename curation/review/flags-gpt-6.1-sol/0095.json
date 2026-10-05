@@ -1,0 +1,78 @@
+{
+ "headwords": [
+  "nuôi dưỡng",
+  "Đại",
+  "đại",
+  "máy ảnh",
+  "áp dụng",
+  "mùi vị",
+  "cưỡng hiếp",
+  "đại bác",
+  "lộ trình",
+  "lãng quên",
+  "sơ đồ",
+  "giáo hội",
+  "diễn tập",
+  "đồng tiền",
+  "mua chuộc",
+  "hào hứng",
+  "siêu thị",
+  "chiến sĩ",
+  "đơn thuần",
+  "thành phần",
+  "âm tính",
+  "xúc",
+  "bảo lãnh",
+  "lịch trình",
+  "mấu chốt",
+  "phân nửa",
+  "quẹo",
+  "ADN",
+  "nghỉ phép",
+  "vinh danh",
+  "thanh thản",
+  "ứng viên",
+  "sống còn",
+  "lường",
+  "mô phỏng",
+  "quái thú",
+  "phân tử",
+  "chất lượng",
+  "thất nghiệp",
+  "phương án"
+ ],
+ "flags": [
+  {
+   "headword": "đồng tiền",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter đồng tiền meaning money or currency than a physical coin.",
+   "fix": "Put sense 2 before sense 1."
+  },
+  {
+   "headword": "bảo lãnh",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thư bảo lãnh uses bảo lãnh in its existing guarantee sense and does not establish a separate adjective meaning.",
+   "fix": "Remove sense 3; its example can illustrate sense 1."
+  },
+  {
+   "headword": "phân nửa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Phân nửa is mainly Southern usage but has no regional tag.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "quẹo",
+   "sense": 2,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The bent or crooked sense of quẹo is also regional Central and Southern usage.",
+   "fix": "Add the Central and Southern tags."
+  }
+ ]
+}

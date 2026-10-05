@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "đồng nhất",
+  "xem mặt",
+  "giục",
+  "khoa trương",
+  "phét",
+  "áo mưa",
+  "mê mẩn",
+  "uổng",
+  "át",
+  "nhân thân",
+  "tục",
+  "hủ",
+  "nước nhà",
+  "thị lực",
+  "khố",
+  "đồng quê",
+  "xử phạt",
+  "hạ đẳng",
+  "ác liệt",
+  "kính mến",
+  "tái hợp",
+  "phát đạt",
+  "gợn",
+  "quanh co",
+  "bậc thầy",
+  "lục quân",
+  "ốc đảo",
+  "lâm trận",
+  "nêm",
+  "kinh nguyệt",
+  "nịnh",
+  "thiếu hụt",
+  "phất",
+  "ruột thừa",
+  "ngoại ngữ",
+  "phế liệu",
+  "tinh cầu",
+  "chế giễu",
+  "choáng ngợp",
+  "gờ"
+ ],
+ "flags": [
+  {
+   "headword": "tục",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In tục truyền, tục refers to the people or popular usage, not to a legend or oral tradition ([dictionary](https://loigiaihay.com/tu-dien-tv/tuc-eX1A30AaeSyAB.html)).",
+   "fix": "Remove this sense; treat tục truyền as a separate entry."
+  },
+  {
+   "headword": "nhân thân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This sense belongs to formal administrative and legal language and needs a register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "thiếu hụt",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "The Vietnamese describes an increasing water shortage, whereas getting shorter describes decreasing length or duration.",
+   "fix": "The water supply here is becoming increasingly insufficient."
+  }
+ ]
+}

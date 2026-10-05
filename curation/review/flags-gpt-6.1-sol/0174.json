@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "xe kéo",
+  "vô sự",
+  "vắng vẻ",
+  "tộc người",
+  "bài bản",
+  "quần chúng",
+  "rung chuyển",
+  "tháo gỡ",
+  "dép",
+  "khít",
+  "xoăn",
+  "long trọng",
+  "quách",
+  "suy đồi",
+  "thủ cấp",
+  "lễ tân",
+  "cặn",
+  "ăn cướp",
+  "bán chạy",
+  "tái chế",
+  "vô ý",
+  "cầu cứu",
+  "ghi bàn",
+  "rình",
+  "kền",
+  "đặc tính",
+  "quần đùi",
+  "đặt cọc",
+  "cảm ứng",
+  "địa chấn",
+  "ốc sên",
+  "biệt động",
+  "á thần",
+  "xa lánh",
+  "cầu mong",
+  "tân",
+  "buồi",
+  "thám thính",
+  "kì dị",
+  "đài truyền hình"
+ ],
+ "flags": [
+  {
+   "headword": "quần chúng",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This term for the public belongs mainly to formal and political language, rather than ordinary casual speech.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "tái chế",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "“Chai nhựa này” refers to this plastic bottle, whereas the translation says these plastic bottles.",
+   "fix": "This plastic bottle can be recycled."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "headwords": [
+  "cúng dường",
+  "cúp điện",
+  "cút bắt",
+  "cút đi",
+  "căm căm",
+  "căm tức",
+  "căn bậc ba",
+  "căn bậc hai",
+  "căn cơ",
+  "căn cớ",
+  "căn do",
+  "căn thức",
+  "căn tính",
+  "căn tố",
+  "căng cắc",
+  "căng da bụng, chùng da mắt",
+  "căng tin",
+  "căng-gu-ru",
+  "căng-tin",
+  "cũ càng",
+  "cũn cỡn",
+  "cơ hàn",
+  "cơ học lượng tử",
+  "cơ hồ",
+  "cơ năng",
+  "cơ quan ngôn luận",
+  "cơ thể bệnh lí",
+  "cơ thể học",
+  "cơ thủ",
+  "cơ tim",
+  "cơi nới",
+  "cơm chiên",
+  "cơm chiên cá mặn",
+  "cơm cháy",
+  "cơm chẳng lành, canh chẳng ngọt",
+  "cơm gà",
+  "cơm gà Hải Nam",
+  "cơm gà Hội An",
+  "cơm không lành, canh không ngọt",
+  "cơm lam"
+ ],
+ "flags": [
+  {
+   "headword": "cúp điện",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This expression is used mainly in Southern Vietnamese but has no regional tag.",
+   "fix": "Add the Southern tag."
+  },
+  {
+   "headword": "cút đi",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This is an insulting command to leave, so an informal tag alone does not adequately warn the learner.",
+   "fix": "Use tags [informal, offensive]."
+  },
+  {
+   "headword": "căm căm",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The crab sense is spurious; [Vietnamese dictionaries](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-c%C4%83m%20c%C4%83m) define this word as describing bitter cold.",
+   "fix": "Delete sense 2 and its example."
+  },
+  {
+   "headword": "cơ năng",
+   "sense": 3,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "In this example, triệu chứng cơ năng means subjective symptoms reported by the patient, whereas functional symptoms suggests a different medical concept.",
+   "fix": "The doctor asks the patient about their subjective symptoms."
+  },
+  {
+   "headword": "cơ thể học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines anatomy instead of showing the word in use.",
+   "fix": "Sinh viên phải thi môn cơ thể học vào tuần sau. = The students have to take an anatomy exam next week."
+  }
+ ]
+}

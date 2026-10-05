@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "xe điện bánh hơi",
+  "xe điện đụng",
+  "xe đò",
+  "xe đẩy",
+  "xe-lô",
+  "xenon",
+  "xeo giấy",
+  "xeri",
+  "xesi",
+  "xeton",
+  "xi-lanh",
+  "xi-líp",
+  "xi-măng",
+  "xi-nê",
+  "xi-rô",
+  "xi-ta",
+  "xi-vin",
+  "xin chào",
+  "xin việc",
+  "xinh xẻo",
+  "xiên bẩn",
+  "xiêu",
+  "xiếm",
+  "xiển dương",
+  "xiệp",
+  "xoan",
+  "xoay quanh",
+  "xoe",
+  "xong phim",
+  "xoài hôi",
+  "xoá",
+  "xoá bỏ",
+  "xoá sổ",
+  "xoã",
+  "xoè",
+  "xoạc",
+  "xoảng",
+  "xoắn xuýt",
+  "xu xoa",
+  "xu-chiêng"
+ ],
+ "flags": [
+  {
+   "headword": "xenon",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines xenon instead of showing it in use.",
+   "fix": "Đèn này dùng khí xenon. = This lamp uses xenon gas."
+  },
+  {
+   "headword": "xeri",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines cerium instead of showing it in use.",
+   "fix": "Mẫu này chứa một lượng nhỏ xeri. = This sample contains a small amount of cerium."
+  },
+  {
+   "headword": "xu xoa",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This regional name for seaweed jelly needs a Central tag, as illustrated by [Ca dao Mẹ](https://cadao.me/may-sao-gap-mu-xu-xoa/).",
+   "fix": "tags: [Central]"
+  }
+ ]
+}

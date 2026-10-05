@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "hiến chương",
+  "hậu phẫu",
+  "rét",
+  "an dưỡng",
+  "cá ông",
+  "sủng ái",
+  "đấu khẩu",
+  "vong linh",
+  "ăn chia",
+  "chứng tích",
+  "tếch",
+  "ổ gà",
+  "đu đủ",
+  "kèm cặp",
+  "mộ đạo",
+  "quản giáo",
+  "rừng rú",
+  "gọn ghẽ",
+  "ngây ngô",
+  "riu",
+  "oi",
+  "vàng ròng",
+  "điều phối viên",
+  "ăn khách",
+  "nay mai",
+  "gầy nhom",
+  "hẹp hòi",
+  "êm ấm",
+  "bọ hung",
+  "bạn đọc",
+  "hằn học",
+  "bảy mươi",
+  "choảng",
+  "quy chế",
+  "thuyền phó",
+  "vừa ý",
+  "thường thức",
+  "phối",
+  "chồi",
+  "u uất"
+ ],
+ "flags": [
+  {
+   "headword": "cá ông",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "The term is also established in Southern coastal communities, so Central alone is misleading ([Bà Rịa–Vũng Tàu Museum](https://www.baotangbrvt.org.vn/tuc-tho-ca-ong-cua-ngu-dan-br-vt/)).",
+   "fix": "[Central, Southern, honorific]"
+  },
+  {
+   "headword": "tếch",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "The colloquial verb meaning 'to clear off' is the sense learners are most likely to encounter in ordinary conversation.",
+   "fix": "Put sense 2 first, followed by senses 1, 3 and 4."
+  },
+  {
+   "headword": "tếch",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This old nautical sense denotes the bottom of a boat, not its stern ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/t%E1%BA%BFch)).",
+   "fix": "bottom of a boat"
+  },
+  {
+   "headword": "tếch",
+   "sense": 4,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example incorrectly treats tếch as the stern where the boatman stands ([Vietnamese dictionary](https://vi.wiktionary.org/wiki/t%E1%BA%BFch)).",
+   "fix": "Nặng bồng nhẹ tếch. = Heavy at the top, light at the bottom."
+  },
+  {
+   "headword": "rừng rú",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the familiar disparaging adjective meaning 'uncivilized; savage', used of behavior ([usage example](https://tuoitre.vn/nld/doi-song-tinh-thanh/thu-choi-man-ro-cua-nhung-nguoi-co-tien-20180318173135286.htm)).",
+   "fix": "adj [derogatory] | uncivilized; savage (of behavior)"
+  },
+  {
+   "headword": "riu",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A riu is a woven bamboo implement pushed through water to catch shrimp, rather than a trap set and left in place ([Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-riu)).",
+   "fix": "woven bamboo scoop pushed through water to catch small shrimp"
+  },
+  {
+   "headword": "riu",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "high",
+   "why": "The example depicts setting a stationary trap instead of pushing the riu through water ([Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-riu)).",
+   "fix": "Ông đẩy cái riu dưới nước để bắt tép. = He pushed the bamboo scoop through the water to catch small shrimp."
+  },
+  {
+   "headword": "riu",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The parenthetical explanation wrongly identifies the implement used for this action as a trap ([Vietnamese dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-riu)).",
+   "fix": "to catch small shrimp by pushing a woven bamboo scoop through water"
+  }
+ ]
+}

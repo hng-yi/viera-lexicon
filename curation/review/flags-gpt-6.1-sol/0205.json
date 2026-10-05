@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "ống nhòm",
+  "chinh phạt",
+  "Hi Lạp",
+  "xạ trị",
+  "ứng phó",
+  "cảnh quan",
+  "công chức",
+  "thứ năm",
+  "hễ",
+  "tinh chỉnh",
+  "tinh ranh",
+  "kết nạp",
+  "hột",
+  "hậu cung",
+  "bạo ngược",
+  "nhà nghề",
+  "dỗ",
+  "đại pháo",
+  "thái dương",
+  "kĩ càng",
+  "lúa mì",
+  "dạ tiệc",
+  "chứng giám",
+  "phong lan",
+  "gia sản",
+  "đại sự",
+  "tội trạng",
+  "xâm hại",
+  "tháng giêng",
+  "thiu",
+  "tân tiến",
+  "rầm",
+  "bạch tạng",
+  "lí tưởng",
+  "then",
+  "điều phối",
+  "giang mai",
+  "an nguy",
+  "tà thuật",
+  "lưu luyến"
+ ],
+ "flags": [
+  {
+   "headword": "chinh phạt",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This military sense belongs to formal or literary language and needs a register warning.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "bạo ngược",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word is formal or literary rather than an ordinary casual adjective for cruelty.",
+   "fix": "Add the tag literary."
+  },
+  {
+   "headword": "nhà nghề",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "Learners will commonly encounter nhà nghề as an adjective describing professional players, performers or activities.",
+   "fix": "Add an adjective sense: professional, with the example “Anh ấy là một võ sĩ nhà nghề.” = “He is a professional boxer.”"
+  }
+ ]
+}

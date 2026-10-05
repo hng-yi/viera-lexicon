@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "ác",
+  "khử",
+  "nhận dạng",
+  "dẫn đầu",
+  "thận trọng",
+  "thơm",
+  "vịnh",
+  "mong chờ",
+  "biên tập",
+  "siêu nhân",
+  "gạch",
+  "cứu hộ",
+  "đựng",
+  "nhầm lẫn",
+  "Văn Hóa",
+  "văn hóa",
+  "bọ",
+  "thủng",
+  "cản trở",
+  "tổ tiên",
+  "ngắt",
+  "phạm vi",
+  "kí ức",
+  "tàn nhẫn",
+  "đồng đội",
+  "vay",
+  "số lượng",
+  "đè",
+  "tuân",
+  "rạp",
+  "công cộng",
+  "toàn cầu",
+  "đau lòng",
+  "yêu quái",
+  "giải tán",
+  "quan",
+  "chăng",
+  "định vị",
+  "nhảm nhí",
+  "cách mạng"
+ ],
+ "flags": [
+  {
+   "headword": "ác",
+   "sense": 8,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This loom component supports the heddle cords, rather than holding the weft thread ([dictionary](https://www.thuvienlamdong.org.vn/Files/Books/53119.pdf)).",
+   "fix": "Gloss: wooden loom component, often crow-shaped, used to attach the heddle cords; example: Cái ác ở khung cửi có hình con quạ. = The wooden heddle support on the loom is shaped like a crow."
+  },
+  {
+   "headword": "khử",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the familiar colloquial meaning of killing or eliminating someone ([dictionary](https://loigiaihay.com/tu-dien-tv/khu-eT5Vq6fpGhgwG.html)).",
+   "fix": "Add verb [colloquial]: to kill; to eliminate (someone)."
+  },
+  {
+   "headword": "thơm",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Thơm can describe a kiss between romantic partners, so 'without romance' is a false restriction.",
+   "fix": "to kiss affectionately"
+  },
+  {
+   "headword": "thơm",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The affectionate verb means to kiss, not a separate act of sniffing someone's hair ([dictionary](https://vi.wiktionary.org/wiki/th%C6%A1m)).",
+   "fix": "Merge into sense 3 and translate the example as: Grandma bent down and kissed her little grandchild's hair."
+  },
+  {
+   "headword": "vịnh",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The literary sense is a verb meaning to compose poetry about something, rather than the name of a poem genre ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-v%E1%BB%8Bnh)).",
+   "fix": "verb [literary] | to compose a poem about a scene or subject; example: Nhà thơ vịnh cảnh mùa xuân. = The poet composes a poem about the spring scenery."
+  },
+  {
+   "headword": "số lượng",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "Đông describes the guests themselves, whereas số lượng requires a quantity adjective such as lớn.",
+   "fix": "Số lượng khách hôm nay rất lớn. = The number of guests today is very large."
+  },
+  {
+   "headword": "chăng",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the everyday verb used in expressions such as chăng màn, chăng dây and nhện chăng tơ ([dictionary](https://vtudien.com/viet-viet/dictionary/nghia-cua-tu-ch%C4%83ng)).",
+   "fix": "Add verb: to stretch out; to string up (a net, cord or mosquito net); example: Nhện chăng tơ. = The spider spins its web."
+  },
+  {
+   "headword": "chăng",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "The concessive construction chăng nữa remains common in contemporary Vietnamese and is misleadingly tagged rare.",
+   "fix": "Remove the rare tag."
+  }
+ ]
+}

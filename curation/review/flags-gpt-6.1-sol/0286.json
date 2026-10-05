@@ -1,0 +1,118 @@
+{
+ "headwords": [
+  "nội thành",
+  "nhơ bẩn",
+  "nhập môn",
+  "đối đáp",
+  "dào",
+  "quẩn",
+  "khuyển",
+  "biến loạn",
+  "tăng động",
+  "bù trừ",
+  "địa chủ",
+  "chuyển ngữ",
+  "bánh ngọt",
+  "hổ lốn",
+  "xìu",
+  "muôn thuở",
+  "tình địch",
+  "ảo mộng",
+  "dung lượng",
+  "ngổn ngang",
+  "quĩ",
+  "nham",
+  "tuyệt sắc",
+  "chính trường",
+  "ná",
+  "gàu",
+  "luật định",
+  "mẫn cảm",
+  "kì bí",
+  "tâm sức",
+  "mười sáu",
+  "bảng đen",
+  "neon",
+  "bất hảo",
+  "tra vấn",
+  "sít sao",
+  "toang",
+  "sấu",
+  "sôi máu",
+  "clo"
+ ],
+ "flags": [
+  {
+   "headword": "nhơ bẩn",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Nhơ bẩn is not specifically Northern Vietnamese.",
+   "fix": "Remove Northern."
+  },
+  {
+   "headword": "đối đáp",
+   "sense": 1,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Answers back suggests disrespect, whereas the Vietnamese example praises the girl's quick replies.",
+   "fix": "The little girl responds very quick-wittedly when talking with adults."
+  },
+  {
+   "headword": "quẩn",
+   "sense": 2,
+   "problem": "bad_translation",
+   "severity": "high",
+   "why": "Nghĩ quẩn means thinking irrationally out of despair, potentially about self-harm, rather than simply brooding in circles ([dictionary](https://www.rung.vn/dict/vn_vn/Qu%E1%BA%A9n)).",
+   "fix": "Don't think of doing anything rash; everything will be fine."
+  },
+  {
+   "headword": "chuyển ngữ",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Chuyển ngữ is a formal term for translating, so the untagged gloss misleadingly presents it as an ordinary conversational verb.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "ngổn ngang",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The common use for tangled, overwhelming thoughts or feelings is missing ([dictionary](https://tudientv.com/?t=ng%E1%BB%95n+ngang)).",
+   "fix": "Add: tangled; confused and overwhelming (of thoughts or feelings)."
+  },
+  {
+   "headword": "ná",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "Ná meaning slingshot is primarily Southern usage.",
+   "fix": "Add Southern."
+  },
+  {
+   "headword": "mẫn cảm",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Mẫn cảm is a formal term particularly associated with medical and scientific contexts.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "sít sao",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This sense concerns a tight, continuous schedule with no spare time, not promptness or lack of hesitation ([dictionary](https://tudientv.com/?t=s%C3%ADt+sao)).",
+   "fix": "tightly scheduled; continuous, with no spare time"
+  },
+  {
+   "headword": "sấu",
+   "sense": 0,
+   "problem": "order",
+   "severity": "medium",
+   "why": "Learners are more likely to encounter sấu as the fruit than as a shortened form of cá sấu.",
+   "fix": "Put the fruit sense first, the tree sense second, and the crocodile sense third."
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "kì tích",
+  "sạch bách",
+  "rón rén",
+  "chật ních",
+  "đa cấp",
+  "cưới xin",
+  "phù du",
+  "chợ trời",
+  "giờ hành chính",
+  "khấn",
+  "giạt",
+  "om sòm",
+  "chính tông",
+  "đêm đêm",
+  "khấc",
+  "tu hành",
+  "lạm quyền",
+  "vạc",
+  "nhà thi đấu",
+  "cực hình",
+  "chổng",
+  "mách nước",
+  "nương thân",
+  "cà kheo",
+  "sứt mẻ",
+  "giá rét",
+  "đả động",
+  "bánh trung thu",
+  "vi sinh vật",
+  "híp",
+  "nghiên cứu sinh",
+  "nạy",
+  "thiên địa hội",
+  "gia công",
+  "thụ tinh nhân tạo",
+  "thống",
+  "thành tố",
+  "hoạn nạn",
+  "dẫn dụ",
+  "công cán"
+ ],
+ "flags": [
+  {
+   "headword": "thành tố",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a formal or technical word, so leaving it untagged misleadingly presents it as ordinary casual vocabulary.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "công cán",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In this sense, công cán means merit or accomplishment, not a reward received for one's effort.",
+   "fix": "merit; accomplishment; contribution (usually in negative statements)"
+  }
+ ]
+}

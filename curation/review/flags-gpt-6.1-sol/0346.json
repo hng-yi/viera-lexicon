@@ -1,0 +1,126 @@
+{
+ "headwords": [
+  "nhếch",
+  "tiểu ban",
+  "nò",
+  "nước cất",
+  "phụ lòng",
+  "hữu hạn",
+  "cổ thực vật học",
+  "nước tương",
+  "tê buốt",
+  "phồn thịnh",
+  "ác chiến",
+  "bá vương",
+  "vành móng ngựa",
+  "huyết khối",
+  "cào cấu",
+  "điếng",
+  "chân ướt chân ráo",
+  "nghiêm minh",
+  "chọc tiết",
+  "máu mặt",
+  "nicotin",
+  "siêng",
+  "hoạt bát",
+  "nào ngờ",
+  "ti chức",
+  "cầm chừng",
+  "cơ địa",
+  "thô ráp",
+  "phù nề",
+  "phẩm vật",
+  "ác ôn",
+  "Tết Âm lịch",
+  "ăn đứt",
+  "điện cơ",
+  "địa hạt",
+  "túm tụm",
+  "cổ ngữ",
+  "luyện kim",
+  "thếp",
+  "hoa khôi"
+ ],
+ "flags": [
+  {
+   "headword": "cổ thực vật học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines paleobotany instead of showing the term in use.",
+   "fix": "Cô ấy chọn cổ thực vật học làm lĩnh vực nghiên cứu. = She chose paleobotany as her field of research."
+  },
+  {
+   "headword": "vành móng ngựa",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The general expression for a horseshoe shape is hình móng ngựa; vành móng ngựa refers to the courtroom dock.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "điếng",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Điếng describes being stunned or numb with shock, rather than causing someone else to become stunned.",
+   "fix": "to be stunned; to go numb with shock"
+  },
+  {
+   "headword": "chọc tiết",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "Chọc tiết does not have an established meaning of ruthlessly exploiting or ravaging resources.",
+   "fix": "Remove sense 2."
+  },
+  {
+   "headword": "ác ôn",
+   "sense": 1,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Calling someone ác ôn is derogatory and needs a warning label.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "ác ôn",
+   "sense": 2,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "Ác ôn is a derogatory description of a person, rather than a neutral adjective.",
+   "fix": "Add the tag derogatory."
+  },
+  {
+   "headword": "ác ôn",
+   "sense": 3,
+   "problem": "missing_warning",
+   "severity": "high",
+   "why": "This historical political label is derogatory.",
+   "fix": "Use the tags historical, derogatory."
+  },
+  {
+   "headword": "địa hạt",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Địa hạt is formal vocabulary for a territorial jurisdiction and is not an ordinary casual word for a district.",
+   "fix": "Add the tag formal."
+  },
+  {
+   "headword": "địa hạt",
+   "sense": 2,
+   "problem": "register",
+   "severity": "medium",
+   "why": "Địa hạt meaning a field or domain belongs to formal writing and speech.",
+   "fix": "Use the tags formal, figurative."
+  },
+  {
+   "headword": "hoa khôi",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Hoa khôi remains a current title used in Vietnamese beauty contests.",
+   "fix": "Remove the tag dated."
+  }
+ ]
+}

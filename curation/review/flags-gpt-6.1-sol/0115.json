@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "cao thủ",
+  "trình độ",
+  "thể loại",
+  "thực hành",
+  "tuổi thơ",
+  "giả tạo",
+  "khẩu hiệu",
+  "xạ thủ",
+  "làm thịt",
+  "buồn bã",
+  "đèn đỏ",
+  "lục địa",
+  "thất thủ",
+  "ngọc trai",
+  "nhạo",
+  "lạc đà",
+  "vá",
+  "lương thiện",
+  "quất",
+  "mến",
+  "chùa",
+  "sáng chế",
+  "xe máy",
+  "bô",
+  "song sinh",
+  "tinh khiết",
+  "gia vị",
+  "nghị viện",
+  "nhà nước",
+  "tàn tật",
+  "vần",
+  "rên rỉ",
+  "khả nghi",
+  "mặt mày",
+  "xưng tội",
+  "buồn nôn",
+  "bộ binh",
+  "nhì",
+  "khiếu nại",
+  "nhấn mạnh"
+ ],
+ "flags": [
+  {
+   "headword": "trình độ",
+   "sense": 2,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "This adjectival use is colloquial rather than rare, as recorded in the [dictionary entry](https://tudientv.com/?t=tr%C3%ACnh+%C4%91%E1%BB%99).",
+   "fix": "Replace [rare] with [colloquial]."
+  },
+  {
+   "headword": "vần",
+   "sense": 3,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "A rime is part of a syllable, so adding 'syllable' teaches learners to confuse the part with the whole.",
+   "fix": "rime (the part of a syllable after the initial consonant)"
+  },
+  {
+   "headword": "vần",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the rime of bàn instead of showing the word in use.",
+   "fix": "Cô giáo cho cả lớp tập đọc vần an. = The teacher had the whole class practise reading the rime an."
+  },
+  {
+   "headword": "vần",
+   "sense": 4,
+   "problem": "register",
+   "severity": "medium",
+   "why": "The meaning 'line of poetry' belongs to literary usage rather than colloquial speech, as shown in the [dictionary entry](https://vdict.com/v%E1%BA%A7n,3,0,0.html).",
+   "fix": "Replace [colloquial] with [literary]."
+  },
+  {
+   "headword": "vần",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "In học vần, vần concerns blending sounds to read, whereas the letter sense concerns alphabetical ordering, as distinguished in the [dictionary entry](https://vdict.com/v%E1%BA%A7n,3,0,0.html).",
+   "fix": "letter used in alphabetical ordering; ex: Danh sách được xếp theo vần A, B, C. = The list is arranged alphabetically."
+  },
+  {
+   "headword": "vần",
+   "sense": 5,
+   "problem": "bad_translation",
+   "severity": "medium",
+   "why": "Học vần means learning to read by sounding out and blending sounds, rather than simply learning individual letters.",
+   "fix": "She is learning to read through phonics in first grade."
+  }
+ ]
+}

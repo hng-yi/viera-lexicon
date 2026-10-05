@@ -1,0 +1,94 @@
+{
+ "headwords": [
+  "tủy sống",
+  "tủy xương",
+  "tứ cố vô thân",
+  "tứ diện",
+  "tứ dân",
+  "tứ giác",
+  "tứ hải giai huynh đệ",
+  "tứ kết",
+  "tứ nghệ",
+  "tứ phía",
+  "tứ thiết",
+  "tứ thời",
+  "tứ trụ",
+  "tứ tuyệt",
+  "tứ đại mĩ nhân",
+  "tứ đức",
+  "tức bực",
+  "tức cười",
+  "tức cảnh sinh tình",
+  "tức nhiên",
+  "tức nước vỡ bờ",
+  "tức tưởi",
+  "tức vị",
+  "từ bi",
+  "từ chương",
+  "từ cổ chí kim",
+  "từ ghép",
+  "từ hoá",
+  "từ khi",
+  "từ khoá",
+  "từ khóa",
+  "từ láy",
+  "từ lóng",
+  "từ mượn",
+  "từ mẫu",
+  "từ ngoại lai",
+  "từ nguyên",
+  "từ nguyên học",
+  "từ pháp",
+  "từ phản nghĩa"
+ ],
+ "flags": [
+  {
+   "headword": "tứ diện",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines a tetrahedron instead of using the word in context.",
+   "fix": "Em chưa biết cách tính thể tích khối tứ diện này. = I don't yet know how to calculate the volume of this tetrahedron."
+  },
+  {
+   "headword": "tứ hải giai huynh đệ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example quotes and explains the saying instead of using it in a situation.",
+   "fix": "Anh cứ ở lại đây với chúng tôi; tứ hải giai huynh đệ mà. = Do stay here with us; we're all brothers, after all."
+  },
+  {
+   "headword": "tứ trụ",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the expression names instead of using it to refer to the leaders.",
+   "fix": "Cuộc họp có sự tham dự của tứ trụ. = The meeting was attended by Vietnam's four top leaders."
+  },
+  {
+   "headword": "tứ trụ",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the historical title instead of using it in context.",
+   "fix": "Vua triệu tứ trụ triều đình vào cung để bàn việc nước. = The king summoned the court's four highest ministers to the palace to discuss affairs of state."
+  },
+  {
+   "headword": "tứ tuyệt",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what a four-line poem is called instead of using the term in context.",
+   "fix": "Cô ấy vừa viết một bài thơ tứ tuyệt. = She has just written a jueju poem."
+  },
+  {
+   "headword": "từ nguyên học",
+   "sense": 1,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines etymology instead of using the name of the discipline in context.",
+   "fix": "Cô ấy muốn tìm một cuốn sách về từ nguyên học. = She wants to find a book about etymology."
+  }
+ ]
+}

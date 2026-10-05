@@ -1,0 +1,110 @@
+{
+ "headwords": [
+  "mẹc",
+  "rén",
+  "hiểm trở",
+  "thủ môn",
+  "đối xứng",
+  "gác xép",
+  "gai ốc",
+  "sắc thái",
+  "hạ sinh",
+  "vi mô",
+  "tồn",
+  "quy",
+  "đăng tải",
+  "mù tạt",
+  "rục",
+  "động chạm",
+  "tóc tai",
+  "bọ ngựa",
+  "thành kính",
+  "gà cồ",
+  "ngấy",
+  "nức nở",
+  "mửa",
+  "game thủ",
+  "dự thảo",
+  "khao",
+  "nắm đấm",
+  "nguyên cớ",
+  "trũng",
+  "đánh đòn",
+  "phóng đãng",
+  "vương giả",
+  "mủi lòng",
+  "xua tan",
+  "đại lễ",
+  "thần dược",
+  "hôn quân",
+  "buồn bực",
+  "kiệt xuất",
+  "ve"
+ ],
+ "flags": [
+  {
+   "headword": "quy",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the letter name instead of using it.",
+   "fix": "Tên em bắt đầu bằng chữ quy. = My name begins with the letter Q."
+  },
+  {
+   "headword": "quy",
+   "sense": 3,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains the digraph's name instead of using it.",
+   "fix": "Em quên viết chữ quy trong từ “quê”. = I forgot to write the digraph qu in the word “quê”."
+  },
+  {
+   "headword": "quy",
+   "sense": 5,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "This meaning denotes a playing-card jack, not a lifting device, as recorded in [Wiktionary](https://en.wiktionary.org/wiki/quy#Vietnamese).",
+   "fix": "jack (playing card); example: Anh ấy đánh xuống một con quy. = He played a jack."
+  },
+  {
+   "headword": "rục",
+   "sense": 2,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The restricted meaning equated with rũ concerns physical deterioration, not casting off worries, as shown by [the dictionary examples](https://vi.wiktionary.org/wiki/r%E1%BB%A5c).",
+   "fix": "Remove this sense and its example."
+  },
+  {
+   "headword": "động chạm",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "high",
+   "why": "The entry omits the common meaning of physically touching someone or something.",
+   "fix": "to touch; to come into physical contact with; example: Đừng động chạm vào người tôi. = Don't touch me."
+  },
+  {
+   "headword": "thành kính",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This word belongs to solemn, formal expressions of respect and needs a register warning.",
+   "fix": "Add formal."
+  },
+  {
+   "headword": "gà cồ",
+   "sense": 1,
+   "problem": "region",
+   "severity": "medium",
+   "why": "This usage is regional to Central and Southern Vietnamese, documented in the [Huế dialect dictionary](https://khungcuahep.com/wp-content/uploads/2017/09/T%E1%BB%AB-%C4%90i%E1%BB%83n-Ph%C6%B0%C6%A1ng-Ng%E1%BB%AF-Hu%E1%BA%BF-Tr%E1%BA%A7n-Ng%E1%BB%8Dc-B%E1%BA%A3o.pdf).",
+   "fix": "Add Central and Southern."
+  },
+  {
+   "headword": "hôn quân",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This is a literary term for a ruler and needs a register warning.",
+   "fix": "Add literary."
+  }
+ ]
+}

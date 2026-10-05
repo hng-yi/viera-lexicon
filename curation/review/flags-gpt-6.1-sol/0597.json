@@ -1,0 +1,70 @@
+{
+ "headwords": [
+  "tác động vật lí",
+  "tách rời",
+  "tái thẩm",
+  "tái tục",
+  "tám hoánh",
+  "tám kiếp",
+  "tám đời vương",
+  "tán hươu tán vượn",
+  "tán thán",
+  "tán thủ",
+  "tán tỉnh",
+  "tán đả",
+  "táng tận lương tâm",
+  "táo mèo",
+  "táo ta",
+  "táo tàu",
+  "táo tây",
+  "táp lô",
+  "táp đờ luy",
+  "táu",
+  "tâm bệnh học",
+  "tâm cao khí ngạo",
+  "tâm chí",
+  "tâm khảm",
+  "tâm lực",
+  "tâm phục",
+  "tâm phục khẩu phục",
+  "tâm sinh lí",
+  "tâm thu",
+  "tâm thần phân liệt",
+  "tâm thế",
+  "tâm truyền",
+  "tâm trương",
+  "tân chủ tịch",
+  "tân cổ điển",
+  "tân cử",
+  "tân cử tổng thống",
+  "tân học",
+  "tân khổ",
+  "tân kiến tạo"
+ ],
+ "flags": [
+  {
+   "headword": "tâm cao khí ngạo",
+   "sense": 1,
+   "problem": "register",
+   "severity": "medium",
+   "why": "This expression belongs to literary language, especially translated historical fiction, and the missing warning invites unnatural casual use; see the [published example](https://en.wiktionary.org/wiki/t%C3%A2m_cao_kh%C3%AD_ng%E1%BA%A1o).",
+   "fix": "tags: literary, idiomatic"
+  },
+  {
+   "headword": "tâm sinh lí",
+   "sense": 2,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example explains what the discipline studies instead of showing the word used in a situation.",
+   "fix": "Bài nghiên cứu này thuộc lĩnh vực tâm sinh lí. = This study belongs to the field of psychophysiology."
+  },
+  {
+   "headword": "tân chủ tịch",
+   "sense": 1,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The phrase means a new president or chairperson and does not imply that they have yet to take office, as shown by [official usage at an inauguration](https://baochinhphu.vn/tu-chieu-nay-21-5-quoc-hoi-tien-hanh-quy-trinh-bau-chu-tich-nuoc-102240521100035727.htm).",
+   "fix": "new president or chairperson"
+  }
+ ]
+}

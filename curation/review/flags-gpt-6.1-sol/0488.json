@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "không-thời gian",
+  "khùng khục",
+  "khúc chiết",
+  "khúc côn cầu",
+  "khúc khuỷu",
+  "khúm na khúm núm",
+  "khăn giấy",
+  "khăn mỏ quạ",
+  "khăn piêu",
+  "khăn rằn",
+  "khăn san",
+  "khăn tay",
+  "khăn vấn",
+  "khăn ăn",
+  "khăn đóng",
+  "khư",
+  "khạng",
+  "khạng nạng",
+  "khả biến",
+  "khả kiến",
+  "khải hoàn môn",
+  "khải thư",
+  "khảnh ăn",
+  "khảo chứng",
+  "khảo dị",
+  "khảo thí",
+  "khảo đính",
+  "khấn khứa",
+  "khấn vái",
+  "khấp khểnh",
+  "khấp khởi",
+  "khất sĩ",
+  "khấu đầu",
+  "khẩu Phật tâm xà",
+  "khẩu chiến",
+  "khẩu cầm",
+  "khẩu nghiệp",
+  "khẩu ngữ",
+  "khẩu phục",
+  "khật khà khật khưỡng"
+ ],
+ "flags": [
+  {
+   "headword": "khảo thí",
+   "sense": 1,
+   "problem": "currency",
+   "severity": "medium",
+   "why": "Educational testing remains a current use of khảo thí, as shown by the university’s active [Trung tâm Khảo thí](https://khaothi.hnue.edu.vn/vi), so dated is misleading.",
+   "fix": "Replace dated with formal."
+  },
+  {
+   "headword": "khẩu nghiệp",
+   "sense": 0,
+   "problem": "missing_meaning",
+   "severity": "medium",
+   "why": "The entry omits the common colloquial use meaning to say nasty or malicious things, illustrated in [VOV’s discussion of everyday usage](https://vovgiaothong.vn/newsaudio/nghiep-tu-vanh-moi-d30390.html).",
+   "fix": "verb [colloquial] | to say nasty or malicious things; ex: Đừng khẩu nghiệp nữa. = Stop saying nasty things."
+  }
+ ]
+}

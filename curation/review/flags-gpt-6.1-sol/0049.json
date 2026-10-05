@@ -1,0 +1,62 @@
+{
+ "headwords": [
+  "lùn",
+  "quê",
+  "bậc",
+  "đại tướng",
+  "cưỡi",
+  "sát hại",
+  "xấu xa",
+  "chắc hẳn",
+  "hồng",
+  "tình cờ",
+  "sản xuất",
+  "tự tử",
+  "cụ thể",
+  "che",
+  "mật mã",
+  "dễ chịu",
+  "nghe nói",
+  "sổ",
+  "đòn",
+  "liên minh",
+  "âm nhạc",
+  "tốt bụng",
+  "thỏ",
+  "cung",
+  "luyện tập",
+  "kết hợp",
+  "nhiên liệu",
+  "y như",
+  "nguyền rủa",
+  "có thai",
+  "cố ý",
+  "môn",
+  "trật tự",
+  "xài",
+  "cò",
+  "cảng",
+  "huyền thoại",
+  "báu",
+  "móng",
+  "chứng tỏ"
+ ],
+ "flags": [
+  {
+   "headword": "bậc",
+   "sense": 4,
+   "problem": "wrong_meaning",
+   "severity": "high",
+   "why": "The parenthetical incorrectly says 'the power of an exponent', whereas bậc identifies the exponent of a power ([lesson](https://vinastudy.vn/huong-dan-giai-toan-lop-6-chu-de-luy-thua-voi-so-mu-tu-nhien-b272.html)).",
+   "fix": "degree; order (in mathematics: the exponent of a power, the index of a root, the degree of an equation)"
+  },
+  {
+   "headword": "cung",
+   "sense": 6,
+   "problem": "bad_example",
+   "severity": "medium",
+   "why": "The example defines the word instead of showing it in use.",
+   "fix": "Trong bản nhạc này, âm cung được nhấn mạnh. = In this piece, the cung note is emphasized."
+  }
+ ]
+}

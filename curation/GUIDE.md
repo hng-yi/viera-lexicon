@@ -57,6 +57,18 @@ meanings you are sure of and that are common; never add rare, archaic or technic
 never add a meaning that only exists inside a compound (that belongs to the compound's own
 entry). List the keys you added in `notes` so a human can find them.
 
+**Adding a missing headword.** Explicitly request it with
+`uv run python scripts/curate_lexicon.py pick WORD...` from Viera's `back-end/`,
+with `CURATION_DIR` pointing here if necessary. The tool uses the pinned raw
+Wiktionary parse, not the curated dictionary. If the headword has no parsed senses,
+its batch has empty `senses` and `examples`, and `base` fingerprints that empty list.
+Keep that base, use only keyed `from: []` additions with written bilingual examples,
+and list the added keys and provenance in `notes`. The same editorial rules apply.
+If Wiktionary later gains senses, the empty-base review fails validation and must
+be reviewed again; it never overwrites new meanings silently. If a headword is
+already claimed in `todo/`, edit its existing `done/` line instead of duplicating it.
+Build the complete release with `build OUT.jsonl.gz`, including those edits.
+
 Check your file with `uv run python scripts/curate_lexicon.py check NNNN` from Viera's
 `back-end/` and fix every error. Read every warning and fix it unless you have a reason.
 

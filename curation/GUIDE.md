@@ -76,6 +76,8 @@ Check your file with `uv run python scripts/curate_lexicon.py check NNNN` from V
 
 Write what the word means, the way a good learner's dictionary would.
 
+- A gloss may be our own short phrase that gives the gist of the sense for a beginner; it can
+  be a little narrower than the source. No grammar terms a beginner may not know.
 - Plain, current English. Two to four close equivalents separated by `; ` when one word is not
   enough: `to know; to realise`. Not a list of every near-synonym.
 - Verbs start with `to`. Nouns without an article unless it is needed (`a saw` is fine, but
@@ -84,7 +86,7 @@ Write what the word means, the way a good learner's dictionary would.
 - A short parenthesis may say what the gloss alone cannot: the object of a verb, the domain,
   or how the word differs from a near-synonym. `to roast (in a dry pan)`. Keep it short.
 - Function words (particles, pronouns, classifiers, conjunctions) get a gloss that says what
-  the word does: `final particle softening a request`; `classifier for animals and some
+  the word does: `polite ending that softens a request`; `counting word for animals and some
   objects`; `I, me (friendly, between equals)`.
 - Pronouns and kinship terms: give the relationship and when it is used, e.g. `older brother;
   you (to an older man, or a husband)`.

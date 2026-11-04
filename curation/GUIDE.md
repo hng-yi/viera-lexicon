@@ -76,23 +76,27 @@ Check your file with `uv run python scripts/curate_lexicon.py check NNNN` from V
 
 Write what the word means, the way a good learner's dictionary would.
 
+- A gloss may be our own short phrase that gives the gist of the sense for a beginner; it can
+  be a little narrower than the source. No grammar terms a beginner may not know.
 - Plain, current English. Two to four close equivalents separated by `; ` when one word is not
   enough: `to know; to realise`. Not a list of every near-synonym.
-- Verbs start with `to`. Nouns without an article unless it is needed (`a saw` is fine, but
-  prefer `saw (tool)`). Adjectives as adjectives. No full stop at the end.
+- Verbs start with `to`, unless a short everyday phrase is the natural gist for a beginner
+  (`hello; goodbye`, `thank you`). Nouns without an article unless it is needed (`a saw` is
+  fine, but prefer `saw (tool)`). Adjectives as adjectives. No full stop at the end.
 - Lowercase unless the word itself is capitalised in English (`Italian`, `Christmas`).
 - A short parenthesis may say what the gloss alone cannot: the object of a verb, the domain,
   or how the word differs from a near-synonym. `to roast (in a dry pan)`. Keep it short.
 - Function words (particles, pronouns, classifiers, conjunctions) get a gloss that says what
-  the word does: `final particle softening a request`; `classifier for animals and some
+  the word does: `polite ending that softens a request`; `counting word for animals and some
   objects`; `I, me (friendly, between equals)`.
 - Pronouns and kinship terms: give the relationship and when it is used, e.g. `older brother;
   you (to an older man, or a husband)`.
 - No Chinese characters, ever. No Vietnamese in the gloss except where it is the clearest way
   to point at a related word, and then with its meaning: `compare tốt (good, of quality)`.
-- Keep the meaning Wiktionary gives. You are correcting wording, not inventing meanings. If a
-  Wiktionary gloss is garbled, rewrite it from what the gloss, its tags and its examples show.
-  If you are not sure what it means, keep its wording close and say so in `notes`.
+- Keep the meaning Wiktionary gives; a gist may be a little narrower, as above. You are
+  correcting wording, not inventing meanings. If a Wiktionary gloss is garbled, rewrite it from
+  what the gloss, its tags and its examples show. If you are not sure what it means, keep its
+  wording close and say so in `notes`.
 - "synonym of X (“…”)" and "alternative form of X" senses: write the meaning itself, and
   mention X only if the difference matters (`colloquial form of …`).
 
